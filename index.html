@@ -70,6 +70,12 @@
       text-transform: uppercase;
     }
 
+    .cat-breaking {
+      background: #dc2626;
+      color: #ffffff;
+      animation: breakingPulse 1s infinite;
+    }
+
     .cat-weather {
       background: #1d4ed8;
       color: #eff6ff;
@@ -99,6 +105,12 @@
       background: #4b5563;
       color: #f9fafb;
     }
+
+    @keyframes breakingPulse {
+      0% { opacity: 1; }
+      50% { opacity: 0.65; }
+      100% { opacity: 1; }
+    }
   </style>
 </head>
 <body>
@@ -108,6 +120,34 @@
   <p>Feed URL: <code>https://fritoburrito.github.io/anchorage/feed.xml</code></p>
   <h2>Latest items</h2>
   <ul class="feed-list">
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-weather">Weather</span>
+        <small>Thu, 23 Apr 2026 14:49:41 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#today">Anchorage Weather: Today</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-weather">Weather</span>
+        <small>Thu, 23 Apr 2026 14:49:41 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight">Anchorage Weather: Tonight</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-weather">Weather</span>
+        <small>Thu, 23 Apr 2026 14:49:41 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#friday">Anchorage Weather: Friday</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-top">Top News</span>
+        <small>Thu, 23 Apr 2026 14:45:33 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&amp;at_campaign=rss">BBC Front Page: Rapist jailed for deliberate HIV infections</a></div>
+    </li>
         <li class="feed-item">
       <div class="item-top">
         <span class="cat-badge cat-weather">Weather</span>
@@ -135,27 +175,6 @@
         <small>Thu, 23 Apr 2026 14:16:45 GMT</small>
       </div>
       <div class="item-title"><a href="https://www.bbc.com/news/articles/cvg090pe65vo?at_medium=RSS&amp;at_campaign=rss">BBC Front Page: Three men guilty of 'callous' Brighton beach rape</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-weather">Weather</span>
-        <small>Thu, 23 Apr 2026 14:04:47 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#today">Anchorage Weather: Today</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-weather">Weather</span>
-        <small>Thu, 23 Apr 2026 14:04:47 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight">Anchorage Weather: Tonight</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-weather">Weather</span>
-        <small>Thu, 23 Apr 2026 14:04:47 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#friday">Anchorage Weather: Friday</a></div>
     </li>
         <li class="feed-item">
       <div class="item-top">
@@ -205,13 +224,6 @@
         <small>Thu, 23 Apr 2026 09:22:23 -0400</small>
       </div>
       <div class="item-title"><a href="https://abcnews.com/Business/wireStory/trump-reclassifies-state-licensed-medical-marijuana-dangerous-drug-132308155">ABC Business: Trump reclassifies state-licensed medical marijuana as a less-dangerous drug in a historic shift</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-business">Business</span>
-        <small>Thu, 23 Apr 2026 08:55:15 -0400</small>
-      </div>
-      <div class="item-title"><a href="https://abcnews.com/Business/wireStory/us-jobless-claim-filings-rise-modestly-214000-week-132309448">ABC Business: US jobless claim filings rise modestly to 214,000 last week, remain at healthy levels</a></div>
     </li>
   </ul>
 </body>

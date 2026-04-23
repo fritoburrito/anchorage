@@ -5,7 +5,39 @@
     <link>https://fritoburrito.github.io/anchorage/</link>
     <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 14:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 14:49:41 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: Today</title>
+      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#today</link>
+      <guid isPermaLink="false">f18e984ce9b12e0324fe945b5f435f4ac8146639</guid>
+      <pubDate>Thu, 23 Apr 2026 14:49:41 GMT</pubDate>
+      <description><![CDATA[51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Tonight</title>
+      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight</link>
+      <guid isPermaLink="false">1e10de77447c60ebf664fc66aa2e9bcd6ebca452</guid>
+      <pubDate>Thu, 23 Apr 2026 14:49:41 GMT</pubDate>
+      <description><![CDATA[37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday</title>
+      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#friday</link>
+      <guid isPermaLink="false">8577b73b40b53ccafd5c73d594affe3e34e7a7e7</guid>
+      <pubDate>Thu, 23 Apr 2026 14:49:41 GMT</pubDate>
+      <description><![CDATA[48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>BBC Front Page: Rapist jailed for deliberate HIV infections</title>
+      <link>https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2ea47cfd64360db45f4b079e733df1659a99f94a</guid>
+      <pubDate>Thu, 23 Apr 2026 14:45:33 GMT</pubDate>
+      <description><![CDATA[A judge says Adam Hall took away the futures of his victims, including boys aged 15 and 17.]]></description>
+      <category>top</category>
+    </item>
     <item>
       <title>Anchorage Weather: Overnight</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#overnight</link>
@@ -37,30 +69,6 @@
       <pubDate>Thu, 23 Apr 2026 14:16:45 GMT</pubDate>
       <description><![CDATA[The men, who are all asylum seekers, had denied targeting the woman in the early hours of October 4.]]></description>
       <category>top</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today</title>
-      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#today</link>
-      <guid isPermaLink="false">f18e984ce9b12e0324fe945b5f435f4ac8146639</guid>
-      <pubDate>Thu, 23 Apr 2026 14:04:47 GMT</pubDate>
-      <description><![CDATA[51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight</title>
-      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight</link>
-      <guid isPermaLink="false">1e10de77447c60ebf664fc66aa2e9bcd6ebca452</guid>
-      <pubDate>Thu, 23 Apr 2026 14:04:47 GMT</pubDate>
-      <description><![CDATA[37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Friday</title>
-      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#friday</link>
-      <guid isPermaLink="false">8577b73b40b53ccafd5c73d594affe3e34e7a7e7</guid>
-      <pubDate>Thu, 23 Apr 2026 14:04:47 GMT</pubDate>
-      <description><![CDATA[48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
     </item>
     <item>
       <title>BBC World: Two trains collide head-on in Denmark, leaving five critically hurt</title>
@@ -127,6 +135,14 @@
       <category>business</category>
     </item>
     <item>
+      <title>BBC World: More than 500 people killed in Tanzania election violence, inquiry finds</title>
+      <link>https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">77785ebd0ee178a8859fdca08e08855cfc2e878b</guid>
+      <pubDate>Thu, 23 Apr 2026 12:28:29 GMT</pubDate>
+      <description><![CDATA[Opposition parties accused security forces but the official report does not say who was responsible.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>ABC Business: US military says it seizes another oil tanker associated with Iran</title>
       <link>https://abcnews.com/Business/wireStory/us-military-seizes-oil-tanker-iran-132307687</link>
       <guid isPermaLink="false">f4f2f718fba5361174b88fd388aba6d019a8c6eb</guid>
@@ -189,22 +205,6 @@
       <pubDate>Thu, 23 Apr 2026 08:37:14 GMT</pubDate>
       <description><![CDATA[Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>ABC Business: A look at China's behind-the-scenes role in Iran war diplomacy</title>
-      <link>https://abcnews.com/Business/wireStory/chinas-scenes-role-iran-war-diplomacy-132302444</link>
-      <guid isPermaLink="false">0f473125f5dc1a02841661ff84d6034843801890</guid>
-      <pubDate>Thu, 23 Apr 2026 04:21:33 -0400</pubDate>
-      <description><![CDATA[China's behind-the-scenes role in efforts to de-escalate the Iran conflict has been gaining attention]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>ABC Business: New York Times says FBI investigated reporter after article about director Kash Patel's girlfriend</title>
-      <link>https://abcnews.com/Business/wireStory/new-york-times-fbi-investigated-reporter-after-article-132297781</link>
-      <guid isPermaLink="false">0839bbf816f528bb8966d7c2c569f7d1d8deb2ae</guid>
-      <pubDate>Thu, 23 Apr 2026 02:50:58 -0400</pubDate>
-      <description><![CDATA[The New York Times says it has learned that the FBI investigated one of its reporters, Elizabeth Williamson, after she wrote about its agents being assigned to protect and transport the girlfriend of that agency's director, Kash Patel]]></description>
-      <category>business</category>
     </item>
   </channel>
 </rss>

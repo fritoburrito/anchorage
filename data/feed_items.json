@@ -1,25 +1,25 @@
 [
   {
-    "title": "Anchorage Weather: Overnight",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#overnight",
-    "description": "38°F | 10 mph | SE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. Southeast wind around 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 14:18:46 GMT",
-    "source": "NWS Anchorage",
-    "category": "weather"
-  },
-  {
-    "title": "Anchorage Weather: Thursday",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday",
+    "title": "Anchorage Weather: Today",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
     "description": "51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 14:18:46 GMT",
+    "pubDate": "Thu, 23 Apr 2026 14:49:41 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
   {
-    "title": "Anchorage Weather: Thursday Night",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday-night",
+    "title": "Anchorage Weather: Tonight",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight",
     "description": "37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Thu, 23 Apr 2026 14:18:46 GMT",
+    "pubDate": "Thu, 23 Apr 2026 14:49:41 GMT",
+    "source": "NWS Anchorage",
+    "category": "weather"
+  },
+  {
+    "title": "Anchorage Weather: Friday",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#friday",
+    "description": "48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.",
+    "pubDate": "Thu, 23 Apr 2026 14:49:41 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -64,18 +64,18 @@
     "category": "business"
   },
   {
-    "title": "BBC World: Trump administration reclassifies cannabis as less dangerous",
-    "link": "https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss",
-    "description": "Medical marijuana was moved into a lower category of drugs in order to increase research and access.",
-    "pubDate": "Thu, 23 Apr 2026 13:32:04 GMT",
-    "source": "BBC World",
-    "category": "world"
-  },
-  {
     "title": "BBC World: In Tehran, money is short and a return to war looms over daily life",
     "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
     "description": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
     "pubDate": "Thu, 23 Apr 2026 11:26:01 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: More than 500 people killed in Tanzania election violence, inquiry finds",
+    "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
+    "description": "Opposition parties accused security forces but the official report does not say who was responsible.",
+    "pubDate": "Thu, 23 Apr 2026 12:28:29 GMT",
     "source": "BBC World",
     "category": "world"
   },
@@ -120,10 +120,10 @@
     "category": "top"
   },
   {
-    "title": "BBC Front Page: Three men guilty of 'callous' Brighton beach rape",
-    "link": "https://www.bbc.com/news/articles/cvg090pe65vo?at_medium=RSS&at_campaign=rss",
-    "description": "The men, who are all asylum seekers, had denied targeting the woman in the early hours of October 4.",
-    "pubDate": "Thu, 23 Apr 2026 14:16:45 GMT",
+    "title": "BBC Front Page: Rapist jailed for deliberate HIV infections",
+    "link": "https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&at_campaign=rss",
+    "description": "A judge says Adam Hall took away the futures of his victims, including boys aged 15 and 17.",
+    "pubDate": "Thu, 23 Apr 2026 14:45:33 GMT",
     "source": "BBC Front Page",
     "category": "top"
   },
@@ -136,28 +136,44 @@
     "category": "top"
   },
   {
-    "title": "Anchorage Weather: Today",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
+    "title": "Anchorage Weather: Overnight",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#overnight",
+    "description": "38°F | 10 mph | SE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. Southeast wind around 10 mph. Chance of precipitation is 40%.",
+    "pubDate": "Thu, 23 Apr 2026 14:18:46 GMT",
+    "source": "NWS Anchorage",
+    "category": "weather"
+  },
+  {
+    "title": "Anchorage Weather: Thursday",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday",
     "description": "51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 14:04:47 GMT",
+    "pubDate": "Thu, 23 Apr 2026 14:18:46 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
   {
-    "title": "Anchorage Weather: Tonight",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight",
+    "title": "Anchorage Weather: Thursday Night",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday-night",
     "description": "37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Thu, 23 Apr 2026 14:04:47 GMT",
+    "pubDate": "Thu, 23 Apr 2026 14:18:46 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
   {
-    "title": "Anchorage Weather: Friday",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#friday",
-    "description": "48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 14:04:47 GMT",
-    "source": "NWS Anchorage",
-    "category": "weather"
+    "title": "BBC World: Trump administration reclassifies cannabis as less dangerous",
+    "link": "https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss",
+    "description": "Medical marijuana was moved into a lower category of drugs in order to increase research and access.",
+    "pubDate": "Thu, 23 Apr 2026 13:32:04 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC Front Page: Three men guilty of 'callous' Brighton beach rape",
+    "link": "https://www.bbc.com/news/articles/cvg090pe65vo?at_medium=RSS&at_campaign=rss",
+    "description": "The men, who are all asylum seekers, had denied targeting the woman in the early hours of October 4.",
+    "pubDate": "Thu, 23 Apr 2026 14:16:45 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
   },
   {
     "title": "ABC Business: A look at China's behind-the-scenes role in Iran war diplomacy",
