@@ -1,55 +1,46 @@
-# GitHub Pages RSS starter
+# Anchorage auto-updating RSS feed
 
-This is a simple starter repo for hosting your own RSS feed on GitHub Pages.
+This repo keeps your RSS data in `data/feed_items.json` and automatically rebuilds:
+- `feed.xml`
+- `index.html`
 
-## Files
+## How it works
+- You edit `data/feed_items.json`
+- GitHub Actions runs `scripts/generate_feed.py`
+- The workflow commits the rebuilt files back to `main`
+- GitHub Pages serves the updated feed from your repo
 
-- `index.html` - a basic homepage
-- `feed.xml` - your RSS feed
+## One-time setup
+1. Upload all files in this package to your `anchorage` repository.
+2. In GitHub, go to **Settings → Pages**.
+3. Keep **Deploy from a branch**.
+4. Set branch to `main` and folder to `/(root)`.
+5. Go to **Actions** and enable workflows if GitHub asks.
 
-## Publish it on GitHub Pages
+## Updating your feed manually on GitHub
+Open `data/feed_items.json` and add a new object like this near the top of the list:
 
-1. Sign in to GitHub.
-2. Create a new public repository.
-3. Upload `index.html`, `feed.xml`, and this `README.md` to the repository.
-4. Open the repository on GitHub.
-5. Go to **Settings** > **Pages**.
-6. Under **Build and deployment**, choose **Deploy from a branch**.
-7. Choose branch **main** and folder **/(root)**, then save.
-8. Wait a minute or two for GitHub Pages to publish.
+```json
+{
+  "title": "A new item",
+  "link": "https://fritoburrito.github.io/anchorage/",
+  "guid": "unique-id-here",
+  "description": "What this item is about.",
+  "pubDate": "Wed, 22 Apr 2026 18:30:00 GMT"
+}
+```
 
-Your site URL should look like:
+Then commit the change. The workflow will regenerate `feed.xml` and `index.html` automatically.
 
-`https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/`
+## Updating locally with the helper script
+```bash
+python3 scripts/add_item.py \
+  --title "A new item" \
+  --link "https://fritoburrito.github.io/anchorage/" \
+  --guid "item-2" \
+  --description "What this item is about." \
+  --pubdate "Wed, 22 Apr 2026 18:30:00 GMT"
+```
 
-Your feed URL should look like:
-
-`https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/feed.xml`
-
-## What to edit before publishing
-
-In `feed.xml`, replace:
-
-- `YOUR-GITHUB-USERNAME`
-- `YOUR-REPO-NAME`
-- feed title
-- descriptions
-- sample item links and dates
-
-## How to add a new item
-
-Copy one of the `<item>` blocks in `feed.xml`, paste it above the older items, and update:
-
-- `<title>`
-- `<link>`
-- `<guid>`
-- `<pubDate>`
-- `<description>`
-
-Keep the newest item first.
-
-## Notes
-
-- RSS readers usually prefer stable GUIDs.
-- Use GMT in `pubDate` and `lastBuildDate`.
-- After editing the feed, commit and push your changes to GitHub. GitHub Pages will republish the site automatically.
+## Workflow schedule
+The workflow also runs on a schedule every hour at minute 17 UTC. GitHub Actions schedules run in UTC and public repository schedules can be disabled after 60 days of inactivity, so the repo still supports manual runs from the **Actions** tab and push-triggered updates. See GitHub's docs for details.

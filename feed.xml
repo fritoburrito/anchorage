@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Robert's RSS Feed</title>
-    <link>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/</link>
-    <description>A custom RSS feed hosted on GitHub Pages.</description>
+    <title>Anchorage Custom Feed</title>
+    <link>https://fritoburrito.github.io/anchorage/</link>
+    <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 00:00:00 GMT</lastBuildDate>
-
+    <lastBuildDate>Wed, 22 Apr 2026 17:00:00 GMT</lastBuildDate>
     <item>
-      <title>Welcome to my RSS feed</title>
-      <link>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/posts/welcome</link>
-      <guid isPermaLink="false">welcome-1</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[This is the first item in my custom RSS feed hosted on GitHub Pages.]]></description>
-    </item>
-
-    <item>
-      <title>Second sample item</title>
-      <link>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/posts/second</link>
-      <guid isPermaLink="false">second-1</guid>
-      <pubDate>Tue, 21 Apr 2026 18:00:00 GMT</pubDate>
-      <description><![CDATA[Replace these sample items with your own updates, posts, downloads, or announcements.]]></description>
+      <title>Anchorage feed is live</title>
+      <link>https://fritoburrito.github.io/anchorage/</link>
+      <guid isPermaLink="false">anchorage-feed-live</guid>
+      <pubDate>Wed, 22 Apr 2026 17:00:00 GMT</pubDate>
+      <description><![CDATA[The feed is now hosted on GitHub Pages.]]></description>
     </item>
   </channel>
 </rss>
