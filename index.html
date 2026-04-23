@@ -6,8 +6,99 @@
   <title>Anchorage Custom Feed</title>
   <link rel="alternate" type="application/rss+xml" title="Anchorage Custom Feed" href="feed.xml">
   <style>
-    body { font-family: Arial, sans-serif; max-width: 760px; margin: 40px auto; padding: 0 16px; line-height: 1.5; }
-    code { background: #f3f3f3; padding: 2px 6px; border-radius: 4px; }
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 860px;
+      margin: 40px auto;
+      padding: 0 16px;
+      line-height: 1.5;
+      background: #111827;
+      color: #f3f4f6;
+    }
+
+    a {
+      color: #93c5fd;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    code {
+      background: #1f2937;
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #e5e7eb;
+    }
+
+    .feed-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .feed-item {
+      background: #1f2937;
+      border: 1px solid #374151;
+      border-radius: 12px;
+      padding: 14px 16px;
+      margin: 0 0 14px 0;
+    }
+
+    .item-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 8px;
+      flex-wrap: wrap;
+    }
+
+    .item-title {
+      font-size: 1.02rem;
+      font-weight: 600;
+    }
+
+    .cat-badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    .cat-weather {
+      background: #1d4ed8;
+      color: #eff6ff;
+    }
+
+    .cat-top {
+      background: #b91c1c;
+      color: #fef2f2;
+    }
+
+    .cat-world {
+      background: #7c3aed;
+      color: #f5f3ff;
+    }
+
+    .cat-business {
+      background: #047857;
+      color: #ecfdf5;
+    }
+
+    .cat-local {
+      background: #c2410c;
+      color: #fff7ed;
+    }
+
+    .cat-general {
+      background: #4b5563;
+      color: #f9fafb;
+    }
   </style>
 </head>
 <body>
@@ -16,17 +107,112 @@
   <p><a href="feed.xml">Open the RSS feed</a></p>
   <p>Feed URL: <code>https://fritoburrito.github.io/anchorage/feed.xml</code></p>
   <h2>Latest items</h2>
-  <ul>
-        <li><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#overnight">Anchorage Weather: Overnight</a> <small>Thu, 23 Apr 2026 10:10:48 GMT</small></li>
-        <li><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday">Anchorage Weather: Thursday</a> <small>Thu, 23 Apr 2026 10:10:48 GMT</small></li>
-        <li><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday-night">Anchorage Weather: Thursday Night</a> <small>Thu, 23 Apr 2026 10:10:48 GMT</small></li>
-        <li><a href="https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&amp;at_campaign=rss">BBC Front Page: Riot police to deploy on French beaches under new deal to stop illegal Channel migrant crossings</a> <small>Thu, 23 Apr 2026 09:44:36 GMT</small></li>
-        <li><a href="https://abcnews.com/Business/wireStory/asian-stocks-retreat-oil-tops-100-despite-fresh-132300524">ABC Business: Stocks retreat and oil tops $100 despite fresh records on Wall St</a> <small>Thu, 23 Apr 2026 05:06:18 -0400</small></li>
-        <li><a href="https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&amp;at_campaign=rss">BBC World: Two trains collide head-on in Denmark, leaving five critically hurt</a> <small>Thu, 23 Apr 2026 09:03:50 GMT</small></li>
-        <li><a href="https://abcnews.com/Business/wireStory/russian-oil-slovakia-resumes-flowing-pipeline-crosses-ukraine-132302133">ABC Business: Russian oil to Slovakia resumes flowing through pipeline that crosses Ukraine</a> <small>Thu, 23 Apr 2026 04:58:07 -0400</small></li>
-        <li><a href="https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&amp;at_campaign=rss">BBC World: US Navy chief leaving post 'effective immediately', Pentagon says</a> <small>Thu, 23 Apr 2026 08:37:14 GMT</small></li>
-        <li><a href="https://abcnews.com/Business/wireStory/chinas-scenes-role-iran-war-diplomacy-132302444">ABC Business: A look at China's behind-the-scenes role in Iran war diplomacy</a> <small>Thu, 23 Apr 2026 04:21:33 -0400</small></li>
-        <li><a href="https://abcnews.com/Business/wireStory/new-york-times-fbi-investigated-reporter-after-article-132297781">ABC Business: New York Times says FBI investigated reporter after article about director Kash Patel's girlfriend</a> <small>Thu, 23 Apr 2026 02:50:58 -0400</small></li>
+  <ul class="feed-list">
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-weather">Weather</span>
+        <small>Thu, 23 Apr 2026 10:22:58 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#overnight">Anchorage Weather: Overnight</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-weather">Weather</span>
+        <small>Thu, 23 Apr 2026 10:22:58 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday">Anchorage Weather: Thursday</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-weather">Weather</span>
+        <small>Thu, 23 Apr 2026 10:22:58 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday-night">Anchorage Weather: Thursday Night</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-top">Top News</span>
+        <small>Thu, 23 Apr 2026 09:44:36 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&amp;at_campaign=rss">BBC Front Page: Riot police to deploy on French beaches under new deal to stop illegal Channel migrant crossings</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-business">Business</span>
+        <small>Thu, 23 Apr 2026 05:06:18 -0400</small>
+      </div>
+      <div class="item-title"><a href="https://abcnews.com/Business/wireStory/asian-stocks-retreat-oil-tops-100-despite-fresh-132300524">ABC Business: Stocks retreat and oil tops $100 despite fresh records on Wall St</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-world">World</span>
+        <small>Thu, 23 Apr 2026 09:03:50 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&amp;at_campaign=rss">BBC World: Two trains collide head-on in Denmark, leaving five critically hurt</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-business">Business</span>
+        <small>Thu, 23 Apr 2026 04:58:07 -0400</small>
+      </div>
+      <div class="item-title"><a href="https://abcnews.com/Business/wireStory/russian-oil-slovakia-resumes-flowing-pipeline-crosses-ukraine-132302133">ABC Business: Russian oil to Slovakia resumes flowing through pipeline that crosses Ukraine</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-world">World</span>
+        <small>Thu, 23 Apr 2026 08:37:14 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&amp;at_campaign=rss">BBC World: US Navy chief leaving post 'effective immediately', Pentagon says</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-business">Business</span>
+        <small>Thu, 23 Apr 2026 04:21:33 -0400</small>
+      </div>
+      <div class="item-title"><a href="https://abcnews.com/Business/wireStory/chinas-scenes-role-iran-war-diplomacy-132302444">ABC Business: A look at China's behind-the-scenes role in Iran war diplomacy</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-business">Business</span>
+        <small>Thu, 23 Apr 2026 02:50:58 -0400</small>
+      </div>
+      <div class="item-title"><a href="https://abcnews.com/Business/wireStory/new-york-times-fbi-investigated-reporter-after-article-132297781">ABC Business: New York Times says FBI investigated reporter after article about director Kash Patel's girlfriend</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-business">Business</span>
+        <small>Thu, 23 Apr 2026 02:50:58 -0400</small>
+      </div>
+      <div class="item-title"><a href="https://fritoburrito.github.io/anchorage/">Anchorage free press</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-business">Business</span>
+        <small>Thu, 23 Apr 2026 02:40:38 -0400</small>
+      </div>
+      <div class="item-title"><a href="https://abcnews.com/Business/wireStory/european-union-ramps-crisis-testing-convinced-trumps-security-132300709">ABC Business: European Union ramps up crisis testing, convinced that Trump's security priorities lie elsewhere</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-business">Business</span>
+        <small>Thu, 23 Apr 2026 02:34:22 -0400</small>
+      </div>
+      <div class="item-title"><a href="https://abcnews.com/Business/wireStory/colombias-leader-visit-venezuela-key-talks-acting-president-132299876">ABC Business: Colombia's leader to visit Venezuela for key talks with acting President Delcy Rodríguez</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-top">Top News</span>
+        <small>Thu, 23 Apr 2026 05:02:00 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://www.bbc.com/news/videos/cd6ldv655lpo?at_medium=RSS&amp;at_campaign=rss">BBC Front Page: Watch: BBC goes undercover at mini-mart selling drugs</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-top">Top News</span>
+        <small>Thu, 23 Apr 2026 04:59:56 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&amp;at_campaign=rss">BBC Front Page: High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals</a></div>
+    </li>
   </ul>
 </body>
 </html>
