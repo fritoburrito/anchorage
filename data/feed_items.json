@@ -3,7 +3,7 @@
     "title": "Anchorage Weather: Today",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
     "description": "51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 14:53:35 GMT",
+    "pubDate": "Thu, 23 Apr 2026 16:48:00 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -11,7 +11,7 @@
     "title": "Anchorage Weather: Tonight",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight",
     "description": "37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Thu, 23 Apr 2026 14:53:35 GMT",
+    "pubDate": "Thu, 23 Apr 2026 16:48:00 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -19,15 +19,31 @@
     "title": "Anchorage Weather: Friday",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#friday",
     "description": "48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 14:53:35 GMT",
+    "pubDate": "Thu, 23 Apr 2026 16:48:00 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
+  },
+  {
+    "title": "ABC Business: Average US long-term mortgage rate slips to 6.23%, its third weekly drop",
+    "link": "https://abcnews.com/Business/wireStory/average-us-long-term-mortgage-rate-slips-623-132319335",
+    "description": "The average long-term U.S. mortgage rate dropped for the third week in a row, easing borrowing costs for prospective homebuyers as the spring homebuying season rolls on",
+    "pubDate": "Thu, 23 Apr 2026 12:17:26 -0400",
+    "source": "ABC Business",
+    "category": "business"
   },
   {
     "title": "ABC Business: Tanzania postelection inquiry shows 518 people died in last year’s violence",
     "link": "https://abcnews.com/Business/wireStory/tanzania-postelection-inquiry-shows-518-people-died-years-132311363",
     "description": "A commission in Tanzania formed to investigate postelection violence says that at least 518 people died after the October vote",
     "pubDate": "Thu, 23 Apr 2026 09:25:29 -0400",
+    "source": "ABC Business",
+    "category": "business"
+  },
+  {
+    "title": "ABC Business: Union Pacific profit climbed 5% as it builds the case for its acquisition of rival Norfolk Southern",
+    "link": "https://abcnews.com/Business/wireStory/union-pacific-profit-climbed-5-builds-case-acquisition-132310434",
+    "description": "Union Pacific delivered 5% higher earnings in the first quarter as the railroad worked to prepare its case to convince regulators that its $85 billion acquisition of eastern rival Norfolk Southern is a good idea",
+    "pubDate": "Thu, 23 Apr 2026 11:25:41 -0400",
     "source": "ABC Business",
     "category": "business"
   },
@@ -48,6 +64,78 @@
     "category": "business"
   },
   {
+    "title": "BBC World: Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+    "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+    "description": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
+    "pubDate": "Thu, 23 Apr 2026 15:34:15 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: In Tehran, money is short and a return to war looms over daily life",
+    "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+    "description": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
+    "pubDate": "Thu, 23 Apr 2026 11:26:01 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: Chunk of glacier blocks route up Everest in peak climbing season",
+    "link": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
+    "description": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way.",
+    "pubDate": "Thu, 23 Apr 2026 16:31:30 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: More than 500 people killed in Tanzania election violence, inquiry finds",
+    "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
+    "description": "Opposition parties accused security forces but the official report does not say who was responsible.",
+    "pubDate": "Thu, 23 Apr 2026 15:33:36 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
+    "link": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
+    "description": "Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.",
+    "pubDate": "Thu, 23 Apr 2026 15:11:03 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC Front Page: Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation",
+    "link": "https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&at_campaign=rss",
+    "description": "It follows a BBC investigation that found High Street mini-marts were selling drugs in some West Midlands towns.",
+    "pubDate": "Thu, 23 Apr 2026 15:59:40 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Rapist who infected men and boys with HIV jailed",
+    "link": "https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&at_campaign=rss",
+    "description": "A judge says Adam Hall took away the futures of his victims, including boys aged 15 and 17.",
+    "pubDate": "Thu, 23 Apr 2026 15:53:36 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Health data of 500,000 people offered for sale online in China after UK Biobank breach",
+    "link": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
+    "description": "The government said medical data was affected but no personally identifiable information had been made available.",
+    "pubDate": "Thu, 23 Apr 2026 11:45:41 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Sara Cox replaces Scott Mills on Radio 2 breakfast show",
+    "link": "https://www.bbc.com/news/articles/cx2ev8zed5zo?at_medium=RSS&at_campaign=rss",
+    "description": "The 51-year-old, who is originally from Bolton, currently presents the teatime show on Radio 2.",
+    "pubDate": "Thu, 23 Apr 2026 15:23:25 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
     "title": "ABC Business: Trump reclassifies state-licensed medical marijuana as a less-dangerous drug in a historic shift",
     "link": "https://abcnews.com/Business/wireStory/trump-reclassifies-state-licensed-medical-marijuana-dangerous-drug-132308155",
     "description": "President Donald Trump&rsquo;s acting attorney general has signed an order reclassifying state-licensed medical marijuana as a less-dangerous drug",
@@ -62,22 +150,6 @@
     "pubDate": "Thu, 23 Apr 2026 08:12:00 -0400",
     "source": "ABC Business",
     "category": "business"
-  },
-  {
-    "title": "BBC World: In Tehran, money is short and a return to war looms over daily life",
-    "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-    "description": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
-    "pubDate": "Thu, 23 Apr 2026 11:26:01 GMT",
-    "source": "BBC World",
-    "category": "world"
-  },
-  {
-    "title": "BBC World: More than 500 people killed in Tanzania election violence, inquiry finds",
-    "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
-    "description": "Opposition parties accused security forces but the official report does not say who was responsible.",
-    "pubDate": "Thu, 23 Apr 2026 12:28:29 GMT",
-    "source": "BBC World",
-    "category": "world"
   },
   {
     "title": "BBC World: US Navy chief leaving post 'effective immediately', Pentagon says",
@@ -104,34 +176,10 @@
     "category": "world"
   },
   {
-    "title": "BBC Front Page: Health data of 500,000 people offered for sale online in China after UK Biobank breach",
-    "link": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
-    "description": "The government said medical data was affected but no personally identifiable information had been made available.",
-    "pubDate": "Thu, 23 Apr 2026 11:45:41 GMT",
-    "source": "BBC Front Page",
-    "category": "top"
-  },
-  {
-    "title": "BBC Front Page: Rapist jailed for deliberate HIV infections",
-    "link": "https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&at_campaign=rss",
-    "description": "A judge says Adam Hall took away the futures of his victims, including boys aged 15 and 17.",
-    "pubDate": "Thu, 23 Apr 2026 14:45:33 GMT",
-    "source": "BBC Front Page",
-    "category": "top"
-  },
-  {
     "title": "BBC Front Page: High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals",
     "link": "https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&at_campaign=rss",
     "description": "Across the UK, shopfronts are being exploited by criminal gangs pushing illegal drugs, experts say.",
     "pubDate": "Thu, 23 Apr 2026 04:59:56 GMT",
-    "source": "BBC Front Page",
-    "category": "top"
-  },
-  {
-    "title": "BBC Front Page: Sara Cox replaces Scott Mills on Radio 2 breakfast show",
-    "link": "https://www.bbc.com/news/articles/cx2ev8zed5zo?at_medium=RSS&at_campaign=rss",
-    "description": "The 51-year-old, who is originally from Bolton, currently presents the teatime show on Radio 2.",
-    "pubDate": "Thu, 23 Apr 2026 13:29:00 GMT",
     "source": "BBC Front Page",
     "category": "top"
   },

@@ -5,12 +5,12 @@
     <link>https://fritoburrito.github.io/anchorage/</link>
     <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 14:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 16:48:00 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#today</link>
       <guid isPermaLink="false">f18e984ce9b12e0324fe945b5f435f4ac8146639</guid>
-      <pubDate>Thu, 23 Apr 2026 14:53:35 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 16:48:00 GMT</pubDate>
       <description><![CDATA[51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tonight</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight</link>
       <guid isPermaLink="false">1e10de77447c60ebf664fc66aa2e9bcd6ebca452</guid>
-      <pubDate>Thu, 23 Apr 2026 14:53:35 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 16:48:00 GMT</pubDate>
       <description><![CDATA[37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
@@ -26,17 +26,81 @@
       <title>Anchorage Weather: Friday</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#friday</link>
       <guid isPermaLink="false">8577b73b40b53ccafd5c73d594affe3e34e7a7e7</guid>
-      <pubDate>Thu, 23 Apr 2026 14:53:35 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 16:48:00 GMT</pubDate>
       <description><![CDATA[48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>BBC Front Page: Rapist jailed for deliberate HIV infections</title>
+      <title>BBC World: Chunk of glacier blocks route up Everest in peak climbing season</title>
+      <link>https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">cc7c099bd11bf9ac575b8a30697b01fe42681259</guid>
+      <pubDate>Thu, 23 Apr 2026 16:31:30 GMT</pubDate>
+      <description><![CDATA[Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>ABC Business: Average US long-term mortgage rate slips to 6.23%, its third weekly drop</title>
+      <link>https://abcnews.com/Business/wireStory/average-us-long-term-mortgage-rate-slips-623-132319335</link>
+      <guid isPermaLink="false">11c89fe22759c7c3980264b8bbb20009df5bfb9e</guid>
+      <pubDate>Thu, 23 Apr 2026 12:17:26 -0400</pubDate>
+      <description><![CDATA[The average long-term U.S. mortgage rate dropped for the third week in a row, easing borrowing costs for prospective homebuyers as the spring homebuying season rolls on]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>BBC Front Page: Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation</title>
+      <link>https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d171bd1f2a543a1535a81823109248e60affa668</guid>
+      <pubDate>Thu, 23 Apr 2026 15:59:40 GMT</pubDate>
+      <description><![CDATA[It follows a BBC investigation that found High Street mini-marts were selling drugs in some West Midlands towns.]]></description>
+      <category>top</category>
+    </item>
+    <item>
+      <title>BBC Front Page: Rapist who infected men and boys with HIV jailed</title>
       <link>https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">2ea47cfd64360db45f4b079e733df1659a99f94a</guid>
-      <pubDate>Thu, 23 Apr 2026 14:45:33 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 15:53:36 GMT</pubDate>
       <description><![CDATA[A judge says Adam Hall took away the futures of his victims, including boys aged 15 and 17.]]></description>
       <category>top</category>
+    </item>
+    <item>
+      <title>BBC World: Trump tells BBC that King's visit could 'absolutely' help repair relations with UK</title>
+      <link>https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e97812183cdb093c5f218d6dfb7832b728e07080</guid>
+      <pubDate>Thu, 23 Apr 2026 15:34:15 GMT</pubDate>
+      <description><![CDATA[In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BBC World: More than 500 people killed in Tanzania election violence, inquiry finds</title>
+      <link>https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">77785ebd0ee178a8859fdca08e08855cfc2e878b</guid>
+      <pubDate>Thu, 23 Apr 2026 15:33:36 GMT</pubDate>
+      <description><![CDATA[Opposition parties accused security forces but the official report does not say who was responsible.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>ABC Business: Union Pacific profit climbed 5% as it builds the case for its acquisition of rival Norfolk Southern</title>
+      <link>https://abcnews.com/Business/wireStory/union-pacific-profit-climbed-5-builds-case-acquisition-132310434</link>
+      <guid isPermaLink="false">9a3de8da17221bfcb3a8d88924762dd441cd51d9</guid>
+      <pubDate>Thu, 23 Apr 2026 11:25:41 -0400</pubDate>
+      <description><![CDATA[Union Pacific delivered 5% higher earnings in the first quarter as the railroad worked to prepare its case to convince regulators that its $85 billion acquisition of eastern rival Norfolk Southern is a good idea]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>BBC Front Page: Sara Cox replaces Scott Mills on Radio 2 breakfast show</title>
+      <link>https://www.bbc.com/news/articles/cx2ev8zed5zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">62fae5c2bb297a98ac4b7ca2396e53bf4af9fa4e</guid>
+      <pubDate>Thu, 23 Apr 2026 15:23:25 GMT</pubDate>
+      <description><![CDATA[The 51-year-old, who is originally from Bolton, currently presents the teatime show on Radio 2.]]></description>
+      <category>top</category>
+    </item>
+    <item>
+      <title>BBC World: US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say</title>
+      <link>https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">174a6277fb19df0f8f766cd073a43cb3d735921f</guid>
+      <pubDate>Thu, 23 Apr 2026 15:11:03 GMT</pubDate>
+      <description><![CDATA[Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Anchorage Weather: Overnight</title>
@@ -95,14 +159,6 @@
       <category>world</category>
     </item>
     <item>
-      <title>BBC Front Page: Sara Cox replaces Scott Mills on Radio 2 breakfast show</title>
-      <link>https://www.bbc.com/news/articles/cx2ev8zed5zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">62fae5c2bb297a98ac4b7ca2396e53bf4af9fa4e</guid>
-      <pubDate>Thu, 23 Apr 2026 13:29:00 GMT</pubDate>
-      <description><![CDATA[The 51-year-old, who is originally from Bolton, currently presents the teatime show on Radio 2.]]></description>
-      <category>top</category>
-    </item>
-    <item>
       <title>ABC Business: Tanzania postelection inquiry shows 518 people died in last year’s violence</title>
       <link>https://abcnews.com/Business/wireStory/tanzania-postelection-inquiry-shows-518-people-died-years-132311363</link>
       <guid isPermaLink="false">a081720241fb7bba4e295aea56090d7d6ad3d89a</guid>
@@ -135,14 +191,6 @@
       <category>business</category>
     </item>
     <item>
-      <title>BBC World: More than 500 people killed in Tanzania election violence, inquiry finds</title>
-      <link>https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">77785ebd0ee178a8859fdca08e08855cfc2e878b</guid>
-      <pubDate>Thu, 23 Apr 2026 12:28:29 GMT</pubDate>
-      <description><![CDATA[Opposition parties accused security forces but the official report does not say who was responsible.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>ABC Business: US military says it seizes another oil tanker associated with Iran</title>
       <link>https://abcnews.com/Business/wireStory/us-military-seizes-oil-tanker-iran-132307687</link>
       <guid isPermaLink="false">f4f2f718fba5361174b88fd388aba6d019a8c6eb</guid>
@@ -157,54 +205,6 @@
       <pubDate>Thu, 23 Apr 2026 11:45:41 GMT</pubDate>
       <description><![CDATA[The government said medical data was affected but no personally identifiable information had been made available.]]></description>
       <category>top</category>
-    </item>
-    <item>
-      <title>BBC World: In Tehran, money is short and a return to war looms over daily life</title>
-      <link>https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3d18a16709cfa4e8003d11f1be869cd32e8d3622</guid>
-      <pubDate>Thu, 23 Apr 2026 11:26:01 GMT</pubDate>
-      <description><![CDATA[The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>BBC Front Page: Riot police to deploy on French beaches under new deal to stop illegal Channel migrant crossings</title>
-      <link>https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c307261055a9b5eb9d9424c652f00842d9ee1408</guid>
-      <pubDate>Thu, 23 Apr 2026 10:54:49 GMT</pubDate>
-      <description><![CDATA[The three-year agreement will see at least 50 riot-trained police officers drafted in to tackle violence and “hostile crowds”.]]></description>
-      <category>top</category>
-    </item>
-    <item>
-      <title>BBC World: South African court orders Zambia to return former president's body</title>
-      <link>https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">557bbcb012bec105f42c99928a92c2856e648d4c</guid>
-      <pubDate>Thu, 23 Apr 2026 10:54:05 GMT</pubDate>
-      <description><![CDATA[Zambia authorities and Edgar Lungu's family are in a dispute over where the former leader's remains should be buried.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>ABC Business: Stocks retreat and oil tops $100 despite fresh records on Wall St</title>
-      <link>https://abcnews.com/Business/wireStory/asian-stocks-retreat-oil-tops-100-despite-fresh-132300524</link>
-      <guid isPermaLink="false">ef77483264a4988aa8f55d9c95c0f2866fdac230</guid>
-      <pubDate>Thu, 23 Apr 2026 06:02:14 -0400</pubDate>
-      <description><![CDATA[Shares have retreated in Europe and Asia while Brent crude topped $100 a barrel as investors reacted to shaky prospects for more talks on ending the war with Iran]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>ABC Business: Russian oil to Slovakia resumes flowing through pipeline that crosses Ukraine</title>
-      <link>https://abcnews.com/Business/wireStory/russian-oil-slovakia-resumes-flowing-pipeline-crosses-ukraine-132302133</link>
-      <guid isPermaLink="false">216c369efc17db8cb76d26265068eed856b579bc</guid>
-      <pubDate>Thu, 23 Apr 2026 04:58:07 -0400</pubDate>
-      <description><![CDATA[Slovakia's economy minister says the flow of Russian oil to Slovakia through the Druzhba pipeline that crosses Ukraine has resumed]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>BBC World: US Navy chief leaving post 'effective immediately', Pentagon says</title>
-      <link>https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3ebdaa754c71f58412b60f044f92b2147aba4ff2</guid>
-      <pubDate>Thu, 23 Apr 2026 08:37:14 GMT</pubDate>
-      <description><![CDATA[Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.]]></description>
-      <category>world</category>
     </item>
   </channel>
 </rss>
