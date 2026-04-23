@@ -1,5 +1,45 @@
 [
- {
+  {
+    "title": "ABC Business: Russian oil to Slovakia resumes flowing through pipeline that crosses Ukraine",
+    "link": "https://abcnews.com/Business/wireStory/russian-oil-slovakia-resumes-flowing-pipeline-crosses-ukraine-132302133",
+    "description": "Slovak Economy Minister Denisa Sakov&aacute; says the flow of Russian oil to Slovakia through the Druzhba pipeline that crosses Ukraine has resumed",
+    "pubDate": "Thu, 23 Apr 2026 02:55:31 -0400",
+    "source": "ABC Business",
+    "category": "business"
+  },
+  {
+    "title": "ABC Business: European Union ramps up crisis testing, convinced that Trump's security priorities lie elsewhere",
+    "link": "https://abcnews.com/Business/wireStory/european-union-ramps-crisis-testing-convinced-trumps-security-132300709",
+    "description": "The European Union is preparing to test rules that require member countries to assist each other during crises",
+    "pubDate": "Thu, 23 Apr 2026 02:40:38 -0400",
+    "source": "ABC Business",
+    "category": "business"
+  },
+  {
+    "title": "ABC Business: Asian stocks retreat and oil tops $100 despite fresh records on Wall St",
+    "link": "https://abcnews.com/Business/wireStory/asian-stocks-retreat-oil-tops-100-despite-fresh-132300524",
+    "description": "Asian stocks have retreated while oil prices gained as investors reacted to shaky prospects for more talks on ending the war with Iran",
+    "pubDate": "Thu, 23 Apr 2026 02:40:45 -0400",
+    "source": "ABC Business",
+    "category": "business"
+  },
+  {
+    "title": "ABC Business: Colombia's leader to visit Venezuela for key talks with acting President Delcy Rodríguez",
+    "link": "https://abcnews.com/Business/wireStory/colombias-leader-visit-venezuela-key-talks-acting-president-132299876",
+    "description": "Colombian President Gustavo Petro is visiting Venezuela for key talks on border security and trade with the country's acting president, Delcy Rodr&iacute;guez",
+    "pubDate": "Thu, 23 Apr 2026 02:34:22 -0400",
+    "source": "ABC Business",
+    "category": "business"
+  },
+  {
+    "title": "ABC Business: New York Times says FBI investigated reporter after article about director Kash Patel's girlfriend",
+    "link": "https://abcnews.com/Business/wireStory/new-york-times-fbi-investigated-reporter-after-article-132297781",
+    "description": "The New York Times says it has learned that the FBI investigated one of its reporters, Elizabeth Williamson, after she wrote about its agents being assigned to protect and transport the girlfriend of that agency's director, Kash Patel",
+    "pubDate": "Thu, 23 Apr 2026 02:50:58 -0400",
+    "source": "ABC Business",
+    "category": "business"
+  },
+  {
     "title": "First item",
     "link": "https://fritoburrito.github.io/anchorage/",
     "guid": "anchorage-001",
