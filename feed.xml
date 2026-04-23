@@ -5,12 +5,12 @@
     <link>https://fritoburrito.github.io/anchorage/</link>
     <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 14:49:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 14:53:35 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#today</link>
       <guid isPermaLink="false">f18e984ce9b12e0324fe945b5f435f4ac8146639</guid>
-      <pubDate>Thu, 23 Apr 2026 14:49:41 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 14:53:35 GMT</pubDate>
       <description><![CDATA[51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tonight</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight</link>
       <guid isPermaLink="false">1e10de77447c60ebf664fc66aa2e9bcd6ebca452</guid>
-      <pubDate>Thu, 23 Apr 2026 14:49:41 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 14:53:35 GMT</pubDate>
       <description><![CDATA[37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Friday</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#friday</link>
       <guid isPermaLink="false">8577b73b40b53ccafd5c73d594affe3e34e7a7e7</guid>
-      <pubDate>Thu, 23 Apr 2026 14:49:41 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 14:53:35 GMT</pubDate>
       <description><![CDATA[48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
