@@ -1,4 +1,4 @@
-const FEED_URL = "https://fritoburrito.github.io/anchorage/feed.xml";
+const FEED_URL = "https://akpulselive.com/feed.xml";
 const REFRESH_MS = 5 * 60 * 1000;
 
 let animId = null;
