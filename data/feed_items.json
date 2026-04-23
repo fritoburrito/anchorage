@@ -3,7 +3,7 @@
     "title": "Anchorage Weather: Overnight",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#overnight",
     "description": "38°F | 10 to 15 mph | SE | Light Rain Likely<br><br>Rain likely. Cloudy, with a low around 38. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%.",
-    "pubDate": "Thu, 23 Apr 2026 09:51:46 GMT",
+    "pubDate": "Thu, 23 Apr 2026 10:10:48 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -11,7 +11,7 @@
     "title": "Anchorage Weather: Thursday",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday",
     "description": "51°F | 0 to 10 mph | N | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 7am. Mostly cloudy, with a high near 51. North wind 0 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 09:51:46 GMT",
+    "pubDate": "Thu, 23 Apr 2026 10:10:48 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -19,15 +19,23 @@
     "title": "Anchorage Weather: Thursday Night",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday-night",
     "description": "37°F | 5 mph | N | Light Rain Likely<br><br>Rain likely between 10pm and 4am. Cloudy, with a low around 37. North wind around 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Thu, 23 Apr 2026 09:51:46 GMT",
+    "pubDate": "Thu, 23 Apr 2026 10:10:48 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
   {
+    "title": "ABC Business: A look at China's behind-the-scenes role in Iran war diplomacy",
+    "link": "https://abcnews.com/Business/wireStory/chinas-scenes-role-iran-war-diplomacy-132302444",
+    "description": "China's behind-the-scenes role in efforts to de-escalate the Iran conflict has been gaining attention",
+    "pubDate": "Thu, 23 Apr 2026 04:21:33 -0400",
+    "source": "ABC Business",
+    "category": "business"
+  },
+  {
     "title": "ABC Business: Russian oil to Slovakia resumes flowing through pipeline that crosses Ukraine",
     "link": "https://abcnews.com/Business/wireStory/russian-oil-slovakia-resumes-flowing-pipeline-crosses-ukraine-132302133",
-    "description": "Slovak Economy Minister Denisa Sakov&aacute; says the flow of Russian oil to Slovakia through the Druzhba pipeline that crosses Ukraine has resumed",
-    "pubDate": "Thu, 23 Apr 2026 02:55:31 -0400",
+    "description": "Slovakia's economy minister says the flow of Russian oil to Slovakia through the Druzhba pipeline that crosses Ukraine has resumed",
+    "pubDate": "Thu, 23 Apr 2026 04:58:07 -0400",
     "source": "ABC Business",
     "category": "business"
   },
@@ -40,10 +48,10 @@
     "category": "business"
   },
   {
-    "title": "ABC Business: Asian stocks retreat and oil tops $100 despite fresh records on Wall St",
+    "title": "ABC Business: Stocks retreat and oil tops $100 despite fresh records on Wall St",
     "link": "https://abcnews.com/Business/wireStory/asian-stocks-retreat-oil-tops-100-despite-fresh-132300524",
-    "description": "Asian stocks have retreated while oil prices gained as investors reacted to shaky prospects for more talks on ending the war with Iran",
-    "pubDate": "Thu, 23 Apr 2026 02:40:45 -0400",
+    "description": "Shares have retreated in Europe and Asia while Brent crude topped $100 a barrel as investors reacted to shaky prospects for more talks on ending the war with Iran",
+    "pubDate": "Thu, 23 Apr 2026 05:06:18 -0400",
     "source": "ABC Business",
     "category": "business"
   },
@@ -54,6 +62,78 @@
     "pubDate": "Thu, 23 Apr 2026 02:34:22 -0400",
     "source": "ABC Business",
     "category": "business"
+  },
+  {
+    "title": "BBC World: Two trains collide head-on in Denmark, leaving five critically hurt",
+    "link": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
+    "description": "The accident happened early on Thursday at a level crossing north of Copenhagen.",
+    "pubDate": "Thu, 23 Apr 2026 09:03:50 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: Lebanon accuses Israel of targeting journalist killed in air strike",
+    "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+    "description": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+    "pubDate": "Thu, 23 Apr 2026 04:25:30 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: US Navy chief leaving post 'effective immediately', Pentagon says",
+    "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+    "description": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.",
+    "pubDate": "Thu, 23 Apr 2026 08:37:14 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: Girl, 14, found in singer D4vd's car died of 'multiple injuries'",
+    "link": "https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&at_campaign=rss",
+    "description": "The medical examiner said the 14-year-old's cause of death was determined months ago but was blocked from release.",
+    "pubDate": "Thu, 23 Apr 2026 00:39:56 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: Zambia's government takes possession of ex-president's body in repatriation row",
+    "link": "https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss",
+    "description": "Zambia authorities and Edgar Lungu's family are in a dispute over where former leader's remains should be buried.",
+    "pubDate": "Wed, 22 Apr 2026 23:33:37 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC Front Page: High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals",
+    "link": "https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&at_campaign=rss",
+    "description": "Across the UK, shopfronts are being exploited by criminal gangs pushing illegal drugs, experts say.",
+    "pubDate": "Thu, 23 Apr 2026 04:59:56 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Watch: BBC goes undercover at mini-mart selling drugs",
+    "link": "https://www.bbc.com/news/videos/cd6ldv655lpo?at_medium=RSS&at_campaign=rss",
+    "description": "BBC UK editor Ed Thomas confronts a shopkeeper secretly filmed selling cannabis and cocaine to one of our researchers.",
+    "pubDate": "Thu, 23 Apr 2026 05:02:00 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Riot police to deploy on French beaches under new deal to stop illegal Channel migrant crossings",
+    "link": "https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&at_campaign=rss",
+    "description": "The three-year agreement will see at least 50 riot-trained police officers drafted in to tackle violence and “hostile crowds”.",
+    "pubDate": "Thu, 23 Apr 2026 09:44:36 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: The furious debate over building houses on golf courses",
+    "link": "https://www.bbc.com/news/articles/ce8jjne5ereo?at_medium=RSS&at_campaign=rss",
+    "description": "Are golf courses the right places to build housing, or are they simply a soft target?",
+    "pubDate": "Thu, 23 Apr 2026 00:31:17 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
   },
   {
     "title": "ABC Business: New York Times says FBI investigated reporter after article about director Kash Patel's girlfriend",

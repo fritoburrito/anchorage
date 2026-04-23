@@ -5,34 +5,69 @@
     <link>https://fritoburrito.github.io/anchorage/</link>
     <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 09:51:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 10:10:48 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Overnight</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#overnight</link>
       <guid isPermaLink="false">65946ffdfea964f9f201a930c5c8257658184caa</guid>
-      <pubDate>Thu, 23 Apr 2026 09:51:46 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 10:10:48 GMT</pubDate>
       <description><![CDATA[38°F | 10 to 15 mph | SE | Light Rain Likely<br><br>Rain likely. Cloudy, with a low around 38. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%.]]></description>
     </item>
     <item>
       <title>Anchorage Weather: Thursday</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday</link>
       <guid isPermaLink="false">21cb5b16adbfda5da5f29fdb6a3ec8ad7ebad6e0</guid>
-      <pubDate>Thu, 23 Apr 2026 09:51:46 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 10:10:48 GMT</pubDate>
       <description><![CDATA[51°F | 0 to 10 mph | N | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 7am. Mostly cloudy, with a high near 51. North wind 0 to 10 mph. Chance of precipitation is 40%.]]></description>
     </item>
     <item>
       <title>Anchorage Weather: Thursday Night</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday-night</link>
       <guid isPermaLink="false">6d5e7d7897e97cbc6da8057c20c83933e219a83b</guid>
-      <pubDate>Thu, 23 Apr 2026 09:51:46 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 10:10:48 GMT</pubDate>
       <description><![CDATA[37°F | 5 mph | N | Light Rain Likely<br><br>Rain likely between 10pm and 4am. Cloudy, with a low around 37. North wind around 5 mph. Chance of precipitation is 70%.]]></description>
+    </item>
+    <item>
+      <title>BBC Front Page: Riot police to deploy on French beaches under new deal to stop illegal Channel migrant crossings</title>
+      <link>https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c307261055a9b5eb9d9424c652f00842d9ee1408</guid>
+      <pubDate>Thu, 23 Apr 2026 09:44:36 GMT</pubDate>
+      <description><![CDATA[The three-year agreement will see at least 50 riot-trained police officers drafted in to tackle violence and “hostile crowds”.]]></description>
+    </item>
+    <item>
+      <title>ABC Business: Stocks retreat and oil tops $100 despite fresh records on Wall St</title>
+      <link>https://abcnews.com/Business/wireStory/asian-stocks-retreat-oil-tops-100-despite-fresh-132300524</link>
+      <guid isPermaLink="false">ef77483264a4988aa8f55d9c95c0f2866fdac230</guid>
+      <pubDate>Thu, 23 Apr 2026 05:06:18 -0400</pubDate>
+      <description><![CDATA[Shares have retreated in Europe and Asia while Brent crude topped $100 a barrel as investors reacted to shaky prospects for more talks on ending the war with Iran]]></description>
+    </item>
+    <item>
+      <title>BBC World: Two trains collide head-on in Denmark, leaving five critically hurt</title>
+      <link>https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8df0063fbca28b9eb6302426fa648fa097302fab</guid>
+      <pubDate>Thu, 23 Apr 2026 09:03:50 GMT</pubDate>
+      <description><![CDATA[The accident happened early on Thursday at a level crossing north of Copenhagen.]]></description>
     </item>
     <item>
       <title>ABC Business: Russian oil to Slovakia resumes flowing through pipeline that crosses Ukraine</title>
       <link>https://abcnews.com/Business/wireStory/russian-oil-slovakia-resumes-flowing-pipeline-crosses-ukraine-132302133</link>
       <guid isPermaLink="false">216c369efc17db8cb76d26265068eed856b579bc</guid>
-      <pubDate>Thu, 23 Apr 2026 02:55:31 -0400</pubDate>
-      <description><![CDATA[Slovak Economy Minister Denisa Sakov&aacute; says the flow of Russian oil to Slovakia through the Druzhba pipeline that crosses Ukraine has resumed]]></description>
+      <pubDate>Thu, 23 Apr 2026 04:58:07 -0400</pubDate>
+      <description><![CDATA[Slovakia's economy minister says the flow of Russian oil to Slovakia through the Druzhba pipeline that crosses Ukraine has resumed]]></description>
+    </item>
+    <item>
+      <title>BBC World: US Navy chief leaving post 'effective immediately', Pentagon says</title>
+      <link>https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3ebdaa754c71f58412b60f044f92b2147aba4ff2</guid>
+      <pubDate>Thu, 23 Apr 2026 08:37:14 GMT</pubDate>
+      <description><![CDATA[Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.]]></description>
+    </item>
+    <item>
+      <title>ABC Business: A look at China's behind-the-scenes role in Iran war diplomacy</title>
+      <link>https://abcnews.com/Business/wireStory/chinas-scenes-role-iran-war-diplomacy-132302444</link>
+      <guid isPermaLink="false">0f473125f5dc1a02841661ff84d6034843801890</guid>
+      <pubDate>Thu, 23 Apr 2026 04:21:33 -0400</pubDate>
+      <description><![CDATA[China's behind-the-scenes role in efforts to de-escalate the Iran conflict has been gaining attention]]></description>
     </item>
     <item>
       <title>ABC Business: New York Times says FBI investigated reporter after article about director Kash Patel's girlfriend</title>
@@ -49,13 +84,6 @@
       <description><![CDATA[That news server works]]></description>
     </item>
     <item>
-      <title>ABC Business: Asian stocks retreat and oil tops $100 despite fresh records on Wall St</title>
-      <link>https://abcnews.com/Business/wireStory/asian-stocks-retreat-oil-tops-100-despite-fresh-132300524</link>
-      <guid isPermaLink="false">ef77483264a4988aa8f55d9c95c0f2866fdac230</guid>
-      <pubDate>Thu, 23 Apr 2026 02:40:45 -0400</pubDate>
-      <description><![CDATA[Asian stocks have retreated while oil prices gained as investors reacted to shaky prospects for more talks on ending the war with Iran]]></description>
-    </item>
-    <item>
       <title>ABC Business: European Union ramps up crisis testing, convinced that Trump's security priorities lie elsewhere</title>
       <link>https://abcnews.com/Business/wireStory/european-union-ramps-crisis-testing-convinced-trumps-security-132300709</link>
       <guid isPermaLink="false">67d7881e2db022df97e601051e78fe912f007e25</guid>
@@ -68,6 +96,48 @@
       <guid isPermaLink="false">5fc8e1864e7e2296e049e039e6df12a4fb13ce57</guid>
       <pubDate>Thu, 23 Apr 2026 02:34:22 -0400</pubDate>
       <description><![CDATA[Colombian President Gustavo Petro is visiting Venezuela for key talks on border security and trade with the country's acting president, Delcy Rodr&iacute;guez]]></description>
+    </item>
+    <item>
+      <title>BBC Front Page: Watch: BBC goes undercover at mini-mart selling drugs</title>
+      <link>https://www.bbc.com/news/videos/cd6ldv655lpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4a6e9c18acd690ae80bb576677c84d146254b2db</guid>
+      <pubDate>Thu, 23 Apr 2026 05:02:00 GMT</pubDate>
+      <description><![CDATA[BBC UK editor Ed Thomas confronts a shopkeeper secretly filmed selling cannabis and cocaine to one of our researchers.]]></description>
+    </item>
+    <item>
+      <title>BBC Front Page: High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals</title>
+      <link>https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">908234bc7f7986b1f05aa96d7f8d9fe79aa9f305</guid>
+      <pubDate>Thu, 23 Apr 2026 04:59:56 GMT</pubDate>
+      <description><![CDATA[Across the UK, shopfronts are being exploited by criminal gangs pushing illegal drugs, experts say.]]></description>
+    </item>
+    <item>
+      <title>BBC World: Lebanon accuses Israel of targeting journalist killed in air strike</title>
+      <link>https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">cbd0182f236a3848b4bac81738930d058abbabb3</guid>
+      <pubDate>Thu, 23 Apr 2026 04:25:30 GMT</pubDate>
+      <description><![CDATA[Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.]]></description>
+    </item>
+    <item>
+      <title>BBC World: Girl, 14, found in singer D4vd's car died of 'multiple injuries'</title>
+      <link>https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fcc39c834961c2187c1481f139f3a183cf028ff7</guid>
+      <pubDate>Thu, 23 Apr 2026 00:39:56 GMT</pubDate>
+      <description><![CDATA[The medical examiner said the 14-year-old's cause of death was determined months ago but was blocked from release.]]></description>
+    </item>
+    <item>
+      <title>BBC Front Page: The furious debate over building houses on golf courses</title>
+      <link>https://www.bbc.com/news/articles/ce8jjne5ereo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">88dff76bd595512e7c98751fb8eca5993bb9ee02</guid>
+      <pubDate>Thu, 23 Apr 2026 00:31:17 GMT</pubDate>
+      <description><![CDATA[Are golf courses the right places to build housing, or are they simply a soft target?]]></description>
+    </item>
+    <item>
+      <title>BBC World: Zambia's government takes possession of ex-president's body in repatriation row</title>
+      <link>https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">557bbcb012bec105f42c99928a92c2856e648d4c</guid>
+      <pubDate>Wed, 22 Apr 2026 23:33:37 GMT</pubDate>
+      <description><![CDATA[Zambia authorities and Edgar Lungu's family are in a dispute over where former leader's remains should be buried.]]></description>
     </item>
   </channel>
 </rss>
