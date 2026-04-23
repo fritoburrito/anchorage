@@ -46,12 +46,5 @@
     "pubDate": "Thu, 23 Apr 2026 02:50:58 -0400",
     "source": "Anchorage free press",
     "category": "business"
-  },
-  {
-    "title": "First item",
-    "link": "https://fritoburrito.github.io/anchorage/",
-    "guid": "anchorage-001",
-    "description": "My first automated RSS item.",
-    "pubDate": "Wed, 22 Apr 2026 17:00:00 GMT"
   }
 ]
