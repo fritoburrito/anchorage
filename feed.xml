@@ -7,11 +7,11 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Apr 2026 17:00:00 GMT</lastBuildDate>
     <item>
-      <title>Anchorage feed is live</title>
+      <title>First item</title>
       <link>https://fritoburrito.github.io/anchorage/</link>
-      <guid isPermaLink="false">anchorage-feed-live</guid>
+      <guid isPermaLink="false">anchorage-001</guid>
       <pubDate>Wed, 22 Apr 2026 17:00:00 GMT</pubDate>
-      <description><![CDATA[The feed is now hosted on GitHub Pages.]]></description>
+      <description><![CDATA[My first automated RSS item.]]></description>
     </item>
   </channel>
 </rss>
