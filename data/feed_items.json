@@ -1,9 +1,9 @@
 [
  {
-  "title": "A new item",
-  "link": "https://fritoburrito.github.io/anchorage/",
-  "guid": "a7f3c2e1-9b4d-4f6a-8c2d-123456789abc",
-  "description": "What this item is about.",
-  "pubDate": "Wed, 22 Apr 2026 18:30:00 GMT"
-} 
+    "title": "First item",
+    "link": "https://fritoburrito.github.io/anchorage/",
+    "guid": "anchorage-001",
+    "description": "My first automated RSS item.",
+    "pubDate": "Wed, 22 Apr 2026 17:00:00 GMT"
+  }
 ]
