@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import json
+import hashlib
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from xml.sax.saxutils import escape
@@ -45,11 +46,13 @@ def build_feed(items):
     ]
 
     for item in items:
+        guid = item.get("guid") or hashlib.sha1(item["link"].encode()).hexdigest()
+        
         lines.extend([
             '    <item>',
             f'      <title>{escape(item["title"])}</title>',
             f'      <link>{escape(item["link"])}</link>',
-            f'      <guid isPermaLink="false">{escape(item.get("guid") or item["link"])}</guid>',
+            f'      <guid isPermaLink="false">{escape(guid)}</guid>',
             f'      <pubDate>{escape(item["pubDate"])}</pubDate>',
             f'      <description>{cdata(item.get("description", ""))}</description>',
             '    </item>',
