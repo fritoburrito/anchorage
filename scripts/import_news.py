@@ -11,6 +11,7 @@ DATA_FILE = ROOT / "data" / "feed_items.json"
 
 MAX_TOTAL_ITEMS = 50
 MAX_PER_SOURCE = 5
+KEYWORDS = ["anchorage", "alaska", "fairbanks", "juneau"]
 
 SOURCES = [
     {
@@ -66,6 +67,10 @@ def parse_rss(xml_bytes: bytes, source_name: str, tag: str):
         if not title or not link:
             continue
 
+        text_blob = (title + " " + description).lower()
+        if KEYWORDS and not any(k in text_blob for k in KEYWORDS):
+            continue
+
         items.append({
             "title": f"{source_name}: {title}",
             "link": link,
@@ -76,7 +81,6 @@ def parse_rss(xml_bytes: bytes, source_name: str, tag: str):
         })
 
     return items[:MAX_PER_SOURCE]
-
 
 def merge_items(existing, imported):
     seen = set()
