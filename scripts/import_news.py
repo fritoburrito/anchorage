@@ -13,6 +13,7 @@ DATA_FILE = ROOT / "data" / "feed_items.json"
 MAX_TOTAL_ITEMS = 50
 MAX_PER_SOURCE = 5
 KEYWORDS = ["anchorage", "alaska", "fairbanks", "juneau"]
+
 WEATHER_ENABLED = True
 WEATHER_LAT = 61.2181
 WEATHER_LON = -149.9003
@@ -28,9 +29,9 @@ SOURCES = [
     },
     # Add more sources here later
     # {
-    #     "name": "Another Source",
-    #     "url": "https://example.com/feed.xml",
-    #     "tag": "news"
+    #     "name": "BBC",
+    #     "url": "http://feeds.bbci.co.uk/news/rss.xml",
+    #     "tag": "world"
     # },
 ]
 
@@ -54,6 +55,7 @@ def fetch_xml(url: str) -> bytes:
     )
     with urllib.request.urlopen(req, timeout=20) as resp:
         return resp.read()
+
 
 def fetch_json(url: str):
     req = urllib.request.Request(
@@ -80,6 +82,7 @@ def import_weather():
 
     for period in periods:
         title = f"{WEATHER_SOURCE_NAME}: {period['name']} forecast"
+
         detail_parts = [
             f"{period.get('temperature')}°{period.get('temperatureUnit', '')}",
             period.get("windSpeed", ""),
@@ -93,7 +96,7 @@ def import_weather():
             f"{period.get('detailedForecast', '')}"
         )
 
-      period_link = forecast_url + "#" + period["name"].lower().replace(" ", "-")
+        period_link = forecast_url + "#" + period["name"].lower().replace(" ", "-")
 
         items.append({
             "title": title,
@@ -102,10 +105,10 @@ def import_weather():
             "pubDate": now_rfc2822(),
             "source": WEATHER_SOURCE_NAME,
             "category": WEATHER_TAG
-    })
+        })
 
     return items
-    
+
 
 def text_of(node, tag_name: str) -> str:
     child = node.find(tag_name)
@@ -140,11 +143,11 @@ def parse_rss(xml_bytes: bytes, source_name: str, tag: str):
 
     return items[:MAX_PER_SOURCE]
 
+
 def merge_items(existing, imported):
     seen = set()
     merged = []
 
-    # Keep imported first so newest fetched items float to the top
     for item in imported + existing:
         key = item.get("link", "").strip()
         if not key or key in seen:
