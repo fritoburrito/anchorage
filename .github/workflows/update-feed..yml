@@ -3,7 +3,6 @@ name: Update RSS feed
 on:
   push:
     paths:
-      - 'data/feed_items.json'
       - 'scripts/generate_feed.py'
       - 'scripts/import_news.py'
       - '.github/workflows/update-feed.yml'
