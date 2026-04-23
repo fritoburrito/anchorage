@@ -1,9 +1,9 @@
 [
   {
-    "title": "Anchorage Weather: Today",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
-    "description": "51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 21:16:44 GMT",
+    "title": "Anchorage Weather: This Afternoon",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#this-afternoon",
+    "description": "51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.",
+    "pubDate": "Thu, 23 Apr 2026 21:54:02 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -11,7 +11,7 @@
     "title": "Anchorage Weather: Tonight",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight",
     "description": "37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Thu, 23 Apr 2026 21:16:44 GMT",
+    "pubDate": "Thu, 23 Apr 2026 21:54:02 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -19,7 +19,7 @@
     "title": "Anchorage Weather: Friday",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#friday",
     "description": "48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 21:16:44 GMT",
+    "pubDate": "Thu, 23 Apr 2026 21:54:02 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -72,10 +72,10 @@
     "category": "world"
   },
   {
-    "title": "BBC World: In Tehran, money is short and a return to war looms over daily life",
-    "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-    "description": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
-    "pubDate": "Thu, 23 Apr 2026 11:26:01 GMT",
+    "title": "BBC World: US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+    "link": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+    "description": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
+    "pubDate": "Thu, 23 Apr 2026 20:45:51 GMT",
     "source": "BBC World",
     "category": "world"
   },
@@ -88,18 +88,18 @@
     "category": "world"
   },
   {
-    "title": "BBC World: More than 500 people killed in Tanzania election violence, inquiry finds",
-    "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
-    "description": "Opposition parties accused security forces but the official report does not say who was responsible.",
-    "pubDate": "Thu, 23 Apr 2026 15:33:36 GMT",
+    "title": "BBC World: In Tehran, money is short and a return to war looms over daily life",
+    "link": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+    "description": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
+    "pubDate": "Thu, 23 Apr 2026 11:26:01 GMT",
     "source": "BBC World",
     "category": "world"
   },
   {
-    "title": "BBC World: US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
-    "link": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
-    "description": "Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.",
-    "pubDate": "Thu, 23 Apr 2026 15:11:03 GMT",
+    "title": "BBC World: More than 500 people killed in Tanzania election violence, inquiry finds",
+    "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
+    "description": "Opposition parties accused security forces but the official report does not say who was responsible.",
+    "pubDate": "Thu, 23 Apr 2026 15:33:36 GMT",
     "source": "BBC World",
     "category": "world"
   },
@@ -128,20 +128,36 @@
     "category": "top"
   },
   {
+    "title": "BBC Front Page: PM's ex-chief of staff says he doesn't recognise claims about his behaviour",
+    "link": "https://www.bbc.com/news/articles/cy01r3jedgdo?at_medium=RSS&at_campaign=rss",
+    "description": "Morgan McSweeney speaks publicly for the first time about his departure from Downing Street.",
+    "pubDate": "Thu, 23 Apr 2026 21:13:58 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "Anchorage Weather: Today",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
+    "description": "51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.",
+    "pubDate": "Thu, 23 Apr 2026 21:16:44 GMT",
+    "source": "NWS Anchorage",
+    "category": "weather"
+  },
+  {
+    "title": "BBC World: US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
+    "link": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
+    "description": "Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.",
+    "pubDate": "Thu, 23 Apr 2026 15:11:03 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
     "title": "BBC Front Page: Proxy attacks in UK a real and growing concern, says PM",
     "link": "https://www.bbc.com/news/articles/clyxlnzrq41o?at_medium=RSS&at_campaign=rss",
     "description": "The prime minister says he is increasingly worried a number of countries are behind attacks in the UK.",
     "pubDate": "Thu, 23 Apr 2026 18:50:58 GMT",
     "source": "BBC Front Page",
     "category": "top"
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#this-afternoon",
-    "description": "51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.",
-    "pubDate": "Thu, 23 Apr 2026 20:09:51 GMT",
-    "source": "NWS Anchorage",
-    "category": "weather"
   },
   {
     "title": "ABC Business: US jobless claim filings rise modestly to 214,000 last week, remain at healthy levels",

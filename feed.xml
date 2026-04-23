@@ -5,7 +5,31 @@
     <link>https://fritoburrito.github.io/anchorage/</link>
     <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 21:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 21:54:02 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: This Afternoon</title>
+      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#this-afternoon</link>
+      <guid isPermaLink="false">e6c5898b0ef01fe7020be4c7e1a1084f89d41de8</guid>
+      <pubDate>Thu, 23 Apr 2026 21:54:02 GMT</pubDate>
+      <description><![CDATA[51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Tonight</title>
+      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight</link>
+      <guid isPermaLink="false">1e10de77447c60ebf664fc66aa2e9bcd6ebca452</guid>
+      <pubDate>Thu, 23 Apr 2026 21:54:02 GMT</pubDate>
+      <description><![CDATA[37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday</title>
+      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#friday</link>
+      <guid isPermaLink="false">8577b73b40b53ccafd5c73d594affe3e34e7a7e7</guid>
+      <pubDate>Thu, 23 Apr 2026 21:54:02 GMT</pubDate>
+      <description><![CDATA[48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
     <item>
       <title>Anchorage Weather: Today</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#today</link>
@@ -15,20 +39,12 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight</title>
-      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight</link>
-      <guid isPermaLink="false">1e10de77447c60ebf664fc66aa2e9bcd6ebca452</guid>
-      <pubDate>Thu, 23 Apr 2026 21:16:44 GMT</pubDate>
-      <description><![CDATA[37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Friday</title>
-      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#friday</link>
-      <guid isPermaLink="false">8577b73b40b53ccafd5c73d594affe3e34e7a7e7</guid>
-      <pubDate>Thu, 23 Apr 2026 21:16:44 GMT</pubDate>
-      <description><![CDATA[48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
+      <title>BBC Front Page: PM's ex-chief of staff says he doesn't recognise claims about his behaviour</title>
+      <link>https://www.bbc.com/news/articles/cy01r3jedgdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b90b3c287d24fa9863edc6213797e9abcf5d0eab</guid>
+      <pubDate>Thu, 23 Apr 2026 21:13:58 GMT</pubDate>
+      <description><![CDATA[Morgan McSweeney speaks publicly for the first time about his departure from Downing Street.]]></description>
+      <category>top</category>
     </item>
     <item>
       <title>ABC Business: Spirit Airlines says financial aid from the US government would help it keep flying</title>
@@ -39,12 +55,12 @@
       <category>business</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon</title>
-      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#this-afternoon</link>
-      <guid isPermaLink="false">e6c5898b0ef01fe7020be4c7e1a1084f89d41de8</guid>
-      <pubDate>Thu, 23 Apr 2026 20:09:51 GMT</pubDate>
-      <description><![CDATA[51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.]]></description>
-      <category>weather</category>
+      <title>BBC World: US boards ship carrying Iran oil as Trump threatens mine-laying vessels</title>
+      <link>https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0c5c385c3464c7fe5f8fb0fd2c7f0469a4a285c0</guid>
+      <pubDate>Thu, 23 Apr 2026 20:45:51 GMT</pubDate>
+      <description><![CDATA[Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>ABC Business: Kellogg is putting toys back into some cereal boxes as a 'Toy Story 5' tie-in</title>
@@ -189,22 +205,6 @@
       <pubDate>Thu, 23 Apr 2026 13:32:05 GMT</pubDate>
       <description><![CDATA[Beast Industries has strongly denied claims of sexual harassment and workplace gender bias.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>BBC World: Trump administration reclassifies cannabis as less dangerous</title>
-      <link>https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5066d4377ee98ea907789b1319d2eb2a7a7079c8</guid>
-      <pubDate>Thu, 23 Apr 2026 13:32:04 GMT</pubDate>
-      <description><![CDATA[Medical marijuana was moved into a lower category of drugs in order to increase research and access.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>ABC Business: Tanzania postelection inquiry shows 518 people died in last year’s violence</title>
-      <link>https://abcnews.com/Business/wireStory/tanzania-postelection-inquiry-shows-518-people-died-years-132311363</link>
-      <guid isPermaLink="false">a081720241fb7bba4e295aea56090d7d6ad3d89a</guid>
-      <pubDate>Thu, 23 Apr 2026 09:25:29 -0400</pubDate>
-      <description><![CDATA[A commission in Tanzania formed to investigate postelection violence says that at least 518 people died after the October vote]]></description>
-      <category>business</category>
     </item>
   </channel>
 </rss>
