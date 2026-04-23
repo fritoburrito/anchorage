@@ -1,9 +1,9 @@
 [
   {
-    "title": "Anchorage Weather: This Afternoon",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#this-afternoon",
-    "description": "51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.",
-    "pubDate": "Thu, 23 Apr 2026 20:09:51 GMT",
+    "title": "Anchorage Weather: Today",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
+    "description": "51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.",
+    "pubDate": "Thu, 23 Apr 2026 21:16:44 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -11,7 +11,7 @@
     "title": "Anchorage Weather: Tonight",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight",
     "description": "37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Thu, 23 Apr 2026 20:09:51 GMT",
+    "pubDate": "Thu, 23 Apr 2026 21:16:44 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -19,9 +19,17 @@
     "title": "Anchorage Weather: Friday",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#friday",
     "description": "48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 20:09:51 GMT",
+    "pubDate": "Thu, 23 Apr 2026 21:16:44 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
+  },
+  {
+    "title": "ABC Business: Spirit Airlines says financial aid from the US government would help it keep flying",
+    "link": "https://abcnews.com/Business/wireStory/spirit-airlines-financial-aid-us-government-flying-132327763",
+    "description": "A lawyer for Spirit Airlines says the struggling budget carrier is in advanced talks with the U.S. government on a financing deal that would help it emerge from bankruptcy protection",
+    "pubDate": "Thu, 23 Apr 2026 16:50:01 -0400",
+    "source": "ABC Business",
+    "category": "business"
   },
   {
     "title": "ABC Business: Kellogg is putting toys back into some cereal boxes as a 'Toy Story 5' tie-in",
@@ -52,14 +60,6 @@
     "link": "https://abcnews.com/Business/wireStory/union-pacific-profit-climbed-5-builds-case-acquisition-132310434",
     "description": "Union Pacific delivered 5% higher earnings in the first quarter as the railroad worked to prepare its case to convince regulators that its $85 billion acquisition of eastern rival Norfolk Southern is a good idea",
     "pubDate": "Thu, 23 Apr 2026 11:25:41 -0400",
-    "source": "ABC Business",
-    "category": "business"
-  },
-  {
-    "title": "ABC Business: US jobless claim filings rise modestly to 214,000 last week, remain at healthy levels",
-    "link": "https://abcnews.com/Business/wireStory/us-jobless-claim-filings-rise-modestly-214000-week-132309448",
-    "description": "The number of Americans filing for unemployment benefits inched up last week but remains within the historically healthy range of recent years",
-    "pubDate": "Thu, 23 Apr 2026 08:55:15 -0400",
     "source": "ABC Business",
     "category": "business"
   },
@@ -136,12 +136,20 @@
     "category": "top"
   },
   {
-    "title": "Anchorage Weather: Today",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
+    "title": "Anchorage Weather: This Afternoon",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#this-afternoon",
     "description": "51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.",
-    "pubDate": "Thu, 23 Apr 2026 18:10:47 GMT",
+    "pubDate": "Thu, 23 Apr 2026 20:09:51 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
+  },
+  {
+    "title": "ABC Business: US jobless claim filings rise modestly to 214,000 last week, remain at healthy levels",
+    "link": "https://abcnews.com/Business/wireStory/us-jobless-claim-filings-rise-modestly-214000-week-132309448",
+    "description": "The number of Americans filing for unemployment benefits inched up last week but remains within the historically healthy range of recent years",
+    "pubDate": "Thu, 23 Apr 2026 08:55:15 -0400",
+    "source": "ABC Business",
+    "category": "business"
   },
   {
     "title": "ABC Business: Trump threats against Iran are a boon for prediction markets, including some backed by his son",

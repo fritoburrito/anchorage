@@ -5,20 +5,20 @@
     <link>https://fritoburrito.github.io/anchorage/</link>
     <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 20:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 21:16:44 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: This Afternoon</title>
-      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#this-afternoon</link>
-      <guid isPermaLink="false">e6c5898b0ef01fe7020be4c7e1a1084f89d41de8</guid>
-      <pubDate>Thu, 23 Apr 2026 20:09:51 GMT</pubDate>
-      <description><![CDATA[51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.]]></description>
+      <title>Anchorage Weather: Today</title>
+      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#today</link>
+      <guid isPermaLink="false">f18e984ce9b12e0324fe945b5f435f4ac8146639</guid>
+      <pubDate>Thu, 23 Apr 2026 21:16:44 GMT</pubDate>
+      <description><![CDATA[51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight</link>
       <guid isPermaLink="false">1e10de77447c60ebf664fc66aa2e9bcd6ebca452</guid>
-      <pubDate>Thu, 23 Apr 2026 20:09:51 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 21:16:44 GMT</pubDate>
       <description><![CDATA[37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
@@ -26,8 +26,24 @@
       <title>Anchorage Weather: Friday</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#friday</link>
       <guid isPermaLink="false">8577b73b40b53ccafd5c73d594affe3e34e7a7e7</guid>
-      <pubDate>Thu, 23 Apr 2026 20:09:51 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 21:16:44 GMT</pubDate>
       <description><![CDATA[48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>ABC Business: Spirit Airlines says financial aid from the US government would help it keep flying</title>
+      <link>https://abcnews.com/Business/wireStory/spirit-airlines-financial-aid-us-government-flying-132327763</link>
+      <guid isPermaLink="false">cb63dcf13502a21b2ce9f419e3ae24f7cf828cef</guid>
+      <pubDate>Thu, 23 Apr 2026 16:50:01 -0400</pubDate>
+      <description><![CDATA[A lawyer for Spirit Airlines says the struggling budget carrier is in advanced talks with the U.S. government on a financing deal that would help it emerge from bankruptcy protection]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: This Afternoon</title>
+      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#this-afternoon</link>
+      <guid isPermaLink="false">e6c5898b0ef01fe7020be4c7e1a1084f89d41de8</guid>
+      <pubDate>Thu, 23 Apr 2026 20:09:51 GMT</pubDate>
+      <description><![CDATA[51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -61,14 +77,6 @@
       <pubDate>Thu, 23 Apr 2026 18:15:21 GMT</pubDate>
       <description><![CDATA[It follows a BBC investigation that found High Street mini-marts were selling drugs in some West Midlands towns.]]></description>
       <category>top</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today</title>
-      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#today</link>
-      <guid isPermaLink="false">f18e984ce9b12e0324fe945b5f435f4ac8146639</guid>
-      <pubDate>Thu, 23 Apr 2026 18:10:47 GMT</pubDate>
-      <description><![CDATA[51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.]]></description>
-      <category>weather</category>
     </item>
     <item>
       <title>BBC World: Trump tells BBC that King's visit could 'absolutely' help repair relations with UK</title>
@@ -196,14 +204,6 @@
       <guid isPermaLink="false">a081720241fb7bba4e295aea56090d7d6ad3d89a</guid>
       <pubDate>Thu, 23 Apr 2026 09:25:29 -0400</pubDate>
       <description><![CDATA[A commission in Tanzania formed to investigate postelection violence says that at least 518 people died after the October vote]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>ABC Business: Trump threats against Iran are a boon for prediction markets, including some backed by his son</title>
-      <link>https://abcnews.com/Business/wireStory/trump-threats-iran-boon-prediction-markets-including-backed-132309097</link>
-      <guid isPermaLink="false">6078d7053f7df32bd2127b891f41e32ff095e664</guid>
-      <pubDate>Thu, 23 Apr 2026 09:25:24 -0400</pubDate>
-      <description><![CDATA[President Donald Trump loves to keep people guessing about his next policy moves, a reality TV, cliffhanger governing style that is helping &ldquo;events&rdquo; wagering companies, including some backed by one of his sons]]></description>
       <category>business</category>
     </item>
   </channel>
