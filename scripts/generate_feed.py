@@ -22,23 +22,45 @@ def cdata(text: str) -> str:
     return "<![CDATA[" + text.replace("]]>", "]]]]><![CDATA[>") + "]]>"
 
 
+def is_breaking(item) -> bool:
+    text = f"{item.get('title', '')} {item.get('description', '')}".lower()
+    breaking_terms = [
+        "breaking",
+        "urgent",
+        "alert",
+        "developing",
+        "just in",
+    ]
+    return any(term in text for term in breaking_terms)
+
+
+def effective_category(item) -> str:
+    if is_breaking(item):
+        return "breaking"
+    return item.get("category", "") or "general"
+
+
 def load_items():
     items = json.loads(DATA_FILE.read_text(encoding="utf-8"))
 
     def sort_key(item):
-        return parsedate_to_datetime(item["pubDate"])
+        dt = parsedate_to_datetime(item["pubDate"]).timestamp()
+        breaking_rank = 0 if is_breaking(item) else 1
+        return (breaking_rank, -dt)
 
-    items.sort(key=sort_key, reverse=True)
+    items.sort(key=sort_key)
     return items[:MAX_ITEMS]
 
 
 def category_label(category: str) -> str:
     labels = {
+        "breaking": "Breaking",
         "weather": "Weather",
         "top": "Top News",
         "world": "World",
         "business": "Business",
         "local": "Local",
+        "general": "General",
     }
     return labels.get(category, category.title() if category else "General")
 
@@ -59,7 +81,7 @@ def build_feed(items):
     for item in items:
         guid = item.get("guid") or hashlib.sha1(item["link"].encode()).hexdigest()
         title = item["title"]
-        category = item.get("category", "")
+        category = effective_category(item)
 
         lines.extend([
             '    <item>',
@@ -68,12 +90,9 @@ def build_feed(items):
             f'      <guid isPermaLink="false">{escape(guid)}</guid>',
             f'      <pubDate>{escape(item["pubDate"])}</pubDate>',
             f'      <description>{cdata(item.get("description", ""))}</description>',
+            f'      <category>{escape(category)}</category>',
+            '    </item>',
         ])
-
-        if category:
-            lines.append(f'      <category>{escape(category)}</category>')
-
-        lines.append('    </item>')
 
     lines.extend(['  </channel>', '</rss>', ''])
     return "\n".join(lines)
@@ -85,7 +104,7 @@ def build_index(items):
         title = escape(item["title"])
         link = escape(item["link"])
         pub = escape(item["pubDate"])
-        category = item.get("category", "")
+        category = effective_category(item)
         category_text = escape(category_label(category))
         category_class = escape(category if category else "general")
 
@@ -173,6 +192,12 @@ def build_index(items):
       text-transform: uppercase;
     }}
 
+    .cat-breaking {{
+      background: #dc2626;
+      color: #ffffff;
+      animation: breakingPulse 1s infinite;
+    }}
+
     .cat-weather {{
       background: #1d4ed8;
       color: #eff6ff;
@@ -201,6 +226,12 @@ def build_index(items):
     .cat-general {{
       background: #4b5563;
       color: #f9fafb;
+    }}
+
+    @keyframes breakingPulse {{
+      0% {{ opacity: 1; }}
+      50% {{ opacity: 0.65; }}
+      100% {{ opacity: 1; }}
     }}
   </style>
 </head>
