@@ -2,8 +2,8 @@
   {
     "title": "Anchorage Weather: Today",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
-    "description": "51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 16:48:00 GMT",
+    "description": "51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.",
+    "pubDate": "Thu, 23 Apr 2026 18:10:47 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -11,7 +11,7 @@
     "title": "Anchorage Weather: Tonight",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight",
     "description": "37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Thu, 23 Apr 2026 16:48:00 GMT",
+    "pubDate": "Thu, 23 Apr 2026 18:10:47 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -19,7 +19,7 @@
     "title": "Anchorage Weather: Friday",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#friday",
     "description": "48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 16:48:00 GMT",
+    "pubDate": "Thu, 23 Apr 2026 18:10:47 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -67,7 +67,7 @@
     "title": "BBC World: Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
     "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
     "description": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
-    "pubDate": "Thu, 23 Apr 2026 15:34:15 GMT",
+    "pubDate": "Thu, 23 Apr 2026 17:36:11 GMT",
     "source": "BBC World",
     "category": "world"
   },
@@ -80,10 +80,10 @@
     "category": "world"
   },
   {
-    "title": "BBC World: Chunk of glacier blocks route up Everest in peak climbing season",
+    "title": "BBC World: Huge chunk of glacier blocks Everest route in peak climbing season",
     "link": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
     "description": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way.",
-    "pubDate": "Thu, 23 Apr 2026 16:31:30 GMT",
+    "pubDate": "Thu, 23 Apr 2026 16:52:44 GMT",
     "source": "BBC World",
     "category": "world"
   },
