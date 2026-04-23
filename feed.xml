@@ -5,7 +5,127 @@
     <link>https://fritoburrito.github.io/anchorage/</link>
     <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2026 11:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 14:04:47 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: Today</title>
+      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#today</link>
+      <guid isPermaLink="false">f18e984ce9b12e0324fe945b5f435f4ac8146639</guid>
+      <pubDate>Thu, 23 Apr 2026 14:04:47 GMT</pubDate>
+      <description><![CDATA[51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Tonight</title>
+      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight</link>
+      <guid isPermaLink="false">1e10de77447c60ebf664fc66aa2e9bcd6ebca452</guid>
+      <pubDate>Thu, 23 Apr 2026 14:04:47 GMT</pubDate>
+      <description><![CDATA[37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday</title>
+      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#friday</link>
+      <guid isPermaLink="false">8577b73b40b53ccafd5c73d594affe3e34e7a7e7</guid>
+      <pubDate>Thu, 23 Apr 2026 14:04:47 GMT</pubDate>
+      <description><![CDATA[48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>BBC Front Page: Three men guilty of 'callous' Brighton beach rape</title>
+      <link>https://www.bbc.com/news/articles/cvg090pe65vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">86347575e1c4d3ab5a367132a4c7791cde120892</guid>
+      <pubDate>Thu, 23 Apr 2026 13:59:25 GMT</pubDate>
+      <description><![CDATA[The men, who are all asylum seekers, had denied targeting the woman in the early hours of October 4.]]></description>
+      <category>top</category>
+    </item>
+    <item>
+      <title>BBC World: Two trains collide head-on in Denmark, leaving five critically hurt</title>
+      <link>https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8df0063fbca28b9eb6302426fa648fa097302fab</guid>
+      <pubDate>Thu, 23 Apr 2026 13:54:16 GMT</pubDate>
+      <description><![CDATA[The accident happened early on Thursday at a level crossing north of Copenhagen.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BBC World: MrBeast's company sued by ex-employee over sexual harassment claim</title>
+      <link>https://www.bbc.com/news/articles/c937z1nxze8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">837774d1a908d816a0121d29a07d4cb33158dc2d</guid>
+      <pubDate>Thu, 23 Apr 2026 13:32:05 GMT</pubDate>
+      <description><![CDATA[Beast Industries has strongly denied claims of sexual harassment and workplace gender bias.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BBC World: Trump administration reclassifies cannabis as less dangerous</title>
+      <link>https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5066d4377ee98ea907789b1319d2eb2a7a7079c8</guid>
+      <pubDate>Thu, 23 Apr 2026 13:32:04 GMT</pubDate>
+      <description><![CDATA[Medical marijuana was moved into a lower category of drugs in order to increase research and access.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BBC Front Page: Sara Cox replaces Scott Mills on Radio 2 breakfast show</title>
+      <link>https://www.bbc.com/news/articles/cx2ev8zed5zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">62fae5c2bb297a98ac4b7ca2396e53bf4af9fa4e</guid>
+      <pubDate>Thu, 23 Apr 2026 13:29:00 GMT</pubDate>
+      <description><![CDATA[The 51-year-old, who is originally from Bolton, currently presents the teatime show on Radio 2.]]></description>
+      <category>top</category>
+    </item>
+    <item>
+      <title>ABC Business: Tanzania postelection inquiry shows 518 people died in last year’s violence</title>
+      <link>https://abcnews.com/Business/wireStory/tanzania-postelection-inquiry-shows-518-people-died-years-132311363</link>
+      <guid isPermaLink="false">a081720241fb7bba4e295aea56090d7d6ad3d89a</guid>
+      <pubDate>Thu, 23 Apr 2026 09:25:29 -0400</pubDate>
+      <description><![CDATA[A commission in Tanzania formed to investigate postelection violence says that at least 518 people died after the October vote]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>ABC Business: Trump threats against Iran are a boon for prediction markets, including some backed by his son</title>
+      <link>https://abcnews.com/Business/wireStory/trump-threats-iran-boon-prediction-markets-including-backed-132309097</link>
+      <guid isPermaLink="false">6078d7053f7df32bd2127b891f41e32ff095e664</guid>
+      <pubDate>Thu, 23 Apr 2026 09:25:24 -0400</pubDate>
+      <description><![CDATA[President Donald Trump loves to keep people guessing about his next policy moves, a reality TV, cliffhanger governing style that is helping &ldquo;events&rdquo; wagering companies, including some backed by one of his sons]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>ABC Business: Trump reclassifies state-licensed medical marijuana as a less-dangerous drug in a historic shift</title>
+      <link>https://abcnews.com/Business/wireStory/trump-reclassifies-state-licensed-medical-marijuana-dangerous-drug-132308155</link>
+      <guid isPermaLink="false">e0eb374fbebd0a3e3017f3f6f4a92ed4ef0f5be7</guid>
+      <pubDate>Thu, 23 Apr 2026 09:22:23 -0400</pubDate>
+      <description><![CDATA[President Donald Trump&rsquo;s acting attorney general has signed an order reclassifying state-licensed medical marijuana as a less-dangerous drug]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>ABC Business: US jobless claim filings rise modestly to 214,000 last week, remain at healthy levels</title>
+      <link>https://abcnews.com/Business/wireStory/us-jobless-claim-filings-rise-modestly-214000-week-132309448</link>
+      <guid isPermaLink="false">e7273ba4491382b6efca0abd24d881e0fdfc9b7c</guid>
+      <pubDate>Thu, 23 Apr 2026 08:55:15 -0400</pubDate>
+      <description><![CDATA[The number of Americans filing for unemployment benefits inched up last week but remains within the historically healthy range of recent years]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>ABC Business: US military says it seizes another oil tanker associated with Iran</title>
+      <link>https://abcnews.com/Business/wireStory/us-military-seizes-oil-tanker-iran-132307687</link>
+      <guid isPermaLink="false">f4f2f718fba5361174b88fd388aba6d019a8c6eb</guid>
+      <pubDate>Thu, 23 Apr 2026 08:12:00 -0400</pubDate>
+      <description><![CDATA[The U.S. military has seized another tanker associated with the smuggling of Iranian oil]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>BBC Front Page: Health data of 500,000 people offered for sale online in China after UK Biobank breach</title>
+      <link>https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3bd730f761f43946c6d1b3d2b8f485386f94a2a6</guid>
+      <pubDate>Thu, 23 Apr 2026 11:45:41 GMT</pubDate>
+      <description><![CDATA[The government said medical data was affected but no personally identifiable information had been made available.]]></description>
+      <category>top</category>
+    </item>
+    <item>
+      <title>BBC World: In Tehran, money is short and a return to war looms over daily life</title>
+      <link>https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3d18a16709cfa4e8003d11f1be869cd32e8d3622</guid>
+      <pubDate>Thu, 23 Apr 2026 11:26:01 GMT</pubDate>
+      <description><![CDATA[The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.]]></description>
+      <category>world</category>
+    </item>
     <item>
       <title>Anchorage Weather: Overnight</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#overnight</link>
@@ -29,14 +149,6 @@
       <pubDate>Thu, 23 Apr 2026 11:16:07 GMT</pubDate>
       <description><![CDATA[37°F | 5 mph | N | Light Rain Likely<br><br>Rain likely between 10pm and 4am. Cloudy, with a low around 37. North wind around 5 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>BBC World: Two trains collide head-on in Denmark, leaving five critically hurt</title>
-      <link>https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8df0063fbca28b9eb6302426fa648fa097302fab</guid>
-      <pubDate>Thu, 23 Apr 2026 11:08:56 GMT</pubDate>
-      <description><![CDATA[The accident happened early on Thursday at a level crossing north of Copenhagen.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>BBC Front Page: Riot police to deploy on French beaches under new deal to stop illegal Channel migrant crossings</title>
@@ -93,70 +205,6 @@
       <pubDate>Thu, 23 Apr 2026 02:50:58 -0400</pubDate>
       <description><![CDATA[The New York Times says it has learned that the FBI investigated one of its reporters, Elizabeth Williamson, after she wrote about its agents being assigned to protect and transport the girlfriend of that agency's director, Kash Patel]]></description>
       <category>business</category>
-    </item>
-    <item>
-      <title>Anchorage free press</title>
-      <link>https://fritoburrito.github.io/anchorage/</link>
-      <guid isPermaLink="false">db92d7c5453ea79cf353146947dde58683f5703a</guid>
-      <pubDate>Thu, 23 Apr 2026 02:50:58 -0400</pubDate>
-      <description><![CDATA[That news server works]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>ABC Business: European Union ramps up crisis testing, convinced that Trump's security priorities lie elsewhere</title>
-      <link>https://abcnews.com/Business/wireStory/european-union-ramps-crisis-testing-convinced-trumps-security-132300709</link>
-      <guid isPermaLink="false">67d7881e2db022df97e601051e78fe912f007e25</guid>
-      <pubDate>Thu, 23 Apr 2026 02:40:38 -0400</pubDate>
-      <description><![CDATA[The European Union is preparing to test rules that require member countries to assist each other during crises]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>ABC Business: Colombia's leader to visit Venezuela for key talks with acting President Delcy Rodríguez</title>
-      <link>https://abcnews.com/Business/wireStory/colombias-leader-visit-venezuela-key-talks-acting-president-132299876</link>
-      <guid isPermaLink="false">5fc8e1864e7e2296e049e039e6df12a4fb13ce57</guid>
-      <pubDate>Thu, 23 Apr 2026 02:34:22 -0400</pubDate>
-      <description><![CDATA[Colombian President Gustavo Petro is visiting Venezuela for key talks on border security and trade with the country's acting president, Delcy Rodr&iacute;guez]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>BBC Front Page: Watch: BBC goes undercover at mini-mart selling drugs</title>
-      <link>https://www.bbc.com/news/videos/cd6ldv655lpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4a6e9c18acd690ae80bb576677c84d146254b2db</guid>
-      <pubDate>Thu, 23 Apr 2026 05:02:00 GMT</pubDate>
-      <description><![CDATA[BBC UK editor Ed Thomas confronts a shopkeeper secretly filmed selling cannabis and cocaine to one of our researchers.]]></description>
-      <category>top</category>
-    </item>
-    <item>
-      <title>BBC Front Page: High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals</title>
-      <link>https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">908234bc7f7986b1f05aa96d7f8d9fe79aa9f305</guid>
-      <pubDate>Thu, 23 Apr 2026 04:59:56 GMT</pubDate>
-      <description><![CDATA[Across the UK, shopfronts are being exploited by criminal gangs pushing illegal drugs, experts say.]]></description>
-      <category>top</category>
-    </item>
-    <item>
-      <title>BBC World: Lebanon accuses Israel of targeting journalist killed in air strike</title>
-      <link>https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">cbd0182f236a3848b4bac81738930d058abbabb3</guid>
-      <pubDate>Thu, 23 Apr 2026 04:25:30 GMT</pubDate>
-      <description><![CDATA[Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>BBC World: Girl, 14, found in singer D4vd's car died of 'multiple injuries'</title>
-      <link>https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">fcc39c834961c2187c1481f139f3a183cf028ff7</guid>
-      <pubDate>Thu, 23 Apr 2026 00:39:56 GMT</pubDate>
-      <description><![CDATA[The medical examiner said the 14-year-old's cause of death was determined months ago but was blocked from release.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>BBC Front Page: The furious debate over building houses on golf courses</title>
-      <link>https://www.bbc.com/news/articles/ce8jjne5ereo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">88dff76bd595512e7c98751fb8eca5993bb9ee02</guid>
-      <pubDate>Thu, 23 Apr 2026 00:31:17 GMT</pubDate>
-      <description><![CDATA[Are golf courses the right places to build housing, or are they simply a soft target?]]></description>
-      <category>top</category>
     </item>
   </channel>
 </rss>
