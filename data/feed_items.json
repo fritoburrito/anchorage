@@ -1,25 +1,25 @@
 [
   {
-    "title": "Anchorage Weather: Today",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
+    "title": "Anchorage Weather: Overnight",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#overnight",
+    "description": "38°F | 10 mph | SE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. Southeast wind around 10 mph. Chance of precipitation is 40%.",
+    "pubDate": "Thu, 23 Apr 2026 14:18:46 GMT",
+    "source": "NWS Anchorage",
+    "category": "weather"
+  },
+  {
+    "title": "Anchorage Weather: Thursday",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday",
     "description": "51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 14:04:47 GMT",
+    "pubDate": "Thu, 23 Apr 2026 14:18:46 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
   {
-    "title": "Anchorage Weather: Tonight",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight",
+    "title": "Anchorage Weather: Thursday Night",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday-night",
     "description": "37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Thu, 23 Apr 2026 14:04:47 GMT",
-    "source": "NWS Anchorage",
-    "category": "weather"
-  },
-  {
-    "title": "Anchorage Weather: Friday",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#friday",
-    "description": "48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 14:04:47 GMT",
+    "pubDate": "Thu, 23 Apr 2026 14:18:46 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -123,7 +123,7 @@
     "title": "BBC Front Page: Three men guilty of 'callous' Brighton beach rape",
     "link": "https://www.bbc.com/news/articles/cvg090pe65vo?at_medium=RSS&at_campaign=rss",
     "description": "The men, who are all asylum seekers, had denied targeting the woman in the early hours of October 4.",
-    "pubDate": "Thu, 23 Apr 2026 13:59:25 GMT",
+    "pubDate": "Thu, 23 Apr 2026 14:16:45 GMT",
     "source": "BBC Front Page",
     "category": "top"
   },
@@ -136,26 +136,26 @@
     "category": "top"
   },
   {
-    "title": "Anchorage Weather: Overnight",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#overnight",
-    "description": "38°F | 10 to 15 mph | SE | Light Rain Likely<br><br>Rain likely. Cloudy, with a low around 38. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%.",
-    "pubDate": "Thu, 23 Apr 2026 11:16:07 GMT",
+    "title": "Anchorage Weather: Today",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
+    "description": "51°F | 0 to 10 mph | E | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 10am. Mostly cloudy, with a high near 51. East wind 0 to 10 mph. Chance of precipitation is 40%.",
+    "pubDate": "Thu, 23 Apr 2026 14:04:47 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
   {
-    "title": "Anchorage Weather: Thursday",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday",
-    "description": "51°F | 0 to 10 mph | N | Chance Light Rain then Mostly Cloudy<br><br>A chance of rain before 7am. Mostly cloudy, with a high near 51. North wind 0 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 11:16:07 GMT",
+    "title": "Anchorage Weather: Tonight",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight",
+    "description": "37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.",
+    "pubDate": "Thu, 23 Apr 2026 14:04:47 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
   {
-    "title": "Anchorage Weather: Thursday Night",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#thursday-night",
-    "description": "37°F | 5 mph | N | Light Rain Likely<br><br>Rain likely between 10pm and 4am. Cloudy, with a low around 37. North wind around 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Thu, 23 Apr 2026 11:16:07 GMT",
+    "title": "Anchorage Weather: Friday",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#friday",
+    "description": "48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.",
+    "pubDate": "Thu, 23 Apr 2026 14:04:47 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
