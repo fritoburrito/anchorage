@@ -1,0 +1,122 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+}
+
+#overlay {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+}
+
+#ticker-bar {
+  display: flex;
+  align-items: center;
+  height: 48px;
+  background: rgba(10, 10, 18, 0.88);
+  border-top: 1px solid rgba(255,255,255,0.15);
+  color: white;
+  box-sizing: border-box;
+}
+
+#ticker-label {
+  flex: 0 0 100px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #b91c1c;
+  color: white;
+  font-weight: 800;
+  text-transform: uppercase;
+  box-sizing: border-box;
+}
+
+.label-top {
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 1;
+}
+
+.label-bottom {
+  font-size: 16px;
+  font-weight: 900;
+  line-height: 1;
+}
+
+#ticker-window {
+  position: relative;
+  flex: 1;
+  overflow: hidden;
+  white-space: nowrap;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+#ticker-track {
+  display: inline-block;
+  white-space: nowrap;
+  will-change: transform;
+  padding-left: 100%;
+}
+
+#ticker-clock {
+  flex: 0 0 80px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  white-space: nowrap;
+  padding: 0 6px;
+  box-sizing: border-box;
+}
+
+.item {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 28px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.75);
+}
+
+.badge {
+  display: inline-block;
+  margin-right: 8px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  line-height: 1.2;
+}
+
+.badge.breaking {
+  background: #dc2626;
+  color: #ffffff;
+  animation: breakingPulse 1s infinite;
+}
+.badge.weather { background: #1d4ed8; color: #fff; }
+.badge.top { background: #b91c1c; color: #fff; }
+.badge.world { background: #7c3aed; color: #fff; }
+.badge.business { background: #047857; color: #fff; }
+.badge.local { background: #c2410c; color: #fff; }
+.badge.general { background: #4b5563; color: #fff; }
+
+.hidden {
+  display: none;
+}
+
+@keyframes breakingPulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.65; }
+  100% { opacity: 1; }
+}

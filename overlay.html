@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anchorage OBS Overlay</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="overlay">
+    <div id="ticker-bar">
+      <div id="ticker-label">
+         <div class="label-top">ANCHORAGE</div>
+         <div class="label-bottom">LIVE</div>
+      </div>
+      <div id="ticker-window">
+        <div id="ticker-track">
+          <span class="item">
+            <span class="badge general">Loading</span>
+            <span class="headline-text">Connecting to feed…</span>
+          </span>
+        </div>
+      </div>
+      <div id="ticker-clock">--:--</div>
+    </div>
+    <div id="status-message" class="hidden">Feed unavailable</div>
+  </div>
+  <script src="overlay.js"></script>
+</body>
+</html>
