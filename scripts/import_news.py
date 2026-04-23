@@ -10,8 +10,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "feed_items.json"
 
-MAX_TOTAL_ITEMS = 50
+MAX_TOTAL_ITEMS = 75
 MAX_PER_SOURCE = 5
+REQUEST_TIMEOUT = 20
+
 KEYWORDS = ["anchorage", "alaska", "fairbanks", "juneau"]
 
 WEATHER_ENABLED = True
@@ -23,16 +25,33 @@ WEATHER_PERIODS = 3
 
 SOURCES = [
     {
+        "enabled": True,
         "name": "ABC Business",
         "url": "https://abcnews.go.com/abcnews/businessheadlines",
-        "tag": "business"
+        "tag": "business",
+        "use_keywords": True,
     },
-    # Add more sources here later
-    # {
-    #     "name": "BBC",
-    #     "url": "http://feeds.bbci.co.uk/news/rss.xml",
-    #     "tag": "world"
-    # },
+    {
+        "enabled": True,
+        "name": "BBC World",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "tag": "world",
+        "use_keywords": True,
+    },
+    {
+        "enabled": True,
+        "name": "BBC Front Page",
+        "url": "http://feeds.bbci.co.uk/news/rss.xml",
+        "tag": "top",
+        "use_keywords": True,
+    },
+    {
+        "enabled": True,
+        "name": "NPR News Now",
+        "url": "https://feeds.npr.org/500005/podcast.xml",
+        "tag": "top",
+        "use_keywords": True,
+    },
 ]
 
 
@@ -46,15 +65,19 @@ def load_existing():
     return json.loads(DATA_FILE.read_text(encoding="utf-8"))
 
 
-def fetch_xml(url: str) -> bytes:
+def fetch_bytes(url: str) -> bytes:
     req = urllib.request.Request(
         url,
         headers={
             "User-Agent": "Mozilla/5.0 (compatible; AnchorageFeedBot/1.0)"
         },
     )
-    with urllib.request.urlopen(req, timeout=20) as resp:
+    with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
         return resp.read()
+
+
+def fetch_xml(url: str) -> bytes:
+    return fetch_bytes(url)
 
 
 def fetch_json(url: str):
@@ -65,7 +88,7 @@ def fetch_json(url: str):
             "Accept": "application/geo+json, application/json"
         },
     )
-    with urllib.request.urlopen(req, timeout=20) as resp:
+    with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
 
@@ -81,7 +104,7 @@ def import_weather():
     periods = forecast_data["properties"]["periods"][:WEATHER_PERIODS]
 
     for period in periods:
-        title = f"{WEATHER_SOURCE_NAME}: {period['name']} forecast"
+        title = f"Anchorage Weather: {period['name']}"
 
         detail_parts = [
             f"{period.get('temperature')}°{period.get('temperatureUnit', '')}",
@@ -91,10 +114,10 @@ def import_weather():
         ]
         detail_line = " | ".join(part for part in detail_parts if part)
 
-        description = (
-            f"{detail_line}<br><br>"
-            f"{period.get('detailedForecast', '')}"
-        )
+        description = detail_line
+        detailed = period.get("detailedForecast", "").strip()
+        if detailed:
+            description += f"<br><br>{detailed}"
 
         period_link = forecast_url + "#" + period["name"].lower().replace(" ", "-")
 
@@ -115,7 +138,14 @@ def text_of(node, tag_name: str) -> str:
     return (child.text or "").strip() if child is not None and child.text else ""
 
 
-def parse_rss(xml_bytes: bytes, source_name: str, tag: str):
+def first_nonempty(*values) -> str:
+    for value in values:
+        if value and str(value).strip():
+            return str(value).strip()
+    return ""
+
+
+def parse_rss(xml_bytes: bytes, source_name: str, tag: str, use_keywords: bool = True):
     root = ET.fromstring(xml_bytes)
     items = []
 
@@ -128,9 +158,10 @@ def parse_rss(xml_bytes: bytes, source_name: str, tag: str):
         if not title or not link:
             continue
 
-        text_blob = (title + " " + description).lower()
-        if KEYWORDS and not any(k in text_blob for k in KEYWORDS):
-            continue
+        if use_keywords and KEYWORDS:
+            text_blob = (title + " " + description).lower()
+            if not any(k in text_blob for k in KEYWORDS):
+                continue
 
         items.append({
             "title": f"{source_name}: {title}",
@@ -142,6 +173,72 @@ def parse_rss(xml_bytes: bytes, source_name: str, tag: str):
         })
 
     return items[:MAX_PER_SOURCE]
+
+
+def parse_atom(xml_bytes: bytes, source_name: str, tag: str, use_keywords: bool = True):
+    root = ET.fromstring(xml_bytes)
+    items = []
+
+    ns = {"atom": "http://www.w3.org/2005/Atom"}
+
+    for entry in root.findall(".//atom:entry", ns):
+        title = first_nonempty(text_of(entry, "{http://www.w3.org/2005/Atom}title"))
+        summary = first_nonempty(
+            text_of(entry, "{http://www.w3.org/2005/Atom}summary"),
+            text_of(entry, "{http://www.w3.org/2005/Atom}content"),
+        )
+
+        link = ""
+        for link_node in entry.findall("{http://www.w3.org/2005/Atom}link"):
+            href = link_node.attrib.get("href", "").strip()
+            rel = link_node.attrib.get("rel", "alternate").strip()
+            if href and rel in ("alternate", ""):
+                link = href
+                break
+        if not link:
+            link = text_of(entry, "{http://www.w3.org/2005/Atom}id")
+
+        pub_date = first_nonempty(
+            text_of(entry, "{http://www.w3.org/2005/Atom}updated"),
+            text_of(entry, "{http://www.w3.org/2005/Atom}published"),
+            now_rfc2822(),
+        )
+
+        if not title or not link:
+            continue
+
+        if use_keywords and KEYWORDS:
+            text_blob = (title + " " + summary).lower()
+            if not any(k in text_blob for k in KEYWORDS):
+                continue
+
+        items.append({
+            "title": f"{source_name}: {title}",
+            "link": link,
+            "description": summary,
+            "pubDate": pub_date,
+            "source": source_name,
+            "category": tag
+        })
+
+    return items[:MAX_PER_SOURCE]
+
+
+def parse_feed(xml_bytes: bytes, source_name: str, tag: str, use_keywords: bool = True):
+    xml_text = xml_bytes.decode("utf-8", errors="replace")
+
+    # Try RSS first, then Atom.
+    try:
+        return parse_rss(xml_text.encode("utf-8"), source_name, tag, use_keywords)
+    except Exception:
+        pass
+
+    try:
+        return parse_atom(xml_text.encode("utf-8"), source_name, tag, use_keywords)
+    except Exception:
+        pass
+
+    raise ValueError(f"Could not parse feed from {source_name}")
 
 
 def merge_items(existing, imported):
@@ -163,9 +260,18 @@ def main():
     imported = []
 
     for source in SOURCES:
+        if not source.get("enabled", True):
+            print(f"Skipped disabled source: {source['name']}")
+            continue
+
         try:
             xml_bytes = fetch_xml(source["url"])
-            parsed = parse_rss(xml_bytes, source["name"], source["tag"])
+            parsed = parse_feed(
+                xml_bytes,
+                source["name"],
+                source["tag"],
+                source.get("use_keywords", True),
+            )
             imported.extend(parsed)
             print(f"Imported {len(parsed)} items from {source['name']}")
         except Exception as e:
@@ -174,7 +280,7 @@ def main():
     if WEATHER_ENABLED:
         try:
             weather_items = import_weather()
-            imported.extend(weather_items)
+            imported = weather_items + imported
             print(f"Imported {len(weather_items)} weather items")
         except Exception as e:
             print(f"Failed to import weather: {e}")
