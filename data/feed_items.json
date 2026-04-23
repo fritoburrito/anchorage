@@ -1,9 +1,9 @@
 [
   {
-    "title": "Anchorage Weather: Today",
-    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
+    "title": "Anchorage Weather: This Afternoon",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#this-afternoon",
     "description": "51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.",
-    "pubDate": "Thu, 23 Apr 2026 18:10:47 GMT",
+    "pubDate": "Thu, 23 Apr 2026 20:09:51 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -11,7 +11,7 @@
     "title": "Anchorage Weather: Tonight",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight",
     "description": "37°F | 5 to 10 mph | N | Light Rain Likely<br><br>Rain likely after 7pm. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Thu, 23 Apr 2026 18:10:47 GMT",
+    "pubDate": "Thu, 23 Apr 2026 20:09:51 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -19,9 +19,17 @@
     "title": "Anchorage Weather: Friday",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#friday",
     "description": "48°F | 5 to 10 mph | NW | Chance Light Rain then Rain Showers<br><br>A chance of rain before 7am, then rain showers. Cloudy, with a high near 48. Northwest wind 5 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Thu, 23 Apr 2026 18:10:47 GMT",
+    "pubDate": "Thu, 23 Apr 2026 20:09:51 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
+  },
+  {
+    "title": "ABC Business: Kellogg is putting toys back into some cereal boxes as a 'Toy Story 5' tie-in",
+    "link": "https://abcnews.com/Business/wireStory/kellogg-putting-toys-back-cereal-boxes-toy-story-132324723",
+    "description": "If you&rsquo;ve missed rooting around in your cereal box for a toy, you&rsquo;re in luck",
+    "pubDate": "Thu, 23 Apr 2026 15:30:49 -0400",
+    "source": "ABC Business",
+    "category": "business"
   },
   {
     "title": "ABC Business: Average US long-term mortgage rate slips to 6.23%, its third weekly drop",
@@ -52,14 +60,6 @@
     "link": "https://abcnews.com/Business/wireStory/us-jobless-claim-filings-rise-modestly-214000-week-132309448",
     "description": "The number of Americans filing for unemployment benefits inched up last week but remains within the historically healthy range of recent years",
     "pubDate": "Thu, 23 Apr 2026 08:55:15 -0400",
-    "source": "ABC Business",
-    "category": "business"
-  },
-  {
-    "title": "ABC Business: Trump threats against Iran are a boon for prediction markets, including some backed by his son",
-    "link": "https://abcnews.com/Business/wireStory/trump-threats-iran-boon-prediction-markets-including-backed-132309097",
-    "description": "President Donald Trump loves to keep people guessing about his next policy moves, a reality TV, cliffhanger governing style that is helping &ldquo;events&rdquo; wagering companies, including some backed by one of his sons",
-    "pubDate": "Thu, 23 Apr 2026 09:25:24 -0400",
     "source": "ABC Business",
     "category": "business"
   },
@@ -107,7 +107,15 @@
     "title": "BBC Front Page: Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation",
     "link": "https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&at_campaign=rss",
     "description": "It follows a BBC investigation that found High Street mini-marts were selling drugs in some West Midlands towns.",
-    "pubDate": "Thu, 23 Apr 2026 15:59:40 GMT",
+    "pubDate": "Thu, 23 Apr 2026 18:15:21 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Masked Iranian forces appear to seize ships in staged video",
+    "link": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss",
+    "description": "Analysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized.",
+    "pubDate": "Thu, 23 Apr 2026 18:15:28 GMT",
     "source": "BBC Front Page",
     "category": "top"
   },
@@ -118,6 +126,30 @@
     "pubDate": "Thu, 23 Apr 2026 15:53:36 GMT",
     "source": "BBC Front Page",
     "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Proxy attacks in UK a real and growing concern, says PM",
+    "link": "https://www.bbc.com/news/articles/clyxlnzrq41o?at_medium=RSS&at_campaign=rss",
+    "description": "The prime minister says he is increasingly worried a number of countries are behind attacks in the UK.",
+    "pubDate": "Thu, 23 Apr 2026 18:50:58 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "Anchorage Weather: Today",
+    "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#today",
+    "description": "51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.",
+    "pubDate": "Thu, 23 Apr 2026 18:10:47 GMT",
+    "source": "NWS Anchorage",
+    "category": "weather"
+  },
+  {
+    "title": "ABC Business: Trump threats against Iran are a boon for prediction markets, including some backed by his son",
+    "link": "https://abcnews.com/Business/wireStory/trump-threats-iran-boon-prediction-markets-including-backed-132309097",
+    "description": "President Donald Trump loves to keep people guessing about his next policy moves, a reality TV, cliffhanger governing style that is helping &ldquo;events&rdquo; wagering companies, including some backed by one of his sons",
+    "pubDate": "Thu, 23 Apr 2026 09:25:24 -0400",
+    "source": "ABC Business",
+    "category": "business"
   },
   {
     "title": "BBC Front Page: Health data of 500,000 people offered for sale online in China after UK Biobank breach",
