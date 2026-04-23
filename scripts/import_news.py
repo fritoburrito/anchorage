@@ -14,7 +14,8 @@ MAX_TOTAL_ITEMS = 75
 MAX_PER_SOURCE = 5
 REQUEST_TIMEOUT = 20
 
-KEYWORDS = ["anchorage", "alaska", "fairbanks", "juneau"]
+#KEYWORDS = ["anchorage", "alaska", "fairbanks", "juneau"]
+KEYWORDS = []
 
 WEATHER_ENABLED = True
 WEATHER_LAT = 61.2181
