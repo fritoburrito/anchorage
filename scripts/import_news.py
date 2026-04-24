@@ -1,320 +1,188 @@
 #!/usr/bin/env python3
+
 import json
-import time
-import urllib.request
-import urllib.parse
-import xml.etree.ElementTree as ET
-import requests
-import feedparser
 import re
-from email.utils import formatdate
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+import feedparser
+import requests
+
+
 ROOT = Path(__file__).resolve().parents[1]
-DATA_FILE = ROOT / "data" / "feed_items.json"
+DATA_DIR = ROOT / "data"
+DATA_FILE = DATA_DIR / "feed_items.json"
 
-MAX_TOTAL_ITEMS = 75
-MAX_PER_SOURCE = 5
-REQUEST_TIMEOUT = 20
-
-#KEYWORDS = ["anchorage", "alaska", "fairbanks", "juneau"]
-KEYWORDS = []
-
-WEATHER_ENABLED = True
-WEATHER_LAT = 61.2181
-WEATHER_LON = -149.9003
-WEATHER_TAG = "weather"
-WEATHER_SOURCE_NAME = "NWS Anchorage"
-WEATHER_PERIODS = 3
+MAX_TOTAL_ITEMS = 50
+MAX_PER_SOURCE = 8
 
 SOURCES = [
     {
+        "name": "Reddit News",
+        "url": "https://www.reddit.com/r/news/new/.rss",
+        "category": "world",
+        "tag": "reddit",
         "enabled": True,
+    },
+    {
+        "name": "BBC News",
+        "url": "https://feeds.bbci.co.uk/news/rss.xml",
+        "category": "world",
+        "tag": "bbc",
+        "enabled": True,
+    },
+    {
+        "name": "ABC News",
+        "url": "https://abcnews.go.com/abcnews/topstories",
+        "category": "world",
+        "tag": "abc",
+        "enabled": True,
+    },
+    {
         "name": "ABC Business",
         "url": "https://abcnews.go.com/abcnews/businessheadlines",
+        "category": "business",
         "tag": "business",
-        "use_keywords": True,
-    },
-    {
         "enabled": True,
-        "name": "BBC World",
-        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-        "tag": "world",
-        "use_keywords": True,
-    },
-    {
-    "name": "Reddit News",
-    "url": "https://www.reddit.com/r/news/new/.rss",
-    "category": "world",
-    "tag": "reddit",
-    },
-    {
-        "enabled": True,
-        "name": "BBC Front Page",
-        "url": "http://feeds.bbci.co.uk/news/rss.xml",
-        "tag": "top",
-        "use_keywords": True,
-    },
-    {
-        "enabled": True,
-        "name": "NPR News Now",
-        "url": "https://feeds.npr.org/500005/podcast.xml",
-        "tag": "top",
-        "use_keywords": True,
     },
 ]
 
 
-def now_rfc2822() -> str:
-    return formatdate(time.time(), usegmt=True)
-
-
-def load_existing():
-    if not DATA_FILE.exists():
-        return []
-    return json.loads(DATA_FILE.read_text(encoding="utf-8"))
-
-
-def fetch_bytes(url: str) -> bytes:
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "Mozilla/5.0 (compatible; AnchorageFeedBot/1.0)"
-        },
-    )
-    with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
-        return resp.read()
-
-
-def fetch_xml(url: str) -> bytes:
-    return fetch_bytes(url)
-
-
-def fetch_json(url: str):
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "Mozilla/5.0 (compatible; AnchorageFeedBot/1.0)",
-            "Accept": "application/geo+json, application/json"
-        },
-    )
-    with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT) as resp:
-        return json.loads(resp.read().decode("utf-8"))
-
-
-def import_weather():
-    items = []
-
-    points_url = f"https://api.weather.gov/points/{WEATHER_LAT},{WEATHER_LON}"
-    points_data = fetch_json(points_url)
-
-    forecast_url = points_data["properties"]["forecast"]
-    forecast_data = fetch_json(forecast_url)
-
-    periods = forecast_data["properties"]["periods"][:WEATHER_PERIODS]
-
-    for period in periods:
-        title = f"Anchorage Weather: {period['name']}"
-
-        detail_parts = [
-            f"{period.get('temperature')}°{period.get('temperatureUnit', '')}",
-            period.get("windSpeed", ""),
-            period.get("windDirection", ""),
-            period.get("shortForecast", "")
-        ]
-        detail_line = " | ".join(part for part in detail_parts if part)
-
-        description = detail_line
-        detailed = period.get("detailedForecast", "").strip()
-        if detailed:
-            description += f"<br><br>{detailed}"
-
-        period_slug = period["name"].lower().replace(" ", "-")
-        period_link = f"https://akpulselive.com/weather.html#{period_slug}"
-
-        items.append({
-            "title": title,
-            "link": period_link,
-            "description": description,
-            "pubDate": now_rfc2822(),
-            "source": WEATHER_SOURCE_NAME,
-            "category": WEATHER_TAG
-        })
-
-    return items
-
-
-def text_of(node, tag_name: str) -> str:
-    child = node.find(tag_name)
-    return (child.text or "").strip() if child is not None and child.text else ""
-
-
-def first_nonempty(*values) -> str:
-    for value in values:
-        if value and str(value).strip():
-            return str(value).strip()
-    return ""
-
-
-def parse_rss(xml_bytes: bytes, source_name: str, tag: str, use_keywords: bool = True):
-    root = ET.fromstring(xml_bytes)
-    items = []
-
-    for item in root.findall("./channel/item"):
-        title = text_of(item, "title")
-        link = text_of(item, "link")
-        description = text_of(item, "description")
-        pub_date = text_of(item, "pubDate") or now_rfc2822()
-
-        if not title or not link:
-            continue
-
-        if use_keywords and KEYWORDS:
-            text_blob = (title + " " + description).lower()
-            if not any(k in text_blob for k in KEYWORDS):
-                continue
-
-        items.append({
-            "title": f"{source_name}: {title}",
-            "link": link,
-            "description": description,
-            "pubDate": pub_date,
-            "source": source_name,
-            "category": tag
-        })
-
-    return items[:MAX_PER_SOURCE]
-
-
-def parse_atom(xml_bytes: bytes, source_name: str, tag: str, use_keywords: bool = True):
-    root = ET.fromstring(xml_bytes)
-    items = []
-
-    ns = {"atom": "http://www.w3.org/2005/Atom"}
-
-    for entry in root.findall(".//atom:entry", ns):
-        title = first_nonempty(text_of(entry, "{http://www.w3.org/2005/Atom}title"))
-        summary = first_nonempty(
-            text_of(entry, "{http://www.w3.org/2005/Atom}summary"),
-            text_of(entry, "{http://www.w3.org/2005/Atom}content"),
-        )
-
-        link = ""
-        for link_node in entry.findall("{http://www.w3.org/2005/Atom}link"):
-            href = link_node.attrib.get("href", "").strip()
-            rel = link_node.attrib.get("rel", "alternate").strip()
-            if href and rel in ("alternate", ""):
-                link = href
-                break
-        if not link:
-            link = text_of(entry, "{http://www.w3.org/2005/Atom}id")
-
-        pub_date = first_nonempty(
-            text_of(entry, "{http://www.w3.org/2005/Atom}updated"),
-            text_of(entry, "{http://www.w3.org/2005/Atom}published"),
-            now_rfc2822(),
-        )
-
-        if not title or not link:
-            continue
-
-        if use_keywords and KEYWORDS:
-            text_blob = (title + " " + summary).lower()
-            if not any(k in text_blob for k in KEYWORDS):
-                continue
-
-        items.append({
-            "title": f"{source_name}: {title}",
-            "link": link,
-            "description": summary,
-            "pubDate": pub_date,
-            "source": source_name,
-            "category": tag
-        })
-
-    return items[:MAX_PER_SOURCE]
-    
-def fetch_feed(url):
-    headers = {
-        "User-Agent": "AKPulseLive/1.0 (by akpulselive.com)"
-    }
-
-    r = requests.get(url, headers=headers, timeout=20)
-    r.raise_for_status()
-
-    return feedparser.parse(r.content)
-
 def clean_title(title):
-    title = re.sub(r'^\[.*?\]\s*', '', title)
+    if not title:
+        return "Untitled"
+    title = re.sub(r"^\[.*?\]\s*", "", title)
     return title.strip()
 
-def parse_feed(xml_bytes: bytes, source_name: str, tag: str, use_keywords: bool = True):
-    xml_text = xml_bytes.decode("utf-8", errors="replace")
 
-    # Try RSS first, then Atom.
+def parse_date(entry):
+    for key in ("published", "updated", "created"):
+        value = entry.get(key)
+        if value:
+            try:
+                dt = parsedate_to_datetime(value)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt.isoformat()
+            except Exception:
+                pass
+
+    return datetime.now(timezone.utc).isoformat()
+
+
+def fetch_feed(url):
+    headers = {
+        "User-Agent": "AKPulseLive/1.0 (https://akpulselive.com)"
+    }
+
+    response = requests.get(url, headers=headers, timeout=25)
+    response.raise_for_status()
+
+    return feedparser.parse(response.content)
+
+
+def load_existing_items():
+    if not DATA_FILE.exists():
+        return []
+
     try:
-        return parse_rss(xml_text.encode("utf-8"), source_name, tag, use_keywords)
-    except Exception:
-        pass
+        with DATA_FILE.open("r", encoding="utf-8") as f:
+            data = json.load(f)
 
-    try:
-        return parse_atom(xml_text.encode("utf-8"), source_name, tag, use_keywords)
-    except Exception:
-        pass
+        if isinstance(data, list):
+            return data
 
-    raise ValueError(f"Could not parse feed from {source_name}")
+        if isinstance(data, dict) and "items" in data:
+            return data["items"]
+
+    except Exception as e:
+        print("Could not read existing feed_items.json:", e)
+
+    return []
 
 
-def merge_items(existing, imported):
-    seen = set()
-    merged = []
+def save_items(items):
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-    for item in imported + existing:
-        key = item.get("link", "").strip()
-        if not key or key in seen:
-            continue
-        seen.add(key)
-        merged.append(item)
+    with DATA_FILE.open("w", encoding="utf-8") as f:
+        json.dump(items, f, indent=2, ensure_ascii=False)
 
-    return merged[:MAX_TOTAL_ITEMS]
+    print(f"Saved {len(items)} items to {DATA_FILE}")
 
 
 def main():
-    existing = load_existing()
-    imported = []
+    existing_items = load_existing_items()
+    new_items = []
+    seen_links = set()
+
+    for item in existing_items:
+        link = item.get("link") or item.get("url")
+        if link:
+            seen_links.add(link)
 
     for source in SOURCES:
         if not source.get("enabled", True):
             print(f"Skipped disabled source: {source['name']}")
             continue
+
         print("Fetching:", source["name"], source["url"])
-        feed = fetch_feed(source["url"])
-        print("Entries found:", len(feed.entries))
 
         try:
-            xml_bytes = fetch_xml(source["url"])
-            parsed = parse_feed(
-                xml_bytes,
-                source["name"],
-                source["tag"],
-                source.get("use_keywords", True),
-            )
-            imported.extend(parsed)
-            print(f"Imported {len(parsed)} items from {source['name']}")
+            feed = fetch_feed(source["url"])
         except Exception as e:
-            print(f"Failed to import from {source['name']}: {e}")
+            print(f"FETCH ERROR for {source['name']}: {e}")
+            continue
 
-    if WEATHER_ENABLED:
-        try:
-            weather_items = import_weather()
-            imported = weather_items + imported
-            print(f"Imported {len(weather_items)} weather items")
-        except Exception as e:
-            print(f"Failed to import weather: {e}")
+        entries = getattr(feed, "entries", [])
+        print("Entries found:", len(entries))
 
-    merged = merge_items(existing, imported)
-    DATA_FILE.write_text(json.dumps(merged, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"Wrote {DATA_FILE} with {len(merged)} items")
+        added_for_source = 0
+
+        for entry in entries:
+            if added_for_source >= MAX_PER_SOURCE:
+                break
+
+            title = clean_title(entry.get("title", "Untitled"))
+            link = entry.get("link", "")
+
+            if not link:
+                continue
+
+            if link in seen_links:
+                continue
+
+            summary = entry.get("summary", "")
+            published = parse_date(entry)
+
+            item = {
+                "title": title,
+                "link": link,
+                "url": link,
+                "summary": summary,
+                "source": source["name"],
+                "category": source.get("category", "news"),
+                "tag": source.get("tag", ""),
+                "published": published,
+                "created_utc": published,
+            }
+
+            new_items.append(item)
+            seen_links.add(link)
+            added_for_source += 1
+
+            print("ADDED:", source["name"], "-", title)
+
+    combined = new_items + existing_items
+
+    combined.sort(
+        key=lambda item: item.get("published", item.get("created_utc", "")),
+        reverse=True,
+    )
+
+    combined = combined[:MAX_TOTAL_ITEMS]
+
+    save_items(combined)
 
 
 if __name__ == "__main__":
