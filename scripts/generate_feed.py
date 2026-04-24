@@ -155,6 +155,26 @@ def build_weather_page(items):
 </html>
 '''
 
+def weather_icon(text: str) -> str:
+    t = text.lower()
+
+    if "snow" in t:
+        return "❄️"
+    if "rain" in t or "showers" in t:
+        return "🌧️"
+    if "cloud" in t or "overcast" in t:
+        return "☁️"
+    if "sun" in t or "clear" in t:
+        return "☀️"
+    if "wind" in t:
+        return "💨"
+    if "fog" in t:
+        return "🌫️"
+    if "thunder" in t or "storm" in t:
+        return "⛈️"
+
+    return "🌡️"  # fallback
+
 def build_index(items):
     rows = []
     for item in items[:15]:
