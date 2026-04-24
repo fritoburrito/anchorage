@@ -235,9 +235,9 @@ def main():
     weather_items = []
 
     try:
-            weather_items = import_weather()
-        except Exception as e:
-            print("WEATHER ERROR:", e)
+        weather_items = import_weather()
+    except Exception as e:
+        print("WEATHER ERROR:", e)
 
         combined = weather_items + new_items + existing_items
             
