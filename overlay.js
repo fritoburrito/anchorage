@@ -157,7 +157,12 @@ async function loadFeed() {
   temp.innerHTML = description;
   const cleanDesc = temp.textContent || temp.innerText || "";
 
-  displayText = `${title}: ${cleanDesc}`;
+  //displayText = `${title}: ${cleanDesc}`;
+  const shortDesc = cleanDesc.length > 120
+  ? cleanDesc.slice(0, 117) + "..."
+  : cleanDesc;
+
+   displayText = `${title}: ${shortDesc}`;  
 }
 
       if (!title) return;
