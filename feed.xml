@@ -5,12 +5,12 @@
     <link>akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 09:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 10:26:42 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://akpulselive.com/weather.html#tonight</link>
       <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Fri, 24 Apr 2026 09:05:55 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 10:26:42 GMT</pubDate>
       <description><![CDATA[38°F | 5 to 10 mph | N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. North wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Friday</title>
       <link>https://akpulselive.com/weather.html#friday</link>
       <guid isPermaLink="false">55ce42a40961a8f9566c50b3a23eb09558c838bb</guid>
-      <pubDate>Fri, 24 Apr 2026 09:05:55 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 10:26:42 GMT</pubDate>
       <description><![CDATA[47°F | 5 to 10 mph | NW | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 47. Northwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -26,9 +26,33 @@
       <title>Anchorage Weather: Friday Night</title>
       <link>https://akpulselive.com/weather.html#friday-night</link>
       <guid isPermaLink="false">a2173a314579894a61ffe1a22078bb923ff6e660</guid>
-      <pubDate>Fri, 24 Apr 2026 09:05:55 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 10:26:42 GMT</pubDate>
       <description><![CDATA[36°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 36. North wind 0 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>BBC World: Nato says US cannot suspend Spain from alliance, after reported Pentagon email</title>
+      <link>https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d73d9e185d79f42f07a26167cded6f8ba041675e</guid>
+      <pubDate>Fri, 24 Apr 2026 10:14:37 GMT</pubDate>
+      <description><![CDATA[An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BBC World: Key suspect in notorious Tadamon massacre during Syria civil war arrested</title>
+      <link>https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">16d944346deb0436f1696b223e153aa0ca314b41</guid>
+      <pubDate>Fri, 24 Apr 2026 09:46:01 GMT</pubDate>
+      <description><![CDATA[Victims were bound and blindfolded before being shot and dumped in a pit.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BBC Front Page: How Lineker and Neville became rival media moguls</title>
+      <link>https://www.bbc.com/sport/football/articles/cm293m3mr7zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0410953016c5a177fc3606b5d5b1d18cebb9ecbb</guid>
+      <pubDate>Fri, 24 Apr 2026 09:21:26 GMT</pubDate>
+      <description><![CDATA[BBC sports editor Dan Roan examines how Gary Lineker and Gary Neville became two of the biggest players in a rapidly changing media industry.]]></description>
+      <category>top</category>
     </item>
     <item>
       <title>BBC Front Page: Stock markets are too high and set to fall, says Bank of England deputy</title>
@@ -181,30 +205,6 @@
       <pubDate>Thu, 23 Apr 2026 20:33:49 -0400</pubDate>
       <description><![CDATA[President Donald Trump's &ldquo;gold card&rdquo; visa program, which allows foreigners to live and work in the U.S. for at least $1 million, has approved just one person since December, Commerce Secretary Howard Lutnick announced this Thursday]]></description>
       <category>business</category>
-    </item>
-    <item>
-      <title>BBC World: US soldier charged after winning $400,000 betting on removal of Maduro</title>
-      <link>https://www.bbc.com/news/articles/c20832yg5p2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">75801cdb627babfd81e212aee6833bfc269019aa</guid>
-      <pubDate>Fri, 24 Apr 2026 00:21:32 GMT</pubDate>
-      <description><![CDATA[Gannon Ken Van Dyke allegedly made trades on Polymarket on the basis of classified information, the justice department says.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>BBC Front Page: Southport dads: 'Running for our girls has made us like brothers'</title>
-      <link>https://www.bbc.com/news/articles/cj37d4gzz4xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">543a174be24213998faa2744b01eabd2d7726bd7</guid>
-      <pubDate>Fri, 24 Apr 2026 00:18:40 GMT</pubDate>
-      <description><![CDATA[Sergio Aguiar and David Stancombe run the London Marathon together in memory of Alice and Elsie.]]></description>
-      <category>top</category>
-    </item>
-    <item>
-      <title>BBC Front Page: Assisted dying bill to run out of time as Lords hold final debate</title>
-      <link>https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0b97310e2fd3a91b77b04959bd8549ebb1887dde</guid>
-      <pubDate>Fri, 24 Apr 2026 00:01:59 GMT</pubDate>
-      <description><![CDATA[The Terminally Ill Adults (End of Life) Bill was supported by MPs but has not cleared its stages in the Lords.]]></description>
-      <category>top</category>
     </item>
   </channel>
 </rss>
