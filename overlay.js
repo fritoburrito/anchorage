@@ -89,7 +89,7 @@ function startScroll() {
   if (!track) return;
 
   cancelAnimationFrame(animId);
-  x = window.innerWidth;
+  x = 20;
 
   function step() {
     const width = track.scrollWidth || 1;
