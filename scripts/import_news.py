@@ -4,6 +4,8 @@ import time
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
+import requests
+import feedparser
 import re
 from email.utils import formatdate
 from pathlib import Path
@@ -232,9 +234,7 @@ def parse_atom(xml_bytes: bytes, source_name: str, tag: str, use_keywords: bool 
 
     return items[:MAX_PER_SOURCE]
     
-    def fetch_feed(url):
-    import requests, feedparser
-
+def fetch_feed(url):
     headers = {
         "User-Agent": "AKPulseLive/1.0 (by akpulselive.com)"
     }
