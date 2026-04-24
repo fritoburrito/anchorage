@@ -5,7 +5,47 @@
     <link>https://fritoburrito.github.io/anchorage/</link>
     <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 06:30:34 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: Tonight</title>
+      <link>https://akpulselive.com/weather.html#tonight</link>
+      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
+      <pubDate>Fri, 24 Apr 2026 06:30:34 GMT</pubDate>
+      <description><![CDATA[38°F | 5 to 10 mph | N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. North wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday</title>
+      <link>https://akpulselive.com/weather.html#friday</link>
+      <guid isPermaLink="false">55ce42a40961a8f9566c50b3a23eb09558c838bb</guid>
+      <pubDate>Fri, 24 Apr 2026 06:30:34 GMT</pubDate>
+      <description><![CDATA[47°F | 5 to 10 mph | NW | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 47. Northwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday Night</title>
+      <link>https://akpulselive.com/weather.html#friday-night</link>
+      <guid isPermaLink="false">a2173a314579894a61ffe1a22078bb923ff6e660</guid>
+      <pubDate>Fri, 24 Apr 2026 06:30:34 GMT</pubDate>
+      <description><![CDATA[36°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 36. North wind 0 to 10 mph. Chance of precipitation is 60%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>ABC Business: What to know if your flight is canceled amid rising jet fuel costs</title>
+      <link>https://abcnews.com/Business/wireStory/flight-canceled-amid-rising-jet-fuel-costs-132337340</link>
+      <guid isPermaLink="false">40e00f01b4d1f146d8745796c27389fb2b42ad1e</guid>
+      <pubDate>Fri, 24 Apr 2026 02:18:36 -0400</pubDate>
+      <description><![CDATA[Airlines around the world are canceling flights as the war in the Middle East squeezes global jet fuel supplies and pushes up prices]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>ABC Business: Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold</title>
+      <link>https://abcnews.com/Business/wireStory/businesses-dole-4-million-cross-panama-canal-strait-132337527</link>
+      <guid isPermaLink="false">183b99fb4589cb59f44a959bb342162e0f510fd5</guid>
+      <pubDate>Fri, 24 Apr 2026 02:18:25 -0400</pubDate>
+      <description><![CDATA[Businesses have doled out up to $4 million to cross boats through the Panama Canal to dodge ongoing chaos in the Strait of Hormuz, which has created a seismic shift in global trade flows]]></description>
+      <category>business</category>
+    </item>
     <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight</link>
@@ -29,22 +69,6 @@
       <pubDate>Fri, 24 Apr 2026 06:17:14 GMT</pubDate>
       <description><![CDATA[36°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 36. North wind 0 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>ABC Business: Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold</title>
-      <link>https://abcnews.com/Business/wireStory/businesses-dole-4-million-cross-panama-canal-strait-132337527</link>
-      <guid isPermaLink="false">183b99fb4589cb59f44a959bb342162e0f510fd5</guid>
-      <pubDate>Fri, 24 Apr 2026 01:28:22 -0400</pubDate>
-      <description><![CDATA[Businesses have doled out up to $4 million to cross boats through the Panama Canal to dodge ongoing chaos in the Strait of Hormuz, which has created a seismic shift in global trade flows]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>ABC Business: What to know if your flight is canceled amid rising jet fuel costs</title>
-      <link>https://abcnews.com/Business/wireStory/flight-canceled-amid-rising-jet-fuel-costs-132337340</link>
-      <guid isPermaLink="false">40e00f01b4d1f146d8745796c27389fb2b42ad1e</guid>
-      <pubDate>Fri, 24 Apr 2026 01:14:35 -0400</pubDate>
-      <description><![CDATA[Airlines around the world are canceling flights as the war in the Middle East squeezes global jet fuel supplies and pushes up prices]]></description>
-      <category>business</category>
     </item>
     <item>
       <title>BBC Front Page: Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent</title>
@@ -181,30 +205,6 @@
       <pubDate>Thu, 23 Apr 2026 18:50:58 GMT</pubDate>
       <description><![CDATA[The prime minister says he is increasingly worried a number of countries are behind attacks in the UK.]]></description>
       <category>top</category>
-    </item>
-    <item>
-      <title>BBC World: Masked Iranian forces appear to seize ships in staged video</title>
-      <link>https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">482ada3acebb80a67f3f1a5003129a938932ac21</guid>
-      <pubDate>Thu, 23 Apr 2026 18:15:28 GMT</pubDate>
-      <description><![CDATA[Analysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>BBC Front Page: Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation</title>
-      <link>https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d171bd1f2a543a1535a81823109248e60affa668</guid>
-      <pubDate>Thu, 23 Apr 2026 18:15:21 GMT</pubDate>
-      <description><![CDATA[It follows a BBC investigation that found High Street mini-marts were selling drugs in some West Midlands towns.]]></description>
-      <category>top</category>
-    </item>
-    <item>
-      <title>BBC World: Huge chunk of glacier blocks Everest route in peak climbing season</title>
-      <link>https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">cc7c099bd11bf9ac575b8a30697b01fe42681259</guid>
-      <pubDate>Thu, 23 Apr 2026 16:52:44 GMT</pubDate>
-      <description><![CDATA[Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way.]]></description>
-      <category>world</category>
     </item>
   </channel>
 </rss>
