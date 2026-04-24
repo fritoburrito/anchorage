@@ -176,7 +176,8 @@ async function loadFeed() {
 
       const textNode = document.createElement("span");
       textNode.className = "headline-text";
-      textNode.textContent = title;
+      // textNode.textContent = title;
+      textNode.textContent = displayText;
 
       wrap.appendChild(badge);
       wrap.appendChild(textNode);
