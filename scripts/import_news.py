@@ -239,9 +239,9 @@ def main():
     except Exception as e:
         print("WEATHER ERROR:", e)
 
-        combined = weather_items + new_items + existing_items
+    combined = weather_items + new_items + existing_items
             
-        combined.sort(
+    combined.sort(
         key=lambda item: item.get("published", item.get("created_utc", "")),
         reverse=True,
     )
