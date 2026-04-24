@@ -5,12 +5,12 @@
     <link>akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:05:55 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://akpulselive.com/weather.html#tonight</link>
       <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Fri, 24 Apr 2026 07:12:25 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 09:05:55 GMT</pubDate>
       <description><![CDATA[38°F | 5 to 10 mph | N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. North wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Friday</title>
       <link>https://akpulselive.com/weather.html#friday</link>
       <guid isPermaLink="false">55ce42a40961a8f9566c50b3a23eb09558c838bb</guid>
-      <pubDate>Fri, 24 Apr 2026 07:12:25 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 09:05:55 GMT</pubDate>
       <description><![CDATA[47°F | 5 to 10 mph | NW | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 47. Northwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -26,9 +26,49 @@
       <title>Anchorage Weather: Friday Night</title>
       <link>https://akpulselive.com/weather.html#friday-night</link>
       <guid isPermaLink="false">a2173a314579894a61ffe1a22078bb923ff6e660</guid>
-      <pubDate>Fri, 24 Apr 2026 07:12:25 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 09:05:55 GMT</pubDate>
       <description><![CDATA[36°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 36. North wind 0 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>BBC Front Page: Stock markets are too high and set to fall, says Bank of England deputy</title>
+      <link>https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1cccf4c1b8bdfa5b988d879a061e19cddbbd3f29</guid>
+      <pubDate>Fri, 24 Apr 2026 09:03:21 GMT</pubDate>
+      <description><![CDATA[It is unusual for a senior figure at the Bank to be so forthright on market movements.]]></description>
+      <category>top</category>
+    </item>
+    <item>
+      <title>BBC World: Kenyan leader sparks uproar after  mocking Nigerians' spoken English</title>
+      <link>https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">396354e4f0d8d6f98d18c1efe4cfd844336bcdb7</guid>
+      <pubDate>Fri, 24 Apr 2026 09:01:32 GMT</pubDate>
+      <description><![CDATA[William Ruto says Kenyans speak "some of the best English in the world" while it is hard to understand Nigerians.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>ABC Business: Explosion of invasive 'janitor fish' sparks mass removal operation in Indonesia</title>
+      <link>https://abcnews.com/Business/wireStory/explosion-invasive-janitor-fish-sparks-mass-removal-operation-132338497</link>
+      <guid isPermaLink="false">e8efc30d44a6147c507f7c81f6d9478a40bac9d7</guid>
+      <pubDate>Fri, 24 Apr 2026 04:49:55 -0400</pubDate>
+      <description><![CDATA[Authorities in Indonesia&rsquo;s capital are seeking to remove at least 10 tons of janitor fish from the city&rsquo;s waterways]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>BBC World: Woman trapped in poo for three hours after outback toilet collapses</title>
+      <link>https://www.bbc.com/news/articles/clyedj166k5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a9dca961245c0cdade7e915b9c569b1afe27a7e5</guid>
+      <pubDate>Fri, 24 Apr 2026 08:39:02 GMT</pubDate>
+      <description><![CDATA[The woman got stuck waist-deep in a pit latrine in the Australian outback after it gave way.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BBC World: South Korea police arrest man for posting AI photo of runaway wolf</title>
+      <link>https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">55d260642f30273072a820dfb48dba6fe6b37504</guid>
+      <pubDate>Fri, 24 Apr 2026 08:23:36 GMT</pubDate>
+      <description><![CDATA[The widely circulated image had prompted authorities to move their search operation.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>ABC Business: Businesses dole out up to $4M to cross Panama Canal during Strait of Hormuz chokehold</title>
@@ -37,14 +77,6 @@
       <pubDate>Fri, 24 Apr 2026 02:52:31 -0400</pubDate>
       <description><![CDATA[Businesses have doled out up to $4 million to cross boats through the Panama Canal to dodge ongoing chaos in the Strait of Hormuz, which has created a seismic shift in global trade flows]]></description>
       <category>business</category>
-    </item>
-    <item>
-      <title>BBC Front Page: Stock markets are too high and set to fall, says Bank of England deputy</title>
-      <link>https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1cccf4c1b8bdfa5b988d879a061e19cddbbd3f29</guid>
-      <pubDate>Fri, 24 Apr 2026 06:52:27 GMT</pubDate>
-      <description><![CDATA[It is unusual for a senior figure at the Bank to be so forthright on market movements.]]></description>
-      <category>top</category>
     </item>
     <item>
       <title>ABC Business: Corpse abuse cases force changes on Colorado's scandal-plagued funeral industry</title>
@@ -111,20 +143,20 @@
       <category>top</category>
     </item>
     <item>
-      <title>BBC Front Page: Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent</title>
+      <title>BBC Front Page: Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent</title>
       <link>https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">433ee53c9909606bdaa1e645bb4ecb8d9a9ea972</guid>
       <pubDate>Fri, 24 Apr 2026 05:00:29 GMT</pubDate>
-      <description><![CDATA[Throughout Russia, internet usage has become seriously restricted. Citizens are drawing comparison to Soviet censorship and today's digital blackouts.]]></description>
+      <description><![CDATA[Officials say the restrictions are for public safety, but businesses and the public are feeling the impact.]]></description>
       <category>top</category>
     </item>
     <item>
-      <title>BBC Front Page: Epstein housed victims in London flats after Met chose not to investigate him, BBC reveals</title>
+      <title>BBC World: Epstein housed abuse victims in London flats, BBC reveals</title>
       <link>https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">87c98ae78915e2cf52bebf0115c55567b4cdf691</guid>
       <pubDate>Fri, 24 Apr 2026 05:00:03 GMT</pubDate>
       <description><![CDATA[The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims.]]></description>
-      <category>top</category>
+      <category>world</category>
     </item>
     <item>
       <title>BBC World: Trump tells BBC that King's visit could 'absolutely' help repair relations with UK</title>
@@ -172,38 +204,6 @@
       <guid isPermaLink="false">0b97310e2fd3a91b77b04959bd8549ebb1887dde</guid>
       <pubDate>Fri, 24 Apr 2026 00:01:59 GMT</pubDate>
       <description><![CDATA[The Terminally Ill Adults (End of Life) Bill was supported by MPs but has not cleared its stages in the Lords.]]></description>
-      <category>top</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: This Afternoon</title>
-      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#this-afternoon</link>
-      <guid isPermaLink="false">e6c5898b0ef01fe7020be4c7e1a1084f89d41de8</guid>
-      <pubDate>Thu, 23 Apr 2026 23:55:59 GMT</pubDate>
-      <description><![CDATA[51°F | 10 mph | SE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Southeast wind around 10 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>BBC Front Page: Ringo Starr: 'I made all my mistakes on stage'</title>
-      <link>https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">692c09fbc2ce82514b57fb79935ebaea5ad100ba</guid>
-      <pubDate>Thu, 23 Apr 2026 23:05:11 GMT</pubDate>
-      <description><![CDATA[Beatles star reveals all about his new country album, being a Sir and coming up with the phrase A Hard Day's Night.]]></description>
-      <category>top</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today</title>
-      <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#today</link>
-      <guid isPermaLink="false">f18e984ce9b12e0324fe945b5f435f4ac8146639</guid>
-      <pubDate>Thu, 23 Apr 2026 22:56:29 GMT</pubDate>
-      <description><![CDATA[51°F | 0 to 10 mph | NE | Mostly Cloudy<br><br>Mostly cloudy, with a high near 51. Northeast wind 0 to 10 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>BBC Front Page: PM's ex-chief of staff says he doesn't recognise claims about his behaviour</title>
-      <link>https://www.bbc.com/news/articles/cy01r3jedgdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b90b3c287d24fa9863edc6213797e9abcf5d0eab</guid>
-      <pubDate>Thu, 23 Apr 2026 21:13:58 GMT</pubDate>
-      <description><![CDATA[Morgan McSweeney speaks publicly for the first time about his departure from Downing Street.]]></description>
       <category>top</category>
     </item>
   </channel>

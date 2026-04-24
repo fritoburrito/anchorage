@@ -3,7 +3,7 @@
     "title": "Anchorage Weather: Tonight",
     "link": "https://akpulselive.com/weather.html#tonight",
     "description": "38°F | 5 to 10 mph | N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. North wind 5 to 10 mph. Chance of precipitation is 50%.",
-    "pubDate": "Fri, 24 Apr 2026 07:12:25 GMT",
+    "pubDate": "Fri, 24 Apr 2026 09:05:55 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -11,7 +11,7 @@
     "title": "Anchorage Weather: Friday",
     "link": "https://akpulselive.com/weather.html#friday",
     "description": "47°F | 5 to 10 mph | NW | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 47. Northwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.",
-    "pubDate": "Fri, 24 Apr 2026 07:12:25 GMT",
+    "pubDate": "Fri, 24 Apr 2026 09:05:55 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -19,9 +19,17 @@
     "title": "Anchorage Weather: Friday Night",
     "link": "https://akpulselive.com/weather.html#friday-night",
     "description": "36°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 36. North wind 0 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Fri, 24 Apr 2026 07:12:25 GMT",
+    "pubDate": "Fri, 24 Apr 2026 09:05:55 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
+  },
+  {
+    "title": "ABC Business: Explosion of invasive 'janitor fish' sparks mass removal operation in Indonesia",
+    "link": "https://abcnews.com/Business/wireStory/explosion-invasive-janitor-fish-sparks-mass-removal-operation-132338497",
+    "description": "Authorities in Indonesia&rsquo;s capital are seeking to remove at least 10 tons of janitor fish from the city&rsquo;s waterways",
+    "pubDate": "Fri, 24 Apr 2026 04:49:55 -0400",
+    "source": "ABC Business",
+    "category": "business"
   },
   {
     "title": "ABC Business: Businesses dole out up to $4M to cross Panama Canal during Strait of Hormuz chokehold",
@@ -56,20 +64,84 @@
     "category": "business"
   },
   {
-    "title": "ABC Business: Corpse abuse cases force changes on Colorado's scandal-plagued funeral industry",
-    "link": "https://abcnews.com/Business/wireStory/corpse-abuse-cases-force-colorados-scandal-plagued-funeral-132336604",
-    "description": "A former funeral home owner who helped her ex-husband hide nearly 200 decomposing bodies while giving families fake ashes faces sentencing after pleading guilty to corpse abuse",
-    "pubDate": "Fri, 24 Apr 2026 02:34:58 -0400",
-    "source": "ABC Business",
-    "category": "business"
-  },
-  {
     "title": "BBC World: Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
     "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
     "description": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
     "pubDate": "Fri, 24 Apr 2026 03:03:55 GMT",
     "source": "BBC World",
     "category": "world"
+  },
+  {
+    "title": "BBC World: Epstein housed abuse victims in London flats, BBC reveals",
+    "link": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
+    "description": "The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims.",
+    "pubDate": "Fri, 24 Apr 2026 05:00:03 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: Kenyan leader sparks uproar after  mocking Nigerians' spoken English",
+    "link": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
+    "description": "William Ruto says Kenyans speak \"some of the best English in the world\" while it is hard to understand Nigerians.",
+    "pubDate": "Fri, 24 Apr 2026 09:01:32 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: Woman trapped in poo for three hours after outback toilet collapses",
+    "link": "https://www.bbc.com/news/articles/clyedj166k5o?at_medium=RSS&at_campaign=rss",
+    "description": "The woman got stuck waist-deep in a pit latrine in the Australian outback after it gave way.",
+    "pubDate": "Fri, 24 Apr 2026 08:39:02 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC World: South Korea police arrest man for posting AI photo of runaway wolf",
+    "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no?at_medium=RSS&at_campaign=rss",
+    "description": "The widely circulated image had prompted authorities to move their search operation.",
+    "pubDate": "Fri, 24 Apr 2026 08:23:36 GMT",
+    "source": "BBC World",
+    "category": "world"
+  },
+  {
+    "title": "BBC Front Page: Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent",
+    "link": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss",
+    "description": "Officials say the restrictions are for public safety, but businesses and the public are feeling the impact.",
+    "pubDate": "Fri, 24 Apr 2026 05:00:29 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Stock markets are too high and set to fall, says Bank of England deputy",
+    "link": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
+    "description": "It is unusual for a senior figure at the Bank to be so forthright on market movements.",
+    "pubDate": "Fri, 24 Apr 2026 09:03:21 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Ringo Starr: 'I made all my mistakes on stage'",
+    "link": "https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&at_campaign=rss",
+    "description": "Beatles star reveals all about his new country album, being a Sir and coming up with the phrase A Hard Day's Night.",
+    "pubDate": "Thu, 23 Apr 2026 23:05:11 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Staff at UK's largest Pride event allege bullying and misconduct under sacked CEO",
+    "link": "https://www.bbc.com/news/articles/cn9qwyelgjwo?at_medium=RSS&at_campaign=rss",
+    "description": "Christopher Joell-Deshields was fired from Pride in London following an investigation into his conduct.",
+    "pubDate": "Fri, 24 Apr 2026 05:58:29 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "ABC Business: Corpse abuse cases force changes on Colorado's scandal-plagued funeral industry",
+    "link": "https://abcnews.com/Business/wireStory/corpse-abuse-cases-force-colorados-scandal-plagued-funeral-132336604",
+    "description": "A former funeral home owner who helped her ex-husband hide nearly 200 decomposing bodies while giving families fake ashes faces sentencing after pleading guilty to corpse abuse",
+    "pubDate": "Fri, 24 Apr 2026 02:34:58 -0400",
+    "source": "ABC Business",
+    "category": "business"
   },
   {
     "title": "BBC World: US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
@@ -102,46 +174,6 @@
     "pubDate": "Thu, 23 Apr 2026 16:52:44 GMT",
     "source": "BBC World",
     "category": "world"
-  },
-  {
-    "title": "BBC Front Page: Epstein housed victims in London flats after Met chose not to investigate him, BBC reveals",
-    "link": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
-    "description": "The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims.",
-    "pubDate": "Fri, 24 Apr 2026 05:00:03 GMT",
-    "source": "BBC Front Page",
-    "category": "top"
-  },
-  {
-    "title": "BBC Front Page: Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent",
-    "link": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss",
-    "description": "Throughout Russia, internet usage has become seriously restricted. Citizens are drawing comparison to Soviet censorship and today's digital blackouts.",
-    "pubDate": "Fri, 24 Apr 2026 05:00:29 GMT",
-    "source": "BBC Front Page",
-    "category": "top"
-  },
-  {
-    "title": "BBC Front Page: Stock markets are too high and set to fall, says Bank of England deputy",
-    "link": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
-    "description": "It is unusual for a senior figure at the Bank to be so forthright on market movements.",
-    "pubDate": "Fri, 24 Apr 2026 06:52:27 GMT",
-    "source": "BBC Front Page",
-    "category": "top"
-  },
-  {
-    "title": "BBC Front Page: Ringo Starr: 'I made all my mistakes on stage'",
-    "link": "https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&at_campaign=rss",
-    "description": "Beatles star reveals all about his new country album, being a Sir and coming up with the phrase A Hard Day's Night.",
-    "pubDate": "Thu, 23 Apr 2026 23:05:11 GMT",
-    "source": "BBC Front Page",
-    "category": "top"
-  },
-  {
-    "title": "BBC Front Page: Staff at UK's largest Pride event allege bullying and misconduct under sacked CEO",
-    "link": "https://www.bbc.com/news/articles/cn9qwyelgjwo?at_medium=RSS&at_campaign=rss",
-    "description": "Christopher Joell-Deshields was fired from Pride in London following an investigation into his conduct.",
-    "pubDate": "Fri, 24 Apr 2026 05:58:29 GMT",
-    "source": "BBC Front Page",
-    "category": "top"
   },
   {
     "title": "ABC Business: Trump administration vows crackdown on Chinese companies 'exploiting' AI models",
