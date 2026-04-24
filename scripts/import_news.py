@@ -3,7 +3,7 @@
 import json
 import re
 from datetime import datetime, timezone
-from email.utils import parsedate_to_datetime, format_datetime
+from email.utils import parsedate_to_datetime, formatdate
 from pathlib import Path
 
 import feedparser
@@ -164,7 +164,7 @@ def main():
                 "source": source["name"],
                 "category": source.get("category", "news"),
                 "tag": source.get("tag", ""),
-                "pubDate": format_datetime(datetime.fromisoformat(published), usegmt=True),
+                "pubDate": formatdate(datetime.fromisoformat(published).timestamp(), usegmt=True),
                 "published": published,
                 "created_utc": published,
             }
