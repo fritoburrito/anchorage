@@ -3,7 +3,7 @@
     "title": "Anchorage Weather: Tonight",
     "link": "https://akpulselive.com/weather.html#tonight",
     "description": "38°F | 5 to 10 mph | N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. North wind 5 to 10 mph. Chance of precipitation is 50%.",
-    "pubDate": "Fri, 24 Apr 2026 06:37:53 GMT",
+    "pubDate": "Fri, 24 Apr 2026 06:49:29 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -11,7 +11,7 @@
     "title": "Anchorage Weather: Friday",
     "link": "https://akpulselive.com/weather.html#friday",
     "description": "47°F | 5 to 10 mph | NW | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 47. Northwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.",
-    "pubDate": "Fri, 24 Apr 2026 06:37:53 GMT",
+    "pubDate": "Fri, 24 Apr 2026 06:49:29 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
@@ -19,15 +19,15 @@
     "title": "Anchorage Weather: Friday Night",
     "link": "https://akpulselive.com/weather.html#friday-night",
     "description": "36°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 36. North wind 0 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Fri, 24 Apr 2026 06:37:53 GMT",
+    "pubDate": "Fri, 24 Apr 2026 06:49:29 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
   {
-    "title": "ABC Business: Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold",
+    "title": "ABC Business: Businesses dole out up to $4M to cross Panama Canal during Strait of Hormuz chokehold",
     "link": "https://abcnews.com/Business/wireStory/businesses-dole-4-million-cross-panama-canal-strait-132337527",
     "description": "Businesses have doled out up to $4 million to cross boats through the Panama Canal to dodge ongoing chaos in the Strait of Hormuz, which has created a seismic shift in global trade flows",
-    "pubDate": "Fri, 24 Apr 2026 02:18:25 -0400",
+    "pubDate": "Fri, 24 Apr 2026 02:47:50 -0400",
     "source": "ABC Business",
     "category": "business"
   },
@@ -56,10 +56,10 @@
     "category": "business"
   },
   {
-    "title": "ABC Business: Trump administration vows crackdown on Chinese companies 'exploiting' AI models",
-    "link": "https://abcnews.com/Business/wireStory/trump-administration-vows-crackdown-chinese-companies-exploiting-ai-132331867",
-    "description": "The Trump administration is vowing to crack down on foreign tech companies&rsquo; exploitation of U.S. artificial intelligence models, singling out China at a time that country is narrowing the gap with the U.S. in the AI race",
-    "pubDate": "Thu, 23 Apr 2026 20:36:33 -0400",
+    "title": "ABC Business: Corpse abuse cases force changes on Colorado's scandal-plagued funeral industry",
+    "link": "https://abcnews.com/Business/wireStory/corpse-abuse-cases-force-colorados-scandal-plagued-funeral-132336604",
+    "description": "A former funeral home owner who helped her ex-husband hide nearly 200 decomposing bodies while giving families fake ashes faces sentencing after pleading guilty to corpse abuse",
+    "pubDate": "Fri, 24 Apr 2026 02:34:58 -0400",
     "source": "ABC Business",
     "category": "business"
   },
@@ -128,18 +128,34 @@
     "category": "top"
   },
   {
-    "title": "BBC Front Page: Assisted dying bill to run out of time as Lords hold final debate",
-    "link": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&at_campaign=rss",
-    "description": "The Terminally Ill Adults (End of Life) Bill was supported by MPs but has not cleared its stages in the Lords.",
-    "pubDate": "Fri, 24 Apr 2026 00:01:59 GMT",
-    "source": "BBC Front Page",
-    "category": "top"
-  },
-  {
     "title": "BBC Front Page: Ringo Starr: 'I made all my mistakes on stage'",
     "link": "https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&at_campaign=rss",
     "description": "Beatles star reveals all about his new country album, being a Sir and coming up with the phrase A Hard Day's Night.",
     "pubDate": "Thu, 23 Apr 2026 23:05:11 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Staff at UK's largest Pride event allege bullying and misconduct under sacked CEO",
+    "link": "https://www.bbc.com/news/articles/cn9qwyelgjwo?at_medium=RSS&at_campaign=rss",
+    "description": "Christopher Joell-Deshields was fired from Pride in London following an investigation into his conduct.",
+    "pubDate": "Fri, 24 Apr 2026 05:58:29 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "ABC Business: Trump administration vows crackdown on Chinese companies 'exploiting' AI models",
+    "link": "https://abcnews.com/Business/wireStory/trump-administration-vows-crackdown-chinese-companies-exploiting-ai-132331867",
+    "description": "The Trump administration is vowing to crack down on foreign tech companies&rsquo; exploitation of U.S. artificial intelligence models, singling out China at a time that country is narrowing the gap with the U.S. in the AI race",
+    "pubDate": "Thu, 23 Apr 2026 20:36:33 -0400",
+    "source": "ABC Business",
+    "category": "business"
+  },
+  {
+    "title": "BBC Front Page: Assisted dying bill to run out of time as Lords hold final debate",
+    "link": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&at_campaign=rss",
+    "description": "The Terminally Ill Adults (End of Life) Bill was supported by MPs but has not cleared its stages in the Lords.",
+    "pubDate": "Fri, 24 Apr 2026 00:01:59 GMT",
     "source": "BBC Front Page",
     "category": "top"
   },

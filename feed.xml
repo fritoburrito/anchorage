@@ -5,12 +5,12 @@
     <link>https://fritoburrito.github.io/anchorage/</link>
     <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:37:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 06:49:29 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://akpulselive.com/weather.html#tonight</link>
       <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Fri, 24 Apr 2026 06:37:53 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 06:49:29 GMT</pubDate>
       <description><![CDATA[38°F | 5 to 10 mph | N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. North wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Friday</title>
       <link>https://akpulselive.com/weather.html#friday</link>
       <guid isPermaLink="false">55ce42a40961a8f9566c50b3a23eb09558c838bb</guid>
-      <pubDate>Fri, 24 Apr 2026 06:37:53 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 06:49:29 GMT</pubDate>
       <description><![CDATA[47°F | 5 to 10 mph | NW | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 47. Northwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -26,9 +26,25 @@
       <title>Anchorage Weather: Friday Night</title>
       <link>https://akpulselive.com/weather.html#friday-night</link>
       <guid isPermaLink="false">a2173a314579894a61ffe1a22078bb923ff6e660</guid>
-      <pubDate>Fri, 24 Apr 2026 06:37:53 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 06:49:29 GMT</pubDate>
       <description><![CDATA[36°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 36. North wind 0 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>ABC Business: Businesses dole out up to $4M to cross Panama Canal during Strait of Hormuz chokehold</title>
+      <link>https://abcnews.com/Business/wireStory/businesses-dole-4-million-cross-panama-canal-strait-132337527</link>
+      <guid isPermaLink="false">183b99fb4589cb59f44a959bb342162e0f510fd5</guid>
+      <pubDate>Fri, 24 Apr 2026 02:47:50 -0400</pubDate>
+      <description><![CDATA[Businesses have doled out up to $4 million to cross boats through the Panama Canal to dodge ongoing chaos in the Strait of Hormuz, which has created a seismic shift in global trade flows]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>ABC Business: Corpse abuse cases force changes on Colorado's scandal-plagued funeral industry</title>
+      <link>https://abcnews.com/Business/wireStory/corpse-abuse-cases-force-colorados-scandal-plagued-funeral-132336604</link>
+      <guid isPermaLink="false">04cf19a19d19b23d1aa0bd7e3b0519a708035f41</guid>
+      <pubDate>Fri, 24 Apr 2026 02:34:58 -0400</pubDate>
+      <description><![CDATA[A former funeral home owner who helped her ex-husband hide nearly 200 decomposing bodies while giving families fake ashes faces sentencing after pleading guilty to corpse abuse]]></description>
+      <category>business</category>
     </item>
     <item>
       <title>ABC Business: Asian stocks slip, tracking Wall Street losses, and Iran war doubts push oil higher</title>
@@ -55,14 +71,6 @@
       <category>business</category>
     </item>
     <item>
-      <title>ABC Business: Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold</title>
-      <link>https://abcnews.com/Business/wireStory/businesses-dole-4-million-cross-panama-canal-strait-132337527</link>
-      <guid isPermaLink="false">183b99fb4589cb59f44a959bb342162e0f510fd5</guid>
-      <pubDate>Fri, 24 Apr 2026 02:18:25 -0400</pubDate>
-      <description><![CDATA[Businesses have doled out up to $4 million to cross boats through the Panama Canal to dodge ongoing chaos in the Strait of Hormuz, which has created a seismic shift in global trade flows]]></description>
-      <category>business</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight</link>
       <guid isPermaLink="false">1e10de77447c60ebf664fc66aa2e9bcd6ebca452</guid>
@@ -85,6 +93,14 @@
       <pubDate>Fri, 24 Apr 2026 06:17:14 GMT</pubDate>
       <description><![CDATA[36°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 36. North wind 0 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>BBC Front Page: Staff at UK's largest Pride event allege bullying and misconduct under sacked CEO</title>
+      <link>https://www.bbc.com/news/articles/cn9qwyelgjwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">70612a07c329fd2c1384c85a1976b0f2b5f905e2</guid>
+      <pubDate>Fri, 24 Apr 2026 05:58:29 GMT</pubDate>
+      <description><![CDATA[Christopher Joell-Deshields was fired from Pride in London following an investigation into his conduct.]]></description>
+      <category>top</category>
     </item>
     <item>
       <title>BBC Front Page: Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent</title>
@@ -189,22 +205,6 @@
       <pubDate>Thu, 23 Apr 2026 21:13:58 GMT</pubDate>
       <description><![CDATA[Morgan McSweeney speaks publicly for the first time about his departure from Downing Street.]]></description>
       <category>top</category>
-    </item>
-    <item>
-      <title>ABC Business: Spirit Airlines says financial aid from the US government would help it keep flying</title>
-      <link>https://abcnews.com/Business/wireStory/spirit-airlines-financial-aid-us-government-flying-132327763</link>
-      <guid isPermaLink="false">cb63dcf13502a21b2ce9f419e3ae24f7cf828cef</guid>
-      <pubDate>Thu, 23 Apr 2026 16:50:01 -0400</pubDate>
-      <description><![CDATA[A lawyer for Spirit Airlines says the struggling budget carrier is in advanced talks with the U.S. government on a financing deal that would help it emerge from bankruptcy protection]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>BBC World: US boards ship carrying Iran oil as Trump threatens mine-laying vessels</title>
-      <link>https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0c5c385c3464c7fe5f8fb0fd2c7f0469a4a285c0</guid>
-      <pubDate>Thu, 23 Apr 2026 20:45:51 GMT</pubDate>
-      <description><![CDATA[Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.]]></description>
-      <category>world</category>
     </item>
   </channel>
 </rss>
