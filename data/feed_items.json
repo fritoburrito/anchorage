@@ -2,26 +2,42 @@
   {
     "title": "Anchorage Weather: Tonight",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight",
-    "description": "37°F | 5 to 10 mph | N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 50%.",
-    "pubDate": "Fri, 24 Apr 2026 03:40:37 GMT",
+    "description": "38°F | 5 to 10 mph | N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. North wind 5 to 10 mph. Chance of precipitation is 50%.",
+    "pubDate": "Fri, 24 Apr 2026 06:17:14 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
   {
     "title": "Anchorage Weather: Friday",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#friday",
-    "description": "48°F | 5 to 10 mph | NW | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 48. Northwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.",
-    "pubDate": "Fri, 24 Apr 2026 03:40:37 GMT",
+    "description": "47°F | 5 to 10 mph | NW | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 47. Northwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.",
+    "pubDate": "Fri, 24 Apr 2026 06:17:14 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
   },
   {
     "title": "Anchorage Weather: Friday Night",
     "link": "https://api.weather.gov/gridpoints/AER/143,236/forecast#friday-night",
-    "description": "37°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 37. North wind 0 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Fri, 24 Apr 2026 03:40:37 GMT",
+    "description": "36°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 36. North wind 0 to 10 mph. Chance of precipitation is 60%.",
+    "pubDate": "Fri, 24 Apr 2026 06:17:14 GMT",
     "source": "NWS Anchorage",
     "category": "weather"
+  },
+  {
+    "title": "ABC Business: Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold",
+    "link": "https://abcnews.com/Business/wireStory/businesses-dole-4-million-cross-panama-canal-strait-132337527",
+    "description": "Businesses have doled out up to $4 million to cross boats through the Panama Canal to dodge ongoing chaos in the Strait of Hormuz, which has created a seismic shift in global trade flows",
+    "pubDate": "Fri, 24 Apr 2026 01:28:22 -0400",
+    "source": "ABC Business",
+    "category": "business"
+  },
+  {
+    "title": "ABC Business: What to know if your flight is canceled amid rising jet fuel costs",
+    "link": "https://abcnews.com/Business/wireStory/flight-canceled-amid-rising-jet-fuel-costs-132337340",
+    "description": "Airlines around the world are canceling flights as the war in the Middle East squeezes global jet fuel supplies and pushes up prices",
+    "pubDate": "Fri, 24 Apr 2026 01:14:35 -0400",
+    "source": "ABC Business",
+    "category": "business"
   },
   {
     "title": "ABC Business: Trump administration vows crackdown on Chinese companies 'exploiting' AI models",
@@ -44,22 +60,6 @@
     "link": "https://abcnews.com/Business/wireStory/spirit-airlines-financial-aid-us-government-flying-132327763",
     "description": "A lawyer for Spirit Airlines says the struggling budget carrier is in advanced talks with the U.S. government on a financing deal that would help it emerge from bankruptcy protection",
     "pubDate": "Thu, 23 Apr 2026 16:50:01 -0400",
-    "source": "ABC Business",
-    "category": "business"
-  },
-  {
-    "title": "ABC Business: Kellogg is putting toys back into some cereal boxes as a 'Toy Story 5' tie-in",
-    "link": "https://abcnews.com/Business/wireStory/kellogg-putting-toys-back-cereal-boxes-toy-story-132324723",
-    "description": "If you&rsquo;ve missed rooting around in your cereal box for a toy, you&rsquo;re in luck",
-    "pubDate": "Thu, 23 Apr 2026 15:30:49 -0400",
-    "source": "ABC Business",
-    "category": "business"
-  },
-  {
-    "title": "ABC Business: Average US long-term mortgage rate slips to 6.23%, its third weekly drop",
-    "link": "https://abcnews.com/Business/wireStory/average-us-long-term-mortgage-rate-slips-623-132319335",
-    "description": "The average long-term U.S. mortgage rate dropped for the third week in a row, easing borrowing costs for prospective homebuyers as the spring homebuying season rolls on",
-    "pubDate": "Thu, 23 Apr 2026 12:17:26 -0400",
     "source": "ABC Business",
     "category": "business"
   },
@@ -104,6 +104,30 @@
     "category": "world"
   },
   {
+    "title": "BBC Front Page: Epstein housed victims in London flats after Met chose not to investigate him, BBC reveals",
+    "link": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
+    "description": "The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims.",
+    "pubDate": "Fri, 24 Apr 2026 05:00:03 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent",
+    "link": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&at_campaign=rss",
+    "description": "Throughout Russia, internet usage has become seriously restricted. Citizens are drawing comparison to Soviet censorship and today's digital blackouts.",
+    "pubDate": "Fri, 24 Apr 2026 05:00:29 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
+    "title": "BBC Front Page: Stock markets are too high and set to fall, says Bank of England deputy",
+    "link": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
+    "description": "It is unusual for a senior figure at the Bank to be so forthright on market movements.",
+    "pubDate": "Thu, 23 Apr 2026 23:15:25 GMT",
+    "source": "BBC Front Page",
+    "category": "top"
+  },
+  {
     "title": "BBC Front Page: Assisted dying bill to run out of time as Lords hold final debate",
     "link": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&at_campaign=rss",
     "description": "The Terminally Ill Adults (End of Life) Bill was supported by MPs but has not cleared its stages in the Lords.",
@@ -120,12 +144,20 @@
     "category": "top"
   },
   {
-    "title": "BBC Front Page: Stock markets are too high and set to fall, says Bank of England deputy",
-    "link": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
-    "description": "It is unusual for a senior figure at the Bank to be so forthright on market movements.",
-    "pubDate": "Thu, 23 Apr 2026 23:15:25 GMT",
-    "source": "BBC Front Page",
-    "category": "top"
+    "title": "ABC Business: Kellogg is putting toys back into some cereal boxes as a 'Toy Story 5' tie-in",
+    "link": "https://abcnews.com/Business/wireStory/kellogg-putting-toys-back-cereal-boxes-toy-story-132324723",
+    "description": "If you&rsquo;ve missed rooting around in your cereal box for a toy, you&rsquo;re in luck",
+    "pubDate": "Thu, 23 Apr 2026 15:30:49 -0400",
+    "source": "ABC Business",
+    "category": "business"
+  },
+  {
+    "title": "ABC Business: Average US long-term mortgage rate slips to 6.23%, its third weekly drop",
+    "link": "https://abcnews.com/Business/wireStory/average-us-long-term-mortgage-rate-slips-623-132319335",
+    "description": "The average long-term U.S. mortgage rate dropped for the third week in a row, easing borrowing costs for prospective homebuyers as the spring homebuying season rolls on",
+    "pubDate": "Thu, 23 Apr 2026 12:17:26 -0400",
+    "source": "ABC Business",
+    "category": "business"
   },
   {
     "title": "BBC Front Page: Southport dads: 'Running for our girls has made us like brothers'",

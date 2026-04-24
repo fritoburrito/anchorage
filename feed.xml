@@ -5,30 +5,62 @@
     <link>https://fritoburrito.github.io/anchorage/</link>
     <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 03:40:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 06:17:14 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#tonight</link>
       <guid isPermaLink="false">1e10de77447c60ebf664fc66aa2e9bcd6ebca452</guid>
-      <pubDate>Fri, 24 Apr 2026 03:40:37 GMT</pubDate>
-      <description><![CDATA[37°F | 5 to 10 mph | N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 37. North wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
+      <pubDate>Fri, 24 Apr 2026 06:17:14 GMT</pubDate>
+      <description><![CDATA[38°F | 5 to 10 mph | N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. North wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#friday</link>
       <guid isPermaLink="false">8577b73b40b53ccafd5c73d594affe3e34e7a7e7</guid>
-      <pubDate>Fri, 24 Apr 2026 03:40:37 GMT</pubDate>
-      <description><![CDATA[48°F | 5 to 10 mph | NW | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 48. Northwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Fri, 24 Apr 2026 06:17:14 GMT</pubDate>
+      <description><![CDATA[47°F | 5 to 10 mph | NW | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 47. Northwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday Night</title>
       <link>https://api.weather.gov/gridpoints/AER/143,236/forecast#friday-night</link>
       <guid isPermaLink="false">9a63dbeb772f968569913e4886abd46cbf031b57</guid>
-      <pubDate>Fri, 24 Apr 2026 03:40:37 GMT</pubDate>
-      <description><![CDATA[37°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 37. North wind 0 to 10 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Fri, 24 Apr 2026 06:17:14 GMT</pubDate>
+      <description><![CDATA[36°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 36. North wind 0 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>ABC Business: Businesses dole out up to $4 million to cross Panama Canal during Strait of Hormuz chokehold</title>
+      <link>https://abcnews.com/Business/wireStory/businesses-dole-4-million-cross-panama-canal-strait-132337527</link>
+      <guid isPermaLink="false">183b99fb4589cb59f44a959bb342162e0f510fd5</guid>
+      <pubDate>Fri, 24 Apr 2026 01:28:22 -0400</pubDate>
+      <description><![CDATA[Businesses have doled out up to $4 million to cross boats through the Panama Canal to dodge ongoing chaos in the Strait of Hormuz, which has created a seismic shift in global trade flows]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>ABC Business: What to know if your flight is canceled amid rising jet fuel costs</title>
+      <link>https://abcnews.com/Business/wireStory/flight-canceled-amid-rising-jet-fuel-costs-132337340</link>
+      <guid isPermaLink="false">40e00f01b4d1f146d8745796c27389fb2b42ad1e</guid>
+      <pubDate>Fri, 24 Apr 2026 01:14:35 -0400</pubDate>
+      <description><![CDATA[Airlines around the world are canceling flights as the war in the Middle East squeezes global jet fuel supplies and pushes up prices]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>BBC Front Page: Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent</title>
+      <link>https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">433ee53c9909606bdaa1e645bb4ecb8d9a9ea972</guid>
+      <pubDate>Fri, 24 Apr 2026 05:00:29 GMT</pubDate>
+      <description><![CDATA[Throughout Russia, internet usage has become seriously restricted. Citizens are drawing comparison to Soviet censorship and today's digital blackouts.]]></description>
+      <category>top</category>
+    </item>
+    <item>
+      <title>BBC Front Page: Epstein housed victims in London flats after Met chose not to investigate him, BBC reveals</title>
+      <link>https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">87c98ae78915e2cf52bebf0115c55567b4cdf691</guid>
+      <pubDate>Fri, 24 Apr 2026 05:00:03 GMT</pubDate>
+      <description><![CDATA[The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims.]]></description>
+      <category>top</category>
     </item>
     <item>
       <title>BBC World: Trump tells BBC that King's visit could 'absolutely' help repair relations with UK</title>
@@ -173,38 +205,6 @@
       <pubDate>Thu, 23 Apr 2026 16:52:44 GMT</pubDate>
       <description><![CDATA[Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>ABC Business: Average US long-term mortgage rate slips to 6.23%, its third weekly drop</title>
-      <link>https://abcnews.com/Business/wireStory/average-us-long-term-mortgage-rate-slips-623-132319335</link>
-      <guid isPermaLink="false">11c89fe22759c7c3980264b8bbb20009df5bfb9e</guid>
-      <pubDate>Thu, 23 Apr 2026 12:17:26 -0400</pubDate>
-      <description><![CDATA[The average long-term U.S. mortgage rate dropped for the third week in a row, easing borrowing costs for prospective homebuyers as the spring homebuying season rolls on]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>BBC Front Page: Rapist who infected men and boys with HIV jailed</title>
-      <link>https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2ea47cfd64360db45f4b079e733df1659a99f94a</guid>
-      <pubDate>Thu, 23 Apr 2026 15:53:36 GMT</pubDate>
-      <description><![CDATA[A judge says Adam Hall took away the futures of his victims, including boys aged 15 and 17.]]></description>
-      <category>top</category>
-    </item>
-    <item>
-      <title>BBC World: More than 500 people killed in Tanzania election violence, inquiry finds</title>
-      <link>https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">77785ebd0ee178a8859fdca08e08855cfc2e878b</guid>
-      <pubDate>Thu, 23 Apr 2026 15:33:36 GMT</pubDate>
-      <description><![CDATA[Opposition parties accused security forces but the official report does not say who was responsible.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>ABC Business: Union Pacific profit climbed 5% as it builds the case for its acquisition of rival Norfolk Southern</title>
-      <link>https://abcnews.com/Business/wireStory/union-pacific-profit-climbed-5-builds-case-acquisition-132310434</link>
-      <guid isPermaLink="false">9a3de8da17221bfcb3a8d88924762dd441cd51d9</guid>
-      <pubDate>Thu, 23 Apr 2026 11:25:41 -0400</pubDate>
-      <description><![CDATA[Union Pacific delivered 5% higher earnings in the first quarter as the railroad worked to prepare its case to convince regulators that its $85 billion acquisition of eastern rival Norfolk Southern is a good idea]]></description>
-      <category>business</category>
     </item>
   </channel>
 </rss>
