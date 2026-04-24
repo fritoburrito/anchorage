@@ -144,8 +144,21 @@ async function loadFeed() {
     let rendered = 0;
 
     items.slice(0, MAX_ITEMS).forEach((item, index) => {
-      const title = item.querySelector("title")?.textContent?.trim() || "";
-      const category = item.querySelector("category")?.textContent?.trim() || "general";
+     const title = item.querySelector("title")?.textContent?.trim() || "";
+     const description = item.querySelector("description")?.textContent?.trim() || "";
+     const category = item.querySelector("category")?.textContent?.trim() || "general";
+
+   // For weather, combine title + description
+   let displayText = title;
+
+  if (category.toLowerCase() === "weather" && description) {
+  // strip basic HTML if present
+  const temp = document.createElement("div");
+  temp.innerHTML = description;
+  const cleanDesc = temp.textContent || temp.innerText || "";
+
+  displayText = `${title}: ${cleanDesc}`;
+}
 
       if (!title) return;
 
