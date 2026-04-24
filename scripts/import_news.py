@@ -120,7 +120,8 @@ def import_weather():
         if detailed:
             description += f"<br><br>{detailed}"
 
-        period_link = forecast_url + "#" + period["name"].lower().replace(" ", "-")
+        period_slug = period["name"].lower().replace(" ", "-")
+        period_link = f"https://akpulselive.com/weather.html#{period_slug}"
 
         items.append({
             "title": title,
