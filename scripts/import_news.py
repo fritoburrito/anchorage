@@ -4,6 +4,7 @@ import time
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
+import re
 from email.utils import formatdate
 from pathlib import Path
 
@@ -38,6 +39,12 @@ SOURCES = [
         "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
         "tag": "world",
         "use_keywords": True,
+    },
+    {
+    "name": "Reddit News",
+    "url": "https://www.reddit.com/r/news/new/.rss",
+    "category": "world",
+    "tag": "reddit",
     },
     {
         "enabled": True,
@@ -224,7 +231,22 @@ def parse_atom(xml_bytes: bytes, source_name: str, tag: str, use_keywords: bool 
         })
 
     return items[:MAX_PER_SOURCE]
+    
+    def fetch_feed(url):
+    import requests, feedparser
 
+    headers = {
+        "User-Agent": "AKPulseLive/1.0 (by akpulselive.com)"
+    }
+
+    r = requests.get(url, headers=headers, timeout=20)
+    r.raise_for_status()
+
+    return feedparser.parse(r.content)
+
+def clean_title(title):
+    title = re.sub(r'^\[.*?\]\s*', '', title)
+    return title.strip()
 
 def parse_feed(xml_bytes: bytes, source_name: str, tag: str, use_keywords: bool = True):
     xml_text = xml_bytes.decode("utf-8", errors="replace")
