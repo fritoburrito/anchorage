@@ -11,8 +11,7 @@
   If you use the GitHub Pages URL in OBS, use:
     const FEED_URL = "https://fritoburrito.github.io/anchorage/feed.xml";
 */
-
-const FEED_URL = "feed.xml";
+const FEED_URL = "https://akpulselive.com/feed.xml";
 const REFRESH_MS = 5 * 60 * 1000;
 const MAX_ITEMS = 15;
 const DEBUG = true;
