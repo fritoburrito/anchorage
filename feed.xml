@@ -5,12 +5,12 @@
     <link>https://fritoburrito.github.io/anchorage/</link>
     <description>A custom RSS feed published from GitHub Pages.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:34:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 06:37:53 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://akpulselive.com/weather.html#tonight</link>
       <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Fri, 24 Apr 2026 06:34:29 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 06:37:53 GMT</pubDate>
       <description><![CDATA[38°F | 5 to 10 mph | N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. North wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Friday</title>
       <link>https://akpulselive.com/weather.html#friday</link>
       <guid isPermaLink="false">55ce42a40961a8f9566c50b3a23eb09558c838bb</guid>
-      <pubDate>Fri, 24 Apr 2026 06:34:29 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 06:37:53 GMT</pubDate>
       <description><![CDATA[47°F | 5 to 10 mph | NW | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 47. Northwest wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -26,9 +26,25 @@
       <title>Anchorage Weather: Friday Night</title>
       <link>https://akpulselive.com/weather.html#friday-night</link>
       <guid isPermaLink="false">a2173a314579894a61ffe1a22078bb923ff6e660</guid>
-      <pubDate>Fri, 24 Apr 2026 06:34:29 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 06:37:53 GMT</pubDate>
       <description><![CDATA[36°F | 0 to 10 mph | N | Light Rain Likely<br><br>Rain likely before 4am. Cloudy, with a low around 36. North wind 0 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>ABC Business: Asian stocks slip, tracking Wall Street losses, and Iran war doubts push oil higher</title>
+      <link>https://abcnews.com/Business/wireStory/asian-stocks-slip-tracking-wall-street-losses-iran-132337213</link>
+      <guid isPermaLink="false">1d5238484532ca7d3bd19553796ce30eebdb124c</guid>
+      <pubDate>Fri, 24 Apr 2026 02:28:34 -0400</pubDate>
+      <description><![CDATA[Shares are mostly lower in Asia, apart from Tokyo, and oil prices have extended gains as talks on ending the war with Iran were stalled]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>ABC Business: Reclassifying marijuana as a less dangerous drug might only be the first step for Trump</title>
+      <link>https://abcnews.com/Business/wireStory/reclassifying-marijuana-dangerous-drug-step-trump-132337246</link>
+      <guid isPermaLink="false">480f43511f0834ce597bcce83a4ac01b8dcb25a9</guid>
+      <pubDate>Fri, 24 Apr 2026 02:28:30 -0400</pubDate>
+      <description><![CDATA[President Donald Trump&rsquo;s decision to reclassify state-licensed medical marijuana as a less dangerous drug is a boon for the industry]]></description>
+      <category>business</category>
     </item>
     <item>
       <title>ABC Business: What to know if your flight is canceled amid rising jet fuel costs</title>
@@ -189,22 +205,6 @@
       <pubDate>Thu, 23 Apr 2026 20:45:51 GMT</pubDate>
       <description><![CDATA[Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>ABC Business: Kellogg is putting toys back into some cereal boxes as a 'Toy Story 5' tie-in</title>
-      <link>https://abcnews.com/Business/wireStory/kellogg-putting-toys-back-cereal-boxes-toy-story-132324723</link>
-      <guid isPermaLink="false">3e26bcb690a4443dc13d29219cf78fb8ae02a64b</guid>
-      <pubDate>Thu, 23 Apr 2026 15:30:49 -0400</pubDate>
-      <description><![CDATA[If you&rsquo;ve missed rooting around in your cereal box for a toy, you&rsquo;re in luck]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>BBC Front Page: Proxy attacks in UK a real and growing concern, says PM</title>
-      <link>https://www.bbc.com/news/articles/clyxlnzrq41o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">496595383fe4b1459db5ac437a6d7cf575b7e1e5</guid>
-      <pubDate>Thu, 23 Apr 2026 18:50:58 GMT</pubDate>
-      <description><![CDATA[The prime minister says he is increasingly worried a number of countries are behind attacks in the UK.]]></description>
-      <category>top</category>
     </item>
   </channel>
 </rss>
