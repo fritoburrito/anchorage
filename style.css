@@ -36,6 +36,7 @@ html, body {
   font-weight: 800;
   text-transform: uppercase;
   box-sizing: border-box;
+  border-right: 2px solid rgba(255,255,255,0.18);
 }
 
 .label-top {
@@ -48,6 +49,7 @@ html, body {
   font-size: 16px;
   font-weight: 900;
   line-height: 1;
+  animation: livePulse 2s infinite;
 }
 
 #ticker-window {
@@ -87,6 +89,16 @@ html, body {
   text-shadow: 1px 1px 2px rgba(0,0,0,0.75);
 }
 
+.headline-text {
+  display: inline-block;
+}
+
+.separator {
+  display: inline-block;
+  opacity: 0.6;
+  margin-right: 18px;
+}
+
 .badge {
   display: inline-block;
   margin-right: 8px;
@@ -104,6 +116,7 @@ html, body {
   color: #ffffff;
   animation: breakingPulse 1s infinite;
 }
+
 .badge.weather { background: #1d4ed8; color: #fff; }
 .badge.top { background: #b91c1c; color: #fff; }
 .badge.world { background: #7c3aed; color: #fff; }
@@ -115,8 +128,30 @@ html, body {
   display: none;
 }
 
+#debug-panel {
+  position: fixed;
+  left: 8px;
+  bottom: 54px;
+  max-width: 620px;
+  background: rgba(0,0,0,0.82);
+  color: #fff;
+  font-size: 12px;
+  line-height: 1.35;
+  padding: 8px 10px;
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 6px;
+  white-space: pre-wrap;
+  pointer-events: none;
+}
+
 @keyframes breakingPulse {
   0% { opacity: 1; }
   50% { opacity: 0.65; }
+  100% { opacity: 1; }
+}
+
+@keyframes livePulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.72; }
   100% { opacity: 1; }
 }
