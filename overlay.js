@@ -186,9 +186,10 @@ async function loadFeed() {
     startScroll();
   } catch (error) {
     console.error("Failed to load feed:", error);
-    debug(`Feed unavailable: ${error.message}`);
+    const msg = `Feed unavailable: ${error.message}`;
+    debug(msg);
 
-    setSingleMessage("ERROR", "Feed unavailable");
+   setSingleMessage("ERROR", msg);
   }
 }
 
