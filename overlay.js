@@ -1,9 +1,43 @@
-const FEED_URL = "https://fritoburrito.github.io/anchorage/feed.xml";
+/*
+  Anchorage OBS Overlay Baseline
+
+  IMPORTANT:
+  If overlay.html, overlay.js, style.css, and feed.xml are all hosted in the same
+  GitHub Pages repo/folder, keep FEED_URL as "feed.xml".
+
+  If you use your custom domain in OBS, use:
+    const FEED_URL = "https://akpulselive.com/feed.xml";
+
+  If you use the GitHub Pages URL in OBS, use:
+    const FEED_URL = "https://fritoburrito.github.io/anchorage/feed.xml";
+*/
+
+const FEED_URL = "feed.xml";
 const REFRESH_MS = 5 * 60 * 1000;
+const MAX_ITEMS = 15;
+const DEBUG = true;
 
 let animId = null;
 let x = 0;
 let scrollSpeed = 0.8;
+
+function debug(message) {
+  console.log(message);
+  if (!DEBUG) return;
+
+  const panel = document.getElementById("debug-panel");
+  if (!panel) return;
+
+  panel.classList.remove("hidden");
+  panel.textContent = String(message);
+}
+
+function clearDebug() {
+  const panel = document.getElementById("debug-panel");
+  if (!panel) return;
+  panel.classList.add("hidden");
+  panel.textContent = "";
+}
 
 function getBadgeClass(category) {
   const c = (category || "").toLowerCase();
@@ -27,6 +61,30 @@ function getBadgeLabel(category) {
   return labels[c] || "GENERAL";
 }
 
+function setSingleMessage(label, message) {
+  const track = document.getElementById("ticker-track");
+  if (!track) return;
+
+  track.innerHTML = "";
+
+  const wrap = document.createElement("span");
+  wrap.className = "item";
+
+  const badge = document.createElement("span");
+  badge.className = "badge general";
+  badge.textContent = label;
+
+  const textNode = document.createElement("span");
+  textNode.className = "headline-text";
+  textNode.textContent = message;
+
+  wrap.appendChild(badge);
+  wrap.appendChild(textNode);
+  track.appendChild(wrap);
+
+  startScroll();
+}
+
 function startScroll() {
   const track = document.getElementById("ticker-track");
   if (!track) return;
@@ -35,7 +93,7 @@ function startScroll() {
   x = window.innerWidth;
 
   function step() {
-    const width = track.scrollWidth;
+    const width = track.scrollWidth || 1;
     x -= scrollSpeed;
 
     if (x < -width) {
@@ -54,87 +112,84 @@ async function loadFeed() {
   if (!track) return;
 
   try {
-    const response = await fetch(FEED_URL + "?t=" + Date.now(), { cache: "no-store" });
+    debug(`Loading feed: ${FEED_URL}`);
+
+    const response = await fetch(FEED_URL + "?t=" + Date.now(), {
+      cache: "no-store"
+    });
+
     if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
+      throw new Error(`Feed fetch failed: HTTP ${response.status}`);
     }
 
     const text = await response.text();
+
+    if (!text.trim()) {
+      throw new Error("Feed file was empty");
+    }
+
     const xml = new DOMParser().parseFromString(text, "text/xml");
 
-    if (xml.querySelector("parsererror")) {
-      throw new Error("XML parser error");
+    const parserError = xml.querySelector("parsererror");
+    if (parserError) {
+      throw new Error("XML parser error: " + parserError.textContent.slice(0, 180));
     }
 
     const items = [...xml.querySelectorAll("item")];
-    track.innerHTML = "";
 
     if (!items.length) {
-      const empty = document.createElement("span");
-      empty.className = "item";
-      empty.textContent = "No feed items available.";
-      track.appendChild(empty);
-      startScroll();
-      return;
+      throw new Error("No <item> entries found in feed");
     }
 
+    track.innerHTML = "";
     let rendered = 0;
 
-    items.slice(0, 15).forEach((item, index) => {
-      try {
-        const title = item.querySelector("title")?.textContent?.trim() || "";
-        const category = item.querySelector("category")?.textContent?.trim() || "general";
+    items.slice(0, MAX_ITEMS).forEach((item, index) => {
+      const title = item.querySelector("title")?.textContent?.trim() || "";
+      const category = item.querySelector("category")?.textContent?.trim() || "general";
 
-        if (!title) return;
+      if (!title) return;
 
-        const wrap = document.createElement("span");
-        wrap.className = "item";
+      const wrap = document.createElement("span");
+      wrap.className = "item";
 
-        if (category.toLowerCase() === "breaking") {
-          wrap.style.fontWeight = "900";
-          wrap.style.textTransform = "uppercase";
-        }
+      if (category.toLowerCase() === "breaking") {
+        wrap.style.fontWeight = "900";
+        wrap.style.textTransform = "uppercase";
+      }
 
-        const badge = document.createElement("span");
-        badge.className = `badge ${getBadgeClass(category)}`;
-        badge.textContent = getBadgeLabel(category);
+      const badge = document.createElement("span");
+      badge.className = `badge ${getBadgeClass(category)}`;
+      badge.textContent = getBadgeLabel(category);
 
-        const textNode = document.createElement("span");
-        textNode.textContent = title;
+      const textNode = document.createElement("span");
+      textNode.className = "headline-text";
+      textNode.textContent = title;
 
-        wrap.appendChild(badge);
-        wrap.appendChild(textNode);
-        track.appendChild(wrap);
-        rendered++;
+      wrap.appendChild(badge);
+      wrap.appendChild(textNode);
+      track.appendChild(wrap);
+      rendered++;
 
-        if (index < items.length - 1) {
-          const separator = document.createElement("span");
-          separator.textContent = "  •  ";
-          separator.style.opacity = "0.6";
-          separator.style.display = "inline-block";
-          separator.style.marginRight = "18px";
-          track.appendChild(separator);
-        }
-      } catch (itemError) {
-        console.error("Skipping bad item:", itemError);
+      if (index < Math.min(items.length, MAX_ITEMS) - 1) {
+        const separator = document.createElement("span");
+        separator.className = "separator";
+        separator.textContent = "•";
+        track.appendChild(separator);
       }
     });
 
     if (!rendered) {
-      throw new Error("No valid items rendered");
+      throw new Error("Items existed, but none had usable titles");
     }
 
+    clearDebug();
     startScroll();
   } catch (error) {
     console.error("Failed to load feed:", error);
-    track.innerHTML = "";
+    debug(`Feed unavailable: ${error.message}`);
 
-    const fail = document.createElement("span");
-    fail.className = "item";
-    fail.textContent = "Feed unavailable.";
-    track.appendChild(fail);
-
-    startScroll();
+    setSingleMessage("ERROR", "Feed unavailable");
   }
 }
 
