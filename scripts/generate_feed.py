@@ -105,11 +105,13 @@ def build_weather_page(items):
     for item in weather_items:
         title = escape(item["title"])
         desc = item.get("description", "")
+
+        icon = weather_icon(title + " " + desc)
         slug = title.lower().replace(" ", "-").replace(":", "").replace("/", "-")
 
         cards.append(f'''
       <section class="weather-card" id="{slug}">
-        <h2>{title}</h2>
+        <h2>{icon} {title}</h2>
         <div class="weather-desc">{desc}</div>
       </section>
 ''')
