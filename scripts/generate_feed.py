@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "feed_items.json"
 FEED_FILE = ROOT / "feed.xml"
 INDEX_FILE = ROOT / "index.html"
+WEATHER_FILE = ROOT / "weather.html"
 
 SITE_URL = "https://fritoburrito.github.io/anchorage/"
 FEED_URL = SITE_URL + "feed.xml"
@@ -97,6 +98,62 @@ def build_feed(items):
     lines.extend(['  </channel>', '</rss>', ''])
     return "\n".join(lines)
 
+def build_weather_page(items):
+    weather_items = [item for item in items if effective_category(item) == "weather"]
+
+    cards = []
+    for item in weather_items:
+        title = escape(item["title"])
+        desc = item.get("description", "")
+        slug = title.lower().replace(" ", "-").replace(":", "").replace("/", "-")
+
+        cards.append(f'''
+      <section class="weather-card" id="{slug}">
+        <h2>{title}</h2>
+        <div class="weather-desc">{desc}</div>
+      </section>
+''')
+
+    cards_html = "\n".join(cards) if cards else "<p>No weather forecast available.</p>"
+
+    return f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Anchorage Weather Forecast</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {{
+      font-family: Arial, sans-serif;
+      max-width: 860px;
+      margin: 40px auto;
+      padding: 0 16px;
+      background: #111827;
+      color: #f3f4f6;
+      line-height: 1.6;
+    }}
+    a {{ color: #93c5fd; }}
+    .weather-card {{
+      background: #1f2937;
+      border: 1px solid #374151;
+      border-radius: 14px;
+      padding: 18px;
+      margin-bottom: 16px;
+    }}
+    h1 {{ margin-bottom: 6px; }}
+    h2 {{ color: #bfdbfe; margin-top: 0; }}
+    .weather-desc {{
+      font-size: 1rem;
+    }}
+  </style>
+</head>
+<body>
+  <h1>Anchorage Weather Forecast</h1>
+  <p><a href="index.html">← Back to feed</a></p>
+  {cards_html}
+</body>
+</html>
+'''
 
 def build_index(items):
     rows = []
@@ -253,9 +310,10 @@ def main():
     items = load_items()
     FEED_FILE.write_text(build_feed(items), encoding="utf-8")
     INDEX_FILE.write_text(build_index(items), encoding="utf-8")
+    WEATHER_FILE.write_text(build_weather_page(items), encoding="utf-8")
     print(f"Wrote {FEED_FILE}")
     print(f"Wrote {INDEX_FILE}")
-
+    print(f"Wrote {WEATHER_FILE}")
 
 if __name__ == "__main__":
     main()
