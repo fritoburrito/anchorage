@@ -14,7 +14,7 @@ WEATHER_FILE = ROOT / "weather.html"
 SITE_URL = "https://fritoburrito.github.io/anchorage/"
 FEED_URL = SITE_URL + "feed.xml"
 FEED_TITLE = "Anchorage Custom Feed"
-FEED_DESCRIPTION = "A custom RSS feed published from GitHub Pages."
+FEED_DESCRIPTION = "A custom WEB/RSS feed published by a Bot."
 LANGUAGE = "en-us"
 MAX_ITEMS = 25
 
