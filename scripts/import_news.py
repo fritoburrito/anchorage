@@ -160,9 +160,11 @@ def main():
                 "link": link,
                 "url": link,
                 "summary": summary,
+                "description": summary,
                 "source": source["name"],
                 "category": source.get("category", "news"),
                 "tag": source.get("tag", ""),
+                "pubDate": published,
                 "published": published,
                 "created_utc": published,
             }
