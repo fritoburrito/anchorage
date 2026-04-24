@@ -21,7 +21,7 @@ SOURCES = [
     {
         "name": "Reddit News",
         "url": "https://www.reddit.com/r/news/new/.rss",
-        "category": "world",
+        "category": "reddit",
         "tag": "reddit",
         "enabled": True,
     },
