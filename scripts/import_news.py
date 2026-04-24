@@ -287,6 +287,9 @@ def main():
         if not source.get("enabled", True):
             print(f"Skipped disabled source: {source['name']}")
             continue
+        print("Fetching:", source["name"], source["url"])
+        feed = fetch_feed(source["url"])
+        print("Entries found:", len(feed.entries))
 
         try:
             xml_bytes = fetch_xml(source["url"])
