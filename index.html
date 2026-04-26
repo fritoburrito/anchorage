@@ -6,6 +6,10 @@
   <title>AK Pulse Live</title>
 
   <style>
+    html {
+      scroll-behavior: smooth;
+    }
+
     :root {
       --bg: #0b0f1a;
       --panel: #121827;
@@ -176,6 +180,7 @@
       margin: 28px 0 14px;
       font-size: 1.25rem;
       color: var(--green);
+      scroll-margin-top: 150px;
     }
 
     .news-grid {
@@ -184,17 +189,23 @@
       gap: 18px;
     }
 
+    .card-link {
+      display: block;
+    }
+
     .card {
+      height: 100%;
       background: var(--panel);
       border: 1px solid var(--border);
       border-radius: 18px;
       padding: 18px;
-      transition: transform 0.2s ease, border 0.2s ease;
+      transition: transform 0.2s ease, border 0.2s ease, background 0.2s ease;
     }
 
     .card:hover {
       transform: translateY(-3px);
       border-color: rgba(123,255,178,0.35);
+      background: var(--panel-soft);
     }
 
     .card h3 {
@@ -225,6 +236,7 @@
       border: 1px solid var(--border);
       border-radius: 22px;
       padding: 20px;
+      scroll-margin-top: 150px;
     }
 
     .widget h3 {
@@ -252,6 +264,11 @@
 
     .small-list li:last-child {
       border-bottom: none;
+    }
+
+    .small-list a:hover,
+    footer a:hover {
+      color: var(--green);
     }
 
     .mascot {
@@ -308,10 +325,11 @@
       </div>
 
       <nav>
-        <a href="#">Top Stories</a>
-        <a href="#">Alaska</a>
-        <a href="#">Weather</a>
-        <a href="#">Reddit</a>
+        <a href="#top">Top Stories</a>
+        <a href="#alaska">Alaska</a>
+        <a href="#world">World</a>
+        <a href="#reddit">Reddit</a>
+        <a href="#weather">Weather</a>
         <a href="feed.xml">RSS Feed</a>
       </nav>
     </div>
@@ -337,53 +355,135 @@
           </p>
         </article>
 
-        <h2 class="section-title">Top Stories</h2>
+        <h2 id="top" class="section-title">Top Stories</h2>
 
         <div class="news-grid">
-          <article class="card">
-            <span class="tag">World</span>
-            <h3>Example headline from BBC, Reuters, or another source</h3>
-            <div class="meta">BBC News • Updated recently</div>
-            <p>This is where a short article summary or feed description would appear.</p>
-          </article>
+          <a class="card-link" href="#" target="_blank" rel="noopener">
+            <article class="card">
+              <span class="tag">World</span>
+              <h3>Example headline from BBC, Reuters, or another source</h3>
+              <div class="meta">BBC News • Updated recently</div>
+              <p>This is where a short article summary or feed description would appear.</p>
+            </article>
+          </a>
 
-          <article class="card">
-            <span class="tag">Reddit</span>
-            <h3>Popular discussion currently rising on Reddit</h3>
-            <div class="meta">Reddit News • Community feed</div>
-            <p>Use your new Reddit category here so it stands apart from world news.</p>
-          </article>
+          <a class="card-link" href="#" target="_blank" rel="noopener">
+            <article class="card">
+              <span class="tag">Reddit</span>
+              <h3>Popular discussion currently rising on Reddit</h3>
+              <div class="meta">Reddit News • Community feed</div>
+              <p>Use your new Reddit category here so it stands apart from world news.</p>
+            </article>
+          </a>
 
-          <article class="card">
-            <span class="tag">Alaska</span>
-            <h3>Regional story affecting Anchorage or Alaska</h3>
-            <div class="meta">Local Feed • Anchorage</div>
-            <p>Great place for Alaska-specific headlines and community stories.</p>
-          </article>
+          <a class="card-link" href="#" target="_blank" rel="noopener">
+            <article class="card">
+              <span class="tag">Alaska</span>
+              <h3>Regional story affecting Anchorage or Alaska</h3>
+              <div class="meta">Local Feed • Anchorage</div>
+              <p>Great place for Alaska-specific headlines and community stories.</p>
+            </article>
+          </a>
 
-          <article class="card">
-            <span class="tag">Weather</span>
-            <h3>Weather update for Anchorage and surrounding areas</h3>
-            <div class="meta">NWS Anchorage • Forecast</div>
-            <p>Weather should appear here lightly, but the main weather goes in the sidebar.</p>
-          </article>
+          <a class="card-link" href="#" target="_blank" rel="noopener">
+            <article class="card">
+              <span class="tag">Weather</span>
+              <h3>Weather update for Anchorage and surrounding areas</h3>
+              <div class="meta">NWS Anchorage • Forecast</div>
+              <p>Weather should appear here lightly, but the main weather goes in the sidebar.</p>
+            </article>
+          </a>
+        </div>
+
+        <h2 id="alaska" class="section-title">Alaska</h2>
+        <div class="news-grid">
+          <a class="card-link" href="#" target="_blank" rel="noopener">
+            <article class="card">
+              <span class="tag">Alaska</span>
+              <h3>Anchorage and Alaska headline placeholder</h3>
+              <div class="meta">Local Sources • Alaska</div>
+              <p>Alaska-specific stories from your feed will go here.</p>
+            </article>
+          </a>
+
+          <a class="card-link" href="#" target="_blank" rel="noopener">
+            <article class="card">
+              <span class="tag">Alaska</span>
+              <h3>Community update placeholder</h3>
+              <div class="meta">Local Sources • Anchorage</div>
+              <p>Use this section for Anchorage, Fairbanks, Juneau, and statewide updates.</p>
+            </article>
+          </a>
+        </div>
+
+        <h2 id="world" class="section-title">World News</h2>
+        <div class="news-grid">
+          <a class="card-link" href="#" target="_blank" rel="noopener">
+            <article class="card">
+              <span class="tag">World</span>
+              <h3>World news headline placeholder</h3>
+              <div class="meta">BBC / Reuters / ABC</div>
+              <p>World and national headlines from your RSS imports will go here.</p>
+            </article>
+          </a>
+
+          <a class="card-link" href="#" target="_blank" rel="noopener">
+            <article class="card">
+              <span class="tag">Business</span>
+              <h3>Business headline placeholder</h3>
+              <div class="meta">ABC Business • Updated by feed</div>
+              <p>Business and economy headlines can live in this section too.</p>
+            </article>
+          </a>
+        </div>
+
+        <h2 id="reddit" class="section-title">Reddit</h2>
+        <div class="news-grid">
+          <a class="card-link" href="#" target="_blank" rel="noopener">
+            <article class="card">
+              <span class="tag">Reddit</span>
+              <h3>Trending Reddit post placeholder</h3>
+              <div class="meta">Reddit News • r/news</div>
+              <p>Reddit RSS items now have their own place instead of being mixed into world news.</p>
+            </article>
+          </a>
+
+          <a class="card-link" href="#" target="_blank" rel="noopener">
+            <article class="card">
+              <span class="tag">Reddit</span>
+              <h3>Community discussion placeholder</h3>
+              <div class="meta">Reddit News • Community feed</div>
+              <p>Community-driven stories and discussions can be displayed here.</p>
+            </article>
+          </a>
         </div>
       </section>
 
       <aside>
-        <section class="widget">
+        <section id="weather" class="widget">
           <h3>Anchorage Weather</h3>
           <div class="weather-temp">32°</div>
           <p class="meta">Cloudy • Light wind • Updated by feed</p>
         </section>
 
         <section class="widget">
+          <h3>Sources</h3>
+          <ul class="small-list">
+            <li><a href="https://feeds.bbci.co.uk/news/rss.xml" target="_blank" rel="noopener">BBC News</a></li>
+            <li><a href="https://www.reddit.com/r/news/new/.rss" target="_blank" rel="noopener">Reddit News</a></li>
+            <li><a href="https://abcnews.go.com/abcnews/businessheadlines" target="_blank" rel="noopener">ABC Business</a></li>
+            <li><a href="https://www.weather.gov/afc/" target="_blank" rel="noopener">NWS Anchorage</a></li>
+            <li><a href="feed.xml">AK Pulse RSS Feed</a></li>
+          </ul>
+        </section>
+
+        <section class="widget">
           <h3>Categories</h3>
           <ul class="small-list">
-            <li>World News</li>
-            <li>Alaska</li>
-            <li>Weather</li>
-            <li>Reddit</li>
+            <li><a href="#world">World News</a></li>
+            <li><a href="#alaska">Alaska</a></li>
+            <li><a href="#weather">Weather</a></li>
+            <li><a href="#reddit">Reddit</a></li>
             <li>Business</li>
           </ul>
         </section>
@@ -405,7 +505,14 @@
   <!-- Example: <img class="mascot" src="assets/beaver.png" alt="Cartoon beaver mascot"> -->
 
   <footer>
-    AK Pulse Live • Powered by GitHub Pages • <a href="feed.xml">RSS Feed</a>
+    <a href="#top">Top Stories</a> •
+    <a href="#alaska">Alaska</a> •
+    <a href="#world">World</a> •
+    <a href="#reddit">Reddit</a> •
+    <a href="#weather">Weather</a> •
+    <a href="feed.xml">RSS Feed</a>
+    <br><br>
+    AK Pulse Live • Powered by GitHub Pages
   </footer>
 
 </body>
