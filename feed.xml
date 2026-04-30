@@ -5,7 +5,71 @@
     <link>akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 19:45:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 17:39:15 GMT</lastBuildDate>
+    <item>
+      <title>LIVE:  ABC News Live</title>
+      <link>https://abcnews.com/video/41463246/</link>
+      <guid isPermaLink="false">5af5fc276eedeb0262a90dc7db5698f82ad16ddb</guid>
+      <pubDate>Thu, 30 Apr 2026 17:39:15 GMT</pubDate>
+      <description><![CDATA[24/7 coverage of breaking news and live events]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: This Afternoon</title>
+      <link>https://akpulselive.com/weather.html#this-afternoon</link>
+      <guid isPermaLink="false">53adb82eb036cc9a926d74868058f6836b5847fb</guid>
+      <pubDate>Thu, 30 Apr 2026 21:10:58 GMT</pubDate>
+      <description><![CDATA[47°F | 5 to 10 mph SE | Slight Chance Rain Showers<br><br>A slight chance of rain showers. Cloudy, with a high near 47. Southeast wind 5 to 10 mph. Chance of precipitation is 20%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Lightning strikes giant dinosaur animatronic in Kansas, leaves only skeleton behind</title>
+      <link>https://www.reddit.com/r/news/comments/1t08f7o/lightning_strikes_giant_dinosaur_animatronic_in/</link>
+      <guid isPermaLink="false">2da0058e49bcf827468bd6bd68842f68d3c483d7</guid>
+      <pubDate>Thu, 30 Apr 2026 21:10:40 GMT</pubDate>
+      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/kevro"> /u/kevro </a> <br /> <span><a href="https://www.weareiowa.com/article/news/nation-world/lightning-fire-dinosaur-burned-kansas-theme-park/507-1a1d761e-42a7-4937-9fa8-f52ffeff8328">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t08f7o/lightning_strikes_giant_dinosaur_animatronic_in/">[comments]</a></span>]]></description>
+      <category>reddit</category>
+    </item>
+    <item>
+      <title>'I held down Golders Green suspect' says volunteer who grabbed ankle</title>
+      <link>https://www.bbc.com/news/articles/cn7pyp13y8no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6849e81da90d9564cf3c9e3e5d8955c905b3ea81</guid>
+      <pubDate>Thu, 30 Apr 2026 20:54:50 GMT</pubDate>
+      <description><![CDATA["If eyes could kill, I'd be dead," he tells the BBC when recounting the moment he saw the suspect.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iran will be at the World Cup and will play in the US, FIFA boss says</title>
+      <link>https://abcnews.com/US/iran-world-cup-play-us-fifa-boss/story?id=132550077</link>
+      <guid isPermaLink="false">bec7903b786c8a8921e114bcc12e853c5d2889ad</guid>
+      <pubDate>Thu, 30 Apr 2026 20:23:35 GMT</pubDate>
+      <description><![CDATA["We have to bring people together," FIFA President Gianni Infantino said.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Deadly Israeli strikes on southern Lebanon despite ceasefire</title>
+      <link>https://www.bbc.com/news/articles/cq5pepj21g8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f6953ce2632009c9f53257a35af872f4fcd140c6</guid>
+      <pubDate>Thu, 30 Apr 2026 20:14:48 GMT</pubDate>
+      <description><![CDATA[At least nine people - including two children - were killed, according to Lebanon's health ministry.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The Onion's bid to take over Alex Jones' Infowars is in limbo as new court battles emerge</title>
+      <link>https://abcnews.com/Business/wireStory/onions-bid-alex-jones-infowars-limbo-new-court-132549518</link>
+      <guid isPermaLink="false">632a38d8a1b078748669f3c6d1d4f612af930dd1</guid>
+      <pubDate>Thu, 30 Apr 2026 20:07:36 GMT</pubDate>
+      <description><![CDATA[The Onion's plan to transform Alex Jones' Infowars platforms into parody sites are in limbo again]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>King and Queen end US state visit with trip to small-town America</title>
+      <link>https://www.bbc.com/news/articles/cdrpjm47jv4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">007df4b369c4fba541019a5d1991347fd0ff88f9</guid>
+      <pubDate>Thu, 30 Apr 2026 20:04:41 GMT</pubDate>
+      <description><![CDATA[On the final day of the state visit, the royal couple headed to Virginia for a more informal experience of the US.]]></description>
+      <category>world</category>
+    </item>
     <item>
       <title>Anchorage Weather: Today</title>
       <link>https://akpulselive.com/weather.html#today</link>
@@ -141,70 +205,6 @@
       <pubDate>Thu, 30 Apr 2026 19:12:03 GMT</pubDate>
       <description><![CDATA[The bill, already cleared by the US Senate, now moves to the desk of President Donald Trump who is expected to swiftly sign the legislation.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>Camp Mystic says it won't reopen Texas camp this summer</title>
-      <link>https://abcnews.com/US/camp-mystic-reopen-texas-camp-summer/story?id=132543208</link>
-      <guid isPermaLink="false">543c23bbbbe5fc5f50d31dbb766c77b45786aa61</guid>
-      <pubDate>Thu, 30 Apr 2026 19:03:58 GMT</pubDate>
-      <description><![CDATA[The camp said it informed the Texas Department of State Health Services on Thursday that it is withdrawing its application for a summer 2026 camp license.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>WW2 bomb to be blown up as 1,200 homes evacuated</title>
-      <link>https://www.bbc.com/news/articles/c62650ld8p3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">df8f45727edae937f1c7d16052fe76a46bbb536f</guid>
-      <pubDate>Thu, 30 Apr 2026 18:48:46 GMT</pubDate>
-      <description><![CDATA[Teams are working through the night to limit most of the damage to the surrounding area.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>WATCH:  Meet the newest stars of 'The Devil Wears Prada 2'</title>
-      <link>https://abcnews.com/video/132544647/</link>
-      <guid isPermaLink="false">c5a311f8e7be2a2cff19a86afe8cdef99ab61a12</guid>
-      <pubDate>Thu, 30 Apr 2026 18:44:23 GMT</pubDate>
-      <description><![CDATA[ABC News’ Linsey Davis speaks with the young stars portraying the new generation of assistants stepping into the world of "Runway" magazine on the big screen.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today</title>
-      <link>https://akpulselive.com/weather.html#today</link>
-      <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
-      <pubDate>Thu, 30 Apr 2026 17:39:45 GMT</pubDate>
-      <description><![CDATA[47°F | 5 to 10 mph SE | Cloudy then Slight Chance Rain Showers<br><br>A slight chance of rain showers after 1pm. Cloudy, with a high near 47. Southeast wind 5 to 10 mph. Chance of precipitation is 20%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>A-bomb exhibition opens at U.N. headquarters during NPT meeting</title>
-      <link>https://www.reddit.com/r/news/comments/1szux7y/abomb_exhibition_opens_at_un_headquarters_during/</link>
-      <guid isPermaLink="false">d87d2443b69df2109954c3a41b6e82739fecc376</guid>
-      <pubDate>Thu, 30 Apr 2026 17:39:44 GMT</pubDate>
-      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/ComprehensiveWin1434"> /u/ComprehensiveWin1434 </a> <br /> <span><a href="https://english.kyodonews.net/articles/-/75050">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1szux7y/abomb_exhibition_opens_at_un_headquarters_during/">[comments]</a></span>]]></description>
-      <category>reddit</category>
-    </item>
-    <item>
-      <title>New Orleans sheriff indicted on charges of failing to prevent jailbreak and escape of 10 inmates</title>
-      <link>https://www.reddit.com/r/news/comments/1szx0zn/new_orleans_sheriff_indicted_on_charges_of/</link>
-      <guid isPermaLink="false">6af444cd2a3fd426a5c54a40917469d3fe0c0d81</guid>
-      <pubDate>Thu, 30 Apr 2026 17:39:44 GMT</pubDate>
-      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/AudibleNod"> /u/AudibleNod </a> <br /> <span><a href="https://www.nbcnews.com/news/us-news/new-orleans-sheriff-indicted-allegedly-prevent-jailbreak-escape-10-inm-rcna342843">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1szx0zn/new_orleans_sheriff_indicted_on_charges_of/">[comments]</a></span>]]></description>
-      <category>reddit</category>
-    </item>
-    <item>
-      <title>Key inflation gauge jumps to highest level in 3 years as Iran war spikes gas prices</title>
-      <link>https://www.reddit.com/r/news/comments/1szy7pv/key_inflation_gauge_jumps_to_highest_level_in_3/</link>
-      <guid isPermaLink="false">081f925e2f6e81f42aa7aa1dcf9111e4ba5c54ce</guid>
-      <pubDate>Thu, 30 Apr 2026 17:39:44 GMT</pubDate>
-      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/YesterShill"> /u/YesterShill </a> <br /> <span><a href="https://apnews.com/article/consumer-prices-gas-inflation-5c2037950e57d8e5d402a40b8fc41384">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1szy7pv/key_inflation_gauge_jumps_to_highest_level_in_3/">[comments]</a></span>]]></description>
-      <category>reddit</category>
-    </item>
-    <item>
-      <title>Body bag bought online was part of d4vd’s scheme to kill 14-year-old to hide his sexual abuse, prosecutors say | CNN</title>
-      <link>https://www.reddit.com/r/news/comments/1szynrb/body_bag_bought_online_was_part_of_d4vds_scheme/</link>
-      <guid isPermaLink="false">b378a30978266e68e42255ad224a3a186adbeb16</guid>
-      <pubDate>Thu, 30 Apr 2026 17:39:44 GMT</pubDate>
-      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/ShameSudden6275"> /u/ShameSudden6275 </a> <br /> <span><a href="https://www.cnn.com/2026/04/29/us/d4vd-timeline-celeste-rivas">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1szynrb/body_bag_bought_online_was_part_of_d4vds_scheme/">[comments]</a></span>]]></description>
-      <category>reddit</category>
     </item>
   </channel>
 </rss>
