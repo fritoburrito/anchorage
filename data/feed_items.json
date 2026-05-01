@@ -3,6 +3,19 @@
     "title": "Anchorage Weather: Today",
     "link": "https://akpulselive.com/weather.html#today",
     "url": "https://akpulselive.com/weather.html#today",
+    "summary": "45°F | 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind around 5 mph. Chance of precipitation is 40%.",
+    "description": "45°F | 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind around 5 mph. Chance of precipitation is 40%.",
+    "source": "NWS Anchorage",
+    "category": "weather",
+    "tag": "weather",
+    "pubDate": "Fri, 01 May 2026 15:14:12 GMT",
+    "published": "2026-05-01T15:14:12.366889+00:00",
+    "created_utc": "2026-05-01T15:14:12.366889+00:00"
+  },
+  {
+    "title": "Anchorage Weather: Today",
+    "link": "https://akpulselive.com/weather.html#today",
+    "url": "https://akpulselive.com/weather.html#today",
     "summary": "45°F | 0 to 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.",
     "description": "45°F | 0 to 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.",
     "source": "NWS Anchorage",
@@ -960,18 +973,5 @@
     "pubDate": "Fri, 01 May 2026 08:38:04 GMT",
     "published": "2026-05-01T08:38:04+00:00",
     "created_utc": "2026-05-01T08:38:04+00:00"
-  },
-  {
-    "title": "One of the world's most valuable books goes on display in Glasgow",
-    "link": "https://www.bbc.com/news/articles/cgjp4d82p91o?at_medium=RSS&at_campaign=rss",
-    "url": "https://www.bbc.com/news/articles/cgjp4d82p91o?at_medium=RSS&at_campaign=rss",
-    "summary": "An exhibition of Birds of America by John James Audubon opens at the Royal College of Physicians and Surgeons of Glasgow.",
-    "description": "An exhibition of Birds of America by John James Audubon opens at the Royal College of Physicians and Surgeons of Glasgow.",
-    "source": "BBC News",
-    "category": "world",
-    "tag": "bbc",
-    "pubDate": "Fri, 01 May 2026 07:56:32 GMT",
-    "published": "2026-05-01T07:56:32+00:00",
-    "created_utc": "2026-05-01T07:56:32+00:00"
   }
 ]
