@@ -2,66 +2,69 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <title>AK Pulse Live</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AK Live Pulse</title>
-  <link rel="icon" type="image/png" href="favicon.png">
-  <link rel="alternate" type="application/rss+xml" title="AK Live Pulse" href="feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="AK Pulse Live" href="feed.xml">
+
   <style>
-    .site-header {
-      text-align: center;
-      margin: 12px 0 18px 0;
-    }
-
-    .header-inner {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 18px;
-      flex-wrap: wrap;
-    }
-
-    .site-logo {
-      width: 120px;
-      max-width: 45vw;
-      height: auto;
-      display: block;
-      filter: drop-shadow(0 0 8px rgba(0,198,255,0.35));
-    }
-
-    .site-clock-wrap {
-      background: #1f2937;
-      border: 1px solid #374151;
-      border-radius: 12px;
-      padding: 8px 12px;
-      min-width: 130px;
-    }
-
-    .site-clock-label {
-      font-size: 0.68rem;
-      color: #9aa3b2;
-      letter-spacing: 0.08em;
-      font-weight: 700;
-    }
-
-    .site-clock {
-      font-size: 1.2rem;
-      font-weight: 800;
-      color: #7bffb2;
-      line-height: 1.2;
-    }
-
     body {
-      font-family: Arial, sans-serif;
-      max-width: 860px;
-      margin: 40px auto;
-      padding: 0 16px;
-      line-height: 1.5;
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #0b1020;
+      color: #f5f7fb;
+    }
+
+    header {
+      padding: 32px 20px;
+      background: linear-gradient(135deg, #0f172a, #123456);
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .wrap {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 2.2rem;
+    }
+
+    .subtitle {
+      color: #cbd5e1;
+      margin-top: 8px;
+    }
+
+    .feed-link {
+      display: inline-block;
+      margin-top: 16px;
+      color: #93c5fd;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .grid {
+      display: grid;
+      gap: 16px;
+      margin-top: 20px;
+    }
+
+    .card {
       background: #111827;
-      color: #f3f4f6;
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 14px;
+      padding: 18px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    }
+
+    .card h2 {
+      margin: 10px 0;
+      font-size: 1.2rem;
     }
 
     a {
-      color: #93c5fd;
+      color: #dbeafe;
       text-decoration: none;
     }
 
@@ -69,261 +72,544 @@
       text-decoration: underline;
     }
 
-    code {
-      background: #1f2937;
-      padding: 2px 6px;
-      border-radius: 4px;
-      color: #e5e7eb;
-    }
-
-    .main-link {
-      display: inline-block;
-      padding: 12px 18px;
-      background: linear-gradient(135deg, #00c6ff, #7bffb2);
-      color: #000;
-      border-radius: 10px;
-      font-weight: 800;
-      font-size: 1rem;
-      text-decoration: none;
-      margin: 12px 0;
-      box-shadow: 0 4px 14px rgba(0,198,255,0.35);
-      transition: all 0.2s ease;
-    }
-
-    .main-link:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 18px rgba(123,255,178,0.45);
-      text-decoration: none;
-    }
-
-    .feed-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-
-    .feed-item {
-      background: #1f2937;
-      border: 1px solid #374151;
-      border-radius: 12px;
-      padding: 14px 16px;
-      margin: 0 0 14px 0;
-    }
-
-    .item-top {
+    .meta {
       display: flex;
+      gap: 10px;
       align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      margin-bottom: 8px;
-      flex-wrap: wrap;
+      color: #94a3b8;
+      font-size: 0.85rem;
     }
 
-    .item-title {
-      font-size: 1.02rem;
-      font-weight: 600;
-    }
-
-    .cat-badge {
-      display: inline-block;
-      padding: 4px 10px;
+    .badge {
+      background: #2563eb;
+      color: white;
+      padding: 4px 8px;
       border-radius: 999px;
-      font-size: 0.78rem;
-      font-weight: 700;
-      letter-spacing: 0.02em;
       text-transform: uppercase;
+      font-size: 0.7rem;
+      letter-spacing: 0.04em;
     }
 
-    .cat-breaking {
-      background: #dc2626;
-      color: #ffffff;
-      animation: breakingPulse 1s infinite;
-    }
-
-    .cat-weather {
-      background: #1d4ed8;
-      color: #eff6ff;
-    }
-
-    .cat-top {
-      background: #b91c1c;
-      color: #fef2f2;
-    }
-
-    .cat-world {
-      background: #7c3aed;
-      color: #f5f3ff;
-    }
-
-    .cat-business {
-      background: #047857;
-      color: #ecfdf5;
-    }
-
-    .cat-local {
-      background: #c2410c;
-      color: #fff7ed;
-    }
-
-    .cat-reddit {
-      background: #ff4500;
-      color: #fff7ed;
-    }
-
-    .cat-general {
-      background: #4b5563;
-      color: #f9fafb;
-    }
-
-    @keyframes breakingPulse {
-      0% { opacity: 1; }
-      50% { opacity: 0.65; }
-      100% { opacity: 1; }
+    .date {
+      color: #94a3b8;
+      font-size: 0.85rem;
+      margin-bottom: 0;
     }
   </style>
 </head>
+
 <body>
-  <header class="site-header">
-    <div class="header-inner">
-      <a href="main.html" title="Open AK Pulse Live full site">
-        <img src="assets/akpulse-logo.png" class="site-logo" alt="AK Pulse Live logo">
-      </a>
-      <div class="site-clock-wrap">
-        <div class="site-clock-label">ANCHORAGE TIME</div>
-        <div class="site-clock" id="clock">--:--</div>
-      </div>
+  <header>
+    <div class="wrap">
+      <h1>AK Pulse Live</h1>
+      <div class="subtitle">Alaska news, weather, culture, and headlines.</div>
+      <a class="feed-link" href="feed.xml">RSS Feed</a>
     </div>
   </header>
 
-  <h1>Anchorage Custom Feed</h1>
-  <p>A custom WEB/RSS feed published by a Bot.</p>
-  <p><a href="feed.xml">Open the RSS feed</a></p>
-  <p><a href="main.html" class="main-link">🚀 Open AK Pulse Live</a></p>
-  <p>Feed URL: <code>akpulselive.com/feed.xml</code></p>
+  <main class="wrap">
+    <section class="grid">
+      
+        <article class="card" data-category="world">
+          <div class="meta">
+            <span class="badge">world</span>
+            <span>BBC</span>
+          </div>
+          <h2><a href="https://www.bbc.com/news/articles/cp8p7k4k8xno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Polanski apologises for sharing post criticising officers who arrested Golders Green suspect</a></h2>
+          <p class="date">Fri, 01 May 2026 17:15:44 GMT</p>
+        </article>
+        
 
-  <h2>Latest items</h2>
-  <ul class="feed-list">
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-weather">Weather</span>
-        <small>Fri, 01 May 2026 17:07:15 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://akpulselive.com/weather.html#today">Anchorage Weather: Today</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-reddit">Reddit</span>
-        <small>Fri, 01 May 2026 17:07:13 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.reddit.com/r/news/comments/1szx0zn/new_orleans_sheriff_indicted_on_charges_of/">New Orleans sheriff indicted on charges of failing to prevent jailbreak and escape of 10 inmates</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-reddit">Reddit</span>
-        <small>Fri, 01 May 2026 17:07:13 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.reddit.com/r/news/comments/1szy7pv/key_inflation_gauge_jumps_to_highest_level_in_3/">Key inflation gauge jumps to highest level in 3 years as Iran war spikes gas prices</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-world">World</span>
-        <small>Fri, 01 May 2026 17:05:54 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.bbc.com/news/articles/ce9pg8k4lrdo?at_medium=RSS&amp;at_campaign=rss">Man charged after explosion at Dunmurry police station</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-opinion">Opinion</span>
-        <small>Fri, 01 May 2026 16:56:46 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://alaskalandmine.com/?post_type=give_payment&amp;p=30808">2370</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-weather">Weather</span>
-        <small>Fri, 01 May 2026 16:44:40 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://akpulselive.com/weather.html#today">Anchorage Weather: Today</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-reddit">Reddit</span>
-        <small>Fri, 01 May 2026 16:44:36 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.reddit.com/r/news/comments/1szynrb/body_bag_bought_online_was_part_of_d4vds_scheme/">Body bag bought online was part of d4vd’s scheme to kill 14-year-old to hide his sexual abuse, prosecutors say | CNN</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-reddit">Reddit</span>
-        <small>Fri, 01 May 2026 16:44:36 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.reddit.com/r/news/comments/1szzoxw/first_commercial_flight_from_us_to_venezuela/">First commercial flight from US to Venezuela takes off after nearly seven years</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-reddit">Reddit</span>
-        <small>Fri, 01 May 2026 16:44:36 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.reddit.com/r/news/comments/1t0mr0u/billions_of_meals_at_risk_due_to_iran_war_says/">Billions of meals at risk due to Iran war, says fertiliser boss</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-world">World</span>
-        <small>Fri, 01 May 2026 16:41:12 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.bbc.com/news/articles/cd6pv55y51wo?at_medium=RSS&amp;at_campaign=rss">Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-weather">Weather</span>
-        <small>Fri, 01 May 2026 16:37:41 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://akpulselive.com/weather.html#today">Anchorage Weather: Today</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-reddit">Reddit</span>
-        <small>Fri, 01 May 2026 16:37:39 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.reddit.com/r/news/comments/1t0xuky/spirit_airlines_prepares_to_shut_down_gift_article/">Spirit Airlines Prepares to Shut Down (Gift Article)</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-reddit">Reddit</span>
-        <small>Fri, 01 May 2026 16:37:39 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.reddit.com/r/news/comments/1t0xyk2/camp_mystic_says_it_wont_reopen_texas_camp_this/">Camp Mystic says it won't reopen Texas camp this summer</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-opinion">Opinion</span>
-        <small>Fri, 01 May 2026 16:29:39 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://alaskalandmine.com/?post_type=od_url_metrics&amp;p=30807">https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-something-else-to-worry-about/</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-world">World</span>
-        <small>Fri, 01 May 2026 16:27:24 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&amp;at_campaign=rss">Trump says he will hike tariffs on EU cars to 25%</a></div>
-    </li>
-  </ul>
+        <article class="card" data-category="world">
+          <div class="meta">
+            <span class="badge">world</span>
+            <span>BBC</span>
+          </div>
+          <h2><a href="https://www.bbc.com/news/articles/c2026d7586zo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Woman charged over fatal Wimbledon school crash</a></h2>
+          <p class="date">Fri, 01 May 2026 13:10:19 GMT</p>
+        </article>
+        
 
-  <script>
-    function updateClock() {
-      const now = new Date();
-      const time = now.toLocaleTimeString([], {
-        hour: "2-digit",
-        minute: "2-digit"
-      });
+        <article class="card" data-category="alaska-news">
+          <div class="meta">
+            <span class="badge">alaska-news</span>
+            <span>Alaska Beacon</span>
+          </div>
+          <h2><a href="https://alaskabeacon.com/briefs/alaska-house-advances-two-health-care-related-bills-this-week/" target="_blank" rel="noopener noreferrer">Alaska House advances bills aimed at regulating standards, conditions for caregivers</a></h2>
+          <p class="date">Fri, 01 May 2026 13:30:30 GMT</p>
+        </article>
+        
 
-      const clock = document.getElementById("clock");
-      if (clock) clock.textContent = time;
-    }
+        <article class="card" data-category="alaska-news">
+          <div class="meta">
+            <span class="badge">alaska-news</span>
+            <span>Alaska Beacon</span>
+          </div>
+          <h2><a href="https://alaskabeacon.com/2026/04/30/gov-dunleavy-vetoes-bipartisan-elections-reform-bill/" target="_blank" rel="noopener noreferrer">Gov. Dunleavy vetoes bipartisan elections reform bill</a></h2>
+          <p class="date">Fri, 01 May 2026 01:22:34 GMT</p>
+        </article>
+        
 
-    updateClock();
-    setInterval(updateClock, 1000);
-  </script>
+        <article class="card" data-category="alaska-news">
+          <div class="meta">
+            <span class="badge">alaska-news</span>
+            <span>Alaska Beacon</span>
+          </div>
+          <h2><a href="https://alaskabeacon.com/briefs/alaska-woman-accused-troopers-tv-network-of-exploiting-her-role-as-a-confidential-informant/" target="_blank" rel="noopener noreferrer">Alaska woman sues troopers, TV network for exploiting her role as a confidential informant</a></h2>
+          <p class="date">Thu, 30 Apr 2026 22:00:30 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="alaska-news">
+          <div class="meta">
+            <span class="badge">alaska-news</span>
+            <span>Alaska Beacon</span>
+          </div>
+          <h2><a href="https://alaskabeacon.com/2026/04/30/repub/a-us-supreme-court-ruling-hammered-voting-rights-what-does-it-mean-and-what-happens-now/" target="_blank" rel="noopener noreferrer">A US Supreme Court ruling hammered voting rights. What does it mean and what happens now?</a></h2>
+          <p class="date">Thu, 30 Apr 2026 21:26:21 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="politics">
+          <div class="meta">
+            <span class="badge">politics</span>
+            <span>Alaska Beacon</span>
+          </div>
+          <h2><a href="https://alaskabeacon.com/2026/04/30/alaska-lawmakers-consider-strengthening-civics-education-requirements-for-high-schoolers/" target="_blank" rel="noopener noreferrer">Alaska lawmakers consider strengthening civics education requirements for high schoolers</a></h2>
+          <p class="date">Thu, 30 Apr 2026 19:25:58 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="southeast">
+          <div class="meta">
+            <span class="badge">southeast</span>
+            <span>KTOO</span>
+          </div>
+          <h2><a href="https://feeds.ktoo.org/link/20427/17328968/newscast-thursday-april-30-2026" target="_blank" rel="noopener noreferrer">Newscast – Thursday, April 30, 2026</a></h2>
+          <p class="date">Fri, 01 May 2026 01:09:29 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="southeast">
+          <div class="meta">
+            <span class="badge">southeast</span>
+            <span>KTOO</span>
+          </div>
+          <h2><a href="https://feeds.ktoo.org/link/20427/17328164/newscast-wednesday-april-29-2026" target="_blank" rel="noopener noreferrer">Newscast – Wednesday, April 29, 2026</a></h2>
+          <p class="date">Thu, 30 Apr 2026 01:06:44 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="politics">
+          <div class="meta">
+            <span class="badge">politics</span>
+            <span>KTOO</span>
+          </div>
+          <h2><a href="https://feeds.ktoo.org/link/20427/17327484/newscast-tuesday-april-28-2026" target="_blank" rel="noopener noreferrer">Newscast – Tuesday, April 28, 2026</a></h2>
+          <p class="date">Wed, 29 Apr 2026 01:00:22 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="southeast">
+          <div class="meta">
+            <span class="badge">southeast</span>
+            <span>KTOO</span>
+          </div>
+          <h2><a href="https://feeds.ktoo.org/link/20427/17326723/newscast-monday-april-27-2026" target="_blank" rel="noopener noreferrer">Newscast – Monday, April 27, 2026</a></h2>
+          <p class="date">Tue, 28 Apr 2026 01:00:39 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="anchorage">
+          <div class="meta">
+            <span class="badge">anchorage</span>
+            <span>KTOO</span>
+          </div>
+          <h2><a href="https://feeds.ktoo.org/link/20427/17325156/newscast-friday-april-24-2026" target="_blank" rel="noopener noreferrer">Newscast – Friday, April 24, 2026</a></h2>
+          <p class="date">Sat, 25 Apr 2026 01:19:56 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="local">
+          <div class="meta">
+            <span class="badge">local</span>
+            <span>Homer News</span>
+          </div>
+          <h2><a href="https://www.homernews.com/2026/05/01/group-tracking-sandhill-crane-numbers-in-kachemak-bay-area/" target="_blank" rel="noopener noreferrer">Group tracking sandhill crane numbers in Kachemak Bay area</a></h2>
+          <p class="date">Fri, 01 May 2026 12:30:00 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="local">
+          <div class="meta">
+            <span class="badge">local</span>
+            <span>Homer News</span>
+          </div>
+          <h2><a href="https://www.homernews.com/2026/04/30/bishop-rocks-oversized-effect-on-breakup/" target="_blank" rel="noopener noreferrer">Bishop Rock’s oversized effect on breakup</a></h2>
+          <p class="date">Thu, 30 Apr 2026 21:30:00 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="local">
+          <div class="meta">
+            <span class="badge">local</span>
+            <span>Homer News</span>
+          </div>
+          <h2><a href="https://www.homernews.com/2026/04/30/a-meatloaf-to-please-even-the-pickiest-of-eaters/" target="_blank" rel="noopener noreferrer">A meatloaf to please even the pickiest of eaters</a></h2>
+          <p class="date">Thu, 30 Apr 2026 18:30:00 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="kenai">
+          <div class="meta">
+            <span class="badge">kenai</span>
+            <span>Homer News</span>
+          </div>
+          <h2><a href="https://www.homernews.com/2026/04/30/learning-environment-homer-students-land-caring-for-the-kenai-awards/" target="_blank" rel="noopener noreferrer">Learning environment: Homer students land Caring For the Kenai awards</a></h2>
+          <p class="date">Thu, 30 Apr 2026 17:30:00 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="kenai">
+          <div class="meta">
+            <span class="badge">kenai</span>
+            <span>Homer News</span>
+          </div>
+          <h2><a href="https://www.homernews.com/2026/04/30/homer-galleries-showcase-works-for-first-friday/" target="_blank" rel="noopener noreferrer">Homer galleries showcase works for First Friday</a></h2>
+          <p class="date">Thu, 30 Apr 2026 12:30:00 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="southeast">
+          <div class="meta">
+            <span class="badge">southeast</span>
+            <span>Juneau Empire</span>
+          </div>
+          <h2><a href="https://www.juneauempire.com/2026/04/30/brief-police-chase-in-juneau-ends-with-man-45-facing-17-charges/" target="_blank" rel="noopener noreferrer">Brief police chase in Juneau ends with man, 45, facing 17 charges</a></h2>
+          <p class="date">Thu, 30 Apr 2026 12:30:00 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="southeast">
+          <div class="meta">
+            <span class="badge">southeast</span>
+            <span>Juneau Empire</span>
+          </div>
+          <h2><a href="https://www.juneauempire.com/2026/04/29/juneau-jury-convicts-man-53-of-11-counts-of-sex-assault-abuse-of-a-minor/" target="_blank" rel="noopener noreferrer">Juneau jury convicts man, 53, of 11 counts of sex assault, abuse of a minor</a></h2>
+          <p class="date">Wed, 29 Apr 2026 22:30:00 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="local">
+          <div class="meta">
+            <span class="badge">local</span>
+            <span>Juneau Empire</span>
+          </div>
+          <h2><a href="https://www.juneauempire.com/2026/04/29/opinion-now-hiring-time-travelers-from-expertise-to-absurdity/" target="_blank" rel="noopener noreferrer">OPINION: Now hiring time travelers – From expertise to absurdity</a></h2>
+          <p class="date">Wed, 29 Apr 2026 12:30:00 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="southeast">
+          <div class="meta">
+            <span class="badge">southeast</span>
+            <span>Juneau Empire</span>
+          </div>
+          <h2><a href="https://www.juneauempire.com/2026/04/27/juneau-community-calendar-april-27-to-may-3/" target="_blank" rel="noopener noreferrer">Juneau community calendar: April 27 to May 3</a></h2>
+          <p class="date">Mon, 27 Apr 2026 17:01:00 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="politics">
+          <div class="meta">
+            <span class="badge">politics</span>
+            <span>Juneau Empire</span>
+          </div>
+          <h2><a href="https://www.juneauempire.com/2026/04/26/letter-slow-down-revision-to-the-tongass-plan/" target="_blank" rel="noopener noreferrer">LETTER: Slow down revision to the Tongass plan</a></h2>
+          <p class="date">Sun, 26 Apr 2026 12:30:00 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="opinion">
+          <div class="meta">
+            <span class="badge">opinion</span>
+            <span>Alaska Landmine</span>
+          </div>
+          <h2><a href="https://alaskalandmine.com/?post_type=give_payment&amp;p=30808" target="_blank" rel="noopener noreferrer">2370</a></h2>
+          <p class="date">Fri, 01 May 2026 16:56:46 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="opinion">
+          <div class="meta">
+            <span class="badge">opinion</span>
+            <span>Alaska Landmine</span>
+          </div>
+          <h2><a href="https://alaskalandmine.com/?post_type=od_url_metrics&amp;p=30807" target="_blank" rel="noopener noreferrer">https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-something-else-to-worry-about/</a></h2>
+          <p class="date">Fri, 01 May 2026 16:29:39 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="southeast">
+          <div class="meta">
+            <span class="badge">southeast</span>
+            <span>Alaska Landmine</span>
+          </div>
+          <h2><a href="https://alaskalandmine.com/?post_type=od_url_metrics&amp;p=30804" target="_blank" rel="noopener noreferrer">https://alaskalandmine.com/juneau-on-the-loose/2026-05-03/</a></h2>
+          <p class="date">Fri, 01 May 2026 15:29:35 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="opinion">
+          <div class="meta">
+            <span class="badge">opinion</span>
+            <span>Alaska Landmine</span>
+          </div>
+          <h2><a href="https://alaskalandmine.com/?post_type=od_url_metrics&amp;p=30803" target="_blank" rel="noopener noreferrer">https://alaskalandmine.com/landmines/the-sunday-minefield-october-22-2023/</a></h2>
+          <p class="date">Fri, 01 May 2026 14:31:42 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="southeast">
+          <div class="meta">
+            <span class="badge">southeast</span>
+            <span>Alaska Landmine</span>
+          </div>
+          <h2><a href="https://alaskalandmine.com/?post_type=od_url_metrics&amp;p=30802" target="_blank" rel="noopener noreferrer">https://alaskalandmine.com/juneau-on-the-loose/2026-05-20/</a></h2>
+          <p class="date">Fri, 01 May 2026 13:15:59 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="politics">
+          <div class="meta">
+            <span class="badge">politics</span>
+            <span>Must Read Alaska</span>
+          </div>
+          <h2><a href="https://mustreadalaska.com/district-6-republicans-endorse-bronson-hughes-and-wilson-for-governor/" target="_blank" rel="noopener noreferrer">District 6 Republicans Endorse Bronson, Hughes, and Wilson for Governor</a></h2>
+          <p class="date">Thu, 30 Apr 2026 21:04:19 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="anchorage">
+          <div class="meta">
+            <span class="badge">anchorage</span>
+            <span>Must Read Alaska</span>
+          </div>
+          <h2><a href="https://mustreadalaska.com/26-3-million-sustainable-energy-project-advanced-by-alaska-energy-authority-chugach-electric-and-carnival-corp/" target="_blank" rel="noopener noreferrer">$26.3 Million Sustainable Energy Project Advanced by Alaska Energy Authority, Chugach Electric, and Carnival Corp</a></h2>
+          <p class="date">Thu, 30 Apr 2026 20:14:39 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="politics">
+          <div class="meta">
+            <span class="badge">politics</span>
+            <span>Must Read Alaska</span>
+          </div>
+          <h2><a href="https://mustreadalaska.com/defined-benefits-bill-goes-to-governor-majority-calls-it-modest-minority-says-it-bankrupts-generations-of-alaskans/" target="_blank" rel="noopener noreferrer">Defined Benefits Bill Goes to Governor; Majority Calls It “Modest;” Minority Says It “Bankrupts Generations of Alaskans”</a></h2>
+          <p class="date">Thu, 30 Apr 2026 18:31:52 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="politics">
+          <div class="meta">
+            <span class="badge">politics</span>
+            <span>Must Read Alaska</span>
+          </div>
+          <h2><a href="https://mustreadalaska.com/dunleavy-declares-denim-day-annual-worldwide-protest-after-italian-court-overturned-rape-conviction-on-grounds-victim-wore-tight-denim/" target="_blank" rel="noopener noreferrer">Dunleavy Declares Denim Day, Annual Worldwide Protest After Italian Court Overturned Rape Conviction on Grounds Victim Wore “Tight Denim”</a></h2>
+          <p class="date">Wed, 29 Apr 2026 21:52:35 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="opinion">
+          <div class="meta">
+            <span class="badge">opinion</span>
+            <span>Must Read Alaska</span>
+          </div>
+          <h2><a href="https://mustreadalaska.com/voting-is-open-for-chugach-board-of-directors/" target="_blank" rel="noopener noreferrer">Voting Is Open for Chugach Board of Directors</a></h2>
+          <p class="date">Wed, 29 Apr 2026 20:08:43 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="culture">
+          <div class="meta">
+            <span class="badge">culture</span>
+            <span>Alaska Native News</span>
+          </div>
+          <h2><a href="https://alaska-native-news.com/army-medic-leads-life-saving-response-after-bear-attack-in-alaska/83863/" target="_blank" rel="noopener noreferrer">Army Medic Leads Life-Saving Response After Bear Attack in Alaska</a></h2>
+          <p class="date">Thu, 30 Apr 2026 14:04:27 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="anchorage">
+          <div class="meta">
+            <span class="badge">anchorage</span>
+            <span>Alaska Native News</span>
+          </div>
+          <h2><a href="https://alaska-native-news.com/palmer-juries-convict-darren-robbins-of-felony-assault-and-misconduct-involving-a-weapon/83861/" target="_blank" rel="noopener noreferrer">Palmer Juries Convict Darren Robbins of Felony Assault and Misconduct Involving a Weapon</a></h2>
+          <p class="date">Thu, 30 Apr 2026 14:04:12 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="culture">
+          <div class="meta">
+            <span class="badge">culture</span>
+            <span>Alaska Native News</span>
+          </div>
+          <h2><a href="https://alaska-native-news.com/report-details-trump-effort-to-quietly-lay-groundwork-to-steal-future-elections/83859/" target="_blank" rel="noopener noreferrer">Report Details Trump Effort to Quietly Lay Groundwork to ‘Steal Future Elections’</a></h2>
+          <p class="date">Thu, 30 Apr 2026 14:02:13 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="politics">
+          <div class="meta">
+            <span class="badge">politics</span>
+            <span>Alaska Native News</span>
+          </div>
+          <h2><a href="https://alaska-native-news.com/fetterman-helps-gop-senators-sink-democrat-effort-to-block-trump-war-on-cuba/83857/" target="_blank" rel="noopener noreferrer">Fetterman Helps GOP Senators Sink Democrat Effort to Block Trump War on Cuba</a></h2>
+          <p class="date">Thu, 30 Apr 2026 14:01:58 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="culture">
+          <div class="meta">
+            <span class="badge">culture</span>
+            <span>Alaska Native News</span>
+          </div>
+          <h2><a href="https://alaska-native-news.com/april-30th-1913/41670/" target="_blank" rel="noopener noreferrer">This Day in Alaskan History-April 30th, 1913</a></h2>
+          <p class="date">Thu, 30 Apr 2026 14:00:57 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="world">
+          <div class="meta">
+            <span class="badge">world</span>
+            <span>BBC</span>
+          </div>
+          <h2><a href="https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Man appears in court charged with attempted murder of two Jewish men</a></h2>
+          <p class="date">Fri, 01 May 2026 14:49:52 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="world">
+          <div class="meta">
+            <span class="badge">world</span>
+            <span>BBC</span>
+          </div>
+          <h2><a href="https://www.bbc.com/news/articles/czx2gwpe9evo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Superdry co-founder guilty of rape</a></h2>
+          <p class="date">Fri, 01 May 2026 14:31:48 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="weather">
+          <div class="meta">
+            <span class="badge">weather</span>
+            <span>NWS Anchorage</span>
+          </div>
+          <h2><a href="https://akpulselive.com/weather.html#today" target="_blank" rel="noopener noreferrer">Anchorage Weather: Today</a></h2>
+          <p class="date">Fri, 01 May 2026 17:07:15 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="reddit">
+          <div class="meta">
+            <span class="badge">reddit</span>
+            <span>Reddit News</span>
+          </div>
+          <h2><a href="https://www.reddit.com/r/news/comments/1szx0zn/new_orleans_sheriff_indicted_on_charges_of/" target="_blank" rel="noopener noreferrer">New Orleans sheriff indicted on charges of failing to prevent jailbreak and escape of 10 inmates</a></h2>
+          <p class="date">Fri, 01 May 2026 17:07:13 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="reddit">
+          <div class="meta">
+            <span class="badge">reddit</span>
+            <span>Reddit News</span>
+          </div>
+          <h2><a href="https://www.reddit.com/r/news/comments/1szy7pv/key_inflation_gauge_jumps_to_highest_level_in_3/" target="_blank" rel="noopener noreferrer">Key inflation gauge jumps to highest level in 3 years as Iran war spikes gas prices</a></h2>
+          <p class="date">Fri, 01 May 2026 17:07:13 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="world">
+          <div class="meta">
+            <span class="badge">world</span>
+            <span>BBC News</span>
+          </div>
+          <h2><a href="https://www.bbc.com/news/articles/ce9pg8k4lrdo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Man charged after explosion at Dunmurry police station</a></h2>
+          <p class="date">Fri, 01 May 2026 17:05:54 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="weather">
+          <div class="meta">
+            <span class="badge">weather</span>
+            <span>NWS Anchorage</span>
+          </div>
+          <h2><a href="https://akpulselive.com/weather.html#today" target="_blank" rel="noopener noreferrer">Anchorage Weather: Today</a></h2>
+          <p class="date">Fri, 01 May 2026 16:44:40 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="reddit">
+          <div class="meta">
+            <span class="badge">reddit</span>
+            <span>Reddit News</span>
+          </div>
+          <h2><a href="https://www.reddit.com/r/news/comments/1szynrb/body_bag_bought_online_was_part_of_d4vds_scheme/" target="_blank" rel="noopener noreferrer">Body bag bought online was part of d4vd’s scheme to kill 14-year-old to hide his sexual abuse, prosecutors say | CNN</a></h2>
+          <p class="date">Fri, 01 May 2026 16:44:36 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="reddit">
+          <div class="meta">
+            <span class="badge">reddit</span>
+            <span>Reddit News</span>
+          </div>
+          <h2><a href="https://www.reddit.com/r/news/comments/1szzoxw/first_commercial_flight_from_us_to_venezuela/" target="_blank" rel="noopener noreferrer">First commercial flight from US to Venezuela takes off after nearly seven years</a></h2>
+          <p class="date">Fri, 01 May 2026 16:44:36 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="reddit">
+          <div class="meta">
+            <span class="badge">reddit</span>
+            <span>Reddit News</span>
+          </div>
+          <h2><a href="https://www.reddit.com/r/news/comments/1t0mr0u/billions_of_meals_at_risk_due_to_iran_war_says/" target="_blank" rel="noopener noreferrer">Billions of meals at risk due to Iran war, says fertiliser boss</a></h2>
+          <p class="date">Fri, 01 May 2026 16:44:36 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="world">
+          <div class="meta">
+            <span class="badge">world</span>
+            <span>BBC News</span>
+          </div>
+          <h2><a href="https://www.bbc.com/news/articles/cd6pv55y51wo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared</a></h2>
+          <p class="date">Fri, 01 May 2026 16:41:12 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="weather">
+          <div class="meta">
+            <span class="badge">weather</span>
+            <span>NWS Anchorage</span>
+          </div>
+          <h2><a href="https://akpulselive.com/weather.html#today" target="_blank" rel="noopener noreferrer">Anchorage Weather: Today</a></h2>
+          <p class="date">Fri, 01 May 2026 16:37:41 GMT</p>
+        </article>
+        
+
+        <article class="card" data-category="reddit">
+          <div class="meta">
+            <span class="badge">reddit</span>
+            <span>Reddit News</span>
+          </div>
+          <h2><a href="https://www.reddit.com/r/news/comments/1t0xuky/spirit_airlines_prepares_to_shut_down_gift_article/" target="_blank" rel="noopener noreferrer">Spirit Airlines Prepares to Shut Down (Gift Article)</a></h2>
+          <p class="date">Fri, 01 May 2026 16:37:39 GMT</p>
+        </article>
+        
+    </section>
+  </main>
 </body>
 </html>
