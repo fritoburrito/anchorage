@@ -3,6 +3,19 @@
     "title": "Anchorage Weather: Today",
     "link": "https://akpulselive.com/weather.html#today",
     "url": "https://akpulselive.com/weather.html#today",
+    "summary": "45°F | 0 to 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.",
+    "description": "45°F | 0 to 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.",
+    "source": "NWS Anchorage",
+    "category": "weather",
+    "tag": "weather",
+    "pubDate": "Fri, 01 May 2026 15:25:40 GMT",
+    "published": "2026-05-01T15:25:40.259314+00:00",
+    "created_utc": "2026-05-01T15:25:40.259314+00:00"
+  },
+  {
+    "title": "Anchorage Weather: Today",
+    "link": "https://akpulselive.com/weather.html#today",
+    "url": "https://akpulselive.com/weather.html#today",
     "summary": "45°F | 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind around 5 mph. Chance of precipitation is 40%.",
     "description": "45°F | 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind around 5 mph. Chance of precipitation is 40%.",
     "source": "NWS Anchorage",
@@ -960,18 +973,5 @@
     "pubDate": "Fri, 01 May 2026 12:40:04 GMT",
     "published": "2026-05-01T08:40:04-04:00",
     "created_utc": "2026-05-01T08:40:04-04:00"
-  },
-  {
-    "title": "Pickleball and protests: How a Trump visit is roiling the world's largest retirement community",
-    "link": "https://www.bbc.com/news/articles/cx21k3ln17ko?at_medium=RSS&at_campaign=rss",
-    "url": "https://www.bbc.com/news/articles/cx21k3ln17ko?at_medium=RSS&at_campaign=rss",
-    "summary": "Politics have become an increasingly thorny issue in the Villages, the world's largest retirement community.",
-    "description": "Politics have become an increasingly thorny issue in the Villages, the world's largest retirement community.",
-    "source": "BBC News",
-    "category": "world",
-    "tag": "bbc",
-    "pubDate": "Fri, 01 May 2026 08:38:04 GMT",
-    "published": "2026-05-01T08:38:04+00:00",
-    "created_utc": "2026-05-01T08:38:04+00:00"
   }
 ]
