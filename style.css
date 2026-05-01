@@ -144,23 +144,22 @@ html, body {
   pointer-events: none;
 }
 
-.site-header {
+..site-header {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .logo-img {
-  max-width: 320px;
-  height: auto;
+  height: 80px;      /* controls size */
+  width: auto;       /* keeps proportions */
   display: block;
-  margin: 0 auto;
+  margin: 10px auto;
 }
 
 .logo-img {
-  max-width: 320px;
-  height: auto;
+  height 80;
   display: block;
-  margin: 0 auto;
+  margin: 10 auto;
   filter: drop-shadow(0 0 12px rgba(0,198,255,0.35));
 }
 
