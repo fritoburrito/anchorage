@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>AK Pulse Live News</title>
-    <link>akpulselive.com/</link>
+    <title>AK Live Pulse</title>
+    <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2026 10:54:52 GMT</lastBuildDate>
@@ -13,6 +13,54 @@
       <pubDate>Fri, 01 May 2026 10:54:52 GMT</pubDate>
       <description><![CDATA[The scheme encourages staff and families to seek an urgent second opinion if they fear a patient's condition is worsening.]]></description>
       <category>breaking</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Today</title>
+      <link>https://akpulselive.com/weather.html#today</link>
+      <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
+      <pubDate>Fri, 01 May 2026 16:37:41 GMT</pubDate>
+      <description><![CDATA[45°F | 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind around 5 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Spirit Airlines Prepares to Shut Down (Gift Article)</title>
+      <link>https://www.reddit.com/r/news/comments/1t0xuky/spirit_airlines_prepares_to_shut_down_gift_article/</link>
+      <guid isPermaLink="false">7d03016cd455b3d8cc107b9f38664e1a61048df4</guid>
+      <pubDate>Fri, 01 May 2026 16:37:39 GMT</pubDate>
+      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/Mathsquatch"> /u/Mathsquatch </a> <br /> <span><a href="https://www.nytimes.com/2026/05/01/business/spirit-airlines-shutting-down.html?unlocked_article_code=1.fFA.XXnB.gKI0ys1dygd6&amp;smid=nytcore-ios-share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t0xuky/spirit_airlines_prepares_to_shut_down_gift_article/">[comments]</a></span>]]></description>
+      <category>reddit</category>
+    </item>
+    <item>
+      <title>Camp Mystic says it won't reopen Texas camp this summer</title>
+      <link>https://www.reddit.com/r/news/comments/1t0xyk2/camp_mystic_says_it_wont_reopen_texas_camp_this/</link>
+      <guid isPermaLink="false">992c601bd9e2a8a5b858fe8ee2edef05dae95adb</guid>
+      <pubDate>Fri, 01 May 2026 16:37:39 GMT</pubDate>
+      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/AudibleNod"> /u/AudibleNod </a> <br /> <span><a href="https://abcnews.com/US/camp-mystic-reopen-texas-camp-summer/story?id=132543208">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t0xyk2/camp_mystic_says_it_wont_reopen_texas_camp_this/">[comments]</a></span>]]></description>
+      <category>reddit</category>
+    </item>
+    <item>
+      <title>Trump announces 25% tariff on cars, trucks from EU</title>
+      <link>https://abcnews.com/Politics/trump-announces-25-tariff-cars-trucks-eu/story?id=132576722</link>
+      <guid isPermaLink="false">942bfe2392b4909f84c774881488e8bf912a400c</guid>
+      <pubDate>Fri, 01 May 2026 16:34:49 GMT</pubDate>
+      <description><![CDATA[President Donald Trump announced Friday he will increase tariffs on European Union cars and trucks to 25%.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump says he will hike tariffs on EU cars to 25%</title>
+      <link>https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">072bfdf7ee35e51899589a8226b947c48f1484e0</guid>
+      <pubDate>Fri, 01 May 2026 16:27:24 GMT</pubDate>
+      <description><![CDATA[The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump says he'll place 25% tariff on autos from EU, accusing bloc of not complying with trade deal</title>
+      <link>https://abcnews.com/Business/wireStory/trump-hell-place-25-tariff-autos-eu-accusing-132576218</link>
+      <guid isPermaLink="false">457bbf54a363928735333d8473db24620cdb66f5</guid>
+      <pubDate>Fri, 01 May 2026 16:13:30 GMT</pubDate>
+      <description><![CDATA[President Donald Trump says he will increase the tariffs charged on cars and trucks from the European Union next week to 25%, a move that could jolt the world economy at a fragile moment]]></description>
+      <category>business</category>
     </item>
     <item>
       <title>Anchorage Weather: Today</title>
@@ -55,12 +103,28 @@
       <category>world</category>
     </item>
     <item>
+      <title>5 killed in Texas plane crash, officials say</title>
+      <link>https://abcnews.com/US/5-dead-small-plane-crash-south-austin-county/story?id=132569237</link>
+      <guid isPermaLink="false">9a92bfbc9a6760b2c3af0a0f5c4359a6d02c42af</guid>
+      <pubDate>Fri, 01 May 2026 15:33:45 GMT</pubDate>
+      <description><![CDATA[Five people were killed when a Cessna 421C crashed 30 miles south of Austin, Texas, investigators said.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Anchorage Weather: Today</title>
       <link>https://akpulselive.com/weather.html#today</link>
       <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
       <pubDate>Fri, 01 May 2026 15:29:30 GMT</pubDate>
       <description><![CDATA[45°F | 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind around 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>WATCH:  1st look at 'Midnight Magic' on Disney Cruise Line</title>
+      <link>https://abcnews.com/video/132567102/</link>
+      <guid isPermaLink="false">d9578c76c7ad18557391492a763d14557ffb11a3</guid>
+      <pubDate>Fri, 01 May 2026 15:29:21 GMT</pubDate>
+      <description><![CDATA[Disney Cruise Line offers a look at the extended "Midnight Magic" experience, designed to create memorable vacation moments.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Anchorage Weather: Today</title>
@@ -141,70 +205,6 @@
       <pubDate>Fri, 01 May 2026 15:04:56 GMT</pubDate>
       <description><![CDATA[45°F | 0 to 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Domestic dispute sparks gas-fed explosion that collapses Queens home, injures NYPD officers</title>
-      <link>https://www.reddit.com/r/news/comments/1t0mdss/domestic_dispute_sparks_gasfed_explosion_that/</link>
-      <guid isPermaLink="false">ae66c28beb2fe449f5692541ded8ecc19feee450</guid>
-      <pubDate>Fri, 01 May 2026 15:04:54 GMT</pubDate>
-      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/AcousticNike"> /u/AcousticNike </a> <br /> <span><a href="https://apnews.com/article/queens-house-explosion-nypd-officers-new-york-664b719af1bd34fea1f384fa09591ad7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t0mdss/domestic_dispute_sparks_gasfed_explosion_that/">[comments]</a></span>]]></description>
-      <category>reddit</category>
-    </item>
-    <item>
-      <title>Israeli police arrest man after nun attacked in Jerusalem</title>
-      <link>https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">98e5338ac195c1c09b17797088830f77897d6538</guid>
-      <pubDate>Fri, 01 May 2026 14:57:40 GMT</pubDate>
-      <description><![CDATA[The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewish extremists.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today</title>
-      <link>https://akpulselive.com/weather.html#today</link>
-      <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
-      <pubDate>Fri, 01 May 2026 14:51:14 GMT</pubDate>
-      <description><![CDATA[45°F | 0 to 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>South Africa withdraws AI policy after it was found written by AI</title>
-      <link>https://www.reddit.com/r/news/comments/1t0bo0f/south_africa_withdraws_ai_policy_after_it_was/</link>
-      <guid isPermaLink="false">912fb1acb048cf96c3b826d19c1f5f3e13ef37ee</guid>
-      <pubDate>Fri, 01 May 2026 14:51:12 GMT</pubDate>
-      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/reduction-oxidation"> /u/reduction-oxidation </a> <br /> <span><a href="https://www.the-independent.com/tech/ai-policy-south-africa-withdraw-b2966866.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t0bo0f/south_africa_withdraws_ai_policy_after_it_was/">[comments]</a></span>]]></description>
-      <category>reddit</category>
-    </item>
-    <item>
-      <title>Pakistan commissions first Hangor-class submarine in China - AP</title>
-      <link>https://www.reddit.com/r/news/comments/1t0dcxe/pakistan_commissions_first_hangorclass_submarine/</link>
-      <guid isPermaLink="false">9122aa0da1a7e5481814a5d0d76a69b25bfde4df</guid>
-      <pubDate>Fri, 01 May 2026 14:51:12 GMT</pubDate>
-      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/tigeryi98"> /u/tigeryi98 </a> <br /> <span><a href="https://apnews.com/article/pakistan-navy-china-submarine-76ffcad6b050a81115e0738b0b23d477">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t0dcxe/pakistan_commissions_first_hangorclass_submarine/">[comments]</a></span>]]></description>
-      <category>reddit</category>
-    </item>
-    <item>
-      <title>Trump administration says its war in Iran has been 'terminated' before 60-day deadline</title>
-      <link>https://www.reddit.com/r/news/comments/1t0fchu/trump_administration_says_its_war_in_iran_has/</link>
-      <guid isPermaLink="false">84945e25f4e93791545b1d4614e1b4a5ab06886d</guid>
-      <pubDate>Fri, 01 May 2026 14:51:12 GMT</pubDate>
-      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/Rdick_Lvagina"> /u/Rdick_Lvagina </a> <br /> <span><a href="https://apnews.com/article/trump-war-powers-pentagon-iran-422311a4443b987af87cd4ca35d54f48">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t0fchu/trump_administration_says_its_war_in_iran_has/">[comments]</a></span>]]></description>
-      <category>reddit</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today</title>
-      <link>https://akpulselive.com/weather.html#today</link>
-      <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
-      <pubDate>Fri, 01 May 2026 14:49:40 GMT</pubDate>
-      <description><![CDATA[45°F | 0 to 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>U.S. senators ban themselves from prediction markets trading</title>
-      <link>https://www.reddit.com/r/news/comments/1t0e1xj/us_senators_ban_themselves_from_prediction/</link>
-      <guid isPermaLink="false">d84ddf340cdee4867a619b6f5b1efb84d6efe464</guid>
-      <pubDate>Fri, 01 May 2026 14:49:37 GMT</pubDate>
-      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/Kooolxxx"> /u/Kooolxxx </a> <br /> <span><a href="https://www.cnbc.com/2026/04/30/senate-prediction-markets-trading-ban-kalshi-polymarket.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t0e1xj/us_senators_ban_themselves_from_prediction/">[comments]</a></span>]]></description>
-      <category>reddit</category>
     </item>
   </channel>
 </rss>

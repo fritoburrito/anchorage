@@ -3,9 +3,53 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AK Pulse Live News</title>
-  <link rel="alternate" type="application/rss+xml" title="AK Pulse Live News" href="feed.xml">
+  <title>AK Live Pulse</title>
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="alternate" type="application/rss+xml" title="AK Live Pulse" href="feed.xml">
   <style>
+    .site-header {
+      text-align: center;
+      margin: 12px 0 18px 0;
+    }
+
+    .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 18px;
+      flex-wrap: wrap;
+    }
+
+    .site-logo {
+      width: 120px;
+      max-width: 45vw;
+      height: auto;
+      display: block;
+      filter: drop-shadow(0 0 8px rgba(0,198,255,0.35));
+    }
+
+    .site-clock-wrap {
+      background: #1f2937;
+      border: 1px solid #374151;
+      border-radius: 12px;
+      padding: 8px 12px;
+      min-width: 130px;
+    }
+
+    .site-clock-label {
+      font-size: 0.68rem;
+      color: #9aa3b2;
+      letter-spacing: 0.08em;
+      font-weight: 700;
+    }
+
+    .site-clock {
+      font-size: 1.2rem;
+      font-weight: 800;
+      color: #7bffb2;
+      line-height: 1.2;
+    }
+
     body {
       font-family: Arial, sans-serif;
       max-width: 860px;
@@ -30,6 +74,26 @@
       padding: 2px 6px;
       border-radius: 4px;
       color: #e5e7eb;
+    }
+
+    .main-link {
+      display: inline-block;
+      padding: 12px 18px;
+      background: linear-gradient(135deg, #00c6ff, #7bffb2);
+      color: #000;
+      border-radius: 10px;
+      font-weight: 800;
+      font-size: 1rem;
+      text-decoration: none;
+      margin: 12px 0;
+      box-shadow: 0 4px 14px rgba(0,198,255,0.35);
+      transition: all 0.2s ease;
+    }
+
+    .main-link:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 18px rgba(123,255,178,0.45);
+      text-decoration: none;
     }
 
     .feed-list {
@@ -101,6 +165,11 @@
       color: #fff7ed;
     }
 
+    .cat-reddit {
+      background: #ff4500;
+      color: #fff7ed;
+    }
+
     .cat-general {
       background: #4b5563;
       color: #f9fafb;
@@ -114,13 +183,24 @@
   </style>
 </head>
 <body>
-  <h1>AK Pulse Live News</h1>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="main.html" title="Open AK Pulse Live full site">
+        <img src="assets/akpulse-logo.png" class="site-logo" alt="AK Pulse Live logo">
+      </a>
+      <div class="site-clock-wrap">
+        <div class="site-clock-label">ANCHORAGE TIME</div>
+        <div class="site-clock" id="clock">--:--</div>
+      </div>
+    </div>
+  </header>
+
+  <h1>Anchorage Custom Feed</h1>
   <p>A custom WEB/RSS feed published by a Bot.</p>
   <p><a href="feed.xml">Open the RSS feed</a></p>
-  <p>
-  <a href="main.html" class="main-link">🚀 Open AK Pulse Live</a>
-  </p>
+  <p><a href="main.html" class="main-link">🚀 Open AK Pulse Live</a></p>
   <p>Feed URL: <code>akpulselive.com/feed.xml</code></p>
+
   <h2>Latest items</h2>
   <ul class="feed-list">
         <li class="feed-item">
@@ -129,6 +209,48 @@
         <small>Fri, 01 May 2026 10:54:52 GMT</small>
       </div>
       <div class="item-title"><a href="https://www.bbc.com/news/articles/c4g9drqn2l3o?at_medium=RSS&amp;at_campaign=rss">Martha's Rule helplines get more than 1,700 calls from worried NHS staff</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-weather">Weather</span>
+        <small>Fri, 01 May 2026 16:37:41 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://akpulselive.com/weather.html#today">Anchorage Weather: Today</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-reddit">Reddit</span>
+        <small>Fri, 01 May 2026 16:37:39 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://www.reddit.com/r/news/comments/1t0xuky/spirit_airlines_prepares_to_shut_down_gift_article/">Spirit Airlines Prepares to Shut Down (Gift Article)</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-reddit">Reddit</span>
+        <small>Fri, 01 May 2026 16:37:39 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://www.reddit.com/r/news/comments/1t0xyk2/camp_mystic_says_it_wont_reopen_texas_camp_this/">Camp Mystic says it won't reopen Texas camp this summer</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-world">World</span>
+        <small>Fri, 01 May 2026 16:34:49 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://abcnews.com/Politics/trump-announces-25-tariff-cars-trucks-eu/story?id=132576722">Trump announces 25% tariff on cars, trucks from EU</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-world">World</span>
+        <small>Fri, 01 May 2026 16:27:24 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&amp;at_campaign=rss">Trump says he will hike tariffs on EU cars to 25%</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-business">Business</span>
+        <small>Fri, 01 May 2026 16:13:30 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://abcnews.com/Business/wireStory/trump-hell-place-25-tariff-autos-eu-accusing-132576218">Trump says he'll place 25% tariff on autos from EU, accusing bloc of not complying with trade deal</a></div>
     </li>
         <li class="feed-item">
       <div class="item-top">
@@ -167,6 +289,13 @@
     </li>
         <li class="feed-item">
       <div class="item-top">
+        <span class="cat-badge cat-world">World</span>
+        <small>Fri, 01 May 2026 15:33:45 GMT</small>
+      </div>
+      <div class="item-title"><a href="https://abcnews.com/US/5-dead-small-plane-crash-south-austin-county/story?id=132569237">5 killed in Texas plane crash, officials say</a></div>
+    </li>
+        <li class="feed-item">
+      <div class="item-top">
         <span class="cat-badge cat-weather">Weather</span>
         <small>Fri, 01 May 2026 15:29:30 GMT</small>
       </div>
@@ -174,60 +303,27 @@
     </li>
         <li class="feed-item">
       <div class="item-top">
-        <span class="cat-badge cat-weather">Weather</span>
-        <small>Fri, 01 May 2026 15:28:09 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://akpulselive.com/weather.html#today">Anchorage Weather: Today</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
         <span class="cat-badge cat-world">World</span>
-        <small>Fri, 01 May 2026 15:26:40 GMT</small>
+        <small>Fri, 01 May 2026 15:29:21 GMT</small>
       </div>
-      <div class="item-title"><a href="https://www.bbc.com/news/articles/c93xqnlq33qo?at_medium=RSS&amp;at_campaign=rss">The Real Greek restaurant chain on brink of collapse</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-weather">Weather</span>
-        <small>Fri, 01 May 2026 15:25:40 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://akpulselive.com/weather.html#today">Anchorage Weather: Today</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-weather">Weather</span>
-        <small>Fri, 01 May 2026 15:14:12 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://akpulselive.com/weather.html#today">Anchorage Weather: Today</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-world">World</span>
-        <small>Fri, 01 May 2026 15:12:14 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&amp;at_campaign=rss">War criminal Mladic close to death, say lawyers asking judge for jail release</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-weather">Weather</span>
-        <small>Fri, 01 May 2026 15:11:17 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://akpulselive.com/weather.html#today">Anchorage Weather: Today</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-reddit">Reddit</span>
-        <small>Fri, 01 May 2026 15:11:17 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.reddit.com/r/news/comments/1t01ee1/10_current_and_former_mexican_officials_accused/">10 current and former Mexican officials accused in US indictment of aiding drug trafficking</a></div>
-    </li>
-        <li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-reddit">Reddit</span>
-        <small>Fri, 01 May 2026 15:11:17 GMT</small>
-      </div>
-      <div class="item-title"><a href="https://www.reddit.com/r/news/comments/1t0ky0c/video_shows_moment_shooter_tried_to_storm_white/">Video shows moment shooter tried to storm White House dinner, officials say | White House correspondents' dinner shooting</a></div>
+      <div class="item-title"><a href="https://abcnews.com/video/132567102/">WATCH:  1st look at 'Midnight Magic' on Disney Cruise Line</a></div>
     </li>
   </ul>
+
+  <script>
+    function updateClock() {
+      const now = new Date();
+      const time = now.toLocaleTimeString([], {
+        hour: "2-digit",
+        minute: "2-digit"
+      });
+
+      const clock = document.getElementById("clock");
+      if (clock) clock.textContent = time;
+    }
+
+    updateClock();
+    setInterval(updateClock, 1000);
+  </script>
 </body>
 </html>
