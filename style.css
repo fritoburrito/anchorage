@@ -144,25 +144,6 @@ html, body {
   pointer-events: none;
 }
 
-.site-header {
-  text-align: center;
-  margin: 20px 0;
-}
-
-.logo-img {
-  height: 70px;
-  width: auto;
-  display: block;
-  margin: 0 auto;
-  border: 1px solid red; /* TEMP DEBUG */
-}
-
-.logo-img {
-  max-width: 140px;   /* controls overall size */
-  height: auto;       /* keeps proportions */
-  display: block;
-  margin: 10px auto;
-}
 
 @keyframes breakingPulse {
   0% { opacity: 1; }
