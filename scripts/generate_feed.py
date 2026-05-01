@@ -1,236 +1,168 @@
 #!/usr/bin/env python3
-import hashlib
+
 import json
-import re
-from email.utils import parsedate_to_datetime
+from html import escape
 from pathlib import Path
-from xml.sax.saxutils import escape
+from email.utils import formatdate
+
+SITE_URL = "https://akpulselive.com/"
+FEED_TITLE = "AK Pulse Live"
+FEED_DESCRIPTION = "Alaska news, weather, culture, and headlines."
+MAX_ITEMS = 50
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "feed_items.json"
 FEED_FILE = ROOT / "feed.xml"
 INDEX_FILE = ROOT / "index.html"
-WEATHER_FILE = ROOT / "weather.html"
-
-SITE_URL = "https://akpulselive.com/"
-FEED_URL = SITE_URL + "feed.xml"
-FEED_TITLE = "AK Live Pulse"
-FEED_DESCRIPTION = "A custom WEB/RSS feed published by a Bot."
-LANGUAGE = "en-us"
-MAX_ITEMS = 25
-
-
-def cdata(text: str) -> str:
-    return "<![CDATA[" + str(text).replace("]]>", "]]]]><![CDATA[>") + "]]>"
-
-
-def parse_item_date(item):
-    for key in ("pubDate", "published", "created_utc"):
-        value = item.get(key)
-        if not value:
-            continue
-        try:
-            return parsedate_to_datetime(value)
-        except Exception:
-            try:
-                return parsedate_to_datetime(item["pubDate"])
-            except Exception:
-                pass
-    return None
-
-
-def is_breaking(item) -> bool:
-    text = f"{item.get('title', '')} {item.get('description', '')} {item.get('summary', '')}".lower()
-    breaking_terms = ["breaking", "urgent", "alert", "developing", "just in"]
-    return any(term in text for term in breaking_terms)
-
-
-def effective_category(item) -> str:
-    if is_breaking(item):
-        return "breaking"
-    return (item.get("category") or item.get("tag") or "general").lower()
-
-
-def category_label(category: str) -> str:
-    labels = {
-        "breaking": "Breaking",
-        "weather": "Weather",
-        "top": "Top News",
-        "world": "World",
-        "business": "Business",
-        "local": "Local",
-        "reddit": "Reddit",
-        "general": "General",
-    }
-    return labels.get(category, category.title() if category else "General")
-
-
-def weather_icon(text: str) -> str:
-    t = text.lower()
-    if "snow" in t:
-        return "❄️"
-    if "rain" in t or "showers" in t:
-        return "🌧️"
-    if "thunder" in t or "storm" in t:
-        return "⛈️"
-    if "cloud" in t or "overcast" in t:
-        return "☁️"
-    if "sun" in t or "clear" in t:
-        return "☀️"
-    if "wind" in t:
-        return "💨"
-    if "fog" in t:
-        return "🌫️"
-    return "🌡️"
-
-
-def make_slug(text: str) -> str:
-    text = text.lower()
-    text = re.sub(r"[^a-z0-9]+", "-", text)
-    return text.strip("-") or "forecast"
 
 
 def load_items():
     if not DATA_FILE.exists():
         return []
 
-    items = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+    try:
+        data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+        if isinstance(data, list):
+            return data[:MAX_ITEMS]
+    except Exception as e:
+        print("Error reading feed_items.json:", e)
 
-    def sort_key(item):
-        dt = parse_item_date(item)
-        timestamp = dt.timestamp() if dt else 0
-        breaking_rank = 0 if is_breaking(item) else 1
-        return (breaking_rank, -timestamp)
-
-    items.sort(key=sort_key)
-    return items[:MAX_ITEMS]
+    return []
 
 
 def build_feed(items):
-    last_build = items[0].get("pubDate", "") if items else "Fri, 01 May 2026 00:00:00 GMT"
+    now = formatdate(usegmt=True)
 
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0">',
-        '  <channel>',
-        f'    <title>{escape(FEED_TITLE)}</title>',
-        f'    <link>{escape(SITE_URL)}</link>',
-        f'    <description>{escape(FEED_DESCRIPTION)}</description>',
-        f'    <language>{LANGUAGE}</language>',
-        f'    <lastBuildDate>{escape(last_build)}</lastBuildDate>',
-        f'    <category>{item.get("category","general")}</category>',
+        '<channel>',
+        f'  <title>{escape(FEED_TITLE)}</title>',
+        f'  <link>{escape(SITE_URL)}</link>',
+        f'  <description>{escape(FEED_DESCRIPTION)}</description>',
+        f'  <lastBuildDate>{now}</lastBuildDate>',
+        '  <language>en-us</language>',
     ]
 
     for item in items:
-        title = item.get("title", "Untitled")
-        link = item.get("link") or item.get("url") or SITE_URL
-        desc = item.get("description") or item.get("summary") or ""
-        pub = item.get("pubDate", "")
-        category = effective_category(item)
-        guid = item.get("guid") or hashlib.sha1(link.encode("utf-8")).hexdigest()
+        title = escape(item.get("title", "Untitled"))
+        link = escape(item.get("link", SITE_URL))
+        description = escape(item.get("description", ""))
+        pub_date = escape(item.get("pubDate", now))
+        category = escape(item.get("category", "general"))
+        source = escape(item.get("source", "Unknown Source"))
 
         lines.extend([
-            '    <item>',
-            f'      <title>{escape(title)}</title>',
-            f'      <link>{escape(link)}</link>',
-            f'      <guid isPermaLink="false">{escape(guid)}</guid>',
-            f'      <pubDate>{escape(pub)}</pubDate>',
-            f'      <description>{cdata(desc)}</description>',
-            f'      <category>{escape(category)}</category>',
-            '    </item>',
+            "  <item>",
+            f"    <title>{title}</title>",
+            f"    <link>{link}</link>",
+            f"    <guid>{link}</guid>",
+            f"    <pubDate>{pub_date}</pubDate>",
+            f"    <category>{category}</category>",
+            f"    <source>{source}</source>",
+            f"    <description>{description}</description>",
+            "  </item>",
         ])
 
-    lines.extend(['  </channel>', '</rss>', ''])
+    lines.extend([
+        "</channel>",
+        "</rss>",
+        "",
+    ])
+
     return "\n".join(lines)
 
 
 def build_index(items):
     rows = []
 
-    for item in items[:15]:
+    for item in items:
         title = escape(item.get("title", "Untitled"))
-        link = escape(item.get("link") or item.get("url") or "#")
-        pub = escape(item.get("pubDate", ""))
-        category = effective_category(item)
-        category_text = escape(category_label(category))
-        category_class = escape(category)
+        link = escape(item.get("link", "#"))
+        category = escape(item.get("category", "general"))
+        source = escape(item.get("source", "Unknown Source"))
+        pub_date = escape(item.get("pubDate", ""))
 
-        rows.append(
-            f'''<li class="feed-item">
-      <div class="item-top">
-        <span class="cat-badge cat-{category_class}">{category_text}</span>
-        <small>{pub}</small>
-      </div>
-      <div class="item-title"><a href="{link}">{title}</a></div>
-    </li>'''
-        )
+        rows.append(f"""
+        <article class="card" data-category="{category}">
+          <div class="meta">
+            <span class="badge">{category}</span>
+            <span>{source}</span>
+          </div>
+          <h2><a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a></h2>
+          <p class="date">{pub_date}</p>
+        </article>
+        """)
 
-    item_html = "\n".join("        " + row for row in rows) if rows else "        <li>No items yet.</li>"
+    item_html = "\n".join(rows) if rows else "<p>No items yet.</p>"
 
-    return f'''<!DOCTYPE html>
+    return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{escape(FEED_TITLE)}</title>
-  <link rel="icon" type="image/png" href="favicon.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="alternate" type="application/rss+xml" title="{escape(FEED_TITLE)}" href="feed.xml">
+
   <style>
-    .site-header {{
-      text-align: center;
-      margin: 12px 0 18px 0;
-    }}
-
-    .header-inner {{
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 18px;
-      flex-wrap: wrap;
-    }}
-
-    .site-logo {{
-      width: 120px;
-      max-width: 45vw;
-      height: auto;
-      display: block;
-      filter: drop-shadow(0 0 8px rgba(0,198,255,0.35));
-    }}
-
-    .site-clock-wrap {{
-      background: #1f2937;
-      border: 1px solid #374151;
-      border-radius: 12px;
-      padding: 8px 12px;
-      min-width: 130px;
-    }}
-
-    .site-clock-label {{
-      font-size: 0.68rem;
-      color: #9aa3b2;
-      letter-spacing: 0.08em;
-      font-weight: 700;
-    }}
-
-    .site-clock {{
-      font-size: 1.2rem;
-      font-weight: 800;
-      color: #7bffb2;
-      line-height: 1.2;
-    }}
-
     body {{
-      font-family: Arial, sans-serif;
-      max-width: 860px;
-      margin: 40px auto;
-      padding: 0 16px;
-      line-height: 1.5;
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #0b1020;
+      color: #f5f7fb;
+    }}
+
+    header {{
+      padding: 32px 20px;
+      background: linear-gradient(135deg, #0f172a, #123456);
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+    }}
+
+    .wrap {{
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 20px;
+    }}
+
+    h1 {{
+      margin: 0;
+      font-size: 2.2rem;
+    }}
+
+    .subtitle {{
+      color: #cbd5e1;
+      margin-top: 8px;
+    }}
+
+    .feed-link {{
+      display: inline-block;
+      margin-top: 16px;
+      color: #93c5fd;
+      text-decoration: none;
+      font-weight: bold;
+    }}
+
+    .grid {{
+      display: grid;
+      gap: 16px;
+      margin-top: 20px;
+    }}
+
+    .card {{
       background: #111827;
-      color: #f3f4f6;
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 14px;
+      padding: 18px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    }}
+
+    .card h2 {{
+      margin: 10px 0;
+      font-size: 1.2rem;
     }}
 
     a {{
-      color: #93c5fd;
+      color: #dbeafe;
       text-decoration: none;
     }}
 
@@ -238,234 +170,49 @@ def build_index(items):
       text-decoration: underline;
     }}
 
-    code {{
-      background: #1f2937;
-      padding: 2px 6px;
-      border-radius: 4px;
-      color: #e5e7eb;
-    }}
-
-    .main-link {{
-      display: inline-block;
-      padding: 12px 18px;
-      background: linear-gradient(135deg, #00c6ff, #7bffb2);
-      color: #000;
-      border-radius: 10px;
-      font-weight: 800;
-      font-size: 1rem;
-      text-decoration: none;
-      margin: 12px 0;
-      box-shadow: 0 4px 14px rgba(0,198,255,0.35);
-      transition: all 0.2s ease;
-    }}
-
-    .main-link:hover {{
-      transform: translateY(-2px);
-      box-shadow: 0 6px 18px rgba(123,255,178,0.45);
-      text-decoration: none;
-    }}
-
-    .feed-list {{
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }}
-
-    .feed-item {{
-      background: #1f2937;
-      border: 1px solid #374151;
-      border-radius: 12px;
-      padding: 14px 16px;
-      margin: 0 0 14px 0;
-    }}
-
-    .item-top {{
+    .meta {{
       display: flex;
+      gap: 10px;
       align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      margin-bottom: 8px;
-      flex-wrap: wrap;
+      color: #94a3b8;
+      font-size: 0.85rem;
     }}
 
-    .item-title {{
-      font-size: 1.02rem;
-      font-weight: 600;
-    }}
-
-    .cat-badge {{
-      display: inline-block;
-      padding: 4px 10px;
+    .badge {{
+      background: #2563eb;
+      color: white;
+      padding: 4px 8px;
       border-radius: 999px;
-      font-size: 0.78rem;
-      font-weight: 700;
-      letter-spacing: 0.02em;
       text-transform: uppercase;
+      font-size: 0.7rem;
+      letter-spacing: 0.04em;
     }}
 
-    .cat-breaking {{
-      background: #dc2626;
-      color: #ffffff;
-      animation: breakingPulse 1s infinite;
-    }}
-
-    .cat-weather {{
-      background: #1d4ed8;
-      color: #eff6ff;
-    }}
-
-    .cat-top {{
-      background: #b91c1c;
-      color: #fef2f2;
-    }}
-
-    .cat-world {{
-      background: #7c3aed;
-      color: #f5f3ff;
-    }}
-
-    .cat-business {{
-      background: #047857;
-      color: #ecfdf5;
-    }}
-
-    .cat-local {{
-      background: #c2410c;
-      color: #fff7ed;
-    }}
-
-    .cat-reddit {{
-      background: #ff4500;
-      color: #fff7ed;
-    }}
-
-    .cat-general {{
-      background: #4b5563;
-      color: #f9fafb;
-    }}
-
-    @keyframes breakingPulse {{
-      0% {{ opacity: 1; }}
-      50% {{ opacity: 0.65; }}
-      100% {{ opacity: 1; }}
+    .date {{
+      color: #94a3b8;
+      font-size: 0.85rem;
+      margin-bottom: 0;
     }}
   </style>
 </head>
+
 <body>
-  <header class="site-header">
-    <div class="header-inner">
-      <a href="main.html" title="Open AK Pulse Live full site">
-        <img src="assets/akpulse-logo.png" class="site-logo" alt="AK Pulse Live logo">
-      </a>
-      <div class="site-clock-wrap">
-        <div class="site-clock-label">ANCHORAGE TIME</div>
-        <div class="site-clock" id="clock">--:--</div>
-      </div>
+  <header>
+    <div class="wrap">
+      <h1>{escape(FEED_TITLE)}</h1>
+      <div class="subtitle">{escape(FEED_DESCRIPTION)}</div>
+      <a class="feed-link" href="feed.xml">RSS Feed</a>
     </div>
   </header>
 
-  <h1>Anchorage Custom Feed</h1>
-  <p>{escape(FEED_DESCRIPTION)}</p>
-  <p><a href="feed.xml">Open the RSS feed</a></p>
-  <p><a href="main.html" class="main-link">🚀 Open AK Pulse Live</a></p>
-  <p>Feed URL: <code>akpulselive.com/feed.xml</code></p>
-
-  <h2>Latest items</h2>
-  <ul class="feed-list">
-{item_html}
-  </ul>
-
-  <script>
-    function updateClock() {{
-      const now = new Date();
-      const time = now.toLocaleTimeString([], {{
-        hour: "2-digit",
-        minute: "2-digit"
-      }});
-
-      const clock = document.getElementById("clock");
-      if (clock) clock.textContent = time;
-    }}
-
-    updateClock();
-    setInterval(updateClock, 1000);
-  </script>
+  <main class="wrap">
+    <section class="grid">
+      {item_html}
+    </section>
+  </main>
 </body>
 </html>
-'''
-
-
-def build_weather_page(items):
-    weather_items = [item for item in items if effective_category(item) == "weather"]
-
-    cards = []
-
-    for item in weather_items:
-        title_raw = item.get("title", "Forecast")
-        desc = item.get("description") or item.get("summary") or ""
-        slug = make_slug(title_raw.split(":")[-1].strip())
-        icon = weather_icon(title_raw + " " + desc)
-
-        cards.append(f'''
-      <section class="weather-card" id="{escape(slug)}">
-        <h2>{icon} {escape(title_raw)}</h2>
-        <div class="weather-desc">{desc}</div>
-      </section>
-''')
-
-    cards_html = "\n".join(cards) if cards else "<p>No weather forecast available.</p>"
-
-    return f'''<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Anchorage Weather Forecast</title>
-  <link rel="icon" type="image/png" href="favicon.png">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {{
-      font-family: Arial, sans-serif;
-      max-width: 860px;
-      margin: 40px auto;
-      padding: 0 16px;
-      background: #111827;
-      color: #f3f4f6;
-      line-height: 1.6;
-    }}
-
-    a {{
-      color: #93c5fd;
-    }}
-
-    .weather-card {{
-      background: #1f2937;
-      border: 1px solid #374151;
-      border-radius: 14px;
-      padding: 18px;
-      margin-bottom: 16px;
-    }}
-
-    .weather-card h2 {{
-      color: #bfdbfe;
-      margin-top: 0;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 1.2rem;
-    }}
-
-    .weather-desc {{
-      font-size: 1rem;
-    }}
-  </style>
-</head>
-<body>
-  <h1>Anchorage Weather Forecast</h1>
-  <p><a href="index.html">← Back to feed</a> • <a href="main.html">AK Pulse Live</a></p>
-  {cards_html}
-</body>
-</html>
-'''
+"""
 
 
 def main():
@@ -473,11 +220,10 @@ def main():
 
     FEED_FILE.write_text(build_feed(items), encoding="utf-8")
     INDEX_FILE.write_text(build_index(items), encoding="utf-8")
-    WEATHER_FILE.write_text(build_weather_page(items), encoding="utf-8")
 
     print(f"Wrote {FEED_FILE}")
     print(f"Wrote {INDEX_FILE}")
-    print(f"Wrote {WEATHER_FILE}")
+    print(f"Items: {len(items)}")
 
 
 if __name__ == "__main__":
