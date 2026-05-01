@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AK Pulse Live</title>
+
+<link rel="alternate" type="application/rss+xml" title="AK Pulse Live RSS" href="feed.xml">
+
+<style>
+:root {
+  --bg: #0b0f1a;
+  --panel: rgba(18, 24, 39, 0.88);
+  --panel-soft: rgba(23, 32, 51, 0.94);
+  --text: #f4f7fb;
+  --muted: #9aa3b2;
+  --blue: #00c6ff;
+  --green: #7bffb2;
+  --red: #ff4757;
+  --border: rgba(255,255,255,0.09);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(0,198,255,0.18), transparent 35%),
+    radial-gradient(circle at top right, rgba(123,255,178,0.13), transparent 30%),
+    var(--bg);
+  color: var(--text);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--green);
+}
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding: 18px 5%;
+  border-bottom: 1px solid var(--border);
+  background: rgba(11,15,26,0.88);
+  backdrop-filter: blur(12px);
+  box-shadow: 0 12px 35px rgba(0,0,0,0.28);
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 22px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  min-width: 260px;
+}
+
+.logo-img {
+  height: 70px;
+  width: auto;
+  max-width: 260px;
+  object-fit: contain;
+  border-radius: 12px;
+  filter:
+    drop-shadow(0 0 10px rgba(0,198,255,0.45))
+    drop-shadow(0 0 18px rgba(123,255,178,0.18));
+}
+
+.brand-text h1 {
+  margin: 0;
+  font-size: 1.65rem;
+  line-height: 1;
+  letter-spacing: 0.5px;
+}
+
+.brand-text h1 span {
+  color: var(--green);
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 4px;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 14px;
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+
+nav a {
+  padding: 6px 9px;
+  border-radius: 999px;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+nav a:hover {
+  background: rgba(123,255,178,0.10);
+  color: var(--green);
+}
+
+.ticker {
+  margin-top: 14px;
+  padding: 10px 14px;
+  background: rgba(5,7,13,0.92);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  overflow: hidden;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+}
+
+.live-badge {
+  background: var(--red);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 999px;
+  font-weight: bold;
+  font-size: 0.78rem;
+  flex-shrink: 0;
+  box-shadow: 0 0 15px rgba(255,71,87,0.45);
+  animation: livePulse 2s infinite;
+}
+
+.ticker-text {
+  white-space: nowrap;
+  color: var(--text);
+  animation: scroll 28s linear infinite;
+}
+
+@keyframes scroll {
+  from { transform: translateX(100%); }
+  to { transform: translateX(-100%); }
+}
+
+@keyframes livePulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.62; }
+  100% { opacity: 1; }
+}
+
+main {
+  width: 90%;
+  max-width: 1200px;
+  margin: 30px auto 72px;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 24px;
+}
+
+.hero {
+  background:
+    linear-gradient(135deg, rgba(0,198,255,0.18), rgba(123,255,178,0.08)),
+    var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 24px;
+  padding: 28px;
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.25);
+}
+
+.hero h2 {
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  margin: 16px 0 12px;
+  line-height: 1.06;
+}
+
+.hero p {
+  color: var(--muted);
+  font-size: 1.03rem;
+  max-width: 760px;
+}
+
+.section-title {
+  margin: 28px 0 14px;
+  font-size: 1.25rem;
+  color: var(--green);
+  scroll-margin-top: 160px;
+}
+
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 18px;
+}
+
+.card-link {
+  display: block;
+  height: 100%;
+}
+
+.card {
+  height: 100%;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 18px;
+  transition: transform 0.2s ease, border 0.2s ease, background 0.2s ease;
+  box-shadow: 0 10px 26px rgba(0,0,0,0.18);
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(123,255,178,0.35);
+  background: var(--panel-soft);
+}
+
+.card h3 {
+  margin: 12px 0 8px;
+  font-size: 1.08rem;
+  line-height: 1.32;
+}
+
+.card p {
+  color: var(--muted);
+  font-size: 0.94rem;
+  line-height: 1.5;
+}
+
+.tag {
+  display: inline-block;
+  width: fit-content;
+  padding: 5px 9px;
+  border-radius: 999px;
+  background: rgba(0,198,255,0.15);
+  color: var(--green);
+  border: 1px solid rgba(123,255,178,0.25);
+  font-size: 0.72rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.tag.weather { color: #eff6ff; background: rgba(29,78,216,0.42); border-color: rgba(147,197,253,0.35); }
+.tag.breaking { color: #fff; background: rgba(220,38,38,0.80); border-color: rgba(255,255,255,0.22); animation: livePulse 1s infinite; }
+.tag.world { color: #f5f3ff; background: rgba(124,58,237,0.42); border-color: rgba(196,181,253,0.35); }
+.tag.business { color: #ecfdf5; background: rgba(4,120,87,0.50); border-color: rgba(110,231,183,0.30); }
+.tag.reddit { color: #fff7ed; background: rgba(255,69,0,0.70); border-color: rgba(255,237,213,0.30); }
+
+aside {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.widget {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  padding: 20px;
+  box-shadow: 0 10px 26px rgba(0,0,0,0.18);
+  scroll-margin-top: 160px;
+}
+
+.widget h3 {
+  margin-top: 0;
+  color: var(--blue);
+}
+
+.weather-temp {
+  font-size: 2.7rem;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.small-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.small-list li {
+  padding: 11px 0;
+  border-bottom: 1px solid var(--border);
+  color: var(--muted);
+}
+
+.small-list li:last-child {
+  border-bottom: none;
+}
+
+footer {
+  text-align: center;
+  color: var(--muted);
+  padding: 32px;
+  border-top: 1px solid var(--border);
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .news-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .topbar {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  nav {
+    justify-content: flex-start;
+  }
+
+  .logo-img {
+    max-width: 220px;
+    height: 58px;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <div class="topbar">
+    <a class="brand" href="main.html">
+      <img class="logo-img" src="assets/akpulse-logo.png" alt="AK Pulse Live logo">
+      <div class="brand-text">
+        <h1>AK <span>Pulse</span> Live</h1>
+        <div class="meta">Anchorage news, weather, Reddit, and live updates</div>
+      </div>
+    </a>
+
+    <nav>
+      <a href="#top">Top Stories</a>
+      <a href="#world">World</a>
+      <a href="#reddit">Reddit</a>
+      <a href="#weather">Weather</a>
+      <a href="index.html">Simple View</a>
+      <a href="feed.xml">RSS Feed</a>
+    </nav>
+  </div>
+
+  <div class="ticker">
+    <div class="live-badge">LIVE</div>
+    <div class="ticker-text">Loading live headlines…</div>
+  </div>
+</header>
+
+<main>
+  <div class="layout">
+    <section>
+      <article class="hero">
+        <span class="tag">Featured</span>
+        <h2>Latest Alaska and world headlines in one live stream</h2>
+        <p>
+          A clean, automated news portal powered by your RSS feed,
+          GitHub Pages, weather updates, and scheduled imports.
+        </p>
+      </article>
+
+      <h2 id="top" class="section-title">Top Stories</h2>
+      <div class="news-grid"></div>
+
+      <h2 id="world" class="section-title">World & Business</h2>
+      <div class="news-grid"></div>
+
+      <h2 id="reddit" class="section-title">Reddit</h2>
+      <div class="news-grid"></div>
+    </section>
+
+    <aside>
+      <section id="weather" class="widget">
+        <h3>Anchorage Weather</h3>
+        <div class="weather-temp">—</div>
+        <p class="meta">Loading forecast…</p>
+      </section>
+
+      <section class="widget">
+        <h3>Sources</h3>
+        <ul class="small-list">
+          <li><a href="https://feeds.bbci.co.uk/news/rss.xml" target="_blank" rel="noopener">BBC News</a></li>
+          <li><a href="https://www.reddit.com/r/news/new/.rss" target="_blank" rel="noopener">Reddit News</a></li>
+          <li><a href="https://abcnews.go.com/abcnews/businessheadlines" target="_blank" rel="noopener">ABC Business</a></li>
+          <li><a href="https://www.weather.gov/afc/" target="_blank" rel="noopener">NWS Anchorage</a></li>
+          <li><a href="feed.xml">AK Pulse RSS Feed</a></li>
+        </ul>
+      </section>
+
+      <section class="widget">
+        <h3>Latest Updates</h3>
+        <ul class="small-list" id="latest-updates">
+          <li>Loading updates…</li>
+        </ul>
+      </section>
+    </aside>
+  </div>
+</main>
+
+<footer>
+  <a href="#top">Top Stories</a> •
+  <a href="#world">World</a> •
+  <a href="#reddit">Reddit</a> •
+  <a href="#weather">Weather</a> •
+  <a href="index.html">Simple View</a> •
+  <a href="feed.xml">RSS Feed</a>
+  <br><br>
+  AK Pulse Live • Powered by GitHub Pages
+</footer>
+
+<script>
+const FEED_URL = "feed.xml";
+
+function textOf(item, selector) {
+  return item.querySelector(selector)?.textContent?.trim() || "";
+}
+
+function cleanHtml(html) {
+  const div = document.createElement("div");
+  div.innerHTML = html || "";
+  return div.textContent || div.innerText || "";
+}
+
+function shortText(text, max = 150) {
+  if (!text) return "";
+  return text.length > max ? text.slice(0, max - 3) + "..." : text;
+}
+
+function categoryOf(item) {
+  return (textOf(item, "category") || "general").toLowerCase();
+}
+
+function makeCard(item) {
+  const title = textOf(item, "title");
+  const link = textOf(item, "link");
+  const category = categoryOf(item);
+  const pubDate = textOf(item, "pubDate");
+  const description = shortText(cleanHtml(textOf(item, "description")), 150);
+
+  const a = document.createElement("a");
+  a.className = "card-link";
+  a.href = link || "#";
+  a.target = "_blank";
+  a.rel = "noopener";
+
+  a.innerHTML = `
+    <article class="card">
+      <span class="tag ${category}">${category}</span>
+      <h3>${title}</h3>
+      <div class="meta">${pubDate}</div>
+      <p>${description}</p>
+    </article>
+  `;
+
+  return a;
+}
+
+function fillGridByHeading(sectionId, items, limit = 4) {
+  const heading = document.getElementById(sectionId);
+  if (!heading) return;
+
+  const grid = heading.nextElementSibling;
+  if (!grid || !grid.classList.contains("news-grid")) return;
+
+  grid.innerHTML = "";
+
+  items.slice(0, limit).forEach(item => grid.appendChild(makeCard(item)));
+
+  if (!items.length) {
+    grid.innerHTML = `<p class="meta">No items available.</p>`;
+  }
+}
+
+function updateWeather(weatherItems) {
+  const widget = document.querySelector("#weather");
+  if (!widget || !weatherItems.length) return;
+
+  const item = weatherItems[0];
+  const desc = cleanHtml(textOf(item, "description"));
+  const tempMatch = desc.match(/\\b\\d+°[FC]\\b/);
+  const temp = tempMatch ? tempMatch[0] : "—";
+
+  widget.innerHTML = `
+    <h3>Anchorage Weather</h3>
+    <div class="weather-temp">${temp}</div>
+    <p class="meta">${shortText(desc, 190)}</p>
+    <p><a href="weather.html">View detailed forecast</a></p>
+  `;
+}
+
+function updateTicker(items) {
+  const ticker = document.querySelector(".ticker-text");
+  if (!ticker) return;
+
+  ticker.textContent = items
+    .slice(0, 10)
+    .map(item => textOf(item, "title"))
+    .join(" • ") + " •";
+}
+
+function updateLatest(items) {
+  const list = document.querySelector("#latest-updates");
+  if (!list) return;
+
+  list.innerHTML = "";
+
+  items.slice(0, 6).forEach(item => {
+    const li = document.createElement("li");
+    li.innerHTML = `<a href="${textOf(item, "link")}" target="_blank" rel="noopener">${textOf(item, "title")}</a>`;
+    list.appendChild(li);
+  });
+}
+
+async function loadMainFeed() {
+  const response = await fetch(FEED_URL + "?t=" + Date.now(), { cache: "no-store" });
+  const xmlText = await response.text();
+  const xml = new DOMParser().parseFromString(xmlText, "text/xml");
+  const items = [...xml.querySelectorAll("item")];
+
+  const weather = items.filter(item => categoryOf(item) === "weather");
+  const reddit = items.filter(item => categoryOf(item) === "reddit");
+  const world = items.filter(item => categoryOf(item) === "world" || categoryOf(item) === "top");
+  const business = items.filter(item => categoryOf(item) === "business");
+  const topStories = items.filter(item => categoryOf(item) !== "weather");
+
+  fillGridByHeading("top", topStories, 6);
+  fillGridByHeading("world", [...world, ...business], 6);
+  fillGridByHeading("reddit", reddit, 4);
+
+  updateWeather(weather);
+  updateTicker(items);
+  updateLatest(items);
+}
+
+loadMainFeed().catch(err => {
+  console.error("Failed to load main feed:", err);
+});
+</script>
+
+</body>
+</html>
