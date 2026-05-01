@@ -115,7 +115,23 @@ html, body {
   background: #dc2626;
   color: #ffffff;
   animation: breakingPulse 1s infinite;
+  
+.main-link {
+  display: inline-block;
+  padding: 10px 16px;
+  background: #00c6ff;
+  color: #000;
+  border-radius: 8px;
+  font-weight: 700;
+  text-decoration: none;
+  margin-top: 10px;
 }
+
+.main-link:hover {
+  background: #7bffb2;
+}}
+
+
 
 .badge.weather { background: #1d4ed8; color: #fff; }
 .badge.top { background: #b91c1c; color: #fff; }
