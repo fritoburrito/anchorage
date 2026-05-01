@@ -158,7 +158,7 @@ html, body {
 }
 
 .logo-img {
-  max-width: 240px;   /* controls overall size */
+  max-width: 140px;   /* controls overall size */
   height: auto;       /* keeps proportions */
   display: block;
   margin: 10px auto;
