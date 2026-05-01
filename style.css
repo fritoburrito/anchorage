@@ -144,16 +144,17 @@ html, body {
   pointer-events: none;
 }
 
-..site-header {
+.site-header {
   text-align: center;
-  margin-bottom: 10px;
+  margin: 20px 0;
 }
 
 .logo-img {
-  height: 80px;      /* controls size */
-  width: auto;       /* keeps proportions */
+  height: 70px;
+  width: auto;
   display: block;
-  margin: 10px auto;
+  margin: 0 auto;
+  border: 1px solid red; /* TEMP DEBUG */
 }
 
 .logo-img {
