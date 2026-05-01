@@ -118,6 +118,7 @@ def build_feed(items):
         f'    <description>{escape(FEED_DESCRIPTION)}</description>',
         f'    <language>{LANGUAGE}</language>',
         f'    <lastBuildDate>{escape(last_build)}</lastBuildDate>',
+        f'    <category>{item.get("category","general")}</category>',
     ]
 
     for item in items:
