@@ -144,15 +144,25 @@ nav a:hover {
   animation: livePulse 2s infinite;
 }
 
+.ticker-window {
+  overflow: hidden;
+  flex: 1;
+}
+
 .ticker-text {
+  display: inline-block;
   white-space: nowrap;
   color: var(--text);
-  animation: scroll 60s linear infinite;
+  will-change: transform;
+  animation-name: scroll;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 60s;
 }
 
 @keyframes scroll {
-  from { transform: translateX(100%); }
-  to { transform: translateX(-100%); }
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
 }
 
 @keyframes livePulse {
@@ -364,7 +374,9 @@ footer {
 
   <div class="ticker">
     <div class="live-badge">LIVE</div>
-    <div class="ticker-text">Loading live headlines…</div>
+    <div class="ticker-window">
+      <div class="ticker-text">Loading live headlines…</div>
+    </div>
   </div>
 </header>
 
@@ -513,10 +525,18 @@ function updateTicker(items) {
   const ticker = document.querySelector(".ticker-text");
   if (!ticker) return;
 
-  ticker.textContent = items
+  const text = items
     .slice(0, 10)
     .map(item => textOf(item, "title"))
     .join(" • ") + " •";
+
+  ticker.textContent = text;
+
+  // Dynamic ticker speed:
+  // Longer text gets a longer duration so it remains readable.
+  // Adjust multiplier upward to slow it more.
+  const duration = Math.max(55, Math.min(120, text.length * 0.42));
+  ticker.style.animationDuration = `${duration}s`;
 }
 
 function updateLatest(items) {
