@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AK Pulse Live</title>
+<style>
+body { font-family: Arial, sans-serif; background:#0b0f1a; color:#f4f7fb; margin:0; }
+main { width:90%; max-width:1200px; margin:30px auto; }
+.news-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:16px; }
+.card { background:#121827; padding:16px; border-radius:12px; border:1px solid rgba(255,255,255,0.08);}
+.tag { font-size:0.7rem; color:#7bffb2; text-transform:uppercase; }
+.meta { font-size:0.8rem; color:#9aa3b2; }
+.widget { background:#121827; padding:16px; border-radius:12px; margin-top:20px; }
+</style>
+</head>
+<body>
+
+<main>
+<h2 id="top">Top Stories</h2>
+<div class="news-grid"></div>
+
+<h2 id="world">World</h2>
+<div class="news-grid"></div>
+
+<h2 id="reddit">Reddit</h2>
+<div class="news-grid"></div>
+
+<div id="weather" class="widget"></div>
+</main>
+
+<script>
+const FEED_URL = "feed.xml";
+
+function textOf(item, selector) {
+  return item.querySelector(selector)?.textContent?.trim() || "";
+}
+
+function cleanHtml(html) {
+  const div = document.createElement("div");
+  div.innerHTML = html || "";
+  return div.textContent || "";
+}
+
+function shortText(text, max=120){
+  return text.length>max ? text.slice(0,max)+"..." : text;
+}
+
+function makeCard(item){
+  const title = textOf(item,"title");
+  const link = textOf(item,"link");
+  const desc = shortText(cleanHtml(textOf(item,"description")));
+
+  const el = document.createElement("a");
+  el.href = link;
+  el.target = "_blank";
+  el.innerHTML = `
+    <div class="card">
+      <div class="tag">${textOf(item,"category")}</div>
+      <h3>${title}</h3>
+      <div class="meta">${textOf(item,"pubDate")}</div>
+      <p>${desc}</p>
+    </div>
+  `;
+  return el;
+}
+
+async function loadFeed(){
+  const res = await fetch(FEED_URL + "?t=" + Date.now());
+  const txt = await res.text();
+  const xml = new DOMParser().parseFromString(txt,"text/xml");
+  const items = [...xml.querySelectorAll("item")];
+
+  const grids = document.querySelectorAll(".news-grid");
+  grids.forEach(g=>g.innerHTML="");
+
+  items.slice(0,6).forEach(i=>grids[0].appendChild(makeCard(i)));
+
+  items.filter(i=>textOf(i,"category")=="world")
+       .slice(0,4)
+       .forEach(i=>grids[1].appendChild(makeCard(i)));
+
+  items.filter(i=>textOf(i,"category")=="reddit")
+       .slice(0,4)
+       .forEach(i=>grids[2].appendChild(makeCard(i)));
+
+  const weather = items.find(i=>textOf(i,"category")=="weather");
+  if(weather){
+    document.getElementById("weather").innerHTML = `
+      <h3>Weather</h3>
+      <p>${cleanHtml(textOf(weather,"description"))}</p>
+      <a href="weather.html">Full forecast</a>
+    `;
+  }
+}
+
+loadFeed();
+</script>
+
+</body>
+</html>
