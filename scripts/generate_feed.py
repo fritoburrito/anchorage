@@ -318,6 +318,7 @@ def build_index(items):
   <h1>{escape(FEED_TITLE)}</h1>
   <p>{escape(FEED_DESCRIPTION)}</p>
   <p><a href="feed.xml">Open the RSS feed</a></p>
+  <p><a href="main.html">Open AK Pulse Live Full Site</a></p>
   <p>Feed URL: <code>{escape(FEED_URL)}</code></p>
   <h2>Latest items</h2>
   <ul class="feed-list">
