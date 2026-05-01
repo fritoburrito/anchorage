@@ -3,6 +3,19 @@
     "title": "Anchorage Weather: Today",
     "link": "https://akpulselive.com/weather.html#today",
     "url": "https://akpulselive.com/weather.html#today",
+    "summary": "45°F | 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind around 5 mph. Chance of precipitation is 40%.",
+    "description": "45°F | 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind around 5 mph. Chance of precipitation is 40%.",
+    "source": "NWS Anchorage",
+    "category": "weather",
+    "tag": "weather",
+    "pubDate": "Fri, 01 May 2026 15:29:30 GMT",
+    "published": "2026-05-01T15:29:30.379125+00:00",
+    "created_utc": "2026-05-01T15:29:30.379125+00:00"
+  },
+  {
+    "title": "Anchorage Weather: Today",
+    "link": "https://akpulselive.com/weather.html#today",
+    "url": "https://akpulselive.com/weather.html#today",
     "summary": "45°F | 0 to 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.",
     "description": "45°F | 0 to 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.",
     "source": "NWS Anchorage",
@@ -960,18 +973,5 @@
     "pubDate": "Fri, 01 May 2026 13:01:42 GMT",
     "published": "2026-05-01T09:01:42-04:00",
     "created_utc": "2026-05-01T09:01:42-04:00"
-  },
-  {
-    "title": "Profit for the biggest US oil companies declined in the first quarter, but only on paper",
-    "link": "https://abcnews.com/Business/wireStory/profit-biggest-us-oil-companies-declined-quarter-paper-132566961",
-    "url": "https://abcnews.com/Business/wireStory/profit-biggest-us-oil-companies-declined-quarter-paper-132566961",
-    "summary": "Profit for the two largest oil companies in the U.S. tumbled during the first quarter, a three-month period in which the price of crude and gasoline rocketed higher",
-    "description": "Profit for the two largest oil companies in the U.S. tumbled during the first quarter, a three-month period in which the price of crude and gasoline rocketed higher",
-    "source": "ABC Business",
-    "category": "business",
-    "tag": "business",
-    "pubDate": "Fri, 01 May 2026 12:45:17 GMT",
-    "published": "2026-05-01T08:45:17-04:00",
-    "created_utc": "2026-05-01T08:45:17-04:00"
   }
 ]
