@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Anchorage Custom Feed</title>
+    <title>AK Pulse Live News</title>
     <link>akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
@@ -13,6 +13,46 @@
       <pubDate>Fri, 01 May 2026 10:54:52 GMT</pubDate>
       <description><![CDATA[The scheme encourages staff and families to seek an urgent second opinion if they fear a patient's condition is worsening.]]></description>
       <category>breaking</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Today</title>
+      <link>https://akpulselive.com/weather.html#today</link>
+      <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
+      <pubDate>Fri, 01 May 2026 14:49:40 GMT</pubDate>
+      <description><![CDATA[45°F | 0 to 5 mph NE | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 45. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>U.S. senators ban themselves from prediction markets trading</title>
+      <link>https://www.reddit.com/r/news/comments/1t0e1xj/us_senators_ban_themselves_from_prediction/</link>
+      <guid isPermaLink="false">d84ddf340cdee4867a619b6f5b1efb84d6efe464</guid>
+      <pubDate>Fri, 01 May 2026 14:49:37 GMT</pubDate>
+      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/Kooolxxx"> /u/Kooolxxx </a> <br /> <span><a href="https://www.cnbc.com/2026/04/30/senate-prediction-markets-trading-ban-kalshi-polymarket.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t0e1xj/us_senators_ban_themselves_from_prediction/">[comments]</a></span>]]></description>
+      <category>reddit</category>
+    </item>
+    <item>
+      <title>New York officials return more than 650 antiquities valued at $14m to India</title>
+      <link>https://www.reddit.com/r/news/comments/1t0e9c6/new_york_officials_return_more_than_650/</link>
+      <guid isPermaLink="false">22f71eccbd0b8ccd7a9b4cf1a2610a98b05d7612</guid>
+      <pubDate>Fri, 01 May 2026 14:49:37 GMT</pubDate>
+      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/Kooolxxx"> /u/Kooolxxx </a> <br /> <span><a href="https://www.theguardian.com/us-news/2026/apr/30/new-york-return-antiquities-india">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t0e9c6/new_york_officials_return_more_than_650/">[comments]</a></span>]]></description>
+      <category>reddit</category>
+    </item>
+    <item>
+      <title>Press freedom at lowest level in 25 years amid growing authoritarian pressure</title>
+      <link>https://www.reddit.com/r/news/comments/1t0fwdd/press_freedom_at_lowest_level_in_25_years_amid/</link>
+      <guid isPermaLink="false">4c05626da62d0ae3660d1f9f359b67bf508dd1ba</guid>
+      <pubDate>Fri, 01 May 2026 14:49:37 GMT</pubDate>
+      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/roscodawg"> /u/roscodawg </a> <br /> <span><a href="https://www.theguardian.com/media/2026/apr/30/press-freedom-world-index-lowest-level-25-years">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t0fwdd/press_freedom_at_lowest_level_in_25_years_amid/">[comments]</a></span>]]></description>
+      <category>reddit</category>
+    </item>
+    <item>
+      <title>Scientology ‘speed running’ trend has LA abuzz and church unhappy | Los Angeles</title>
+      <link>https://www.reddit.com/r/news/comments/1t0gl16/scientology_speed_running_trend_has_la_abuzz_and/</link>
+      <guid isPermaLink="false">6e5bd075dad463e60161de010b8425a46fc19d99</guid>
+      <pubDate>Fri, 01 May 2026 14:49:37 GMT</pubDate>
+      <description><![CDATA[&#32; submitted by &#32; <a href="https://www.reddit.com/user/maestroenglish"> /u/maestroenglish </a> <br /> <span><a href="https://www.theguardian.com/us-news/2026/apr/30/hollywood-church-of-scientology-speed-runs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1t0gl16/scientology_speed_running_trend_has_la_abuzz_and/">[comments]</a></span>]]></description>
+      <category>reddit</category>
     </item>
     <item>
       <title>Anchorage Weather: Today</title>
@@ -47,6 +87,14 @@
       <category>world</category>
     </item>
     <item>
+      <title>De Zerbi urges Spurs to 'silence voice inside of us'</title>
+      <link>https://www.bbc.com/sport/football/articles/cvgze85889do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">614fdfd618a0f78c8c98e26a417c4aba09ac931e</guid>
+      <pubDate>Fri, 01 May 2026 14:26:05 GMT</pubDate>
+      <description><![CDATA[Manager Roberto de Zerbi urges Tottenham to "silence the voice inside of us" as the club battle to avoid relegation from the Premier League.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Crayola toys recalled over possible asbestos contamination</title>
       <link>https://www.bbc.com/news/articles/cdjp3dlkzwwo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">a379ed5ec80dc3b36c64635dddecdaf9d649ca20</guid>
@@ -61,6 +109,14 @@
       <pubDate>Fri, 01 May 2026 14:25:15 GMT</pubDate>
       <description><![CDATA[A China policy giving Africa&rsquo;s biggest economies tariff-free access to its market for the next two years has come into effect]]></description>
       <category>business</category>
+    </item>
+    <item>
+      <title>House approves bill to fund DHS, ending record-long partial shutdown</title>
+      <link>https://abcnews.com/Politics/house-approves-bill-fund-dhs/story?id=132541961</link>
+      <guid isPermaLink="false">33cb4e6836e77b8f304e7cf27d5540649db75892</guid>
+      <pubDate>Fri, 01 May 2026 13:50:32 GMT</pubDate>
+      <description><![CDATA[The bill funds all DHS agencies except immigration enforcement operations.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Anchorage Weather: Overnight</title>
@@ -149,62 +205,6 @@
       <pubDate>Fri, 01 May 2026 13:24:15 GMT</pubDate>
       <description><![CDATA[A loud explosion was heard as bomb disposal experts made the 250kg device safe.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>What South Carolina did to reign in its measles outbreak</title>
-      <link>https://abcnews.com/Health/after-1000-cases-south-carolina-officials-beat-back/story?id=132414412</link>
-      <guid isPermaLink="false">4828068cb45ae956f28931f0e663a69619627cd8</guid>
-      <pubDate>Fri, 01 May 2026 13:18:11 GMT</pubDate>
-      <description><![CDATA[After six months and nearly 1,000 cases, a measles outbreak in South Carolina came to an end. Here's how officials got it under control.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Small plane crashes near Austin, killing all 5 aboard, county official says</title>
-      <link>https://abcnews.com/US/wireStory/small-plane-crashed-austin-texas-killing-5-aboard-132568995</link>
-      <guid isPermaLink="false">b4de7ebb1361cb95eace41aaaee5d24d582d3fea</guid>
-      <pubDate>Fri, 01 May 2026 13:14:40 GMT</pubDate>
-      <description><![CDATA[A small plane has crashed in a small city near Austin, Texas, killing all five people aboard]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>OxyContin maker Purdue Pharma's settlement, by the numbers</title>
-      <link>https://abcnews.com/Business/wireStory/oxycontin-maker-purdue-pharmas-settlement-numbers-132569236</link>
-      <guid isPermaLink="false">7a6093f3896bb73f76864a87616beafe74664735</guid>
-      <pubDate>Fri, 01 May 2026 13:13:41 GMT</pubDate>
-      <description><![CDATA[OxyContin maker Purdue Pharma's deal to resolve thousands of lawsuits over the toll of opioids is taking effect Friday and the company is being replaced by a new entity]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>Billions of meals at risk due to Iran war, says fertiliser boss</title>
-      <link>https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">74e38b9b69f8819cdb6ea3612d598ecb2f73953e</guid>
-      <pubDate>Fri, 01 May 2026 13:12:10 GMT</pubDate>
-      <description><![CDATA[A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The 60-day War Powers deadline is up on Friday. What could happen next?</title>
-      <link>https://abcnews.com/Politics/60-day-war-powers-deadline-falls-friday-happen/story?id=132554486</link>
-      <guid isPermaLink="false">0e86a17f800295f00305a4b01f93ec77948f35aa</guid>
-      <pubDate>Fri, 01 May 2026 13:01:46 GMT</pubDate>
-      <description><![CDATA[As Trump continues to keep a military presence in the Middle East, the 60-day deadline for the administration to seek congressional authorization is up on Friday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Profit for the biggest US oil companies declined in the first quarter, but only on paper</title>
-      <link>https://abcnews.com/Business/wireStory/profit-biggest-us-oil-companies-declined-quarter-paper-132566961</link>
-      <guid isPermaLink="false">81aebdd51136bdd5be3a67a0e5804c9ca86ee2e4</guid>
-      <pubDate>Fri, 01 May 2026 12:45:17 GMT</pubDate>
-      <description><![CDATA[Profit for the two largest oil companies in the U.S. tumbled during the first quarter, a three-month period in which the price of crude and gasoline rocketed higher]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>Superdry cofounder James Holder convicted of rape after a night of drinking</title>
-      <link>https://abcnews.com/Business/wireStory/superdry-cofounder-james-holder-convicted-rape-after-night-132566956</link>
-      <guid isPermaLink="false">1755a4afb4c9671f6723b2fb8d5a0616a6990bcd</guid>
-      <pubDate>Fri, 01 May 2026 12:40:04 GMT</pubDate>
-      <description><![CDATA[James Holder, cofounder of the fashion brand Superdry, has been convicted of rape after a night of drinking]]></description>
-      <category>business</category>
     </item>
   </channel>
 </rss>
