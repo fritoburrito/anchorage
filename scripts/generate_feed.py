@@ -18,7 +18,6 @@ FEED_DESCRIPTION = "A custom WEB/RSS feed published by a Bot."
 LANGUAGE = "en-us"
 MAX_ITEMS = 25
 
-
 def cdata(text: str) -> str:
     return "<![CDATA[" + text.replace("]]>", "]]]]><![CDATA[>") + "]]>"
 
@@ -195,103 +194,7 @@ def build_index(items):
       </div>
       <div class="item-title"><a href="{link}">{title}</a></div>
     </li>'''
-       <!-- Add this right after <body> in index.html -->
-<header class="site-header">
-  <div class="header-inner">
-    <a href="main.html" title="Open AK Pulse Live full site">
-      <img src="assets/akpulse-logo.png" class="site-logo" alt="AK Pulse Live logo">
-    </a>
-    <div class="site-clock-wrap">
-      <div class="site-clock-label">ANCHORAGE TIME</div>
-      <div class="site-clock" id="clock">--:--</div>
-    </div>
-  </div>
-</header>
-
-<!-- Add this near your existing feed links -->
-<p>
-  <a href="main.html" class="main-link">Open AK Pulse Live Full Site</a>
-</p>
-
-<!-- Add this inside the <style> section -->
-<style>
-.site-header {
-  text-align: center;
-  margin: 12px 0 18px 0;
-}
-
-.header-inner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 18px;
-  flex-wrap: wrap;
-}
-
-.site-logo {
-  width: 140px;
-  max-width: 45vw;
-  height: auto;
-  display: block;
-  filter: drop-shadow(0 0 8px rgba(0,198,255,0.35));
-}
-
-.site-clock-wrap {
-  background: #1f2937;
-  border: 1px solid #374151;
-  border-radius: 12px;
-  padding: 8px 12px;
-  min-width: 130px;
-}
-
-.site-clock-label {
-  font-size: 0.68rem;
-  color: #9aa3b2;
-  letter-spacing: 0.08em;
-  font-weight: 700;
-}
-
-.site-clock {
-  font-size: 1.2rem;
-  font-weight: 800;
-  color: #7bffb2;
-  line-height: 1.2;
-}
-
-.main-link {
-  display: inline-block;
-  padding: 9px 14px;
-  background: #00c6ff;
-  color: #000;
-  border-radius: 8px;
-  font-weight: 700;
-  text-decoration: none;
-  margin: 8px 0;
-}
-
-.main-link:hover {
-  background: #7bffb2;
-  text-decoration: none;
-}
-</style>
-
-<!-- Add this right before </body> -->
-<script>
-function updateClock() {
-  const now = new Date();
-  const time = now.toLocaleTimeString([], {
-    hour: "2-digit",
-    minute: "2-digit"
-  });
-
-  const clock = document.getElementById("clock");
-  if (clock) clock.textContent = time;
-}
-
-updateClock();
-setInterval(updateClock, 1000);
-</script>
-     
+   
         )
 
     item_html = "\n".join("        " + row for row in rows) if rows else '        <li>No items yet.</li>'
