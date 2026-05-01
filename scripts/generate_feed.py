@@ -321,7 +321,6 @@ def build_index(items):
   <p>
   <a href="main.html" class="main-link">🚀 Open AK Pulse Live</a>
   </p>
-  <p><a href="main.html">Open AK Pulse Live Full Site</a></p>
   <p>Feed URL: <code>{escape(FEED_URL)}</code></p>
   <h2>Latest items</h2>
   <ul class="feed-list">
