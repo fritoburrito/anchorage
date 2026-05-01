@@ -151,7 +151,7 @@ def build_weather_page(items):
 </head>
 <body>
   <h1>Anchorage Weather Forecast</h1>
-  <p><a href="index.html">← Back to feed</a></p>
+  <p><a href="main.html">← Back to feed</a></p>
   {cards_html}
 </body>
 </html>
