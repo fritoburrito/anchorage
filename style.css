@@ -158,10 +158,10 @@ html, body {
 }
 
 .logo-img {
-  height 80;
+  max-width: 240px;   /* controls overall size */
+  height: auto;       /* keeps proportions */
   display: block;
-  margin: 10 auto;
-  filter: drop-shadow(0 0 12px rgba(0,198,255,0.35));
+  margin: 10px auto;
 }
 
 @keyframes breakingPulse {
