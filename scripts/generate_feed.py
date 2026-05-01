@@ -97,6 +97,11 @@ def build_index(items):
     item_html = "\n".join(rows) if rows else "<p>No items yet.</p>"
 
     return f"""<!DOCTYPE html>
+    <p><a href="feed.xml">Open the RSS feed</a></p>
+
+ <p>
+  <a href="main.html" class="main-link">🚀 Open AK Pulse Live</a>
+</p>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
