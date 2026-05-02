@@ -1,5 +1,18 @@
 [
   {
+    "title": "Anchorage Weather: Tonight",
+    "link": "https://akpulselive.com/weather.html#tonight",
+    "url": "https://akpulselive.com/weather.html#tonight",
+    "summary": "39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.",
+    "description": "39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.",
+    "source": "NWS Anchorage",
+    "category": "weather",
+    "tag": "weather",
+    "pubDate": "Sat, 02 May 2026 10:26:59 GMT",
+    "published": "2026-05-02T10:26:59.753995+00:00",
+    "created_utc": "2026-05-02T10:26:59.753995+00:00"
+  },
+  {
     "title": "Anchorage Weather: Overnight",
     "link": "https://akpulselive.com/weather.html#overnight",
     "url": "https://akpulselive.com/weather.html#overnight",
@@ -11,19 +24,6 @@
     "pubDate": "Sat, 02 May 2026 10:14:44 GMT",
     "published": "2026-05-02T10:14:44.732088+00:00",
     "created_utc": "2026-05-02T10:14:44.732088+00:00"
-  },
-  {
-    "title": "Anchorage Weather: Tonight",
-    "link": "https://akpulselive.com/weather.html#tonight",
-    "url": "https://akpulselive.com/weather.html#tonight",
-    "summary": "39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.",
-    "description": "39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.",
-    "source": "NWS Anchorage",
-    "category": "weather",
-    "tag": "weather",
-    "pubDate": "Sat, 02 May 2026 10:05:24 GMT",
-    "published": "2026-05-02T10:05:24.292166+00:00",
-    "created_utc": "2026-05-02T10:05:24.292166+00:00"
   },
   {
     "title": "New Netflix documentary reexamines Winnie Mandela's divisive legacy",
