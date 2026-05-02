@@ -5,8 +5,17 @@
     <link>https://akpulselive.com/</link>
     <description>Fresh Alaska headlines, weather, community updates, and curated news feeds.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 07:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 08:25:41 GMT</lastBuildDate>
     <atom:link href="https://akpulselive.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anchorage Weather: Overnight | NWS Anchorage</title>
+      <link>https://akpulselive.com/weather.html#overnight</link>
+      <guid isPermaLink="true">https://akpulselive.com/weather.html#overnight</guid>
+      <description>39°F | 10 to 15 mph SE | Chance Rain And Snow Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%. Source: NWS Anchorage.</description>
+      <category>weather</category>
+      <source url="https://akpulselive.com/weather.html#overnight">NWS Anchorage</source>
+      <pubDate>Sat, 02 May 2026 08:25:41 GMT</pubDate>
+    </item>
     <item>
       <title>Anchorage Weather: Tonight | NWS Anchorage</title>
       <link>https://akpulselive.com/weather.html#tonight</link>
@@ -447,15 +456,6 @@
       <category>world</category>
       <source url="https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 21:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Student delegates from across the state gather in Juneau to learn about leadership | KTOO News</title>
-      <link>https://www.ktoo.org/2026/05/01/student-delegates-from-across-the-state-gather-in-juneau-to-learn-about-leadership/</link>
-      <guid isPermaLink="true">https://www.ktoo.org/2026/05/01/student-delegates-from-across-the-state-gather-in-juneau-to-learn-about-leadership/</guid>
-      <description>Twice a year, student leaders from across the state gather at the Alaska Association of Student Government conference to decide on goals to improve their schools. Source: KTOO News.</description>
-      <category>alaska</category>
-      <source url="https://www.ktoo.org/2026/05/01/student-delegates-from-across-the-state-gather-in-juneau-to-learn-about-leadership/">KTOO News</source>
-      <pubDate>Fri, 01 May 2026 20:06:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
