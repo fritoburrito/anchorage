@@ -35,6 +35,7 @@ SITE_NAME = "AK Pulse Live"
 SITE_DESCRIPTION = "Fresh Alaska headlines, weather, community updates, and curated news feeds."
 SITE_LANGUAGE = "en"
 SITE_AUTHOR = "AK Pulse Live"
+LOGO_URL = f"{SITE_URL}/assets/logo.png"
 
 DATA_FILE = Path("data/feed_items.json")
 
@@ -390,7 +391,7 @@ def build_index(items: List[Dict[str, Any]]) -> str:
         "@type": "NewsMediaOrganization",
         "name": SITE_NAME,
         "url": SITE_URL,
-        "logo": f"{SITE_URL}/logo.png",
+        "logo": LOGO_URL,
         "description": SITE_DESCRIPTION,
     }
 
@@ -425,6 +426,7 @@ def build_index(items: List[Dict[str, Any]]) -> str:
   <meta property="og:description" content="{html.escape(SITE_DESCRIPTION)}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{html.escape(SITE_URL)}/" />
+  <meta property="og:image" content="{html.escape(LOGO_URL)}" />
 
   <script type="application/ld+json">
 {json.dumps(org_schema, indent=2)}
@@ -460,7 +462,7 @@ def build_index(items: List[Dict[str, Any]]) -> str:
     }}
 
     header {{
-      padding: 32px 20px 22px;
+      padding: 26px 20px 22px;
       border-bottom: 1px solid var(--border);
       background: rgba(11,15,26,0.88);
       position: sticky;
@@ -472,6 +474,16 @@ def build_index(items: List[Dict[str, Any]]) -> str:
     .wrap {{
       max-width: 1100px;
       margin: 0 auto;
+    }}
+
+    .site-logo {{
+      display: block;
+      height: 74px;
+      width: auto;
+      max-width: min(440px, 92vw);
+      object-fit: contain;
+      margin-bottom: 12px;
+      filter: drop-shadow(0 0 12px rgba(0,198,255,0.45));
     }}
 
     h1 {{
@@ -511,6 +523,11 @@ def build_index(items: List[Dict[str, Any]]) -> str:
       padding: 8px 12px;
       border-radius: 999px;
       font-size: 0.9rem;
+    }}
+
+    nav a:hover {{
+      border-color: rgba(123,255,178,0.35);
+      color: var(--green);
     }}
 
     main {{ padding: 26px 20px 60px; }}
@@ -608,6 +625,7 @@ def build_index(items: List[Dict[str, Any]]) -> str:
 <body>
   <header>
     <div class="wrap">
+      <img class="site-logo" src="assets/logo.png" alt="AK Pulse Live Logo">
       <h1>{html.escape(SITE_NAME)}</h1>
       <span class="rocket">🚀 Open AK Pulse Live</span>
       <p class="tagline">{html.escape(SITE_DESCRIPTION)}</p>
@@ -615,8 +633,7 @@ def build_index(items: List[Dict[str, Any]]) -> str:
       <nav aria-label="Site sections">
         <a href="#latest">Latest</a>
         <a href="{html.escape(SITE_URL)}/feed.xml">RSS Feed</a>
-        <a href="{html.escape(SITE_URL)}/sitemap.xml">Sitemap</a>
-        <a href="{html.escape(SITE_URL)}/news-sitemap.xml">News Sitemap</a>
+        <a href="{html.escape(SITE_URL)}/channel.html">Live Channel</a>
       </nav>
     </div>
   </header>
@@ -648,8 +665,7 @@ def build_index(items: List[Dict[str, Any]]) -> str:
       <p>
         © {now.year} {html.escape(SITE_NAME)} ·
         <a href="{html.escape(SITE_URL)}/feed.xml">RSS</a> ·
-        <a href="{html.escape(SITE_URL)}/sitemap.xml">Sitemap</a> ·
-        <a href="{html.escape(SITE_URL)}/news-sitemap.xml">News sitemap</a>
+        <a href="{html.escape(SITE_URL)}/channel.html">Live Channel</a>
       </p>
     </div>
   </footer>
