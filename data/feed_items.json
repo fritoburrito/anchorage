@@ -3,6 +3,19 @@
     "title": "Anchorage Weather: Tonight",
     "link": "https://akpulselive.com/weather.html#tonight",
     "url": "https://akpulselive.com/weather.html#tonight",
+    "summary": "39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%.",
+    "description": "39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%.",
+    "source": "NWS Anchorage",
+    "category": "weather",
+    "tag": "weather",
+    "pubDate": "Sat, 02 May 2026 03:45:23 GMT",
+    "published": "2026-05-02T03:45:23.838134+00:00",
+    "created_utc": "2026-05-02T03:45:23.838134+00:00"
+  },
+  {
+    "title": "Anchorage Weather: Tonight",
+    "link": "https://akpulselive.com/weather.html#tonight",
+    "url": "https://akpulselive.com/weather.html#tonight",
     "summary": "39°F | 5 to 15 mph SE | Rain And Snow Likely<br><br>A chance of rain before 7pm, then rain and snow likely. Cloudy, with a low around 39. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
     "description": "39°F | 5 to 15 mph SE | Rain And Snow Likely<br><br>A chance of rain before 7pm, then rain and snow likely. Cloudy, with a low around 39. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
     "source": "NWS Anchorage",
@@ -960,18 +973,5 @@
     "pubDate": "Fri, 01 May 2026 12:21:22 GMT",
     "published": "2026-05-01T08:21:22-04:00",
     "created_utc": "2026-05-01T08:21:22-04:00"
-  },
-  {
-    "title": "Record-breaking DHS shutdown ends. And, May Day protests to draw crowds nationwide",
-    "link": "https://www.npr.org/2026/05/01/g-s1-119694/up-first-newsletter-iran-us-strait-of-hormuz-dhs-shutdown-trump-surgeon-general",
-    "url": "https://www.npr.org/2026/05/01/g-s1-119694/up-first-newsletter-iran-us-strait-of-hormuz-dhs-shutdown-trump-surgeon-general",
-    "summary": "Congress has ended the record-breaking shutdown of the Department of Homeland Security. And, May Day demonstrations across the U.S. are expected to draw crowds protesting the Trump administration.",
-    "description": "Congress has ended the record-breaking shutdown of the Department of Homeland Security. And, May Day demonstrations across the U.S. are expected to draw crowds protesting the Trump administration.",
-    "source": "NPR News",
-    "category": "world",
-    "tag": "npr",
-    "pubDate": "Fri, 01 May 2026 11:44:17 GMT",
-    "published": "2026-05-01T07:44:17-04:00",
-    "created_utc": "2026-05-01T07:44:17-04:00"
   }
 ]
