@@ -1,410 +1,461 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AK Live Pulse</title>
+    <title>AK Pulse Live</title>
     <link>https://akpulselive.com/</link>
-    <description>A custom WEB/RSS feed published by a Bot.</description>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 06:57:17 GMT</lastBuildDate>
+    <description>Fresh Alaska headlines, weather, community updates, and curated news feeds.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 May 2026 07:03:55 GMT</lastBuildDate>
+    <atom:link href="https://akpulselive.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Anchorage Weather: Tonight</title>
+      <title>Anchorage Weather: Tonight | NWS Anchorage</title>
       <link>https://akpulselive.com/weather.html#tonight</link>
-      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Sat, 02 May 2026 06:57:17 GMT</pubDate>
-      <description><![CDATA[39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.]]></description>
+      <guid isPermaLink="true">https://akpulselive.com/weather.html#tonight</guid>
+      <description>39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%. Source: NWS Anchorage.</description>
       <category>weather</category>
+      <source url="https://akpulselive.com/weather.html#tonight">NWS Anchorage</source>
+      <pubDate>Sat, 02 May 2026 07:03:55 GMT</pubDate>
     </item>
     <item>
-      <title>England's Wood hoping to bowl again this summer</title>
+      <title>England&#x27;s Wood hoping to bowl again this summer | BBC News</title>
       <link>https://www.bbc.com/sport/cricket/articles/c8e8kkj81j7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1fa0eac0d01f15847ea7dfb439b1dd0448632b99</guid>
+      <guid isPermaLink="true">https://www.bbc.com/sport/cricket/articles/c8e8kkj81j7o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>England pace bowler Mark Wood says he is hoping to bowl later in the summer as he looks to come back from the knee injury that ruined his Ashes. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/cricket/articles/c8e8kkj81j7o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 06:51:59 GMT</pubDate>
-      <description><![CDATA[England pace bowler Mark Wood says he is hoping to bowl later in the summer as he looks to come back from the knee injury that ruined his Ashes.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Spirit Airlines ceases operations after escalating financial struggles</title>
+      <title>Spirit Airlines ceases operations after escalating financial struggles | NPR News</title>
       <link>https://www.npr.org/2026/05/02/nx-s1-5807933/spirit-airlines-ceases-operations-folds</link>
-      <guid isPermaLink="false">0cae5035a656e0468c0c7d6209285237431df658</guid>
+      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5807933/spirit-airlines-ceases-operations-folds</guid>
+      <description>The low-cost carrier, which had been struggling for years, announced it will cease operations. Spirit had been seeking a $500 million lifeline from the White House, but talks failed to yield a deal. Source: NPR News.</description>
+      <category>world</category>
+      <source url="https://www.npr.org/2026/05/02/nx-s1-5807933/spirit-airlines-ceases-operations-folds">NPR News</source>
       <pubDate>Sat, 02 May 2026 06:42:14 GMT</pubDate>
-      <description><![CDATA[The low-cost carrier, which had been struggling for years, announced it will cease operations. Spirit had been seeking a $500 million lifeline from the White House, but talks failed to yield a deal.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>James stars as Lakers set up Thunder showdown</title>
+      <title>James stars as Lakers set up Thunder showdown | BBC News</title>
       <link>https://www.bbc.com/sport/basketball/articles/c87qxrggrewo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">55df6e3b87e406b40c321a8a8330c893652cbfd4</guid>
+      <guid isPermaLink="true">https://www.bbc.com/sport/basketball/articles/c87qxrggrewo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>LeBron James scores 28 points as the Los Angeles Lakers beat the Houston Rockets to set up a Western Conference semi-final play-off against reigning NBA champions Oklahoma City Thunder. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/basketball/articles/c87qxrggrewo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 06:40:36 GMT</pubDate>
-      <description><![CDATA[LeBron James scores 28 points as the Los Angeles Lakers beat the Houston Rockets to set up a Western Conference semi-final play-off against reigning NBA champions Oklahoma City Thunder.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight</title>
-      <link>https://akpulselive.com/weather.html#tonight</link>
-      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Sat, 02 May 2026 06:18:29 GMT</pubDate>
-      <description><![CDATA[39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Air Force says former Qatari 747 will be ready to fly as Air Force One this summer</title>
+      <title>Air Force says former Qatari 747 will be ready to fly as Air Force One this summer | NPR News</title>
       <link>https://www.npr.org/2026/05/02/g-s1-119866/trump-new-air-force-one</link>
-      <guid isPermaLink="false">74dfd76cfd96cc3c94a24445de03f8d316298e68</guid>
+      <guid isPermaLink="true">https://www.npr.org/2026/05/02/g-s1-119866/trump-new-air-force-one</guid>
+      <description>The U.S. Air Force has finished modifying and testing a Boeing 747 jet donated by Qatar for temporary use as Air Force One and expects to have it ready for President Trump to use this summer. Source: NPR News.</description>
+      <category>world</category>
+      <source url="https://www.npr.org/2026/05/02/g-s1-119866/trump-new-air-force-one">NPR News</source>
       <pubDate>Sat, 02 May 2026 05:49:22 GMT</pubDate>
-      <description><![CDATA[The U.S. Air Force has finished modifying and testing a Boeing 747 jet donated by Qatar for temporary use as Air Force One and expects to have it ready for President Trump to use this summer.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>The striker quietly making a big noise at Arsenal</title>
+      <title>The striker quietly making a big noise at Arsenal | BBC News</title>
       <link>https://www.bbc.com/sport/football/articles/c3e29017vp1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">130786690efe6ab97123887907c7a749a619a909</guid>
+      <guid isPermaLink="true">https://www.bbc.com/sport/football/articles/c3e29017vp1o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>As Arsenal travel to Lyon in the Champions League semi-final second leg, BBC Sport assesses the importance of unsung striker Stina Blackstenius. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/football/articles/c3e29017vp1o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 05:40:37 GMT</pubDate>
-      <description><![CDATA[As Arsenal travel to Lyon in the Champions League semi-final second leg, BBC Sport assesses the importance of unsung striker Stina Blackstenius.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>U.S. to withdraw 5,000 troops from Germany in next 6-12 months</title>
+      <title>U.S. to withdraw 5,000 troops from Germany in next 6-12 months | NPR News</title>
       <link>https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany</link>
-      <guid isPermaLink="false">26eb3e59d7eafc7b642ab0578b8dd673955df617</guid>
+      <guid isPermaLink="true">https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany</guid>
+      <description>The United States will withdraw about 5,000 troops from Germany, the Pentagon said Friday, fulfilling President Donald Trump&#x27;s threat as he clashes with the German leader over the U.S. war with Iran. Source: NPR News.</description>
+      <category>world</category>
+      <source url="https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany">NPR News</source>
       <pubDate>Sat, 02 May 2026 05:33:54 GMT</pubDate>
-      <description><![CDATA[The United States will withdraw about 5,000 troops from Germany, the Pentagon said Friday, fulfilling President Donald Trump's threat as he clashes with the German leader over the U.S. war with Iran.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>'Shy' Anderson on England nerves and becoming a leader</title>
+      <title>&#x27;Shy&#x27; Anderson on England nerves and becoming a leader | BBC News</title>
       <link>https://www.bbc.com/sport/football/articles/c0rx21dj1q7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c7631b1aabc02a2061449d975da564beecf90412</guid>
+      <guid isPermaLink="true">https://www.bbc.com/sport/football/articles/c0rx21dj1q7o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Nottingham Forest midfielder Elliot Anderson tells Kelly Somers about coming out of his shell to become a leader. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/football/articles/c0rx21dj1q7o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 05:15:35 GMT</pubDate>
-      <description><![CDATA[Nottingham Forest midfielder Elliot Anderson tells Kelly Somers about coming out of his shell to become a leader.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>These twins were born within minutes of each other - but have different dads</title>
+      <title>These twins were born within minutes of each other - but have different dads | BBC News</title>
       <link>https://www.bbc.com/news/articles/cx21k6rzpdpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0171b07eda4cde3f182a832503de3c26ccdaab4b</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cx21k6rzpdpo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Lavinia and Michelle are the only case of twins with different fathers to be recorded in the UK. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/cx21k6rzpdpo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 05:05:52 GMT</pubDate>
-      <description><![CDATA[Lavinia and Michelle are the only case of twins with different fathers to be recorded in the UK.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>'If we sleep they bite': Rats and weasels infest camps for displaced Gazans</title>
+      <title>&#x27;If we sleep they bite&#x27;: Rats and weasels infest camps for displaced Gazans | BBC News</title>
       <link>https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">167ba474748d47ddb0c3e3be50c6062e0b149e53</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 05:02:14 GMT</pubDate>
-      <description><![CDATA[In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>'I bought a baseball cap to hide my kippah': Jews observe first Shabbat after Golders Green attack</title>
+      <title>&#x27;I bought a baseball cap to hide my kippah&#x27;: Jews observe first Shabbat after Golders Green attack | BBC News</title>
       <link>https://www.bbc.com/news/articles/c3w2qp5gzn0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">eb0b82e654b7189de6440c467ffadb81378da7b8</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c3w2qp5gzn0o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>British Jews tell the BBC they are agonising over whether to stick to their usual routine this Sabbath. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c3w2qp5gzn0o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 05:00:19 GMT</pubDate>
-      <description><![CDATA[British Jews tell the BBC they are agonising over whether to stick to their usual routine this Sabbath.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Protests may need to be stopped in some cases, PM suggests</title>
+      <title>Protests may need to be stopped in some cases, PM suggests | BBC News</title>
       <link>https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f4d80be7b31472654566abaaa4e106e1f3cce905</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The PM tells the BBC he is concerned about the &quot;cumulative&quot; effect of marches on the Jewish community. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 05:00:13 GMT</pubDate>
-      <description><![CDATA[The PM tells the BBC he is concerned about the "cumulative" effect of marches on the Jewish community.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>What to know about Spirit Airlines amid reports airline preparing to cease operations</title>
+      <title>What to know about Spirit Airlines amid reports airline preparing to cease operations | ABC News</title>
       <link>https://abcnews.com/GMA/Travel/trump-announcement-expected-today-spirit-airlines-deal/story?id=132574357</link>
-      <guid isPermaLink="false">ed87a59c4ba836282662a481a9dc6a40022a6474</guid>
+      <guid isPermaLink="true">https://abcnews.com/GMA/Travel/trump-announcement-expected-today-spirit-airlines-deal/story?id=132574357</guid>
+      <description>The Wall Street Journal reported Spirit Airlines will cease operations after a rescue deal from the White House apparently fell through. Source: ABC News.</description>
+      <category>world</category>
+      <source url="https://abcnews.com/GMA/Travel/trump-announcement-expected-today-spirit-airlines-deal/story?id=132574357">ABC News</source>
       <pubDate>Sat, 02 May 2026 04:51:52 GMT</pubDate>
-      <description><![CDATA[The Wall Street Journal reported Spirit Airlines will cease operations after a rescue deal from the White House apparently fell through.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Wyoming celebrates 'nuclear renaissance' as feds approve license for a new reactor</title>
+      <title>Wyoming celebrates &#x27;nuclear renaissance&#x27; as feds approve license for a new reactor | NPR News</title>
       <link>https://www.npr.org/2026/05/02/nx-s1-5798892/wyoming-celebrates-nuclear-renaissance-as-feds-approve-license-for-a-new-reactor</link>
-      <guid isPermaLink="false">bbe99b6545efb50ff1800b72d9d665cb29794035</guid>
+      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5798892/wyoming-celebrates-nuclear-renaissance-as-feds-approve-license-for-a-new-reactor</guid>
+      <description>Construction of an advanced nuclear power plant partly funded by the U.S. government -billed as the first of its kind this century, is now underway in Wyoming. The Bill Gates-backed company says its technology is proven but there are still hurdles to nuclear. Source: NPR News.</description>
+      <category>world</category>
+      <source url="https://www.npr.org/2026/05/02/nx-s1-5798892/wyoming-celebrates-nuclear-renaissance-as-feds-approve-license-for-a-new-reactor">NPR News</source>
       <pubDate>Sat, 02 May 2026 04:01:00 GMT</pubDate>
-      <description><![CDATA[Construction of an advanced nuclear power plant partly funded by the U.S. government -billed as the first of its kind this century, is now underway in Wyoming. The Bill Gates-backed company says its technology is proven but there are still hurdles to nuclear.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight</title>
-      <link>https://akpulselive.com/weather.html#tonight</link>
-      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Sat, 02 May 2026 03:45:23 GMT</pubDate>
-      <description><![CDATA[39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight</title>
-      <link>https://akpulselive.com/weather.html#tonight</link>
-      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Sat, 02 May 2026 02:57:07 GMT</pubDate>
-      <description><![CDATA[39°F | 5 to 15 mph SE | Rain And Snow Likely<br><br>A chance of rain before 7pm, then rain and snow likely. Cloudy, with a low around 39. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight</title>
-      <link>https://akpulselive.com/weather.html#tonight</link>
-      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Sat, 02 May 2026 02:55:34 GMT</pubDate>
-      <description><![CDATA[39°F | 5 to 15 mph SE | Rain And Snow Likely<br><br>A chance of rain before 7pm, then rain and snow likely. Cloudy, with a low around 39. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Trump claims other presidents flouted war powers law. It's a mixed record</title>
+      <title>Trump claims other presidents flouted war powers law. It&#x27;s a mixed record | BBC News</title>
       <link>https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e7249f14a1d82c6e3caf66cf47c7c5762d68cda8</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Both Bushes and Ronald Reagan won congressional authorisation for wars, but Obama and Clinton ducked the requirement. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 02:43:48 GMT</pubDate>
-      <description><![CDATA[Both Bushes and Ronald Reagan won congressional authorisation for wars, but Obama and Clinton ducked the requirement.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight</title>
-      <link>https://akpulselive.com/weather.html#tonight</link>
-      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Sat, 02 May 2026 02:37:14 GMT</pubDate>
-      <description><![CDATA[39°F | 5 to 15 mph SE | Rain And Snow Likely<br><br>A chance of rain before 7pm, then rain and snow likely. Cloudy, with a low around 39. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight</title>
-      <link>https://akpulselive.com/weather.html#tonight</link>
-      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Sat, 02 May 2026 02:30:39 GMT</pubDate>
-      <description><![CDATA[39°F | 5 to 15 mph SE | Rain And Snow Likely<br><br>A chance of rain before 7pm, then rain and snow likely. Cloudy, with a low around 39. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>US court limits mail-order access to abortion pill mifepristone</title>
+      <title>US court limits mail-order access to abortion pill mifepristone | BBC News</title>
       <link>https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9c867f30e8e30a07d81364052bc33febf7f24248</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The court decision curbs access to the drug used in medication abortions, which is currently the most common method for the procedure in the US. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 02:22:57 GMT</pubDate>
-      <description><![CDATA[The court decision curbs access to the drug used in medication abortions, which is currently the most common method for the procedure in the US.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon</title>
+      <title>Anchorage Weather: This Afternoon | NWS Anchorage</title>
       <link>https://akpulselive.com/weather.html#this-afternoon</link>
-      <guid isPermaLink="false">53adb82eb036cc9a926d74868058f6836b5847fb</guid>
+      <guid isPermaLink="true">https://akpulselive.com/weather.html#this-afternoon</guid>
+      <description>44°F | 5 mph E | Chance Light Rain A chance of rain. Cloudy, with a high near 44. East wind around 5 mph. Chance of precipitation is 40%. Source: NWS Anchorage.</description>
+      <category>weather</category>
+      <source url="https://akpulselive.com/weather.html#this-afternoon">NWS Anchorage</source>
       <pubDate>Sat, 02 May 2026 02:05:50 GMT</pubDate>
-      <description><![CDATA[44°F | 5 mph E | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 44. East wind around 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon</title>
-      <link>https://akpulselive.com/weather.html#this-afternoon</link>
-      <guid isPermaLink="false">53adb82eb036cc9a926d74868058f6836b5847fb</guid>
-      <pubDate>Sat, 02 May 2026 02:04:24 GMT</pubDate>
-      <description><![CDATA[44°F | 5 mph E | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 44. East wind around 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: This Afternoon</title>
-      <link>https://akpulselive.com/weather.html#this-afternoon</link>
-      <guid isPermaLink="false">53adb82eb036cc9a926d74868058f6836b5847fb</guid>
-      <pubDate>Sat, 02 May 2026 01:09:50 GMT</pubDate>
-      <description><![CDATA[44°F | 5 mph E | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 44. East wind around 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: This Afternoon</title>
-      <link>https://akpulselive.com/weather.html#this-afternoon</link>
-      <guid isPermaLink="false">53adb82eb036cc9a926d74868058f6836b5847fb</guid>
-      <pubDate>Sat, 02 May 2026 01:06:26 GMT</pubDate>
-      <description><![CDATA[44°F | 5 mph E | Chance Light Rain<br><br>A chance of rain. Cloudy, with a high near 44. East wind around 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Boats, dancing and cake-cutting: Bermuda welcomes King Charles</title>
+      <title>Boats, dancing and cake-cutting: Bermuda welcomes King Charles | BBC News</title>
       <link>https://www.bbc.com/news/articles/cvgz08k04jeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a364b8df47f934b398f12afedabc34e2cd104083</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cvgz08k04jeo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Schoolchildren turn out to meet the monarch, with exotic birds and Bob Marley music all part of the welcome. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/cvgz08k04jeo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 00:43:08 GMT</pubDate>
-      <description><![CDATA[Schoolchildren turn out to meet the monarch, with exotic birds and Bob Marley music all part of the welcome.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Trump tells Congress ceasefire means he does not need their approval for Iran war</title>
+      <title>Trump tells Congress ceasefire means he does not need their approval for Iran war | BBC News</title>
       <link>https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">dde09d6d76df93c07e390a4d3ad36be33c64c221</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The president writes that hostilities &quot;have terminated&quot; because of the ceasefire, arguing he does not need congressional authorisation. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 00:41:43 GMT</pubDate>
-      <description><![CDATA[The president writes that hostilities "have terminated" because of the ceasefire, arguing he does not need congressional authorisation.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>The Papers:  'Burnham plans to return' and 'Four weeks from crunch'</title>
+      <title>The Papers: &#x27;Burnham plans to return&#x27; and &#x27;Four weeks from crunch&#x27; | BBC News</title>
       <link>https://www.bbc.com/news/articles/c8d8m677zjro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">33b96a5fa09b3ecba10eb7eb5f251e17f268c418</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c8d8m677zjro?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Labour grandee Andy Burnham &quot;plans to return to Westminster&quot; and oil crunch looms lead Saturday&#x27;s papers. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c8d8m677zjro?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 00:29:37 GMT</pubDate>
-      <description><![CDATA[Labour grandee Andy Burnham "plans to return to Westminster" and oil crunch looms lead Saturday's papers.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Peter Kay show evacuated and man held after police investigate 'suspicious bag'</title>
+      <title>Peter Kay show evacuated and man held after police investigate &#x27;suspicious bag&#x27; | BBC News</title>
       <link>https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">73b41733a03180db9c71a94efae89dba35df5499</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>A 19-year-old man is in custody and the Birmingham site has been searched. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 00:04:46 GMT</pubDate>
-      <description><![CDATA[A 19-year-old man is in custody and the Birmingham site has been searched.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>EastEnders star on the mental health story 'for everyone'</title>
+      <title>EastEnders star on the mental health story &#x27;for everyone&#x27; | BBC News</title>
       <link>https://www.bbc.com/news/articles/cwy24yd0v58o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">450fc56de6371d5000e6a6f68bbeeb7bf7e32aeb</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cwy24yd0v58o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Aaron Thiara has been portraying Ravi Gulati in the soap in a story about complex PTSD. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/cwy24yd0v58o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 23:59:41 GMT</pubDate>
-      <description><![CDATA[Aaron Thiara has been portraying Ravi Gulati in the soap in a story about complex PTSD.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>BBC tracking US warships using blurry pixels and AI</title>
+      <title>BBC tracking US warships using blurry pixels and AI | BBC News</title>
       <link>https://www.bbc.com/news/videos/cd7pnyd8z11o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">968ae639333018d05566328e4434ff6fda2eacdf</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/videos/cd7pnyd8z11o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The BBC Verify team built an AI model to track US aircraft carrier Abraham Lincoln. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/videos/cd7pnyd8z11o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 23:55:07 GMT</pubDate>
-      <description><![CDATA[The BBC Verify team built an AI model to track US aircraft carrier Abraham Lincoln.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>There was one way we'd agreed to do Devil Wears Prada 2, says Meryl Streep</title>
+      <title>There was one way we&#x27;d agreed to do Devil Wears Prada 2, says Meryl Streep | BBC News</title>
       <link>https://www.bbc.com/news/articles/c62638ne6n7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ecef022649afb4840095a9bb0653851922faaeeb</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c62638ne6n7o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The sequel&#x27;s stars on what&#x27;s changed since the original, and why the film still resonates with women. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c62638ne6n7o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 23:52:21 GMT</pubDate>
-      <description><![CDATA[The sequel's stars on what's changed since the original, and why the film still resonates with women.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Watch: May Day rallies in support of workers' rights held across major US cities</title>
+      <title>Watch: May Day rallies in support of workers&#x27; rights held across major US cities | BBC News</title>
       <link>https://www.bbc.com/news/videos/c0m2zldme02o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4d9070e77906f50074b9ab44f4b71e8112f8efaf</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/videos/c0m2zldme02o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Thousands of demonstrators marched across the country to demand “dignity, justice and freedom” for immigrants and workers. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/videos/c0m2zldme02o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 23:46:38 GMT</pubDate>
-      <description><![CDATA[Thousands of demonstrators marched across the country to demand “dignity, justice and freedom” for immigrants and workers.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>WATCH:  Google giving US students a shot at re-designing its homepage</title>
+      <title>WATCH: Google giving US students a shot at re-designing its homepage | ABC News</title>
       <link>https://abcnews.com/video/132584293/</link>
-      <guid isPermaLink="false">71ba23a01ae9c6266ce200d681c2094c242a7888</guid>
+      <guid isPermaLink="true">https://abcnews.com/video/132584293/</guid>
+      <description>Kameirah Johnson is a Doodle For Google finalist. She and four other students submitted designs that beat out thousands of entries. The inspiration for her design may surprise you. Source: ABC News.</description>
+      <category>world</category>
+      <source url="https://abcnews.com/video/132584293/">ABC News</source>
       <pubDate>Fri, 01 May 2026 23:35:06 GMT</pubDate>
-      <description><![CDATA[Kameirah Johnson is a Doodle For Google finalist. She and four other students submitted designs that beat out thousands of entries. The inspiration for her design may surprise you.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Nebraska becomes 1st state to implement Medicaid work requirements</title>
+      <title>Nebraska becomes 1st state to implement Medicaid work requirements | ABC News</title>
       <link>https://abcnews.com/US/nebraska-1st-state-implement-medicaid-work-requirements/story?id=132529215</link>
-      <guid isPermaLink="false">72e20712d4d118c9ecea2b0dd2c35bd92515efeb</guid>
+      <guid isPermaLink="true">https://abcnews.com/US/nebraska-1st-state-implement-medicaid-work-requirements/story?id=132529215</guid>
+      <description>Nebraska became the first state on Friday to implement Medicaid work requirements, which is mandated under President Donald Trump&#x27;s megabill that passed last summer. Source: ABC News.</description>
+      <category>world</category>
+      <source url="https://abcnews.com/US/nebraska-1st-state-implement-medicaid-work-requirements/story?id=132529215">ABC News</source>
       <pubDate>Fri, 01 May 2026 23:13:28 GMT</pubDate>
-      <description><![CDATA[Nebraska became the first state on Friday to implement Medicaid work requirements, which is mandated under President Donald Trump's megabill that passed last summer.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>My shopping addiction hijacked my life. Now I realise what caused it</title>
+      <title>My shopping addiction hijacked my life. Now I realise what caused it | BBC News</title>
       <link>https://www.bbc.com/news/articles/cm2pzv484nlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">817e4a1a9c0d11af825e47dbf3c4743b0085585f</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cm2pzv484nlo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Children&#x27;s author Sally Gardner says her extravagant shopping sprees left her feeling &quot;ashamed&quot;. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/cm2pzv484nlo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 23:12:17 GMT</pubDate>
-      <description><![CDATA[Children's author Sally Gardner says her extravagant shopping sprees left her feeling "ashamed".]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>US to withdraw 5,000 troops from Germany</title>
+      <title>US to withdraw 5,000 troops from Germany | ABC News</title>
       <link>https://abcnews.com/International/us-withdraw-5000-troops-germany/story?id=132587562</link>
-      <guid isPermaLink="false">314dcc1b944bb1830f89cd0b101df901a4717e74</guid>
+      <guid isPermaLink="true">https://abcnews.com/International/us-withdraw-5000-troops-germany/story?id=132587562</guid>
+      <description>Defense Secretary Pete Hegseth is ordering the withdrawal of about 5,000 U.S. troops from Germany, the Pentagon announced Friday. Source: ABC News.</description>
+      <category>world</category>
+      <source url="https://abcnews.com/International/us-withdraw-5000-troops-germany/story?id=132587562">ABC News</source>
       <pubDate>Fri, 01 May 2026 23:06:56 GMT</pubDate>
-      <description><![CDATA[Defense Secretary Pete Hegseth is ordering the withdrawal of about 5,000 U.S. troops from Germany, the Pentagon announced Friday.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Revise, recall, then rest - your exam season survival guide</title>
+      <title>Revise, recall, then rest - your exam season survival guide | BBC News</title>
       <link>https://www.bbc.com/news/articles/c1j2lw5r24jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d2e0e684acf00cc65396f7c0cc88112ae6de22ee</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c1j2lw5r24jo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Teachers and tutors share tips for students to get through exam season. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c1j2lw5r24jo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 23:06:00 GMT</pubDate>
-      <description><![CDATA[Teachers and tutors share tips for students to get through exam season.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Is this the real face of Anne Boleyn?</title>
+      <title>Is this the real face of Anne Boleyn? | BBC News</title>
       <link>https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5f1fd47e09d8caa10ec8291d58f5834dfaf20255</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>A computer science team believes they have discovered a previously unknown sketch of King Henry VIII&#x27;s second wife - but not everyone is convinced. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 23:01:44 GMT</pubDate>
-      <description><![CDATA[A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>All but safe? Leeds ease 'anxiety' - and increase pressure on others</title>
+      <title>All but safe? Leeds ease &#x27;anxiety&#x27; - and increase pressure on others | BBC News</title>
       <link>https://www.bbc.com/sport/football/articles/cx218k4ddp4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">40aac10f01e5d10ab8cbde7bea1e81ca333359d6</guid>
+      <guid isPermaLink="true">https://www.bbc.com/sport/football/articles/cx218k4ddp4o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>No club has ever been relegated with 43 points at the end of a Premier League season - so have Leeds already done enough to secure survival? Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/football/articles/cx218k4ddp4o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 23:00:21 GMT</pubDate>
-      <description><![CDATA[No club has ever been relegated with 43 points at the end of a Premier League season - so have Leeds already done enough to secure survival?]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Court issues nationwide order blocking distribution of abortion pill by mail</title>
+      <title>Court issues nationwide order blocking distribution of abortion pill by mail | ABC News</title>
       <link>https://abcnews.com/Politics/appeals-court-issues-nationwide-order-blocking-telehealth-distribution/story?id=132587239</link>
-      <guid isPermaLink="false">6c4f68c1c0cc254ef9b05832b7844a641216f6da</guid>
+      <guid isPermaLink="true">https://abcnews.com/Politics/appeals-court-issues-nationwide-order-blocking-telehealth-distribution/story?id=132587239</guid>
+      <description>An appeals court issued a nationwide order barring dispensation of the abortion pill mifepristone by telehealth providers and distribution of the medication by mail. Source: ABC News.</description>
+      <category>world</category>
+      <source url="https://abcnews.com/Politics/appeals-court-issues-nationwide-order-blocking-telehealth-distribution/story?id=132587239">ABC News</source>
       <pubDate>Fri, 01 May 2026 22:43:30 GMT</pubDate>
-      <description><![CDATA[An appeals court issued a nationwide order barring dispensation of the abortion pill mifepristone by telehealth providers and distribution of the medication by mail.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Court restricts abortion access across the US by blocking the mailing of mifepristone</title>
+      <title>Court restricts abortion access across the US by blocking the mailing of mifepristone | NPR News</title>
       <link>https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone</link>
-      <guid isPermaLink="false">9c0d61001970e278819929de6512028680281777</guid>
+      <guid isPermaLink="true">https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone</guid>
+      <description>A federal appeals court has restricted access to one of the most common means of abortion in the U.S. by blocking the mailing of mifepristone. Source: NPR News.</description>
+      <category>world</category>
+      <source url="https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone">NPR News</source>
       <pubDate>Fri, 01 May 2026 22:40:12 GMT</pubDate>
-      <description><![CDATA[A federal appeals court has restricted access to one of the most common means of abortion in the U.S. by blocking the mailing of mifepristone.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>US to cut troop levels in Germany by 5,000 amid Trump spat with Merz</title>
+      <title>US to cut troop levels in Germany by 5,000 amid Trump spat with Merz | BBC News</title>
       <link>https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0a6aef8b2b9a764303751702ff63c5ed1375213a</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 22:35:07 GMT</pubDate>
-      <description><![CDATA[The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Norris on Miami sprint pole as McLaren return to form</title>
+      <title>Norris on Miami sprint pole as McLaren return to form | BBC News</title>
       <link>https://www.bbc.com/sport/formula1/articles/ce8pdm1rr6vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ed9264b1c47f326fe2684bdedb65e5daf5faf6cb</guid>
+      <guid isPermaLink="true">https://www.bbc.com/sport/formula1/articles/ce8pdm1rr6vo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>McLaren&#x27;s Lando Norris becomes the first driver to beat a Mercedes in qualifying this year with sprint pole at the Miami Grand Prix. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/formula1/articles/ce8pdm1rr6vo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 22:33:01 GMT</pubDate>
-      <description><![CDATA[McLaren's Lando Norris becomes the first driver to beat a Mercedes in qualifying this year with sprint pole at the Miami Grand Prix.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Oscars says AI actors, writing cannot win awards</title>
+      <title>Oscars says AI actors, writing cannot win awards | BBC News</title>
       <link>https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">474e52cdfa6bbe3415d8a6712b976b8d230f3e74</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 22:30:59 GMT</pubDate>
-      <description><![CDATA[The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Highlander stars bring Hollywood buzz to Scotland</title>
+      <title>Highlander stars bring Hollywood buzz to Scotland | BBC News</title>
       <link>https://www.bbc.com/news/articles/c8xwl07exx9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">493d71040aa2de3bd3bf094f9909b827846c9889</guid>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c8xwl07exx9o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Henry Cavill, Karen Gillan and Russell Crowe are in Scotland filming a remake of the cult 1980s film. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c8xwl07exx9o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 21:57:48 GMT</pubDate>
-      <description><![CDATA[Henry Cavill, Karen Gillan and Russell Crowe are in Scotland filming a remake of the cult 1980s film.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>Higgins builds slender semi-final lead over Murphy</title>
+      <title>Higgins builds slender semi-final lead over Murphy | BBC News</title>
       <link>https://www.bbc.com/sport/snooker/articles/czr27y2r56zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">dd66c0973aaeb67644dd96065aebd6ca523a2546</guid>
+      <guid isPermaLink="true">https://www.bbc.com/sport/snooker/articles/czr27y2r56zo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>John Higgins opens up a slender 13-11 advantage over Shaun Murphy heading into the final session of their World Championship semi-final. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/snooker/articles/czr27y2r56zo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Fri, 01 May 2026 21:43:04 GMT</pubDate>
-      <description><![CDATA[John Higgins opens up a slender 13-11 advantage over Shaun Murphy heading into the final session of their World Championship semi-final.]]></description>
-      <category>world</category>
     </item>
     <item>
-      <title>AI robot tech bros dogs run wild in Berlin gallery</title>
+      <title>AI robot tech bros dogs run wild in Berlin gallery | NPR News</title>
       <link>https://www.npr.org/2026/05/01/nx-s1-5795427/a-pack-of-ai-controlled-robotic-dogs-berlin</link>
-      <guid isPermaLink="false">444c5e7671c5232f8ef3e527fd71256202c89fe0</guid>
-      <pubDate>Fri, 01 May 2026 21:22:45 GMT</pubDate>
-      <description><![CDATA[In Germany, robotic AI dogs with the faces of tech's most powerful men are on the loose — courtesy of American artist Beeple.]]></description>
+      <guid isPermaLink="true">https://www.npr.org/2026/05/01/nx-s1-5795427/a-pack-of-ai-controlled-robotic-dogs-berlin</guid>
+      <description>In Germany, robotic AI dogs with the faces of tech&#x27;s most powerful men are on the loose — courtesy of American artist Beeple. Source: NPR News.</description>
       <category>world</category>
+      <source url="https://www.npr.org/2026/05/01/nx-s1-5795427/a-pack-of-ai-controlled-robotic-dogs-berlin">NPR News</source>
+      <pubDate>Fri, 01 May 2026 21:22:45 GMT</pubDate>
     </item>
     <item>
-      <title>Iran war shakes Global economy as energy costs surge and recession fears grow</title>
+      <title>Iran war shakes Global economy as energy costs surge and recession fears grow | NPR News</title>
       <link>https://www.npr.org/2026/05/01/nx-s1-5801826/the-global-economic-impact-of-war-from-energy-markets-to-everyday-prices</link>
-      <guid isPermaLink="false">35f7ee17e21d9467c15624e2aacd7df812e5e582</guid>
-      <pubDate>Fri, 01 May 2026 21:18:48 GMT</pubDate>
-      <description><![CDATA[From energy markets to everyday prices, the fallout from the Iran war is reshaping the global economy.]]></description>
+      <guid isPermaLink="true">https://www.npr.org/2026/05/01/nx-s1-5801826/the-global-economic-impact-of-war-from-energy-markets-to-everyday-prices</guid>
+      <description>From energy markets to everyday prices, the fallout from the Iran war is reshaping the global economy. Source: NPR News.</description>
       <category>world</category>
+      <source url="https://www.npr.org/2026/05/01/nx-s1-5801826/the-global-economic-impact-of-war-from-energy-markets-to-everyday-prices">NPR News</source>
+      <pubDate>Fri, 01 May 2026 21:18:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mortgages, jobs and energy bills - how the Iran war will affect your money | BBC News</title>
+      <link>https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The Bank of England&#x27;s latest report reveals some interesting details on how our finances will be affected due to the Iran war. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Fri, 01 May 2026 21:16:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pentagon says US military to be an &#x27;AI-first&#x27; fighting force | BBC News</title>
+      <link>https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Fri, 01 May 2026 21:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump says he will hike tariffs on EU cars to 25% | BBC News</title>
+      <link>https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Fri, 01 May 2026 19:42:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Australia wants to become the first country to eliminate a cancer - can it? | BBC News</title>
+      <link>https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>For the first time, Australia has recorded no new cervical cancer diganoses in women under 25. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Fri, 01 May 2026 19:30:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>&#x27;Embarrassment to snooker&#x27; - Wu and Allen play longest Crucible frame | BBC News</title>
+      <link>https://www.bbc.com/sport/snooker/articles/cn5pw431zk1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/sport/snooker/articles/cn5pw431zk1o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Mark Allen and Wu Yize play out the longest frame in Crucible history during the second session of their World Championship semi-final. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/snooker/articles/cn5pw431zk1o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Fri, 01 May 2026 19:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Police officers hailed as heroes after New York house explosion | ABC News</title>
+      <link>https://abcnews.com/GMA/News/police-officers-hailed-heroes-after-new-york-house/story?id=132567885</link>
+      <guid isPermaLink="true">https://abcnews.com/GMA/News/police-officers-hailed-heroes-after-new-york-house/story?id=132567885</guid>
+      <description>The New York Police Department hailing as heroes multiple officers who responded to a domestic incident call that turned into a house explosion. Source: ABC News.</description>
+      <category>world</category>
+      <source url="https://abcnews.com/GMA/News/police-officers-hailed-heroes-after-new-york-house/story?id=132567885">ABC News</source>
+      <pubDate>Fri, 01 May 2026 18:48:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Which states might redraw congressional maps in 2026, 2028 after Supreme Court ruling | ABC News</title>
+      <link>https://abcnews.com/Politics/states-redraw-congressional-maps-2026-2028-after-supreme/story?id=132571431</link>
+      <guid isPermaLink="true">https://abcnews.com/Politics/states-redraw-congressional-maps-2026-2028-after-supreme/story?id=132571431</guid>
+      <description>The bare-knuckle, partisan mid-decade redistricting battles that have occurred across the country over the past year and a half might become the new normal. Source: ABC News.</description>
+      <category>world</category>
+      <source url="https://abcnews.com/Politics/states-redraw-congressional-maps-2026-2028-after-supreme/story?id=132571431">ABC News</source>
+      <pubDate>Fri, 01 May 2026 18:48:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>WATCH: 4-year-old piano prodigy already perfecting the tunes | ABC News</title>
+      <link>https://abcnews.com/video/132580916/</link>
+      <guid isPermaLink="true">https://abcnews.com/video/132580916/</guid>
+      <description>Michael Girgis has won several musical competitions and is set to perform at the legendary Carnegie Hall. Source: ABC News.</description>
+      <category>world</category>
+      <source url="https://abcnews.com/video/132580916/">ABC News</source>
+      <pubDate>Fri, 01 May 2026 18:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raducanu links up with coach from US Open win | BBC News</title>
+      <link>https://www.bbc.com/sport/tennis/articles/cvgze503904o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/sport/tennis/articles/cvgze503904o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Emma Raducanu has linked up again with Andrew Richardson, who coached her to the US Open title as a teenage qualifier. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/tennis/articles/cvgze503904o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Fri, 01 May 2026 17:35:40 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,6 +8,19 @@
     "source": "NWS Anchorage",
     "category": "weather",
     "tag": "weather",
+    "pubDate": "Sat, 02 May 2026 07:03:55 GMT",
+    "published": "2026-05-02T07:03:55.209224+00:00",
+    "created_utc": "2026-05-02T07:03:55.209224+00:00"
+  },
+  {
+    "title": "Anchorage Weather: Tonight",
+    "link": "https://akpulselive.com/weather.html#tonight",
+    "url": "https://akpulselive.com/weather.html#tonight",
+    "summary": "39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.",
+    "description": "39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.",
+    "source": "NWS Anchorage",
+    "category": "weather",
+    "tag": "weather",
     "pubDate": "Sat, 02 May 2026 06:57:17 GMT",
     "published": "2026-05-02T06:57:17.785673+00:00",
     "created_utc": "2026-05-02T06:57:17.785673+00:00"
@@ -960,18 +973,5 @@
     "pubDate": "Fri, 01 May 2026 16:58:27 GMT",
     "published": "2026-05-01T12:58:27-04:00",
     "created_utc": "2026-05-01T12:58:27-04:00"
-  },
-  {
-    "title": "Trump says he'll place 25% tariff on autos from EU, accusing bloc of not complying with trade deal",
-    "link": "https://abcnews.com/Business/wireStory/trump-hell-place-25-tariff-autos-eu-accusing-132576218",
-    "url": "https://abcnews.com/Business/wireStory/trump-hell-place-25-tariff-autos-eu-accusing-132576218",
-    "summary": "President Donald Trump says he will increase the tariffs charged on cars and trucks from the European Union next week to 25%, a move that could jolt the world economy at a fragile moment",
-    "description": "President Donald Trump says he will increase the tariffs charged on cars and trucks from the European Union next week to 25%, a move that could jolt the world economy at a fragile moment",
-    "source": "ABC Business",
-    "category": "business",
-    "tag": "business",
-    "pubDate": "Fri, 01 May 2026 16:13:30 GMT",
-    "published": "2026-05-01T12:13:30-04:00",
-    "created_utc": "2026-05-01T12:13:30-04:00"
   }
 ]
