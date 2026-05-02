@@ -16,6 +16,7 @@
   <meta property="og:description" content="Fresh Alaska headlines, weather, community updates, and curated news feeds." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://akpulselive.com/" />
+  <meta property="og:image" content="https://akpulselive.com/assets/logo.png" />
 
   <script type="application/ld+json">
 {
@@ -23,7 +24,7 @@
   "@type": "NewsMediaOrganization",
   "name": "AK Pulse Live",
   "url": "https://akpulselive.com",
-  "logo": "https://akpulselive.com/logo.png",
+  "logo": "https://akpulselive.com/assets/logo.png",
   "description": "Fresh Alaska headlines, weather, community updates, and curated news feeds."
 }
   </script>
@@ -69,7 +70,7 @@
     }
 
     header {
-      padding: 32px 20px 22px;
+      padding: 26px 20px 22px;
       border-bottom: 1px solid var(--border);
       background: rgba(11,15,26,0.88);
       position: sticky;
@@ -81,6 +82,16 @@
     .wrap {
       max-width: 1100px;
       margin: 0 auto;
+    }
+
+    .site-logo {
+      display: block;
+      height: 74px;
+      width: auto;
+      max-width: min(440px, 92vw);
+      object-fit: contain;
+      margin-bottom: 12px;
+      filter: drop-shadow(0 0 12px rgba(0,198,255,0.45));
     }
 
     h1 {
@@ -120,6 +131,11 @@
       padding: 8px 12px;
       border-radius: 999px;
       font-size: 0.9rem;
+    }
+
+    nav a:hover {
+      border-color: rgba(123,255,178,0.35);
+      color: var(--green);
     }
 
     main { padding: 26px 20px 60px; }
@@ -217,6 +233,7 @@
 <body>
   <header>
     <div class="wrap">
+      <img class="site-logo" src="assets/logo.png" alt="AK Pulse Live Logo">
       <h1>AK Pulse Live</h1>
       <span class="rocket">🚀 Open AK Pulse Live</span>
       <p class="tagline">Fresh Alaska headlines, weather, community updates, and curated news feeds.</p>
@@ -224,8 +241,7 @@
       <nav aria-label="Site sections">
         <a href="#latest">Latest</a>
         <a href="https://akpulselive.com/feed.xml">RSS Feed</a>
-        <a href="https://akpulselive.com/sitemap.xml">Sitemap</a>
-        <a href="https://akpulselive.com/news-sitemap.xml">News Sitemap</a>
+        <a href="https://akpulselive.com/channel.html">Live Channel</a>
       </nav>
     </div>
   </header>
@@ -233,11 +249,47 @@
   <main>
     <div class="wrap">
       <section class="status-bar" aria-label="Feed status">
-        <div><strong>Live feed updated:</strong> May 02, 2026 08:51 UTC</div>
+        <div><strong>Live feed updated:</strong> May 02, 2026 09:03 UTC</div>
         <div>50 latest stories displayed</div>
       </section>
 
       <section id="latest" class="grid" aria-label="Latest news stories">
+
+      <article class="story-card category-weather" itemscope itemtype="https://schema.org/NewsArticle">
+        <div class="story-meta">
+          <span class="category">Weather</span>
+          <span class="source">NWS Anchorage</span>
+          <time datetime="2026-05-02T09:03:34Z" itemprop="datePublished">May 02, 2026 09:03 UTC</time>
+        </div>
+        <h2 itemprop="headline">
+          <a href="https://akpulselive.com/weather.html#overnight" target="_blank" rel="noopener noreferrer" itemprop="url">Anchorage Weather: Overnight</a>
+        </h2>
+        <p itemprop="description">39°F | 10 mph SE | Chance Rain And Snow Rain likely before 4am, then a chance of rain and snow. Mostly cloudy, with a low around 39. Southeast wind around 10 mph. Chance of precipitation is 70%.</p>
+      </article>
+
+      <article class="story-card category-world" itemscope itemtype="https://schema.org/NewsArticle">
+        <div class="story-meta">
+          <span class="category">World</span>
+          <span class="source">NPR News</span>
+          <time datetime="2026-05-02T09:02:00Z" itemprop="datePublished">May 02, 2026 09:02 UTC</time>
+        </div>
+        <h2 itemprop="headline">
+          <a href="https://www.npr.org/2026/05/02/nx-s1-5781847/syria-kurds-abandoned-trump-us" target="_blank" rel="noopener noreferrer" itemprop="url">After Assad&#x27;s fall, Syria&#x27;s Kurds are left in limbo, feeling abandoned by the U.S.</a>
+        </h2>
+        <p itemprop="description">Caught in limbo after the fall of Syria&#x27;s Bashar al-Assad, Kurdish families struggle with cold, loss and uncertainty — feeling abandoned by the U.S. allies they once fought alongside.</p>
+      </article>
+
+      <article class="story-card category-world" itemscope itemtype="https://schema.org/NewsArticle">
+        <div class="story-meta">
+          <span class="category">World</span>
+          <span class="source">NPR News</span>
+          <time datetime="2026-05-02T09:00:00Z" itemprop="datePublished">May 02, 2026 09:00 UTC</time>
+        </div>
+        <h2 itemprop="headline">
+          <a href="https://www.npr.org/2026/05/02/nx-s1-5806271/2026-midterm-elections-control-senate-race" target="_blank" rel="noopener noreferrer" itemprop="url">2026 Senate races to watch: From most likely to flip to Democratic long shots</a>
+        </h2>
+        <p itemprop="description">Democrats could have a narrow path to winning the Senate, with these specific states on the table.</p>
+      </article>
 
       <article class="story-card category-weather" itemscope itemtype="https://schema.org/NewsArticle">
         <div class="story-meta">
@@ -249,18 +301,6 @@
           <a href="https://akpulselive.com/weather.html#tonight" target="_blank" rel="noopener noreferrer" itemprop="url">Anchorage Weather: Tonight</a>
         </h2>
         <p itemprop="description">39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.</p>
-      </article>
-
-      <article class="story-card category-weather" itemscope itemtype="https://schema.org/NewsArticle">
-        <div class="story-meta">
-          <span class="category">Weather</span>
-          <span class="source">NWS Anchorage</span>
-          <time datetime="2026-05-02T08:25:41Z" itemprop="datePublished">May 02, 2026 08:25 UTC</time>
-        </div>
-        <h2 itemprop="headline">
-          <a href="https://akpulselive.com/weather.html#overnight" target="_blank" rel="noopener noreferrer" itemprop="url">Anchorage Weather: Overnight</a>
-        </h2>
-        <p itemprop="description">39°F | 10 to 15 mph SE | Chance Rain And Snow Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.</p>
       </article>
 
       <article class="story-card category-world" itemscope itemtype="https://schema.org/NewsArticle">
@@ -814,30 +854,6 @@
         </h2>
         <p itemprop="description">In Germany, robotic AI dogs with the faces of tech&#x27;s most powerful men are on the loose — courtesy of American artist Beeple.</p>
       </article>
-
-      <article class="story-card category-world" itemscope itemtype="https://schema.org/NewsArticle">
-        <div class="story-meta">
-          <span class="category">World</span>
-          <span class="source">NPR News</span>
-          <time datetime="2026-05-01T21:18:48Z" itemprop="datePublished">May 01, 2026 21:18 UTC</time>
-        </div>
-        <h2 itemprop="headline">
-          <a href="https://www.npr.org/2026/05/01/nx-s1-5801826/the-global-economic-impact-of-war-from-energy-markets-to-everyday-prices" target="_blank" rel="noopener noreferrer" itemprop="url">Iran war shakes Global economy as energy costs surge and recession fears grow</a>
-        </h2>
-        <p itemprop="description">From energy markets to everyday prices, the fallout from the Iran war is reshaping the global economy.</p>
-      </article>
-
-      <article class="story-card category-world" itemscope itemtype="https://schema.org/NewsArticle">
-        <div class="story-meta">
-          <span class="category">World</span>
-          <span class="source">BBC News</span>
-          <time datetime="2026-05-01T21:16:44Z" itemprop="datePublished">May 01, 2026 21:16 UTC</time>
-        </div>
-        <h2 itemprop="headline">
-          <a href="https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer" itemprop="url">Mortgages, jobs and energy bills - how the Iran war will affect your money</a>
-        </h2>
-        <p itemprop="description">The Bank of England&#x27;s latest report reveals some interesting details on how our finances will be affected due to the Iran war.</p>
-      </article>
       </section>
 
       <section class="about" id="about">
@@ -856,8 +872,7 @@
       <p>
         © 2026 AK Pulse Live ·
         <a href="https://akpulselive.com/feed.xml">RSS</a> ·
-        <a href="https://akpulselive.com/sitemap.xml">Sitemap</a> ·
-        <a href="https://akpulselive.com/news-sitemap.xml">News sitemap</a>
+        <a href="https://akpulselive.com/channel.html">Live Channel</a>
       </p>
     </div>
   </footer>
