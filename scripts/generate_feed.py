@@ -1,693 +1,607 @@
 #!/usr/bin/env python3
-"""
-generate_feed.py for AK Pulse Live
-
-Drop this file into:
-  scripts/generate_feed.py
-
-It reads:
-  data/feed_items.json
-
-And generates:
-  feed.xml
-  index.html
-  sitemap.xml
-  news-sitemap.xml
-  robots.txt
-
-Designed for GitHub Pages + Google Search Console + Google News / Publisher Center.
-"""
-
-from __future__ import annotations
-
-import html
+import hashlib
 import json
 import re
-from datetime import datetime, timezone, timedelta
-from email.utils import format_datetime, parsedate_to_datetime
+from email.utils import parsedate_to_datetime
 from pathlib import Path
-from typing import Any, Dict, List, Optional
-from urllib.parse import urlparse
+from xml.sax.saxutils import escape
+
+ROOT = Path(__file__).resolve().parents[1]
+DATA_FILE = ROOT / "data" / "feed_items.json"
+FEED_FILE = ROOT / "feed.xml"
+INDEX_FILE = ROOT / "index.html"
+WEATHER_FILE = ROOT / "weather.html"
+
+SITE_URL = "https://akpulselive.com/"
+FEED_URL = SITE_URL + "feed.xml"
+FEED_TITLE = "AK Live Pulse"
+FEED_DESCRIPTION = "A custom WEB/RSS feed published by a Bot."
+LANGUAGE = "en-us"
+MAX_ITEMS = 50
+INDEX_ITEMS = 30
 
 
-SITE_URL = "https://akpulselive.com"
-SITE_NAME = "AK Pulse Live"
-SITE_DESCRIPTION = "Fresh Alaska headlines, weather, community updates, and curated news feeds."
-SITE_LANGUAGE = "en"
-SITE_AUTHOR = "AK Pulse Live"
-LOGO_URL = f"{SITE_URL}/assets/logo.png"
-
-DATA_FILE = Path("data/feed_items.json")
-
-FEED_FILE = Path("feed.xml")
-INDEX_FILE = Path("index.html")
-SITEMAP_FILE = Path("sitemap.xml")
-NEWS_SITEMAP_FILE = Path("news-sitemap.xml")
-ROBOTS_FILE = Path("robots.txt")
-
-MAX_FEED_ITEMS = 50
-MAX_INDEX_ITEMS = 50
-MAX_SITEMAP_ITEMS = 200
-MAX_NEWS_SITEMAP_ITEMS = 1000
-NEWS_SITEMAP_MAX_AGE_DAYS = 2
+def cdata(text: str) -> str:
+    return "<![CDATA[" + str(text).replace("]]>", "]]]]><![CDATA[>") + "]]>"
 
 
-def utc_now() -> datetime:
-    return datetime.now(timezone.utc)
-
-
-def xml_escape(value: Any) -> str:
-    return html.escape(str(value or ""), quote=True)
-
-
-def clean_text(value: Any, limit: Optional[int] = None) -> str:
-    text = str(value or "")
-    text = re.sub(r"<[^>]+>", " ", text)
-    text = html.unescape(text)
-    text = re.sub(r"\s+", " ", text).strip()
-    if limit and len(text) > limit:
-        text = text[: limit - 1].rstrip() + "…"
-    return text
-
-
-def safe_url(url: Any) -> str:
-    url = str(url or "").strip()
-    if not url:
-        return ""
-    parsed = urlparse(url)
-    if parsed.scheme not in ("http", "https"):
-        return ""
-    return url
-
-
-def parse_datetime(value: Any) -> Optional[datetime]:
-    if value is None:
-        return None
-
-    if isinstance(value, (int, float)):
+def parse_item_date(item):
+    for key in ("pubDate", "published", "created_utc"):
+        value = item.get(key)
+        if not value:
+            continue
         try:
-            return datetime.fromtimestamp(float(value), tz=timezone.utc)
+            return parsedate_to_datetime(value)
         except Exception:
-            return None
-
-    text = str(value).strip()
-    if not text:
-        return None
-
-    try:
-        dt = datetime.fromisoformat(text.replace("Z", "+00:00"))
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(timezone.utc)
-    except Exception:
-        pass
-
-    try:
-        dt = parsedate_to_datetime(text)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt.astimezone(timezone.utc)
-    except Exception:
-        return None
+            pass
+    return None
 
 
-def w3c_date(dt: Optional[datetime]) -> str:
-    if not dt:
-        dt = utc_now()
-    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+def is_breaking(item) -> bool:
+    text = f"{item.get('title', '')} {item.get('description', '')} {item.get('summary', '')}".lower()
+    breaking_terms = ["breaking", "urgent", "alert", "developing", "just in"]
+    return any(term in text for term in breaking_terms)
 
 
-def rss_date(dt: Optional[datetime]) -> str:
-    if not dt:
-        dt = utc_now()
-    return format_datetime(dt.astimezone(timezone.utc), usegmt=True)
+def is_local(item) -> bool:
+    text = f"{item.get('title', '')} {item.get('description', '')} {item.get('summary', '')} {item.get('source', '')}".lower()
+    local_terms = [
+        "alaska",
+        "anchorage",
+        "fairbanks",
+        "juneau",
+        "mat-su",
+        "matsu",
+        "wasilla",
+        "palmer",
+        "kenai",
+        "soldotna",
+        "seward",
+        "homer",
+        "bethel",
+        "nome",
+        "kodiak",
+        "sitka",
+        "ketchikan",
+        "eagle river",
+        "chugiak",
+        "girdwood",
+        "talkeetna",
+        "valdez",
+        "cordova",
+        "dillingham",
+        "utqiagvik",
+        "barrow",
+        "north pole",
+        "tok",
+        "delta junction",
+        "alaskan",
+    ]
+    return any(term in text for term in local_terms)
 
 
-def domain_from_url(url: str) -> str:
-    try:
-        host = urlparse(url).netloc.lower()
-        return host.replace("www.", "")
-    except Exception:
-        return ""
+def effective_category(item) -> str:
+    if is_breaking(item):
+        return "breaking"
+
+    original_category = (item.get("category") or item.get("tag") or "general").lower()
+
+    # Weather keeps its own category. Reddit keeps its own category.
+    # Other Alaska/local items become Local for clearer display.
+    if is_local(item) and original_category not in ("weather", "reddit"):
+        return "local"
+
+    return original_category
 
 
-def load_items() -> List[Dict[str, Any]]:
+def category_label(category: str) -> str:
+    labels = {
+        "breaking": "Breaking",
+        "weather": "Weather",
+        "top": "Top News",
+        "world": "World",
+        "business": "Business",
+        "local": "Local",
+        "reddit": "Reddit",
+        "general": "General",
+    }
+    return labels.get(category, category.title() if category else "General")
+
+
+def weather_icon(text: str) -> str:
+    t = text.lower()
+    if "snow" in t:
+        return "❄️"
+    if "rain" in t or "showers" in t:
+        return "🌧️"
+    if "thunder" in t or "storm" in t:
+        return "⛈️"
+    if "cloud" in t or "overcast" in t:
+        return "☁️"
+    if "sun" in t or "clear" in t:
+        return "☀️"
+    if "wind" in t:
+        return "💨"
+    if "fog" in t:
+        return "🌫️"
+    return "🌡️"
+
+
+def make_slug(text: str) -> str:
+    text = text.lower()
+    text = re.sub(r"[^a-z0-9]+", "-", text)
+    return text.strip("-") or "forecast"
+
+
+def load_items():
     if not DATA_FILE.exists():
-        print(f"WARNING: {DATA_FILE} not found. Generating empty site.")
         return []
 
-    try:
-        data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
-    except Exception as exc:
-        print(f"ERROR: Could not read {DATA_FILE}: {exc}")
-        return []
+    items = json.loads(DATA_FILE.read_text(encoding="utf-8"))
 
-    if isinstance(data, dict):
-        if isinstance(data.get("items"), list):
-            data = data["items"]
-        else:
-            data = list(data.values())
+    def sort_key(item):
+        dt = parse_item_date(item)
+        timestamp = dt.timestamp() if dt else 0
 
-    if not isinstance(data, list):
-        print(f"WARNING: {DATA_FILE} did not contain a list of items.")
-        return []
+        # Priority:
+        # 1. Breaking items
+        # 2. Alaska/local items
+        # 3. Everything else by newest
+        breaking_rank = 0 if is_breaking(item) else 1
+        local_rank = 0 if is_local(item) else 1
 
-    return [x for x in data if isinstance(x, dict)]
+        return (breaking_rank, local_rank, -timestamp)
 
-
-def normalize_item(raw: Dict[str, Any]) -> Optional[Dict[str, Any]]:
-    title = clean_text(raw.get("title") or raw.get("headline"), 180)
-    link = safe_url(raw.get("link") or raw.get("url"))
-    if not title or not link:
-        return None
-
-    published = (
-        parse_datetime(raw.get("published"))
-        or parse_datetime(raw.get("published_at"))
-        or parse_datetime(raw.get("pubDate"))
-        or parse_datetime(raw.get("date"))
-        or parse_datetime(raw.get("timestamp"))
-        or utc_now()
-    )
-
-    source = clean_text(
-        raw.get("source")
-        or raw.get("source_name")
-        or raw.get("publisher")
-        or domain_from_url(link)
-        or SITE_NAME,
-        80,
-    )
-
-    category = clean_text(raw.get("category") or raw.get("tag") or "general", 50)
-    summary = clean_text(
-        raw.get("summary")
-        or raw.get("description")
-        or raw.get("excerpt")
-        or raw.get("content")
-        or title,
-        300,
-    )
-
-    display_title = title
-    if source and source.lower() not in title.lower():
-        display_title = f"{title} | {source}"
-
-    return {
-        "title": display_title,
-        "original_title": title,
-        "link": link,
-        "summary": summary,
-        "source": source,
-        "author": clean_text(raw.get("author") or source or SITE_AUTHOR, 80),
-        "category": category,
-        "published_dt": published,
-        "published": w3c_date(published),
-    }
+    items.sort(key=sort_key)
+    return items[:MAX_ITEMS]
 
 
-def get_items() -> List[Dict[str, Any]]:
-    seen = set()
-    items: List[Dict[str, Any]] = []
-
-    for raw in load_items():
-        item = normalize_item(raw)
-        if not item:
-            continue
-        link = item["link"]
-        if link in seen:
-            continue
-        seen.add(link)
-        items.append(item)
-
-    items.sort(key=lambda x: x.get("published_dt") or utc_now(), reverse=True)
-    return items
-
-
-def build_feed(items: List[Dict[str, Any]]) -> str:
-    now = utc_now()
+def build_feed(items):
+    last_build = items[0].get("pubDate", "") if items else "Fri, 01 May 2026 00:00:00 GMT"
 
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
-        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
-        "  <channel>",
-        f"    <title>{xml_escape(SITE_NAME)}</title>",
-        f"    <link>{xml_escape(SITE_URL)}/</link>",
-        f"    <description>{xml_escape(SITE_DESCRIPTION)}</description>",
-        f"    <language>{xml_escape(SITE_LANGUAGE)}</language>",
-        f"    <lastBuildDate>{rss_date(now)}</lastBuildDate>",
-        f'    <atom:link href="{xml_escape(SITE_URL)}/feed.xml" rel="self" type="application/rss+xml" />',
+        '<rss version="2.0">',
+        '  <channel>',
+        f'    <title>{escape(FEED_TITLE)}</title>',
+        f'    <link>{escape(SITE_URL)}</link>',
+        f'    <description>{escape(FEED_DESCRIPTION)}</description>',
+        f'    <language>{LANGUAGE}</language>',
+        f'    <lastBuildDate>{escape(last_build)}</lastBuildDate>',
     ]
 
-    for item in items[:MAX_FEED_ITEMS]:
-        description = item["summary"]
-        if item["source"]:
-            description += f" Source: {item['source']}."
-
-        lines += [
-            "    <item>",
-            f"      <title>{xml_escape(item['title'])}</title>",
-            f"      <link>{xml_escape(item['link'])}</link>",
-            f"      <guid isPermaLink=\"true\">{xml_escape(item['link'])}</guid>",
-            f"      <description>{xml_escape(description)}</description>",
-            f"      <category>{xml_escape(item['category'])}</category>",
-            f"      <source url=\"{xml_escape(item['link'])}\">{xml_escape(item['source'])}</source>",
-            f"      <pubDate>{rss_date(item['published_dt'])}</pubDate>",
-            "    </item>",
-        ]
-
-    lines += ["  </channel>", "</rss>", ""]
-    return "\n".join(lines)
-
-
-def build_sitemap(items: List[Dict[str, Any]]) -> str:
-    now = w3c_date(utc_now())
-
-    lines = [
-        '<?xml version="1.0" encoding="UTF-8"?>',
-        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
-        "  <url>",
-        f"    <loc>{xml_escape(SITE_URL)}/</loc>",
-        f"    <lastmod>{now}</lastmod>",
-        "    <changefreq>hourly</changefreq>",
-        "    <priority>1.0</priority>",
-        "  </url>",
-        "  <url>",
-        f"    <loc>{xml_escape(SITE_URL)}/feed.xml</loc>",
-        f"    <lastmod>{now}</lastmod>",
-        "    <changefreq>hourly</changefreq>",
-        "    <priority>0.9</priority>",
-        "  </url>",
-        "  <url>",
-        f"    <loc>{xml_escape(SITE_URL)}/news-sitemap.xml</loc>",
-        f"    <lastmod>{now}</lastmod>",
-        "    <changefreq>hourly</changefreq>",
-        "    <priority>0.8</priority>",
-        "  </url>",
-    ]
-
-    for item in items[:MAX_SITEMAP_ITEMS]:
-        lines += [
-            "  <url>",
-            f"    <loc>{xml_escape(item['link'])}</loc>",
-            f"    <lastmod>{w3c_date(item.get('published_dt'))}</lastmod>",
-            "    <changefreq>daily</changefreq>",
-            "    <priority>0.6</priority>",
-            "  </url>",
-        ]
-
-    lines += ["</urlset>", ""]
-    return "\n".join(lines)
-
-
-def build_news_sitemap(items: List[Dict[str, Any]]) -> str:
-    now = utc_now()
-    cutoff = now - timedelta(days=NEWS_SITEMAP_MAX_AGE_DAYS)
-
-    recent_items = []
     for item in items:
-        pub_dt = item.get("published_dt") or now
-        if pub_dt >= cutoff:
-            recent_items.append(item)
+        title = item.get("title", "Untitled")
+        link = item.get("link") or item.get("url") or SITE_URL
+        desc = item.get("description") or item.get("summary") or ""
+        pub = item.get("pubDate", "")
+        category = effective_category(item)
+        guid = item.get("guid") or hashlib.sha1(link.encode("utf-8")).hexdigest()
 
-    recent_items = recent_items[:MAX_NEWS_SITEMAP_ITEMS]
+        lines.extend([
+            '    <item>',
+            f'      <title>{escape(title)}</title>',
+            f'      <link>{escape(link)}</link>',
+            f'      <guid isPermaLink="false">{escape(guid)}</guid>',
+            f'      <pubDate>{escape(pub)}</pubDate>',
+            f'      <description>{cdata(desc)}</description>',
+            f'      <category>{escape(category)}</category>',
+            '    </item>',
+        ])
 
-    lines = [
-        '<?xml version="1.0" encoding="UTF-8"?>',
-        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
-        '        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">',
-    ]
-
-    for item in recent_items:
-        title = item.get("original_title") or item.get("title") or SITE_NAME
-        pub_dt = item.get("published_dt") or now
-
-        lines += [
-            "  <url>",
-            f"    <loc>{xml_escape(item['link'])}</loc>",
-            "    <news:news>",
-            "      <news:publication>",
-            f"        <news:name>{xml_escape(SITE_NAME)}</news:name>",
-            f"        <news:language>{xml_escape(SITE_LANGUAGE)}</news:language>",
-            "      </news:publication>",
-            f"      <news:publication_date>{xml_escape(w3c_date(pub_dt))}</news:publication_date>",
-            f"      <news:title>{xml_escape(title)}</news:title>",
-            "    </news:news>",
-            "  </url>",
-        ]
-
-    lines += ["</urlset>", ""]
+    lines.extend(['  </channel>', '</rss>', ''])
     return "\n".join(lines)
 
 
-def build_robots() -> str:
-    return "\n".join(
-        [
-            "User-agent: *",
-            "Allow: /",
-            "",
-            f"Sitemap: {SITE_URL}/sitemap.xml",
-            f"Sitemap: {SITE_URL}/news-sitemap.xml",
-            "",
-        ]
-    )
+def build_index(items):
+    rows = []
 
+    for item in items[:INDEX_ITEMS]:
+        title = escape(item.get("title", "Untitled"))
+        link = escape(item.get("link") or item.get("url") or "#")
+        pub = escape(item.get("pubDate", ""))
+        category = effective_category(item)
+        category_text = escape(category_label(category))
+        category_class = escape(category)
 
-def category_class(category: str) -> str:
-    slug = re.sub(r"[^a-z0-9]+", "-", category.lower()).strip("-")
-    return slug or "general"
+        rows.append(
+            f'''<li class="feed-item">
+      <div class="item-top">
+        <span class="cat-badge cat-{category_class}">{category_text}</span>
+        <small>{pub}</small>
+      </div>
+      <div class="item-title"><a href="{link}">{title}</a></div>
+    </li>'''
+        )
 
+    item_html = "\n".join("        " + row for row in rows) if rows else "        <li>No items yet.</li>"
 
-def build_index(items: List[Dict[str, Any]]) -> str:
-    now = utc_now()
-    latest = items[:MAX_INDEX_ITEMS]
+    top_item = items[0] if items else None
 
-    cards = []
-    for item in latest:
-        title = clean_text(item.get("original_title") or item["title"], 180)
-        link = item["link"]
-        summary = clean_text(item["summary"], 240)
-        source = clean_text(item["source"], 80)
-        category = clean_text(item["category"], 40)
-        pub_dt = item.get("published_dt") or now
+    if top_item:
+        top_title = escape(top_item.get("title", "Untitled"))
+        top_link = escape(top_item.get("link") or top_item.get("url") or "#")
+        top_pub = escape(top_item.get("pubDate", ""))
+        top_category = escape(category_label(effective_category(top_item)))
 
-        cards.append(f"""
-      <article class="story-card category-{category_class(category)}" itemscope itemtype="https://schema.org/NewsArticle">
-        <div class="story-meta">
-          <span class="category">{html.escape(category.title())}</span>
-          <span class="source">{html.escape(source)}</span>
-          <time datetime="{html.escape(w3c_date(pub_dt))}" itemprop="datePublished">{html.escape(pub_dt.strftime("%b %d, %Y %H:%M UTC"))}</time>
-        </div>
-        <h2 itemprop="headline">
-          <a href="{html.escape(link)}" target="_blank" rel="noopener noreferrer" itemprop="url">{html.escape(title)}</a>
-        </h2>
-        <p itemprop="description">{html.escape(summary)}</p>
-      </article>""")
+        top_story_html = f'''
+  <section class="top-story">
+    <div class="top-story-label">🔥 Top Story</div>
+    <h2><a href="{top_link}">{top_title}</a></h2>
+    <div class="top-story-meta">{top_category} • {top_pub}</div>
+  </section>
+'''
+    else:
+        top_story_html = ""
 
-    cards_html = "\n".join(cards) if cards else "<p>No stories found yet. Check back soon.</p>"
-
-    org_schema = {
-        "@context": "https://schema.org",
-        "@type": "NewsMediaOrganization",
-        "name": SITE_NAME,
-        "url": SITE_URL,
-        "logo": LOGO_URL,
-        "description": SITE_DESCRIPTION,
-    }
-
-    webpage_schema = {
-        "@context": "https://schema.org",
-        "@type": "CollectionPage",
-        "name": SITE_NAME,
-        "url": SITE_URL,
-        "description": SITE_DESCRIPTION,
-        "isPartOf": {
-            "@type": "WebSite",
-            "name": SITE_NAME,
-            "url": SITE_URL,
-        },
-    }
-
-    return f"""<!DOCTYPE html>
+    return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <title>{html.escape(SITE_NAME)} | Alaska News, Weather & Community Updates</title>
-  <meta name="description" content="{html.escape(SITE_DESCRIPTION)}" />
-  <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="{html.escape(SITE_URL)}/" />
-
-  <link rel="alternate" type="application/rss+xml" title="{html.escape(SITE_NAME)} RSS Feed" href="{html.escape(SITE_URL)}/feed.xml" />
-  <link rel="sitemap" type="application/xml" title="Sitemap" href="{html.escape(SITE_URL)}/sitemap.xml" />
-
-  <meta property="og:title" content="{html.escape(SITE_NAME)}" />
-  <meta property="og:description" content="{html.escape(SITE_DESCRIPTION)}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="{html.escape(SITE_URL)}/" />
-  <meta property="og:image" content="{html.escape(LOGO_URL)}" />
-
-  <script type="application/ld+json">
-{json.dumps(org_schema, indent=2)}
-  </script>
-
-  <script type="application/ld+json">
-{json.dumps(webpage_schema, indent=2)}
-  </script>
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{escape(FEED_TITLE)}</title>
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="alternate" type="application/rss+xml" title="{escape(FEED_TITLE)}" href="feed.xml">
   <style>
-    :root {{
-      --bg: #0b0f1a;
-      --panel: #121827;
-      --panel-soft: #172033;
-      --text: #f4f7fb;
-      --muted: #9aa3b2;
-      --blue: #00c6ff;
-      --green: #7bffb2;
-      --red: #ff4757;
-      --border: rgba(255,255,255,0.08);
+    .site-header {{
+      text-align: center;
+      margin: 12px 0 18px 0;
     }}
 
-    * {{ box-sizing: border-box; }}
-
-    body {{
-      margin: 0;
-      font-family: Arial, Helvetica, sans-serif;
-      background:
-        radial-gradient(circle at top left, rgba(0,198,255,0.18), transparent 35%),
-        radial-gradient(circle at top right, rgba(123,255,178,0.12), transparent 30%),
-        var(--bg);
-      color: var(--text);
-    }}
-
-    header {{
-      padding: 26px 20px 22px;
-      border-bottom: 1px solid var(--border);
-      background: rgba(11,15,26,0.88);
-      position: sticky;
-      top: 0;
-      backdrop-filter: blur(12px);
-      z-index: 10;
-    }}
-
-    .wrap {{
-      max-width: 1100px;
-      margin: 0 auto;
+    .header-inner {{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 18px;
+      flex-wrap: wrap;
     }}
 
     .site-logo {{
+      width: 120px;
+      max-width: 45vw;
+      height: auto;
       display: block;
-      height: 74px;
-      width: auto;
-      max-width: min(440px, 92vw);
-      object-fit: contain;
-      margin-bottom: 12px;
-      filter: drop-shadow(0 0 12px rgba(0,198,255,0.45));
+      filter: drop-shadow(0 0 8px rgba(0,198,255,0.35));
     }}
 
-    h1 {{
-      margin: 0;
-      font-size: clamp(2rem, 5vw, 4rem);
-      letter-spacing: -0.05em;
-      line-height: 0.95;
-    }}
-
-    .rocket {{
-      display: block;
-      margin-top: 8px;
-      color: var(--green);
-      font-size: 1rem;
-      letter-spacing: 0.04em;
-    }}
-
-    .tagline {{
-      color: var(--muted);
-      margin: 12px 0 0;
-      max-width: 720px;
-      font-size: 1.05rem;
-    }}
-
-    nav {{
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      margin-top: 18px;
-    }}
-
-    nav a {{
-      color: var(--text);
-      text-decoration: none;
-      border: 1px solid var(--border);
-      background: var(--panel-soft);
+    .site-clock-wrap {{
+      background: #1f2937;
+      border: 1px solid #374151;
+      border-radius: 12px;
       padding: 8px 12px;
-      border-radius: 999px;
-      font-size: 0.9rem;
+      min-width: 130px;
     }}
 
-    nav a:hover {{
-      border-color: rgba(123,255,178,0.35);
-      color: var(--green);
+    .site-clock-label {{
+      font-size: 0.68rem;
+      color: #9aa3b2;
+      letter-spacing: 0.08em;
+      font-weight: 700;
     }}
 
-    main {{ padding: 26px 20px 60px; }}
-
-    .status-bar {{
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      justify-content: space-between;
-      align-items: center;
-      background: var(--panel);
-      border: 1px solid var(--border);
-      border-radius: 18px;
-      padding: 14px 16px;
-      margin-bottom: 18px;
-      color: var(--muted);
+    .site-clock {{
+      font-size: 1.2rem;
+      font-weight: 800;
+      color: #7bffb2;
+      line-height: 1.2;
     }}
 
-    .status-bar strong {{ color: var(--green); }}
-
-    .grid {{
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 16px;
+    body {{
+      font-family: Arial, sans-serif;
+      max-width: 860px;
+      margin: 40px auto;
+      padding: 0 16px;
+      line-height: 1.5;
+      background: #111827;
+      color: #f3f4f6;
     }}
 
-    .story-card {{
-      background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02));
-      border: 1px solid var(--border);
-      border-radius: 20px;
-      padding: 18px;
-      box-shadow: 0 12px 34px rgba(0,0,0,0.22);
-    }}
-
-    .story-meta {{
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      align-items: center;
-      margin-bottom: 10px;
-      color: var(--muted);
-      font-size: 0.78rem;
-    }}
-
-    .category {{
-      color: #061018;
-      background: var(--blue);
-      border-radius: 999px;
-      padding: 4px 8px;
-      font-weight: bold;
-    }}
-
-    .source {{ color: var(--green); }}
-
-    h2 {{
-      margin: 0 0 10px;
-      font-size: 1.1rem;
-      line-height: 1.25;
-    }}
-
-    h2 a {{
-      color: var(--text);
+    a {{
+      color: #93c5fd;
       text-decoration: none;
     }}
 
-    h2 a:hover {{
-      color: var(--blue);
+    a:hover {{
       text-decoration: underline;
     }}
 
-    p {{
-      color: var(--muted);
-      line-height: 1.45;
+    code {{
+      background: #1f2937;
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #e5e7eb;
     }}
 
-    footer {{
-      border-top: 1px solid var(--border);
-      padding: 24px 20px;
-      color: var(--muted);
-      background: rgba(0,0,0,0.18);
+    .feed-links {{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 14px;
+      margin: 12px 0 18px 0;
+      flex-wrap: wrap;
     }}
 
-    footer a {{ color: var(--green); }}
+    .feed-links a {{
+      font-weight: 600;
+    }}
 
-    .about {{
-      margin-top: 26px;
-      background: var(--panel);
-      border: 1px solid var(--border);
-      border-radius: 18px;
+    .feed-links a:first-child {{
+      padding: 10px 14px;
+      background: #1f2937;
+      border: 1px solid #374151;
+      border-radius: 8px;
+    }}
+
+    .main-link {{
+      display: inline-block;
+      padding: 12px 18px;
+      background: linear-gradient(135deg, #00c6ff, #7bffb2);
+      color: #000;
+      border-radius: 10px;
+      font-weight: 800;
+      font-size: 1rem;
+      text-decoration: none;
+      margin: 0;
+      box-shadow: 0 4px 14px rgba(0,198,255,0.35);
+      transition: all 0.2s ease;
+    }}
+
+    .main-link:hover {{
+      transform: translateY(-2px);
+      box-shadow: 0 6px 18px rgba(123,255,178,0.45);
+      text-decoration: none;
+      color: #000;
+    }}
+
+    .top-story {{
+      background: linear-gradient(135deg, rgba(220,38,38,0.35), rgba(31,41,55,0.95));
+      border: 1px solid rgba(255,255,255,0.14);
+      border-radius: 14px;
       padding: 18px;
+      margin: 18px 0 22px 0;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    }}
+
+    .top-story-label {{
+      display: inline-block;
+      background: #dc2626;
+      color: #fff;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-transform: uppercase;
+    }}
+
+    .top-story h2 {{
+      margin: 12px 0 8px 0;
+      line-height: 1.25;
+    }}
+
+    .top-story-meta {{
+      color: #9ca3af;
+      font-size: 0.88rem;
+    }}
+
+    .feed-list {{
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }}
+
+    .feed-item {{
+      background: #1f2937;
+      border: 1px solid #374151;
+      border-radius: 12px;
+      padding: 14px 16px;
+      margin: 0 0 14px 0;
+    }}
+
+    .item-top {{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 8px;
+      flex-wrap: wrap;
+    }}
+
+    .item-title {{
+      font-size: 1.02rem;
+      font-weight: 600;
+    }}
+
+    .cat-badge {{
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }}
+
+    .cat-breaking {{
+      background: #dc2626;
+      color: #ffffff;
+      animation: breakingPulse 1s infinite;
+    }}
+
+    .cat-weather {{
+      background: #1d4ed8;
+      color: #eff6ff;
+    }}
+
+    .cat-top {{
+      background: #b91c1c;
+      color: #fef2f2;
+    }}
+
+    .cat-world {{
+      background: #7c3aed;
+      color: #f5f3ff;
+    }}
+
+    .cat-business {{
+      background: #047857;
+      color: #ecfdf5;
+    }}
+
+    .cat-local {{
+      background: #c2410c;
+      color: #fff7ed;
+    }}
+
+    .cat-reddit {{
+      background: #ff4500;
+      color: #fff7ed;
+    }}
+
+    .cat-general {{
+      background: #4b5563;
+      color: #f9fafb;
+    }}
+
+    @keyframes breakingPulse {{
+      0% {{ opacity: 1; }}
+      50% {{ opacity: 0.65; }}
+      100% {{ opacity: 1; }}
     }}
   </style>
 </head>
-
 <body>
-  <header>
-    <div class="wrap">
-      <img class="site-logo" src="assets/logo.png" alt="AK Pulse Live Logo">
-      <h1>{html.escape(SITE_NAME)}</h1>
-     <a href="channel.html" class="rocket">🚀 Open AK Pulse Live</a>
-      <p class="tagline">{html.escape(SITE_DESCRIPTION)}</p>
-
-      <nav aria-label="Site sections">
-        <a href="#latest">Latest</a>
-        <a href="{html.escape(SITE_URL)}/feed.xml">RSS Feed</a>
-        <a href="{html.escape(SITE_URL)}/channel.html">Live Channel</a>
-      </nav>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="main.html" title="Open AK Pulse Live full site">
+        <img src="assets/akpulse-logo.png" class="site-logo" alt="AK Pulse Live logo">
+      </a>
+      <div class="site-clock-wrap">
+        <div class="site-clock-label">ANCHORAGE TIME</div>
+        <div class="site-clock" id="clock">--:--</div>
+      </div>
     </div>
   </header>
 
-  <main>
-    <div class="wrap">
-      <section class="status-bar" aria-label="Feed status">
-        <div><strong>Live feed updated:</strong> {html.escape(now.strftime("%B %d, %Y %H:%M UTC"))}</div>
-        <div>{len(latest)} latest stories displayed</div>
-      </section>
+  <h1>Anchorage Custom Feed</h1>
+  <p>{escape(FEED_DESCRIPTION)}</p>
 
-      <section id="latest" class="grid" aria-label="Latest news stories">
-{cards_html}
-      </section>
+  <div class="feed-links">
+    <a href="feed.xml">📰 Open RSS Feed</a>
+    <a href="main.html" class="main-link">🚀 Open AK Pulse Live</a>
+  </div>
 
-      <section class="about" id="about">
-        <h2>About AK Pulse Live</h2>
-        <p>
-          AK Pulse Live is an Alaska-focused news and information hub that curates fresh headlines,
-          weather, community updates, and public-interest stories from multiple sources. Links point
-          readers to the original publishers.
-        </p>
-      </section>
-    </div>
-  </main>
+  <p>Feed URL: <code>akpulselive.com/feed.xml</code></p>
 
-  <footer>
-    <div class="wrap">
-      <p>
-        © {now.year} {html.escape(SITE_NAME)} ·
-        <a href="{html.escape(SITE_URL)}/feed.xml">RSS</a> ·
-        <a href="{html.escape(SITE_URL)}/channel.html">Live Channel</a>
-      </p>
-    </div>
-  </footer>
+{top_story_html}
+
+  <h2>Latest items</h2>
+  <ul class="feed-list">
+{item_html}
+  </ul>
+
+  <script>
+    function updateClock() {{
+      const now = new Date();
+      const time = now.toLocaleTimeString([], {{
+        hour: "2-digit",
+        minute: "2-digit"
+      }});
+
+      const clock = document.getElementById("clock");
+      if (clock) clock.textContent = time;
+    }}
+
+    updateClock();
+    setInterval(updateClock, 1000);
+  </script>
 </body>
 </html>
-"""
+'''
 
 
-def main() -> None:
-    items = get_items()
+def build_weather_page(items):
+    weather_items = [item for item in items if effective_category(item) == "weather"]
+
+    cards = []
+
+    for item in weather_items:
+        title_raw = item.get("title", "Forecast")
+        desc = item.get("description") or item.get("summary") or ""
+        slug = make_slug(title_raw.split(":")[-1].strip())
+        icon = weather_icon(title_raw + " " + desc)
+
+        cards.append(f'''
+      <section class="weather-card" id="{escape(slug)}">
+        <h2>{icon} {escape(title_raw)}</h2>
+        <div class="weather-desc">{desc}</div>
+      </section>
+''')
+
+    cards_html = "\n".join(cards) if cards else "<p>No weather forecast available.</p>"
+
+    return f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Anchorage Weather Forecast</title>
+  <link rel="icon" type="image/png" href="favicon.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {{
+      font-family: Arial, sans-serif;
+      max-width: 860px;
+      margin: 40px auto;
+      padding: 0 16px;
+      background: #111827;
+      color: #f3f4f6;
+      line-height: 1.6;
+    }}
+
+    a {{
+      color: #93c5fd;
+    }}
+
+    .weather-card {{
+      background: #1f2937;
+      border: 1px solid #374151;
+      border-radius: 14px;
+      padding: 18px;
+      margin-bottom: 16px;
+    }}
+
+    .weather-card h2 {{
+      color: #bfdbfe;
+      margin-top: 0;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 1.2rem;
+    }}
+
+    .weather-desc {{
+      font-size: 1rem;
+    }}
+  </style>
+</head>
+<body>
+  <h1>Anchorage Weather Forecast</h1>
+  <p><a href="index.html">← Back to feed</a> • <a href="main.html">AK Pulse Live</a></p>
+  {cards_html}
+</body>
+</html>
+'''
+
+
+def main():
+    items = load_items()
 
     FEED_FILE.write_text(build_feed(items), encoding="utf-8")
     INDEX_FILE.write_text(build_index(items), encoding="utf-8")
-    SITEMAP_FILE.write_text(build_sitemap(items), encoding="utf-8")
-    NEWS_SITEMAP_FILE.write_text(build_news_sitemap(items), encoding="utf-8")
-    ROBOTS_FILE.write_text(build_robots(), encoding="utf-8")
+    WEATHER_FILE.write_text(build_weather_page(items), encoding="utf-8")
 
-    print(f"Generated {FEED_FILE} with {min(len(items), MAX_FEED_ITEMS)} items")
-    print(f"Generated {INDEX_FILE}")
-    print(f"Generated {SITEMAP_FILE}")
-    print(f"Generated {NEWS_SITEMAP_FILE}")
-    print(f"Generated {ROBOTS_FILE}")
+    print(f"Wrote {FEED_FILE}")
+    print(f"Wrote {INDEX_FILE}")
+    print(f"Wrote {WEATHER_FILE}")
 
 
 if __name__ == "__main__":
