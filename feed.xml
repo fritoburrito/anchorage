@@ -1,461 +1,410 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
-    <title>AK Pulse Live</title>
+    <title>AK Live Pulse</title>
     <link>https://akpulselive.com/</link>
-    <description>Fresh Alaska headlines, weather, community updates, and curated news feeds.</description>
-    <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 22:00:34 GMT</lastBuildDate>
-    <atom:link href="https://akpulselive.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description>A custom WEB/RSS feed published by a Bot.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2026 22:25:51 GMT</lastBuildDate>
     <item>
-      <title>Watch: Match of the Day | BBC News</title>
-      <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Highlights of five Premier League games, including title-chasing Arsenal versus Fulham. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anchorage Weather: This Afternoon | NWS Anchorage</title>
-      <link>https://akpulselive.com/weather.html#this-afternoon</link>
-      <guid isPermaLink="true">https://akpulselive.com/weather.html#this-afternoon</guid>
-      <description>48°F | 10 mph S | Slight Chance Light Rain A slight chance of rain. Mostly cloudy, with a high near 48. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. Source: NWS Anchorage.</description>
-      <category>weather</category>
-      <source url="https://akpulselive.com/weather.html#this-afternoon">NWS Anchorage</source>
-      <pubDate>Sat, 02 May 2026 22:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today | NWS Anchorage</title>
+      <title>Anchorage Weather: Today</title>
       <link>https://akpulselive.com/weather.html#today</link>
-      <guid isPermaLink="true">https://akpulselive.com/weather.html#today</guid>
-      <description>48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. Source: NWS Anchorage.</description>
+      <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
+      <pubDate>Sat, 02 May 2026 22:25:51 GMT</pubDate>
+      <description><![CDATA[48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain<br><br>A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
-      <source url="https://akpulselive.com/weather.html#today">NWS Anchorage</source>
-      <pubDate>Sat, 02 May 2026 21:52:59 GMT</pubDate>
     </item>
     <item>
-      <title>Antonelli takes Miami pole from Verstappen | BBC News</title>
-      <link>https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Mercedes driver Kimi Antonelli bounces back from a difficult sprint race to take pole position for the Miami Grand Prix. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 21:40:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Airlines can cancel flights in advance over fuel shortages, under new plans | BBC News</title>
-      <link>https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Ministers hope move would help avoid last-minute flight cancellations for passengers this summer over Middle East fuel supplies. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 21:35:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Man charged after bomb hoax at Peter Kay show | BBC News</title>
-      <link>https://www.bbc.com/news/articles/c1d2pvle9lqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c1d2pvle9lqo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Omar Majed, of Washwood Heath, Birmingham will appear in court on Monday, police said. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/c1d2pvle9lqo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 21:28:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop families who choose not to work getting unlimited benefits, Tories say | BBC News</title>
-      <link>https://www.bbc.com/news/articles/cm2pm41z1nxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cm2pm41z1nxo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The party says removing some exemptions to the household benefit cap would save £1bn a year. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/cm2pm41z1nxo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 21:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Timmy the stranded whale rescued after weekslong effort | NPR News</title>
-      <link>https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort</guid>
-      <description>Timmy captured the hearts of whale lovers across the globe who rooted for a happy ending for the humpback. Source: NPR News.</description>
-      <category>world</category>
-      <source url="https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort">NPR News</source>
-      <pubDate>Sat, 02 May 2026 20:51:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Has much-maligned Gyokeres proved his critics wrong? | BBC News</title>
-      <link>https://www.bbc.com/sport/football/articles/cdjp3v7lv8mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/football/articles/cdjp3v7lv8mo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The talk before the season was that Arsenal needed a 20-goal-a-season striker to win a trophy - and now they finally have one in Viktor Gyokeres. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/sport/football/articles/cdjp3v7lv8mo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 20:45:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Three red cards for hair pulling in 2026 - is it time to change law? | BBC News</title>
-      <link>https://www.bbc.com/sport/football/articles/cgkp15ejk5lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/football/articles/cgkp15ejk5lo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Sunderland defender Dan Ballard becomes the third player to be sent off for pulling an opponent&#x27;s hair in the Premier League this season. Is it time to change the law? Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/sport/football/articles/cgkp15ejk5lo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 20:41:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Padres announce agreement to sell team to investor group led by Kwanza Jones and José E. Feliciano | ABC News</title>
-      <link>https://abcnews.com/Business/wireStory/padres-announce-agreement-sell-team-investor-group-led-132605639</link>
-      <guid isPermaLink="true">https://abcnews.com/Business/wireStory/padres-announce-agreement-sell-team-investor-group-led-132605639</guid>
-      <description>The San Diego Padres have reached an agreement to sell control of the team to an investor group led by Kwanza Jones and José E Source: ABC News.</description>
-      <category>world</category>
-      <source url="https://abcnews.com/Business/wireStory/padres-announce-agreement-sell-team-investor-group-led-132605639">ABC News</source>
-      <pubDate>Sat, 02 May 2026 20:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Academy announces major overhaul to rules | NPR News</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5808894/oscars-2027-99th-academy-awards-rule-changes</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5808894/oscars-2027-99th-academy-awards-rule-changes</guid>
-      <description>The new rules focus on areas such as AI protections for writers and actors and expanded eligibility for international films. Source: NPR News.</description>
-      <category>world</category>
-      <source url="https://www.npr.org/2026/05/02/nx-s1-5808894/oscars-2027-99th-academy-awards-rule-changes">NPR News</source>
-      <pubDate>Sat, 02 May 2026 20:34:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supreme Court asked to restore access to mail-order abortion pill | ABC News</title>
-      <link>https://abcnews.com/Politics/supreme-court-asked-restore-access-mail-order-abortion/story?id=132604063</link>
-      <guid isPermaLink="true">https://abcnews.com/Politics/supreme-court-asked-restore-access-mail-order-abortion/story?id=132604063</guid>
-      <description>A pharma company that produces mifepristone asked the Supreme Court to lift a lower court’s ruling barring health providers from dispensing the abortion pill by mail. Source: ABC News.</description>
-      <category>world</category>
-      <source url="https://abcnews.com/Politics/supreme-court-asked-restore-access-mail-order-abortion/story?id=132604063">ABC News</source>
-      <pubDate>Sat, 02 May 2026 20:09:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Taiwan&#x27;s Lai lands in Eswatini in a trip delayed by lack of overflight clearance | NPR News</title>
-      <link>https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance</guid>
-      <description>Eswatini remains the only African nation without tariff-free access to China&#x27;s market due to its ties with Taiwan. Source: NPR News.</description>
-      <category>world</category>
-      <source url="https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance">NPR News</source>
-      <pubDate>Sat, 02 May 2026 19:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Man arrested in Austria after rat poison found in baby food jars | BBC News</title>
-      <link>https://www.bbc.com/news/articles/cm2pmdj2v39o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cm2pmdj2v39o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>A jar of HiPP purée containing the poison was found in Austria, prompting a recall by the manufacturer. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/cm2pmdj2v39o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 19:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Woodwork woe and a Spurs lifeline - West Ham suffer in survival fight | BBC News</title>
-      <link>https://www.bbc.com/sport/football/articles/c3e28l439v4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/football/articles/c3e28l439v4o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Tottenham were the biggest winners as fellow Premier League strugglers West Ham hit the woodwork four times in their 3-0 defeat at Brentford. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/sport/football/articles/c3e28l439v4o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 19:26:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>WATCH: New dating trend turning errands into romance | ABC News</title>
-      <link>https://abcnews.com/video/132604631/</link>
-      <guid isPermaLink="true">https://abcnews.com/video/132604631/</guid>
-      <description>Author Bruce Y. Lee explains the term &quot;choremancing&quot; and how it&#x27;s becoming popular in the world of dating. Source: ABC News.</description>
-      <category>world</category>
-      <source url="https://abcnews.com/video/132604631/">ABC News</source>
-      <pubDate>Sat, 02 May 2026 19:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arsenal beat Fulham to move six points clear of Man City | BBC News</title>
-      <link>https://www.bbc.com/sport/football/videos/c1m2033g12no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/football/videos/c1m2033g12no?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Watch highlights as Arsenal beat Fulham 3-0 to move six points clear of Manchester City at the top of the Premier League. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/sport/football/videos/c1m2033g12no?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 19:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>King launches Space Agency project on final day in Bermuda | BBC News</title>
-      <link>https://www.bbc.com/news/articles/cn4pvnpejw9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cn4pvnpejw9o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The King concludes his visit to the British overseas territory after landing from the US on Thursday. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/cn4pvnpejw9o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 18:08:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Calls grow over hospital care for jailed Iranian Nobel laureate Narges Mohammadi | BBC News</title>
-      <link>https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 17:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Banksy confirms new statue installed in central London is his work | NPR News</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london</guid>
-      <description>The statue in Waterloo Place, which appeared early Wednesday, depicts a man proudly hoisting a flag— but the flag is blinding him. Source: NPR News.</description>
-      <category>world</category>
-      <source url="https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london">NPR News</source>
-      <pubDate>Sat, 02 May 2026 17:25:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Are Ipswich better equipped for Premier League this time? | BBC News</title>
-      <link>https://www.bbc.com/sport/football/articles/ckgpw5ye21jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/football/articles/ckgpw5ye21jo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Ipswich Town have won promotion from the Championship for the second time in three years - but are they better equipped for the Premier League in 2026? Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/sport/football/articles/ckgpw5ye21jo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 17:17:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Taiwan president visits Eswatini days after blaming China for cancelled trip | BBC News</title>
-      <link>https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>It is unclear how he reached Eswatini. China described his visit as a &quot;stowaway-style escape farce&quot;. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 17:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Murphy powers past Higgins to reach Crucible final | BBC News</title>
-      <link>https://www.bbc.com/sport/snooker/articles/cgmpvp09e07o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/snooker/articles/cgmpvp09e07o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Shaun Murphy powers to a 17-15 victory over John Higgins to reach his fifth World Championship final at the Crucible Theatre in Sheffield. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/sport/snooker/articles/cgmpvp09e07o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 16:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Norris takes dominant win in Miami sprint race | BBC News</title>
-      <link>https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Lando Norris takes McLaren&#x27;s first victory of the 2026 season with a dominant drive from pole position in the Miami Grand Prix sprint race. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 16:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Germany says US troop withdrawal &#x27;foreseeable&#x27; as Nato seeks clarification | BBC News</title>
-      <link>https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>German Defence Minister Boris Pistorius said the US decision to withdraw 5,000 troops was to be expected. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 16:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Imprisoned Iranian Nobel Peace Prize winner in critical condition | NPR News</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition</guid>
-      <description>Narges Mohammadi, an Iranian activist and 2023 Nobel Peace Prize laureate, was hospitalized after collapsing in prison. Her family says her condition has deteriorated since a March heart attack. Source: NPR News.</description>
-      <category>world</category>
-      <source url="https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition">NPR News</source>
-      <pubDate>Sat, 02 May 2026 15:57:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Airlines reduce, cap fares for Spirit travelers looking to rebook canceled flights | ABC News</title>
-      <link>https://abcnews.com/Business/airlines-reduce-cap-fares-spirit-travelers-rebook-cancelled/story?id=132598089</link>
-      <guid isPermaLink="true">https://abcnews.com/Business/airlines-reduce-cap-fares-spirit-travelers-rebook-cancelled/story?id=132598089</guid>
-      <description>The Department of Transportation said Saturday the majority of airlines will be capping tickets prices for Spirit travelers who need to rebook their cancelled flights. Source: ABC News.</description>
-      <category>world</category>
-      <source url="https://abcnews.com/Business/airlines-reduce-cap-fares-spirit-travelers-rebook-cancelled/story?id=132598089">ABC News</source>
-      <pubDate>Sat, 02 May 2026 15:37:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>California to begin ticketing driverless cars that violate traffic laws | BBC News</title>
-      <link>https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Under the new rules, police will be able to issue tickets directly to the car&#x27;s manufacturer when an autonomous vehicle breaks a traffic law. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 15:31:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kemi Badenoch apologises after Bloody Sunday footage used in video | BBC News</title>
-      <link>https://www.bbc.com/news/articles/cx21n5kx4d9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cx21n5kx4d9o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Foyle MP Colum Eastwood called on Badenoch to personally apologise after the video was posted online. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/cx21n5kx4d9o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 15:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>WATCH: Reviews are in for ‘The Devil Wears Prada 2’ | ABC News</title>
-      <link>https://abcnews.com/video/132597906/</link>
-      <guid isPermaLink="true">https://abcnews.com/video/132597906/</guid>
-      <description>ABC News’ Will Ganss has the scoop on what fans are saying about the sequel. Source: ABC News.</description>
-      <category>world</category>
-      <source url="https://abcnews.com/video/132597906/">ABC News</source>
-      <pubDate>Sat, 02 May 2026 14:47:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trump likes the idea of the government owning some US companies but took a pass on Spirit Airlines | ABC Business</title>
-      <link>https://abcnews.com/Business/wireStory/trump-likes-idea-government-owning-us-companies-pass-132596551</link>
-      <guid isPermaLink="true">https://abcnews.com/Business/wireStory/trump-likes-idea-government-owning-us-companies-pass-132596551</guid>
-      <description>President Donald Trump has taken a shine to the government taking stakes in the private sector Source: ABC Business.</description>
-      <category>business</category>
-      <source url="https://abcnews.com/Business/wireStory/trump-likes-idea-government-owning-us-companies-pass-132596551">ABC Business</source>
-      <pubDate>Sat, 02 May 2026 14:33:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crowd shrinks as Berkshire Hathaway&#x27;s new CEO leads the annual meeting for the first time Saturday | ABC Business</title>
-      <link>https://abcnews.com/Business/wireStory/crowd-shrinks-berkshire-hathaways-new-ceo-leads-annual-132597284</link>
-      <guid isPermaLink="true">https://abcnews.com/Business/wireStory/crowd-shrinks-berkshire-hathaways-new-ceo-leads-annual-132597284</guid>
-      <description>Berkshire Hathaway’s new CEO Greg Abel opened the first annual meeting without Warren Buffett on stage Saturday Source: ABC Business.</description>
-      <category>business</category>
-      <source url="https://abcnews.com/Business/wireStory/crowd-shrinks-berkshire-hathaways-new-ceo-leads-annual-132597284">ABC Business</source>
-      <pubDate>Sat, 02 May 2026 14:33:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>New Berkshire Hathaway CEO Greg Abel begins leading first annual meeting without Warren Buffett on stage | ABC Business</title>
-      <link>https://abcnews.com/Business/wireStory/new-berkshire-hathaway-ceo-greg-abel-begins-leading-132598734</link>
-      <guid isPermaLink="true">https://abcnews.com/Business/wireStory/new-berkshire-hathaway-ceo-greg-abel-begins-leading-132598734</guid>
-      <description>New Berkshire Hathaway CEO Greg Abel begins leading first annual meeting without Warren Buffett on stage Source: ABC Business.</description>
-      <category>business</category>
-      <source url="https://abcnews.com/Business/wireStory/new-berkshire-hathaway-ceo-greg-abel-begins-leading-132598734">ABC Business</source>
-      <pubDate>Sat, 02 May 2026 14:32:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Four in hospital after drive-by shooting | BBC News</title>
-      <link>https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Four people have been taken to hospital after multiple shots were fired from a vehicle in Brixton. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 14:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>US threatens shipping firms with sanctions if they pay Iran tolls | BBC News</title>
-      <link>https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The warning comes as President Donald Trump said he was &quot;not excited&quot; by Iran&#x27;s latest proposal for a peace deal. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 14:18:14 GMT</pubDate>
+      <title>Anchorage Weather: This Afternoon</title>
+      <link>https://akpulselive.com/weather.html#this-afternoon</link>
+      <guid isPermaLink="false">53adb82eb036cc9a926d74868058f6836b5847fb</guid>
+      <pubDate>Sat, 02 May 2026 22:00:34 GMT</pubDate>
+      <description><![CDATA[48°F | 10 mph S | Slight Chance Light Rain<br><br>A slight chance of rain. Mostly cloudy, with a high near 48. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Alaska Beacon state and legislative daybook for the week of May 4, 2026</title>
       <link>https://alaskabeacon.com/2026/05/02/alaska-beacon-state-and-legislative-daybook-for-the-week-of-may-4-2026/</link>
-      <guid isPermaLink="true">https://alaskabeacon.com/2026/05/02/alaska-beacon-state-and-legislative-daybook-for-the-week-of-may-4-2026/</guid>
-      <description>It’s down to the final weeks of the second legislative session of the 34th Legislature. There will be a joint legislative session on Monday to consider an override vote of Gov. Dunleavy’s veto of a bipartisan elections reform bill. The draft budgets for next fiscal year are taking shape, lawmakers… Source: Alaska Beacon.</description>
-      <category>alaska</category>
-      <source url="https://alaskabeacon.com/2026/05/02/alaska-beacon-state-and-legislative-daybook-for-the-week-of-may-4-2026/">Alaska Beacon</source>
+      <guid isPermaLink="false">34e928a54aff76ddb9b71ac2d5c5f8643067240c</guid>
       <pubDate>Sat, 02 May 2026 13:50:30 GMT</pubDate>
+      <description><![CDATA[It’s down to the final weeks of the second legislative session of the 34th Legislature. There will be a joint legislative session on Monday to consider an override vote of Gov. Dunleavy’s veto of a bipartisan elections reform bill. The draft budgets for next fiscal year are taking shape, lawmakers are considering governor’s appointees for [&#8230;]]]></description>
+      <category>local</category>
     </item>
     <item>
-      <title>Anchorage Weather: Overnight | NWS Anchorage</title>
+      <title>Anchorage Weather: Overnight</title>
       <link>https://akpulselive.com/weather.html#overnight</link>
-      <guid isPermaLink="true">https://akpulselive.com/weather.html#overnight</guid>
-      <description>35°F | 10 mph SE | Chance Rain Showers A chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 10 mph. Chance of precipitation is 50%. Source: NWS Anchorage.</description>
-      <category>weather</category>
-      <source url="https://akpulselive.com/weather.html#overnight">NWS Anchorage</source>
+      <guid isPermaLink="false">40a0b6d670a5bd58384e5549d1fbe8dd7b77431b</guid>
       <pubDate>Sat, 02 May 2026 13:39:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>College football champion Indiana Hoosiers to visit White House this month: Source | ABC News</title>
-      <link>https://abcnews.com/Politics/college-football-champion-indiana-hoosiers-visit-white-house/story?id=132592104</link>
-      <guid isPermaLink="true">https://abcnews.com/Politics/college-football-champion-indiana-hoosiers-visit-white-house/story?id=132592104</guid>
-      <description>The Indiana Hoosiers -- college football&#x27;s national champions -- will visit the White House on Monday, May 11, according to a source familiar with the team&#x27;s plans. Source: ABC News.</description>
-      <category>world</category>
-      <source url="https://abcnews.com/Politics/college-football-champion-indiana-hoosiers-visit-white-house/story?id=132592104">ABC News</source>
-      <pubDate>Sat, 02 May 2026 13:14:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>The remarkable life of Zanardi, a 21st century hero who inspired millions | BBC News</title>
-      <link>https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Alex Zanardi was a 21st century hero - a man who inspired millions through his unquenchable spirit in the face of unbelievable adversity, writes Andrew Benson. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 12:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opinion: The everyday tragedy of gun violence | NPR News</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence</guid>
-      <description>The White House Correspondents Association Dinner was one of several incidents of gun violence in the U.S. last week. Others ended in injuries and fatalities. Source: NPR News.</description>
-      <category>world</category>
-      <source url="https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence">NPR News</source>
-      <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>US consortium takes over Sheffield Wednesday | BBC News</title>
-      <link>https://www.bbc.com/sport/football/articles/c1e278wgqwjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/football/articles/c1e278wgqwjo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Sheffield Wednesday have announced that US consortium Arise Capital Partners has completed a takeover of the club. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/sport/football/articles/c1e278wgqwjo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 11:52:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Winners, losers and a PM on the brink - what to expect in next week&#x27;s elections | BBC News</title>
-      <link>https://www.bbc.com/news/articles/c0q2z7v3ly5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c0q2z7v3ly5o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Believe it or not, Thursday’s local elections aren’t just about the PM’s fate - there’s plenty more at stake. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/c0q2z7v3ly5o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 11:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sewage and agricultural pollution having &#x27;alarming&#x27; impact on UK&#x27;s underwater forests | BBC News</title>
-      <link>https://www.bbc.com/news/articles/cn0pl9j88gno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cn0pl9j88gno?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Scientists found seagrass meadows affected by sewage had far fewer small invertebrates, like crabs. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/cn0pl9j88gno?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 10:46:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can Trump&#x27;s latest pick for surgeon general make it through confirmation? | NPR News</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5808313/nicole-saphier-surgeon-general-trump-confirmation</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5808313/nicole-saphier-surgeon-general-trump-confirmation</guid>
-      <description>Nicole Saphier, a breast cancer radiologist, is the president&#x27;s third nominee for surgeon general. Will she get confirmed? Source: NPR News.</description>
-      <category>world</category>
-      <source url="https://www.npr.org/2026/05/02/nx-s1-5808313/nicole-saphier-surgeon-general-trump-confirmation">NPR News</source>
-      <pubDate>Sat, 02 May 2026 10:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Americans aren&#x27;t sleeping enough. Here&#x27;s what could help | NPR News</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5807074/americans-sleep-better-hours-insomnia</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5807074/americans-sleep-better-hours-insomnia</guid>
-      <description>Nearly a third of Americans get less than the recommended seven hours of sleep a night. A lot of us struggle to get to bed as we power through tasks or get lost in endless scrolling. Here&#x27;s help. Source: NPR News.</description>
-      <category>world</category>
-      <source url="https://www.npr.org/2026/05/02/nx-s1-5807074/americans-sleep-better-hours-insomnia">NPR News</source>
-      <pubDate>Sat, 02 May 2026 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Police station car bomb accused appears before court | BBC News</title>
-      <link>https://www.bbc.com/news/articles/c4g4x38dpdjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c4g4x38dpdjo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>A 66 year old appears before a court a week after a bomb exploded outside Dunmurry Police Station. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/c4g4x38dpdjo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 10:27:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight | NWS Anchorage</title>
-      <link>https://akpulselive.com/weather.html#tonight</link>
-      <guid isPermaLink="true">https://akpulselive.com/weather.html#tonight</guid>
-      <description>39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%. Source: NWS Anchorage.</description>
+      <description><![CDATA[35°F | 10 mph SE | Chance Rain Showers<br><br>A chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 10 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
-      <source url="https://akpulselive.com/weather.html#tonight">NWS Anchorage</source>
+    </item>
+    <item>
+      <title>Anchorage Weather: Tonight</title>
+      <link>https://akpulselive.com/weather.html#tonight</link>
+      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
       <pubDate>Sat, 02 May 2026 10:26:59 GMT</pubDate>
+      <description><![CDATA[39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.]]></description>
+      <category>weather</category>
     </item>
     <item>
-      <title>New Netflix documentary reexamines Winnie Mandela&#x27;s divisive legacy | NPR News</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela</guid>
-      <description>Winnie Madikizela-Mandela is one of the most revered — and controversial — women in South African history. In a new documentary her granddaughters examine the liberation icon in all her complexity. Source: NPR News.</description>
-      <category>world</category>
-      <source url="https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela">NPR News</source>
-      <pubDate>Sat, 02 May 2026 10:00:00 GMT</pubDate>
+      <title>Newscast – Friday, May 01, 2026</title>
+      <link>https://www.ktoo.org/2026/05/01/newscast-friday-may-01-2026/</link>
+      <guid isPermaLink="false">3bba6419d1c4b3619849869ac0d82e6cb54cbe8f</guid>
+      <pubDate>Sat, 02 May 2026 01:00:34 GMT</pubDate>
+      <description><![CDATA[In this newscast: Two people were sent to Bartlett Regional Hospital for minor injuries after a Goldbelt Tram car came to an abrupt halt at its bottom terminal while making its way down Mount Roberts last night. That’s according to Capital City Fire and Rescue; The University of Alaska system will have a new president this summer. The Board of Regents appointed Fairbanks attorney Matt Cooper to the role this morning. He formerly served as general counsel for the university; It’s that time of year again when we’re all told to be “bear aware.” Bear encounters can happen when we’re hiking, camping or even just walking through town. KTOO’s Mike Lane recently sat down with Area Management Biologist Carl Koch with Fish and Game Wildlife Conservation to learn what attracts the bears and how we can limit encounters; Decisions about Alaskan schools are almost always made by administrators, school board members and lawmakers. But students also play a role. Twice a year, student leaders from across the state gather at the Alaska Association of Student Government conference to decide on goals to improve their schools.]]></description>
+      <category>local</category>
     </item>
     <item>
-      <title>Star-studded line-up announced for Celebrity Traitors series two | BBC News</title>
-      <link>https://www.bbc.com/news/articles/c5yx5w43jzko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c5yx5w43jzko?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Miranda Hart, Maya Jama, and Eastenders legend Ross Kemp are among the stars who will go head-to-head in the second series of The Celebrity Traitors. Source: BBC News.</description>
+      <title>Jazz &amp; Classics Spring Festival | Spring Winds from Juneau Community Bands | Foster Care Awareness Month with Tlingit &amp; Haida</title>
+      <link>https://www.ktoo.org/2026/05/01/jpm-05-01-26/</link>
+      <guid isPermaLink="false">ecc5143f2f62f474e877694c703d559b3b001cb9</guid>
+      <pubDate>Sat, 02 May 2026 00:18:13 GMT</pubDate>
+      <description><![CDATA[Juneau Afternoon featuring Foster Care Awareness Month with Tlingit &#038; Haida, Juneau Jazz &#038; Classics 40th Spring Festival, and Spring Winds concert from Juneau Community Bands.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Relatives, friends and supporters walk to bring attention to Alaska Indigenous victims</title>
+      <link>https://alaskabeacon.com/briefs/relatives-friends-and-supporters-walk-to-bring-attention-to-alaska-indigenous-victims/</link>
+      <guid isPermaLink="false">4e7c33283159050bd2ace14caeeffdf8cf1d8a86</guid>
+      <pubDate>Sat, 02 May 2026 00:13:43 GMT</pubDate>
+      <description><![CDATA[Relatives and friends of murdered and missing Indigenous Alaskans took their grief to the streets of Midtown Anchorage on Thursday. The event was the third annual Walk for Missing and Murdered Indigenous People hosted by the Alaska Native Science and Engineering Program at the University of Alaska Anchorage. Led by members of the Qissunamiut Yurartet [&#8230;]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Appeals court blocks remote access to abortion medication nationwide</title>
+      <link>https://alaskabeacon.com/2026/05/01/repub/appeals-court-blocks-remote-access-to-abortion-medication-nationwide/</link>
+      <guid isPermaLink="false">accf2bb18d63c6d77023187ebdd8ce5b7b3e117d</guid>
+      <pubDate>Fri, 01 May 2026 23:16:35 GMT</pubDate>
+      <description><![CDATA[One of the main methods of obtaining abortion medication for those living in states with bans is now blocked nationwide, after a federal appeals court decision issued Friday afternoon. The 5th Circuit Court of Appeals blocked a U.S. Food and Drug Administration rule from 2023 that allowed mifepristone, one of two drugs used to terminate [&#8230;]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska Republican gubernatorial candidate Shelley Hughes picks Blake Gettys as running mate</title>
+      <link>https://alaskabeacon.com/briefs/alaska-republican-gubernatorial-candidate-shelley-hughes-picks-blake-gettys-as-running-mate/</link>
+      <guid isPermaLink="false">063f90d59b4c4333feca0a98b311c981273cdbc6</guid>
+      <pubDate>Fri, 01 May 2026 23:12:26 GMT</pubDate>
+      <description><![CDATA[Blake Gettys, a retired U.S. Air Force brigadier general, will run for lieutenant governor alongside Republican gubernatorial candidate Shelley Hughes, the duo announced Thursday in Anchorage. Incumbent Alaska Gov. Mike Dunleavy, a Republican, is term-limited after serving from 2018 to 2026. Hughes is one of 18 candidates for Alaska governor. Blake Gettys, 60, of Eagle [&#8230;]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Watch: Match of the Day</title>
+      <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f5c367ce27316877e08e31ff22a08ea18dc41a6b</guid>
+      <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[Highlights of five Premier League games, including title-chasing Arsenal versus Fulham.]]></description>
       <category>world</category>
-      <source url="https://www.bbc.com/news/articles/c5yx5w43jzko?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 09:57:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Antonelli takes Miami pole from Verstappen</title>
+      <link>https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">71fe2653fd93b3116f5725477ccb6d19b5941cd1</guid>
+      <pubDate>Sat, 02 May 2026 21:40:15 GMT</pubDate>
+      <description><![CDATA[Mercedes driver Kimi Antonelli bounces back from a difficult sprint race to take pole position for the Miami Grand Prix.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Airlines can cancel flights in advance over fuel shortages, under new plans</title>
+      <link>https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0e9653a8fed83dcf8d256d8e4efda922efb58216</guid>
+      <pubDate>Sat, 02 May 2026 21:35:09 GMT</pubDate>
+      <description><![CDATA[Ministers hope move would help avoid last-minute flight cancellations for passengers this summer over Middle East fuel supplies.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Man charged after bomb hoax at Peter Kay show</title>
+      <link>https://www.bbc.com/news/articles/c1d2pvle9lqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7996befecbb3229f4867b53613fbd97ed0f71f54</guid>
+      <pubDate>Sat, 02 May 2026 21:28:32 GMT</pubDate>
+      <description><![CDATA[Omar Majed, of Washwood Heath, Birmingham will appear in court on Monday, police said.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Stop families who choose not to work getting unlimited benefits, Tories say</title>
+      <link>https://www.bbc.com/news/articles/cm2pm41z1nxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ffc562794801aa183ef7c68e403523ff4b7d75cf</guid>
+      <pubDate>Sat, 02 May 2026 21:00:45 GMT</pubDate>
+      <description><![CDATA[The party says removing some exemptions to the household benefit cap would save £1bn a year.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Timmy the stranded whale rescued after weekslong effort</title>
+      <link>https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort</link>
+      <guid isPermaLink="false">356ba6e4a324079bb617a7d50722be4a32991115</guid>
+      <pubDate>Sat, 02 May 2026 20:51:24 GMT</pubDate>
+      <description><![CDATA[Timmy captured the hearts of whale lovers across the globe who rooted for a happy ending for the humpback.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Has much-maligned Gyokeres proved his critics wrong?</title>
+      <link>https://www.bbc.com/sport/football/articles/cdjp3v7lv8mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fcff7693e3f1af78f1a1118d5ab2e64007fab33e</guid>
+      <pubDate>Sat, 02 May 2026 20:45:15 GMT</pubDate>
+      <description><![CDATA[The talk before the season was that Arsenal needed a 20-goal-a-season striker to win a trophy - and now they finally have one in Viktor Gyokeres.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Three red cards for hair pulling in 2026 - is it time to change law?</title>
+      <link>https://www.bbc.com/sport/football/articles/cgkp15ejk5lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5da9d07b60ea08a761512337c5c9e2e39e54125b</guid>
+      <pubDate>Sat, 02 May 2026 20:41:27 GMT</pubDate>
+      <description><![CDATA[Sunderland defender Dan Ballard becomes the third player to be sent off for pulling an opponent's hair in the Premier League this season. Is it time to change the law?]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Padres announce agreement to sell team to investor group led by Kwanza Jones and José E. Feliciano</title>
+      <link>https://abcnews.com/Business/wireStory/padres-announce-agreement-sell-team-investor-group-led-132605639</link>
+      <guid isPermaLink="false">febe5029777d2c195ca5e985de77d8d82627e47c</guid>
+      <pubDate>Sat, 02 May 2026 20:38:59 GMT</pubDate>
+      <description><![CDATA[The San Diego Padres have reached an agreement to sell control of the team to an investor group led by Kwanza Jones and Jos&eacute; E]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Academy announces major overhaul to rules</title>
+      <link>https://www.npr.org/2026/05/02/nx-s1-5808894/oscars-2027-99th-academy-awards-rule-changes</link>
+      <guid isPermaLink="false">0ec973cc20ce9ee55084fe7e721de3a21a1a5c01</guid>
+      <pubDate>Sat, 02 May 2026 20:34:59 GMT</pubDate>
+      <description><![CDATA[The new rules focus on areas such as AI protections for writers and actors and expanded eligibility for international films.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Supreme Court asked to restore access to mail-order abortion pill</title>
+      <link>https://abcnews.com/Politics/supreme-court-asked-restore-access-mail-order-abortion/story?id=132604063</link>
+      <guid isPermaLink="false">69d622f18487b14cab3661bd562a65c18b3562bb</guid>
+      <pubDate>Sat, 02 May 2026 20:09:16 GMT</pubDate>
+      <description><![CDATA[A pharma company that produces mifepristone asked the Supreme Court to lift a lower court’s ruling barring health providers from dispensing the abortion pill by mail.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Taiwan's Lai lands in Eswatini in a trip delayed by lack of overflight clearance</title>
+      <link>https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance</link>
+      <guid isPermaLink="false">4caeec5fdea83500c62007b8640845932c3f4e19</guid>
+      <pubDate>Sat, 02 May 2026 19:48:30 GMT</pubDate>
+      <description><![CDATA[Eswatini remains the only African nation without tariff-free access to China's market due to its ties with Taiwan.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Man arrested in Austria after rat poison found in baby food jars</title>
+      <link>https://www.bbc.com/news/articles/cm2pmdj2v39o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f143648b0526943b562c18dfe57898d3e15d2026</guid>
+      <pubDate>Sat, 02 May 2026 19:44:17 GMT</pubDate>
+      <description><![CDATA[A jar of HiPP purée containing the poison was found in Austria, prompting a recall by the manufacturer.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Woodwork woe and a Spurs lifeline - West Ham suffer in survival fight</title>
+      <link>https://www.bbc.com/sport/football/articles/c3e28l439v4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a217567072b04c61159181dbcde9a2c4eca9bb3a</guid>
+      <pubDate>Sat, 02 May 2026 19:26:49 GMT</pubDate>
+      <description><![CDATA[Tottenham were the biggest winners as fellow Premier League strugglers West Ham hit the woodwork four times in their 3-0 defeat at Brentford.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WATCH: New dating trend turning errands into romance</title>
+      <link>https://abcnews.com/video/132604631/</link>
+      <guid isPermaLink="false">1658569d6c8e7ffe5a275bf0b245c1a7d1e18bf3</guid>
+      <pubDate>Sat, 02 May 2026 19:09:31 GMT</pubDate>
+      <description><![CDATA[Author Bruce Y. Lee explains the term "choremancing" and how it's becoming popular in the world of dating.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Arsenal beat Fulham to move six points clear of Man City</title>
+      <link>https://www.bbc.com/sport/football/videos/c1m2033g12no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">57326650ff5cfa61c9ec4c4501975556b15027b2</guid>
+      <pubDate>Sat, 02 May 2026 19:00:24 GMT</pubDate>
+      <description><![CDATA[Watch highlights as Arsenal beat Fulham 3-0 to move six points clear of Manchester City at the top of the Premier League.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>King launches Space Agency project on final day in Bermuda</title>
+      <link>https://www.bbc.com/news/articles/cn4pvnpejw9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c6e516bd3e750e451be1d19e845bae6f894e6d25</guid>
+      <pubDate>Sat, 02 May 2026 18:08:38 GMT</pubDate>
+      <description><![CDATA[The King concludes his visit to the British overseas territory after landing from the US on Thursday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Calls grow over hospital care for jailed Iranian Nobel laureate Narges Mohammadi</title>
+      <link>https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">382c272bd5f016422ae2b3954ea1a05d1d257f59</guid>
+      <pubDate>Sat, 02 May 2026 17:55:06 GMT</pubDate>
+      <description><![CDATA[On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Banksy confirms new statue installed in central London is his work</title>
+      <link>https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london</link>
+      <guid isPermaLink="false">5b802437d0164d313cd3c6e11ea0eb3ddb4f34ad</guid>
+      <pubDate>Sat, 02 May 2026 17:25:40 GMT</pubDate>
+      <description><![CDATA[The statue in Waterloo Place, which appeared early Wednesday, depicts a man proudly hoisting a flag— but the flag is blinding him.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Are Ipswich better equipped for Premier League this time?</title>
+      <link>https://www.bbc.com/sport/football/articles/ckgpw5ye21jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e6699c4c5cd494f46cfc66f31e367b8368667185</guid>
+      <pubDate>Sat, 02 May 2026 17:17:27 GMT</pubDate>
+      <description><![CDATA[Ipswich Town have won promotion from the Championship for the second time in three years - but are they better equipped for the Premier League in 2026?]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Taiwan president visits Eswatini days after blaming China for cancelled trip</title>
+      <link>https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">14119d0046e070985dcf38204d9833f44bcf1801</guid>
+      <pubDate>Sat, 02 May 2026 17:01:47 GMT</pubDate>
+      <description><![CDATA[It is unclear how he reached Eswatini. China described his visit as a "stowaway-style escape farce".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Murphy powers past Higgins to reach Crucible final</title>
+      <link>https://www.bbc.com/sport/snooker/articles/cgmpvp09e07o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fb362155317856d96495a680b0c49d35c999ecb0</guid>
+      <pubDate>Sat, 02 May 2026 16:57:22 GMT</pubDate>
+      <description><![CDATA[Shaun Murphy powers to a 17-15 victory over John Higgins to reach his fifth World Championship final at the Crucible Theatre in Sheffield.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Norris takes dominant win in Miami sprint race</title>
+      <link>https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e7c53f1d7677d82d996cfe24305a15441a6da612</guid>
+      <pubDate>Sat, 02 May 2026 16:52:49 GMT</pubDate>
+      <description><![CDATA[Lando Norris takes McLaren's first victory of the 2026 season with a dominant drive from pole position in the Miami Grand Prix sprint race.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification</title>
+      <link>https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">000b8d8dc73a387ab4878c41036f256292d81979</guid>
+      <pubDate>Sat, 02 May 2026 16:35:18 GMT</pubDate>
+      <description><![CDATA[German Defence Minister Boris Pistorius said the US decision to withdraw 5,000 troops was to be expected.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Imprisoned Iranian Nobel Peace Prize winner in critical condition</title>
+      <link>https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition</link>
+      <guid isPermaLink="false">d71600b55e58bd2383a30c6e0812ed11058ede4d</guid>
+      <pubDate>Sat, 02 May 2026 15:57:43 GMT</pubDate>
+      <description><![CDATA[Narges Mohammadi, an Iranian activist and 2023 Nobel Peace Prize laureate, was hospitalized after collapsing in prison. Her family says her condition has deteriorated since a March heart attack.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Airlines reduce, cap fares for Spirit travelers looking to rebook canceled flights</title>
+      <link>https://abcnews.com/Business/airlines-reduce-cap-fares-spirit-travelers-rebook-cancelled/story?id=132598089</link>
+      <guid isPermaLink="false">67fa7e2aafd7ace7aea4a840a9a4bb6a0436db1c</guid>
+      <pubDate>Sat, 02 May 2026 15:37:21 GMT</pubDate>
+      <description><![CDATA[The Department of Transportation said Saturday the majority of airlines will be capping tickets prices for Spirit travelers who need to rebook their cancelled flights.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>California to begin ticketing driverless cars that violate traffic laws</title>
+      <link>https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">dfab5041e566e257dd255bac9264254d9702fccb</guid>
+      <pubDate>Sat, 02 May 2026 15:31:40 GMT</pubDate>
+      <description><![CDATA[Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kemi Badenoch apologises after Bloody Sunday footage used in video</title>
+      <link>https://www.bbc.com/news/articles/cx21n5kx4d9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1a75a4bc0e9184eead0e26c091ef833d6b14afa0</guid>
+      <pubDate>Sat, 02 May 2026 15:14:25 GMT</pubDate>
+      <description><![CDATA[Foyle MP Colum Eastwood called on Badenoch to personally apologise after the video was posted online.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WATCH: Reviews are in for ‘The Devil Wears Prada 2’</title>
+      <link>https://abcnews.com/video/132597906/</link>
+      <guid isPermaLink="false">a5cb5fde8446df89226cca935b1106ddb3306578</guid>
+      <pubDate>Sat, 02 May 2026 14:47:48 GMT</pubDate>
+      <description><![CDATA[ABC News’ Will Ganss has the scoop on what fans are saying about the sequel.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump likes the idea of the government owning some US companies but took a pass on Spirit Airlines</title>
+      <link>https://abcnews.com/Business/wireStory/trump-likes-idea-government-owning-us-companies-pass-132596551</link>
+      <guid isPermaLink="false">bba9d76d4b296c36422392352003250694e3c560</guid>
+      <pubDate>Sat, 02 May 2026 14:33:57 GMT</pubDate>
+      <description><![CDATA[President Donald Trump has taken a shine to the government taking stakes in the private sector]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>Crowd shrinks as Berkshire Hathaway's new CEO leads the annual meeting for the first time Saturday</title>
+      <link>https://abcnews.com/Business/wireStory/crowd-shrinks-berkshire-hathaways-new-ceo-leads-annual-132597284</link>
+      <guid isPermaLink="false">bd2393fb0592d46640cf8b09ff55ca1058d03358</guid>
+      <pubDate>Sat, 02 May 2026 14:33:36 GMT</pubDate>
+      <description><![CDATA[Berkshire Hathaway&rsquo;s new CEO Greg Abel opened the first annual meeting without Warren Buffett on stage Saturday]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>New Berkshire Hathaway CEO Greg Abel begins leading first annual meeting without Warren Buffett on stage</title>
+      <link>https://abcnews.com/Business/wireStory/new-berkshire-hathaway-ceo-greg-abel-begins-leading-132598734</link>
+      <guid isPermaLink="false">4d98495cbded12e1bc67a97e46608616bf0ee2b3</guid>
+      <pubDate>Sat, 02 May 2026 14:32:58 GMT</pubDate>
+      <description><![CDATA[New Berkshire Hathaway CEO Greg Abel begins leading first annual meeting without Warren Buffett on stage]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>Four in hospital after drive-by shooting</title>
+      <link>https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">184f888345dd4aec128c5c770974837dbc931f08</guid>
+      <pubDate>Sat, 02 May 2026 14:32:24 GMT</pubDate>
+      <description><![CDATA[Four people have been taken to hospital after multiple shots were fired from a vehicle in Brixton.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US threatens shipping firms with sanctions if they pay Iran tolls</title>
+      <link>https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">36333e4ce18c20093ed788f07ece16a1c6948091</guid>
+      <pubDate>Sat, 02 May 2026 14:18:14 GMT</pubDate>
+      <description><![CDATA[The warning comes as President Donald Trump said he was "not excited" by Iran's latest proposal for a peace deal.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>College football champion Indiana Hoosiers to visit White House this month: Source</title>
+      <link>https://abcnews.com/Politics/college-football-champion-indiana-hoosiers-visit-white-house/story?id=132592104</link>
+      <guid isPermaLink="false">955be255bfedf22c7119f8e9b6584ff51708a890</guid>
+      <pubDate>Sat, 02 May 2026 13:14:32 GMT</pubDate>
+      <description><![CDATA[The Indiana Hoosiers -- college football's national champions -- will visit the White House on Monday, May 11, according to a source familiar with the team's plans.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The remarkable life of Zanardi, a 21st century hero who inspired millions</title>
+      <link>https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ab831204d94e4624f4661b19694f3c39eff34dc6</guid>
+      <pubDate>Sat, 02 May 2026 12:02:43 GMT</pubDate>
+      <description><![CDATA[Alex Zanardi was a 21st century hero - a man who inspired millions through his unquenchable spirit in the face of unbelievable adversity, writes Andrew Benson.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Opinion: The everyday tragedy of gun violence</title>
+      <link>https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence</link>
+      <guid isPermaLink="false">38a917cd032e360ef1d3ee396774f73272ad69de</guid>
+      <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
+      <description><![CDATA[The White House Correspondents Association Dinner was one of several incidents of gun violence in the U.S. last week. Others ended in injuries and fatalities.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US consortium takes over Sheffield Wednesday</title>
+      <link>https://www.bbc.com/sport/football/articles/c1e278wgqwjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0950ea7f8f2c74ecbcf8af44e22b657780397520</guid>
+      <pubDate>Sat, 02 May 2026 11:52:17 GMT</pubDate>
+      <description><![CDATA[Sheffield Wednesday have announced that US consortium Arise Capital Partners has completed a takeover of the club.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Winners, losers and a PM on the brink - what to expect in next week's elections</title>
+      <link>https://www.bbc.com/news/articles/c0q2z7v3ly5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a611478bca6cb7993bd9bbe0c9dea818bdfbe201</guid>
+      <pubDate>Sat, 02 May 2026 11:03:41 GMT</pubDate>
+      <description><![CDATA[Believe it or not, Thursday’s local elections aren’t just about the PM’s fate - there’s plenty more at stake.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sewage and agricultural pollution having 'alarming' impact on UK's underwater forests</title>
+      <link>https://www.bbc.com/news/articles/cn0pl9j88gno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8773b34c94bf0d60bfce37d81f85531d7dbd546e</guid>
+      <pubDate>Sat, 02 May 2026 10:46:54 GMT</pubDate>
+      <description><![CDATA[Scientists found seagrass meadows affected by sewage had far fewer small invertebrates, like crabs.]]></description>
+      <category>world</category>
     </item>
   </channel>
 </rss>
