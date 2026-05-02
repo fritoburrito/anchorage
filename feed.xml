@@ -5,8 +5,53 @@
     <link>https://akpulselive.com/</link>
     <description>Fresh Alaska headlines, weather, community updates, and curated news feeds.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 20:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 21:43:00 GMT</lastBuildDate>
     <atom:link href="https://akpulselive.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Watch: Match of the Day | BBC News</title>
+      <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Highlights of five Premier League games, including title-chasing Arsenal versus Fulham. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anchorage Weather: Today | NWS Anchorage</title>
+      <link>https://akpulselive.com/weather.html#today</link>
+      <guid isPermaLink="true">https://akpulselive.com/weather.html#today</guid>
+      <description>48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. Source: NWS Anchorage.</description>
+      <category>weather</category>
+      <source url="https://akpulselive.com/weather.html#today">NWS Anchorage</source>
+      <pubDate>Sat, 02 May 2026 21:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Airlines can cancel flights in advance over fuel shortages, under new plans | BBC News</title>
+      <link>https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Ministers hope move would help avoid last-minute flight cancellations for passengers this summer over Middle East fuel supplies. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Sat, 02 May 2026 21:35:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Man charged after bomb hoax at Peter Kay show | BBC News</title>
+      <link>https://www.bbc.com/news/articles/c1d2pvle9lqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c1d2pvle9lqo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Omar Majed, of Washwood Heath, Birmingham will appear in court on Monday, police said. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/c1d2pvle9lqo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Sat, 02 May 2026 21:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop families who choose not to work getting unlimited benefits, Tories say | BBC News</title>
+      <link>https://www.bbc.com/news/articles/cm2pm41z1nxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cm2pm41z1nxo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The party says removing some exemptions to the household benefit cap would save £1bn a year. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/news/articles/cm2pm41z1nxo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Sat, 02 May 2026 21:00:45 GMT</pubDate>
+    </item>
     <item>
       <title>Anchorage Weather: This Afternoon | NWS Anchorage</title>
       <link>https://akpulselive.com/weather.html#this-afternoon</link>
@@ -15,6 +60,15 @@
       <category>weather</category>
       <source url="https://akpulselive.com/weather.html#this-afternoon">NWS Anchorage</source>
       <pubDate>Sat, 02 May 2026 20:53:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Timmy the stranded whale rescued after weekslong effort | NPR News</title>
+      <link>https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort</guid>
+      <description>Timmy captured the hearts of whale lovers across the globe who rooted for a happy ending for the humpback. Source: NPR News.</description>
+      <category>world</category>
+      <source url="https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort">NPR News</source>
+      <pubDate>Sat, 02 May 2026 20:51:24 GMT</pubDate>
     </item>
     <item>
       <title>Has much-maligned Gyokeres proved his critics wrong? | BBC News</title>
@@ -78,15 +132,6 @@
       <category>world</category>
       <source url="https://www.bbc.com/news/articles/cm2pmdj2v39o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 19:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today | NWS Anchorage</title>
-      <link>https://akpulselive.com/weather.html#today</link>
-      <guid isPermaLink="true">https://akpulselive.com/weather.html#today</guid>
-      <description>48°F | 5 to 10 mph S | Chance Light Rain A chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. Source: NWS Anchorage.</description>
-      <category>weather</category>
-      <source url="https://akpulselive.com/weather.html#today">NWS Anchorage</source>
-      <pubDate>Sat, 02 May 2026 19:12:12 GMT</pubDate>
     </item>
     <item>
       <title>WATCH: New dating trend turning errands into romance | ABC News</title>
@@ -411,51 +456,6 @@
       <category>world</category>
       <source url="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768">ABC News</source>
       <pubDate>Sat, 02 May 2026 09:48:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thirteen killed in Israeli strikes on southern Lebanon, health ministry says | BBC News</title>
-      <link>https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 09:41:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ex-F1 driver and Paralympic cycling champion Zanardi dies | BBC News</title>
-      <link>https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Former Formula 1 driver and Paralympic champion Alex Zanardi dies at the age of 59. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 09:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chris Mason: PM seeks to draw contrast with critics within his party and beyond | BBC News</title>
-      <link>https://www.bbc.com/news/articles/clypj2z614mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/clypj2z614mo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>In his interview with the Today Programme, Sir Keir Starmer addressed the whirlwind of recent events, from wars to rising antisemitism. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/clypj2z614mo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 09:04:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>After Assad&#x27;s fall, Syria&#x27;s Kurds are left in limbo, feeling abandoned by the U.S. | NPR News</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5781847/syria-kurds-abandoned-trump-us</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5781847/syria-kurds-abandoned-trump-us</guid>
-      <description>Caught in limbo after the fall of Syria&#x27;s Bashar al-Assad, Kurdish families struggle with cold, loss and uncertainty — feeling abandoned by the U.S. allies they once fought alongside. Source: NPR News.</description>
-      <category>world</category>
-      <source url="https://www.npr.org/2026/05/02/nx-s1-5781847/syria-kurds-abandoned-trump-us">NPR News</source>
-      <pubDate>Sat, 02 May 2026 09:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 Senate races to watch: From most likely to flip to Democratic long shots | NPR News</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5806271/2026-midterm-elections-control-senate-race</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5806271/2026-midterm-elections-control-senate-race</guid>
-      <description>Democrats could have a narrow path to winning the Senate, with these specific states on the table. Source: NPR News.</description>
-      <category>world</category>
-      <source url="https://www.npr.org/2026/05/02/nx-s1-5806271/2026-midterm-elections-control-senate-race">NPR News</source>
-      <pubDate>Sat, 02 May 2026 09:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
