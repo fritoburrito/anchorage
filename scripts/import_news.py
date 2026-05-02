@@ -75,7 +75,13 @@ def auto_category(title, summary, default):
     return default
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    headers = {
+        "User-Agent": "AKPulseLive/1.0 by u/akpulsebot (https://akpulselive.com)",
+        "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8"
+    }
+
+    req = urllib.request.Request(url, headers=headers)
+
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
         return r.read().decode("utf-8", "ignore")
 
