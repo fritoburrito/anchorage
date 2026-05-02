@@ -510,9 +510,9 @@ function updateWeather(weatherItems) {
 
   const item = weatherItems[0];
   const desc = cleanHtml(textOf(item, "description"));
-  const tempMatch = desc.match(/\\b\\d+°[FC]\\b/);
+  const tempMatch = desc.match(/\b\d+\s*°?\s*[FC]\b/i);
   const temp = tempMatch ? tempMatch[0] : "—";
-
+  const tempMatch = desc.match(/\b\d+\s*°?\s*[FC]\b/i);
   widget.innerHTML = `
     <h3>Anchorage Weather</h3>
     <div class="weather-temp">${temp}</div>
