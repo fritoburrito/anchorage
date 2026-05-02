@@ -16,14 +16,40 @@
     "title": "Anchorage Weather: Today",
     "link": "https://akpulselive.com/weather.html#today",
     "url": "https://akpulselive.com/weather.html#today",
-    "summary": "48°F | 5 to 10 mph S | Chance Light Rain<br><br>A chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%.",
-    "description": "48°F | 5 to 10 mph S | Chance Light Rain<br><br>A chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%.",
+    "summary": "48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain<br><br>A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.",
+    "description": "48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain<br><br>A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.",
     "source": "NWS Anchorage",
     "category": "weather",
     "tag": "weather",
-    "pubDate": "Sat, 02 May 2026 23:39:33 GMT",
-    "published": "2026-05-02T23:39:33.256033+00:00",
-    "created_utc": "2026-05-02T23:39:33.256033+00:00"
+    "pubDate": "Sat, 02 May 2026 23:45:29 GMT",
+    "published": "2026-05-02T23:45:29.848404+00:00",
+    "created_utc": "2026-05-02T23:45:29.848404+00:00"
+  },
+  {
+    "title": "Drivers 'thrown in deep end' for expected wet race",
+    "link": "https://www.bbc.com/sport/formula1/articles/c1j20lppnl3o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/sport/formula1/articles/c1j20lppnl3o?at_medium=RSS&at_campaign=rss",
+    "summary": "Lando Norris says the Formula 1 drivers will be \"thrown in at the deep end\" by expected wet conditions for the Miami Grand Prix.",
+    "description": "Lando Norris says the Formula 1 drivers will be \"thrown in at the deep end\" by expected wet conditions for the Miami Grand Prix.",
+    "source": "BBC News",
+    "category": "world",
+    "tag": "bbc",
+    "pubDate": "Sat, 02 May 2026 23:36:02 GMT",
+    "published": "2026-05-02T23:36:02+00:00",
+    "created_utc": "2026-05-02T23:36:02+00:00"
+  },
+  {
+    "title": "Iran submits 14-point response to U.S. proposal to end war",
+    "link": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal",
+    "url": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal",
+    "summary": "Iran has presented a 14-point response to the U.S. proposal to end the war, according to Iranian state media.",
+    "description": "Iran has presented a 14-point response to the U.S. proposal to end the war, according to Iranian state media.",
+    "source": "NPR News",
+    "category": "world",
+    "tag": "npr",
+    "pubDate": "Sat, 02 May 2026 23:35:01 GMT",
+    "published": "2026-05-02T19:35:01-04:00",
+    "created_utc": "2026-05-02T19:35:01-04:00"
   },
   {
     "title": "Anchorage Weather: This Afternoon",
@@ -1272,31 +1298,5 @@
     "pubDate": "Fri, 01 May 2026 23:12:26 GMT",
     "published": "2026-05-01T23:12:26+00:00",
     "created_utc": "2026-05-01T23:12:26+00:00"
-  },
-  {
-    "title": "My shopping addiction hijacked my life. Now I realise what caused it",
-    "link": "https://www.bbc.com/news/articles/cm2pzv484nlo?at_medium=RSS&at_campaign=rss",
-    "url": "https://www.bbc.com/news/articles/cm2pzv484nlo?at_medium=RSS&at_campaign=rss",
-    "summary": "Children's author Sally Gardner says her extravagant shopping sprees left her feeling \"ashamed\".",
-    "description": "Children's author Sally Gardner says her extravagant shopping sprees left her feeling \"ashamed\".",
-    "source": "BBC News",
-    "category": "world",
-    "tag": "bbc",
-    "pubDate": "Fri, 01 May 2026 23:12:17 GMT",
-    "published": "2026-05-01T23:12:17+00:00",
-    "created_utc": "2026-05-01T23:12:17+00:00"
-  },
-  {
-    "title": "US to withdraw 5,000 troops from Germany",
-    "link": "https://abcnews.com/International/us-withdraw-5000-troops-germany/story?id=132587562",
-    "url": "https://abcnews.com/International/us-withdraw-5000-troops-germany/story?id=132587562",
-    "summary": "Defense Secretary Pete Hegseth is ordering the withdrawal of about 5,000 U.S. troops from Germany, the Pentagon announced Friday.",
-    "description": "Defense Secretary Pete Hegseth is ordering the withdrawal of about 5,000 U.S. troops from Germany, the Pentagon announced Friday.",
-    "source": "ABC News",
-    "category": "world",
-    "tag": "abc",
-    "pubDate": "Fri, 01 May 2026 23:06:56 GMT",
-    "published": "2026-05-01T19:06:56-04:00",
-    "created_utc": "2026-05-01T19:06:56-04:00"
   }
 ]

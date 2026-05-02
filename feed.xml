@@ -5,13 +5,13 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 23:39:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 23:45:29 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today</title>
       <link>https://akpulselive.com/weather.html#today</link>
       <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
-      <pubDate>Sat, 02 May 2026 23:39:33 GMT</pubDate>
-      <description><![CDATA[48°F | 5 to 10 mph S | Chance Light Rain<br><br>A chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Sat, 02 May 2026 23:45:29 GMT</pubDate>
+      <description><![CDATA[48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain<br><br>A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -100,6 +100,22 @@
       <guid isPermaLink="false">f5c367ce27316877e08e31ff22a08ea18dc41a6b</guid>
       <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[Highlights of five Premier League games, including title-chasing Arsenal versus Fulham.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Drivers 'thrown in deep end' for expected wet race</title>
+      <link>https://www.bbc.com/sport/formula1/articles/c1j20lppnl3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a12d0107d8bf19612084014513009af2c33fdbd3</guid>
+      <pubDate>Sat, 02 May 2026 23:36:02 GMT</pubDate>
+      <description><![CDATA[Lando Norris says the Formula 1 drivers will be "thrown in at the deep end" by expected wet conditions for the Miami Grand Prix.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iran submits 14-point response to U.S. proposal to end war</title>
+      <link>https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal</link>
+      <guid isPermaLink="false">d64074c6ca4cdb8c900080cbfc594344d8539423</guid>
+      <pubDate>Sat, 02 May 2026 23:35:01 GMT</pubDate>
+      <description><![CDATA[Iran has presented a 14-point response to the U.S. proposal to end the war, according to Iranian state media.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">bba9d76d4b296c36422392352003250694e3c560</guid>
       <pubDate>Sat, 02 May 2026 14:33:57 GMT</pubDate>
       <description><![CDATA[President Donald Trump has taken a shine to the government taking stakes in the private sector]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>Crowd shrinks as Berkshire Hathaway's new CEO leads the annual meeting for the first time Saturday</title>
-      <link>https://abcnews.com/Business/wireStory/crowd-shrinks-berkshire-hathaways-new-ceo-leads-annual-132597284</link>
-      <guid isPermaLink="false">bd2393fb0592d46640cf8b09ff55ca1058d03358</guid>
-      <pubDate>Sat, 02 May 2026 14:33:36 GMT</pubDate>
-      <description><![CDATA[Berkshire Hathaway&rsquo;s new CEO Greg Abel opened the first annual meeting without Warren Buffett on stage Saturday]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>New Berkshire Hathaway CEO Greg Abel begins leading first annual meeting without Warren Buffett on stage</title>
-      <link>https://abcnews.com/Business/wireStory/new-berkshire-hathaway-ceo-greg-abel-begins-leading-132598734</link>
-      <guid isPermaLink="false">4d98495cbded12e1bc67a97e46608616bf0ee2b3</guid>
-      <pubDate>Sat, 02 May 2026 14:32:58 GMT</pubDate>
-      <description><![CDATA[New Berkshire Hathaway CEO Greg Abel begins leading first annual meeting without Warren Buffett on stage]]></description>
       <category>business</category>
     </item>
   </channel>
