@@ -276,6 +276,15 @@
       letter-spacing: -0.08em;
     }
 
+    .ticker-track {
+      white-space: nowrap;
+      display: inline-block;
+      padding-left: 100%;
+     animation: ticker-scroll 95s linear infinite;
+     font-size: 1.25rem;
+     color: var(--text);
+}
+    
     .weather-text {
       margin-top: 12px;
       color: var(--muted);
@@ -340,7 +349,7 @@
       font-weight: 900;
     }
 
-    .ticker {
+    . {
       position: fixed;
       left: 0;
       right: 0;
@@ -354,7 +363,7 @@
       z-index: 20;
     }
 
-    .ticker-label {
+    .-label {
       height: 100%;
       display: flex;
       align-items: center;
@@ -367,16 +376,16 @@
       flex-shrink: 0;
     }
 
-    .ticker-track {
+    .-track {
       white-space: nowrap;
       display: inline-block;
       padding-left: 100%;
-      animation: ticker-scroll 50s linear infinite;
+      animation: -scroll 50s linear infinite;
       font-size: 1.25rem;
       color: var(--text);
     }
 
-    @keyframes ticker-scroll {
+    @keyframes -scroll {
       from { transform: translateX(0); }
       to { transform: translateX(-100%); }
     }
