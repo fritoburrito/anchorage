@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 23:33:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 23:39:33 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: Today</title>
+      <link>https://akpulselive.com/weather.html#today</link>
+      <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
+      <pubDate>Sat, 02 May 2026 23:39:33 GMT</pubDate>
+      <description><![CDATA[48°F | 5 to 10 mph S | Chance Light Rain<br><br>A chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%.]]></description>
+      <category>weather</category>
+    </item>
     <item>
       <title>Anchorage Weather: This Afternoon</title>
       <link>https://akpulselive.com/weather.html#this-afternoon</link>
@@ -21,14 +29,6 @@
       <pubDate>Sat, 02 May 2026 23:05:34 GMT</pubDate>
       <description><![CDATA[The Icelandic star reflects on a phenomenal year, and the music video that let her go "primal".]]></description>
       <category>local</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today</title>
-      <link>https://akpulselive.com/weather.html#today</link>
-      <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
-      <pubDate>Sat, 02 May 2026 22:27:31 GMT</pubDate>
-      <description><![CDATA[48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain<br><br>A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
     </item>
     <item>
       <title>Alaska Beacon state and legislative daybook for the week of May 4, 2026</title>
@@ -116,6 +116,14 @@
       <guid isPermaLink="false">ee76c69c8deb39be64a5d928c1957520c55b1e58</guid>
       <pubDate>Sat, 02 May 2026 23:17:17 GMT</pubDate>
       <description><![CDATA[Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show "the real picture".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>1 dead after vehicle crashes into Oregon health club, police say</title>
+      <link>https://abcnews.com/US/wireStory/1-person-dead-after-vehicle-crashes-oregon-health-132606300</link>
+      <guid isPermaLink="false">c9ed401baea3f12da69fd7f50248bb8c08f701b6</guid>
+      <pubDate>Sat, 02 May 2026 23:14:01 GMT</pubDate>
+      <description><![CDATA[Evidence of an explosive device was found in the vehicle, police said.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -397,14 +405,6 @@
       <pubDate>Sat, 02 May 2026 14:32:58 GMT</pubDate>
       <description><![CDATA[New Berkshire Hathaway CEO Greg Abel begins leading first annual meeting without Warren Buffett on stage]]></description>
       <category>business</category>
-    </item>
-    <item>
-      <title>Four in hospital after drive-by shooting</title>
-      <link>https://www.bbc.com/news/articles/cj3pmgpgneno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">184f888345dd4aec128c5c770974837dbc931f08</guid>
-      <pubDate>Sat, 02 May 2026 14:32:24 GMT</pubDate>
-      <description><![CDATA[Four people have been taken to hospital after multiple shots were fired from a vehicle in Brixton.]]></description>
-      <category>world</category>
     </item>
   </channel>
 </rss>

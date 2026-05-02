@@ -13,6 +13,19 @@
     "created_utc": "2026-05-03T08:00:00+00:00"
   },
   {
+    "title": "Anchorage Weather: Today",
+    "link": "https://akpulselive.com/weather.html#today",
+    "url": "https://akpulselive.com/weather.html#today",
+    "summary": "48°F | 5 to 10 mph S | Chance Light Rain<br><br>A chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%.",
+    "description": "48°F | 5 to 10 mph S | Chance Light Rain<br><br>A chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%.",
+    "source": "NWS Anchorage",
+    "category": "weather",
+    "tag": "weather",
+    "pubDate": "Sat, 02 May 2026 23:39:33 GMT",
+    "published": "2026-05-02T23:39:33.256033+00:00",
+    "created_utc": "2026-05-02T23:39:33.256033+00:00"
+  },
+  {
     "title": "Anchorage Weather: This Afternoon",
     "link": "https://akpulselive.com/weather.html#this-afternoon",
     "url": "https://akpulselive.com/weather.html#this-afternoon",
@@ -50,6 +63,19 @@
     "pubDate": "Sat, 02 May 2026 23:17:17 GMT",
     "published": "2026-05-02T23:17:17+00:00",
     "created_utc": "2026-05-02T23:17:17+00:00"
+  },
+  {
+    "title": "1 dead after vehicle crashes into Oregon health club, police say",
+    "link": "https://abcnews.com/US/wireStory/1-person-dead-after-vehicle-crashes-oregon-health-132606300",
+    "url": "https://abcnews.com/US/wireStory/1-person-dead-after-vehicle-crashes-oregon-health-132606300",
+    "summary": "Evidence of an explosive device was found in the vehicle, police said.",
+    "description": "Evidence of an explosive device was found in the vehicle, police said.",
+    "source": "ABC News",
+    "category": "world",
+    "tag": "abc",
+    "pubDate": "Sat, 02 May 2026 23:14:01 GMT",
+    "published": "2026-05-02T19:14:01-04:00",
+    "created_utc": "2026-05-02T19:14:01-04:00"
   },
   {
     "title": "What death doulas can teach us about dying",
@@ -115,19 +141,6 @@
     "pubDate": "Sat, 02 May 2026 22:30:55 GMT",
     "published": "2026-05-02T22:30:55+00:00",
     "created_utc": "2026-05-02T22:30:55+00:00"
-  },
-  {
-    "title": "Anchorage Weather: Today",
-    "link": "https://akpulselive.com/weather.html#today",
-    "url": "https://akpulselive.com/weather.html#today",
-    "summary": "48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain<br><br>A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.",
-    "description": "48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain<br><br>A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.",
-    "source": "NWS Anchorage",
-    "category": "weather",
-    "tag": "weather",
-    "pubDate": "Sat, 02 May 2026 22:27:31 GMT",
-    "published": "2026-05-02T22:27:31.719758+00:00",
-    "created_utc": "2026-05-02T22:27:31.719758+00:00"
   },
   {
     "title": "Antonelli takes Miami pole from Verstappen",
@@ -1285,18 +1298,5 @@
     "pubDate": "Fri, 01 May 2026 23:06:56 GMT",
     "published": "2026-05-01T19:06:56-04:00",
     "created_utc": "2026-05-01T19:06:56-04:00"
-  },
-  {
-    "title": "Revise, recall, then rest - your exam season survival guide",
-    "link": "https://www.bbc.com/news/articles/c1j2lw5r24jo?at_medium=RSS&at_campaign=rss",
-    "url": "https://www.bbc.com/news/articles/c1j2lw5r24jo?at_medium=RSS&at_campaign=rss",
-    "summary": "Teachers and tutors share tips for students to get through exam season.",
-    "description": "Teachers and tutors share tips for students to get through exam season.",
-    "source": "BBC News",
-    "category": "world",
-    "tag": "bbc",
-    "pubDate": "Fri, 01 May 2026 23:06:00 GMT",
-    "published": "2026-05-01T23:06:00+00:00",
-    "created_utc": "2026-05-01T23:06:00+00:00"
   }
 ]
