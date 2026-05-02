@@ -47,9 +47,15 @@ SOURCES = [
         "tag": "business",
         "enabled": True,
     },
+    {
+        "name": "NPR News",
+        "url": "https://feeds.npr.org/1001/rss.xml",
+        "category": "world",
+        "tag": "npr",
+        "enabled": True,
+    },
 
-    # Reddit RSS often gets blocked by GitHub Actions.
-    # Keep disabled and use Reddit JSON below instead.
+    # Reddit is disabled because GitHub Actions is getting blocked by Reddit.
     {
         "name": "Reddit Alaska RSS",
         "url": "https://www.reddit.com/r/alaska/new/.rss",
@@ -57,25 +63,18 @@ SOURCES = [
         "tag": "reddit",
         "enabled": False,
     },
+    {
+        "name": "Reddit News RSS",
+        "url": "https://www.reddit.com/r/news/new/.rss",
+        "category": "reddit",
+        "tag": "reddit",
+        "enabled": False,
+    },
 ]
 
 
-REDDIT_JSON_SOURCES = [
-    {
-        "name": "Reddit Alaska",
-        "url": "https://www.reddit.com/r/alaska/new.json?limit=10",
-        "category": "reddit",
-        "tag": "reddit",
-        "enabled": True,
-    },
-    {
-        "name": "Reddit News",
-        "url": "https://www.reddit.com/r/news/new.json?limit=10",
-        "category": "reddit",
-        "tag": "reddit",
-        "enabled": True,
-    },
-]
+# Reddit JSON is also disabled because GitHub Actions appears blocked by Reddit.
+REDDIT_JSON_SOURCES = []
 
 
 def now_iso():
@@ -106,7 +105,7 @@ def parse_date(entry):
 
 def fetch(url, accept="application/rss+xml, application/xml;q=0.9, */*;q=0.8"):
     headers = {
-        "User-Agent": "AKPulseLive/1.0 by u/akpulsebot (https://akpulselive.com)",
+        "User-Agent": "AKPulseLive/1.0 (https://akpulselive.com)",
         "Accept": accept,
     }
 
@@ -214,6 +213,7 @@ def import_rss_sources(seen_links):
 
 
 def import_reddit_json_sources(seen_links):
+    # Currently disabled because Reddit blocks GitHub Actions.
     new_items = []
 
     for source in REDDIT_JSON_SOURCES:
