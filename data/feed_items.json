@@ -3,14 +3,40 @@
     "title": "Anchorage Weather: Overnight",
     "link": "https://akpulselive.com/weather.html#overnight",
     "url": "https://akpulselive.com/weather.html#overnight",
-    "summary": "35°F | 10 mph SE | Light Rain Likely<br><br>Rain likely before 4am, then a chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 10 mph. Chance of precipitation is 60%.",
-    "description": "35°F | 10 mph SE | Light Rain Likely<br><br>Rain likely before 4am, then a chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 10 mph. Chance of precipitation is 60%.",
+    "summary": "35°F | 10 mph SE | Chance Rain Showers<br><br>A chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 10 mph. Chance of precipitation is 50%.",
+    "description": "35°F | 10 mph SE | Chance Rain Showers<br><br>A chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 10 mph. Chance of precipitation is 50%.",
     "source": "NWS Anchorage",
     "category": "weather",
     "tag": "weather",
-    "pubDate": "Sat, 02 May 2026 11:53:33 GMT",
-    "published": "2026-05-02T11:53:33.440608+00:00",
-    "created_utc": "2026-05-02T11:53:33.440608+00:00"
+    "pubDate": "Sat, 02 May 2026 13:39:38 GMT",
+    "published": "2026-05-02T13:39:38.298845+00:00",
+    "created_utc": "2026-05-02T13:39:38.298845+00:00"
+  },
+  {
+    "title": "The remarkable life of Zanardi, a 21st century hero who inspired millions",
+    "link": "https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Alex Zanardi was a 21st century hero - a man who inspired millions through his unquenchable spirit in the face of unbelievable adversity, writes Andrew Benson.",
+    "description": "Alex Zanardi was a 21st century hero - a man who inspired millions through his unquenchable spirit in the face of unbelievable adversity, writes Andrew Benson.",
+    "source": "BBC News",
+    "category": "world",
+    "tag": "bbc",
+    "pubDate": "Sat, 02 May 2026 12:02:43 GMT",
+    "published": "2026-05-02T12:02:43+00:00",
+    "created_utc": "2026-05-02T12:02:43+00:00"
+  },
+  {
+    "title": "Opinion: The everyday tragedy of gun violence",
+    "link": "https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence",
+    "url": "https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence",
+    "summary": "The White House Correspondents Association Dinner was one of several incidents of gun violence in the U.S. last week. Others ended in injuries and fatalities.",
+    "description": "The White House Correspondents Association Dinner was one of several incidents of gun violence in the U.S. last week. Others ended in injuries and fatalities.",
+    "source": "NPR News",
+    "category": "world",
+    "tag": "npr",
+    "pubDate": "Sat, 02 May 2026 12:00:00 GMT",
+    "published": "2026-05-02T08:00:00-04:00",
+    "created_utc": "2026-05-02T08:00:00-04:00"
   },
   {
     "title": "US consortium takes over Sheffield Wednesday",
@@ -1272,31 +1298,5 @@
     "pubDate": "Fri, 01 May 2026 13:59:51 GMT",
     "published": "2026-05-01T09:59:51-04:00",
     "created_utc": "2026-05-01T09:59:51-04:00"
-  },
-  {
-    "title": "House approves bill to fund DHS, ending record-long partial shutdown",
-    "link": "https://abcnews.com/Politics/house-approves-bill-fund-dhs/story?id=132541961",
-    "url": "https://abcnews.com/Politics/house-approves-bill-fund-dhs/story?id=132541961",
-    "summary": "The bill funds all DHS agencies except immigration enforcement operations.",
-    "description": "The bill funds all DHS agencies except immigration enforcement operations.",
-    "source": "ABC News",
-    "category": "world",
-    "tag": "abc",
-    "pubDate": "Fri, 01 May 2026 13:50:32 GMT",
-    "published": "2026-05-01T09:50:32-04:00",
-    "created_utc": "2026-05-01T09:50:32-04:00"
-  },
-  {
-    "title": "Long DACA renewal wait times leave some 'Dreamers' without status, fearing detainment",
-    "link": "https://abcnews.com/US/wireStory/long-daca-renewal-wait-times-leave-dreamers-status-132568840",
-    "url": "https://abcnews.com/US/wireStory/long-daca-renewal-wait-times-leave-dreamers-status-132568840",
-    "summary": "Renewal wait times for the Obama-era program that allows people who were brought to the U.S. as children to temporarily remain in the country and work have increased dramatically in the past year",
-    "description": "Renewal wait times for the Obama-era program that allows people who were brought to the U.S. as children to temporarily remain in the country and work have increased dramatically in the past year",
-    "source": "ABC News",
-    "category": "world",
-    "tag": "abc",
-    "pubDate": "Fri, 01 May 2026 13:49:58 GMT",
-    "published": "2026-05-01T09:49:58-04:00",
-    "created_utc": "2026-05-01T09:49:58-04:00"
   }
 ]

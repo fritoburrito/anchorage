@@ -5,16 +5,34 @@
     <link>https://akpulselive.com/</link>
     <description>Fresh Alaska headlines, weather, community updates, and curated news feeds.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 11:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 13:39:38 GMT</lastBuildDate>
     <atom:link href="https://akpulselive.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anchorage Weather: Overnight | NWS Anchorage</title>
       <link>https://akpulselive.com/weather.html#overnight</link>
       <guid isPermaLink="true">https://akpulselive.com/weather.html#overnight</guid>
-      <description>35°F | 10 mph SE | Light Rain Likely Rain likely before 4am, then a chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 10 mph. Chance of precipitation is 60%. Source: NWS Anchorage.</description>
+      <description>35°F | 10 mph SE | Chance Rain Showers A chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 10 mph. Chance of precipitation is 50%. Source: NWS Anchorage.</description>
       <category>weather</category>
       <source url="https://akpulselive.com/weather.html#overnight">NWS Anchorage</source>
-      <pubDate>Sat, 02 May 2026 11:53:33 GMT</pubDate>
+      <pubDate>Sat, 02 May 2026 13:39:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>The remarkable life of Zanardi, a 21st century hero who inspired millions | BBC News</title>
+      <link>https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Alex Zanardi was a 21st century hero - a man who inspired millions through his unquenchable spirit in the face of unbelievable adversity, writes Andrew Benson. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Sat, 02 May 2026 12:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opinion: The everyday tragedy of gun violence | NPR News</title>
+      <link>https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence</guid>
+      <description>The White House Correspondents Association Dinner was one of several incidents of gun violence in the U.S. last week. Others ended in injuries and fatalities. Source: NPR News.</description>
+      <category>world</category>
+      <source url="https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence">NPR News</source>
+      <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>US consortium takes over Sheffield Wednesday | BBC News</title>
@@ -438,24 +456,6 @@
       <category>alaska</category>
       <source url="https://alaskabeacon.com/2026/05/01/repub/appeals-court-blocks-remote-access-to-abortion-medication-nationwide/">Alaska Beacon</source>
       <pubDate>Fri, 01 May 2026 23:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nebraska becomes 1st state to implement Medicaid work requirements | ABC News</title>
-      <link>https://abcnews.com/US/nebraska-1st-state-implement-medicaid-work-requirements/story?id=132529215</link>
-      <guid isPermaLink="true">https://abcnews.com/US/nebraska-1st-state-implement-medicaid-work-requirements/story?id=132529215</guid>
-      <description>Nebraska became the first state on Friday to implement Medicaid work requirements, which is mandated under President Donald Trump&#x27;s megabill that passed last summer. Source: ABC News.</description>
-      <category>world</category>
-      <source url="https://abcnews.com/US/nebraska-1st-state-implement-medicaid-work-requirements/story?id=132529215">ABC News</source>
-      <pubDate>Fri, 01 May 2026 23:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alaska Republican gubernatorial candidate Shelley Hughes picks Blake Gettys as running mate | Alaska Beacon</title>
-      <link>https://alaskabeacon.com/briefs/alaska-republican-gubernatorial-candidate-shelley-hughes-picks-blake-gettys-as-running-mate/</link>
-      <guid isPermaLink="true">https://alaskabeacon.com/briefs/alaska-republican-gubernatorial-candidate-shelley-hughes-picks-blake-gettys-as-running-mate/</guid>
-      <description>Blake Gettys, a retired U.S. Air Force brigadier general, will run for lieutenant governor alongside Republican gubernatorial candidate Shelley Hughes, the duo announced Thursday in Anchorage. Incumbent Alaska Gov. Mike Dunleavy, a Republican, is term-limited after serving from 2018 to 2026. Hughes… Source: Alaska Beacon.</description>
-      <category>alaska</category>
-      <source url="https://alaskabeacon.com/briefs/alaska-republican-gubernatorial-candidate-shelley-hughes-picks-blake-gettys-as-running-mate/">Alaska Beacon</source>
-      <pubDate>Fri, 01 May 2026 23:12:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
