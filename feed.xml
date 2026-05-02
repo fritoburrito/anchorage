@@ -5,21 +5,21 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 23:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 23:55:16 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: This Afternoon</title>
+      <link>https://akpulselive.com/weather.html#this-afternoon</link>
+      <guid isPermaLink="false">53adb82eb036cc9a926d74868058f6836b5847fb</guid>
+      <pubDate>Sat, 02 May 2026 23:55:16 GMT</pubDate>
+      <description><![CDATA[48°F | 10 mph S | Slight Chance Light Rain<br><br>A slight chance of rain. Mostly cloudy, with a high near 48. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.]]></description>
+      <category>weather</category>
+    </item>
     <item>
       <title>Anchorage Weather: Today</title>
       <link>https://akpulselive.com/weather.html#today</link>
       <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
       <pubDate>Sat, 02 May 2026 23:45:29 GMT</pubDate>
       <description><![CDATA[48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain<br><br>A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: This Afternoon</title>
-      <link>https://akpulselive.com/weather.html#this-afternoon</link>
-      <guid isPermaLink="false">53adb82eb036cc9a926d74868058f6836b5847fb</guid>
-      <pubDate>Sat, 02 May 2026 23:33:54 GMT</pubDate>
-      <description><![CDATA[48°F | 10 mph S | Slight Chance Light Rain<br><br>A slight chance of rain. Mostly cloudy, with a high near 48. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -87,19 +87,19 @@
       <category>local</category>
     </item>
     <item>
-      <title>Alaska Republican gubernatorial candidate Shelley Hughes picks Blake Gettys as running mate</title>
-      <link>https://alaskabeacon.com/briefs/alaska-republican-gubernatorial-candidate-shelley-hughes-picks-blake-gettys-as-running-mate/</link>
-      <guid isPermaLink="false">063f90d59b4c4333feca0a98b311c981273cdbc6</guid>
-      <pubDate>Fri, 01 May 2026 23:12:26 GMT</pubDate>
-      <description><![CDATA[Blake Gettys, a retired U.S. Air Force brigadier general, will run for lieutenant governor alongside Republican gubernatorial candidate Shelley Hughes, the duo announced Thursday in Anchorage. Incumbent Alaska Gov. Mike Dunleavy, a Republican, is term-limited after serving from 2018 to 2026. Hughes is one of 18 candidates for Alaska governor. Blake Gettys, 60, of Eagle [&#8230;]]]></description>
-      <category>local</category>
-    </item>
-    <item>
       <title>Watch: Match of the Day</title>
       <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">f5c367ce27316877e08e31ff22a08ea18dc41a6b</guid>
       <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[Highlights of five Premier League games, including title-chasing Arsenal versus Fulham.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Golden Tempo takes the Kentucky Derby as Cherie DeVaux becomes the 1st woman to train its winner</title>
+      <link>https://www.npr.org/2026/05/02/nx-s1-5808929/golden-tempo-kentucky-derby-winner-cherie-devaux</link>
+      <guid isPermaLink="false">94aeed2f3bdb967a3aaa25a34cfda58b5b8ccd1c</guid>
+      <pubDate>Sat, 02 May 2026 23:44:38 GMT</pubDate>
+      <description><![CDATA[Golden Tempo has won the Kentucky Derby at odds of 23-1 to make Cherie DeVaux the first woman to train the winner of the opening leg of the Triple Crown.]]></description>
       <category>world</category>
     </item>
     <item>
