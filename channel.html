@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <title>AK Pulse Live Channel</title>
+  <meta property="og:image" content="https://akpulselive.com/assets/logo.png" />
 
   <style>
     :root {
@@ -75,12 +76,11 @@
     }
 
     .logo {
-      width: 62px;
-      height: 62px;
-      border-radius: 18px;
-      background:
-        linear-gradient(135deg, var(--blue), var(--green));
-      box-shadow: 0 0 34px rgba(0,198,255,0.48);
+      height: 76px;
+      width: auto;
+      max-width: 360px;
+      object-fit: contain;
+      filter: drop-shadow(0 0 14px rgba(0,198,255,0.65));
     }
 
     .brand h1 {
@@ -453,7 +453,7 @@
   <div class="screen">
     <header>
       <div class="brand">
-        <div class="logo"></div>
+        <img class="logo" src="assets/logo.png" alt="AK Pulse Live Logo">
         <div>
           <h1>AK <span>Pulse</span> Live</h1>
           <div class="subbrand">Roku-style live news channel</div>
