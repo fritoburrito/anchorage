@@ -5,8 +5,17 @@
     <link>https://akpulselive.com/</link>
     <description>Fresh Alaska headlines, weather, community updates, and curated news feeds.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 10:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 10:14:44 GMT</lastBuildDate>
     <atom:link href="https://akpulselive.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anchorage Weather: Overnight | NWS Anchorage</title>
+      <link>https://akpulselive.com/weather.html#overnight</link>
+      <guid isPermaLink="true">https://akpulselive.com/weather.html#overnight</guid>
+      <description>39°F | 10 to 15 mph SE | Chance Rain And Snow Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%. Source: NWS Anchorage.</description>
+      <category>weather</category>
+      <source url="https://akpulselive.com/weather.html#overnight">NWS Anchorage</source>
+      <pubDate>Sat, 02 May 2026 10:14:44 GMT</pubDate>
+    </item>
     <item>
       <title>Anchorage Weather: Tonight | NWS Anchorage</title>
       <link>https://akpulselive.com/weather.html#tonight</link>
@@ -17,6 +26,15 @@
       <pubDate>Sat, 02 May 2026 10:05:24 GMT</pubDate>
     </item>
     <item>
+      <title>New Netflix documentary reexamines Winnie Mandela&#x27;s divisive legacy | NPR News</title>
+      <link>https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela</guid>
+      <description>Winnie Madikizela-Mandela is one of the most revered — and controversial — women in South African history. In a new documentary her granddaughters examine the liberation icon in all her complexity. Source: NPR News.</description>
+      <category>world</category>
+      <source url="https://www.npr.org/2026/05/02/nx-s1-5800681/netflix-winnie-mandela">NPR News</source>
+      <pubDate>Sat, 02 May 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Star-studded line-up announced for Celebrity Traitors series two | BBC News</title>
       <link>https://www.bbc.com/news/articles/c5yx5w43jzko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="true">https://www.bbc.com/news/articles/c5yx5w43jzko?at_medium=RSS&amp;at_campaign=rss</guid>
@@ -24,15 +42,6 @@
       <category>world</category>
       <source url="https://www.bbc.com/news/articles/c5yx5w43jzko?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 09:57:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anchorage Weather: Overnight | NWS Anchorage</title>
-      <link>https://akpulselive.com/weather.html#overnight</link>
-      <guid isPermaLink="true">https://akpulselive.com/weather.html#overnight</guid>
-      <description>39°F | 10 mph SE | Chance Rain And Snow Rain likely before 4am, then a chance of rain and snow. Mostly cloudy, with a low around 39. Southeast wind around 10 mph. Chance of precipitation is 70%. Source: NWS Anchorage.</description>
-      <category>weather</category>
-      <source url="https://akpulselive.com/weather.html#overnight">NWS Anchorage</source>
-      <pubDate>Sat, 02 May 2026 09:57:37 GMT</pubDate>
     </item>
     <item>
       <title>Smiling Princess Charlotte beams in 11th birthday portrait | BBC News</title>
@@ -447,15 +456,6 @@
       <category>world</category>
       <source url="https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone">NPR News</source>
       <pubDate>Fri, 01 May 2026 22:40:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>US to cut troop levels in Germany by 5,000 amid Trump spat with Merz | BBC News</title>
-      <link>https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran. Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Fri, 01 May 2026 22:35:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
