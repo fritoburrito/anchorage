@@ -627,7 +627,7 @@ def build_index(items: List[Dict[str, Any]]) -> str:
     <div class="wrap">
       <img class="site-logo" src="assets/logo.png" alt="AK Pulse Live Logo">
       <h1>{html.escape(SITE_NAME)}</h1>
-      <span class="rocket">🚀 Open AK Pulse Live</span>
+     <a href="channel.html" class="rocket">🚀 Open AK Pulse Live</a>
       <p class="tagline">{html.escape(SITE_DESCRIPTION)}</p>
 
       <nav aria-label="Site sections">
