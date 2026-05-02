@@ -8,6 +8,19 @@
     "source": "NWS Anchorage",
     "category": "weather",
     "tag": "weather",
+    "pubDate": "Sat, 02 May 2026 07:05:30 GMT",
+    "published": "2026-05-02T07:05:30.059135+00:00",
+    "created_utc": "2026-05-02T07:05:30.059135+00:00"
+  },
+  {
+    "title": "Anchorage Weather: Tonight",
+    "link": "https://akpulselive.com/weather.html#tonight",
+    "url": "https://akpulselive.com/weather.html#tonight",
+    "summary": "39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.",
+    "description": "39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.",
+    "source": "NWS Anchorage",
+    "category": "weather",
+    "tag": "weather",
     "pubDate": "Sat, 02 May 2026 07:03:55 GMT",
     "published": "2026-05-02T07:03:55.209224+00:00",
     "created_utc": "2026-05-02T07:03:55.209224+00:00"
@@ -960,18 +973,5 @@
     "pubDate": "Fri, 01 May 2026 13:10:19 GMT",
     "published": "2026-05-01T13:10:19+00:00",
     "created_utc": "2026-05-01T13:10:19+00:00"
-  },
-  {
-    "title": "WATCH:  NYPD praises officers after home explosion caught on camera",
-    "link": "https://abcnews.com/video/132564301/",
-    "url": "https://abcnews.com/video/132564301/",
-    "summary": "Seven NYPD officers are recovering after rescuing people, including children, inside a house that exploded after they arrived on scene for a domestic incident call in New York City.",
-    "description": "Seven NYPD officers are recovering after rescuing people, including children, inside a house that exploded after they arrived on scene for a domestic incident call in New York City.",
-    "source": "ABC News",
-    "category": "world",
-    "tag": "abc",
-    "pubDate": "Fri, 01 May 2026 16:58:27 GMT",
-    "published": "2026-05-01T12:58:27-04:00",
-    "created_utc": "2026-05-01T12:58:27-04:00"
   }
 ]
