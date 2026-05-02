@@ -8,6 +8,19 @@
     "source": "NWS Anchorage",
     "category": "weather",
     "tag": "weather",
+    "pubDate": "Sat, 02 May 2026 02:55:34 GMT",
+    "published": "2026-05-02T02:55:34.113654+00:00",
+    "created_utc": "2026-05-02T02:55:34.113654+00:00"
+  },
+  {
+    "title": "Anchorage Weather: Tonight",
+    "link": "https://akpulselive.com/weather.html#tonight",
+    "url": "https://akpulselive.com/weather.html#tonight",
+    "summary": "39°F | 5 to 15 mph SE | Rain And Snow Likely<br><br>A chance of rain before 7pm, then rain and snow likely. Cloudy, with a low around 39. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
+    "description": "39°F | 5 to 15 mph SE | Rain And Snow Likely<br><br>A chance of rain before 7pm, then rain and snow likely. Cloudy, with a low around 39. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
+    "source": "NWS Anchorage",
+    "category": "weather",
+    "tag": "weather",
     "pubDate": "Sat, 02 May 2026 02:37:14 GMT",
     "published": "2026-05-02T02:37:14.007414+00:00",
     "created_utc": "2026-05-02T02:37:14.007414+00:00"
@@ -960,18 +973,5 @@
     "pubDate": "Fri, 01 May 2026 11:36:53 GMT",
     "published": "2026-05-01T07:36:53-04:00",
     "created_utc": "2026-05-01T07:36:53-04:00"
-  },
-  {
-    "title": "How well can EVs handle the heat — and the cold? AAA put them to the test",
-    "link": "https://www.npr.org/2026/05/01/nx-s1-5794657/aaa-electric-vehicle-batteries-range-summer-winter",
-    "url": "https://www.npr.org/2026/05/01/nx-s1-5794657/aaa-electric-vehicle-batteries-range-summer-winter",
-    "summary": "Electric vehicles lose some range in the winter — and, to a lesser degree, in the summer. But exactly how much? AAA has brand-new data.",
-    "description": "Electric vehicles lose some range in the winter — and, to a lesser degree, in the summer. But exactly how much? AAA has brand-new data.",
-    "source": "NPR News",
-    "category": "world",
-    "tag": "npr",
-    "pubDate": "Fri, 01 May 2026 11:00:00 GMT",
-    "published": "2026-05-01T07:00:00-04:00",
-    "created_utc": "2026-05-01T07:00:00-04:00"
   }
 ]
