@@ -102,7 +102,43 @@ def load_items():
 
     items.sort(key=sort_key)
     return items[:MAX_ITEMS]
+from datetime import datetime, timezone
 
+NEWS_SITEMAP_FILE = Path("news-sitemap.xml")
+
+def build_news_sitemap(items):
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
+        '        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">'
+    ]
+
+    for item in items[:100]:  # Google News cares about recent content only
+        url = item.get("link")
+        title = item.get("title", "AK Pulse Live")
+        pub_date = item.get("published", now)
+
+        if not url:
+            continue
+
+        lines += [
+            "  <url>",
+            f"    <loc>{url}</loc>",
+            "    <news:news>",
+            "      <news:publication>",
+            "        <news:name>AK Pulse Live</news:name>",
+            "        <news:language>en</news:language>",
+            "      </news:publication>",
+            f"      <news:publication_date>{pub_date}</news:publication_date>",
+            f"      <news:title><![CDATA[{title}]]></news:title>",
+            "    </news:news>",
+            "  </url>"
+        ]
+
+    lines.append("</urlset>")
+    return "\n".join(lines)
 
 def build_feed(items):
     last_build = items[0].get("pubDate", "") if items else "Fri, 01 May 2026 00:00:00 GMT"
