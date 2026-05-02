@@ -5,7 +5,7 @@
     <link>https://akpulselive.com/</link>
     <description>Fresh Alaska headlines, weather, community updates, and curated news feeds.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 21:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 21:52:59 GMT</lastBuildDate>
     <atom:link href="https://akpulselive.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Watch: Match of the Day | BBC News</title>
@@ -23,7 +23,7 @@
       <description>48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%. Source: NWS Anchorage.</description>
       <category>weather</category>
       <source url="https://akpulselive.com/weather.html#today">NWS Anchorage</source>
-      <pubDate>Sat, 02 May 2026 21:43:00 GMT</pubDate>
+      <pubDate>Sat, 02 May 2026 21:52:59 GMT</pubDate>
     </item>
     <item>
       <title>Airlines can cancel flights in advance over fuel shortages, under new plans | BBC News</title>
@@ -132,6 +132,15 @@
       <category>world</category>
       <source url="https://www.bbc.com/news/articles/cm2pmdj2v39o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 19:44:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Woodwork woe and a Spurs lifeline - West Ham suffer in survival fight | BBC News</title>
+      <link>https://www.bbc.com/sport/football/articles/c3e28l439v4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/sport/football/articles/c3e28l439v4o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Tottenham were the biggest winners as fellow Premier League strugglers West Ham hit the woodwork four times in their 3-0 defeat at Brentford. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/football/articles/c3e28l439v4o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Sat, 02 May 2026 19:26:49 GMT</pubDate>
     </item>
     <item>
       <title>WATCH: New dating trend turning errands into romance | ABC News</title>
@@ -447,15 +456,6 @@
       <category>world</category>
       <source url="https://www.bbc.com/news/articles/c07290dggr0o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 09:53:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iran live updates: Trump tells Congress hostilities &#x27;have terminated&#x27; | ABC News</title>
-      <link>https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768</link>
-      <guid isPermaLink="true">https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768</guid>
-      <description>Despite facing the 60-day deadline under the War Powers Act, the president is not asking Congress for authorization. Source: ABC News.</description>
-      <category>world</category>
-      <source url="https://abcnews.com/International/live-updates/iran-live-updates-rubio-dismisses-iran-peace-proposal/?id=132444768">ABC News</source>
-      <pubDate>Sat, 02 May 2026 09:48:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
