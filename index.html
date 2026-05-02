@@ -1,620 +1,305 @@
 <!DOCTYPE html>
-    <p><a href="feed.xml">Open the RSS feed</a></p>
-
- <p>
-  <a href="main.html" class="main-link">🚀 Open AK Pulse Live</a>
-</p>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>AK Pulse Live</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="alternate" type="application/rss+xml" title="AK Pulse Live" href="feed.xml">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AK Live Pulse</title>
 
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, Helvetica, sans-serif;
-      background: #0b1020;
-      color: #f5f7fb;
-    }
+<style>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 860px;
+  margin: 40px auto;
+  padding: 0 16px;
+  background: #111827;
+  color: #f3f4f6;
+}
 
-    header {
-      padding: 32px 20px;
-      background: linear-gradient(135deg, #0f172a, #123456);
-      border-bottom: 1px solid rgba(255,255,255,0.1);
-    }
+a {
+  color: #93c5fd;
+  text-decoration: none;
+}
 
-    .wrap {
-      max-width: 1000px;
-      margin: 0 auto;
-      padding: 20px;
-    }
+.feed-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  margin: 12px 0 18px 0;
+  flex-wrap: wrap;
+}
 
-    h1 {
-      margin: 0;
-      font-size: 2.2rem;
-    }
+.main-link {
+  display: inline-block;
+  padding: 10px 16px;
+  background: linear-gradient(135deg, #00c6ff, #7bffb2);
+  color: #000;
+  border-radius: 8px;
+  font-weight: 800;
+}
 
-    .subtitle {
-      color: #cbd5e1;
-      margin-top: 8px;
-    }
+.feed-list {
+  list-style: none;
+  padding: 0;
+}
 
-    .feed-link {
-      display: inline-block;
-      margin-top: 16px;
-      color: #93c5fd;
-      text-decoration: none;
-      font-weight: bold;
-    }
+.feed-item {
+  background: #1f2937;
+  margin-bottom: 12px;
+  padding: 12px;
+  border-radius: 10px;
+}
 
-    .grid {
-      display: grid;
-      gap: 16px;
-      margin-top: 20px;
-    }
+.item-top {
+  display: flex;
+  justify-content: space-between;
+}
 
-    .card {
-      background: #111827;
-      border: 1px solid rgba(255,255,255,0.08);
-      border-radius: 14px;
-      padding: 18px;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.25);
-    }
-
-    .card h2 {
-      margin: 10px 0;
-      font-size: 1.2rem;
-    }
-
-    a {
-      color: #dbeafe;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .meta {
-      display: flex;
-      gap: 10px;
-      align-items: center;
-      color: #94a3b8;
-      font-size: 0.85rem;
-    }
-
-    .badge {
-      background: #2563eb;
-      color: white;
-      padding: 4px 8px;
-      border-radius: 999px;
-      text-transform: uppercase;
-      font-size: 0.7rem;
-      letter-spacing: 0.04em;
-    }
-
-    .date {
-      color: #94a3b8;
-      font-size: 0.85rem;
-      margin-bottom: 0;
-    }
-  </style>
+.cat-badge {
+  background: #374151;
+  padding: 3px 8px;
+  border-radius: 6px;
+}
+</style>
 </head>
 
 <body>
-  <header>
-    <div class="wrap">
-      <h1>AK Pulse Live</h1>
-      <div class="subtitle">Alaska news, weather, culture, and headlines.</div>
-      <a class="feed-link" href="feed.xml">RSS Feed</a>
-    </div>
-  </header>
 
-  <main class="wrap">
-    <section class="grid">
-      
-        <article class="card" data-category="weather">
-          <div class="meta">
-            <span class="badge">weather</span>
-            <span>NWS Anchorage</span>
-          </div>
-          <h2><a href="https://akpulselive.com/weather.html#this-afternoon" target="_blank" rel="noopener noreferrer">Anchorage Weather: This Afternoon</a></h2>
-          <p class="date">Sat, 02 May 2026 02:05:50 GMT</p>
-        </article>
-        
+<h1>Anchorage Custom Feed</h1>
+<p>A custom WEB/RSS feed published by a Bot.</p>
 
-        <article class="card" data-category="weather">
-          <div class="meta">
-            <span class="badge">weather</span>
-            <span>NWS Anchorage</span>
-          </div>
-          <h2><a href="https://akpulselive.com/weather.html#this-afternoon" target="_blank" rel="noopener noreferrer">Anchorage Weather: This Afternoon</a></h2>
-          <p class="date">Sat, 02 May 2026 02:04:24 GMT</p>
-        </article>
-        
+<div class="feed-links">
+  <a href="feed.xml">📰 Open RSS Feed</a>
+  <a href="main.html" class="main-link">🚀 Open AK Pulse Live</a>
+</div>
 
-        <article class="card" data-category="weather">
-          <div class="meta">
-            <span class="badge">weather</span>
-            <span>NWS Anchorage</span>
-          </div>
-          <h2><a href="https://akpulselive.com/weather.html#this-afternoon" target="_blank" rel="noopener noreferrer">Anchorage Weather: This Afternoon</a></h2>
-          <p class="date">Sat, 02 May 2026 01:09:50 GMT</p>
-        </article>
-        
+<ul class="feed-list">
 
-        <article class="card" data-category="weather">
-          <div class="meta">
-            <span class="badge">weather</span>
-            <span>NWS Anchorage</span>
-          </div>
-          <h2><a href="https://akpulselive.com/weather.html#this-afternoon" target="_blank" rel="noopener noreferrer">Anchorage Weather: This Afternoon</a></h2>
-          <p class="date">Sat, 02 May 2026 01:06:26 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-weather">weather</span>
+    <small>Sat, 02 May 2026 02:30:39 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://akpulselive.com/weather.html#tonight">Anchorage Weather: Tonight</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/cvgz08k04jeo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Boats, dancing and cake-cutting: Bermuda welcomes King Charles</a></h2>
-          <p class="date">Sat, 02 May 2026 00:43:08 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Trump tells Congress ceasefire means he does not need their approval for Iran war</a></h2>
-          <p class="date">Sat, 02 May 2026 00:41:43 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Sat, 02 May 2026 02:22:57 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&amp;at_campaign=rss">US court limits mail-order access to abortion pill mifepristone</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c8d8m677zjro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">The Papers:  &#x27;Burnham plans to return&#x27; and &#x27;Four weeks from crunch&#x27;</a></h2>
-          <p class="date">Sat, 02 May 2026 00:29:37 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Peter Kay show evacuated and man held after police investigate &#x27;suspicious bag&#x27;</a></h2>
-          <p class="date">Sat, 02 May 2026 00:04:46 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-weather">weather</span>
+    <small>Sat, 02 May 2026 02:05:50 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://akpulselive.com/weather.html#this-afternoon">Anchorage Weather: This Afternoon</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/cwy24yd0v58o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">EastEnders star on the mental health story &#x27;for everyone&#x27;</a></h2>
-          <p class="date">Fri, 01 May 2026 23:59:41 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c62638ne6n7o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">There was one way we&#x27;d agreed to do Devil Wears Prada 2, says Meryl Streep</a></h2>
-          <p class="date">Fri, 01 May 2026 23:52:21 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-weather">weather</span>
+    <small>Sat, 02 May 2026 02:04:24 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://akpulselive.com/weather.html#this-afternoon">Anchorage Weather: This Afternoon</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/cm2pzv484nlo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">My shopping addiction hijacked my life. Now I realise what caused it</a></h2>
-          <p class="date">Fri, 01 May 2026 23:12:17 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c1j2lw5r24jo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Revise, recall, then rest - your exam season survival guide</a></h2>
-          <p class="date">Fri, 01 May 2026 23:06:00 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-weather">weather</span>
+    <small>Sat, 02 May 2026 01:09:50 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://akpulselive.com/weather.html#this-afternoon">Anchorage Weather: This Afternoon</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Is this the real face of Anne Boleyn?</a></h2>
-          <p class="date">Fri, 01 May 2026 23:01:44 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/sport/football/articles/cx218k4ddp4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">All but safe? Leeds ease &#x27;anxiety&#x27; - and increase pressure on others</a></h2>
-          <p class="date">Fri, 01 May 2026 23:00:21 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-weather">weather</span>
+    <small>Sat, 02 May 2026 01:06:26 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://akpulselive.com/weather.html#this-afternoon">Anchorage Weather: This Afternoon</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">US to cut troop levels in Germany by 5,000 amid Trump spat with Merz</a></h2>
-          <p class="date">Fri, 01 May 2026 22:35:07 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c8xwl07exx9o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Highlander stars bring Hollywood buzz to Scotland</a></h2>
-          <p class="date">Fri, 01 May 2026 21:57:48 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Sat, 02 May 2026 00:43:08 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/cvgz08k04jeo?at_medium=RSS&amp;at_campaign=rss">Boats, dancing and cake-cutting: Bermuda welcomes King Charles</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Mortgages, jobs and energy bills - how the Iran war will affect your money</a></h2>
-          <p class="date">Fri, 01 May 2026 21:16:44 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Trump says he will hike tariffs on EU cars to 25%</a></h2>
-          <p class="date">Fri, 01 May 2026 19:42:56 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Sat, 02 May 2026 00:41:43 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&amp;at_campaign=rss">Trump tells Congress ceasefire means he does not need their approval for Iran war</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>ABC News</span>
-          </div>
-          <h2><a href="https://abcnews.com/video/132584293/" target="_blank" rel="noopener noreferrer">WATCH:  Google giving US students a shot at re-designing its homepage</a></h2>
-          <p class="date">Fri, 01 May 2026 23:35:06 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Australia wants to become the first country to eliminate a cancer - can it?</a></h2>
-          <p class="date">Fri, 01 May 2026 19:30:36 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Sat, 02 May 2026 00:29:37 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/c8d8m677zjro?at_medium=RSS&amp;at_campaign=rss">The Papers:  'Burnham plans to return' and 'Four weeks from crunch'</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>ABC News</span>
-          </div>
-          <h2><a href="https://abcnews.com/US/nebraska-1st-state-implement-medicaid-work-requirements/story?id=132529215" target="_blank" rel="noopener noreferrer">Nebraska becomes 1st state to implement Medicaid work requirements</a></h2>
-          <p class="date">Fri, 01 May 2026 23:13:28 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>ABC News</span>
-          </div>
-          <h2><a href="https://abcnews.com/International/us-withdraw-5000-troops-germany/story?id=132587562" target="_blank" rel="noopener noreferrer">US to withdraw 5,000 troops from Germany</a></h2>
-          <p class="date">Fri, 01 May 2026 23:06:56 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Sat, 02 May 2026 00:04:46 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/c4g4xkw87p5o?at_medium=RSS&amp;at_campaign=rss">Peter Kay show evacuated and man held after police investigate 'suspicious bag'</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>ABC News</span>
-          </div>
-          <h2><a href="https://abcnews.com/Politics/appeals-court-issues-nationwide-order-blocking-telehealth-distribution/story?id=132587239" target="_blank" rel="noopener noreferrer">Court issues nationwide order blocking distribution of abortion pill by mail</a></h2>
-          <p class="date">Fri, 01 May 2026 22:43:30 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>NPR News</span>
-          </div>
-          <h2><a href="https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone" target="_blank" rel="noopener noreferrer">Court restricts abortion access across the US by blocking the mailing of mifepristone</a></h2>
-          <p class="date">Fri, 01 May 2026 22:40:12 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 23:59:41 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/cwy24yd0v58o?at_medium=RSS&amp;at_campaign=rss">EastEnders star on the mental health story 'for everyone'</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/cd6pv55y51wo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared</a></h2>
-          <p class="date">Fri, 01 May 2026 17:23:42 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>NPR News</span>
-          </div>
-          <h2><a href="https://www.npr.org/2026/05/01/nx-s1-5795427/a-pack-of-ai-controlled-robotic-dogs-berlin" target="_blank" rel="noopener noreferrer">AI robot tech bros dogs run wild in Berlin gallery</a></h2>
-          <p class="date">Fri, 01 May 2026 21:22:45 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 23:55:07 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/videos/cd7pnyd8z11o?at_medium=RSS&amp;at_campaign=rss">BBC tracking US warships using blurry pixels and AI</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>NPR News</span>
-          </div>
-          <h2><a href="https://www.npr.org/2026/05/01/nx-s1-5801826/the-global-economic-impact-of-war-from-energy-markets-to-everyday-prices" target="_blank" rel="noopener noreferrer">Iran war shakes Global economy as energy costs surge and recession fears grow</a></h2>
-          <p class="date">Fri, 01 May 2026 21:18:48 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/cp8p7k4k8xno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Polanski apologises for sharing post criticising officers who arrested Golders Green suspect</a></h2>
-          <p class="date">Fri, 01 May 2026 17:15:44 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 23:52:21 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/c62638ne6n7o?at_medium=RSS&amp;at_campaign=rss">There was one way we'd agreed to do Devil Wears Prada 2, says Meryl Streep</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c93xqnlq33qo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">The Real Greek rescued by Cote Brasserie-owner</a></h2>
-          <p class="date">Fri, 01 May 2026 17:03:19 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Elon Musk&#x27;s latest Tesla pay valued at $158bn - but he can&#x27;t pocket it</a></h2>
-          <p class="date">Fri, 01 May 2026 16:23:13 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 23:46:38 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/videos/c0m2zldme02o?at_medium=RSS&amp;at_campaign=rss">Watch: May Day rallies in support of workers' rights held across major US cities</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/czx2vk4zx3xo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Father Ted co-creator&#x27;s conviction for damaging trans activist&#x27;s phone overturned</a></h2>
-          <p class="date">Fri, 01 May 2026 15:38:13 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/cg5p7yg82jro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Whisky tariffs deal sparks political squabble over who claims credit</a></h2>
-          <p class="date">Fri, 01 May 2026 15:34:51 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 23:35:06 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://abcnews.com/video/132584293/">WATCH:  Google giving US students a shot at re-designing its homepage</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">War criminal Mladic close to death, say lawyers asking judge for jail release</a></h2>
-          <p class="date">Fri, 01 May 2026 15:12:14 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Golders Green stabbing suspect in court on three charges of attempted murder</a></h2>
-          <p class="date">Fri, 01 May 2026 14:49:52 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 23:13:28 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://abcnews.com/US/nebraska-1st-state-implement-medicaid-work-requirements/story?id=132529215">Nebraska becomes 1st state to implement Medicaid work requirements</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>ABC News</span>
-          </div>
-          <h2><a href="https://abcnews.com/GMA/News/police-officers-hailed-heroes-after-new-york-house/story?id=132567885" target="_blank" rel="noopener noreferrer">Police officers hailed as heroes after New York house explosion</a></h2>
-          <p class="date">Fri, 01 May 2026 18:48:23 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>ABC News</span>
-          </div>
-          <h2><a href="https://abcnews.com/Politics/states-redraw-congressional-maps-2026-2028-after-supreme/story?id=132571431" target="_blank" rel="noopener noreferrer">Which states might redraw congressional maps in 2026, 2028 after Supreme Court ruling</a></h2>
-          <p class="date">Fri, 01 May 2026 18:48:01 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 23:12:17 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/cm2pzv484nlo?at_medium=RSS&amp;at_campaign=rss">My shopping addiction hijacked my life. Now I realise what caused it</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>ABC News</span>
-          </div>
-          <h2><a href="https://abcnews.com/video/132580916/" target="_blank" rel="noopener noreferrer">WATCH:  4-year-old piano prodigy already perfecting the tunes</a></h2>
-          <p class="date">Fri, 01 May 2026 18:40:24 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/videos/c3d2exme3ddo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Manchester born and bred, but moving to Israel</a></h2>
-          <p class="date">Fri, 01 May 2026 13:36:38 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 23:06:56 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://abcnews.com/International/us-withdraw-5000-troops-germany/story?id=132587562">US to withdraw 5,000 troops from Germany</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/videos/cn0pd1dxgydo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Watch: Moment WW2 bomb detonated in Plymouth</a></h2>
-          <p class="date">Fri, 01 May 2026 13:24:15 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="business">
-          <div class="meta">
-            <span class="badge">business</span>
-            <span>ABC Business</span>
-          </div>
-          <h2><a href="https://abcnews.com/Business/wireStory/trump-hes-taxpayer-funded-deal-bail-spirit-airlines-132578173" target="_blank" rel="noopener noreferrer">Trump says he’s still considering a taxpayer-funded deal to bail out Spirit Airlines</a></h2>
-          <p class="date">Fri, 01 May 2026 17:21:22 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 23:06:00 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/c1j2lw5r24jo?at_medium=RSS&amp;at_campaign=rss">Revise, recall, then rest - your exam season survival guide</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/news/articles/c2026d7586zo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Woman charged over fatal Wimbledon school crash</a></h2>
-          <p class="date">Fri, 01 May 2026 13:10:19 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>ABC News</span>
-          </div>
-          <h2><a href="https://abcnews.com/video/132564301/" target="_blank" rel="noopener noreferrer">WATCH:  NYPD praises officers after home explosion caught on camera</a></h2>
-          <p class="date">Fri, 01 May 2026 16:58:27 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 23:01:44 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&amp;at_campaign=rss">Is this the real face of Anne Boleyn?</a></div>
+</li>
 
-        <article class="card" data-category="business">
-          <div class="meta">
-            <span class="badge">business</span>
-            <span>ABC Business</span>
-          </div>
-          <h2><a href="https://abcnews.com/Business/wireStory/trump-hell-place-25-tariff-autos-eu-accusing-132576218" target="_blank" rel="noopener noreferrer">Trump says he&#x27;ll place 25% tariff on autos from EU, accusing bloc of not complying with trade deal</a></h2>
-          <p class="date">Fri, 01 May 2026 16:13:30 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>BBC News</span>
-          </div>
-          <h2><a href="https://www.bbc.com/weather/articles/cp3808l0zyyo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Is the UK heading for another drought this summer?</a></h2>
-          <p class="date">Fri, 01 May 2026 12:03:17 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 23:00:21 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/sport/football/articles/cx218k4ddp4o?at_medium=RSS&amp;at_campaign=rss">All but safe? Leeds ease 'anxiety' - and increase pressure on others</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>NPR News</span>
-          </div>
-          <h2><a href="https://www.npr.org/2026/05/01/nx-s1-5692750/kneecap-fenian-album-hip-hop" target="_blank" rel="noopener noreferrer">Kneecap is used to controversy. On new album &#x27;Fenian,&#x27; they&#x27;re leaning further in</a></h2>
-          <p class="date">Fri, 01 May 2026 15:30:08 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>ABC News</span>
-          </div>
-          <h2><a href="https://abcnews.com/video/132567102/" target="_blank" rel="noopener noreferrer">WATCH:  1st look at &#x27;Midnight Magic&#x27; on Disney Cruise Line</a></h2>
-          <p class="date">Fri, 01 May 2026 15:29:21 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 22:43:30 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://abcnews.com/Politics/appeals-court-issues-nationwide-order-blocking-telehealth-distribution/story?id=132587239">Court issues nationwide order blocking distribution of abortion pill by mail</a></div>
+</li>
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>ABC News</span>
-          </div>
-          <h2><a href="https://abcnews.com/video/132564414/" target="_blank" rel="noopener noreferrer">WATCH:  Empire State Building turns 95</a></h2>
-          <p class="date">Fri, 01 May 2026 15:09:41 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>ABC News</span>
-          </div>
-          <h2><a href="https://abcnews.com/Politics/americans-increasingly-bleak-finances-us-military-iran-mistake/story?id=132547133" target="_blank" rel="noopener noreferrer">Americans bleak about finances, most call using military against Iran a mistake: Poll</a></h2>
-          <p class="date">Fri, 01 May 2026 15:07:04 GMT</p>
-        </article>
-        
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 22:40:12 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.npr.org/2026/05/01/nx-s1-5808328/court-restricts-abortion-access-mailing-mifepristone">Court restricts abortion access across the US by blocking the mailing of mifepristone</a></div>
+</li>
 
-        <article class="card" data-category="business">
-          <div class="meta">
-            <span class="badge">business</span>
-            <span>ABC Business</span>
-          </div>
-          <h2><a href="https://abcnews.com/Business/wireStory/china-now-dropped-tariffs-imports-african-country-except-132572127" target="_blank" rel="noopener noreferrer">China has now dropped tariffs on imports from every African country except 1</a></h2>
-          <p class="date">Fri, 01 May 2026 14:25:15 GMT</p>
-        </article>
-        
 
-        <article class="card" data-category="world">
-          <div class="meta">
-            <span class="badge">world</span>
-            <span>NPR News</span>
-          </div>
-          <h2><a href="https://www.npr.org/2026/05/01/nx-s1-5791657/states-schools-restricting-screen-time" target="_blank" rel="noopener noreferrer">Several states — and the LA public schools — are setting limits on screen time</a></h2>
-          <p class="date">Fri, 01 May 2026 14:06:40 GMT</p>
-        </article>
-        
-    </section>
-  </main>
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 22:35:07 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&amp;at_campaign=rss">US to cut troop levels in Germany by 5,000 amid Trump spat with Merz</a></div>
+</li>
+
+
+<li class="feed-item">
+  <div class="item-top">
+    <span class="cat-badge cat-world">world</span>
+    <small>Fri, 01 May 2026 22:30:59 GMT</small>
+  </div>
+  <div class="item-title"><a href="https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&amp;at_campaign=rss">Oscars says AI actors, writing cannot win awards</a></div>
+</li>
+
+</ul>
+
 </body>
 </html>
