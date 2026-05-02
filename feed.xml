@@ -5,7 +5,7 @@
     <link>https://akpulselive.com/</link>
     <description>Fresh Alaska headlines, weather, community updates, and curated news feeds.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 21:52:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 22:00:34 GMT</lastBuildDate>
     <atom:link href="https://akpulselive.com/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Watch: Match of the Day | BBC News</title>
@@ -17,6 +17,15 @@
       <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Anchorage Weather: This Afternoon | NWS Anchorage</title>
+      <link>https://akpulselive.com/weather.html#this-afternoon</link>
+      <guid isPermaLink="true">https://akpulselive.com/weather.html#this-afternoon</guid>
+      <description>48°F | 10 mph S | Slight Chance Light Rain A slight chance of rain. Mostly cloudy, with a high near 48. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%. Source: NWS Anchorage.</description>
+      <category>weather</category>
+      <source url="https://akpulselive.com/weather.html#this-afternoon">NWS Anchorage</source>
+      <pubDate>Sat, 02 May 2026 22:00:34 GMT</pubDate>
+    </item>
+    <item>
       <title>Anchorage Weather: Today | NWS Anchorage</title>
       <link>https://akpulselive.com/weather.html#today</link>
       <guid isPermaLink="true">https://akpulselive.com/weather.html#today</guid>
@@ -24,6 +33,15 @@
       <category>weather</category>
       <source url="https://akpulselive.com/weather.html#today">NWS Anchorage</source>
       <pubDate>Sat, 02 May 2026 21:52:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Antonelli takes Miami pole from Verstappen | BBC News</title>
+      <link>https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Mercedes driver Kimi Antonelli bounces back from a difficult sprint race to take pole position for the Miami Grand Prix. Source: BBC News.</description>
+      <category>world</category>
+      <source url="https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
+      <pubDate>Sat, 02 May 2026 21:40:15 GMT</pubDate>
     </item>
     <item>
       <title>Airlines can cancel flights in advance over fuel shortages, under new plans | BBC News</title>
@@ -51,15 +69,6 @@
       <category>world</category>
       <source url="https://www.bbc.com/news/articles/cm2pm41z1nxo?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 21:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anchorage Weather: This Afternoon | NWS Anchorage</title>
-      <link>https://akpulselive.com/weather.html#this-afternoon</link>
-      <guid isPermaLink="true">https://akpulselive.com/weather.html#this-afternoon</guid>
-      <description>48°F | 5 to 10 mph S | Chance Light Rain A chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%. Source: NWS Anchorage.</description>
-      <category>weather</category>
-      <source url="https://akpulselive.com/weather.html#this-afternoon">NWS Anchorage</source>
-      <pubDate>Sat, 02 May 2026 20:53:26 GMT</pubDate>
     </item>
     <item>
       <title>Timmy the stranded whale rescued after weekslong effort | NPR News</title>
@@ -447,15 +456,6 @@
       <category>world</category>
       <source url="https://www.bbc.com/news/articles/c5yx5w43jzko?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
       <pubDate>Sat, 02 May 2026 09:57:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smiling Princess Charlotte beams in 11th birthday portrait | BBC News</title>
-      <link>https://www.bbc.com/news/articles/c07290dggr0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c07290dggr0o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Sharing the image on social media, Kensington Palace said: &quot;Wishing Charlotte a very happy 11th birthday!&#x27; Source: BBC News.</description>
-      <category>world</category>
-      <source url="https://www.bbc.com/news/articles/c07290dggr0o?at_medium=RSS&amp;at_campaign=rss">BBC News</source>
-      <pubDate>Sat, 02 May 2026 09:53:19 GMT</pubDate>
     </item>
   </channel>
 </rss>

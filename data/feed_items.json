@@ -13,6 +13,19 @@
     "created_utc": "2026-05-03T08:00:00+00:00"
   },
   {
+    "title": "Anchorage Weather: This Afternoon",
+    "link": "https://akpulselive.com/weather.html#this-afternoon",
+    "url": "https://akpulselive.com/weather.html#this-afternoon",
+    "summary": "48°F | 10 mph S | Slight Chance Light Rain<br><br>A slight chance of rain. Mostly cloudy, with a high near 48. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.",
+    "description": "48°F | 10 mph S | Slight Chance Light Rain<br><br>A slight chance of rain. Mostly cloudy, with a high near 48. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.",
+    "source": "NWS Anchorage",
+    "category": "weather",
+    "tag": "weather",
+    "pubDate": "Sat, 02 May 2026 22:00:34 GMT",
+    "published": "2026-05-02T22:00:34.329652+00:00",
+    "created_utc": "2026-05-02T22:00:34.329652+00:00"
+  },
+  {
     "title": "Anchorage Weather: Today",
     "link": "https://akpulselive.com/weather.html#today",
     "url": "https://akpulselive.com/weather.html#today",
@@ -24,6 +37,19 @@
     "pubDate": "Sat, 02 May 2026 21:52:59 GMT",
     "published": "2026-05-02T21:52:59.551025+00:00",
     "created_utc": "2026-05-02T21:52:59.551025+00:00"
+  },
+  {
+    "title": "Antonelli takes Miami pole from Verstappen",
+    "link": "https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&at_campaign=rss",
+    "url": "https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&at_campaign=rss",
+    "summary": "Mercedes driver Kimi Antonelli bounces back from a difficult sprint race to take pole position for the Miami Grand Prix.",
+    "description": "Mercedes driver Kimi Antonelli bounces back from a difficult sprint race to take pole position for the Miami Grand Prix.",
+    "source": "BBC News",
+    "category": "world",
+    "tag": "bbc",
+    "pubDate": "Sat, 02 May 2026 21:40:15 GMT",
+    "published": "2026-05-02T21:40:15+00:00",
+    "created_utc": "2026-05-02T21:40:15+00:00"
   },
   {
     "title": "Airlines can cancel flights in advance over fuel shortages, under new plans",
@@ -63,19 +89,6 @@
     "pubDate": "Sat, 02 May 2026 21:00:45 GMT",
     "published": "2026-05-02T21:00:45+00:00",
     "created_utc": "2026-05-02T21:00:45+00:00"
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon",
-    "link": "https://akpulselive.com/weather.html#this-afternoon",
-    "url": "https://akpulselive.com/weather.html#this-afternoon",
-    "summary": "48°F | 5 to 10 mph S | Chance Light Rain<br><br>A chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%.",
-    "description": "48°F | 5 to 10 mph S | Chance Light Rain<br><br>A chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 30%.",
-    "source": "NWS Anchorage",
-    "category": "weather",
-    "tag": "weather",
-    "pubDate": "Sat, 02 May 2026 20:53:26 GMT",
-    "published": "2026-05-02T20:53:26.780887+00:00",
-    "created_utc": "2026-05-02T20:53:26.780887+00:00"
   },
   {
     "title": "Timmy the stranded whale rescued after weekslong effort",
@@ -1285,18 +1298,5 @@
     "pubDate": "Fri, 01 May 2026 22:30:59 GMT",
     "published": "2026-05-01T22:30:59+00:00",
     "created_utc": "2026-05-01T22:30:59+00:00"
-  },
-  {
-    "title": "Highlander stars bring Hollywood buzz to Scotland",
-    "link": "https://www.bbc.com/news/articles/c8xwl07exx9o?at_medium=RSS&at_campaign=rss",
-    "url": "https://www.bbc.com/news/articles/c8xwl07exx9o?at_medium=RSS&at_campaign=rss",
-    "summary": "Henry Cavill, Karen Gillan and Russell Crowe are in Scotland filming a remake of the cult 1980s film.",
-    "description": "Henry Cavill, Karen Gillan and Russell Crowe are in Scotland filming a remake of the cult 1980s film.",
-    "source": "BBC News",
-    "category": "world",
-    "tag": "bbc",
-    "pubDate": "Fri, 01 May 2026 21:57:48 GMT",
-    "published": "2026-05-01T21:57:48+00:00",
-    "created_utc": "2026-05-01T21:57:48+00:00"
   }
 ]
