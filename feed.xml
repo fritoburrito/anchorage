@@ -5,14 +5,22 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 22:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 23:15:20 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: This Afternoon</title>
       <link>https://akpulselive.com/weather.html#this-afternoon</link>
       <guid isPermaLink="false">53adb82eb036cc9a926d74868058f6836b5847fb</guid>
-      <pubDate>Sat, 02 May 2026 22:54:05 GMT</pubDate>
+      <pubDate>Sat, 02 May 2026 23:15:20 GMT</pubDate>
       <description><![CDATA[48°F | 10 mph S | Slight Chance Light Rain<br><br>A slight chance of rain. Mostly cloudy, with a high near 48. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Laufey on making jazz cool again (and the fish that brought out her inner rage)</title>
+      <link>https://www.bbc.com/news/articles/c99lvggdy4jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">aacd1fc76843ea1ffc4ff8410becb85e38c08c02</guid>
+      <pubDate>Sat, 02 May 2026 23:05:34 GMT</pubDate>
+      <description><![CDATA[The Icelandic star reflects on a phenomenal year, and the music video that let her go "primal".]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Anchorage Weather: Today</title>
@@ -92,6 +100,22 @@
       <guid isPermaLink="false">f5c367ce27316877e08e31ff22a08ea18dc41a6b</guid>
       <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[Highlights of five Premier League games, including title-chasing Arsenal versus Fulham.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>What death doulas can teach us about dying</title>
+      <link>https://www.bbc.com/news/articles/cp9vp0ld1leo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">becc027a1dbbe42dd3786ebb5e1139c95aee6ca1</guid>
+      <pubDate>Sat, 02 May 2026 23:10:38 GMT</pubDate>
+      <description><![CDATA[Death doulas or soul midwives have increased in popularity in recent years. What do they do?]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>From beds to LED masks, is the red light craze giving us more than just a warm glow?</title>
+      <link>https://www.bbc.com/news/articles/c2lw59jrdkxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">10a0a4d9c9fbb48ac3247786006ab0209066b804</guid>
+      <pubDate>Sat, 02 May 2026 23:00:30 GMT</pubDate>
+      <description><![CDATA[Whether it can really repair muscles and make skin look younger is up for debate.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -380,30 +404,6 @@
       <guid isPermaLink="false">955be255bfedf22c7119f8e9b6584ff51708a890</guid>
       <pubDate>Sat, 02 May 2026 13:14:32 GMT</pubDate>
       <description><![CDATA[The Indiana Hoosiers -- college football's national champions -- will visit the White House on Monday, May 11, according to a source familiar with the team's plans.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The remarkable life of Zanardi, a 21st century hero who inspired millions</title>
-      <link>https://www.bbc.com/sport/formula1/articles/c5y7x763wx5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ab831204d94e4624f4661b19694f3c39eff34dc6</guid>
-      <pubDate>Sat, 02 May 2026 12:02:43 GMT</pubDate>
-      <description><![CDATA[Alex Zanardi was a 21st century hero - a man who inspired millions through his unquenchable spirit in the face of unbelievable adversity, writes Andrew Benson.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Opinion: The everyday tragedy of gun violence</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5798789/opinion-the-everyday-tragedy-of-gun-violence</link>
-      <guid isPermaLink="false">38a917cd032e360ef1d3ee396774f73272ad69de</guid>
-      <pubDate>Sat, 02 May 2026 12:00:00 GMT</pubDate>
-      <description><![CDATA[The White House Correspondents Association Dinner was one of several incidents of gun violence in the U.S. last week. Others ended in injuries and fatalities.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US consortium takes over Sheffield Wednesday</title>
-      <link>https://www.bbc.com/sport/football/articles/c1e278wgqwjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0950ea7f8f2c74ecbcf8af44e22b657780397520</guid>
-      <pubDate>Sat, 02 May 2026 11:52:17 GMT</pubDate>
-      <description><![CDATA[Sheffield Wednesday have announced that US consortium Arise Capital Partners has completed a takeover of the club.]]></description>
       <category>world</category>
     </item>
   </channel>
