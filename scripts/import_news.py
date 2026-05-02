@@ -16,7 +16,7 @@ DATA_DIR = ROOT / "data"
 DATA_FILE = DATA_DIR / "feed_items.json"
 
 TIMEOUT = 25
-MAX_TOTAL_ITEMS = 75
+MAX_TOTAL_ITEMS = 100
 MAX_PER_SOURCE = 8
 
 WEATHER_ENABLED = True
@@ -25,7 +25,63 @@ WEATHER_LON = -149.9003
 WEATHER_PERIODS = 1
 WEATHER_SOURCE_NAME = "NWS Anchorage"
 
+
+# ============================================================
+# RSS SOURCES
+# ============================================================
+# Alaska feeds are restored and enabled.
+# Reddit remains disabled because GitHub Actions is often blocked by Reddit.
+
 SOURCES = [
+    # ----------------------------
+    # ALASKA / ANCHORAGE LOCAL
+    # ----------------------------
+    {
+        "name": "Alaska Public Media",
+        "url": "https://alaskapublic.org/feed/",
+        "category": "alaska",
+        "tag": "alaska",
+        "enabled": True,
+    },
+    {
+        "name": "Anchorage Daily News",
+        "url": "https://www.adn.com/arcio/rss/",
+        "category": "alaska",
+        "tag": "adn",
+        "enabled": True,
+    },
+    {
+        "name": "Alaska Beacon",
+        "url": "https://alaskabeacon.com/feed/",
+        "category": "alaska",
+        "tag": "alaska-beacon",
+        "enabled": True,
+    },
+    {
+        "name": "Alaska's News Source",
+        "url": "https://www.alaskasnewssource.com/arc/outboundfeeds/rss/",
+        "category": "alaska",
+        "tag": "ktuu",
+        "enabled": True,
+    },
+    {
+        "name": "KTOO News",
+        "url": "https://www.ktoo.org/feed/",
+        "category": "alaska",
+        "tag": "ktoo",
+        "enabled": True,
+    },
+    {
+        "name": "Fairbanks Daily News-Miner",
+        "url": "https://www.newsminer.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+        "category": "alaska",
+        "tag": "fairbanks",
+        "enabled": True,
+    },
+
+    # ----------------------------
+    # NATIONAL / WORLD
+    # ----------------------------
     {
         "name": "BBC News",
         "url": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -55,7 +111,9 @@ SOURCES = [
         "enabled": True,
     },
 
-    # Reddit is disabled because GitHub Actions is getting blocked by Reddit.
+    # ----------------------------
+    # REDDIT DISABLED
+    # ----------------------------
     {
         "name": "Reddit Alaska RSS",
         "url": "https://www.reddit.com/r/alaska/new/.rss",
@@ -73,7 +131,6 @@ SOURCES = [
 ]
 
 
-# Reddit JSON is also disabled because GitHub Actions appears blocked by Reddit.
 REDDIT_JSON_SOURCES = []
 
 
@@ -85,7 +142,15 @@ def clean_title(title):
     if not title:
         return "Untitled"
     title = re.sub(r"^\[.*?\]\s*", "", title)
+    title = re.sub(r"\s+", " ", title)
     return title.strip()
+
+
+def clean_summary(summary):
+    if not summary:
+        return ""
+    summary = re.sub(r"\s+", " ", str(summary)).strip()
+    return summary
 
 
 def parse_date(entry):
@@ -100,12 +165,22 @@ def parse_date(entry):
             except Exception:
                 pass
 
+    # feedparser sometimes stores parsed date tuples
+    for key in ("published_parsed", "updated_parsed"):
+        value = entry.get(key)
+        if value:
+            try:
+                dt = datetime.fromtimestamp(time.mktime(value), timezone.utc)
+                return dt.isoformat()
+            except Exception:
+                pass
+
     return now_iso()
 
 
 def fetch(url, accept="application/rss+xml, application/xml;q=0.9, */*;q=0.8"):
     headers = {
-        "User-Agent": "AKPulseLive/1.0 (https://akpulselive.com)",
+        "User-Agent": "AKPulseLive/1.0 (+https://akpulselive.com; contact: akpulselive.com)",
         "Accept": accept,
     }
 
@@ -169,6 +244,9 @@ def import_rss_sources(seen_links):
         entries = getattr(feed, "entries", [])
         print("Entries found:", len(entries))
 
+        if getattr(feed, "bozo", False):
+            print(f"FEED WARNING for {source['name']}: {getattr(feed, 'bozo_exception', '')}")
+
         added_for_source = 0
 
         for entry in entries:
@@ -181,7 +259,13 @@ def import_rss_sources(seen_links):
             if not link or link in seen_links:
                 continue
 
-            summary = entry.get("summary", "")
+            summary = clean_summary(
+                entry.get("summary")
+                or entry.get("description")
+                or entry.get("subtitle")
+                or ""
+            )
+
             published = parse_date(entry)
 
             try:
@@ -213,7 +297,6 @@ def import_rss_sources(seen_links):
 
 
 def import_reddit_json_sources(seen_links):
-    # Currently disabled because Reddit blocks GitHub Actions.
     new_items = []
 
     for source in REDDIT_JSON_SOURCES:
@@ -251,7 +334,7 @@ def import_reddit_json_sources(seen_links):
             if link in seen_links:
                 continue
 
-            summary = p.get("selftext", "")
+            summary = clean_summary(p.get("selftext", ""))
             published = datetime.fromtimestamp(created, timezone.utc).isoformat()
 
             item = {
@@ -282,7 +365,7 @@ def import_weather():
         return []
 
     headers = {
-        "User-Agent": "AKPulseLive/1.0 (https://akpulselive.com)",
+        "User-Agent": "AKPulseLive/1.0 (+https://akpulselive.com)",
         "Accept": "application/geo+json, application/json",
     }
 
@@ -333,6 +416,14 @@ def import_weather():
     return weather_items
 
 
+def sort_key(item):
+    value = item.get("published") or item.get("created_utc") or ""
+    try:
+        return datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+    except Exception:
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+
 def main():
     existing_items = load_existing_items()
     seen_links = set()
@@ -355,14 +446,21 @@ def main():
 
     combined = weather_items + new_items + existing_items
 
-    combined.sort(
-        key=lambda item: item.get("published", item.get("created_utc", "")),
-        reverse=True,
-    )
+    # Deduplicate again after combining, keeping newest/front-loaded items first.
+    deduped = []
+    final_seen = set()
 
-    combined = combined[:MAX_TOTAL_ITEMS]
+    for item in combined:
+        link = item.get("link") or item.get("url")
+        if not link or link in final_seen:
+            continue
+        final_seen.add(link)
+        deduped.append(item)
 
-    save_items(combined)
+    deduped.sort(key=sort_key, reverse=True)
+    deduped = deduped[:MAX_TOTAL_ITEMS]
+
+    save_items(deduped)
 
 
 if __name__ == "__main__":
