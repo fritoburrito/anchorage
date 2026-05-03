@@ -111,11 +111,11 @@ SOURCES = [
         "enabled": True,
     },
     {
-    "name": "NASA News Releases",
-    "url": "https://www.nasa.gov/news-release/feed/",
-    "category": "science",
-    "tag": "nasa",
-    "enabled": True,
+        "name": "NASA News Releases",
+        "url": "https://www.nasa.gov/news-release/feed/",
+        "category": "science",
+        "tag": "nasa",
+        "enabled": True,
     },
     
     # ----------------------------
@@ -136,18 +136,18 @@ SOURCES = [
         "enabled": False,
     },
     {
-    "name": "NASA Main",
-    "url": "https://www.nasa.gov/feed/",
-    "category": "science",
-    "tag": "nasa",
-    "enabled": True,
+        "name": "NASA Main",
+        "url": "https://www.nasa.gov/feed/",
+        "category": "science",
+        "tag": "nasa",
+        "enabled": True,
 },
 {
-    "name": "NASA JPL",
-    "url": "https://www.jpl.nasa.gov/feeds/news/",
-    "category": "science",
-    "tag": "nasa",
-    "enabled": True,
+        "name": "NASA JPL",
+        "url": "https://www.jpl.nasa.gov/feeds/news/",
+        "category": "science",
+        "tag": "nasa",
+        "enabled": True,
 },
     
 ]
