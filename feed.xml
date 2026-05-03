@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 01:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 02:03:56 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: Tonight</title>
+      <link>https://akpulselive.com/weather.html#tonight</link>
+      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
+      <pubDate>Sun, 03 May 2026 02:03:56 GMT</pubDate>
+      <description><![CDATA[37°F | 0 to 15 mph SE | Scattered Rain Showers then Slight Chance Light Rain<br><br>Scattered rain showers before 10pm, then a slight chance of rain. Mostly cloudy, with a low around 37. Southeast wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%.]]></description>
+      <category>weather</category>
+    </item>
     <item>
       <title>Anchorage Weather: This Afternoon</title>
       <link>https://akpulselive.com/weather.html#this-afternoon</link>
@@ -47,14 +55,6 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight</title>
-      <link>https://akpulselive.com/weather.html#tonight</link>
-      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Sat, 02 May 2026 10:26:59 GMT</pubDate>
-      <description><![CDATA[39°F | 10 to 15 mph SE | Light Rain then Chance Rain And Snow<br><br>Rain before 4am, then a chance of rain and snow. Cloudy, with a low around 39. Southeast wind 10 to 15 mph. Chance of precipitation is 80%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Newscast – Friday, May 01, 2026</title>
       <link>https://www.ktoo.org/2026/05/01/newscast-friday-may-01-2026/</link>
       <guid isPermaLink="false">3bba6419d1c4b3619849869ac0d82e6cb54cbe8f</guid>
@@ -63,27 +63,75 @@
       <category>local</category>
     </item>
     <item>
-      <title>Jazz &amp; Classics Spring Festival | Spring Winds from Juneau Community Bands | Foster Care Awareness Month with Tlingit &amp; Haida</title>
-      <link>https://www.ktoo.org/2026/05/01/jpm-05-01-26/</link>
-      <guid isPermaLink="false">ecc5143f2f62f474e877694c703d559b3b001cb9</guid>
-      <pubDate>Sat, 02 May 2026 00:18:13 GMT</pubDate>
-      <description><![CDATA[Juneau Afternoon featuring Foster Care Awareness Month with Tlingit &#038; Haida, Juneau Jazz &#038; Classics 40th Spring Festival, and Spring Winds concert from Juneau Community Bands.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Relatives, friends and supporters walk to bring attention to Alaska Indigenous victims</title>
-      <link>https://alaskabeacon.com/briefs/relatives-friends-and-supporters-walk-to-bring-attention-to-alaska-indigenous-victims/</link>
-      <guid isPermaLink="false">4e7c33283159050bd2ace14caeeffdf8cf1d8a86</guid>
-      <pubDate>Sat, 02 May 2026 00:13:43 GMT</pubDate>
-      <description><![CDATA[Relatives and friends of murdered and missing Indigenous Alaskans took their grief to the streets of Midtown Anchorage on Thursday. The event was the third annual Walk for Missing and Murdered Indigenous People hosted by the Alaska Native Science and Engineering Program at the University of Alaska Anchorage. Led by members of the Qissunamiut Yurartet [&#8230;]]]></description>
-      <category>local</category>
-    </item>
-    <item>
       <title>Watch: Match of the Day</title>
       <link>https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">f5c367ce27316877e08e31ff22a08ea18dc41a6b</guid>
       <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[Highlights of five Premier League games, including title-chasing Arsenal versus Fulham.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://apod.nasa.gov/apod/ap260426.html</link>
+      <guid isPermaLink="false">f65ae47791bd5ed3d2a0771fc4c4fa5d660a4065</guid>
+      <pubDate>Sun, 03 May 2026 02:03:56 GMT</pubDate>
+      <description><![CDATA[<p><a href="https://apod.nasa.gov/apod/ap260426.html"><img align="left" alt="Inside the head of this interstellar monster is a star that is slowly destroying it. " border="0" src="https://apod.nasa.gov/apod/calendar/S_260426.jpg" /></a> Inside the head of this interstellar monster is a star that is slowly destroying it. </p><br clear="all" />]]></description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://apod.nasa.gov/apod/ap260427.html</link>
+      <guid isPermaLink="false">827021a731ee0922403bc88935276bc1a4c50691</guid>
+      <pubDate>Sun, 03 May 2026 02:03:56 GMT</pubDate>
+      <description><![CDATA[<p><a href="https://apod.nasa.gov/apod/ap260427.html"><img align="left" alt="Can you find the comet?" border="0" src="https://apod.nasa.gov/apod/calendar/S_260427.jpg" /></a> Can you find the comet?</p><br clear="all" />]]></description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://apod.nasa.gov/apod/ap260428.html</link>
+      <guid isPermaLink="false">3bf4207c76246ec246e6ffc440b42eb910c7ee53</guid>
+      <pubDate>Sun, 03 May 2026 02:03:56 GMT</pubDate>
+      <description><![CDATA[<p><a href="https://apod.nasa.gov/apod/ap260428.html"><img align="left" alt="They're like mountain peaks, but they are forming stars." border="0" src="https://apod.nasa.gov/apod/calendar/S_260428.jpg" /></a> They're like mountain peaks, but they are forming stars.</p><br clear="all" />]]></description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://apod.nasa.gov/apod/ap260429.html</link>
+      <guid isPermaLink="false">3dfa404a7ef7fee2ba2ec263b30b037bddfc02b5</guid>
+      <pubDate>Sun, 03 May 2026 02:03:56 GMT</pubDate>
+      <description><![CDATA[<p><a href="https://apod.nasa.gov/apod/ap260429.html"><img align="left" alt="No, Earth did not recently acquire six more moons! " border="0" src="https://apod.nasa.gov/apod/calendar/S_260429.jpg" /></a> No, Earth did not recently acquire six more moons! </p><br clear="all" />]]></description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://apod.nasa.gov/apod/ap260430.html</link>
+      <guid isPermaLink="false">e7a486175815d2c37d898977db68589ddb5ea1a2</guid>
+      <pubDate>Sun, 03 May 2026 02:03:56 GMT</pubDate>
+      <description><![CDATA[<p><a href="https://apod.nasa.gov/apod/ap260430.html"><img align="left" alt="Have you ever thought about surfing on an alien world?" border="0" src="https://apod.nasa.gov/apod/calendar/S_260430.jpg" /></a> Have you ever thought about surfing on an alien world?</p><br clear="all" />]]></description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://apod.nasa.gov/apod/ap260501.html</link>
+      <guid isPermaLink="false">1f98447302da8fb96c141a96035940c63f8c0ee3</guid>
+      <pubDate>Sun, 03 May 2026 02:03:56 GMT</pubDate>
+      <description><![CDATA[<p><a href="https://apod.nasa.gov/apod/ap260501.html"><img align="left" alt="Near the heart of the" border="0" src="https://apod.nasa.gov/apod/calendar/S_260501.jpg" /></a> Near the heart of the</p><br clear="all" />]]></description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://apod.nasa.gov/apod/astropix.html</link>
+      <guid isPermaLink="false">c53e008c2d4677e6cd7b04efad00baa04923e841</guid>
+      <pubDate>Sun, 03 May 2026 02:03:56 GMT</pubDate>
+      <description><![CDATA[<p><a href="https://apod.nasa.gov/apod/astropix.html"><img align="left" alt="Shrouded in a thick atmosphere, the surface of" border="0" src="https://apod.nasa.gov/apod/calendar/S_260502.jpg" /></a> Shrouded in a thick atmosphere, the surface of</p><br clear="all" />]]></description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>Struggling High Streets fuel sense of neglect for voters ahead of local elections</title>
+      <link>https://www.bbc.com/news/articles/crl1l6g9264o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">92340d305d1ab195d7cc602ebbc34bb5e68bd4ac</guid>
+      <pubDate>Sun, 03 May 2026 01:48:14 GMT</pubDate>
+      <description><![CDATA[Failing High Streets fuel a wider sense of political discontent which could prove crucial in the upcoming elections for English councils in May.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -356,54 +404,6 @@
       <guid isPermaLink="false">5b802437d0164d313cd3c6e11ea0eb3ddb4f34ad</guid>
       <pubDate>Sat, 02 May 2026 17:25:40 GMT</pubDate>
       <description><![CDATA[The statue in Waterloo Place, which appeared early Wednesday, depicts a man proudly hoisting a flag— but the flag is blinding him.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Are Ipswich better equipped for Premier League this time?</title>
-      <link>https://www.bbc.com/sport/football/articles/ckgpw5ye21jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e6699c4c5cd494f46cfc66f31e367b8368667185</guid>
-      <pubDate>Sat, 02 May 2026 17:17:27 GMT</pubDate>
-      <description><![CDATA[Ipswich Town have won promotion from the Championship for the second time in three years - but are they better equipped for the Premier League in 2026?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Taiwan president visits Eswatini days after blaming China for cancelled trip</title>
-      <link>https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">14119d0046e070985dcf38204d9833f44bcf1801</guid>
-      <pubDate>Sat, 02 May 2026 17:01:47 GMT</pubDate>
-      <description><![CDATA[It is unclear how he reached Eswatini. China described his visit as a "stowaway-style escape farce".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Murphy powers past Higgins to reach Crucible final</title>
-      <link>https://www.bbc.com/sport/snooker/articles/cgmpvp09e07o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">fb362155317856d96495a680b0c49d35c999ecb0</guid>
-      <pubDate>Sat, 02 May 2026 16:57:22 GMT</pubDate>
-      <description><![CDATA[Shaun Murphy powers to a 17-15 victory over John Higgins to reach his fifth World Championship final at the Crucible Theatre in Sheffield.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Norris takes dominant win in Miami sprint race</title>
-      <link>https://www.bbc.com/sport/formula1/articles/cx217qz4rpzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e7c53f1d7677d82d996cfe24305a15441a6da612</guid>
-      <pubDate>Sat, 02 May 2026 16:52:49 GMT</pubDate>
-      <description><![CDATA[Lando Norris takes McLaren's first victory of the 2026 season with a dominant drive from pole position in the Miami Grand Prix sprint race.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification</title>
-      <link>https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">000b8d8dc73a387ab4878c41036f256292d81979</guid>
-      <pubDate>Sat, 02 May 2026 16:35:18 GMT</pubDate>
-      <description><![CDATA[German Defence Minister Boris Pistorius said the US decision to withdraw 5,000 troops was to be expected.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Imprisoned Iranian Nobel Peace Prize winner in critical condition</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition</link>
-      <guid isPermaLink="false">d71600b55e58bd2383a30c6e0812ed11058ede4d</guid>
-      <pubDate>Sat, 02 May 2026 15:57:43 GMT</pubDate>
-      <description><![CDATA[Narges Mohammadi, an Iranian activist and 2023 Nobel Peace Prize laureate, was hospitalized after collapsing in prison. Her family says her condition has deteriorated since a March heart attack.]]></description>
       <category>world</category>
     </item>
   </channel>
