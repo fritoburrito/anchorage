@@ -5,13 +5,13 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 11:55:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 13:40:56 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Overnight</title>
       <link>https://akpulselive.com/weather.html#overnight</link>
       <guid isPermaLink="false">40a0b6d670a5bd58384e5549d1fbe8dd7b77431b</guid>
-      <pubDate>Sun, 03 May 2026 11:55:10 GMT</pubDate>
-      <description><![CDATA[38°F | 5 to 10 mph E | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. East wind 5 to 10 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Sun, 03 May 2026 13:40:56 GMT</pubDate>
+      <description><![CDATA[38°F | 5 mph N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. North wind around 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -53,6 +53,38 @@
       <pubDate>Sat, 02 May 2026 13:50:30 GMT</pubDate>
       <description><![CDATA[It’s down to the final weeks of the second legislative session of the 34th Legislature. There will be a joint legislative session on Monday to consider an override vote of Gov. Dunleavy’s veto of a bipartisan elections reform bill. The draft budgets for next fiscal year are taking shape, lawmakers are considering governor’s appointees for [&#8230;]]]></description>
       <category>local</category>
+    </item>
+    <item>
+      <title>Two US service members reported missing in Morocco, officials say</title>
+      <link>https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5636b2ad3c6b58f8c99ac0a14e313b6c3f13bd56</guid>
+      <pubDate>Sun, 03 May 2026 13:12:14 GMT</pubDate>
+      <description><![CDATA[A search and rescue operation is underway for the service members, the US African Command said.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>2 US service members missing after military exercises in Morocco</title>
+      <link>https://abcnews.com/US/wireStory/2-us-service-members-missing-after-military-exercises-132611433</link>
+      <guid isPermaLink="false">2621ccdfe3b354904294e33c8ba8ce7769db9b23</guid>
+      <pubDate>Sun, 03 May 2026 12:52:00 GMT</pubDate>
+      <description><![CDATA[They taking part in an annual multinational military exercises in Morocco.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Two women die trying to cross Channel in small boat</title>
+      <link>https://www.bbc.com/news/articles/cvgz6q7p7n7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">de2daad608532d134346785e12c22f21ea9eac4c</guid>
+      <pubDate>Sun, 03 May 2026 12:26:49 GMT</pubDate>
+      <description><![CDATA[The boat, carrying 82 people, ran aground on a beach in northern France, says local official.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal</title>
+      <link>https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6f9e051a1b438e7c23ee6288794f141dfeae0968</guid>
+      <pubDate>Sun, 03 May 2026 12:05:59 GMT</pubDate>
+      <description><![CDATA[Fatalities have been reported around Ukraine as Kyiv says Russian "shadow fleet" tankers were hit by drones.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Police officers photographed body on own phones</title>
@@ -372,38 +404,6 @@
       <guid isPermaLink="false">b3f28774626f680d107ba24ad00a3a1b5f59ac6f</guid>
       <pubDate>Sat, 02 May 2026 22:36:49 GMT</pubDate>
       <description><![CDATA[Watch as Mark Allen misses a simple match-winning pot on the black during his semi-final loss against Wu Yize in the World Snooker Championship.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Is it advantage Arsenal in dramatic title race?</title>
-      <link>https://www.bbc.com/sport/football/articles/c6269y4gdlxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d3bc1f84688291f1809c3e3fdcdaac96412b8be8</guid>
-      <pubDate>Sat, 02 May 2026 22:30:55 GMT</pubDate>
-      <description><![CDATA[Are Arsenal now firmly in pole position to be Premier League champions after the Gunners went six points clear of Manchester City with a 3-0 win over Fulham.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Antonelli takes Miami pole from Verstappen</title>
-      <link>https://www.bbc.com/sport/formula1/articles/c2k20z83yxxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">71fe2653fd93b3116f5725477ccb6d19b5941cd1</guid>
-      <pubDate>Sat, 02 May 2026 21:40:15 GMT</pubDate>
-      <description><![CDATA[Mercedes driver Kimi Antonelli bounces back from a difficult sprint race to take pole position for the Miami Grand Prix.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Airlines can cancel flights in advance over fuel shortages, under new plans</title>
-      <link>https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0e9653a8fed83dcf8d256d8e4efda922efb58216</guid>
-      <pubDate>Sat, 02 May 2026 21:35:09 GMT</pubDate>
-      <description><![CDATA[Ministers hope move would help avoid last-minute flight cancellations for passengers this summer over Middle East fuel supplies.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Man charged after bomb hoax at Peter Kay show</title>
-      <link>https://www.bbc.com/news/articles/c1d2pvle9lqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7996befecbb3229f4867b53613fbd97ed0f71f54</guid>
-      <pubDate>Sat, 02 May 2026 21:28:32 GMT</pubDate>
-      <description><![CDATA[Omar Majed, of Washwood Heath, Birmingham will appear in court on Monday, police said.]]></description>
       <category>world</category>
     </item>
   </channel>
