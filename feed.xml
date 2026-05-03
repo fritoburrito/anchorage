@@ -5,13 +5,13 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 04:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 06:35:44 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://akpulselive.com/weather.html#tonight</link>
       <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Sun, 03 May 2026 04:01:50 GMT</pubDate>
-      <description><![CDATA[37°F | 0 to 15 mph SE | Isolated Rain Showers then Slight Chance Light Rain<br><br>Isolated rain showers before 10pm, then a slight chance of rain. Mostly cloudy, with a low around 37. Southeast wind 0 to 15 mph. Chance of precipitation is 20%.]]></description>
+      <pubDate>Sun, 03 May 2026 06:35:44 GMT</pubDate>
+      <description><![CDATA[37°F | 0 to 15 mph SE | Cloudy then Slight Chance Light Rain<br><br>A slight chance of rain after 1am. Cloudy, with a low around 37. Southeast wind 0 to 15 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -60,6 +60,30 @@
       <guid isPermaLink="false">f5c367ce27316877e08e31ff22a08ea18dc41a6b</guid>
       <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[Highlights of five Premier League games, including title-chasing Arsenal versus Fulham.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <link>https://apod.nasa.gov/apod/ap260502.html</link>
+      <guid isPermaLink="false">211957df87ccf1a052a8b1e7fc7c5dddf3f4823d</guid>
+      <pubDate>Sun, 03 May 2026 06:35:44 GMT</pubDate>
+      <description><![CDATA[<p><a href="https://apod.nasa.gov/apod/ap260502.html"><img align="left" alt="Shrouded in a thick atmosphere, the surface of" border="0" src="https://apod.nasa.gov/apod/calendar/S_260502.jpg" /></a> Shrouded in a thick atmosphere, the surface of</p><br clear="all" />]]></description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>What would it cost England and Scotland fans to go to World Cup?</title>
+      <link>https://www.bbc.com/sport/football/articles/cpwp81jz7vdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">05fddb1aa17f99bef93205f6f6d97c88c30d94e3</guid>
+      <pubDate>Sun, 03 May 2026 05:54:25 GMT</pubDate>
+      <description><![CDATA[High ticket prices, expensive accommodation and train fares way above normal rates. If you want to book a World Cup trip now, this is what it would cost.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>How we reported in -30C temperatures in Canada's Arctic</title>
+      <link>https://www.bbc.com/news/videos/cvgz3pnn1ppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">81ff4bdf35831494af84a28df3129f534d7a7529</guid>
+      <pubDate>Sun, 03 May 2026 04:30:41 GMT</pubDate>
+      <description><![CDATA[BBC's Nadine Yousif and Eloise Alanna spent five days travelling with the country's military rangers through frostbite and sub-zero temperatures.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -380,30 +404,6 @@
       <guid isPermaLink="false">1658569d6c8e7ffe5a275bf0b245c1a7d1e18bf3</guid>
       <pubDate>Sat, 02 May 2026 19:09:31 GMT</pubDate>
       <description><![CDATA[Author Bruce Y. Lee explains the term "choremancing" and how it's becoming popular in the world of dating.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Arsenal beat Fulham to move six points clear of Man City</title>
-      <link>https://www.bbc.com/sport/football/videos/c1m2033g12no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">57326650ff5cfa61c9ec4c4501975556b15027b2</guid>
-      <pubDate>Sat, 02 May 2026 19:00:24 GMT</pubDate>
-      <description><![CDATA[Watch highlights as Arsenal beat Fulham 3-0 to move six points clear of Manchester City at the top of the Premier League.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>King launches Space Agency project on final day in Bermuda</title>
-      <link>https://www.bbc.com/news/articles/cn4pvnpejw9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c6e516bd3e750e451be1d19e845bae6f894e6d25</guid>
-      <pubDate>Sat, 02 May 2026 18:08:38 GMT</pubDate>
-      <description><![CDATA[The King concludes his visit to the British overseas territory after landing from the US on Thursday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Calls grow over hospital care for jailed Iranian Nobel laureate Narges Mohammadi</title>
-      <link>https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">382c272bd5f016422ae2b3954ea1a05d1d257f59</guid>
-      <pubDate>Sat, 02 May 2026 17:55:06 GMT</pubDate>
-      <description><![CDATA[On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.]]></description>
       <category>world</category>
     </item>
   </channel>
