@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 13:40:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 14:57:00 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: Today</title>
+      <link>https://akpulselive.com/weather.html#today</link>
+      <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
+      <pubDate>Sun, 03 May 2026 14:57:00 GMT</pubDate>
+      <description><![CDATA[47°F | 0 to 5 mph N | Light Rain Likely<br><br>Rain likely. Cloudy, with a high near 47. North wind 0 to 5 mph. Chance of precipitation is 70%.]]></description>
+      <category>weather</category>
+    </item>
     <item>
       <title>Anchorage Weather: Overnight</title>
       <link>https://akpulselive.com/weather.html#overnight</link>
@@ -31,14 +39,6 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Today</title>
-      <link>https://akpulselive.com/weather.html#today</link>
-      <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
-      <pubDate>Sun, 03 May 2026 00:22:07 GMT</pubDate>
-      <description><![CDATA[48°F | 5 to 10 mph S | Chance Rain And Snow Showers then Chance Light Rain<br><br>A chance of rain and snow showers before 10am, then a chance of rain. Mostly cloudy, with a high near 48. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Laufey on making jazz cool again (and the fish that brought out her inner rage)</title>
       <link>https://www.bbc.com/news/articles/c99lvggdy4jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">aacd1fc76843ea1ffc4ff8410becb85e38c08c02</guid>
@@ -55,6 +55,22 @@
       <category>local</category>
     </item>
     <item>
+      <title>Police probe link between drive-by shooting and stabbing</title>
+      <link>https://www.bbc.com/news/articles/c6267xve17xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4329eed966abe745765d3e71070588ebda2319b9</guid>
+      <pubDate>Sun, 03 May 2026 14:45:00 GMT</pubDate>
+      <description><![CDATA[The possibility a drive-by shooting and a stabbing in Brixton are linked is being examined by police.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Police ask for help in Texas shooting that killed 2 teens, wounded 10</title>
+      <link>https://abcnews.com/US/wireStory/police-public-seek-suspects-texas-shooting-killed-2-132614440</link>
+      <guid isPermaLink="false">53c61a6d7228564d0799a2aa6f1838a054a57dba</guid>
+      <pubDate>Sun, 03 May 2026 14:33:04 GMT</pubDate>
+      <description><![CDATA[Two people opened fire at an apartment complex at about 2 a.m. Saturday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Two US service members reported missing in Morocco, officials say</title>
       <link>https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">5636b2ad3c6b58f8c99ac0a14e313b6c3f13bd56</guid>
@@ -68,6 +84,14 @@
       <guid isPermaLink="false">2621ccdfe3b354904294e33c8ba8ce7769db9b23</guid>
       <pubDate>Sun, 03 May 2026 12:52:00 GMT</pubDate>
       <description><![CDATA[They taking part in an annual multinational military exercises in Morocco.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fish, eels and birds killed in river pollution incident</title>
+      <link>https://www.bbc.com/news/articles/c78k57py38do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3f69c29658e59051594aa6ac428f88ff4d3c8ee8</guid>
+      <pubDate>Sun, 03 May 2026 12:39:28 GMT</pubDate>
+      <description><![CDATA[Fly fishers say the salmon population at the burn in Moray has been wiped out and could take years to recover.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -164,6 +188,14 @@
       <guid isPermaLink="false">f5c367ce27316877e08e31ff22a08ea18dc41a6b</guid>
       <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[Highlights of five Premier League games, including title-chasing Arsenal versus Fulham.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Huge crowd attends free Shakira Copacabana beach concert</title>
+      <link>https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8e9eee1e1f7577269f5c09b5c62294fbf4467199</guid>
+      <pubDate>Sun, 03 May 2026 07:56:47 GMT</pubDate>
+      <description><![CDATA[Shakira's appearance followed shows by Lady Gaga and Madonna, who have also performed on Copacabana beach in previous years.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -372,38 +404,6 @@
       <guid isPermaLink="false">ee76c69c8deb39be64a5d928c1957520c55b1e58</guid>
       <pubDate>Sat, 02 May 2026 23:17:17 GMT</pubDate>
       <description><![CDATA[Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show "the real picture".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>1 dead after vehicle crashes into Oregon health club, police say</title>
-      <link>https://abcnews.com/US/wireStory/1-person-dead-after-vehicle-crashes-oregon-health-132606300</link>
-      <guid isPermaLink="false">c9ed401baea3f12da69fd7f50248bb8c08f701b6</guid>
-      <pubDate>Sat, 02 May 2026 23:14:01 GMT</pubDate>
-      <description><![CDATA[Evidence of an explosive device was found in the vehicle, police said.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>What death doulas can teach us about dying</title>
-      <link>https://www.bbc.com/news/articles/cp9vp0ld1leo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">becc027a1dbbe42dd3786ebb5e1139c95aee6ca1</guid>
-      <pubDate>Sat, 02 May 2026 23:10:38 GMT</pubDate>
-      <description><![CDATA[Death doulas or soul midwives have increased in popularity in recent years. What do they do?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>From beds to LED masks, is the red light craze giving us more than just a warm glow?</title>
-      <link>https://www.bbc.com/news/articles/c2lw59jrdkxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">10a0a4d9c9fbb48ac3247786006ab0209066b804</guid>
-      <pubDate>Sat, 02 May 2026 23:00:30 GMT</pubDate>
-      <description><![CDATA[Whether it can really repair muscles and make skin look younger is up for debate.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Heartbroken Allen loses semi-final after fluffing winning pot</title>
-      <link>https://www.bbc.com/sport/snooker/videos/ce3p135d770o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b3f28774626f680d107ba24ad00a3a1b5f59ac6f</guid>
-      <pubDate>Sat, 02 May 2026 22:36:49 GMT</pubDate>
-      <description><![CDATA[Watch as Mark Allen misses a simple match-winning pot on the black during his semi-final loss against Wu Yize in the World Snooker Championship.]]></description>
       <category>world</category>
     </item>
   </channel>
