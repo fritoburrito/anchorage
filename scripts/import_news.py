@@ -110,7 +110,14 @@ SOURCES = [
         "tag": "npr",
         "enabled": True,
     },
-
+    {
+    "name": "NASA News Releases",
+    "url": "https://www.nasa.gov/news-release/feed/",
+    "category": "science",
+    "tag": "nasa",
+    "enabled": True,
+    },
+    
     # ----------------------------
     # REDDIT DISABLED
     # ----------------------------
