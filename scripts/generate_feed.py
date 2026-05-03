@@ -202,7 +202,7 @@ def build_index(items):
 
         # Add 🚀 icon for NASA items
         if item.get("tag") in ("nasa", "nasa-jpl", "nasa-apod"):
-        raw_title = "🚀 " + raw_title
+            raw_title = "🚀 " + raw_title
 
         title = escape(raw_title)
         link = escape(item.get("link") or item.get("url") or "#")
