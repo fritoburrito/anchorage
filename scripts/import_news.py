@@ -110,14 +110,23 @@ SOURCES = [
         "tag": "npr",
         "enabled": True,
     },
+    # ----------------------------
+    # SCIENCE / SPACE
+    # ----------------------------
     {
-        "name": "NASA News Releases",
-        "url": "https://www.nasa.gov/news-release/feed/",
+        "name": "NASA Main",
+        "url": "https://www.nasa.gov/feed/",
         "category": "science",
         "tag": "nasa",
         "enabled": True,
     },
-    
+    {
+        "name": "NASA JPL",
+        "url": "https://www.jpl.nasa.gov/feeds/news/",
+        "category": "science",
+        "tag": "nasa",
+        "enabled": True,
+    },
     # ----------------------------
     # REDDIT DISABLED
     # ----------------------------
@@ -135,20 +144,7 @@ SOURCES = [
         "tag": "reddit",
         "enabled": False,
     },
-    {
-        "name": "NASA Main",
-        "url": "https://www.nasa.gov/feed/",
-        "category": "science",
-        "tag": "nasa",
-        "enabled": True,
-},
-{
-        "name": "NASA JPL",
-        "url": "https://www.jpl.nasa.gov/feeds/news/",
-        "category": "science",
-        "tag": "nasa",
-        "enabled": True,
-},
+   
     
 ]
 
