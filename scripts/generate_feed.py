@@ -497,10 +497,12 @@ def build_index(items):
   <h1>Anchorage Custom Feed</h1>
   <p>{escape(FEED_DESCRIPTION)}</p>
 
-  <div class="feed-links">
-    <a href="feed.xml">📰 Open RSS Feed</a>
-    <a href="main.html" class="main-link">🚀 Open AK Pulse Live</a>
-  </div>
+<div class="feed-links">
+  <a href="feed.xml">📰 Open RSS Feed</a>
+  <a href="main.html" class="main-link">🚀 Open AK Pulse Live</a>
+  <a href="channel.html">📺 Channel View</a>
+  <a href="about.html">About</a>
+</div>
 
   <p>Feed URL: <code>akpulselive.com/feed.xml</code></p>
 
