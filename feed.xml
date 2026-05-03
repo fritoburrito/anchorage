@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 11:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 11:55:10 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: Overnight</title>
+      <link>https://akpulselive.com/weather.html#overnight</link>
+      <guid isPermaLink="false">40a0b6d670a5bd58384e5549d1fbe8dd7b77431b</guid>
+      <pubDate>Sun, 03 May 2026 11:55:10 GMT</pubDate>
+      <description><![CDATA[38°F | 5 to 10 mph E | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. East wind 5 to 10 mph. Chance of precipitation is 30%.]]></description>
+      <category>weather</category>
+    </item>
     <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://akpulselive.com/weather.html#tonight</link>
@@ -47,12 +55,12 @@
       <category>local</category>
     </item>
     <item>
-      <title>Anchorage Weather: Overnight</title>
-      <link>https://akpulselive.com/weather.html#overnight</link>
-      <guid isPermaLink="false">40a0b6d670a5bd58384e5549d1fbe8dd7b77431b</guid>
-      <pubDate>Sat, 02 May 2026 13:39:38 GMT</pubDate>
-      <description><![CDATA[35°F | 10 mph SE | Chance Rain Showers<br><br>A chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 10 mph. Chance of precipitation is 50%.]]></description>
-      <category>weather</category>
+      <title>Police officers photographed body on own phones</title>
+      <link>https://www.bbc.com/news/articles/cpvpnr098wlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">88e1f78032a8c9767ad15380f3620cb74a9056de</guid>
+      <pubDate>Sun, 03 May 2026 11:03:24 GMT</pubDate>
+      <description><![CDATA[The Met Police issues a written warning to two officers and apologises to anyone affected.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Two killed and major incident declared after explosion</title>
@@ -60,6 +68,14 @@
       <guid isPermaLink="false">5cb3610a8381d18b261cb98cd6a66b8a06fedb7f</guid>
       <pubDate>Sun, 03 May 2026 10:57:42 GMT</pubDate>
       <description><![CDATA[Avon and Somerset Police said the incident was not believed to be terrorism related.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tributes after teen killed by falling tree</title>
+      <link>https://www.bbc.com/news/articles/cy02ley5jxeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">80a61707bd0993fded22d01a99f7bd14b15784ae</guid>
+      <pubDate>Sun, 03 May 2026 10:54:50 GMT</pubDate>
+      <description><![CDATA[Police said the youngster was pronounced dead at the scene in Stafford.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -223,6 +239,14 @@
       <category>world</category>
     </item>
     <item>
+      <title>WATCH: Passengers scramble after Spirit Airlines shutters</title>
+      <link>https://abcnews.com/video/132607225/</link>
+      <guid isPermaLink="false">20ebbc751a8ff554b4a07c411eb66768bb811230</guid>
+      <pubDate>Sun, 03 May 2026 01:17:01 GMT</pubDate>
+      <description><![CDATA[Spirit Airlines shut down early Saturday after more than 30 years, leaving passengers scrambling for options.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>WATCH: America Strong: Oldest TSA officer in the US</title>
       <link>https://abcnews.com/video/132608079/</link>
       <guid isPermaLink="false">a7e28882c8bf095a37e1db17db77a2ad2068ca79</guid>
@@ -380,30 +404,6 @@
       <guid isPermaLink="false">7996befecbb3229f4867b53613fbd97ed0f71f54</guid>
       <pubDate>Sat, 02 May 2026 21:28:32 GMT</pubDate>
       <description><![CDATA[Omar Majed, of Washwood Heath, Birmingham will appear in court on Monday, police said.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Stop families who choose not to work getting unlimited benefits, Tories say</title>
-      <link>https://www.bbc.com/news/articles/cm2pm41z1nxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ffc562794801aa183ef7c68e403523ff4b7d75cf</guid>
-      <pubDate>Sat, 02 May 2026 21:00:45 GMT</pubDate>
-      <description><![CDATA[The party says removing some exemptions to the household benefit cap would save £1bn a year.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Timmy the stranded whale rescued after weekslong effort</title>
-      <link>https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort</link>
-      <guid isPermaLink="false">356ba6e4a324079bb617a7d50722be4a32991115</guid>
-      <pubDate>Sat, 02 May 2026 20:51:24 GMT</pubDate>
-      <description><![CDATA[Timmy captured the hearts of whale lovers across the globe who rooted for a happy ending for the humpback.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Has much-maligned Gyokeres proved his critics wrong?</title>
-      <link>https://www.bbc.com/sport/football/articles/cdjp3v7lv8mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">fcff7693e3f1af78f1a1118d5ab2e64007fab33e</guid>
-      <pubDate>Sat, 02 May 2026 20:45:15 GMT</pubDate>
-      <description><![CDATA[The talk before the season was that Arsenal needed a 20-goal-a-season striker to win a trophy - and now they finally have one in Viktor Gyokeres.]]></description>
       <category>world</category>
     </item>
   </channel>
