@@ -452,6 +452,11 @@ def build_index(items):
       color: #fff7ed;
     }}
 
+    .cat-science {{
+      background: #2563eb;
+      color: #eff6ff;
+    }}
+
     .cat-reddit {{
       background: #ff4500;
       color: #fff7ed;
