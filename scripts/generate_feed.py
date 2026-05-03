@@ -18,7 +18,7 @@ FEED_TITLE = "AK Live Pulse"
 FEED_DESCRIPTION = "A custom WEB/RSS feed published by a Bot."
 LANGUAGE = "en-us"
 MAX_ITEMS = 50
-INDEX_ITEMS = 30
+INDEX_ITEMS = 50
 
 
 def cdata(text: str) -> str:
