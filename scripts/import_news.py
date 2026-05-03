@@ -113,7 +113,7 @@ SOURCES = [
     # ----------------------------
     # SCIENCE / SPACE
     # ----------------------------
-    {
+   {
         "name": "NASA Main",
         "url": "https://www.nasa.gov/feed/",
         "category": "science",
@@ -121,10 +121,17 @@ SOURCES = [
         "enabled": True,
     },
     {
-        "name": "NASA JPL",
+        "name": "NASA JPL News",
         "url": "https://www.jpl.nasa.gov/feeds/news/",
         "category": "science",
-        "tag": "nasa",
+        "tag": "nasa-jpl",
+        "enabled": True,
+    },
+    {
+        "name": "NASA APOD",
+        "url": "https://apod.nasa.gov/apod.rss",
+        "category": "science",
+        "tag": "nasa-apod",
         "enabled": True,
     },
     # ----------------------------
