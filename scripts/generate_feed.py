@@ -197,7 +197,14 @@ def build_index(items):
     rows = []
 
     for item in items[:INDEX_ITEMS]:
-        title = escape(item.get("title", "Untitled"))
+       
+        raw_title = item.get("title", "Untitled")
+
+        # Add 🚀 icon for NASA items
+        if item.get("tag") in ("nasa", "nasa-jpl", "nasa-apod"):
+        raw_title = "🚀 " + raw_title
+
+        title = escape(raw_title)
         link = escape(item.get("link") or item.get("url") or "#")
         pub = escape(item.get("pubDate", ""))
         category = effective_category(item)
