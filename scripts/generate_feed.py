@@ -500,7 +500,6 @@ def build_index(items):
 <div class="feed-links">
   <a href="feed.xml">📰 Open RSS Feed</a>
   <a href="main.html" class="main-link">🚀 Open AK Pulse Live</a>
-  <a href="channel.html">📺 Channel View</a>
   <a href="about.html">About</a>
 </div>
 
