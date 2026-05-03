@@ -5,21 +5,21 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 02:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 02:35:39 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: Tonight</title>
+      <link>https://akpulselive.com/weather.html#tonight</link>
+      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
+      <pubDate>Sun, 03 May 2026 02:35:39 GMT</pubDate>
+      <description><![CDATA[37°F | 0 to 15 mph SE | Scattered Rain Showers then Slight Chance Light Rain<br><br>Scattered rain showers before 10pm, then a slight chance of rain. Mostly cloudy, with a low around 37. Southeast wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%.]]></description>
+      <category>weather</category>
+    </item>
     <item>
       <title>Anchorage Weather: This Afternoon</title>
       <link>https://akpulselive.com/weather.html#this-afternoon</link>
       <guid isPermaLink="false">53adb82eb036cc9a926d74868058f6836b5847fb</guid>
       <pubDate>Sun, 03 May 2026 02:05:39 GMT</pubDate>
       <description><![CDATA[48°F | 10 mph S | Scattered Rain Showers<br><br>Scattered rain showers. Mostly cloudy, with a high near 48. South wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 30%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight</title>
-      <link>https://akpulselive.com/weather.html#tonight</link>
-      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Sun, 03 May 2026 02:03:56 GMT</pubDate>
-      <description><![CDATA[37°F | 0 to 15 mph SE | Scattered Rain Showers then Slight Chance Light Rain<br><br>Scattered rain showers before 10pm, then a slight chance of rain. Mostly cloudy, with a low around 37. Southeast wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -53,14 +53,6 @@
       <pubDate>Sat, 02 May 2026 13:39:38 GMT</pubDate>
       <description><![CDATA[35°F | 10 mph SE | Chance Rain Showers<br><br>A chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 10 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Newscast – Friday, May 01, 2026</title>
-      <link>https://www.ktoo.org/2026/05/01/newscast-friday-may-01-2026/</link>
-      <guid isPermaLink="false">3bba6419d1c4b3619849869ac0d82e6cb54cbe8f</guid>
-      <pubDate>Sat, 02 May 2026 01:00:34 GMT</pubDate>
-      <description><![CDATA[In this newscast: Two people were sent to Bartlett Regional Hospital for minor injuries after a Goldbelt Tram car came to an abrupt halt at its bottom terminal while making its way down Mount Roberts last night. That’s according to Capital City Fire and Rescue; The University of Alaska system will have a new president this summer. The Board of Regents appointed Fairbanks attorney Matt Cooper to the role this morning. He formerly served as general counsel for the university; It’s that time of year again when we’re all told to be “bear aware.” Bear encounters can happen when we’re hiking, camping or even just walking through town. KTOO’s Mike Lane recently sat down with Area Management Biologist Carl Koch with Fish and Game Wildlife Conservation to learn what attracts the bears and how we can limit encounters; Decisions about Alaskan schools are almost always made by administrators, school board members and lawmakers. But students also play a role. Twice a year, student leaders from across the state gather at the Alaska Association of Student Government conference to decide on goals to improve their schools.]]></description>
-      <category>local</category>
     </item>
     <item>
       <title>Watch: Match of the Day</title>
@@ -127,11 +119,27 @@
       <category>science</category>
     </item>
     <item>
+      <title>Musk's AI told me people were coming to kill me. I grabbed a hammer and prepared for war</title>
+      <link>https://www.bbc.com/news/articles/c242pzr1zp2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4fd3c403a7c73e93a88b31303529972390f3c2ef</guid>
+      <pubDate>Sun, 03 May 2026 01:48:55 GMT</pubDate>
+      <description><![CDATA[Several people told the BBC they experienced delusions after intense conversations with AI.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Struggling High Streets fuel sense of neglect for voters ahead of local elections</title>
       <link>https://www.bbc.com/news/articles/crl1l6g9264o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">92340d305d1ab195d7cc602ebbc34bb5e68bd4ac</guid>
       <pubDate>Sun, 03 May 2026 01:48:14 GMT</pubDate>
       <description><![CDATA[Failing High Streets fuel a wider sense of political discontent which could prove crucial in the upcoming elections for English councils in May.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Man charged with murder and sexual assault of 5-year-old Australian girl</title>
+      <link>https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d3ac798e9d032cf458837336f1bade357808ea46</guid>
+      <pubDate>Sun, 03 May 2026 01:48:01 GMT</pubDate>
+      <description><![CDATA[The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -396,14 +404,6 @@
       <guid isPermaLink="false">382c272bd5f016422ae2b3954ea1a05d1d257f59</guid>
       <pubDate>Sat, 02 May 2026 17:55:06 GMT</pubDate>
       <description><![CDATA[On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Banksy confirms new statue installed in central London is his work</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5808871/banksy-statue-london</link>
-      <guid isPermaLink="false">5b802437d0164d313cd3c6e11ea0eb3ddb4f34ad</guid>
-      <pubDate>Sat, 02 May 2026 17:25:40 GMT</pubDate>
-      <description><![CDATA[The statue in Waterloo Place, which appeared early Wednesday, depicts a man proudly hoisting a flag— but the flag is blinding him.]]></description>
       <category>world</category>
     </item>
   </channel>
