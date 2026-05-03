@@ -135,6 +135,21 @@ SOURCES = [
         "tag": "reddit",
         "enabled": False,
     },
+    {
+    "name": "NASA Main",
+    "url": "https://www.nasa.gov/feed/",
+    "category": "science",
+    "tag": "nasa",
+    "enabled": True,
+},
+{
+    "name": "NASA JPL",
+    "url": "https://www.jpl.nasa.gov/feeds/news/",
+    "category": "science",
+    "tag": "nasa",
+    "enabled": True,
+},
+    
 ]
 
 
