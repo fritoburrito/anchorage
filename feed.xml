@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 14:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 15:57:00 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today</title>
       <link>https://akpulselive.com/weather.html#today</link>
       <guid isPermaLink="false">ac74072e345b731b735b01c340123429bb1289c9</guid>
-      <pubDate>Sun, 03 May 2026 14:57:00 GMT</pubDate>
+      <pubDate>Sun, 03 May 2026 15:57:00 GMT</pubDate>
       <description><![CDATA[47°F | 0 to 5 mph N | Light Rain Likely<br><br>Rain likely. Cloudy, with a high near 47. North wind 0 to 5 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -53,6 +53,30 @@
       <pubDate>Sat, 02 May 2026 13:50:30 GMT</pubDate>
       <description><![CDATA[It’s down to the final weeks of the second legislative session of the 34th Legislature. There will be a joint legislative session on Monday to consider an override vote of Gov. Dunleavy’s veto of a bipartisan elections reform bill. The draft budgets for next fiscal year are taking shape, lawmakers are considering governor’s appointees for [&#8230;]]]></description>
       <category>local</category>
+    </item>
+    <item>
+      <title>Police officer lowered into crocodile-infested river to recover human remains</title>
+      <link>https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f864884bda416c1c67fe54a18250f617368691a8</guid>
+      <pubDate>Sun, 03 May 2026 15:47:59 GMT</pubDate>
+      <description><![CDATA[Police suspect the human remains belong to a businessman swept away by floodwater last week.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sen. Reed on Trump’s Iran strategy: ‘I don’t believe the president has a plan’</title>
+      <link>https://abcnews.com/Politics/sen-reed-trumps-iran-strategy-dont-president-plan/story?id=132606684</link>
+      <guid isPermaLink="false">8b567f851cea31b77737fe5b81a501986fd291a5</guid>
+      <pubDate>Sun, 03 May 2026 15:16:24 GMT</pubDate>
+      <description><![CDATA[Ranking Senate Armed Services Committee Democrat Jack Reed said he believes the U.S. is in a "much worse position" with Iran since the war started.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sir Alex Ferguson taken to hospital as precaution before Man Utd v Liverpool</title>
+      <link>https://www.bbc.com/sport/football/articles/c0r2nvpvylxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">24094d2c0da9633e345d4f04a36c14a114b68787</guid>
+      <pubDate>Sun, 03 May 2026 14:56:40 GMT</pubDate>
+      <description><![CDATA[Sir Alex Ferguson is taken to hospital after falling unwell at Old Trafford shortly before Manchester United's Premier League match with Liverpool on Sunday.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Police probe link between drive-by shooting and stabbing</title>
@@ -380,30 +404,6 @@
       <guid isPermaLink="false">a12d0107d8bf19612084014513009af2c33fdbd3</guid>
       <pubDate>Sat, 02 May 2026 23:36:02 GMT</pubDate>
       <description><![CDATA[Lando Norris says the Formula 1 drivers will be "thrown in at the deep end" by expected wet conditions for the Miami Grand Prix.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Iran submits 14-point response to U.S. proposal to end war</title>
-      <link>https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal</link>
-      <guid isPermaLink="false">d64074c6ca4cdb8c900080cbfc594344d8539423</guid>
-      <pubDate>Sat, 02 May 2026 23:35:01 GMT</pubDate>
-      <description><![CDATA[Iran has presented a 14-point response to the U.S. proposal to end the war, according to Iranian state media.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?</title>
-      <link>https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">17c5eb782457466bbbf05c5c17f724b39ed8581c</guid>
-      <pubDate>Sat, 02 May 2026 23:19:27 GMT</pubDate>
-      <description><![CDATA[President Zelensky has been visiting the Gulf to demonstrate his country's military nous.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The clandestine network smuggling Starlink tech into Iran to beat internet blackout</title>
-      <link>https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ee76c69c8deb39be64a5d928c1957520c55b1e58</guid>
-      <pubDate>Sat, 02 May 2026 23:17:17 GMT</pubDate>
-      <description><![CDATA[Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show "the real picture".]]></description>
       <category>world</category>
     </item>
   </channel>
