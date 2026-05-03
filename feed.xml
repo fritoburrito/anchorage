@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 00:50:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 01:21:44 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: This Afternoon</title>
       <link>https://akpulselive.com/weather.html#this-afternoon</link>
       <guid isPermaLink="false">53adb82eb036cc9a926d74868058f6836b5847fb</guid>
-      <pubDate>Sun, 03 May 2026 00:50:06 GMT</pubDate>
+      <pubDate>Sun, 03 May 2026 01:21:44 GMT</pubDate>
       <description><![CDATA[48°F | 10 mph S | Scattered Rain Showers<br><br>Scattered rain showers. Mostly cloudy, with a high near 48. South wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -84,6 +84,30 @@
       <guid isPermaLink="false">f5c367ce27316877e08e31ff22a08ea18dc41a6b</guid>
       <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
       <description><![CDATA[Highlights of five Premier League games, including title-chasing Arsenal versus Fulham.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WATCH: America Strong: Oldest TSA officer in the US</title>
+      <link>https://abcnews.com/video/132608079/</link>
+      <guid isPermaLink="false">a7e28882c8bf095a37e1db17db77a2ad2068ca79</guid>
+      <pubDate>Sun, 03 May 2026 01:15:46 GMT</pubDate>
+      <description><![CDATA[John Wayne, 90, recounts how joining the Transportation Security Administration became a second career after financial hardship.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next</title>
+      <link>https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us</link>
+      <guid isPermaLink="false">5021639f18569cb45305a9692d97529d076d4eda</guid>
+      <pubDate>Sun, 03 May 2026 00:57:59 GMT</pubDate>
+      <description><![CDATA[Germany's defense minister is playing down the impact of the Pentagon's decision to pull 5,000 troops from the country, but the move has rattled NATO allies and added to growing fears that Europe can no longer rely on Washington.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The Papers: '£7m tax bill for William' and 'Traitors take their places'</title>
+      <link>https://www.bbc.com/news/articles/cewp2wl7lg5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">159cfed71b78a5ee6daa28eb8f35f1982c28aeef</guid>
+      <pubDate>Sun, 03 May 2026 00:56:45 GMT</pubDate>
+      <description><![CDATA[The Prince of Wales's income tax bill revealed and Celebrity Traitors returns leads Sunday's papers.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -380,30 +404,6 @@
       <guid isPermaLink="false">d71600b55e58bd2383a30c6e0812ed11058ede4d</guid>
       <pubDate>Sat, 02 May 2026 15:57:43 GMT</pubDate>
       <description><![CDATA[Narges Mohammadi, an Iranian activist and 2023 Nobel Peace Prize laureate, was hospitalized after collapsing in prison. Her family says her condition has deteriorated since a March heart attack.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Airlines reduce, cap fares for Spirit travelers looking to rebook canceled flights</title>
-      <link>https://abcnews.com/Business/airlines-reduce-cap-fares-spirit-travelers-rebook-cancelled/story?id=132598089</link>
-      <guid isPermaLink="false">67fa7e2aafd7ace7aea4a840a9a4bb6a0436db1c</guid>
-      <pubDate>Sat, 02 May 2026 15:37:21 GMT</pubDate>
-      <description><![CDATA[The Department of Transportation said Saturday the majority of airlines will be capping tickets prices for Spirit travelers who need to rebook their cancelled flights.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>California to begin ticketing driverless cars that violate traffic laws</title>
-      <link>https://www.bbc.com/news/articles/clypjx3rg2go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">dfab5041e566e257dd255bac9264254d9702fccb</guid>
-      <pubDate>Sat, 02 May 2026 15:31:40 GMT</pubDate>
-      <description><![CDATA[Under the new rules, police will be able to issue tickets directly to the car's manufacturer when an autonomous vehicle breaks a traffic law.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kemi Badenoch apologises after Bloody Sunday footage used in video</title>
-      <link>https://www.bbc.com/news/articles/cx21n5kx4d9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1a75a4bc0e9184eead0e26c091ef833d6b14afa0</guid>
-      <pubDate>Sat, 02 May 2026 15:14:25 GMT</pubDate>
-      <description><![CDATA[Foyle MP Colum Eastwood called on Badenoch to personally apologise after the video was posted online.]]></description>
       <category>world</category>
     </item>
   </channel>
