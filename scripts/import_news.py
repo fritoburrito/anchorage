@@ -10,8 +10,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "feed_items.json"
 
-MAX_TOTAL_ITEMS = 50
+MAX_TOTAL_ITEMS = 60
 MAX_PER_SOURCE = 5
+MIN_WORLD_ITEMS = 6
 TIMEOUT = 20
 
 
@@ -101,9 +102,25 @@ SOURCES = [
         "tag": "alaska",
         "enabled": True,
     },
+
+    # World / general feeds
     {
-        "name": "BBC",
+        "name": "BBC World",
+        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "category": "world",
+        "tag": "world",
+        "enabled": True,
+    },
+    {
+        "name": "BBC News",
         "url": "https://feeds.bbci.co.uk/news/rss.xml",
+        "category": "world",
+        "tag": "world",
+        "enabled": True,
+    },
+    {
+        "name": "NPR News",
+        "url": "https://feeds.npr.org/1001/rss.xml",
         "category": "world",
         "tag": "world",
         "enabled": True,
@@ -188,30 +205,49 @@ def parse_feed(xml, source):
     entries = root.findall(".//item")
 
     if not entries:
-        entries = root.findall(".//{http://www.w3.org/2005/Atom}entry")
+        entries = [
+            e for e in root.iter()
+            if e.tag.split("}", 1)[-1] == "entry"
+        ]
 
     for e in entries[:MAX_PER_SOURCE]:
-        title = get_child_text(e, {"title"})
-        link = get_child_text(e, {"link"}) or get_atom_link(e)
-        desc = get_child_text(e, {"description", "summary", "content"})
-        pub = get_child_text(e, {"pubDate", "published", "updated"})
+        title = clean(get_child_text(e, ["title"]))
+        link = get_child_text(e, ["link"]) or get_atom_link(e)
 
-        if not title or not link:
+        # Alaska Landmine feed links can be unreliable.
+        # Keep the headline, but send clicks to the homepage.
+        if source.get("name") == "Alaska Landmine":
+            link = source.get("home", "https://alaskalandmine.com/")
+
+        summary = clean(get_child_text(e, ["description", "summary", "content"]))
+        date_text = get_child_text(e, ["pubDate", "updated", "published"])
+        date = parse_date(date_text)
+
+        if not title:
             continue
 
+        cat = auto_category(title, summary, source.get("category", "general"))
+
         items.append({
-            "title": clean_title(title),
+            "title": title,
             "link": link,
-            "url": link,
-            "summary": desc,
-            "description": desc,
-            "source": source["name"],
-            "category": source.get("category", "general"),
+            "description": summary,
+            "pubDate": format_date(date),
+            "category": cat,
             "tag": source.get("tag", ""),
-            "pubDate": pub or now_rfc2822(),
+            "source": source.get("name", ""),
+            "rank": source_rank(source),
         })
 
     return items
+
+
+def sort_by_date(items):
+    return sorted(
+        items,
+        key=lambda x: parse_date(x.get("pubDate", "")),
+        reverse=True,
+    )
 
 
 def main():
@@ -250,17 +286,34 @@ def main():
 
     combined = new_items + existing
 
-    combined = sorted(
-        combined,
+    # Reserve room for world/general stories so Alaska feeds do not crowd them out.
+    world_items = [
+        item for item in combined
+        if item.get("category") in ["world", "business", "national"]
+        or item.get("tag") in ["world", "business", "national"]
+    ]
+
+    non_world_items = [
+        item for item in combined
+        if item not in world_items
+    ]
+
+    world_items = sort_by_date(world_items)[:MIN_WORLD_ITEMS]
+
+    non_world_items = sorted(
+        non_world_items,
         key=lambda x: (
             x.get("rank", 0),
-            x.get("pubDate", ""),
+            parse_date(x.get("pubDate", "")),
         ),
         reverse=True,
-    )[:MAX_TOTAL_ITEMS]
+    )
+
+    combined = non_world_items[:MAX_TOTAL_ITEMS - len(world_items)] + world_items
 
     DATA_FILE.write_text(json.dumps(combined, indent=2), encoding="utf-8")
     print("Saved", len(combined), "items")
+    print("World/general items reserved:", len(world_items))
 
 
 if __name__ == "__main__":
