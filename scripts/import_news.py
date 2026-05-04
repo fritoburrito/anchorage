@@ -44,7 +44,7 @@ SOURCES = [
         "enabled": True,
     },
     {
-        {"name": "Anchorage Daily News","url": "https://www.adn.com/rss/","category": "alaska-news"},
+        "name": "Anchorage Daily News","url": "https://www.adn.com/rss/","category": "alaska-news"},
         "url": "https://www.adn.com/arcio/rss/",
         "category": "alaska",
         "tag": "adn",
