@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 23:57:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 04:01:13 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: Tonight</title>
+      <link>https://akpulselive.com/weather.html#tonight</link>
+      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
+      <pubDate>Mon, 04 May 2026 04:01:13 GMT</pubDate>
+      <description><![CDATA[39°F | 5 to 10 mph NW | Light Rain Likely<br><br>Rain likely. Cloudy, with a low around 39. Northwest wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
+      <category>weather</category>
+    </item>
     <item>
       <title>Anchorage Weather: This Afternoon</title>
       <link>https://akpulselive.com/weather.html#this-afternoon</link>
@@ -39,14 +47,6 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight</title>
-      <link>https://akpulselive.com/weather.html#tonight</link>
-      <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Sun, 03 May 2026 11:00:14 GMT</pubDate>
-      <description><![CDATA[37°F | 0 to 15 mph SE | Cloudy then Slight Chance Light Rain<br><br>A slight chance of rain after 1am. Cloudy, with a low around 37. Southeast wind 0 to 15 mph. Chance of precipitation is 20%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Laufey on making jazz cool again (and the fish that brought out her inner rage)</title>
       <link>https://www.bbc.com/news/articles/c99lvggdy4jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">aacd1fc76843ea1ffc4ff8410becb85e38c08c02</guid>
@@ -55,11 +55,91 @@
       <category>local</category>
     </item>
     <item>
+      <title>Trump says the US will 'guide' stranded ships from the Strait of Hormuz</title>
+      <link>https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz</link>
+      <guid isPermaLink="false">f734f795ac2aa3b79086e0881a2b9ba58c53d4fd</guid>
+      <pubDate>Mon, 04 May 2026 03:47:24 GMT</pubDate>
+      <description><![CDATA[The United States will launch an effort on Monday to "guide" stranded ships from the Iran-gripped Strait of Hormuz, President Donald Trump said, as two ships around the strait reported attacks.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump says US to 'guide' stranded ships through Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/c775jevkyv2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">af07bb6a5668ab28001898fb169d89293ccf2f15</guid>
+      <pubDate>Mon, 04 May 2026 03:38:21 GMT</pubDate>
+      <description><![CDATA[More than 100 aircraft and 15,000 personnel will be part of the operation due to start on Monday, the US military says.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Asian markets are mixed and oil is steady after Wall Street hits records</title>
+      <link>https://abcnews.com/Business/wireStory/asian-markets-mixed-oil-steady-after-wall-street-132625173</link>
+      <guid isPermaLink="false">90bf53d16466a11299f1e5ffb8c0d176f1bad7bf</guid>
+      <pubDate>Mon, 04 May 2026 03:02:39 GMT</pubDate>
+      <description><![CDATA[Shares are mixed in Asia after U.S. stocks set more records, powered by strong profits for major companies]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>GameStop makes $55.5bn takeover offer for eBay</title>
+      <link>https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7f70fd1957d50a2ff0e216832733edcf62495885</guid>
+      <pubDate>Mon, 04 May 2026 02:22:34 GMT</pubDate>
+      <description><![CDATA[GameStop's boss Ryan Cohen says he sees potential to make eBay a much bigger rival to Amazon.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Chris Mason: Elections this week a smorgasbord of competitiveness</title>
+      <link>https://www.bbc.com/news/articles/c202wg747qpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c5df3f82e2c0df9a2ec115657be1e323453a95d3</guid>
+      <pubDate>Mon, 04 May 2026 01:08:41 GMT</pubDate>
+      <description><![CDATA[The scale of these elections looks set to vividly expose the breadth of Labour's vulnerabilities, Chris Mason writes.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The Papers: 'No money for new weapons' and 'Cost of pint hits £10'</title>
+      <link>https://www.bbc.com/news/articles/c302njdend1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">25653e11cb53c8b7bebbedd35bac6df32ba54509</guid>
+      <pubDate>Mon, 04 May 2026 00:01:29 GMT</pubDate>
+      <description><![CDATA[A lack of defence funding and surging costs of a pint of beer are prominent stories on Monday's papers.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rudy Giuliani in critical condition in hospital</title>
+      <link>https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">697fa211714d00fe193c0a365452722698e2224e</guid>
+      <pubDate>Mon, 04 May 2026 00:00:42 GMT</pubDate>
+      <description><![CDATA[The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says</title>
       <link>https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean</link>
       <guid isPermaLink="false">00b97ed9489946c026bf0d461424fbea1ed79915</guid>
       <pubDate>Sun, 03 May 2026 23:30:14 GMT</pubDate>
       <description><![CDATA[Hantaviruses are usually spread by exposure to urine, saliva or feces from infected rodents, such as rats or mice. Hantavirus infections are rare but can cause deadly respiratory infections.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BBC uncovers the Ugandan scammers abusing dogs to elicit donations from animal lovers</title>
+      <link>https://www.bbc.com/news/articles/c4g9l74wvd7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">80465aba88990485b71f3b25b2eb0d646d975411</guid>
+      <pubDate>Sun, 03 May 2026 23:25:17 GMT</pubDate>
+      <description><![CDATA[Unwitting donors hand over money to save suffering animals but Ugandan con artists pocket the cash.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Some Iranians fear the regime is now more entrenched - and ready for revenge</title>
+      <link>https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2adcb86e2a4ce41708a1ead699e6febfe74639a9</guid>
+      <pubDate>Sun, 03 May 2026 23:19:57 GMT</pubDate>
+      <description><![CDATA[Ordinary Iranians tell of worry about increased repression by authorities after the war is over.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>European leaders converge on Armenia as Russia looks on</title>
+      <link>https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b4b16718ef2dd5d38f7f254eb76e5c0959d8e715</guid>
+      <pubDate>Sun, 03 May 2026 23:19:05 GMT</pubDate>
+      <description><![CDATA[Two European summits are being held in a country long considered Russia's closest ally in the region.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -324,86 +404,6 @@
       <guid isPermaLink="false">3f69c29658e59051594aa6ac428f88ff4d3c8ee8</guid>
       <pubDate>Sun, 03 May 2026 12:39:28 GMT</pubDate>
       <description><![CDATA[Fly fishers say the salmon population at the burn in Moray has been wiped out and could take years to recover.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Two women die trying to cross Channel in small boat</title>
-      <link>https://www.bbc.com/news/articles/cvgz6q7p7n7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">de2daad608532d134346785e12c22f21ea9eac4c</guid>
-      <pubDate>Sun, 03 May 2026 12:26:49 GMT</pubDate>
-      <description><![CDATA[The boat, carrying 82 people, ran aground on a beach in northern France, says local official.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'I just want to see her again' says son of imprisoned Myanmar ex-leader Aung San Suu Kyi</title>
-      <link>https://www.npr.org/2026/05/03/nx-s1-5808875/aung-san-suu-kyi-myanmar-son-house-arrest</link>
-      <guid isPermaLink="false">3023bc445a005736153d9c7889544aa6b120721b</guid>
-      <pubDate>Sun, 03 May 2026 12:07:07 GMT</pubDate>
-      <description><![CDATA[On Thursday, authorities in Myanmar claimed they had transferred Nobel laureate Aung San Suu Kyi from prison to house arrest. Her son Kim Aris spoke to NPR about his doubts about the regime's account.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal</title>
-      <link>https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6f9e051a1b438e7c23ee6288794f141dfeae0968</guid>
-      <pubDate>Sun, 03 May 2026 12:05:59 GMT</pubDate>
-      <description><![CDATA[Fatalities have been reported around Ukraine as Kyiv says Russian "shadow fleet" tankers were hit by drones.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Police officers photographed body on own phones</title>
-      <link>https://www.bbc.com/news/articles/cpvpnr098wlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">88e1f78032a8c9767ad15380f3620cb74a9056de</guid>
-      <pubDate>Sun, 03 May 2026 11:03:24 GMT</pubDate>
-      <description><![CDATA[The Met Police issues a written warning to two officers and apologises to anyone affected.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Two killed and major incident declared after explosion</title>
-      <link>https://www.bbc.com/news/articles/c202w3lzdvjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5cb3610a8381d18b261cb98cd6a66b8a06fedb7f</guid>
-      <pubDate>Sun, 03 May 2026 10:57:42 GMT</pubDate>
-      <description><![CDATA[Avon and Somerset Police said the incident was not believed to be terrorism related.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tributes after teen killed by falling tree</title>
-      <link>https://www.bbc.com/news/articles/cy02ley5jxeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">80a61707bd0993fded22d01a99f7bd14b15784ae</guid>
-      <pubDate>Sun, 03 May 2026 10:54:50 GMT</pubDate>
-      <description><![CDATA[Police said the youngster was pronounced dead at the scene in Stafford.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>How a weaker dollar is quietly making life more expensive</title>
-      <link>https://abcnews.com/Business/wireStory/weaker-dollar-quietly-making-life-expensive-132611177</link>
-      <guid isPermaLink="false">deeb5bb8e7a162aee83c044facb18c012120342a</guid>
-      <pubDate>Sun, 03 May 2026 10:29:19 GMT</pubDate>
-      <description><![CDATA[The U.S. dollar has dropped about 10% against a basket of other major currencies since early 2025]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>Polanski stands by concerns over police response to Golders Green attack</title>
-      <link>https://www.bbc.com/news/articles/c78q6w1vzz7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a795f4ccb8a424e42d26141f3b72f4a162b97d2c</guid>
-      <pubDate>Sun, 03 May 2026 10:22:41 GMT</pubDate>
-      <description><![CDATA[The Green Party leader previously apologised for "sharing a tweet in haste" about the knife attack on Wednesday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>He recorded his quest for tariff refunds. It shows why billions may never get repaid</title>
-      <link>https://www.npr.org/2026/05/03/nx-s1-5805045/tariff-refunds-small-business</link>
-      <guid isPermaLink="false">e769776e94e906bbaca4f91b3faeb5a1e8e4751f</guid>
-      <pubDate>Sun, 03 May 2026 10:00:00 GMT</pubDate>
-      <description><![CDATA[After the Supreme Court struck down most of President Trump's tariffs, Richard Brown began lining up the paperwork he needed to get his refund. Experts say many businesses may never get their money back.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Why this tribe is buying up hundreds of acres of farmland — and flooding it</title>
-      <link>https://www.npr.org/2026/05/03/nx-s1-5806062/washington-tribe-restore-wetlands-fish</link>
-      <guid isPermaLink="false">8a450e3d3c510ee9ed97cab637c898af2ee77051</guid>
-      <pubDate>Sun, 03 May 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[The Stillaguamish Tribe in Washington state has been buying land in its traditional territory and removing levees. The goal is to turn farmland into wetlands with the hopes of restoring Chinook salmon.]]></description>
       <category>world</category>
     </item>
   </channel>
