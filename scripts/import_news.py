@@ -176,8 +176,8 @@ def parse_feed(xml, source):
 
     summary = clean(e.findtext("description") or e.findtext("summary") or "")
 
-        if not title:
-            continue
+    If not title:
+        continue
 
         cat = auto_category(title, summary, source["category"])
 
