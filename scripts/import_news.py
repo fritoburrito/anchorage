@@ -168,10 +168,13 @@ def parse_feed(xml, source):
     entries = root.findall(".//item") or root.findall(".//entry")
 
     for e in entries[:MAX_PER_SOURCE]:
-        title = clean((e.findtext("title") or ""))
-        link = e.findtext("link") or ""
-        summary = clean(e.findtext("description") or e.findtext("summary") or "")
-        date = parse_date(e.findtext("pubDate") or e.findtext("updated") or "")
+    title = clean((e.findtext("title") or ""))
+    link = e.findtext("link") or ""
+
+    if source.get("name") == "Alaska Landmine":
+        link = source.get("home", "https://alaskalandmine.com/")
+
+    summary = clean(e.findtext("description") or e.findtext("summary") or "")
 
         if not title:
             continue
