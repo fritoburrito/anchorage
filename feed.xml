@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 07:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:21:33 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: Overnight</title>
+      <link>https://akpulselive.com/weather.html#overnight</link>
+      <guid isPermaLink="false">40a0b6d670a5bd58384e5549d1fbe8dd7b77431b</guid>
+      <pubDate>Mon, 04 May 2026 10:21:33 GMT</pubDate>
+      <description><![CDATA[39°F | 10 mph N | Light Rain<br><br>Rain. Cloudy, with a low around 39. North wind around 10 mph. Chance of precipitation is 80%.]]></description>
+      <category>weather</category>
+    </item>
     <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://akpulselive.com/weather.html#tonight</link>
@@ -31,6 +39,14 @@
       <category>weather</category>
     </item>
     <item>
+      <title>University of Alaska Fairbanks holds 104th commencement</title>
+      <link>https://www.newsminer.com/news/university-of-alaska-fairbanks-holds-104th-commencement/article_36e84664-04e3-4428-b2a8-f8f7e6ae94a7.html</link>
+      <guid isPermaLink="false">a010d62eb2ddea4d62a09fde8bbc77b95c881822</guid>
+      <pubDate>Sun, 03 May 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[It was all pomp and circumstance at the Carlson Center on Saturday afternoon as the Nanook class of 2026 flipped their tassels and crossed the stage to their futures at UAF’s 104th commencement ceremony.]]></description>
+      <category>local</category>
+    </item>
+    <item>
       <title>UAF holds 104th commencement</title>
       <link>https://www.newsminer.com/news/uaf-holds-104th-commencement/article_36e84664-04e3-4428-b2a8-f8f7e6ae94a7.html</link>
       <guid isPermaLink="false">4c70871b15076bd02dcfb2c4d3f3832f37f3314b</guid>
@@ -39,12 +55,68 @@
       <category>local</category>
     </item>
     <item>
-      <title>Anchorage Weather: Overnight</title>
-      <link>https://akpulselive.com/weather.html#overnight</link>
-      <guid isPermaLink="false">40a0b6d670a5bd58384e5549d1fbe8dd7b77431b</guid>
-      <pubDate>Sun, 03 May 2026 13:40:56 GMT</pubDate>
-      <description><![CDATA[38°F | 5 mph N | Chance Light Rain<br><br>A chance of rain. Cloudy, with a low around 38. North wind around 5 mph. Chance of precipitation is 30%.]]></description>
-      <category>weather</category>
+      <title>Princess Eugenie expecting third child this summer</title>
+      <link>https://www.bbc.com/news/articles/clyp246d9k1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">941abe22e4d6837d55a846c15e4fd900358817b7</guid>
+      <pubDate>Mon, 04 May 2026 10:04:16 GMT</pubDate>
+      <description><![CDATA["His Majesty The King has been informed and is delighted with the news," Buckingham Palace said.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations</title>
+      <link>https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">85f378f5733db7f338d7237cdb32e12001104704</guid>
+      <pubDate>Mon, 04 May 2026 09:49:05 GMT</pubDate>
+      <description><![CDATA[The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump administration falls behind on wildfire prevention with risky fire season ahead</title>
+      <link>https://www.npr.org/2026/05/04/nx-s1-5801475/forest-service-wildfire-prevention-vegetation-burns</link>
+      <guid isPermaLink="false">11d5f5938615b28bac1700a03753983704ef245a</guid>
+      <pubDate>Mon, 04 May 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[Many of the nation's overgrown forests are at high risk of burning. Under the Trump administration, work to reduce flammable vegetation fell by more than a million acres compared to previous years.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>One injured after plane hits truck while landing in Newark</title>
+      <link>https://www.bbc.com/news/articles/cp8p3r8dek1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fb8a5e86561efff9108d8c48f04264e72f47fd99</guid>
+      <pubDate>Mon, 04 May 2026 09:04:37 GMT</pubDate>
+      <description><![CDATA[The Boeing 767, operating a flight from Venice, Italy, landed safely with no reported injuries among the 231 passengers and crew on board.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The oldest millennials are 45! This tool helps plan for longevity</title>
+      <link>https://www.npr.org/2026/05/04/nx-s1-5787940/tool-survey-helps-plan-aging-longevity-retirement</link>
+      <guid isPermaLink="false">6bc37de17ba1e92fcddba8eab848cf092a6a9f69</guid>
+      <pubDate>Mon, 04 May 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[The oldest millennials are turning 45 this year. The oldest Gen Xers are now 60. So how prepared will they be to thrive in the decades ahead? A new tool helps people assess beyond just savings.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>After Republicans blocked Indiana redistricting, millions poured in to defeat them</title>
+      <link>https://www.npr.org/2026/05/04/nx-s1-5788979/trump-indiana-primary-redistricting-retribution-midterm-election</link>
+      <guid isPermaLink="false">b4ad79ec731d9b773717bf54c35535948f991368</guid>
+      <pubDate>Mon, 04 May 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[President Trump has thrown his support behind challengers to Republican state senators who opposed his redistricting push.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>After NPR investigation, new bill aims to stop 'claim sharks' targeting disabled vets</title>
+      <link>https://www.npr.org/2026/05/04/nx-s1-5719493/veterans-disabilities-claims-congress-legislation</link>
+      <guid isPermaLink="false">b345be80111395b6ff933b201172387fd75d3ca9</guid>
+      <pubDate>Mon, 04 May 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[The bipartisan bill would block companies from using auto-dialers to harvest private information about disabled veterans. The firms charge vets for a service lawmakers say is supposed to be free.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>In many states, election-denying candidates are running to control voting</title>
+      <link>https://www.npr.org/2026/05/04/nx-s1-5803149/election-denial-2026-candidates</link>
+      <guid isPermaLink="false">0d2316c4753b297b039fb8459e8447f672e0e5f5</guid>
+      <pubDate>Mon, 04 May 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[In 23 states, including five presidential swing states, candidates who've denied election results are running for offices that have a direct role in certifying future elections, a new report finds.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Untitled</title>
@@ -199,11 +271,27 @@
       <category>world</category>
     </item>
     <item>
+      <title>WATCH: Car filled with explosives crashes into club</title>
+      <link>https://abcnews.com/video/132620930/</link>
+      <guid isPermaLink="false">6edcc84f4aa9058cdb60f6df06b7fc675b9d413c</guid>
+      <pubDate>Mon, 04 May 2026 01:35:41 GMT</pubDate>
+      <description><![CDATA[A former employee allegedly rammed his car through the Multnomah Athletic Club in Portland, Oregon. The car was packed with explosives and the driver killed in the explosion, officials said.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Chris Mason: Elections this week a smorgasbord of competitiveness</title>
       <link>https://www.bbc.com/news/articles/c202wg747qpo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">c5df3f82e2c0df9a2ec115657be1e323453a95d3</guid>
       <pubDate>Mon, 04 May 2026 01:08:41 GMT</pubDate>
       <description><![CDATA[The scale of these elections looks set to vividly expose the breadth of Labour's vulnerabilities, Chris Mason writes.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Antonelli steps up his level in dramatic fashion</title>
+      <link>https://www.bbc.com/sport/formula1/articles/cyv2354ldmlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7341f665d5f5d062a31c4785ee7a2686f2b3b462</guid>
+      <pubDate>Mon, 04 May 2026 00:33:36 GMT</pubDate>
+      <description><![CDATA[Kimi Antonelli's first season in F1 showed occasional promise, but nothing that suggested this was going to come next, writes Andrew Benson.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -316,94 +404,6 @@
       <guid isPermaLink="false">5400d56e47630feb9153b50d6620be482deac1ba</guid>
       <pubDate>Sun, 03 May 2026 22:33:26 GMT</pubDate>
       <description><![CDATA[BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Miami Grand Prix.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Gas prices went up more than 30 cents a gallon last week. How high could they go?</title>
-      <link>https://www.npr.org/2026/05/03/nx-s1-5809433/gas-prices-rise-week-hormuz-iran-war</link>
-      <guid isPermaLink="false">e06deebb37dd55714a90068b443d3bc112c55e97</guid>
-      <pubDate>Sun, 03 May 2026 22:24:37 GMT</pubDate>
-      <description><![CDATA[U.S. gas prices were nearly $3 an average prior to the start of the war in Iran.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Has tide turned for troubled Spurs under De Zerbi?</title>
-      <link>https://www.bbc.com/sport/football/articles/c1e2l4g106go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2d3813a5291754c445f05c23cca6a72dfeb7005b</guid>
-      <pubDate>Sun, 03 May 2026 22:14:33 GMT</pubDate>
-      <description><![CDATA[Is Tottenham Hotspur's superb win at Aston Villa the moment the tide turned in their fight against Premier League relegation, asks chief football writer Phil McNulty?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>8 people arrested at protest during ICE arrest in Brooklyn, NYPD says</title>
-      <link>https://abcnews.com/US/8-people-arrested-protest-ice-arrest-brooklyn-nypd/story?id=132618968</link>
-      <guid isPermaLink="false">1fd32b773cddad414b7610521e436830c86eddcf</guid>
-      <pubDate>Sun, 03 May 2026 21:34:45 GMT</pubDate>
-      <description><![CDATA[The suspect arrested by ICE allegedly overstayed his visa expiration, DHS said.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>UK to enter talks to join £78bn EU loan scheme for Ukraine</title>
-      <link>https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e5eef36167d6481616a94d5720930bb352cbe69b</guid>
-      <pubDate>Sun, 03 May 2026 21:30:03 GMT</pubDate>
-      <description><![CDATA[Sir Keir Starmer will meet leaders at the European Political Community summit in Armenia on Monday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Pellet found in Secret Service agent's vest links suspect to WHCD attack, Pirro says</title>
-      <link>https://www.npr.org/2026/05/03/nx-s1-5809482/correspondents-dinner-shooter-bullet-vest-secret-service</link>
-      <guid isPermaLink="false">7c58bcceef04395b64970db27aac648b42bb9a1f</guid>
-      <pubDate>Sun, 03 May 2026 21:09:20 GMT</pubDate>
-      <description><![CDATA[The pellet "definitively" links the suspect, Cole Tomas Allen, to the attack, U.S. Attorney Jeanine Pirro told CNN on Sunday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'I was trying to save a life,' man who intervened in Golders Green attack tells BBC</title>
-      <link>https://www.bbc.com/news/articles/c1529vgdvlgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">65678166399d84d84faa5d9132ebbaef11cf721f</guid>
-      <pubDate>Sun, 03 May 2026 21:00:11 GMT</pubDate>
-      <description><![CDATA[Ashkan Asadian said he acted on the spur of the moment without thinking about the danger of the situation.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Serious injuries as man falls 'number of floors'</title>
-      <link>https://www.bbc.com/news/articles/cn0p89zgeyno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">db16544791d45edc309604e3919236e1b823df54</guid>
-      <pubDate>Sun, 03 May 2026 20:00:40 GMT</pubDate>
-      <description><![CDATA[Police seal off a bar in Colmore Row as the venue closes and apologises to customers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Carrick secures Champions League - what are Man Utd waiting for?</title>
-      <link>https://www.bbc.com/sport/football/articles/c2e2xjyeyk7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">db9b29d5c3e96cd3a0a0bed7a5941234abbcf855</guid>
-      <pubDate>Sun, 03 May 2026 19:19:50 GMT</pubDate>
-      <description><![CDATA[Unless Manchester United appoint Luis Enrique, it is hard to think of an acceptable alternative to giving Michael Carrick the job on a permanent basis, writes Simon Stone.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Three dead in suspected virus outbreak on Atlantic cruise ship</title>
-      <link>https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9bc15006248a5c6a31d42f1e3b75444d3a906454</guid>
-      <pubDate>Sun, 03 May 2026 19:09:02 GMT</pubDate>
-      <description><![CDATA[The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Slot's VAR fury but loss highlights Liverpool issues</title>
-      <link>https://www.bbc.com/sport/football/articles/c242nrvy17vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a8a93040d93795709c0820bddad06929d2ef3d2c</guid>
-      <pubDate>Sun, 03 May 2026 19:07:15 GMT</pubDate>
-      <description><![CDATA[Liverpool manager Arne Slot was furious that Manchester United's second goal was allowed, but also highlighted issues with his own side after the 3-2 defeat.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Antonelli wins in Miami to extend title lead</title>
-      <link>https://www.bbc.com/sport/formula1/articles/cx21n879zlxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4b3efb37da5f4cbe3ab5bcbaf41fb39cdcb87047</guid>
-      <pubDate>Sun, 03 May 2026 19:05:50 GMT</pubDate>
-      <description><![CDATA[Mercedes' Kimi Antonelli holds off Lando Norris in a race-long battle to win the Miami Grand Prix and take a commanding championship lead.]]></description>
       <category>world</category>
     </item>
   </channel>
