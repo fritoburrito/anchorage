@@ -83,8 +83,8 @@ SOURCES = [
 
     {
         "name": "Alaska Landmine",
-        "url": "https://alaskalandmine.com/feed/",
-        "category": "opinion",
+        "url": "https://alaskalandmine.com/",
+        "category": "landmines",
         "tag": "alaska",
         "enabled": True,
     },
