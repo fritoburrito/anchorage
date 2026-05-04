@@ -8,9 +8,9 @@
     "source": "NWS Anchorage",
     "category": "weather",
     "tag": "weather",
-    "pubDate": "Mon, 04 May 2026 12:40:37 GMT",
-    "published": "2026-05-04T12:40:37.931259+00:00",
-    "created_utc": "2026-05-04T12:40:37.931259+00:00"
+    "pubDate": "Mon, 04 May 2026 12:44:04 GMT",
+    "published": "2026-05-04T12:44:04.372226+00:00",
+    "created_utc": "2026-05-04T12:44:04.372226+00:00"
   },
   {
     "title": "Untitled",
@@ -89,6 +89,19 @@
     "pubDate": "Mon, 04 May 2026 12:40:37 GMT",
     "published": "2026-05-04T12:40:37.551715+00:00",
     "created_utc": "2026-05-04T12:40:37.551715+00:00"
+  },
+  {
+    "title": "All the ways Trump wants to change D.C., from buildings to statues to parks",
+    "link": "https://www.npr.org/2026/05/04/nx-s1-5798651/trump-dc-construction-tracker-ballroom-arch",
+    "url": "https://www.npr.org/2026/05/04/nx-s1-5798651/trump-dc-construction-tracker-ballroom-arch",
+    "summary": "Many of the changes Trump wants to make to the White House and the city are facing legal challenges. Some are reversible, while others could reshape the nation's capital for generations to come.",
+    "description": "Many of the changes Trump wants to make to the White House and the city are facing legal challenges. Some are reversible, while others could reshape the nation's capital for generations to come.",
+    "source": "NPR News",
+    "category": "world",
+    "tag": "npr",
+    "pubDate": "Mon, 04 May 2026 12:38:31 GMT",
+    "published": "2026-05-04T08:38:31-04:00",
+    "created_utc": "2026-05-04T08:38:31-04:00"
   },
   {
     "title": "Reform pledges to open migrant detention centres in Green-voting areas",
@@ -1285,18 +1298,5 @@
     "pubDate": "Sun, 03 May 2026 12:26:49 GMT",
     "published": "2026-05-03T12:26:49+00:00",
     "created_utc": "2026-05-03T12:26:49+00:00"
-  },
-  {
-    "title": "'I just want to see her again' says son of imprisoned Myanmar ex-leader Aung San Suu Kyi",
-    "link": "https://www.npr.org/2026/05/03/nx-s1-5808875/aung-san-suu-kyi-myanmar-son-house-arrest",
-    "url": "https://www.npr.org/2026/05/03/nx-s1-5808875/aung-san-suu-kyi-myanmar-son-house-arrest",
-    "summary": "On Thursday, authorities in Myanmar claimed they had transferred Nobel laureate Aung San Suu Kyi from prison to house arrest. Her son Kim Aris spoke to NPR about his doubts about the regime's account.",
-    "description": "On Thursday, authorities in Myanmar claimed they had transferred Nobel laureate Aung San Suu Kyi from prison to house arrest. Her son Kim Aris spoke to NPR about his doubts about the regime's account.",
-    "source": "NPR News",
-    "category": "world",
-    "tag": "npr",
-    "pubDate": "Sun, 03 May 2026 12:07:07 GMT",
-    "published": "2026-05-03T08:07:07-04:00",
-    "created_utc": "2026-05-03T08:07:07-04:00"
   }
 ]
