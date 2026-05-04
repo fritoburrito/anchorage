@@ -175,7 +175,7 @@ def parse_feed(xml, source):
     if source.get("name") == "Alaska Landmine":
         link = source.get("home", "https://alaskalandmine.com/")
 
-    summary = clean(e.findtext("description") or e.findtext("summary") or "")
+        summary = clean(e.findtext("description") or e.findtext("summary") or "")
 
     if not title:
         continue
