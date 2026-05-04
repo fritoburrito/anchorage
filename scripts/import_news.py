@@ -188,38 +188,27 @@ def parse_feed(xml, source):
     entries = root.findall(".//item")
 
     if not entries:
-        entries = [
-            e for e in root.iter()
-            if e.tag.split("}", 1)[-1] == "entry"
-        ]
+        entries = root.findall(".//{http://www.w3.org/2005/Atom}entry")
 
     for e in entries[:MAX_PER_SOURCE]:
-        title = clean(get_child_text(e, ["title"]))
-        link = get_child_text(e, ["link"]) or get_atom_link(e)
+        title = get_child_text(e, {"title"})
+        link = get_child_text(e, {"link"}) or get_atom_link(e)
+        desc = get_child_text(e, {"description", "summary", "content"})
+        pub = get_child_text(e, {"pubDate", "published", "updated"})
 
-        # Alaska Landmine feed links can be dead/unreliable.
-        # Keep the headline, but send clicks to the homepage.
-        if source.get("name") == "Alaska Landmine":
-            link = source.get("home", "https://alaskalandmine.com/")
-
-        summary = clean(get_child_text(e, ["description", "summary", "content"]))
-        date_text = get_child_text(e, ["pubDate", "updated", "published"])
-        date = parse_date(date_text)
-
-        if not title:
+        if not title or not link:
             continue
 
-        cat = auto_category(title, summary, source.get("category", "general"))
-
         items.append({
-            "title": title,
+            "title": clean_title(title),
             "link": link,
-            "description": summary,
-            "pubDate": format_date(date),
-            "category": cat,
+            "url": link,
+            "summary": desc,
+            "description": desc,
+            "source": source["name"],
+            "category": source.get("category", "general"),
             "tag": source.get("tag", ""),
-            "source": source.get("name", ""),
-            "rank": source_rank(source),
+            "pubDate": pub or now_rfc2822(),
         })
 
     return items
