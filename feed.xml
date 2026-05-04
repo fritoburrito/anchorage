@@ -5,13 +5,13 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 04:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 07:51:08 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight</title>
       <link>https://akpulselive.com/weather.html#tonight</link>
       <guid isPermaLink="false">2545d2eb85a9f338d23bbce0be612485097802e9</guid>
-      <pubDate>Mon, 04 May 2026 04:01:13 GMT</pubDate>
-      <description><![CDATA[39°F | 5 to 10 mph NW | Light Rain Likely<br><br>Rain likely. Cloudy, with a low around 39. Northwest wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
+      <pubDate>Mon, 04 May 2026 07:51:08 GMT</pubDate>
+      <description><![CDATA[39°F | 5 to 10 mph N | Light Rain<br><br>Rain. Cloudy, with a low around 39. North wind 5 to 10 mph. Chance of precipitation is 100%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -47,12 +47,108 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Laufey on making jazz cool again (and the fish that brought out her inner rage)</title>
-      <link>https://www.bbc.com/news/articles/c99lvggdy4jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">aacd1fc76843ea1ffc4ff8410becb85e38c08c02</guid>
-      <pubDate>Sat, 02 May 2026 23:05:34 GMT</pubDate>
-      <description><![CDATA[The Icelandic star reflects on a phenomenal year, and the music video that let her go "primal".]]></description>
-      <category>local</category>
+      <title>Untitled</title>
+      <link>https://apod.nasa.gov/apod/ap260503.html</link>
+      <guid isPermaLink="false">b5a2557f7b151a5d26137e9774c4422f8184cbe7</guid>
+      <pubDate>Mon, 04 May 2026 07:51:07 GMT</pubDate>
+      <description><![CDATA[<p><a href="https://apod.nasa.gov/apod/ap260503.html"><img align="left" alt="Dust pillars are like " border="0" src="https://apod.nasa.gov/apod/calendar/S_260503.jpg" /></a> Dust pillars are like </p><br clear="all" />]]></description>
+      <category>science</category>
+    </item>
+    <item>
+      <title>Residents back home as explosion scene made safe</title>
+      <link>https://www.bbc.com/news/articles/ceqpld09l7yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a520b409bd019656f9808401fae0046fb0839171</guid>
+      <pubDate>Mon, 04 May 2026 07:43:11 GMT</pubDate>
+      <description><![CDATA[The residential area of Bristol where two people died in an explosion is declared safe by police.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>British military says a ship has been hit by projectiles in Strait of Hormuz</title>
+      <link>https://abcnews.com/Business/wireStory/british-military-ship-hit-projectiles-strait-hormuz-132625181</link>
+      <guid isPermaLink="false">0634d19e446f8a181acd5597629dc499826e4e4c</guid>
+      <pubDate>Mon, 04 May 2026 07:14:37 GMT</pubDate>
+      <description><![CDATA[British military says a ship has been hit by projectiles in Strait of Hormuz]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>Tribes sue to halt exploratory drilling in Black Hills near sacred ceremonial site</title>
+      <link>https://abcnews.com/Business/wireStory/tribes-sue-halt-exploratory-drilling-black-hills-sacred-132625485</link>
+      <guid isPermaLink="false">577baa7993e5043a0a840c9d536f76a9bd4155f0</guid>
+      <pubDate>Mon, 04 May 2026 07:14:36 GMT</pubDate>
+      <description><![CDATA[Nine Native American tribes in South Dakota, North Dakota and Nebraska are suing the federal government, bidding to stop exploratory drilling for graphite near a sacred ceremonial site in the Black Hills]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>Denis Leary’s ‘crazy idea’ puts civilians through FDNY training to raise funds for fire departments</title>
+      <link>https://abcnews.com/Business/wireStory/denis-learys-crazy-idea-puts-civilians-fdny-training-132625577</link>
+      <guid isPermaLink="false">b5cec002c49902e7efd2027663cdd7a0a8a0d786</guid>
+      <pubDate>Mon, 04 May 2026 07:14:35 GMT</pubDate>
+      <description><![CDATA[Actor-comedian Denis Leary has found a unique way to raise funds for his Leary Firefighters Foundation]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>For foreign workers in the Mideast, risk from the Iran war collides with economic strain at home</title>
+      <link>https://abcnews.com/Business/wireStory/foreign-workers-mideast-risk-iran-war-collides-economic-132625893</link>
+      <guid isPermaLink="false">e1ed82158bd956122a206faaab01aaaf0300249c</guid>
+      <pubDate>Mon, 04 May 2026 07:13:18 GMT</pubDate>
+      <description><![CDATA[For millions of foreign workers in the Mideast, the Iran war has made life even more precarious]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>Japan and Australia agree to deepen cooperation on energy, defense and critical minerals</title>
+      <link>https://abcnews.com/Business/wireStory/japan-australia-agree-deepen-cooperation-energy-defense-critical-132627021</link>
+      <guid isPermaLink="false">71e5f2c602ad2619f1225aa8b04474791e91fe4f</guid>
+      <pubDate>Mon, 04 May 2026 07:12:50 GMT</pubDate>
+      <description><![CDATA[Japanese Prime Minister Sanae Takaichi met Australian Prime Minister Anthony Albanese have agreed to deepen cooperation in areas including energy security, defense and critical minerals as the Iran war threatens global supply chains]]></description>
+      <category>business</category>
+    </item>
+    <item>
+      <title>Iran live updates: UKMTO reports attacks on 2 ships in Strait of Hormuz</title>
+      <link>https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582</link>
+      <guid isPermaLink="false">460fb7cf6227073e402efe754ebaa998167861a5</guid>
+      <pubDate>Mon, 04 May 2026 06:37:37 GMT</pubDate>
+      <description><![CDATA[President Donald Trump said he ordered U.S. forces to guide ships and crews from countries that are not involved with the Iran war out of Strait of Hormuz.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>What life is like in the town with the UK’s worst mobile signal</title>
+      <link>https://www.bbc.com/news/articles/c98k8xky27wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">99162658bd070f039ec38562d8b5b8ae0280d719</guid>
+      <pubDate>Mon, 04 May 2026 06:04:08 GMT</pubDate>
+      <description><![CDATA[Tenby is a “dead zone” for mobile signal, a business owner said, with the issue driving away customers.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>2 US service members missing after military exercises in Morocco</title>
+      <link>https://www.npr.org/2026/05/04/g-s1-119963/2-us-service-members-missing-in-morocco</link>
+      <guid isPermaLink="false">b7cd663fc9266bd6dc0223247ad2ea2bd8564206</guid>
+      <pubDate>Mon, 04 May 2026 06:03:49 GMT</pubDate>
+      <description><![CDATA[Two U.S. service members are missing in southwestern Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (AFRICOM) said.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>What an empty car park tells us about the UK's debt problem</title>
+      <link>https://www.bbc.com/news/articles/cy816xdp226o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">145b6726f5d1d70120aa6ba87125cb205011e069</guid>
+      <pubDate>Mon, 04 May 2026 05:00:06 GMT</pubDate>
+      <description><![CDATA[The BBC has been speaking to people living in one of England's poorest communities.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Samsung family pays off record $8bn inheritance tax bill</title>
+      <link>https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f73b424c20b653d1c79a7ee1fa263acec87eb397</guid>
+      <pubDate>Mon, 04 May 2026 04:24:22 GMT</pubDate>
+      <description><![CDATA[The bill is tied to the estate left by the firm's late chairman Lee Kun-hee, who died in October 2020.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Antisemitism 'allowed to come into the open' says Bondi victim's daughter</title>
+      <link>https://www.bbc.com/news/articles/c1m2rk209mzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4f6a58f1719c10da74ad17791ca44b7fd828ac7f</guid>
+      <pubDate>Mon, 04 May 2026 04:12:04 GMT</pubDate>
+      <description><![CDATA[Sheina Gutnick was the first person to give evidence at the royal commission investigating the attack.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Trump says the US will 'guide' stranded ships from the Strait of Hormuz</title>
@@ -71,6 +167,14 @@
       <category>world</category>
     </item>
     <item>
+      <title>Wildfire tears through hundreds of acres in Arizona</title>
+      <link>https://www.bbc.com/news/videos/cwy2pxkkkdjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d33aa4e7f483a842599580caa3e304aac9860869</guid>
+      <pubDate>Mon, 04 May 2026 03:04:25 GMT</pubDate>
+      <description><![CDATA[Firefighters were tackling the blaze that local officials estimated to stretch 558 acres (2.3 sq km).]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Asian markets are mixed and oil is steady after Wall Street hits records</title>
       <link>https://abcnews.com/Business/wireStory/asian-markets-mixed-oil-steady-after-wall-street-132625173</link>
       <guid isPermaLink="false">90bf53d16466a11299f1e5ffb8c0d176f1bad7bf</guid>
@@ -84,6 +188,14 @@
       <guid isPermaLink="false">7f70fd1957d50a2ff0e216832733edcf62495885</guid>
       <pubDate>Mon, 04 May 2026 02:22:34 GMT</pubDate>
       <description><![CDATA[GameStop's boss Ryan Cohen says he sees potential to make eBay a much bigger rival to Amazon.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>What is the hantavirus that has been confirmed on an Atlantic cruise ship?</title>
+      <link>https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">418077e1e4249d2987d83e7523aa4ba8f4959385</guid>
+      <pubDate>Mon, 04 May 2026 01:42:36 GMT</pubDate>
+      <description><![CDATA[While rare, the disease can be transmitted to humans through inhalation of airborne particles from dried rodent droppings.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -116,6 +228,14 @@
       <guid isPermaLink="false">00b97ed9489946c026bf0d461424fbea1ed79915</guid>
       <pubDate>Sun, 03 May 2026 23:30:14 GMT</pubDate>
       <description><![CDATA[Hantaviruses are usually spread by exposure to urine, saliva or feces from infected rodents, such as rats or mice. Hantavirus infections are rare but can cause deadly respiratory infections.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Met Gala 2026: How to watch, the price of tickets and this year's theme</title>
+      <link>https://www.bbc.com/news/articles/cdrm7gp5er3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2081cc3d576323d41e8424f06643a9b70a4df6dd</guid>
+      <pubDate>Sun, 03 May 2026 23:25:59 GMT</pubDate>
+      <description><![CDATA[Beyoncé, who last attended the Met Gala in 2016, is returning as a co-chair of fashion's biggest night.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -284,126 +404,6 @@
       <guid isPermaLink="false">4b3efb37da5f4cbe3ab5bcbaf41fb39cdcb87047</guid>
       <pubDate>Sun, 03 May 2026 19:05:50 GMT</pubDate>
       <description><![CDATA[Mercedes' Kimi Antonelli holds off Lando Norris in a race-long battle to win the Miami Grand Prix and take a commanding championship lead.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Iran says US has responded to its latest peace proposal</title>
-      <link>https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7330eeeddbb1aca1736e8f9aea034c69fafe1e2e</guid>
-      <pubDate>Sun, 03 May 2026 18:56:17 GMT</pubDate>
-      <description><![CDATA[The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Police conclude search at religious group's HQ</title>
-      <link>https://www.bbc.com/news/articles/c87q8ygj5l4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0c909a6d73c67d647987456c196182841d6781b5</guid>
-      <pubDate>Sun, 03 May 2026 17:31:26 GMT</pubDate>
-      <description><![CDATA[Cheshire Police were searching a property used by the Ahmadi Religion of Peace and Light.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US service members go missing during military exercise in Morocco</title>
-      <link>https://abcnews.com/International/2-us-service-members-missing-morocco-multinational-military/story?id=132615417</link>
-      <guid isPermaLink="false">c87bff846fcc629b508fb500d8799f1d27d36f58</guid>
-      <pubDate>Sun, 03 May 2026 16:55:26 GMT</pubDate>
-      <description><![CDATA[The missing service members are with the Army, officials told ABC News.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>OPEC+ countries agree modest rise in production as Iran retains chokehold on key Strait of Hormuz</title>
-      <link>https://abcnews.com/Business/wireStory/opec-countries-agree-modest-rise-production-iran-retains-132616329</link>
-      <guid isPermaLink="false">330a4ae743dd9dc64cff88f3c51fa55997ff39f6</guid>
-      <pubDate>Sun, 03 May 2026 16:40:55 GMT</pubDate>
-      <description><![CDATA[The production increase in June is part of a commitment to &quot;market stability.&quot;]]></description>
-      <category>business</category>
-    </item>
-    <item>
-      <title>Van Graan criticises TV replay 'consistency' after Bath lose semi-final</title>
-      <link>https://www.bbc.com/sport/rugby-union/articles/cpwp2zpdd7yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9e54ab866f8c50d8bd0dc5bb3134a30b809d36e0</guid>
-      <pubDate>Sun, 03 May 2026 16:36:45 GMT</pubDate>
-      <description><![CDATA[Bath boss Johann van Graan calls for more "consistency" with who supplies the television match official footage after he felt foul play incidents were missed in his side's Investec Champions Cup semi-final loss to Bordeaux.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Murphy &amp; Wu level in world final after spectator ejected for jumping barrier</title>
-      <link>https://www.bbc.com/sport/snooker/articles/c202e1xw746o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0a7312d7d025209152573cb5e92e927301e81113</guid>
-      <pubDate>Sun, 03 May 2026 15:53:10 GMT</pubDate>
-      <description><![CDATA[Shaun Murphy recovers from 3-0 down to draw level at 4-4 against Wu Yize in the first session of their World Championship final at the Crucible Theatre.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Police officer lowered into crocodile-infested river to recover human remains</title>
-      <link>https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f864884bda416c1c67fe54a18250f617368691a8</guid>
-      <pubDate>Sun, 03 May 2026 15:47:59 GMT</pubDate>
-      <description><![CDATA[Police suspect the human remains belong to a businessman swept away by floodwater last week.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Mild and mostly dry bank holiday but heavy showers possible for some</title>
-      <link>https://www.bbc.com/news/articles/cj4p92049nlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0564277bd6ee891a38a07e761f89162ea6e502ec</guid>
-      <pubDate>Sun, 03 May 2026 15:41:18 GMT</pubDate>
-      <description><![CDATA[Temperatures across the UK are expected to take a dip, with the potential for some heavy showers and thunder in some areas.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sen. Reed on Trump’s Iran strategy: ‘I don’t believe the president has a plan’</title>
-      <link>https://abcnews.com/Politics/sen-reed-trumps-iran-strategy-dont-president-plan/story?id=132606684</link>
-      <guid isPermaLink="false">8b567f851cea31b77737fe5b81a501986fd291a5</guid>
-      <pubDate>Sun, 03 May 2026 15:16:24 GMT</pubDate>
-      <description><![CDATA[Ranking Senate Armed Services Committee Democrat Jack Reed said he believes the U.S. is in a "much worse position" with Iran since the war started.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sir Alex Ferguson taken to hospital as precaution before Man Utd v Liverpool</title>
-      <link>https://www.bbc.com/sport/football/articles/c0r2nvpvylxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">24094d2c0da9633e345d4f04a36c14a114b68787</guid>
-      <pubDate>Sun, 03 May 2026 14:56:40 GMT</pubDate>
-      <description><![CDATA[Sir Alex Ferguson is taken to hospital after falling unwell at Old Trafford shortly before Manchester United's Premier League match with Liverpool on Sunday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Police probe link between drive-by shooting and stabbing</title>
-      <link>https://www.bbc.com/news/articles/c6267xve17xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4329eed966abe745765d3e71070588ebda2319b9</guid>
-      <pubDate>Sun, 03 May 2026 14:45:00 GMT</pubDate>
-      <description><![CDATA[The possibility a drive-by shooting and a stabbing in Brixton are linked is being examined by police.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Police ask for help in Texas shooting that killed 2 teens, wounded 10</title>
-      <link>https://abcnews.com/US/wireStory/police-public-seek-suspects-texas-shooting-killed-2-132614440</link>
-      <guid isPermaLink="false">53c61a6d7228564d0799a2aa6f1838a054a57dba</guid>
-      <pubDate>Sun, 03 May 2026 14:33:04 GMT</pubDate>
-      <description><![CDATA[Two people opened fire at an apartment complex at about 2 a.m. Saturday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Two US service members reported missing in Morocco, officials say</title>
-      <link>https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5636b2ad3c6b58f8c99ac0a14e313b6c3f13bd56</guid>
-      <pubDate>Sun, 03 May 2026 13:12:14 GMT</pubDate>
-      <description><![CDATA[A search and rescue operation is underway for the service members, the US African Command said.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>2 US service members missing after military exercises in Morocco</title>
-      <link>https://abcnews.com/US/wireStory/2-us-service-members-missing-after-military-exercises-132611433</link>
-      <guid isPermaLink="false">2621ccdfe3b354904294e33c8ba8ce7769db9b23</guid>
-      <pubDate>Sun, 03 May 2026 12:52:00 GMT</pubDate>
-      <description><![CDATA[They taking part in an annual multinational military exercises in Morocco.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fish, eels and birds killed in river pollution incident</title>
-      <link>https://www.bbc.com/news/articles/c78k57py38do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3f69c29658e59051594aa6ac428f88ff4d3c8ee8</guid>
-      <pubDate>Sun, 03 May 2026 12:39:28 GMT</pubDate>
-      <description><![CDATA[Fly fishers say the salmon population at the burn in Moray has been wiped out and could take years to recover.]]></description>
       <category>world</category>
     </item>
   </channel>
