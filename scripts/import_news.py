@@ -80,13 +80,13 @@ SOURCES = [
         "tag": "alaska",
         "enabled": True,
     },
-
     {
-        "name": "Alaska Landmine",
-        "url": "https://alaskalandmine.com/",
-        "category": "landmines",
-        "tag": "alaska",
-        "enabled": True,
+    "name": "Alaska Landmine",
+    "url": "https://alaskalandmine.com/feed/",
+    "home": "https://alaskalandmine.com/",
+    "category": "opinion",
+    "tag": "alaska",
+    "enabled": True,
     },
     {
         "name": "Must Read Alaska",
