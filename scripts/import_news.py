@@ -51,6 +51,13 @@ SOURCES = [
         "enabled": True,
     },
     {
+    "name": "Anchorage Daily News",
+    "url": "https://www.adn.com/rss/",
+    "category": "alaska",
+    "tag": "alaska",
+    "enabled": True,
+    },
+    {
         "name": "Alaska's News Source",
         "url": "https://www.alaskasnewssource.com/arc/outboundfeeds/rss/",
         "category": "alaska",
