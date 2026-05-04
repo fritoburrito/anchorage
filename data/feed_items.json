@@ -189,6 +189,16 @@
     "rank": 100
   },
   {
+    "title": "https://alaskalandmine.com/landmines/guest-post-ballot-measure-1-will-hurt-coastal-alaska-renewables-and-fisheries/",
+    "link": "https://alaskalandmine.com/",
+    "description": "[{\u201curl\u201d:\u201dhttps://alaskalandmine.com/landmines/guest-post-ballot-measure-1-will-hurt-coastal-alaska-renewables-and-fisheries/\u201d,\u201dviewport\u201d:{\u201cwidth\u201d:384,\u201dheight\u201d:677},\u201delements\u201d:[{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:1,\u201dintersectionRect\u201d:{\u201cx\u201d:15.000000953674316,\u201dy\u201d:128.53334045410156,\u201dwidth\u201d:301.8750305175781,\u201dheight\u201d:36.22500228881836,\u201dtop\u201d:128.53334045410156,\u201dright\u201d:316.87503147125244,\u201dbottom\u201d:164.75834274291992,\u201dleft\u201d:15.000000953674316},\u201dboundingClientRect\u201d:{\u201cx\u201d:15.000000953674316,\u201dy\u201d:128.53334045410156,\u201dwidth\u201d:301.8750305175781,\u201dheight\u201d:36.22500228881836,\u201dtop\u201d:128.53334045410156,\u201dright\u201d:316.87503147125244,\u201dbottom\u201d:164.75834274291992,\u201dleft\u201d:15.000000953674316}}],\u201dtimestamp\u201d:1777906215.323885,\u201duuid\u201d:\u201dbbd0f86c-37db-42ad-8398-7ae390662012\u2033,\u201detag\u201d:\u201d8c6ddc2efa277df59e9458dbd8b8f9d5\u2033}] The post https://alaskalandmine.com/landmines/guest-post-ballot-measure-1-will-hurt-coastal-alaska-renewables-and-fisheries/ appeared first on The Alaska Landmine .",
+    "pubDate": "Mon, 04 May 2026 14:50:15 GMT",
+    "category": "opinion",
+    "tag": "alaska",
+    "source": "Alaska Landmine",
+    "rank": 100
+  },
+  {
     "title": "Dense Fog Advisory issued May 4 at 5:08AM AKDT until May 4 at 10:00AM AKDT by NWS Juneau AK",
     "link": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.2b2c9e7a488b1534e0e21e324f54c24d23a094e1.001.1.cap",
     "description": "* WHAT...Visibility one quarter mile or less in dense fog. * WHERE...City and Borough of Yakutat, Glacier Bay, Eastern Chichagof Island, Admiralty Island and City and Borough of Juneau. * WHEN...Until 10 AM AKDT this morning. * IMPACTS...Hazardous aviation, road, and marine travel conditions due to low visibility.",
@@ -415,11 +425,31 @@
     "rank": 100
   },
   {
+    "title": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
+    "link": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
+    "description": "Ordinary Iranians tell of worry about increased repression by authorities after the war is over.",
+    "pubDate": "Sun, 03 May 2026 23:19:57 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC",
+    "rank": 10
+  },
+  {
     "title": "Thousands could benefit from cancer jab that cuts treatment time to minutes",
     "link": "https://www.bbc.com/news/articles/cx214vld41ko?at_medium=RSS&at_campaign=rss",
     "description": "Thousands of patients will be offered a new injectable form of an immunotherapy drug that takes minutes.",
     "pubDate": "Sun, 03 May 2026 23:10:56 GMT",
     "category": "world",
+    "source": "BBC",
+    "rank": 10
+  },
+  {
+    "title": "The threat to summer holidays looming from jet fuel shortages",
+    "link": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss",
+    "description": "What impact might shortages have on our summer holidays - and what could be done about it?",
+    "pubDate": "Sun, 03 May 2026 23:03:41 GMT",
+    "category": "world",
+    "tag": "world",
     "source": "BBC",
     "rank": 10
   },
@@ -431,40 +461,5 @@
     "category": "world",
     "source": "BBC",
     "rank": 10
-  },
-  {
-    "title": "What an empty car park tells us about the UK's debt problem",
-    "link": "https://www.bbc.com/news/articles/cy816xdp226o?at_medium=RSS&at_campaign=rss",
-    "description": "The BBC has been speaking to people living in one of England's poorest communities.",
-    "pubDate": "Mon, 04 May 2026 05:00:06 GMT",
-    "category": "world",
-    "source": "BBC",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon",
-    "link": "https://akpulselive.com/weather.html#this-afternoon",
-    "url": "https://akpulselive.com/weather.html#this-afternoon",
-    "summary": "47\u00b0F | 0 to 5 mph NW | Light Rain Likely<br><br>Rain likely. Cloudy, with a high near 47. Northwest wind 0 to 5 mph. Chance of precipitation is 70%.",
-    "description": "47\u00b0F | 0 to 5 mph NW | Light Rain Likely<br><br>Rain likely. Cloudy, with a high near 47. Northwest wind 0 to 5 mph. Chance of precipitation is 70%.",
-    "source": "NWS Anchorage",
-    "category": "weather",
-    "tag": "weather",
-    "pubDate": "Sun, 03 May 2026 23:57:10 GMT",
-    "published": "2026-05-03T23:57:10.361888+00:00",
-    "created_utc": "2026-05-03T23:57:10.361888+00:00"
-  },
-  {
-    "title": "Hantavirus outbreak kills 3 on cruise ship in the Atlantic Ocean, WHO says",
-    "link": "https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean",
-    "url": "https://www.npr.org/2026/05/03/nx-s1-5809495/hantavirus-outbreak-cruise-ship-atlantic-ocean",
-    "summary": "Hantaviruses are usually spread by exposure to urine, saliva or feces from infected rodents, such as rats or mice. Hantavirus infections are rare but can cause deadly respiratory infections.",
-    "description": "Hantaviruses are usually spread by exposure to urine, saliva or feces from infected rodents, such as rats or mice. Hantavirus infections are rare but can cause deadly respiratory infections.",
-    "source": "NPR News",
-    "category": "world",
-    "tag": "npr",
-    "pubDate": "Sun, 03 May 2026 23:30:14 GMT",
-    "published": "2026-05-03T19:30:14-04:00",
-    "created_utc": "2026-05-03T19:30:14-04:00"
   }
 ]
