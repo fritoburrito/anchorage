@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import json, time, re, html
-import urllib.request, urllib.error
+import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime, format_datetime
@@ -14,9 +14,7 @@ MAX_TOTAL_ITEMS = 50
 MAX_PER_SOURCE = 5
 TIMEOUT = 20
 
-# -----------------------------
-# SOURCE PRIORITY (NEW)
-# -----------------------------
+
 def source_rank(source):
     category = source.get("category", "").lower()
     tag = source.get("tag", "").lower()
@@ -25,17 +23,12 @@ def source_rank(source):
     if category in ["alaska", "alaska-news", "weather"] or tag == "alaska":
         return 100
 
-    if any(word in name for word in [
-        "alaska", "anchorage", "juneau", "homer", "kenai", "ktoo", "adn"
-    ]):
+    if any(word in name for word in ["alaska", "anchorage", "juneau", "homer", "kenai", "ktoo", "adn"]):
         return 90
 
     return 10
 
 
-# -----------------------------
-# FEEDS
-# -----------------------------
 SOURCES = [
     {
         "name": "Alaska Public Media",
@@ -65,7 +58,6 @@ SOURCES = [
         "tag": "alaska",
         "enabled": True,
     },
-
     {
         "name": "Homer News",
         "url": "https://www.homernews.com/feed/",
@@ -81,12 +73,12 @@ SOURCES = [
         "enabled": True,
     },
     {
-    "name": "Alaska Landmine",
-    "url": "https://alaskalandmine.com/feed/",
-    "home": "https://alaskalandmine.com/",
-    "category": "opinion",
-    "tag": "alaska",
-    "enabled": True,
+        "name": "Alaska Landmine",
+        "url": "https://alaskalandmine.com/feed/",
+        "home": "https://alaskalandmine.com/",
+        "category": "opinion",
+        "tag": "alaska",
+        "enabled": True,
     },
     {
         "name": "Must Read Alaska",
@@ -95,7 +87,6 @@ SOURCES = [
         "tag": "alaska",
         "enabled": True,
     },
-
     {
         "name": "Alaska Native News",
         "url": "https://alaska-native-news.com/feed/",
@@ -103,7 +94,6 @@ SOURCES = [
         "tag": "alaska",
         "enabled": True,
     },
-
     {
         "name": "NWS Alaska",
         "url": "https://api.weather.gov/alerts/active.atom?area=AK",
@@ -111,8 +101,6 @@ SOURCES = [
         "tag": "alaska",
         "enabled": True,
     },
-
-    # Non-Alaska
     {
         "name": "BBC",
         "url": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -122,73 +110,106 @@ SOURCES = [
     },
 ]
 
-# -----------------------------
-# HELPERS
-# -----------------------------
+
 def clean(text):
     text = re.sub(r"<[^>]+>", " ", text or "")
     return html.unescape(re.sub(r"\s+", " ", text)).strip()
 
+
 def parse_date(d):
     try:
-        return parsedate_to_datetime(d).astimezone(timezone.utc)
-    except:
+        dt = parsedate_to_datetime(d)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
         return datetime.now(timezone.utc)
 
+
 def format_date(dt):
-    return format_datetime(dt, usegmt=True)
+    return format_datetime(dt.astimezone(timezone.utc), usegmt=True)
+
 
 def normalize(title):
     return re.sub(r"\W+", " ", title.lower()).strip()
 
+
 def auto_category(title, summary, default):
     t = (title + " " + summary).lower()
 
-    if any(w in t for w in ["weather","storm","snow","wind","warning"]): return "weather"
-    if any(w in t for w in ["anchorage","wasilla","palmer"]): return "anchorage"
-    if any(w in t for w in ["juneau","sitka","ketchikan"]): return "southeast"
-    if any(w in t for w in ["fairbanks"]): return "interior"
-    if any(w in t for w in ["kenai","homer","soldotna"]): return "kenai"
-    if any(w in t for w in ["governor","senate","policy"]): return "politics"
+    if any(w in t for w in ["weather", "storm", "snow", "wind", "warning", "advisory"]):
+        return "weather"
+    if any(w in t for w in ["anchorage", "wasilla", "palmer", "mat-su", "matsu"]):
+        return "anchorage"
+    if any(w in t for w in ["juneau", "sitka", "ketchikan", "southeast"]):
+        return "southeast"
+    if any(w in t for w in ["fairbanks", "interior"]):
+        return "interior"
+    if any(w in t for w in ["kenai", "homer", "soldotna", "seward"]):
+        return "kenai"
+    if any(w in t for w in ["governor", "senate", "policy", "legislature", "election"]):
+        return "politics"
 
     return default
 
+
 def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0",
+            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+        },
+    )
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
         return r.read().decode("utf-8", "ignore")
 
-# -----------------------------
-# PARSER
-# -----------------------------
+
+def get_child_text(entry, names):
+    for child in list(entry):
+        tag = child.tag.split("}", 1)[-1]
+        if tag in names:
+            return "".join(child.itertext()).strip()
+    return ""
+
+
+def get_atom_link(entry):
+    for child in list(entry):
+        tag = child.tag.split("}", 1)[-1]
+        if tag == "link":
+            return child.attrib.get("href", "").strip()
+    return ""
+
+
 def parse_feed(xml, source):
     root = ET.fromstring(xml)
     items = []
 
-    entries = root.findall(".//item") or root.findall(".//entry")
+    entries = root.findall(".//item")
 
-   for e in entries[:MAX_PER_SOURCE]:
-    title = clean((e.findtext("title") or ""))
-    link = e.findtext("link") or ""
+    if not entries:
+        entries = [
+            e for e in root.iter()
+            if e.tag.split("}", 1)[-1] == "entry"
+        ]
 
-    # Force Alaska Landmine to homepage
-    if source.get("name") == "Alaska Landmine":
-        link = source.get("home", "https://alaskalandmine.com/")
+    for e in entries[:MAX_PER_SOURCE]:
+        title = clean(get_child_text(e, ["title"]))
+        link = get_child_text(e, ["link"]) or get_atom_link(e)
 
-        summary = clean(e.findtext("description") or e.findtext("summary") or "")
+        # Alaska Landmine feed links can be dead/unreliable.
+        # Keep the headline, but send clicks to the homepage.
+        if source.get("name") == "Alaska Landmine":
+            link = source.get("home", "https://alaskalandmine.com/")
 
-    if not title:
-        continue
+        summary = clean(get_child_text(e, ["description", "summary", "content"]))
+        date_text = get_child_text(e, ["pubDate", "updated", "published"])
+        date = parse_date(date_text)
 
-    if source.get("name") == "Alaska Landmine":
-        link = source.get("home", "https://alaskalandmine.com/")
+        if not title:
+            continue
 
-    summary = clean(e.findtext("description") or e.findtext("summary") or "")
-
-    If not title:
-        continue
-
-        cat = auto_category(title, summary, source["category"])
+        cat = auto_category(title, summary, source.get("category", "general"))
 
         items.append({
             "title": title,
@@ -196,23 +217,25 @@ def parse_feed(xml, source):
             "description": summary,
             "pubDate": format_date(date),
             "category": cat,
-            "source": source["name"],
-            "rank": source_rank(source),  # 🔥 NEW
+            "tag": source.get("tag", ""),
+            "source": source.get("name", ""),
+            "rank": source_rank(source),
         })
 
     return items
 
-# -----------------------------
-# MAIN
-# -----------------------------
+
 def main():
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
 
     existing = []
     if DATA_FILE.exists():
-        existing = json.loads(DATA_FILE.read_text())
+        try:
+            existing = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+        except Exception:
+            existing = []
 
-    seen = set(normalize(i["title"]) for i in existing)
+    seen = set(normalize(i.get("title", "")) for i in existing)
     new_items = []
 
     for src in SOURCES:
@@ -226,29 +249,28 @@ def main():
             items = parse_feed(xml, src)
 
             for it in items:
-                key = normalize(it["title"])
+                key = normalize(it.get("title", ""))
                 if key not in seen:
                     seen.add(key)
                     new_items.append(it)
 
         except Exception as e:
-            print("ERROR:", e)
+            print("ERROR:", src["name"], "-", e)
 
         time.sleep(0.4)
 
     combined = new_items + existing
 
-    # 🔥 PRIORITY SORT (NEW)
     combined = sorted(
         combined,
         key=lambda x: (
             x.get("rank", 0),
-            x.get("pubDate", "")
+            x.get("pubDate", ""),
         ),
-        reverse=True
+        reverse=True,
     )[:MAX_TOTAL_ITEMS]
 
-    DATA_FILE.write_text(json.dumps(combined, indent=2))
+    DATA_FILE.write_text(json.dumps(combined, indent=2), encoding="utf-8")
     print("Saved", len(combined), "items")
 
 
