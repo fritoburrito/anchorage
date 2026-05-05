@@ -17,7 +17,7 @@ FEED_URL = SITE_URL + "feed.xml"
 FEED_TITLE = "AK Live Pulse"
 FEED_DESCRIPTION = "A custom WEB/RSS feed published by a Bot."
 LANGUAGE = "en-us"
-MAX_ITEMS = 50
+MAX_ITEMS = 75
 INDEX_ITEMS = 50
 
 
