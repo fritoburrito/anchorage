@@ -217,9 +217,9 @@ def parse_feed(xml, source):
             if e.tag.split("}", 1)[-1] == "entry"
         ]
 
-    for e in entries[:MAX_PER_SOURCE]:
-        title = clean(get_child_text(e, ["title"]))
-        link = get_child_text(e, ["link"]) or get_atom_link(e)
+   for e in entries[:MAX_PER_SOURCE]:
+    title = clean(get_child_text(e, ["title"]))
+    link = get_child_text(e, ["link"]) or get_atom_link(e)
 
     # Alaska Landmine fix
     if source.get("name") == "Alaska Landmine":
@@ -227,6 +227,13 @@ def parse_feed(xml, source):
 
     # Skip bad download links (.cap, etc)
     if is_bad_link(link):
+        continue
+
+    summary = clean(get_child_text(e, ["description", "summary", "content"]))
+    date_text = get_child_text(e, ["pubDate", "updated", "published"])
+    date = parse_date(date_text)
+
+    if not title:
         continue
 
     summary = clean(get_child_text(e, ["description", "summary", "content"]))
