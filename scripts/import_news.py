@@ -227,7 +227,7 @@ def parse_feed(xml, source):
             link = source.get("home", "https://alaskalandmine.com/")
 
        if is_bad_link(link):
-           continue
+            continue
 
         summary = clean(get_child_text(e, ["description", "summary", "content"]))
         date_text = get_child_text(e, ["pubDate", "updated", "published"])
