@@ -14,7 +14,9 @@ MAX_TOTAL_ITEMS = 60
 MAX_PER_SOURCE = 5
 MIN_WORLD_ITEMS = 6
 TIMEOUT = 20
-
+WEATHER_LAT = 61.2181
+WEATHER_LON = -149.9003
+WEATHER_PERIODS = 1
 
 def source_rank(source):
     category = source.get("category", "").lower()
@@ -256,7 +258,52 @@ def sort_by_date(items):
         reverse=True,
     )
 
+def import_weather_forecast():
+    headers = {
+        "User-Agent": "AKPulseLive/1.0 (https://akpulselive.com)",
+        "Accept": "application/geo+json, application/json",
+    }
 
+    points_url = f"https://api.weather.gov/points/{WEATHER_LAT},{WEATHER_LON}"
+    req = urllib.request.Request(points_url, headers=headers)
+
+    with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+        points = json.loads(r.read().decode("utf-8"))
+
+    forecast_url = points["properties"]["forecast"]
+    req = urllib.request.Request(forecast_url, headers=headers)
+
+    with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+        forecast = json.loads(r.read().decode("utf-8"))
+
+    now = datetime.now(timezone.utc)
+    weather_items = []
+
+    for period in forecast["properties"]["periods"][:WEATHER_PERIODS]:
+        name = period.get("name", "Forecast")
+        temp = period.get("temperature")
+        unit = period.get("temperatureUnit", "F")
+        wind = period.get("windSpeed", "")
+        wind_dir = period.get("windDirection", "")
+        short = period.get("shortForecast", "")
+        detailed = period.get("detailedForecast", "")
+
+        description = f"{temp}°{unit} | {wind} {wind_dir} | {short}<br><br>{detailed}"
+        slug = name.lower().replace(" ", "-")
+
+        weather_items.append({
+            "title": f"Anchorage Weather: {name}",
+            "link": f"https://akpulselive.com/weather.html#{slug}-{now.strftime('%Y%m%d%H')}",
+            "description": description,
+            "pubDate": format_date(now),
+            "category": "weather",
+            "tag": "weather",
+            "source": "NWS Anchorage",
+            "rank": 95,
+        })
+
+    return weather_items
+    
 def main():
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
 
@@ -292,7 +339,12 @@ def main():
         time.sleep(0.4)
 
     combined = new_items + existing
-
+    try:
+        weather_items = import_weather_forecast()
+        print("Imported weather forecast:", len(weather_items))
+        new_items = weather_items + new_items
+    except Exception as e:
+        print("WEATHER FORECAST ERROR:", e)
     # Reserve room for world/general stories so Alaska feeds do not crowd them out.
     world_items = [
         item for item in combined
@@ -316,8 +368,9 @@ def main():
         reverse=True,
     )
 
-    combined = non_world_items[:MAX_TOTAL_ITEMS - len(world_items)] + world_items
-
+    
+    combined = non_world_items[:20] + world_items + non_world_items[20:MAX_TOTAL_ITEMS - len(world_items)]
+    
     DATA_FILE.write_text(json.dumps(combined, indent=2), encoding="utf-8")
     print("Saved", len(combined), "items")
     print("World/general items reserved:", len(world_items))
