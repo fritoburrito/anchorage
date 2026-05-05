@@ -221,11 +221,9 @@ for e in entries[:MAX_PER_SOURCE]:
     title = clean(get_child_text(e, ["title"]))
     link = get_child_text(e, ["link"]) or get_atom_link(e)
 
-    # Alaska Landmine fix
     if source.get("name") == "Alaska Landmine":
         link = source.get("home", "https://alaskalandmine.com/")
 
-    # Skip bad download links (.cap, etc)
     if is_bad_link(link):
         continue
 
@@ -236,27 +234,20 @@ for e in entries[:MAX_PER_SOURCE]:
     if not title:
         continue
 
-    summary = clean(get_child_text(e, ["description", "summary", "content"]))
-    date_text = get_child_text(e, ["pubDate", "updated", "published"])
-    date = parse_date(date_text)
+    cat = auto_category(title, summary, source.get("category", "general"))
 
-    if not title:
-        continue
-        
-        cat = auto_category(title, summary, source.get("category", "general"))
+    items.append({
+        "title": title,
+        "link": link,
+        "description": summary,
+        "pubDate": format_date(date),
+        "category": cat,
+        "tag": source.get("tag", ""),
+        "source": source.get("name", ""),
+        "rank": source_rank(source),
+    })
 
-        items.append({
-            "title": title,
-            "link": link,
-            "description": summary,
-            "pubDate": format_date(date),
-            "category": cat,
-            "tag": source.get("tag", ""),
-            "source": source.get("name", ""),
-            "rank": source_rank(source),
-        })
-
-    return items
+return items
 
 
 def sort_by_date(items):
