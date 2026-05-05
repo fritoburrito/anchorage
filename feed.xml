@@ -15,6 +15,86 @@
       <category>breaking</category>
     </item>
     <item>
+      <title>Wind Advisory issued May 4 at 2:29PM AKDT until May 5 at 10:00PM AKDT by NWS Juneau AK</title>
+      <link>https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.27be4788d7d29521589f3add05056bf7fe1740c9.001.1.cap</link>
+      <guid isPermaLink="false">a8fad70be9b4415c216a5707ceb4e743efdc68b7</guid>
+      <pubDate>Tue, 05 May 2026 03:39:40 GMT</pubDate>
+      <description><![CDATA[* WHAT...South winds 15 to 25 mph with gusts up to 45 mph expected. * WHERE...Municipality of Skagway. * WHEN...From 1 PM to 10 PM AKDT Tuesday. * IMPACTS...Gusty winds will blow around unsecured objects. Tree limbs could be blown down and a few power outages may result.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Winter Weather Advisory issued May 4 at 2:25PM AKDT until May 7 at 4:00AM AKDT by NWS Fairbanks AK</title>
+      <link>https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.76bcce960c7d002dfc815ebc02670be48cd0a907.001.1.cap</link>
+      <guid isPermaLink="false">2ebf0a51787f4375a0b56eb254c60fed64f80604</guid>
+      <pubDate>Tue, 05 May 2026 03:39:40 GMT</pubDate>
+      <description><![CDATA[* WHAT...Snow and blowing snow expected. Total snow accumulations up to two inches. Winds gusting as high as 40 mph. * WHERE...Eastern Beaufort Sea Coast. * WHEN...From 4 AM Tuesday to 4 AM AKDT Thursday. * IMPACTS...Travel could be difficult. Areas of blowing snow could reduce visibility to as low as a half mile at times.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Special Weather Statement issued May 4 at 2:24PM AKDT by NWS Fairbanks AK</title>
+      <link>https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d5c9a788fd44978d9fd738393d67e9b8e8339bba.001.1.cap</link>
+      <guid isPermaLink="false">9092acacbd014e5817757f82ca9706dd7440f084</guid>
+      <pubDate>Tue, 05 May 2026 03:39:40 GMT</pubDate>
+      <description><![CDATA[As a front pushes across the Brooks Range, snow totals of around 4 to 7 inches will be possible across the Central Arctic Coast, especially between Utqiagvik and Nuiqsut, and the Central Arctic Plains. The highest snowfall rates are likely to occur from Tuesday night through Wednesday morning. Along the Dalton Highway, 2 to 4 inches of snow will be possible. Gusty north to northeast winds will also be possible on the Arctic Coast as the front moves northward across the area and could produce blowing snow at times.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>https://alaskalandmine.com/category/sunday-minefield/page/10/</title>
+      <link>https://alaskalandmine.com/</link>
+      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
+      <pubDate>Tue, 05 May 2026 03:26:37 GMT</pubDate>
+      <description><![CDATA[[{“url”:”https://alaskalandmine.com/category/sunday-minefield/page/10/”,”viewport”:{“width”:1402,”height”:723},”elements”:[{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]”,”intersectionRatio”:1,”intersectionRect”:{“x”:494.109375,”y”:256.875,”width”:414,”height”:49.609375,”top”:256.875,”right”:908.109375,”bottom”:306.484375,”left”:494.109375},”boundingClientRect”:{“x”:494.109375,”y”:256.875,”width”:414,”height”:49.609375,”top”:256.875,”right”:908.109375,”bottom”:306.484375,”left”:494.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]”,”intersectionRatio”:1,”intersectionRect”:{“x”:166.109375,”y”:542.65625,”width”:200.015625,”height”:133.015625,”top”:542.65625,”right”:366.125,”bottom”:675.671875,”left”:166.109375},”boundingClientRect”:{“x”:166.109375,”y”:542.65625,”width”:200.015625,”height”:133.015625,”top”:542.65625,”right”:366.125,”bottom”:675.671875,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::A]”,”intersectionRatio”:0.20808041095733643,”intersectionRect”:{“x”:166.109375,”y”:695.65625,”width”:200.015625,”height”:27.6875,”top”:695.65625,”right”:366.125,”bottom”:723.34375,”left”:166.109375},”boundingClientRect”:{“x”:166.109375,”y”:695.65625,”width”:200.015625,”height”:133,”top”:695.65625,”right”:366.125,”bottom”:828.65625,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:848.640625,”width”:200.015625,”height”:133.015625,”top”:848.640625,”right”:366.125,”bottom”:981.65625,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[4][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:1001.640625,”width”:200.015625,”height”:133.015625,”top”:1001.640625,”right”:366.125,”bottom”:1134.65625,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[5][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:1154.640625,”width”:200.015625,”height”:133,”top”:1154.640625,”right”:366.125,”bottom”:1287.640625,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[6][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:1307.625,”width”:200.015625,”height”:133.015625,”top”:1307.625,”right”:366.125,”bottom”:1440.640625,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[7][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:1460.625,”width”:200.015625,”height”:133.015625,”top”:1460.625,”right”:366.125,”bottom”:1593.640625,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[8][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:1613.625,”width”:200.015625,”height”:133,”top”:1613.625,”right”:366.125,”bottom”:1746.625,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[9][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:1766.609375,”width”:200.015625,”height”:133.015625,”top”:1766.609375,”right”:366.125,”bottom”:1899.625,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[10][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:1919.609375,”width”:200.015625,”height”:133.015625,”top”:1919.609375,”right”:366.125,”bottom”:2052.625,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[11][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:2072.609375,”width”:200.015625,”height”:133,”top”:2072.609375,”right”:366.125,”bottom”:2205.609375,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[12][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:2225.59375,”width”:200.015625,”height”:133.015625,”top”:2225.59375,”right”:366.125,”bottom”:2358.609375,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[13][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:2378.59375,”width”:200.015625,”height”:133.015625,”top”:2378.59375,”right”:366.125,”bottom”:2511.609375,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[14][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:2531.59375,”width”:200.015625,”height”:133,”top”:2531.59375,”right”:366.125,”bottom”:2664.59375,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[15][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:2684.578125,”width”:200.015625,”height”:133.015625,”top”:2684.578125,”right”:366.125,”bottom”:2817.59375,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[16][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:2837.578125,”width”:200.015625,”height”:133.015625,”top”:2837.578125,”right”:366.125,”bottom”:2970.59375,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[17][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:2990.578125,”width”:200.015625,”height”:133,”top”:2990.578125,”right”:366.125,”bottom”:3123.578125,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[18][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:3143.5625,”width”:200.015625,”height”:133.015625,”top”:3143.5625,”right”:366.125,”bottom”:3276.578125,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[19][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:3296.5625,”width”:200.015625,”height”:133.015625,”top”:3296.5625,”right”:366.125,”bottom”:3429.578125,”left”:166.109375}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[20][self::DIV]/*[1][self::A]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:166.109375,”y”:3449.5625,”width”:200.015625,”height”:133,”top”:3449.5625,”right”:366.125,”bottom”:3582.5625,”left”:166.109375}}],”timestamp”:1777951597.223769,”uuid”:”e902a62f-11a7-4d87-b0dc-c4659a88b9cb”,”etag”:”c81a5b65b44e6e01b9a5053883071981″}] The post https://alaskalandmine.com/category/sunday-minefield/page/10/ appeared first on The Alaska Landmine .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>https://alaskalandmine.com/landmines/the-alaska-stalker-september-3-2022/for-real/</title>
+      <link>https://alaskalandmine.com/</link>
+      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
+      <pubDate>Tue, 05 May 2026 02:27:24 GMT</pubDate>
+      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/the-alaska-stalker-september-3-2022/for-real/”,”viewport”:{“width”:1024,”height”:569},”elements”:[{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:66.203125,”y”:1106.5,”width”:0,”height”:0,”top”:1106.5,”right”:66.203125,”bottom”:1106.5,”left”:66.203125}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::ARTICLE]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:66.203125,”y”:1753.390625,”width”:549.390625,”height”:549.390625,”top”:1753.390625,”right”:615.59375,”bottom”:2302.78125,”left”:66.203125}}],”timestamp”:1777948044.687284,”uuid”:”1c8d496c-b763-4c94-9a93-bc682983219e”,”etag”:”0d058dc65d4c726c0511c8c75301237e”}] The post https://alaskalandmine.com/landmines/the-alaska-stalker-september-3-2022/for-real/ appeared first on The Alaska Landmine .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>https://alaskalandmine.com/landmines/the-alaska-stalker-september-26-2018/fiscal-conservative/</title>
+      <link>https://alaskalandmine.com/</link>
+      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
+      <pubDate>Tue, 05 May 2026 02:15:20 GMT</pubDate>
+      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/the-alaska-stalker-september-26-2018/fiscal-conservative/”,”viewport”:{“width”:1024,”height”:569},”elements”:[{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:66.203125,”y”:1106.5,”width”:0,”height”:0,”top”:1106.5,”right”:66.203125,”bottom”:1106.5,”left”:66.203125}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::ARTICLE]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:66.203125,”y”:1753.390625,”width”:488,”height”:488,”top”:1753.390625,”right”:554.203125,”bottom”:2241.390625,”left”:66.203125}}],”timestamp”:1777947320.656731,”uuid”:”d7e9b6da-7979-4a46-9ece-d8935643db50″,”etag”:”3b09879c5ed90327d9f66ae9a0bae3d8″}] The post https://alaskalandmine.com/landmines/the-alaska-stalker-september-26-2018/fiscal-conservative/ appeared first on The Alaska Landmine .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>https://alaskalandmine.com/landmines/strange-history-upside-building-anchorage-airport/image2-22/</title>
+      <link>https://alaskalandmine.com/</link>
+      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
+      <pubDate>Tue, 05 May 2026 01:48:08 GMT</pubDate>
+      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/strange-history-upside-building-anchorage-airport/image2-22/”,”viewport”:{“width”:1024,”height”:569},”elements”:[{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0}},{“isLCP”:true,”isLCPCandidate”:true,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:66.203125,”y”:702.5,”width”:0,”height”:0,”top”:702.5,”right”:66.203125,”bottom”:702.5,”left”:66.203125}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::ARTICLE]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:66.203125,”y”:1349.390625,”width”:549.390625,”height”:549.390625,”top”:1349.390625,”right”:615.59375,”bottom”:1898.78125,”left”:66.203125}}],”timestamp”:1777945688.333892,”uuid”:”c8795b7f-a675-4982-ae83-e2f310ecda12″,”etag”:”207891d007b7d31ed51c087a3855e4a0″}] The post https://alaskalandmine.com/landmines/strange-history-upside-building-anchorage-airport/image2-22/ appeared first on The Alaska Landmine .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-a-not-too-far-fetched-thought-experiment/3-7-chart-1/</title>
+      <link>https://alaskalandmine.com/</link>
+      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
+      <pubDate>Tue, 05 May 2026 01:39:12 GMT</pubDate>
+      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-a-not-too-far-fetched-thought-experiment/3-7-chart-1/”,”viewport”:{“width”:1024,”height”:569},”elements”:[{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:66.203125,”y”:1106.5,”width”:0,”height”:0,”top”:1106.5,”right”:66.203125,”bottom”:1106.5,”left”:66.203125}},{“isLCP”:false,”isLCPCandidate”:false,”xpath”:”/HTML/BODY/DIV[@id=’wrapper’]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::ARTICLE]/*[1][self::IMG]”,”intersectionRatio”:0,”intersectionRect”:{“x”:0,”y”:0,”width”:0,”height”:0,”top”:0,”right”:0,”bottom”:0,”left”:0},”boundingClientRect”:{“x”:66.203125,”y”:1753.390625,”width”:549.390625,”height”:549.390625,”top”:1753.390625,”right”:615.59375,”bottom”:2302.78125,”left”:66.203125}}],”timestamp”:1777945152.261113,”uuid”:”8a084563-145d-41b5-8482-66e3575a3963″,”etag”:”de1c29687e7b8af2f0421598f27382de”}] The post https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-a-not-too-far-fetched-thought-experiment/3-7-chart-1/ appeared first on The Alaska Landmine .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Monday, May 4, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17332515/newscast-monday-may-4-2026</link>
+      <guid isPermaLink="false">b9ff56358b6f55a8958b775f6ac1918c71f37eec</guid>
+      <pubDate>Tue, 05 May 2026 00:59:56 GMT</pubDate>
+      <description><![CDATA[In this newscast: The Goldbelt Tram in downtown Juneau will remain closed for at least the next three weeks, after a tram car came to an abrupt halt at its bottom terminal last week; Public service is nothing out of the ordinary for Scott Ciambor, a longtime employee of the City and Borough of Juneau. He’s worn different hats within CBJ, from chief housing officer to planning manager to his newest role as director of the Community Development Department; A new exhibit by an Alaska nonprofit dedicated to archiving Filipino American history in Alaska features the stories, photos, and belongings of Filipino elders in Juneau; A confidential informant is suing the state public safety department, two Alaska State Troopers and the A&E Television Network]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska Legislature declines to override Gov. Dunleavy’s veto of bipartisan election bill</title>
+      <link>https://alaskabeacon.com/2026/05/04/alaska-legislature-declines-to-override-gov-dunleavys-veto-of-bipartisan-election-bill/</link>
+      <guid isPermaLink="false">df0e014055b438f12aa52c4e57b366ba584bbd76</guid>
+      <pubDate>Tue, 05 May 2026 00:37:05 GMT</pubDate>
+      <description><![CDATA[After two southeast Alaska Republicans reversed themselves, the Alaska Legislature on Monday failed to override Gov. Mike Dunleavy’s veto of an elections bill intended to take effect this year. Forty votes were needed to override the veto. Monday’s vote was 38-22, with Rep. Jeremy Bynum, R-Ketchikan, and Sen. Bert Stedman, R-Sitka, providing the critical votes […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
       <title>https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-think-oil-credits-are-big-theres-another-even-bigger-category/6-6-chart-2/</title>
       <link>https://alaskalandmine.com/</link>
       <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
@@ -324,86 +404,6 @@
       <guid isPermaLink="false">19d59e253a80e0a5a0f5ad1bd8bced039041726d</guid>
       <pubDate>Sat, 02 May 2026 15:30:00 GMT</pubDate>
       <description><![CDATA[When our Assembly Finance Committee met on April 22 to consider possible cuts to the budget, they were offered a two-page list of 41 possible service reductions. Compiled by city staff at Assembly direction, a variety of possible savings, some significant and some not, were presented.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska Beacon state and legislative daybook for the week of May 4, 2026</title>
-      <link>https://alaskabeacon.com/2026/05/02/alaska-beacon-state-and-legislative-daybook-for-the-week-of-may-4-2026/</link>
-      <guid isPermaLink="false">34e928a54aff76ddb9b71ac2d5c5f8643067240c</guid>
-      <pubDate>Sat, 02 May 2026 13:50:30 GMT</pubDate>
-      <description><![CDATA[It’s down to the final weeks of the second legislative session of the 34th Legislature. There will be a joint legislative session on Monday to consider an override vote of Gov. Dunleavy’s veto of a bipartisan elections reform bill. The draft budgets for next fiscal year are taking shape, lawmakers are considering governor’s appointees for […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Opinion: Is Legislature Using Lower Energy Costs to Bargain Higher Payroll?</title>
-      <link>https://mustreadalaska.com/opinion-trading-lower-energy-costs-for-higher-payroll-costs/</link>
-      <guid isPermaLink="false">bf8929a242b8090e4f48325571115f953234e784</guid>
-      <pubDate>Sat, 02 May 2026 03:00:00 GMT</pubDate>
-      <description><![CDATA[By Ben Carpenter House Bill 78 is sitting on the governor’s desk. At the same time, pipeline legislation is being held up by many of the same lawmakers pushing the pension bill. That overlap matters because it ties together two decisions that affect every household in Alaska. One drives costs up. The other has the […] The post Opinion: Is Legislature Using Lower Energy Costs to Bargain Higher Payroll? appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Newscast – Friday, May 01, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17330571/newscast-friday-may-01-2026</link>
-      <guid isPermaLink="false">e287ab8f80f9b9625d3b67fdac3a2c3d0b4bec83</guid>
-      <pubDate>Sat, 02 May 2026 01:00:34 GMT</pubDate>
-      <description><![CDATA[In this newscast: Two people were sent to Bartlett Regional Hospital for minor injuries after a Goldbelt Tram car came to an abrupt halt at its bottom terminal while making its way down Mount Roberts last night. That’s according to Capital City Fire and Rescue; The University of Alaska system will have a new president this summer. The Board of Regents appointed Fairbanks attorney Matt Cooper to the role this morning. He formerly served as general counsel for the university; It’s that time of year again when we’re all told to be “bear aware.” Bear encounters can happen when we’re hiking, camping or even just walking through town. KTOO’s Mike Lane recently sat down with Area Management Biologist Carl Koch with Fish and Game Wildlife Conservation to learn what attracts the bears and how we can limit encounters; Decisions about Alaskan schools are almost always made by administrators, school board members and lawmakers. But students also play a role. Twice a year, student leaders from across the state gather at the Alaska Association of Student Government conference to decide on goals to improve their schools.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Juneau community calendar: May 2 and 3</title>
-      <link>https://www.juneauempire.com/2026/05/01/juneau-community-calendar-may-2-and-3/</link>
-      <guid isPermaLink="false">3abdb1ccb2fb15cbfdb0480738e677e8e5962c4a</guid>
-      <pubDate>Sat, 02 May 2026 00:30:00 GMT</pubDate>
-      <description><![CDATA[SATURDAY, May 2]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Relatives, friends and supporters walk to bring attention to Alaska Indigenous victims</title>
-      <link>https://alaskabeacon.com/briefs/relatives-friends-and-supporters-walk-to-bring-attention-to-alaska-indigenous-victims/</link>
-      <guid isPermaLink="false">4e7c33283159050bd2ace14caeeffdf8cf1d8a86</guid>
-      <pubDate>Sat, 02 May 2026 00:13:43 GMT</pubDate>
-      <description><![CDATA[Relatives and friends of murdered and missing Indigenous Alaskans took their grief to the streets of Midtown Anchorage on Thursday. The event was the third annual Walk for Missing and Murdered Indigenous People hosted by the Alaska Native Science and Engineering Program at the University of Alaska Anchorage. Led by members of the Qissunamiut Yurartet […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Federal Court Reinstates In-Person Requirement for Abortion Drug After FDA Admits Deficient Research</title>
-      <link>https://mustreadalaska.com/federal-court-reinstates-in-person-requirement-for-abortion-drug-after-fda-admits-deficient-research/</link>
-      <guid isPermaLink="false">d9e3e585810fd1b58d4dff1bdc30d12328570802</guid>
-      <pubDate>Fri, 01 May 2026 23:47:25 GMT</pubDate>
-      <description><![CDATA[In 2023, the U.S. Food and Drug Administration allowed the abortion drug mifepristone to be prescribed online and dispensed through the mail. Today, May 1, 2026, the U.S. Court of Appeals for the Fifth Circuit reinstated the in-person prescription requirement at least until the FDA finishes research regarding the drug’s safety. The decision aligns with […] The post Federal Court Reinstates In-Person Requirement for Abortion Drug After FDA Admits Deficient Research appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Attorney General Cox Warns Alaskans about Scammers Directing Victims to Crypto ATMs</title>
-      <link>https://alaska-native-news.com/attorney-general-cox-warns-alaskans-about-scammers-directing-victims-to-crypto-atms/83868/</link>
-      <guid isPermaLink="false">65f8821563c059d3455a04db85c520429aca60c1</guid>
-      <pubDate>Fri, 01 May 2026 20:56:54 GMT</pubDate>
-      <description><![CDATA[(Anchorage, AK) – Crypto ATMs—kiosks that allow customers to convert cash into a cryptocurrency and direct it to a cryptocurrency wallet— have become more common in Alaska over the last several years. Unfortunately, scammers are taking advantage of these machines to quickly separate their victims from their money. Scammers often call victims posing as law […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Group tracking sandhill crane numbers in Kachemak Bay area</title>
-      <link>https://www.homernews.com/2026/05/01/group-tracking-sandhill-crane-numbers-in-kachemak-bay-area/</link>
-      <guid isPermaLink="false">433894636c5430fa682aff6a3e0220d78168569f</guid>
-      <pubDate>Fri, 01 May 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Crane pairs paint their feathers, perform elaborate courtship dances, choose a nest, mate, and then lay their eggs]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Newscast – Thursday, April 30, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17328968/newscast-thursday-april-30-2026</link>
-      <guid isPermaLink="false">00e91d15ae3fa0280122be0ada89826d34b15461</guid>
-      <pubDate>Fri, 01 May 2026 01:09:29 GMT</pubDate>
-      <description><![CDATA[In this newscast: State House lawmakers rolled a new draft of Gov. Mike Dunleavy’s proposal cutting taxes for the Alaska LNG project on Monday; A lot of people – from toddlers to teens to retirees – had a lot to say to the Juneau Assembly at a special meeting Wednesday. It was the first chance for residents to testify about a list of possible city service cuts and facility closures the Assembly is considering as the city grapples with a multimillion-dollar budget shortfall; The temporary flood wall along the Mendenhall River just barely protected hundreds of homes from Juneau’s largest glacial outburst flood last summer. Now, city and federal contractors are racing to repair the damage and bolster it for the flood expected this summer.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Bishop Rock’s oversized effect on breakup</title>
-      <link>https://www.homernews.com/2026/04/30/bishop-rocks-oversized-effect-on-breakup/</link>
-      <guid isPermaLink="false">b3685c89dcc1f5a93d8ec4cc4baf4d64b96ab895</guid>
-      <pubDate>Thu, 30 Apr 2026 21:30:00 GMT</pubDate>
-      <description><![CDATA[A few weeks ago, as my friend Forest and I rode our bikes on the vast white sheet of the frozen Yukon River downstream of Galena, the river forced us into a 90-degree hard left. There, the channel suddenly necked down from being almost a mile wide to just a quarter mile.]]></description>
       <category>local</category>
     </item>
   </channel>

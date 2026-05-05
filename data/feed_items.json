@@ -1,5 +1,105 @@
 [
   {
+    "title": "Wind Advisory issued May 4 at 2:29PM AKDT until May 5 at 10:00PM AKDT by NWS Juneau AK",
+    "link": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.27be4788d7d29521589f3add05056bf7fe1740c9.001.1.cap",
+    "description": "* WHAT...South winds 15 to 25 mph with gusts up to 45 mph expected. * WHERE...Municipality of Skagway. * WHEN...From 1 PM to 10 PM AKDT Tuesday. * IMPACTS...Gusty winds will blow around unsecured objects. Tree limbs could be blown down and a few power outages may result.",
+    "pubDate": "Tue, 05 May 2026 03:39:40 GMT",
+    "category": "weather",
+    "tag": "alaska",
+    "source": "NWS Alaska",
+    "rank": 100
+  },
+  {
+    "title": "Winter Weather Advisory issued May 4 at 2:25PM AKDT until May 7 at 4:00AM AKDT by NWS Fairbanks AK",
+    "link": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.76bcce960c7d002dfc815ebc02670be48cd0a907.001.1.cap",
+    "description": "* WHAT...Snow and blowing snow expected. Total snow accumulations up to two inches. Winds gusting as high as 40 mph. * WHERE...Eastern Beaufort Sea Coast. * WHEN...From 4 AM Tuesday to 4 AM AKDT Thursday. * IMPACTS...Travel could be difficult. Areas of blowing snow could reduce visibility to as low as a half mile at times.",
+    "pubDate": "Tue, 05 May 2026 03:39:40 GMT",
+    "category": "weather",
+    "tag": "alaska",
+    "source": "NWS Alaska",
+    "rank": 100
+  },
+  {
+    "title": "Special Weather Statement issued May 4 at 2:24PM AKDT by NWS Fairbanks AK",
+    "link": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.d5c9a788fd44978d9fd738393d67e9b8e8339bba.001.1.cap",
+    "description": "As a front pushes across the Brooks Range, snow totals of around 4 to 7 inches will be possible across the Central Arctic Coast, especially between Utqiagvik and Nuiqsut, and the Central Arctic Plains. The highest snowfall rates are likely to occur from Tuesday night through Wednesday morning. Along the Dalton Highway, 2 to 4 inches of snow will be possible. Gusty north to northeast winds will also be possible on the Arctic Coast as the front moves northward across the area and could produce blowing snow at times.",
+    "pubDate": "Tue, 05 May 2026 03:39:40 GMT",
+    "category": "weather",
+    "tag": "alaska",
+    "source": "NWS Alaska",
+    "rank": 100
+  },
+  {
+    "title": "https://alaskalandmine.com/category/sunday-minefield/page/10/",
+    "link": "https://alaskalandmine.com/",
+    "description": "[{\u201curl\u201d:\u201dhttps://alaskalandmine.com/category/sunday-minefield/page/10/\u201d,\u201dviewport\u201d:{\u201cwidth\u201d:1402,\u201dheight\u201d:723},\u201delements\u201d:[{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:1,\u201dintersectionRect\u201d:{\u201cx\u201d:494.109375,\u201dy\u201d:256.875,\u201dwidth\u201d:414,\u201dheight\u201d:49.609375,\u201dtop\u201d:256.875,\u201dright\u201d:908.109375,\u201dbottom\u201d:306.484375,\u201dleft\u201d:494.109375},\u201dboundingClientRect\u201d:{\u201cx\u201d:494.109375,\u201dy\u201d:256.875,\u201dwidth\u201d:414,\u201dheight\u201d:49.609375,\u201dtop\u201d:256.875,\u201dright\u201d:908.109375,\u201dbottom\u201d:306.484375,\u201dleft\u201d:494.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:1,\u201dintersectionRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:542.65625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:542.65625,\u201dright\u201d:366.125,\u201dbottom\u201d:675.671875,\u201dleft\u201d:166.109375},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:542.65625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:542.65625,\u201dright\u201d:366.125,\u201dbottom\u201d:675.671875,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0.20808041095733643,\u201dintersectionRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:695.65625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:27.6875,\u201dtop\u201d:695.65625,\u201dright\u201d:366.125,\u201dbottom\u201d:723.34375,\u201dleft\u201d:166.109375},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:695.65625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133,\u201dtop\u201d:695.65625,\u201dright\u201d:366.125,\u201dbottom\u201d:828.65625,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:848.640625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:848.640625,\u201dright\u201d:366.125,\u201dbottom\u201d:981.65625,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[4][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:1001.640625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:1001.640625,\u201dright\u201d:366.125,\u201dbottom\u201d:1134.65625,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[5][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:1154.640625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133,\u201dtop\u201d:1154.640625,\u201dright\u201d:366.125,\u201dbottom\u201d:1287.640625,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[6][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:1307.625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:1307.625,\u201dright\u201d:366.125,\u201dbottom\u201d:1440.640625,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[7][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:1460.625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:1460.625,\u201dright\u201d:366.125,\u201dbottom\u201d:1593.640625,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[8][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:1613.625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133,\u201dtop\u201d:1613.625,\u201dright\u201d:366.125,\u201dbottom\u201d:1746.625,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[9][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:1766.609375,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:1766.609375,\u201dright\u201d:366.125,\u201dbottom\u201d:1899.625,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[10][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:1919.609375,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:1919.609375,\u201dright\u201d:366.125,\u201dbottom\u201d:2052.625,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[11][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:2072.609375,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133,\u201dtop\u201d:2072.609375,\u201dright\u201d:366.125,\u201dbottom\u201d:2205.609375,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[12][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:2225.59375,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:2225.59375,\u201dright\u201d:366.125,\u201dbottom\u201d:2358.609375,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[13][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:2378.59375,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:2378.59375,\u201dright\u201d:366.125,\u201dbottom\u201d:2511.609375,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[14][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:2531.59375,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133,\u201dtop\u201d:2531.59375,\u201dright\u201d:366.125,\u201dbottom\u201d:2664.59375,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[15][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:2684.578125,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:2684.578125,\u201dright\u201d:366.125,\u201dbottom\u201d:2817.59375,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[16][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:2837.578125,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:2837.578125,\u201dright\u201d:366.125,\u201dbottom\u201d:2970.59375,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[17][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:2990.578125,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133,\u201dtop\u201d:2990.578125,\u201dright\u201d:366.125,\u201dbottom\u201d:3123.578125,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[18][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:3143.5625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:3143.5625,\u201dright\u201d:366.125,\u201dbottom\u201d:3276.578125,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[19][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:3296.5625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133.015625,\u201dtop\u201d:3296.5625,\u201dright\u201d:366.125,\u201dbottom\u201d:3429.578125,\u201dleft\u201d:166.109375}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[3][self::DIV]/*[1][self::DIV]/*[20][self::DIV]/*[1][self::A]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:166.109375,\u201dy\u201d:3449.5625,\u201dwidth\u201d:200.015625,\u201dheight\u201d:133,\u201dtop\u201d:3449.5625,\u201dright\u201d:366.125,\u201dbottom\u201d:3582.5625,\u201dleft\u201d:166.109375}}],\u201dtimestamp\u201d:1777951597.223769,\u201duuid\u201d:\u201de902a62f-11a7-4d87-b0dc-c4659a88b9cb\u201d,\u201detag\u201d:\u201dc81a5b65b44e6e01b9a5053883071981\u2033}] The post https://alaskalandmine.com/category/sunday-minefield/page/10/ appeared first on The Alaska Landmine .",
+    "pubDate": "Tue, 05 May 2026 03:26:37 GMT",
+    "category": "opinion",
+    "tag": "alaska",
+    "source": "Alaska Landmine",
+    "rank": 100
+  },
+  {
+    "title": "https://alaskalandmine.com/landmines/the-alaska-stalker-september-3-2022/for-real/",
+    "link": "https://alaskalandmine.com/",
+    "description": "[{\u201curl\u201d:\u201dhttps://alaskalandmine.com/landmines/the-alaska-stalker-september-3-2022/for-real/\u201d,\u201dviewport\u201d:{\u201cwidth\u201d:1024,\u201dheight\u201d:569},\u201delements\u201d:[{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:66.203125,\u201dy\u201d:1106.5,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:1106.5,\u201dright\u201d:66.203125,\u201dbottom\u201d:1106.5,\u201dleft\u201d:66.203125}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::ARTICLE]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:66.203125,\u201dy\u201d:1753.390625,\u201dwidth\u201d:549.390625,\u201dheight\u201d:549.390625,\u201dtop\u201d:1753.390625,\u201dright\u201d:615.59375,\u201dbottom\u201d:2302.78125,\u201dleft\u201d:66.203125}}],\u201dtimestamp\u201d:1777948044.687284,\u201duuid\u201d:\u201d1c8d496c-b763-4c94-9a93-bc682983219e\u201d,\u201detag\u201d:\u201d0d058dc65d4c726c0511c8c75301237e\u201d}] The post https://alaskalandmine.com/landmines/the-alaska-stalker-september-3-2022/for-real/ appeared first on The Alaska Landmine .",
+    "pubDate": "Tue, 05 May 2026 02:27:24 GMT",
+    "category": "opinion",
+    "tag": "alaska",
+    "source": "Alaska Landmine",
+    "rank": 100
+  },
+  {
+    "title": "https://alaskalandmine.com/landmines/the-alaska-stalker-september-26-2018/fiscal-conservative/",
+    "link": "https://alaskalandmine.com/",
+    "description": "[{\u201curl\u201d:\u201dhttps://alaskalandmine.com/landmines/the-alaska-stalker-september-26-2018/fiscal-conservative/\u201d,\u201dviewport\u201d:{\u201cwidth\u201d:1024,\u201dheight\u201d:569},\u201delements\u201d:[{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:66.203125,\u201dy\u201d:1106.5,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:1106.5,\u201dright\u201d:66.203125,\u201dbottom\u201d:1106.5,\u201dleft\u201d:66.203125}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::ARTICLE]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:66.203125,\u201dy\u201d:1753.390625,\u201dwidth\u201d:488,\u201dheight\u201d:488,\u201dtop\u201d:1753.390625,\u201dright\u201d:554.203125,\u201dbottom\u201d:2241.390625,\u201dleft\u201d:66.203125}}],\u201dtimestamp\u201d:1777947320.656731,\u201duuid\u201d:\u201dd7e9b6da-7979-4a46-9ece-d8935643db50\u2033,\u201detag\u201d:\u201d3b09879c5ed90327d9f66ae9a0bae3d8\u2033}] The post https://alaskalandmine.com/landmines/the-alaska-stalker-september-26-2018/fiscal-conservative/ appeared first on The Alaska Landmine .",
+    "pubDate": "Tue, 05 May 2026 02:15:20 GMT",
+    "category": "opinion",
+    "tag": "alaska",
+    "source": "Alaska Landmine",
+    "rank": 100
+  },
+  {
+    "title": "https://alaskalandmine.com/landmines/strange-history-upside-building-anchorage-airport/image2-22/",
+    "link": "https://alaskalandmine.com/",
+    "description": "[{\u201curl\u201d:\u201dhttps://alaskalandmine.com/landmines/strange-history-upside-building-anchorage-airport/image2-22/\u201d,\u201dviewport\u201d:{\u201cwidth\u201d:1024,\u201dheight\u201d:569},\u201delements\u201d:[{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0}},{\u201cisLCP\u201d:true,\u201disLCPCandidate\u201d:true,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:66.203125,\u201dy\u201d:702.5,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:702.5,\u201dright\u201d:66.203125,\u201dbottom\u201d:702.5,\u201dleft\u201d:66.203125}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::ARTICLE]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:66.203125,\u201dy\u201d:1349.390625,\u201dwidth\u201d:549.390625,\u201dheight\u201d:549.390625,\u201dtop\u201d:1349.390625,\u201dright\u201d:615.59375,\u201dbottom\u201d:1898.78125,\u201dleft\u201d:66.203125}}],\u201dtimestamp\u201d:1777945688.333892,\u201duuid\u201d:\u201dc8795b7f-a675-4982-ae83-e2f310ecda12\u2033,\u201detag\u201d:\u201d207891d007b7d31ed51c087a3855e4a0\u2033}] The post https://alaskalandmine.com/landmines/strange-history-upside-building-anchorage-airport/image2-22/ appeared first on The Alaska Landmine .",
+    "pubDate": "Tue, 05 May 2026 01:48:08 GMT",
+    "category": "anchorage",
+    "tag": "alaska",
+    "source": "Alaska Landmine",
+    "rank": 100
+  },
+  {
+    "title": "https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-a-not-too-far-fetched-thought-experiment/3-7-chart-1/",
+    "link": "https://alaskalandmine.com/",
+    "description": "[{\u201curl\u201d:\u201dhttps://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-a-not-too-far-fetched-thought-experiment/3-7-chart-1/\u201d,\u201dviewport\u201d:{\u201cwidth\u201d:1024,\u201dheight\u201d:569},\u201delements\u201d:[{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:66.203125,\u201dy\u201d:1106.5,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:1106.5,\u201dright\u201d:66.203125,\u201dbottom\u201d:1106.5,\u201dleft\u201d:66.203125}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::ARTICLE]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:66.203125,\u201dy\u201d:1753.390625,\u201dwidth\u201d:549.390625,\u201dheight\u201d:549.390625,\u201dtop\u201d:1753.390625,\u201dright\u201d:615.59375,\u201dbottom\u201d:2302.78125,\u201dleft\u201d:66.203125}}],\u201dtimestamp\u201d:1777945152.261113,\u201duuid\u201d:\u201d8a084563-145d-41b5-8482-66e3575a3963\u2033,\u201detag\u201d:\u201dde1c29687e7b8af2f0421598f27382de\u201d}] The post https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-a-not-too-far-fetched-thought-experiment/3-7-chart-1/ appeared first on The Alaska Landmine .",
+    "pubDate": "Tue, 05 May 2026 01:39:12 GMT",
+    "category": "opinion",
+    "tag": "alaska",
+    "source": "Alaska Landmine",
+    "rank": 100
+  },
+  {
+    "title": "Newscast \u2013 Monday, May 4, 2026",
+    "link": "https://feeds.ktoo.org/link/20427/17332515/newscast-monday-may-4-2026",
+    "description": "In this newscast: The Goldbelt Tram in downtown Juneau will remain closed for at least the next three weeks, after a tram car came to an abrupt halt at its bottom terminal last week; Public service is nothing out of the ordinary for Scott Ciambor, a longtime employee of the City and Borough of Juneau. He\u2019s worn different hats within CBJ, from chief housing officer to planning manager to his newest role as director of the Community Development Department; A new exhibit by an Alaska nonprofit dedicated to archiving Filipino American history in Alaska features the stories, photos, and belongings of Filipino elders in Juneau; A confidential informant is suing the state public safety department, two Alaska State Troopers and the A&E Television Network",
+    "pubDate": "Tue, 05 May 2026 00:59:56 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "KTOO",
+    "rank": 100
+  },
+  {
+    "title": "Alaska Legislature declines to override Gov. Dunleavy\u2019s veto of bipartisan election bill",
+    "link": "https://alaskabeacon.com/2026/05/04/alaska-legislature-declines-to-override-gov-dunleavys-veto-of-bipartisan-election-bill/",
+    "description": "After two southeast Alaska Republicans reversed themselves, the Alaska Legislature on Monday failed to override Gov. Mike Dunleavy\u2019s veto of an elections bill intended to take effect this year. Forty votes were needed to override the veto. Monday\u2019s vote was 38-22, with Rep. Jeremy Bynum, R-Ketchikan, and Sen. Bert Stedman, R-Sitka, providing the critical votes [\u2026]",
+    "pubDate": "Tue, 05 May 2026 00:37:05 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "Alaska Beacon",
+    "rank": 100
+  },
+  {
     "title": "https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-think-oil-credits-are-big-theres-another-even-bigger-category/6-6-chart-2/",
     "link": "https://alaskalandmine.com/",
     "description": "[{\u201curl\u201d:\u201dhttps://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-think-oil-credits-are-big-theres-another-even-bigger-category/6-6-chart-2/\u201d,\u201dviewport\u201d:{\u201cwidth\u201d:1024,\u201dheight\u201d:569},\u201delements\u201d:[{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[1][self::HEADER]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[2][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::A]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:66.203125,\u201dy\u201d:1106.5,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:1106.5,\u201dright\u201d:66.203125,\u201dbottom\u201d:1106.5,\u201dleft\u201d:66.203125}},{\u201cisLCP\u201d:false,\u201disLCPCandidate\u201d:false,\u201dxpath\u201d:\u201d/HTML/BODY/DIV[@id=\u2019wrapper\u2019]/*[3][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[1][self::DIV]/*[2][self::ARTICLE]/*[1][self::IMG]\u201d,\u201dintersectionRatio\u201d:0,\u201dintersectionRect\u201d:{\u201cx\u201d:0,\u201dy\u201d:0,\u201dwidth\u201d:0,\u201dheight\u201d:0,\u201dtop\u201d:0,\u201dright\u201d:0,\u201dbottom\u201d:0,\u201dleft\u201d:0},\u201dboundingClientRect\u201d:{\u201cx\u201d:66.203125,\u201dy\u201d:1753.390625,\u201dwidth\u201d:549.390625,\u201dheight\u201d:549.390625,\u201dtop\u201d:1753.390625,\u201dright\u201d:615.59375,\u201dbottom\u201d:2302.78125,\u201dleft\u201d:66.203125}}],\u201dtimestamp\u201d:1777934024.736836,\u201duuid\u201d:\u201d0a4872bc-2f1a-4ae4-968d-2082416748d1\u2033,\u201detag\u201d:\u201debf0eb799d1579923ed68e6dda1f392b\u201d}] The post https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-think-oil-credits-are-big-theres-another-even-bigger-category/6-6-chart-2/ appeared first on The Alaska Landmine .",
@@ -430,98 +530,44 @@
     "rank": 100
   },
   {
-    "title": "Relatives, friends and supporters walk to bring attention to Alaska Indigenous victims",
-    "link": "https://alaskabeacon.com/briefs/relatives-friends-and-supporters-walk-to-bring-attention-to-alaska-indigenous-victims/",
-    "description": "Relatives and friends of murdered and missing Indigenous Alaskans took their grief to the streets of Midtown Anchorage on Thursday. The event was the third annual Walk for Missing and Murdered Indigenous People hosted by the Alaska Native Science and Engineering Program at the University of Alaska Anchorage. Led by members of the Qissunamiut Yurartet [\u2026]",
-    "pubDate": "Sat, 02 May 2026 00:13:43 GMT",
-    "category": "anchorage",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "The most talked-about looks at this year's Met Gala",
+    "link": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&at_campaign=rss",
+    "description": "The theme for 2026 Met Gala fundraiser is \"Costume Art\", exploring fashion as an embodied art form.",
+    "pubDate": "Tue, 05 May 2026 02:46:40 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
-    "title": "Federal Court Reinstates In-Person Requirement for Abortion Drug After FDA Admits Deficient Research",
-    "link": "https://mustreadalaska.com/federal-court-reinstates-in-person-requirement-for-abortion-drug-after-fda-admits-deficient-research/",
-    "description": "In 2023, the U.S. Food and Drug Administration allowed the abortion drug mifepristone to be prescribed online and dispensed through the mail. Today, May 1, 2026, the U.S. Court of Appeals for the Fifth Circuit reinstated the in-person prescription requirement at least until the FDA finishes research regarding the drug\u2019s safety. The decision aligns with [\u2026] The post Federal Court Reinstates In-Person Requirement for Abortion Drug After FDA Admits Deficient Research appeared first on Must Read Alaska .",
-    "pubDate": "Fri, 01 May 2026 23:47:25 GMT",
-    "category": "opinion",
-    "tag": "alaska",
-    "source": "Must Read Alaska",
-    "rank": 100
+    "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
+    "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+    "description": "The operator of the MV Hondius ship says a Dutch couple and a German national have died.",
+    "pubDate": "Tue, 05 May 2026 01:14:04 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
-    "title": "Attorney General Cox Warns Alaskans about Scammers Directing Victims to Crypto ATMs",
-    "link": "https://alaska-native-news.com/attorney-general-cox-warns-alaskans-about-scammers-directing-victims-to-crypto-atms/83868/",
-    "description": "(Anchorage, AK) \u2013 Crypto ATMs\u2014kiosks that allow customers to convert cash into a cryptocurrency and direct it to a cryptocurrency wallet\u2014 have become more common in Alaska over the last several years. Unfortunately, scammers are taking advantage of these machines to quickly separate their victims from their money. Scammers often call victims posing as law [\u2026]",
-    "pubDate": "Fri, 01 May 2026 20:56:54 GMT",
-    "category": "anchorage",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Starmer to host Downing Street summit to address antisemitism",
+    "link": "https://www.bbc.com/news/articles/czd2l55d1e7o?at_medium=RSS&at_campaign=rss",
+    "description": "The prime minister will meet leaders from a number of sectors at Downing Street on Tuesday.",
+    "pubDate": "Tue, 05 May 2026 00:38:20 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
-    "title": "Group tracking sandhill crane numbers in Kachemak Bay area",
-    "link": "https://www.homernews.com/2026/05/01/group-tracking-sandhill-crane-numbers-in-kachemak-bay-area/",
-    "description": "Crane pairs paint their feathers, perform elaborate courtship dances, choose a nest, mate, and then lay their eggs",
-    "pubDate": "Fri, 01 May 2026 12:30:00 GMT",
-    "category": "local",
-    "tag": "alaska",
-    "source": "Homer News",
-    "rank": 100
-  },
-  {
-    "title": "Newscast \u2013 Thursday, April 30, 2026",
-    "link": "https://feeds.ktoo.org/link/20427/17328968/newscast-thursday-april-30-2026",
-    "description": "In this newscast: State House lawmakers rolled a new draft of Gov. Mike Dunleavy\u2019s proposal cutting taxes for the Alaska LNG project on Monday; A lot of people \u2013 from toddlers to teens to retirees \u2013 had a lot to say to the Juneau Assembly at a special meeting Wednesday. It was the first chance for residents to testify about a list of possible city service cuts and facility closures the Assembly is considering as the city grapples with a multimillion-dollar budget shortfall; The temporary flood wall along the Mendenhall River just barely protected hundreds of homes from Juneau\u2019s largest glacial outburst flood last summer. Now, city and federal contractors are racing to repair the damage and bolster it for the flood expected this summer.",
-    "pubDate": "Fri, 01 May 2026 01:09:29 GMT",
-    "category": "southeast",
-    "tag": "alaska",
-    "source": "KTOO",
-    "rank": 100
-  },
-  {
-    "title": "Bishop Rock\u2019s oversized effect on breakup",
-    "link": "https://www.homernews.com/2026/04/30/bishop-rocks-oversized-effect-on-breakup/",
-    "description": "A few weeks ago, as my friend Forest and I rode our bikes on the vast white sheet of the frozen Yukon River downstream of Galena, the river forced us into a 90-degree hard left. There, the channel suddenly necked down from being almost a mile wide to just a quarter mile.",
-    "pubDate": "Thu, 30 Apr 2026 21:30:00 GMT",
-    "category": "local",
-    "source": "Homer News",
-    "rank": 100
-  },
-  {
-    "title": "A meatloaf to please even the pickiest of eaters",
-    "link": "https://www.homernews.com/2026/04/30/a-meatloaf-to-please-even-the-pickiest-of-eaters/",
-    "description": "This classic, sweet meatloaf is perfect with some mashed potatoes and buttery green beans",
-    "pubDate": "Thu, 30 Apr 2026 18:30:00 GMT",
-    "category": "local",
-    "source": "Homer News",
-    "rank": 100
-  },
-  {
-    "title": "Learning environment: Homer students land Caring For the Kenai awards",
-    "link": "https://www.homernews.com/2026/04/30/learning-environment-homer-students-land-caring-for-the-kenai-awards/",
-    "description": "Seward team of Leo Nipp and Noah Flowers takes top spot while Homer\u2019s Yousef El Daly finishes second",
-    "pubDate": "Thu, 30 Apr 2026 17:30:00 GMT",
-    "category": "kenai",
-    "source": "Homer News",
-    "rank": 100
-  },
-  {
-    "title": "Army Medic Leads Life-Saving Response After Bear Attack in Alaska",
-    "link": "https://alaska-native-news.com/army-medic-leads-life-saving-response-after-bear-attack-in-alaska/83863/",
-    "description": "When a bear attacked two soldiers during a land navigation exercise in the rugged Alaskan wilderness, Army Sgt. Zachariah Clark was not on duty as a medic; he was a participant, navigating the same challenging terrain as his fellow soldiers. But when the call for help came, Clark\u2019s training, leadership and commitment to his [\u2026]",
-    "pubDate": "Thu, 30 Apr 2026 14:04:27 GMT",
-    "category": "culture",
-    "source": "Alaska Native News",
-    "rank": 100
-  },
-  {
-    "title": "Palmer Juries Convict Darren Robbins of Felony Assault and Misconduct Involving a Weapon",
-    "link": "https://alaska-native-news.com/palmer-juries-convict-darren-robbins-of-felony-assault-and-misconduct-involving-a-weapon/83861/",
-    "description": "(Palmer, Alaska) \u2013 Monday, following a week-long trial, a Palmer jury found 55-year-old Darren Robbins guilty of five counts of Assault in the Third-Degree. Another Palmer jury found the defendant guilty of Misconduct Involving a Weapon in the Third-Degree last month in relation to the same incident. At trial, the jury heard from the [\u2026]",
-    "pubDate": "Thu, 30 Apr 2026 14:04:12 GMT",
-    "category": "anchorage",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "See the looks from the 2026 Met Gala red carpet",
+    "link": "https://www.npr.org/sections/the-picture-show/2026/05/04/nx-s1-5803014/met-gala-red-carpet",
+    "description": "Extravagantly dressed celebrities and designers made their way up the famous Met staircase Monday evening. The fundraiser is one of the fashion industry's biggest nights.",
+    "pubDate": "Mon, 04 May 2026 23:09:08 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
   },
   {
     "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
@@ -541,46 +587,6 @@
     "category": "world",
     "tag": "world",
     "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Hotels have a big World Cup problem: Bookings are running far below projections",
-    "link": "https://www.npr.org/2026/05/04/nx-s1-5810626/world-cup-hotels-tourism-bookings-visitors",
-    "description": "Nearly 80% of hotels surveyed by a body representing the industry reported bookings were running below projections \u2014 a worrisome sign with only weeks to go before the World Cup.",
-    "pubDate": "Mon, 04 May 2026 21:56:29 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-    "link": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
-    "description": "A 33-year-old German citizen was detained following the incident, the authorities say.",
-    "pubDate": "Mon, 04 May 2026 21:33:17 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Blake Lively and Justin Baldoni settle lawsuit over It Ends With Us film",
-    "link": "https://www.bbc.com/news/articles/c936q7np647o?at_medium=RSS&at_campaign=rss",
-    "description": "The settlement comes just ahead of a trial slated to begin in May, where both stars were expected to testify.",
-    "pubDate": "Mon, 04 May 2026 21:12:49 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Modi's party takes control of India's West Bengal in key state election",
-    "link": "https://www.npr.org/2026/05/04/g-s1-120053/modis-party-takes-control-of-indias-west-bengal-in-key-state-election",
-    "description": "The outcome is expected to strengthen Modi's political position midway through his third term.",
-    "pubDate": "Mon, 04 May 2026 20:18:30 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
     "rank": 10
   }
 ]
