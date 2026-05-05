@@ -218,24 +218,24 @@ def parse_feed(xml, source):
         ]
 
     for e in entries[:MAX_PER_SOURCE]:
-        title = clean(get_child_text(e, ["title"]))
-        link = get_child_text(e, ["link"]) or get_atom_link(e)
+    title = clean(get_child_text(e, ["title"]))
+    link = get_child_text(e, ["link"]) or get_atom_link(e)
 
-        # Alaska Landmine feed links can be unreliable.
-        # Keep the headline, but send clicks to the homepage.
-        if source.get("name") == "Alaska Landmine":
-            link = source.get("home", "https://alaskalandmine.com/")
+    # Alaska Landmine fix
+    if source.get("name") == "Alaska Landmine":
+        link = source.get("home", "https://alaskalandmine.com/")
 
-       if is_bad_link(link):
-            continue
+    # Skip bad download links (.cap, etc)
+    if is_bad_link(link):
+        continue
 
-        summary = clean(get_child_text(e, ["description", "summary", "content"]))
-        date_text = get_child_text(e, ["pubDate", "updated", "published"])
-        date = parse_date(date_text)
+    summary = clean(get_child_text(e, ["description", "summary", "content"]))
+    date_text = get_child_text(e, ["pubDate", "updated", "published"])
+    date = parse_date(date_text)
 
-        if not title:
-            continue
-
+    if not title:
+        continue
+        
         cat = auto_category(title, summary, source.get("category", "general"))
 
         items.append({
