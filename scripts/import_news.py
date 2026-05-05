@@ -196,7 +196,14 @@ def get_atom_link(entry):
         if tag == "link":
             return child.attrib.get("href", "").strip()
     return ""
-
+    
+def is_bad_link(link):
+    link = (link or "").lower().split("?")[0]
+    bad_extensions = [
+        ".cap", ".zip", ".exe", ".dmg", ".pkg", ".tar", ".gz",
+        ".7z", ".rar", ".pdf", ".doc", ".docx", ".xls", ".xlsx"
+    ]
+    return any(link.endswith(ext) for ext in bad_extensions)
 
 def parse_feed(xml, source):
     root = ET.fromstring(xml)
@@ -218,6 +225,9 @@ def parse_feed(xml, source):
         # Keep the headline, but send clicks to the homepage.
         if source.get("name") == "Alaska Landmine":
             link = source.get("home", "https://alaskalandmine.com/")
+
+       if is_bad_link(link):
+           continue
 
         summary = clean(get_child_text(e, ["description", "summary", "content"]))
         date_text = get_child_text(e, ["pubDate", "updated", "published"])
