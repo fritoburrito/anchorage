@@ -218,8 +218,8 @@ def parse_feed(xml, source):
         ]
 
     for e in entries[:MAX_PER_SOURCE]:
-    title = clean(get_child_text(e, ["title"]))
-    link = get_child_text(e, ["link"]) or get_atom_link(e)
+        title = clean(get_child_text(e, ["title"]))
+        link = get_child_text(e, ["link"]) or get_atom_link(e)
 
     # Alaska Landmine fix
     if source.get("name") == "Alaska Landmine":
