@@ -65,6 +65,26 @@ main {
   line-height: 1.35;
 }
 
+/* WEATHER */
+.weather-card {
+  background: rgba(18, 24, 39, 0.92);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 16px;
+  padding: 18px;
+  margin-bottom: 14px;
+}
+
+.weather-card h2 {
+  margin: 0 0 12px;
+  color: #00c6ff;
+}
+
+#weatherBox {
+  font-size: 1rem;
+  color: #f4f7fb;
+  min-height: 54px;
+}
+
 /* GRID */
 .news-grid {
   display: grid;
@@ -103,23 +123,32 @@ main {
 .top-nav a:hover {
   color: #7bffb2;
 }
-  
+
 .card p {
   font-size: 0.85rem;
   color: #9aa3b2;
 }
 
+@media (max-width: 800px) {
+  .featured-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .news-grid {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
 </head>
 
 <body>
 
 <main>
-  
+
 <div class="top-nav">
   <a href="index.html">← Back to Feed</a>
 </div>
-  
+
 <div class="featured-grid">
   <article class="featured-tile primary" id="featured-main">
     <span class="tag">Top Story</span>
@@ -132,6 +161,11 @@ main {
     <h3>Loading...</h3>
     <p></p>
   </article>
+</div>
+
+<div class="weather-card">
+  <h2>Anchorage Weather</h2>
+  <div id="weatherBox">Loading forecast...</div>
 </div>
 
 <div class="news-grid" id="grid"></div>
@@ -184,6 +218,61 @@ function rotateFeaturedTiles() {
   currentFeatureIndex += 2;
 }
 
+async function loadWeather() {
+  const box = document.getElementById("weatherBox");
+
+  try {
+    const pointsRes = await fetch(
+      "https://api.weather.gov/points/61.2176,-149.8997"
+    );
+
+    if (!pointsRes.ok) {
+      throw new Error("NWS points request failed");
+    }
+
+    const pointsData = await pointsRes.json();
+    const forecastUrl = pointsData.properties.forecast;
+
+    const forecastRes = await fetch(forecastUrl);
+
+    if (!forecastRes.ok) {
+      throw new Error("NWS forecast request failed");
+    }
+
+    const forecastData = await forecastRes.json();
+    const current = forecastData.properties.periods[0];
+
+    box.innerHTML = `
+      <div style="font-size:34px;font-weight:bold;">
+        ${current.temperature}°${current.temperatureUnit}
+      </div>
+
+      <div style="margin-top:6px;">
+        ${current.shortForecast}
+      </div>
+
+      <div style="margin-top:10px;color:#9aa3b2;font-size:0.85rem;">
+        Wind: ${current.windSpeed} ${current.windDirection}
+      </div>
+
+      <div style="margin-top:6px;color:#9aa3b2;font-size:0.8rem;">
+        ${current.name}
+      </div>
+    `;
+  } catch (err) {
+    console.error("Weather error:", err);
+
+    box.innerHTML = `
+      <div style="color:#ff6b6b;font-weight:bold;">
+        Weather unavailable
+      </div>
+      <div style="margin-top:6px;color:#9aa3b2;font-size:0.85rem;">
+        Could not load the Anchorage forecast.
+      </div>
+    `;
+  }
+}
+
 async function loadFeed(){
   const res = await fetch("feed.xml?t=" + Date.now());
   const txt = await res.text();
@@ -203,6 +292,7 @@ async function loadFeed(){
 }
 
 loadFeed();
+loadWeather();
 </script>
 
 </body>
