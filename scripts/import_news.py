@@ -77,7 +77,7 @@ SOURCES = [
     },
     {
         "name": "Alaska Landmine",
-        "url": "https://alaskalandmine.com/feed/",
+        "url": "https://rss.feedspot.com/alaska_landmine_rss_feeds/",
         "home": "https://alaskalandmine.com/",
         "category": "opinion",
         "tag": "alaska",
