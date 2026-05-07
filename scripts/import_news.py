@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
-import json, time, re, html
+import json
+import time
+import re
+import html
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -14,22 +17,6 @@ MAX_TOTAL_ITEMS = 60
 MAX_PER_SOURCE = 5
 MIN_WORLD_ITEMS = 6
 TIMEOUT = 20
-WEATHER_LAT = 61.2181
-WEATHER_LON = -149.9003
-WEATHER_PERIODS = 1
-
-def source_rank(source):
-    category = source.get("category", "").lower()
-    tag = source.get("tag", "").lower()
-    name = source.get("name", "").lower()
-
-    if category in ["alaska", "alaska-news", "weather"] or tag == "alaska":
-        return 100
-
-    if any(word in name for word in ["alaska", "anchorage", "juneau", "homer", "kenai", "ktoo", "adn"]):
-        return 90
-
-    return 10
 
 
 SOURCES = [
@@ -98,14 +85,14 @@ SOURCES = [
         "enabled": True,
     },
     {
-        "name": "NWS Alaska",
+        "name": "NWS Alaska Alerts",
         "url": "https://api.weather.gov/alerts/active.atom?area=AK",
         "category": "weather",
         "tag": "alaska",
         "enabled": True,
     },
 
-    # World / general feeds
+    # World/general feeds
     {
         "name": "BBC World",
         "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -130,14 +117,39 @@ SOURCES = [
 ]
 
 
+def source_rank(source):
+    category = source.get("category", "").lower()
+    tag = source.get("tag", "").lower()
+    name = source.get("name", "").lower()
+
+    if category in ["alaska", "alaska-news", "weather"] or tag == "alaska":
+        return 100
+
+    if any(word in name for word in ["alaska", "anchorage", "juneau", "homer", "kenai", "ktoo", "adn"]):
+        return 90
+
+    return 10
+
+
 def clean(text):
     text = re.sub(r"<[^>]+>", " ", text or "")
     return html.unescape(re.sub(r"\s+", " ", text)).strip()
 
 
-def parse_date(d):
+def parse_date(date_text):
+    if not date_text:
+        return datetime.now(timezone.utc)
+
     try:
-        dt = parsedate_to_datetime(d)
+        dt = parsedate_to_datetime(date_text)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        pass
+
+    try:
+        dt = datetime.fromisoformat(date_text.replace("Z", "+00:00"))
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt.astimezone(timezone.utc)
@@ -150,24 +162,35 @@ def format_date(dt):
 
 
 def normalize(title):
-    return re.sub(r"\W+", " ", title.lower()).strip()
+    return re.sub(r"\W+", " ", (title or "").lower()).strip()
+
+
+def is_bad_link(link):
+    link = (link or "").lower().split("?")[0]
+    bad_extensions = [
+        ".cap", ".zip", ".exe", ".dmg", ".pkg", ".tar", ".gz",
+        ".7z", ".rar", ".pdf", ".doc", ".docx", ".xls", ".xlsx"
+    ]
+    return any(link.endswith(ext) for ext in bad_extensions)
 
 
 def auto_category(title, summary, default):
-    t = (title + " " + summary).lower()
+    text = f"{title} {summary}".lower()
 
-    if any(w in t for w in ["weather", "storm", "snow", "wind", "warning", "advisory"]):
+    if any(w in text for w in ["weather", "storm", "snow", "wind", "warning", "advisory", "blizzard"]):
         return "weather"
-    if any(w in t for w in ["anchorage", "wasilla", "palmer", "mat-su", "matsu"]):
+    if any(w in text for w in ["anchorage", "wasilla", "palmer", "mat-su", "matsu", "eagle river"]):
         return "anchorage"
-    if any(w in t for w in ["juneau", "sitka", "ketchikan", "southeast"]):
+    if any(w in text for w in ["juneau", "sitka", "ketchikan", "southeast", "haines", "skagway"]):
         return "southeast"
-    if any(w in t for w in ["fairbanks", "interior"]):
+    if any(w in text for w in ["fairbanks", "interior", "north pole"]):
         return "interior"
-    if any(w in t for w in ["kenai", "homer", "soldotna", "seward"]):
+    if any(w in text for w in ["kenai", "homer", "soldotna", "seward", "peninsula"]):
         return "kenai"
-    if any(w in t for w in ["governor", "senate", "policy", "legislature", "election"]):
+    if any(w in text for w in ["governor", "senate", "policy", "legislature", "election", "bill"]):
         return "politics"
+    if any(w in text for w in ["native", "tribal", "subsistence", "rural alaska"]):
+        return "culture"
 
     return default
 
@@ -180,8 +203,9 @@ def fetch(url):
             "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
         },
     )
-    with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-        return r.read().decode("utf-8", "ignore")
+
+    with urllib.request.urlopen(req, timeout=TIMEOUT) as response:
+        return response.read().decode("utf-8", "ignore")
 
 
 def get_child_text(entry, names):
@@ -198,154 +222,110 @@ def get_atom_link(entry):
         if tag == "link":
             return child.attrib.get("href", "").strip()
     return ""
-    
-def is_bad_link(link):
-    link = (link or "").lower().split("?")[0]
-    bad_extensions = [
-        ".cap", ".zip", ".exe", ".dmg", ".pkg", ".tar", ".gz",
-        ".7z", ".rar", ".pdf", ".doc", ".docx", ".xls", ".xlsx"
-    ]
-    return any(link.endswith(ext) for ext in bad_extensions)
 
-def parse_feed(xml, source):
-    root = ET.fromstring(xml)
+
+def parse_feed(xml_text, source):
+    root = ET.fromstring(xml_text)
     items = []
 
     entries = root.findall(".//item")
+
     if not entries:
         entries = [
-            e for e in root.iter()
-            if e.tag.split("}", 1)[-1] == "entry"
+            entry for entry in root.iter()
+            if entry.tag.split("}", 1)[-1] == "entry"
         ]
 
-    for e in entries[:MAX_PER_SOURCE]:
-        title = clean(get_child_text(e, ["title"]))
-        link = get_child_text(e, ["link"]) or get_atom_link(e)
+    for entry in entries[:MAX_PER_SOURCE]:
+        title = clean(get_child_text(entry, ["title"]))
+        link = get_child_text(entry, ["link"]) or get_atom_link(entry)
 
+        # Alaska Landmine feed links can be unreliable.
+        # Keep the headline, but send users to the homepage.
         if source.get("name") == "Alaska Landmine":
             link = source.get("home", "https://alaskalandmine.com/")
 
+        # Skip direct-download links like .CAP files.
         if is_bad_link(link):
             continue
 
-        summary = clean(get_child_text(e, ["description", "summary", "content"]))
-        date_text = get_child_text(e, ["pubDate", "updated", "published"])
-        date = parse_date(date_text)
+        summary = clean(get_child_text(entry, ["description", "summary", "content"]))
+        date_text = get_child_text(entry, ["pubDate", "updated", "published"])
+        pub_date = parse_date(date_text)
 
         if not title:
             continue
 
-        cat = auto_category(title, summary, source.get("category", "general"))
+        category = auto_category(title, summary, source.get("category", "general"))
 
         items.append({
             "title": title,
             "link": link,
             "description": summary,
-            "pubDate": format_date(date),
-            "category": cat,
+            "pubDate": format_date(pub_date),
+            "category": category,
             "tag": source.get("tag", ""),
             "source": source.get("name", ""),
             "rank": source_rank(source),
         })
 
-    return items   # ✅ MUST be indented like this
+    return items
 
 
 def sort_by_date(items):
     return sorted(
         items,
-        key=lambda x: parse_date(x.get("pubDate", "")),
+        key=lambda item: parse_date(item.get("pubDate", "")),
         reverse=True,
     )
 
-def import_weather_forecast():
-    headers = {
-        "User-Agent": "AKPulseLive/1.0 (https://akpulselive.com)",
-        "Accept": "application/geo+json, application/json",
-    }
 
-    points_url = f"https://api.weather.gov/points/{WEATHER_LAT},{WEATHER_LON}"
-    req = urllib.request.Request(points_url, headers=headers)
+def load_existing_items():
+    if not DATA_FILE.exists():
+        return []
 
-    with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-        points = json.loads(r.read().decode("utf-8"))
+    try:
+        data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+        if isinstance(data, list):
+            return data
+    except Exception:
+        pass
 
-    forecast_url = points["properties"]["forecast"]
-    req = urllib.request.Request(forecast_url, headers=headers)
+    return []
 
-    with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-        forecast = json.loads(r.read().decode("utf-8"))
 
-    now = datetime.now(timezone.utc)
-    weather_items = []
-
-    for period in forecast["properties"]["periods"][:WEATHER_PERIODS]:
-        name = period.get("name", "Forecast")
-        temp = period.get("temperature")
-        unit = period.get("temperatureUnit", "F")
-        wind = period.get("windSpeed", "")
-        wind_dir = period.get("windDirection", "")
-        short = period.get("shortForecast", "")
-        detailed = period.get("detailedForecast", "")
-
-        description = f"{temp}°{unit} | {wind} {wind_dir} | {short}<br><br>{detailed}"
-        slug = name.lower().replace(" ", "-")
-
-        weather_items.append({
-            "title": f"Anchorage Weather: {name}",
-            "link": f"https://akpulselive.com/weather.html#{slug}-{now.strftime('%Y%m%d%H')}",
-            "description": description,
-            "pubDate": format_date(now),
-            "category": "weather",
-            "tag": "weather",
-            "source": "NWS Anchorage",
-            "rank": 95,
-        })
-
-    return weather_items
-    
 def main():
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-    existing = []
-    if DATA_FILE.exists():
-        try:
-            existing = json.loads(DATA_FILE.read_text(encoding="utf-8"))
-        except Exception:
-            existing = []
-
-    seen = set(normalize(i.get("title", "")) for i in existing)
+    existing = load_existing_items()
+    seen = set(normalize(item.get("title", "")) for item in existing)
     new_items = []
 
-    for src in SOURCES:
-        if not src.get("enabled", True):
+    for source in SOURCES:
+        if not source.get("enabled", True):
             continue
 
-        print("Fetching:", src["name"])
+        print("Fetching:", source["name"])
 
         try:
-            xml = fetch(src["url"])
-            items = parse_feed(xml, src)
+            xml_text = fetch(source["url"])
+            fetched_items = parse_feed(xml_text, source)
 
-            for it in items:
-                key = normalize(it.get("title", ""))
-                if key not in seen:
+            for item in fetched_items:
+                key = normalize(item.get("title", ""))
+                if key and key not in seen:
                     seen.add(key)
-                    new_items.append(it)
+                    new_items.append(item)
 
-        except Exception as e:
-            print("ERROR:", src["name"], "-", e)
+            print("  Added:", len(fetched_items))
+
+        except Exception as error:
+            print("  ERROR:", source["name"], "-", error)
 
         time.sleep(0.4)
 
     combined = new_items + existing
-    try:
-        weather_items = import_weather_forecast()
-        print("Imported weather forecast:", len(weather_items))
-        new_items = weather_items + new_items
-    except Exception as e:
-        print("WEATHER FORECAST ERROR:", e)
-    # Reserve room for world/general stories so Alaska feeds do not crowd them out.
+
     world_items = [
         item for item in combined
         if item.get("category") in ["world", "business", "national"]
@@ -361,17 +341,20 @@ def main():
 
     non_world_items = sorted(
         non_world_items,
-        key=lambda x: (
-            x.get("rank", 0),
-            parse_date(x.get("pubDate", "")),
+        key=lambda item: (
+            item.get("rank", 0),
+            parse_date(item.get("pubDate", "")),
         ),
         reverse=True,
     )
 
-    
-    combined = non_world_items[:20] + world_items + non_world_items[20:MAX_TOTAL_ITEMS - len(world_items)]
-    
-    DATA_FILE.write_text(json.dumps(combined, indent=2), encoding="utf-8")
+    combined = non_world_items[:MAX_TOTAL_ITEMS - len(world_items)] + world_items
+
+    DATA_FILE.write_text(
+        json.dumps(combined, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
     print("Saved", len(combined), "items")
     print("World/general items reserved:", len(world_items))
 
