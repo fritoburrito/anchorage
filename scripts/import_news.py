@@ -15,7 +15,7 @@ DATA_FILE = ROOT / "data" / "feed_items.json"
 
 MAX_TOTAL_ITEMS = 60
 MAX_PER_SOURCE = 5
-MIN_WORLD_ITEMS = 6
+MIN_WORLD_ITEMS = 10
 TIMEOUT = 20
 
 
