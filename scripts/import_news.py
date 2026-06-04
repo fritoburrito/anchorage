@@ -14,8 +14,8 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "feed_items.json"
 
 MAX_TOTAL_ITEMS = 60
-MAX_PER_SOURCE = 5
-MIN_WORLD_ITEMS = 10
+MAX_PER_SOURCE = 10
+MIN_WORLD_ITEMS = 20
 TIMEOUT = 20
 
 
