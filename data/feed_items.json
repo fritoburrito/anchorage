@@ -400,6 +400,26 @@
     "rank": 100
   },
   {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/06/04/nx-s1-5842922/morning-news-brief",
+    "description": "Some Republicans' growing frustrations with Trump is beginning to show, Trump and Netanyahu have a tense call over Israel's actions in Lebanon, Russia's economic forum opens.",
+    "pubDate": "Thu, 04 Jun 2026 08:42:19 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Avoid 'reactive' police reforms after Nowak murder, senior black officer warns",
+    "link": "https://www.bbc.com/news/articles/cx21wvl7yjyo?at_medium=RSS&at_campaign=rss",
+    "description": "The head of the National Black Police Association says proposed changes to racism guidance are \"not well thought-out\".",
+    "pubDate": "Thu, 04 Jun 2026 08:36:43 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
     "title": "Two charged after clashes at Henry Nowak protests",
     "link": "https://www.bbc.com/news/articles/cvgz2xq7ykvo?at_medium=RSS&at_campaign=rss",
     "description": "Disorder broke out in Southampton on Tuesday in the wake of the murder of Henry Nowak.",
@@ -577,26 +597,6 @@
     "category": "world",
     "tag": "world",
     "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Grab what you can while you can: The new reality in the South China Sea",
-    "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
-    "description": "After years of watching China create land to back its expansive claims, others are doing the same.",
-    "pubDate": "Wed, 03 Jun 2026 22:00:21 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "House passes war powers resolution directing Trump to end hostilities with Iran",
-    "link": "https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote",
-    "description": "The vote marked a rare bipartisan rebuke of the war, but is mostly symbolic. Democrats have been unable to pass a war powers resolution in the Senate, and even if they could it would likely be vetoed.",
-    "pubDate": "Wed, 03 Jun 2026 21:49:52 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
     "rank": 10
   }
 ]
