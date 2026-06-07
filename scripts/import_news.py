@@ -402,8 +402,7 @@ def main():
     print(f"Added {len(weather_items)} weather items")
     
     DATA_FILE.write_text(json.dumps(new_items, indent=2), encoding="utf-8")
-    )
-
+   
     print("Saved", len(combined), "items")
     print("World/general items reserved:", len(world_items))
 
