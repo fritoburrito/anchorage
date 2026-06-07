@@ -153,7 +153,7 @@ def load_items():
         return (breaking_rank, local_rank, -timestamp)
 
     items.sort(key=sort_key)
-    return items[:MAX_ITEMS]
+    return items
 
 
 def build_feed(items):
@@ -608,8 +608,8 @@ def build_weather_page(items):
 def main():
     items = load_items()
 
-    FEED_FILE.write_text(build_feed(items), encoding="utf-8")
-    INDEX_FILE.write_text(build_index(items), encoding="utf-8")
+    FEED_FILE.write_text(build_feed(items[:MAX_ITEMS]), encoding="utf-8")
+    INDEX_FILE.write_text(build_index(items[:MAX_ITEMS]), encoding="utf-8")
     WEATHER_FILE.write_text(build_weather_page(items), encoding="utf-8")
 
     print(f"Wrote {FEED_FILE}")
