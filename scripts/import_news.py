@@ -398,7 +398,7 @@ def main():
     combined = non_world_items[:MAX_TOTAL_ITEMS - len(world_items)] + world_items
 
     weather_items = fetch_anchorage_weather()
-    all_items.extend(weather_items)
+    new_items.extend(weather_items)
     print(f"Added {len(weather_items)} weather items")
     
     DATA_FILE.write_text(
