@@ -294,6 +294,48 @@ def load_existing_items():
     return []
 
 
+def fetch_anchorage_weather():
+    url = "https://api.weather.gov/gridpoints/AFC/58,64/forecast"
+
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "AKPulseLive/1.0 contact: rob.schultz.usa@outlook.com",
+            "Accept": "application/geo+json",
+        },
+    )
+
+    try:
+        with urllib.request.urlopen(req, timeout=20) as response:
+            data = json.loads(response.read().decode("utf-8"))
+    except Exception as e:
+        print(f"Weather fetch failed: {e}")
+        return []
+
+    items = []
+
+    for period in data.get("properties", {}).get("periods", [])[:5]:
+        name = period.get("name", "Forecast")
+        short = period.get("shortForecast", "")
+        detail = period.get("detailedForecast", "")
+        temp = period.get("temperature", "")
+        unit = period.get("temperatureUnit", "F")
+        wind = period.get("windSpeed", "")
+        direction = period.get("windDirection", "")
+
+        items.append({
+            "title": f"Anchorage Weather: {name} - {short}",
+            "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+            "description": f"{temp}°{unit}. Wind {direction} {wind}. {detail}",
+            "pubDate": format_date(datetime.now(timezone.utc)),
+            "category": "weather",
+            "tag": "weather",
+            "source": "National Weather Service Anchorage",
+            "rank": 0,
+        })
+
+    return items
+
 def main():
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
 
@@ -350,6 +392,10 @@ def main():
 
     combined = non_world_items[:MAX_TOTAL_ITEMS - len(world_items)] + world_items
 
+    weather_items = fetch_anchorage_weather()
+    items.extend(weather_items)
+    print(f"Added {len(weather_items)} weather items")
+    
     DATA_FILE.write_text(
         json.dumps(combined, indent=2, ensure_ascii=False),
         encoding="utf-8",
