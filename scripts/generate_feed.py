@@ -550,7 +550,6 @@ def build_weather_page(items):
             or "forecast" in title
             or "forecast" in desc
             or "forecast" in summary
-            or "weather" in title
             or "weather" in desc
             or "weather" in summary
             or "nws" in source
