@@ -293,26 +293,30 @@ def load_existing_items():
 
     return []
 
-
 def fetch_anchorage_weather():
-    url = "https://api.weather.gov/gridpoints/AFC/58,64/forecast"
+    points_url = "https://api.weather.gov/points/61.2176,-149.8997"
 
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "AKPulseLive/1.0 contact: rob.schultz.usa@outlook.com",
-            "Accept": "application/geo+json",
-        },
-    )
+    headers = {
+        "User-Agent": "AKPulseLive/1.0 contact: rob.schultz.usa@outlook.com",
+        "Accept": "application/geo+json",
+    }
 
     try:
+        req = urllib.request.Request(points_url, headers=headers)
+        with urllib.request.urlopen(req, timeout=20) as response:
+            point_data = json.loads(response.read().decode("utf-8"))
+
+        forecast_url = point_data["properties"]["forecast"]
+
+        req = urllib.request.Request(forecast_url, headers=headers)
         with urllib.request.urlopen(req, timeout=20) as response:
             data = json.loads(response.read().decode("utf-8"))
+
     except Exception as e:
         print(f"Weather fetch failed: {e}")
         return []
 
-    items = []
+    weather_items = []
 
     for period in data.get("properties", {}).get("periods", [])[:5]:
         name = period.get("name", "Forecast")
@@ -323,7 +327,7 @@ def fetch_anchorage_weather():
         wind = period.get("windSpeed", "")
         direction = period.get("windDirection", "")
 
-        items.append({
+        weather_items.append({
             "title": f"Anchorage Weather: {name} - {short}",
             "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
             "description": f"{temp}°{unit}. Wind {direction} {wind}. {detail}",
@@ -334,7 +338,7 @@ def fetch_anchorage_weather():
             "rank": 0,
         })
 
-    return items
+    return weather_items
 
 def main():
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -393,12 +397,11 @@ def main():
     combined = non_world_items[:MAX_TOTAL_ITEMS - len(world_items)] + world_items
 
     weather_items = fetch_anchorage_weather()
-    items.extend(weather_items)
+    all_items.extend(weather_items)
     print(f"Added {len(weather_items)} weather items")
     
     DATA_FILE.write_text(
-        json.dumps(combined, indent=2, ensure_ascii=False),
-        encoding="utf-8",
+        DATA_FILE.write_text(json.dumps(combined, indent=2), encoding="utf-8")
     )
 
     print("Saved", len(combined), "items")
