@@ -533,8 +533,33 @@ def build_index(items):
 
 
 def build_weather_page(items):
-    weather_items = [item for item in items if effective_category(item) == "weather"]
+   # Be forgiving when identifying weather items
+    weather_items = []
 
+    for item in items:
+        category = str(item.get("category", "")).lower()
+        tag = str(item.get("tag", "")).lower()
+        title = str(item.get("title", "")).lower()
+        desc = str(item.get("description", "")).lower()
+        summary = str(item.get("summary", "")).lower()
+        source = str(item.get("source", "")).lower()
+
+        if (
+            "weather" in category
+            or "weather" in tag
+            or "forecast" in title
+            or "forecast" in desc
+            or "forecast" in summary
+            or "weather" in title
+            or "weather" in desc
+            or "weather" in summary
+            or "nws" in source
+            or "national weather service" in source
+        ):
+            weather_items.append(item)
+            
+        print(f"Found {len(weather_items)} weather items")
+        
     cards = []
 
     for item in weather_items:
