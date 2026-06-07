@@ -293,6 +293,7 @@ def load_existing_items():
 
     return []
 
+
 def fetch_anchorage_weather():
     points_url = "https://api.weather.gov/points/61.2176,-149.8997"
 
@@ -339,7 +340,7 @@ def fetch_anchorage_weather():
         })
 
     return weather_items
-
+    
 def main():
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
 
