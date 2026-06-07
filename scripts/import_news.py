@@ -401,8 +401,7 @@ def main():
     new_items.extend(weather_items)
     print(f"Added {len(weather_items)} weather items")
     
-    DATA_FILE.write_text(
-        DATA_FILE.write_text(json.dumps(combined, indent=2), encoding="utf-8")
+    DATA_FILE.write_text(json.dumps(new_items, indent=2), encoding="utf-8")
     )
 
     print("Saved", len(combined), "items")
