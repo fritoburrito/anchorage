@@ -71,6 +71,13 @@ SOURCES = [
         "enabled": True,
     },
     {
+        "name": "FOX Weather",
+        "url": "https://moxie.foxweather.com/google-publisher/weather-news.xml",
+        "category": "weather",
+        "tag": "weather",
+        "enabled": True,
+    },
+    {
         "name": "Must Read Alaska",
         "url": "https://mustreadalaska.com/feed/",
         "category": "opinion",
