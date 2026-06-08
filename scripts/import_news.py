@@ -108,6 +108,13 @@ SOURCES = [
         "enabled": True,
     },
     {
+        "name": "FOX World News",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "category": "world",
+        "tag": "world",
+        "enabled": True,
+    },
+    {
         "name": "BBC News",
         "url": "https://feeds.bbci.co.uk/news/rss.xml",
         "category": "world",
