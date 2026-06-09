@@ -5,28 +5,36 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2026 21:30:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 01:00:36 GMT</lastBuildDate>
     <item>
-      <title>WNBA legend Nancy Lieberman sends urgent warning to men after disease affects her friends</title>
-      <link>https://www.foxnews.com/sports/wnba-legend-nancy-lieberman-sends-urgent-warning-men-disease-affects-friends</link>
-      <guid isPermaLink="false">408ffccd9782096e2c4ed7c21b552805b19dd914</guid>
-      <pubDate>Tue, 09 Jun 2026 21:30:04 GMT</pubDate>
-      <description><![CDATA[Nancy Lieberman joins the Prostate Cancer Foundation, Ice Cube and the BIG3 to urge men to ask for a PSA test through the Check the Box campaign.]]></description>
+      <title>Newscast – Monday, June 1, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17352315/newscast-monday-june-1-2026</link>
+      <guid isPermaLink="false">44ca25671d5fb7a68a144fca0648f8d1483f8c8d</guid>
+      <pubDate>Tue, 02 Jun 2026 01:00:36 GMT</pubDate>
+      <description><![CDATA[In this newscast: Southeast Alaska Regional Health Consortium opened a new urgent care facility in downtown Juneau over the weekend; King salmon sport fishing opened today in Juneau’s hatchery harvest areas; Monday was the last day to officially begin a campaign for state or federal office in Alaska, after a few shakeups late last week. As Alaska Public Media’s Eric Stone reports, there were also some twists in the hours before today’s deadline; Petersburg’s local tribe launched its first canoe in a century last Sunday setting out on a canoe Journey to the biennial Celebration Festival in Juneau. Pullers from around the region joined the highly-anticipated launch out of Petersburg, and dozens of people gathered dockside to see them off on the multi-day Journey.]]></description>
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Today - Chance Rain Showers</title>
+      <title>2408</title>
+      <link>https://alaskalandmine.com/</link>
+      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
+      <pubDate>Wed, 10 Jun 2026 05:57:20 GMT</pubDate>
+      <description><![CDATA[The post 2408 appeared first on The Alaska Landmine .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: This Afternoon - Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 09 Jun 2026 21:55:19 GMT</pubDate>
-      <description><![CDATA[62°F. Wind W 0 to 5 mph. A chance of rain showers. Mostly cloudy, with a high near 62. West wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Tue, 09 Jun 2026 23:23:29 GMT</pubDate>
+      <description><![CDATA[62°F. Wind W 0 to 5 mph. A chance of rain showers. Mostly sunny, with a high near 62. West wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Scattered Rain Showers then Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 09 Jun 2026 21:55:19 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 23:23:29 GMT</pubDate>
       <description><![CDATA[52°F. Wind SW 0 to 5 mph. Scattered rain showers before 10pm. Partly cloudy, with a low around 52. Southwest wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +42,7 @@
       <title>Anchorage Weather: Wednesday - Scattered Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 09 Jun 2026 21:55:19 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 23:23:29 GMT</pubDate>
       <description><![CDATA[66°F. Wind SW 0 to 5 mph. Scattered rain showers after 10am. Mostly sunny, with a high near 66. Southwest wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +50,7 @@
       <title>Anchorage Weather: Wednesday Night - Scattered Rain Showers then Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 09 Jun 2026 21:55:19 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 23:23:29 GMT</pubDate>
       <description><![CDATA[51°F. Wind SW 0 to 5 mph. Scattered rain showers before 7pm. Partly cloudy, with a low around 51. Southwest wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -50,432 +58,552 @@
       <title>Anchorage Weather: Thursday - Partly Sunny then Isolated Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 09 Jun 2026 21:55:19 GMT</pubDate>
+      <pubDate>Tue, 09 Jun 2026 23:23:29 GMT</pubDate>
       <description><![CDATA[65°F. Wind W 0 to 10 mph. Isolated rain showers after 4pm. Partly sunny, with a high near 65. West wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Athletics wild first game in Las Vegas leads to 29 runs, 11 home runs in ominous sign for area's MLB future</title>
-      <link>https://www.foxnews.com/outkick-sports/athletics-wild-first-game-las-vegas-leads-29-runs-11-home-runs-ominous-sign-areas-mlb-future</link>
-      <guid isPermaLink="false">83ea499eecced3afbde05187efc91a12bfde5033</guid>
-      <pubDate>Tue, 09 Jun 2026 21:45:20 GMT</pubDate>
-      <description><![CDATA[The A's and Brewers combined for 11 homers in a 15-14, 12-inning game at Las Vegas Ballpark, where elevation over 3,000 feet fueled wild offense.]]></description>
+      <title>Republicans in Congress clear final hurdle for $70B boost in immigration enforcement</title>
+      <link>https://alaskabeacon.com/2026/06/09/repub/republicans-in-congress-clear-final-hurdle-for-70b-boost-in-immigration-enforcement/</link>
+      <guid isPermaLink="false">c4d7000a6ff02d6798d8d7b810923fb3be0f8f45</guid>
+      <pubDate>Tue, 09 Jun 2026 23:19:42 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — U.S. House Republicans on Tuesday approved three years of funding for immigration enforcement without any new guardrails on how federal agents operate. The 214-212 vote sent the nearly $70 billion package to President Donald Trump, who is expected to sign the measure. Republican senators approved the bill earlier this month, with Alaska Sen. Lisa […]]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>https://alaskalandmine.com/landmines/the-alaska-stalker-november-27-2021/tom-2/</title>
+      <title>https://alaskalandmine.com/landmines/the-alaska-stalker-october-29-2022/hungry-moose/</title>
       <link>https://alaskalandmine.com/</link>
       <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
-      <pubDate>Tue, 09 Jun 2026 21:19:16 GMT</pubDate>
-      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/the-alaska-stalker-november-27-2021/tom-2/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781039956.183709,”uuid”:”ede360c5-9a1e-483f-b3c1-77712e8737b5″,”etag”:”4ede2635aa06a6cf2fd99296c2befec9″},{“url”:”https://alaskalandmine.com/landmines/the-alaska-stalker-november-27-2021/tom-2/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781040935.2961,”uuid”:”ec447a60-fcc6-461d-bbbd-67c7be15684f”,”etag”:”4ede2635aa06a6cf2fd99296c2befec9″}] The post https://alaskalandmine.com/landmines/the-alaska-stalker-november-27-2021/tom-2/ appeared first on The Alaska Landmine .]]></description>
+      <pubDate>Tue, 09 Jun 2026 23:15:19 GMT</pubDate>
+      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/the-alaska-stalker-october-29-2022/hungry-moose/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781046919.995158,”uuid”:”18d0a3e6-4bef-4854-ab0e-4db488fc9ac3″,”etag”:”1c697eaa7af0813ded7e00e6d9d816dd”}] The post https://alaskalandmine.com/landmines/the-alaska-stalker-october-29-2022/hungry-moose/ appeared first on The Alaska Landmine .]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-what-every-state-candidate-and-campaign-manager-should-prepare-for/8-15-chart-1/</title>
-      <link>https://alaskalandmine.com/</link>
-      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
-      <pubDate>Tue, 09 Jun 2026 21:07:04 GMT</pubDate>
-      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-what-every-state-candidate-and-campaign-manager-should-prepare-for/8-15-chart-1/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781039224.72027,”uuid”:”933983b3-89b5-466c-98d1-46d7a05b9b06″,”etag”:”793dfb7743458dcecb176ffa2bdcacb8″}] The post https://alaskalandmine.com/landmines/brad-keithleys-chart-of-the-week-what-every-state-candidate-and-campaign-manager-should-prepare-for/8-15-chart-1/ appeared first on The Alaska Landmine .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>https://alaskalandmine.com/landmines/the-sunday-minefield-july-6-2025/scott-1-2/</title>
-      <link>https://alaskalandmine.com/</link>
-      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
-      <pubDate>Tue, 09 Jun 2026 20:33:51 GMT</pubDate>
-      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/the-sunday-minefield-july-6-2025/scott-1-2/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781037231.281263,”uuid”:”5c211718-7420-4cde-984a-5da2c19da3fe”,”etag”:”08fcafdc16333f555561fcde6cb041b2″},{“url”:”https://alaskalandmine.com/landmines/the-sunday-minefield-july-6-2025/scott-1-2/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781038259.704812,”uuid”:”97953d94-002a-4ccd-9c30-bdc453797fb7″,”etag”:”08fcafdc16333f555561fcde6cb041b2″}] The post https://alaskalandmine.com/landmines/the-sunday-minefield-july-6-2025/scott-1-2/ appeared first on The Alaska Landmine .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>The trans-Alaska pipeline paid taxes. So can the LNG.</title>
-      <link>https://alaskabeacon.com/2026/06/09/the-trans-alaska-pipeline-paid-taxes-so-can-the-lng/</link>
-      <guid isPermaLink="false">46ec9062ffa6ece1531f764da652b4cfd221c877</guid>
-      <pubDate>Tue, 09 Jun 2026 20:00:31 GMT</pubDate>
-      <description><![CDATA[I have heard talk of a North Slope gas pipeline since my childhood. Growing up in Fairbanks around adults who built the Trans-Alaska Pipeline System, I saw how it gave them financial security, so I planned on joining Laborers’ Local 942 to be part of the gas line construction. I became a camp tradesman and […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>https://alaskalandmine.com/landmines/the-alaska-stalker-october-31st-2019/img_6948/</title>
-      <link>https://alaskalandmine.com/</link>
-      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
-      <pubDate>Tue, 09 Jun 2026 19:55:50 GMT</pubDate>
-      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/the-alaska-stalker-october-31st-2019/img_6948/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781034950.341196,”uuid”:”4fb66989-5922-4f4a-8ae8-aadbe187f196″,”etag”:”48cbfb4dcdaa64e3cb0b6c11148bc974″},{“url”:”https://alaskalandmine.com/landmines/the-alaska-stalker-october-31st-2019/img_6948/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781035916.772619,”uuid”:”e8ee85ad-1ca0-47ac-a6eb-f5ba9427b649″,”etag”:”48cbfb4dcdaa64e3cb0b6c11148bc974″}] The post https://alaskalandmine.com/landmines/the-alaska-stalker-october-31st-2019/img_6948/ appeared first on The Alaska Landmine .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>https://alaskalandmine.com/landmines/fear-and-looseness-in-juneau/</title>
-      <link>https://alaskalandmine.com/</link>
-      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
-      <pubDate>Tue, 09 Jun 2026 19:52:37 GMT</pubDate>
-      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/fear-and-looseness-in-juneau/”,”viewport”:{“width”:1174,”height”:559},”elements”:[],”timestamp”:1781034757.493995,”uuid”:”57dfa4c8-e1ce-4af5-8a36-5de9e77c53c9″,”etag”:”d2af38fc811aaaf9ba2c6fcbd99472a6″}] The post https://alaskalandmine.com/landmines/fear-and-looseness-in-juneau/ appeared first on The Alaska Landmine .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Hegseth Ripped for ‘Racist Rant’ Against Migrants at D-Day Event</title>
-      <link>https://alaska-native-news.com/hegseth-ripped-for-racist-rant-against-migrants-at-d-day-event/84480/</link>
-      <guid isPermaLink="false">00227d16dc40bc1dff4b45a8a2150a70b52e2327</guid>
-      <pubDate>Tue, 09 Jun 2026 14:03:24 GMT</pubDate>
-      <description><![CDATA[“Apparently our nitwit secretary of war(drobe) thinks a D-Day commemoration is an appropriate time to push his far-right ideology in Europe,” said US Sen. Tim Kaine. US Defense Secretary Pete Hegseth came under fire from critics around the world this weekend after he turned his speech at a Saturday event marking the D-Day anniversary into a […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Senate Dems Demand Release of Legal Opinion Behind Trump Lie That Iran War Has ‘Terminated’</title>
-      <link>https://alaska-native-news.com/senate-dems-demand-release-of-legal-opinion-behind-trump-lie-that-iran-war-has-terminated/84478/</link>
-      <guid isPermaLink="false">abedcdca8956b900ea6e887b25fd736e598970d3</guid>
-      <pubDate>Tue, 09 Jun 2026 14:01:16 GMT</pubDate>
-      <description><![CDATA[“Is there something in the rationale they don’t want us to see?” asked Sen. Tim Kaine.\ As a fresh exchange of attacks between Israel and Iran over the weekend and into Monday threatened to plunge the region deeper into war, dozens of Democrats in the US Senate are demanding that the Trump administration publicly release its legal justification […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>This Day in Alaskan History-June 9th, 1912</title>
-      <link>https://alaska-native-news.com/june-9th-1912-2/49520/</link>
-      <guid isPermaLink="false">f7ece91318992c4886d8ea31b3f3a877230b27f8</guid>
-      <pubDate>Tue, 09 Jun 2026 14:00:16 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Land transfer to Alaska Native corporation preserves stretch of Nome River</title>
-      <link>https://alaskabeacon.com/briefs/land-transfer-to-alaska-native-corporation-preserves-stretch-of-nome-river/</link>
-      <guid isPermaLink="false">a74413dd675998e0fafb255138a6325effadd22f</guid>
-      <pubDate>Tue, 09 Jun 2026 13:55:04 GMT</pubDate>
-      <description><![CDATA[When the “three lucky Swedes” discovered gold at Anvil Creek in the Bering Strait region in September of 1898, they touched off a frenzy that transformed a once-peaceful corner of Alaska. “Imagine a long stretch of sandy beach, piled high & in confusion with freight of all descriptions & tents men unloading barges & working […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>USDA will not move ahead with Herbert Glacier Cabin project</title>
-      <link>https://www.juneauempire.com/2026/06/08/usda-will-not-move-ahead-with-herbert-glacier-cabin-project/</link>
-      <guid isPermaLink="false">9303dba0fb4055176fe37bd79308c59990ddb53b</guid>
-      <pubDate>Tue, 09 Jun 2026 01:30:00 GMT</pubDate>
-      <description><![CDATA[Herbert Glacier Trail will instead be rerouted in Tongass National Forest]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska drops to 47th in the nation in overall child well-being, new report says</title>
-      <link>https://alaskabeacon.com/2026/06/08/alaska-drops-to-47th-in-the-nation-in-overall-child-well-being-new-report-says/</link>
-      <guid isPermaLink="false">b62c551f5ad32935dbcf24eda08d2e304901cec9</guid>
-      <pubDate>Tue, 09 Jun 2026 01:25:07 GMT</pubDate>
-      <description><![CDATA[Alaska dropped seven places to rank 47th in the nation in overall child well-being, according to a nationally recognized survey by the Annie E. Casey Foundation. Advocates say the decline is troubling and reflects years of declining investment in Alaska children and families. The scoring system is part of Kids Count data book, an analysis […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Newscast – Monday, June 8, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17356651/newscast-monday-june-8-2026</link>
-      <guid isPermaLink="false">b2fb4060a4cb5a0f91aef5a5b104cdc5926e881a</guid>
-      <pubDate>Tue, 09 Jun 2026 00:59:00 GMT</pubDate>
-      <description><![CDATA[In this newscast: A Juneau family reported a 29-year old man missing on Friday. He was last seen on May 26 near Safeway; The Juneau School Board will decide on whether to adopt the school district’s new strategic plan Tuesday night at its last regular meeting of the fiscal year; Tickets at Eaglecrest Ski Area are about to get more expensive; The U.S. Forest Service is now saying mining interests played an important role in its decision to cancel a recreational cabin project near Juneau’s Herbert Glacier, after denying it months ago; The Tlingit Culture, Language and Literacy program unveiled a Lingit comic book during Celebration last week; A sale on oil and gas drilling rights in the Arctic National Wildlife Refuge garnered more than $3.7 million in winning bids]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaskan-owned HEX Expands Beyond Cook Inlet with Coastal Plain Leases</title>
-      <link>https://mustreadalaska.com/alaskan-owned-hex-expands-beyond-cook-inlet-with-coastal-plain-leases/</link>
-      <guid isPermaLink="false">cd2ac3967cc0ff08fe727398c6868839ce8a58e6</guid>
-      <pubDate>Tue, 09 Jun 2026 00:01:16 GMT</pubDate>
-      <description><![CDATA[HEX Energy LLC has acquired oil and gas lease tracts 82 and 112 in Alaska’s Coastal Plain through the Bureau of Land Management’s 2026 lease sale. HEX Energy appreciates the work of the President of the United States, the Department of the Interior, the Bureau of Land Management, and the many federal and state professionals […] The post Alaskan-owned HEX Expands Beyond Cook Inlet with Coastal Plain Leases appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Trump administration $100,000 visa fee for highly skilled foreign workers struck down</title>
-      <link>https://alaskabeacon.com/2026/06/08/repub/trump-administration-100000-visa-fee-for-highly-skilled-foreign-workers-struck-down/</link>
-      <guid isPermaLink="false">e1f9c9c8d022ad52c1fe878df070b11aca65bafa</guid>
-      <pubDate>Mon, 08 Jun 2026 23:26:25 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — A federal judge in Massachusetts Monday struck down the Trump administration’s efforts to require a $100,000 visa fee for highly skilled immigrant workers, finding the policy is an unlawful tax. Judge Leo T. Sorokin found the hefty fee placed on the H-1B visa by President Donald Trump exceeded his authority by creating a […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>DoD tweaks organized religion list after complaints of Latter-day Saints snub</title>
-      <link>https://alaskabeacon.com/2026/06/08/repub/dod-tweaks-organized-religion-list-after-complaints-of-latter-day-saints-snub/</link>
-      <guid isPermaLink="false">2f7e36b21af1e3ad413af13e0d956640c4772211</guid>
-      <pubDate>Mon, 08 Jun 2026 21:00:57 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — The Pentagon changed course Monday after its removal of dozens of religious denominations from a list of recognized faiths drew intense criticism over the weekend from Utah Republicans incensed by the failure to classify the Church of Jesus Christ of Latter-day Saints as a Christian denomination. U.S. Sen. Mike Lee, a member of […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Crying Place — Alutiiq Word of the Week</title>
-      <link>https://alaska-native-news.com/crying-place-alutiiq-word-of-the-week/84471/</link>
-      <guid isPermaLink="false">ae733faa1d9e497b11cfb798732532ea7724fc24</guid>
-      <pubDate>Mon, 08 Jun 2026 15:17:28 GMT</pubDate>
-      <description><![CDATA[Crying Place — Qiawik Qikertaq qiawik. – The island is a crying place In classical Alutiiq society, the relationships between communities sometimes soured. Although people from neighboring villages visited, traded, assisted each other, married, and celebrated together—they also clashed. Insults and stealing were common sources of feuds. To seek revenge, a party of warriors […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Arctic river deltas store 5% of world’s frozen carbon</title>
-      <link>https://alaska-native-news.com/arctic-river-deltas-store-5-of-worlds-frozen-carbon/84462/</link>
-      <guid isPermaLink="false">4e1c6f817dab8d39cc125ae1a2d677f203f5f7d4</guid>
-      <pubDate>Mon, 08 Jun 2026 14:04:02 GMT</pubDate>
-      <description><![CDATA[An international team of scientists has, for the first time, quantified the total carbon stored in permafrost at the mouth of rivers flowing into the Arctic Ocean. According to a study recently published in the journal Nature Communications, about 1% of the world’s permafrost surface area lies in Arctic river deltas, which occupy an […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>BLM Issues Four Historic Navigability Decisions Affirming Alaska Ownership of Submerged Lands</title>
-      <link>https://alaska-native-news.com/blm-issues-four-historic-navigability-decisions-affirming-alaska-ownership-of-submerged-lands/84453/</link>
-      <guid isPermaLink="false">08df6e67548b0aada4bdd47a67b0237efb6cc31f</guid>
-      <pubDate>Mon, 08 Jun 2026 14:03:15 GMT</pubDate>
-      <description><![CDATA[ANCHORAGE – The Bureau of Land Management Thursday issued navigability decisions for four State of Alaska Recordable Disclaimers of Interest applications involving the Delta-Tangle River System and Tangle Lakes System, the West Fork Dennison Fork and Dennison Fork of the Fortymile River System, the Kwethluk River, and the Goodnews River System. With these decisions, the BLM formally recognizes that ownership of submerged lands […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Sitka Judge Sentences Jorge Ruiz-Rivera for Stalking</title>
-      <link>https://alaska-native-news.com/sitka-judge-sentences-jorge-ruiz-rivera-for-stalking/84460/</link>
-      <guid isPermaLink="false">d5a60ad796a1921fde98ee4eb40d2de4afaaadb5</guid>
-      <pubDate>Mon, 08 Jun 2026 14:02:08 GMT</pubDate>
-      <description><![CDATA[(Sitka, AK) – On May 28, 2026, Sitka Superior Court Judge Amanda Browning sentenced 33-year-old Jorge Ruiz-River to 8 years and six months of incarceration. On Feb. 12, 2026, a Sitka jury convicted Jorge Ruiz-Rivera of three counts of stalking in the first degree and three counts of violation of a protective order. At trial, […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>‘Pay-to-Play Loyalty Program’: Trump Ballroom Donors Have Been Handed $50 Billion in Federal Contracts</title>
-      <link>https://alaska-native-news.com/pay-to-play-loyalty-program-trump-ballroom-donors-have-been-handed-50-billion-in-federal-contracts/84444/</link>
-      <guid isPermaLink="false">311feeccb03531eb8a02ffcb3a92e241db8e94ad</guid>
-      <pubDate>Mon, 08 Jun 2026 14:01:55 GMT</pubDate>
-      <description><![CDATA[“Corporations wrote big checks to build Trump’s golden ballroom,” said Rep. Jason Crow. “Now they’re receiving billions of dollars in kickbacks—paid for by your tax dollars.” Sen. Elizabeth Warren suggested President Donald Trump is running a “pay-to-play loyalty program for wealthy donors” after a report on Thursday revealed that more than half the companies that contributed to his White House ballroom […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>This Day in Alaskan History-June 8th, 1957</title>
-      <link>https://alaska-native-news.com/june-8th-1957/49491/</link>
-      <guid isPermaLink="false">6a4a993c5eceb674cf2a0f7db0c3c9d1343b2ba6</guid>
-      <pubDate>Mon, 08 Jun 2026 14:00:57 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>The feds have embraced medical marijuana. Now what?</title>
-      <link>https://alaskabeacon.com/2026/06/08/repub/the-feds-have-embraced-medical-marijuana-now-what/</link>
-      <guid isPermaLink="false">7eeeacf13829210fe5101fdd047c4331f600abf1</guid>
-      <pubDate>Mon, 08 Jun 2026 13:55:12 GMT</pubDate>
-      <description><![CDATA[The U.S. Department of Justice’s recent decision to downgrade the drug classification for medical cannabis will help medical marijuana businesses. Companies will be able to claim some federal tax benefits. New research can start up at state universities. But the broader divide between federal and state marijuana policy remains largely intact, leaving states to navigate […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Juneau community calendar: June 8 to 14</title>
-      <link>https://www.juneauempire.com/2026/06/08/juneau-community-calendar-june-8-to-14/</link>
-      <guid isPermaLink="false">2b33e40497b1b1dc7b78182c479380767b8f9192</guid>
-      <pubDate>Mon, 08 Jun 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[MONDAY, June 8]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>New Report Warns Alaska LNG Pipeline Would Threaten Critically Endangered Cook Inlet Beluga Whales and Coastal Communities</title>
-      <link>https://alaska-native-news.com/new-report-warns-alaska-lng-pipeline-would-threaten-critically-endangered-cook-inlet-beluga-whales-and-coastal-communities/84455/</link>
-      <guid isPermaLink="false">3efa2f608b0707b863c62965c14012127bb6ead8</guid>
-      <pubDate>Sun, 07 Jun 2026 14:04:26 GMT</pubDate>
-      <description><![CDATA[A new report released Thursday by Earth Insight, in partnership with Cook Inletkeeper and other civil society organizations, highlights how the proposed Alaska LNG project threatens the critically endangered Cook Inlet beluga whale and some of Alaska’s most ecologically important marine habitats. Fossil Fuel Threats to the Ocean: Marine Life and Coastal Communities at […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>OPINION: Trump’s crypto salesman</title>
-      <link>https://www.juneauempire.com/2026/06/06/opinion-trumps-crypto-salesman/</link>
-      <guid isPermaLink="false">6638a9eab75fb012956eeb37428ab165cf87ab10</guid>
-      <pubDate>Sat, 06 Jun 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[Why Nick Begich is spending political capital on Trump’s speculative scheme instead of Alaska’s problems]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>LIVING AND GROWING: The joyful mysteries</title>
-      <link>https://www.juneauempire.com/2026/06/06/living-and-growing-the-joyful-mysteries/</link>
-      <guid isPermaLink="false">3770a56745b0b672c785b8233c0b4575469a5e08</guid>
-      <pubDate>Sat, 06 Jun 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[There are four sets of mysteries: joyful, luminous, sorrowful, and glorious]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Juneau community calendar: June 6 and 7</title>
-      <link>https://www.juneauempire.com/2026/06/05/juneau-community-calendar-june-6-and-7/</link>
-      <guid isPermaLink="false">c0fddd4d9b14a93af77512ae8965fd80dc27422b</guid>
-      <pubDate>Sat, 06 Jun 2026 01:30:00 GMT</pubDate>
-      <description><![CDATA[SATURDAY, June 6]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Our Sunday best: Early churches of the central Kenai Peninsula — Part 3</title>
-      <link>https://www.homernews.com/2026/06/04/our-sunday-best-early-churches-of-the-central-kenai-peninsula-part-3/</link>
-      <guid isPermaLink="false">77d89146d770506b4e51c4080861d018ffe004b3</guid>
-      <pubDate>Thu, 04 Jun 2026 09:30:00 GMT</pubDate>
-      <description><![CDATA[AUTHOR’S NOTE: An earlier version of this story first appeared in May 2013 in the Redoubt Reporter. The focus of this series is churches of the central Kenai Peninsula; clearly, there is also a rich church history on the southern Kenai, in the Seward area and elsewhere, but those stories, and stories of non-Christian congregations, will be a topic for another time.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>US striking Iran in response to downing of helicopter, military says</title>
-      <link>https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">911e3c5759f8a2c88e11c30c7c06f6ee1398e0c2</guid>
-      <pubDate>Tue, 09 Jun 2026 21:43:25 GMT</pubDate>
-      <description><![CDATA[President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>LISTEN: Brian Hooker's own words appear to place him in the water the night missing wife vanished in Bahamas</title>
-      <link>https://www.foxnews.com/us/listen-brian-hooker-words-appear-place-water-night-missing-wife-vanished-bahamas</link>
-      <guid isPermaLink="false">6c9186bc2247bfe32ad963e07b6b127eb7b2009c</guid>
-      <pubDate>Tue, 09 Jun 2026 21:42:25 GMT</pubDate>
-      <description><![CDATA[A recorded phone call from Brian Hooker days after wife Lynette vanished in the Bahamas suggests he was in the water with her, contradicting his account.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>House passes bill to fund ICE and Border Patrol through the remainder of Trump's term</title>
-      <link>https://www.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol</link>
-      <guid isPermaLink="false">266b76c4539f4f045ccdf356678d156b9f7fad05</guid>
-      <pubDate>Tue, 09 Jun 2026 21:26:47 GMT</pubDate>
-      <description><![CDATA[The bill provides roughly $70 billion for immigration enforcement and highlights a GOP caucus continuing to endorse Trump's immigration agenda as Democrats warn Congress has ceded its oversight role.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>'Unchosen' LA Knight may finally be back on the path of WWE glory after King of the Ring shocker</title>
-      <link>https://www.foxnews.com/sports/unchosen-la-knight-may-finally-back-path-wwe-glory-king-ring-shocker</link>
-      <guid isPermaLink="false">f45bec96a6ef9288c587c0b267acc7fed72d6967</guid>
-      <pubDate>Tue, 09 Jun 2026 21:26:39 GMT</pubDate>
-      <description><![CDATA[LA Knight's path to King of the Ring finals could get easier after Je'Von Evans' shocking upset of Seth Rollins on "Monday Night Raw" in Paris.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump locks in ICE funding through end of presidency after House passes $70B package</title>
-      <link>https://www.foxnews.com/politics/trump-locks-ice-funding-through-end-presidency-after-house-passes-70b-package</link>
-      <guid isPermaLink="false">38ba40bad4dcf2cf39352e04de946f898d3e0743</guid>
-      <pubDate>Tue, 09 Jun 2026 21:25:53 GMT</pubDate>
-      <description><![CDATA[Republicans' $70 billion Secure America Act cleared the House, funding ICE and Border Patrol through 2029 despite unanimous Democratic opposition.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Michael Rapaport slams Zohran Mamdani over Knicks postgame chaos, vows 'not on my watch' ahead of mayoral run</title>
-      <link>https://www.foxnews.com/entertainment/michael-rapaport-slams-zohran-mamdani-over-knicks-postgame-chaos-vows-not-my-watch-ahead-mayoral-run</link>
-      <guid isPermaLink="false">5e8eab835c9665da3e76f5fe1a6078fdb30dd269</guid>
-      <pubDate>Tue, 09 Jun 2026 21:17:27 GMT</pubDate>
-      <description><![CDATA[Michael Rapaport criticized NYC Mayor Zohran Mamdani over chaotic Knicks postgame fights outside Madison Square Garden, teasing his 2029 mayoral run.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Inside Myanmar, rebels are losing ground as military forces men into army</title>
-      <link>https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5f51232d7b281fc1eb48a6002c5c0011a35f9b16</guid>
-      <pubDate>Tue, 09 Jun 2026 21:13:17 GMT</pubDate>
-      <description><![CDATA[The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ignore the favorites and back these longshots in the 2026 RBC Canadian Open at TPC Toronto this week</title>
-      <link>https://www.foxnews.com/outkick-sports/ignore-favorites-back-longshots-2026-rbc-canadian-open-tpc-toronto-week</link>
-      <guid isPermaLink="false">46a4a489919c7278d306daef4aae2d51d167f4f3</guid>
-      <pubDate>Tue, 09 Jun 2026 21:10:10 GMT</pubDate>
-      <description><![CDATA[The 2026 RBC Canadian Open at TPC Toronto features eight top-20 world-ranked players, with betting picks including Brooks Koepka and Alex Fitzpatrick.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>UFC Octagon Girls get covered in red, white and blue ahead of Freedom 250 at the White House</title>
-      <link>https://www.foxnews.com/outkick-sports/ufc-octagon-girls-get-covered-red-white-blue-ahead-freedom-250-white-house</link>
-      <guid isPermaLink="false">5f3ef7d85738d8e0af0b39cb5809fb6e15b3d7f4</guid>
-      <pubDate>Tue, 09 Jun 2026 21:02:41 GMT</pubDate>
-      <description><![CDATA[UFC Octagon Girls unveil patriotic red, white and blue attire for UFC Freedom 250 at the White House, designed to honor America's 250th anniversary.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Internet falls in love with German soccer fan discovering American South ahead of 2026 World Cup</title>
-      <link>https://www.foxnews.com/outkick-sports/internet-falls-love-german-soccer-fan-discovering-american-south-ahead-2026-world-cup</link>
-      <guid isPermaLink="false">e322092fc483546d20b7c0682c6db90fdff39f8f</guid>
-      <pubDate>Tue, 09 Jun 2026 21:01:06 GMT</pubDate>
-      <description><![CDATA[A German soccer fan named Freddy is documenting his 2026 World Cup road trip through the American South, visiting Waffle House, Helen, Georgia, and more.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ana Navarro and former Trump campaign aide clash over president's combative exchanges with female journalists</title>
-      <link>https://www.foxnews.com/media/ana-navarro-former-trump-campaign-aide-clash-over-presidents-combative-exchanges-female-journalists</link>
-      <guid isPermaLink="false">4512bcdf69688f0fac23120363d25a95d008086e</guid>
-      <pubDate>Tue, 09 Jun 2026 20:55:20 GMT</pubDate>
-      <description><![CDATA[Ana Navarro raged on CNN, condemning President Donald Trump's attacks on women journalists and blasting a panelist for defending Trump from accusations of sexism.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>UK and allies sanction 'networks' enabling settler violence in West Bank</title>
-      <link>https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">298c781500515e0907ab967a7c19b7000020161f</guid>
-      <pubDate>Tue, 09 Jun 2026 20:38:55 GMT</pubDate>
-      <description><![CDATA[France will also bar far-right Israeli Minister Bezalel Smotrich from entry as part of the measures, which Israel condemns as "disgraceful".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis</title>
-      <link>https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2c4e7bce14930a44e9801b848e31536ec70cff7f</guid>
-      <pubDate>Tue, 09 Jun 2026 20:14:12 GMT</pubDate>
-      <description><![CDATA[The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>A warm World Cup welcome? U.S. immigration policies have chilling effect</title>
-      <link>https://www.npr.org/2026/06/09/nx-s1-5851634/immigration-policies-affect-fifa</link>
-      <guid isPermaLink="false">26e824126bac49eef30a8c357ab9de9879cfd115</guid>
-      <pubDate>Tue, 09 Jun 2026 19:46:00 GMT</pubDate>
-      <description><![CDATA[As the World Cup begins later this week, match officials and team members have faced enhanced immigration scrutiny when trying to enter the United States. A FIFA referee from Somalia was turned away.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Why there's a debate over the new quarantine center for Americans at risk of Ebola</title>
-      <link>https://www.npr.org/2026/06/09/nx-s1-5850708/ebola-quarantine-u-s-citizens-kenya</link>
-      <guid isPermaLink="false">33b5ffe41146d9abae30eab9a38e73034dfee6f8</guid>
-      <pubDate>Tue, 09 Jun 2026 19:34:30 GMT</pubDate>
-      <description><![CDATA[Opinions are divided about the new facility in Kenya. The U.S. defends it. Kenyans are protesting it. Doctors who were on the ground in the 2014 Ebola outbreak voice criticism as well.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NASA names 4 astronauts on the 'highly complex' Artemis III lunar training mission</title>
-      <link>https://www.npr.org/2026/06/09/nx-s1-5851860/nasa-artemis-iii-crew</link>
-      <guid isPermaLink="false">ee0faa72e2003ee647567f1e044ef986232ae3c6</guid>
-      <pubDate>Tue, 09 Jun 2026 19:26:06 GMT</pubDate>
-      <description><![CDATA[The crew of four — NASA astronaut and commander Randy Bresnik, European Space Agency pilot Luca Parmitano, NASA mission specialists Frank Rubio and Andre Douglas — are scheduled to launch next year.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fifa working to resolve revoked Iran tickets</title>
-      <link>https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9c4d0871194b12f475bc3b5254c7acba3b068ded</guid>
-      <pubDate>Tue, 09 Jun 2026 17:50:37 GMT</pubDate>
-      <description><![CDATA[Fifa has said it is working to "maximise opportunities for Iranian supporters to attend matches" after the country's World Cup group-stage ticket allocation was revoked just days before the tournament.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks</title>
-      <link>https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3275057ea59d74cac5888eef55f8e0e4bfae6899</guid>
-      <pubDate>Tue, 09 Jun 2026 17:47:41 GMT</pubDate>
-      <description><![CDATA[Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.]]></description>
+      <title>Opinion: The “Why Now” Answer to the LNG Special Session Is Tied to Deadline for Carbon Credits</title>
+      <link>https://mustreadalaska.com/opinion-the-why-now-answer-to-the-lng-special-session-is-tied-to-deadline-for-carbon-credits/</link>
+      <guid isPermaLink="false">2af1ab26917c67b59f1b260236e410a3de1321b7</guid>
+      <pubDate>Tue, 09 Jun 2026 22:30:38 GMT</pubDate>
+      <description><![CDATA[By Dana Raffaniello The following article is a partial reprint of the article “The AKLNG Pipeline’s 30-Day Window,” originally published on the author’s personal Substack, June 1, 2026. In December 2022, three and a half years before this special session, Governor Dunleavy published an op-ed titled “Alaska’s Map to Clean Hydrogen Leadership.” He wrote that […] The post Opinion: The “Why Now” Answer to the LNG Special Session Is Tied to Deadline for Carbon Credits appeared first on Must Read Alaska .]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Farage says Reform has contacted X 'to highest level' over fake AI ads</title>
-      <link>https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">21f622ce9fe94809fdddf22a37cf5ceb980b682e</guid>
-      <pubDate>Tue, 09 Jun 2026 16:45:12 GMT</pubDate>
-      <description><![CDATA[The fake ads feature the governor of the Bank of England - the Bank has urged people to report them.]]></description>
-      <category>politics</category>
+      <title>https://alaskalandmine.com/landmines/the-alaska-stalker-march-8-2021/unnamed-3-4/</title>
+      <link>https://alaskalandmine.com/</link>
+      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
+      <pubDate>Tue, 09 Jun 2026 19:17:00 GMT</pubDate>
+      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/the-alaska-stalker-march-8-2021/unnamed-3-4/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781032620.924777,”uuid”:”ff927940-a84a-40ad-bb48-866378a9766a”,”etag”:”cbe77507ccd68bbb52ff1521539aff9a”},{“url”:”https://alaskalandmine.com/landmines/the-alaska-stalker-march-8-2021/unnamed-3-4/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781033591.220118,”uuid”:”651eb7ed-6a72-4b66-a7a5-69f50cf41063″,”etag”:”cbe77507ccd68bbb52ff1521539aff9a”}] The post https://alaskalandmine.com/landmines/the-alaska-stalker-march-8-2021/unnamed-3-4/ appeared first on The Alaska Landmine .]]></description>
+      <category>local</category>
     </item>
     <item>
-      <title>Man reportedly shot at Kenya protest against US Ebola quarantine centre</title>
-      <link>https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">71b495b1c7a52df49c575913e12fd5a50472dc38</guid>
-      <pubDate>Tue, 09 Jun 2026 15:08:50 GMT</pubDate>
-      <description><![CDATA[Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre.]]></description>
+      <title>https://alaskalandmine.com/landmines/north-slope-borough-mayor-signs-order-seizing-ravns-north-slope-assets/img_1512/</title>
+      <link>https://alaskalandmine.com/</link>
+      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
+      <pubDate>Tue, 09 Jun 2026 19:14:40 GMT</pubDate>
+      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/north-slope-borough-mayor-signs-order-seizing-ravns-north-slope-assets/img_1512/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781032480.416473,”uuid”:”275d1b53-4ee6-4512-9b2a-7ea90d6f9277″,”etag”:”14cb8e18a0d77db16aeb1ed307764934″},{“url”:”https://alaskalandmine.com/landmines/north-slope-borough-mayor-signs-order-seizing-ravns-north-slope-assets/img_1512/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781033448.919818,”uuid”:”c571b6cf-09c4-4d2c-80fe-f806bcf14c82″,”etag”:”14cb8e18a0d77db16aeb1ed307764934″}] The post https://alaskalandmine.com/landmines/north-slope-borough-mayor-signs-order-seizing-ravns-north-slope-assets/img_1512/ appeared first on The Alaska Landmine .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>https://alaskalandmine.com/landmines/maps-a-breakdown-of-the-third-party-maps-the-redistricting-board-adopted/hd-18/</title>
+      <link>https://alaskalandmine.com/</link>
+      <guid isPermaLink="false">5e6ee3af3c6e193eba5107e1419f6b70ef9f18c5</guid>
+      <pubDate>Tue, 09 Jun 2026 18:26:34 GMT</pubDate>
+      <description><![CDATA[[{“url”:”https://alaskalandmine.com/landmines/maps-a-breakdown-of-the-third-party-maps-the-redistricting-board-adopted/hd-18/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781029594.128057,”uuid”:”81e4b48c-768d-4fa2-8eb3-8783c8a859b7″,”etag”:”297d15b230afabb0336301f019e4ddcc”},{“url”:”https://alaskalandmine.com/landmines/maps-a-breakdown-of-the-third-party-maps-the-redistricting-board-adopted/hd-18/”,”viewport”:{“width”:1024,”height”:569},”elements”:[],”timestamp”:1781030562.174716,”uuid”:”a3727954-96c7-47d8-93c5-8bd8721f349b”,”etag”:”297d15b230afabb0336301f019e4ddcc”}] The post https://alaskalandmine.com/landmines/maps-a-breakdown-of-the-third-party-maps-the-redistricting-board-adopted/hd-18/ appeared first on The Alaska Landmine .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Projected Social Security benefits cliff creeps up to 2032</title>
+      <link>https://alaskabeacon.com/2026/06/09/repub/projected-social-security-benefits-cliff-creeps-up-to-2032/</link>
+      <guid isPermaLink="false">3aa3cab82bd2f43e7d8136d336d3fcc07f7fa3c7</guid>
+      <pubDate>Tue, 09 Jun 2026 18:19:38 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — Congress must act to shore up Social Security during the next six years to avoid an automatic drop-off in benefits in 2032, according to a report released Tuesday. The annual update on the Old Age and Survivors Insurance trust fund shows that it will “become depleted” in the fourth quarter of that year, […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Senator Sullivan Works to Ensure Survivors of Abuse Receive Legal Support and Protection</title>
+      <link>https://mustreadalaska.com/senator-sullivan-works-to-ensure-survivors-of-abuse-receive-legal-support-and-protection/</link>
+      <guid isPermaLink="false">2a556915a8b9183ecea970a20481dd3a518f39c2</guid>
+      <pubDate>Tue, 09 Jun 2026 17:38:15 GMT</pubDate>
+      <description><![CDATA[By U.S. Senator Dan Sullivan Dear Alaskan, One of my top priorities as a U.S. Senator is ending domestic violence and sexual assault in Alaska. I brag about Alaska all the time, but this is one area where there is nothing to boast about. Alaska has some of the highest rates of domestic violence and […] The post Senator Sullivan Works to Ensure Survivors of Abuse Receive Legal Support and Protection appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Trump’s war on immigrants</title>
+      <link>https://alaskabeacon.com/2026/06/08/trumps-war-on-immigrants/</link>
+      <guid isPermaLink="false">1a53f5c806d8c678695a54a3aee2bb2b50dfd193</guid>
+      <pubDate>Mon, 08 Jun 2026 22:48:10 GMT</pubDate>
+      <description><![CDATA[Our country has gone through several convulsions against immigrants, none having left a legacy of honor and some having made their imprint on Alaska’s own history: enforcement of the Chinese Exclusion Act and the internment of Japanese and Japanese-Americans immediately come to mind. The Trump Administration is unabashedly adding itself to this legacy. Future generations […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Trump administration swiftly moves ahead on plans to restrict voting by mail in the states</title>
+      <link>https://alaskabeacon.com/2026/06/08/repub/trump-administration-swiftly-moves-ahead-on-plans-to-restrict-voting-by-mail-in-the-states/</link>
+      <guid isPermaLink="false">d540eb7d16172c5304610e9a0769eca17892255f</guid>
+      <pubDate>Mon, 08 Jun 2026 22:33:26 GMT</pubDate>
+      <description><![CDATA[The U.S. Department of Homeland Security will allow states to access federal citizenship data by June 30 and plans to monitor the flow of mail ballots for signs of voter fraud, according to a court document. Amid a series of lawsuits, President Donald Trump’s administration is now moving to carry out a March 31 executive order […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Juneau police search for missing man</title>
+      <link>https://www.juneauempire.com/2026/06/08/juneau-police-search-for-missing-man/</link>
+      <guid isPermaLink="false">cedc683728129e89f24c7ba15be2a7a3860cf06b</guid>
+      <pubDate>Mon, 08 Jun 2026 18:30:00 GMT</pubDate>
+      <description><![CDATA[Dion McCabe was last seen May 26 at the Juneau Safeway]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska drops to 47th in country for children’s well-being</title>
+      <link>https://www.juneauempire.com/2026/06/08/alaska-drops-to-47th-in-country-for-childrens-well-being/</link>
+      <guid isPermaLink="false">91e9a58364fe4d53c32e60af1637aafb50d5d13e</guid>
+      <pubDate>Mon, 08 Jun 2026 18:30:00 GMT</pubDate>
+      <description><![CDATA[Kids Count Data Book shows Alaska ranked 49th in education and 48th in economic well-being]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>States face more budget pressures amid rising costs, slow growth</title>
+      <link>https://alaskabeacon.com/2026/06/08/repub/states-face-more-budget-pressures-amid-rising-costs-slow-growth/</link>
+      <guid isPermaLink="false">54009854dd73efe5ae41efeee7f3efe5751b6cda</guid>
+      <pubDate>Mon, 08 Jun 2026 18:01:26 GMT</pubDate>
+      <description><![CDATA[The most recent budgets proposed by governors across the country reflect ongoing financial pressures for states as they expect modest revenue growth, rising prices and federal policy changes. Most governors recommended state budgets for fiscal year 2027 that would essentially keep spending flat from the general funds that pay for most state services. That’s according […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Service to My Country: Josh Church, Marine Special Ops</title>
+      <link>https://mustreadalaska.com/service-to-my-country-josh-church-marine-special-ops/</link>
+      <guid isPermaLink="false">ea16eabb7b1235f6f69ec3b0069de18f9d1f9ce6</guid>
+      <pubDate>Mon, 08 Jun 2026 17:00:00 GMT</pubDate>
+      <description><![CDATA[By Josh Church I served in the United States Marine Corps for nine years. During that time, I served with 2nd Reconnaissance Battalion and later Marine Special Operations. I deployed to Iraq and Afghanistan, worked alongside partner nation forces on multiple continents, and helped oversee projects ranging from military training facilities to operational logistics in […] The post Service to My Country: Josh Church, Marine Special Ops appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>The Cross is the Scale Where Justice and Mercy Meet</title>
+      <link>https://mustreadalaska.com/the-cross-is-the-scale-where-justice-and-mercy-meet/</link>
+      <guid isPermaLink="false">a0f8a9c2de9f96771aa4a1d801587534a5f6571e</guid>
+      <pubDate>Sun, 07 Jun 2026 20:16:40 GMT</pubDate>
+      <description><![CDATA[In the recesses of the human heart lies deception. We see ourselves, our imperfect views and perverse desires and actions, though rose-colored glasses. Proverbs 21:2, lays bare this blunt truth: “Every way of a man is right in his own eyes: but the Lord ponders the heart. We have become the masters of justification and able designers of excuses. We explain away our sin, minimize our failings, and even more sadly, we compare […] The post The Cross is the Scale Where Justice and Mercy Meet appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>National park ranger dies while patrolling America's tallest peak</title>
+      <link>https://www.foxweather.com/weather-news/national-park-service-employee-dies-patrolling-mount-mckinley</link>
+      <guid isPermaLink="false">4d95772d0de2c381f57d950ba58ad5a2d2cc52e4</guid>
+      <pubDate>Sat, 06 Jun 2026 15:53:13 GMT</pubDate>
+      <description><![CDATA[A National Park Service employee has died while patrolling Mount McKinley in Alaska. Officials said an employee on climbing patrol died around 2 p.m. after falling into a crevasse near 14,000 Foot Camp atop the mountain.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Newscast – Friday, June 5, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17355099/newscast-friday-june-5-2026</link>
+      <guid isPermaLink="false">9ac74d798dc37bf4196ddcbc5c8aeb5ea7de3bc3</guid>
+      <pubDate>Sat, 06 Jun 2026 01:06:35 GMT</pubDate>
+      <description><![CDATA[In this newscast: The Alaska State Board of Education unanimously approved a new master's in teaching program for Indigenous languages at the University of Alaska Southeast Thursday; Residents will have a chance to testify on some major budget topics and glacial outburst funding decisions at the Juneau Assembly's upcoming meeting on Monday; An unusual partnership is sailing Alaska's waters this summer; Leqpquinm Gumilgit Gagoadim Tsmsyen Dancers leader Se'iga Liimii Marcella Asicksik talks about a song her dance group wrote for Celebration.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>“America Comes Alive” History Exhibition: Mountain City Church Hosts Display of Over 500 Pieces of American History 1700s-2000s</title>
+      <link>https://mustreadalaska.com/america-comes-alive-history-exhibition-mountain-city-church-hosts-display-of-over-500-pieces-of-american-history-1700s-2000s/</link>
+      <guid isPermaLink="false">e54b603c83ff67a0c715b27638efb19e34aaeb5a</guid>
+      <pubDate>Fri, 05 Jun 2026 23:16:07 GMT</pubDate>
+      <description><![CDATA[Feeling the America 250 spirit? Help preserve honest, quality conservative media for Alaskans and consider a paid subscription today! We are offering a 25% discount now through July 4th for American patriots who join us in promoting logical, conservative, pro-industry, pro-family values in media and politics. To Claim Your 25% Discount:1. CLICK HERE2. Choose your […] The post “America Comes Alive” History Exhibition: Mountain City Church Hosts Display of Over 500 Pieces of American History 1700s-2000s appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Anchorage Expands Relationship with Tyler Technologies to Modernize Payment Process for Muni Services</title>
+      <link>https://mustreadalaska.com/anchorage-expands-relationship-with-tyler-technologies-in-effort-to-modernize-payment-process-for-muni-services/</link>
+      <guid isPermaLink="false">14e677f4a06d6107a85e1234e3a8f85c604dedef</guid>
+      <pubDate>Fri, 05 Jun 2026 22:53:36 GMT</pubDate>
+      <description><![CDATA[The Municipality of Anchorage recently selected the enterprise Payments platform provided by Tyler Technologies, Inc to streamline and manage the municipality’s entire payments life cycle, from billing to presentment, revenue collection, fund settlement, financial reconciliation, and reporting. The cloud-based platform will enable Anchorage to centralize revenue collection operations, improve financial visibility, and deliver a modern, […] The post Anchorage Expands Relationship with Tyler Technologies to Modernize Payment Process for Muni Services appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Celebration draws thousands to Juneau to uplift Alaska Native culture and heritage</title>
+      <link>https://www.juneauempire.com/2026/06/05/celebration-draws-thousands-to-juneau-to-uplift-alaska-native-culture-and-heritage/</link>
+      <guid isPermaLink="false">a05a926a8006ee7143bfc264533d0d01f83de18d</guid>
+      <pubDate>Fri, 05 Jun 2026 22:32:00 GMT</pubDate>
+      <description><![CDATA[Festival honors Southeast Alaska Indigenous cultures]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Leadership Institute Hosts “Get Out The Vote” Training Saturday, June 13</title>
+      <link>https://mustreadalaska.com/leadership-institute-hosts-get-out-the-vote-training-saturday-june-13/</link>
+      <guid isPermaLink="false">30f123b1f930245686c0bac3b74595ebdfd0340f</guid>
+      <pubDate>Fri, 05 Jun 2026 22:03:10 GMT</pubDate>
+      <description><![CDATA[For $10 a seat, motivated conservatives can enjoy lunch and a 3-hour training session on how to Get Out The Vote (GOTV) this November. Hosted by Leadership Institute, the training will help attendees identify and reach the right voters, build and organize volunteer teams, develop effective voter contact and outreach strategies, and learn grassroots tactics […] The post Leadership Institute Hosts “Get Out The Vote” Training Saturday, June 13 appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska Fish &amp; Game Seeks Public Comment on Delta Junction Bison Range</title>
+      <link>https://mustreadalaska.com/alaska-fish-game-seeks-public-comment-on-delta-junction-bison-range/</link>
+      <guid isPermaLink="false">512633332ce7e0a23d2ebde46bcc36d7fa558904</guid>
+      <pubDate>Fri, 05 Jun 2026 21:39:22 GMT</pubDate>
+      <description><![CDATA[Delta Junction— The Alaska Department of Fish and Game (ADF&G), in partnership with the Salcha-Delta Soil and Water Conservation District (SDSWCD) is initiating an Environmental Assessment (EA) process for proposed improvements to bison habitat and forage on the Delta Junction Bison Range (DJBR). The DJBR, located east of Delta Junction and south of the Alaska […] The post Alaska Fish & Game Seeks Public Comment on Delta Junction Bison Range appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>SB 2001 Analysis: Not Just a Tax Abatement, a Tax Replacement</title>
+      <link>https://mustreadalaska.com/sb-2001-analysis-not-just-a-tax-abatement-a-tax-replacement/</link>
+      <guid isPermaLink="false">6ab05711966609d3a45d7b052a5b6254339cfdaf</guid>
+      <pubDate>Fri, 05 Jun 2026 17:00:00 GMT</pubDate>
+      <description><![CDATA[Editor’s Note: This story was updated on 6/8/2026 to correct a calculation error. The Alaska LNG project is the star of the show during the legislature’s current 30-day special session. The second regular session of the 34th Legislature saw a simple 7-page bill introduced to the Senate by Governor Dunleavy transformed into a colossal 52-page mess that proposed four different taxes on the oil and gas industry.  […] The post SB 2001 Analysis: Not Just a Tax Abatement, a Tax Replacement appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska Science Forum: Research team seeks answers from a changing river</title>
+      <link>https://www.homernews.com/2026/06/05/alaska-science-forum-research-team-seeks-answers-from-a-changing-river/</link>
+      <guid isPermaLink="false">6268b323623b61cf334643c32b52d58f3ce1cb1b</guid>
+      <pubDate>Fri, 05 Jun 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[A shifting climate is bringing big, sudden changes to the Kuskokwim River and the people who rely on it]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Juneau ranks 11th among America’s last ‘handshake economies’</title>
+      <link>https://www.juneauempire.com/2026/06/05/juneau-ranks-11th-among-americas-last-handshake-economies/</link>
+      <guid isPermaLink="false">87290c71931fed9284b15d736b2a5e03e5e4238a</guid>
+      <pubDate>Fri, 05 Jun 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Juneau, Fairbanks, and Wasilla ranked in the top 18 in the country]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>David Kenai Walker</title>
+      <link>https://www.homernews.com/2026/06/05/david-kenai-walker/</link>
+      <guid isPermaLink="false">97a77cd0e2a2bae1bc509f9dbbc2bce725c6d07b</guid>
+      <pubDate>Fri, 05 Jun 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[June, 13, 1959 - April, 22, 2026]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Roger D. Clyne</title>
+      <link>https://www.homernews.com/2026/06/05/roger-d-clyne/</link>
+      <guid isPermaLink="false">ff2b80209def9053d6e7c11a1e4277be7b306fc2</guid>
+      <pubDate>Fri, 05 Jun 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[March, 26, 1941 - March, 18, 2026]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Thursday, June 4, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17354414/newscast-thursday-june-4-2026</link>
+      <guid isPermaLink="false">1bb1e8ea66fa4f8055517b0fa86eb76def827b0a</guid>
+      <pubDate>Fri, 05 Jun 2026 01:06:19 GMT</pubDate>
+      <description><![CDATA[In this newscast: Democratic incumbent Rep. Andi Story now has an opponent in the race for her current seat in the state House: Annette Kreitzer, Haines’ former borough manager; After years of planning, the Central Council of the Tlingit and Haida Indian Tribes of Alaska soft-opened a casino on Douglas Island this week. It’s Juneau’s first casino; The National Science Foundation plans to yank a long-standing ocean observation station from the sea floor far off the coast of Alaska next year. It’s one in an entire ocean monitoring system slated to be dismantled as part of the Trump Administration’s rollback on federal science programs that help researchers study the changing climate; The developer of the Alaska LNG project released its first specific public cost estimates Wednesday for the proposed 800-mile gas pipeline and associated infrastructure.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Letters to the editor</title>
+      <link>https://www.homernews.com/2026/06/04/letters-to-the-editor-417/</link>
+      <guid isPermaLink="false">2a2dcacfe61b1aba8465dd264d355f2075f18330</guid>
+      <pubDate>Thu, 04 Jun 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Making sure no one goes to school hungry]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Pet of the Week: River</title>
+      <link>https://www.homernews.com/2026/06/04/pet-of-the-week-river/</link>
+      <guid isPermaLink="false">5bcca260f5b9b25afae6d4ca4ce341d2e2b81c4f</guid>
+      <pubDate>Thu, 04 Jun 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Ready to meet your new best friend?]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>A tasty dish made with tough meat</title>
+      <link>https://www.homernews.com/2026/06/04/a-tasty-dish-made-with-tough-meat/</link>
+      <guid isPermaLink="false">afe2ae5b30f4c16d19e15f7f4b952cea3547b5c6</guid>
+      <pubDate>Thu, 04 Jun 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Cube steak is made with the toughest cuts, smashed and crushed and mangled, but breaded and fried and covered in peppery gravy, they make a dinner that feels like a treat]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>OPINION: The art of losing</title>
+      <link>https://www.homernews.com/2026/06/04/opinion-the-art-of-losing/</link>
+      <guid isPermaLink="false">89a0ecb4bb37478b8976b6df810687785e4efc97</guid>
+      <pubDate>Thu, 04 Jun 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Donald Trump cannot recognize a losing hand]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer galleries showcase works for First Friday</title>
+      <link>https://www.homernews.com/2026/06/04/homer-galleries-showcase-works-for-first-friday-2/</link>
+      <guid isPermaLink="false">b2b9c0de6ee84f5286aa2285594505b6ded9d5b3</guid>
+      <pubDate>Thu, 04 Jun 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[New artists and exhibits are showcased in Homer throughout June, beginning with First Friday]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Wednesday, June 3, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17353667/newscast-wednesday-june-3-2026</link>
+      <guid isPermaLink="false">b4ec415faf32dba93f1b0300931128e5d28acf92</guid>
+      <pubDate>Thu, 04 Jun 2026 01:00:51 GMT</pubDate>
+      <description><![CDATA[In this newscast: Celebration officially starts with a Grand Entrance tonight; Carvers have developed a new method to build traditional canoes without relying on old growth trees; Some cruise ship companies in Southeast Alaska say customers are concerned about Hantavirus, but state health officials are more worried about other diseases; Dozens and dozens of candidates officially kicked off their campaigns for governor, Congress and the state Legislature on Monday]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Tuesday, June 2, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17352993/newscast-tuesday-june-2-2026</link>
+      <guid isPermaLink="false">ffade9b6a4efd4bca28009e8297bc6356e8e60f0</guid>
+      <pubDate>Wed, 03 Jun 2026 01:05:38 GMT</pubDate>
+      <description><![CDATA[In this newscast: Twelve people were infected by an outbreak of a gastrointestinal illness while aboard a cruise ship traveling through Southeast Alaska last week; A new public use cabin opened near Ward Lake this week; Thirteen canoes bringing Alaska Native paddlers from across Southeast Alaska and Canada arrived in Juneau Tuesday afternoon; A soon-to-be change in shipping services for Juneau's Costco is expected to make it more difficult for small businesses in outlying communities to get products to their towns; Petersburg residents give items at the dump a second life through the borough's salvaging program.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Kenai education associations express disappointment in school district’s statement</title>
+      <link>https://www.homernews.com/2026/06/02/kenai-education-associations-express-disappointment-in-school-districts-statement/</link>
+      <guid isPermaLink="false">d8adfa0181e36ffe7eb2a44c07d0f0731d389077</guid>
+      <pubDate>Tue, 02 Jun 2026 18:31:00 GMT</pubDate>
+      <description><![CDATA[The district had expressed disappointment that union members rejected a tentative health care deal]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Friday, May 29, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17352317/newscast-friday-may-29-2026</link>
+      <guid isPermaLink="false">56bd71d67b82f55d6b25a01b5a8336f6c384c893</guid>
+      <pubDate>Mon, 01 Jun 2026 17:58:07 GMT</pubDate>
+      <description><![CDATA[In this newscast: Thousands of people will converge in Juneau next week to dance, sing and showcase their Indigenous culture; More than 100 Sitkans gathered at the Starrigavan boat launch Thursday morning for a blessing and send-off of the “Ancestral Echoes” canoe heading to Celebration in Juneau. Lingít elders Ed Peele and Harvey Kitka offered a blessing accompanied by drumming and singing before the 12 paddlers got into the red, blue, and black canoe to leave on their five-day journey to the capital city; The state’s first Justice Summit for Alaska’s missing and murdered Indigenous people got underway in Anchorage on Wednesday with a call to push harder for healing, learning, and action; Oil prices are going up because of the war in Iran, and in turn, the price of plane tickets has increased. Some of the hardest hit passengers are those in Unalaska, an 800-mile plane ride from Anchorage; May in Utqiagvik means whaling. But the community just landed its first spring whale last weekend, very late in the season.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Thursday, May 28, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17350479/newscast-thursday-may-28-2026</link>
+      <guid isPermaLink="false">17cdecfc45ad80545211be5719ac47dfa6450d6d</guid>
+      <pubDate>Fri, 29 May 2026 01:00:29 GMT</pubDate>
+      <description><![CDATA[In this newscast: The estate of a man who died after he was struck by a City and Borough of Juneau-owned truck has filed a wrongful death lawsuit against the city and the employee driving the vehicle; Former Gov. Bill Walker is considering another run for the state’s top elected office. Walker filed a letter of intent with Alaska campaign regulators this morning; A Juneau lawmaker’s bill that seeks to increase state funding for free legal aid to vulnerable Alaskans passed into law without the governor’s signature last weekA federally funded program aims to install thousands of heat pumps across southern Alaska by late 2029. ; But the program’s first year has been slow. As Avery Ellfeldt reports for the Alaska Desk, the groups managing the effort are ramping up advertising in hopes of boosting interest, and reducing energy bills; As the Arctic takes on greater geopolitical significance, Alaska has assets of interest to the U.S. military.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Wednesday, May 27, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17350460/newscast-wednesday-may-27-2026</link>
+      <guid isPermaLink="false">0671df8b72c1bf01c8a8592bf3082454d3baf658</guid>
+      <pubDate>Thu, 28 May 2026 01:00:47 GMT</pubDate>
+      <description><![CDATA[In this newscast: Juneau Representative Andi Story says she will seek reelection for a fifth term in the Alaska Legislature this fall; An 82-year-old Juneau man has been charged with attempted murder for allegedly stabbing his brother; State lawmakers voted to increase state unemployment benefits for the first time since 2009 during the state Legislature’s race to the finish last week; Several proposed mines in British Columbia are located along transboundary rivers that wind through Southeast Alaska. Residents on the Alaska side of the border say there’s a lack of tribal consultation and some worry about pollution in salmon-bearing streams vital to the region’s fisheries; State lawmakers passed two bills on the last day of the legislative session aimed at fulfilling requirements of a federal health care expansion effort.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Newscast – Tuesday, May 26, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17349043/newscast-tuesday-may-26-2026</link>
+      <guid isPermaLink="false">0cb2e314341248f7f2d8eea6e941cf5e39075173</guid>
+      <pubDate>Wed, 27 May 2026 01:00:47 GMT</pubDate>
+      <description><![CDATA[In this newscast: University of Alaska officials are calling for a systemwide strategy to address challenges and opportunities ushered in by generative AI; A beloved Lingit leader and fishing rights advocate in Juneau died last month at the age of 77; With years of collective experience, Juneau Mountain Rescue volunteers sometimes deal with worst-case scenarios; A tribal college on the North Slope bought a piece of land last month to build a new campus]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>JD Vance installs custom chicken coop at Naval Observatory and will personally care for birds</title>
+      <link>https://www.foxnews.com/politics/jd-vance-installs-custom-chicken-coop-naval-observatory-personally-care-birds</link>
+      <guid isPermaLink="false">7084df5841cadcadf77466c3cd64834cb4c9c74e</guid>
+      <pubDate>Tue, 09 Jun 2026 23:13:41 GMT</pubDate>
+      <description><![CDATA[A custom chicken coop built by Carolina Coops has been installed at the Naval Observatory, where Vice President JD Vance will care for the chickens.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Devastating magnitude 7.8 earthquake rocks Philippines, leaving dozens dead and hundreds more injured</title>
-      <link>https://www.foxweather.com/weather-news/7-8-magnitude-earthquake-rocks-philippines-dozens-dead-hundreds-injured</link>
-      <guid isPermaLink="false">cd03b9fa84a9b5d3ce1bde3da20ee0edbc4d2ed0</guid>
-      <pubDate>Tue, 09 Jun 2026 02:35:31 GMT</pubDate>
-      <description><![CDATA[A powerful offshore magnitude 7.8 earthquake struck off the coast of southern Philippines on Monday, triggering a 3-foot tsunami along nearby coasts. Authorities reported that the event killed at least 32 people and injured more than 200.]]></description>
+      <title>House approves labor-friendly bill with support from 20 Republicans</title>
+      <link>https://www.npr.org/2026/06/09/nx-s1-5851813/house-bill-labor-union-contract-negotiations</link>
+      <guid isPermaLink="false">45a12a6c46d7a1637a210543a10419c6bc8d16c6</guid>
+      <pubDate>Tue, 09 Jun 2026 23:10:59 GMT</pubDate>
+      <description><![CDATA[The House has approved a bill to slash the time it takes for newly unionized workers to get a first contract. The measure allows for government intervention if a deal is not reached within 90 days.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Rob Gronkowski is 'Team USA all the way' despite being a soccer novice ahead of 2026 FIFA World Cup</title>
+      <link>https://www.foxnews.com/sports/rob-gronkowski-team-usa-way-despite-soccer-novice-ahead-2026-fifa-world-cup</link>
+      <guid isPermaLink="false">77e7c9085a9c883d90eeeec400cd56b56bae62e0</guid>
+      <pubDate>Tue, 09 Jun 2026 23:03:08 GMT</pubDate>
+      <description><![CDATA[Rob Gronkowski said he's "Team USA all the way" for the 2026 FIFA World Cup, calling a potential USMNT victory a miracle for soccer in America.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Graham Platner will 'get off the ballot soon,' Democratic lawmaker predicts</title>
+      <link>https://www.foxnews.com/media/graham-platner-get-off-ballot-soon-democratic-lawmaker-predicts</link>
+      <guid isPermaLink="false">6fed1353dc9cebcb6fa9d1fd1fb665a3aac00b19</guid>
+      <pubDate>Tue, 09 Jun 2026 23:00:01 GMT</pubDate>
+      <description><![CDATA[Rep. Josh Gottheimer predicted on CNN that Graham Platner will be off the ballot soon, urging Maine Democrats to replace the scandal-plagued Senate candidate.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Platner holdout floats emergency lifeline for panicking Dems if scandal-plagued candidate wins</title>
+      <link>https://www.foxnews.com/politics/platner-holdout-floats-emergency-lifeline-panicking-dems-scandal-plagued-candidate-wins</link>
+      <guid isPermaLink="false">9e25c846110476c119c93319df480eb278383823</guid>
+      <pubDate>Tue, 09 Jun 2026 22:59:37 GMT</pubDate>
+      <description><![CDATA[Rep. Josh Gottheimer calls for Maine Senate candidate Graham Platner to exit the race, saying he should get off the ballot and let a Democrat step in.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Emily Ratajkowski's shredded red birthday dress leaves little to the imagination at NYC celebration</title>
+      <link>https://www.foxnews.com/entertainment/emily-ratajkowskis-shredded-red-birthday-dress-leaves-little-imagination-nyc-celebration</link>
+      <guid isPermaLink="false">8a3b463939872a1b2c4b4bae9ba31da9eeb4edff</guid>
+      <pubDate>Tue, 09 Jun 2026 22:52:45 GMT</pubDate>
+      <description><![CDATA[Emily Ratajkowski celebrates her 35th birthday in a barely there red dress with cutouts, sharing stunning photos from her party at Ha's Snack Bar.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Three judges, three scandals and new scrutiny of judicial accountability</title>
+      <link>https://www.npr.org/2026/06/09/nx-s1-5852204/michigan-georgia-idaho-judiciary-misconduct-scandal-scrutiny</link>
+      <guid isPermaLink="false">28788bd36486a53609481270039aff7cbeae13e3</guid>
+      <pubDate>Tue, 09 Jun 2026 22:42:39 GMT</pubDate>
+      <description><![CDATA[Three judges are facing misconduct allegations in three different states, putting pressure on the federal judiciary's system for policing bad behavior in its own ranks.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Beau Bridges says Tom Cruise ‘gets better with age’ as ‘Top Gun' star keeps defying Hollywood odds</title>
+      <link>https://www.foxnews.com/entertainment/beau-bridges-says-tom-cruise-gets-better-age-top-gun-star-keeps-defying-hollywood-odds</link>
+      <guid isPermaLink="false">7f5590c0ad9ea78332321b9cebc0c0b4a5c37cab</guid>
+      <pubDate>Tue, 09 Jun 2026 22:06:49 GMT</pubDate>
+      <description><![CDATA[Beau Bridges says Tom Cruise is a wonderful actor who just keeps getting better with age, praising his Jerry Maguire costar's dedication to stunts.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Gorilla goes viral for seemingly reassessing life choices after a spat with his lady friend</title>
+      <link>https://www.foxnews.com/outkick-culture/gorilla-goes-viral-seemingly-reassessing-life-choices-spat-lady-friend</link>
+      <guid isPermaLink="false">2eecdf6c97e96a8a03d1498f7b7c2f5851188d11</guid>
+      <pubDate>Tue, 09 Jun 2026 22:06:11 GMT</pubDate>
+      <description><![CDATA[A 13-year-old gorilla named Kiyomasa goes viral after being caught on video in deep thought following a tiff with a female gorilla at a Japanese zoo.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Whoopi Goldberg tells audience not to blame Trump for Knicks loss, Hostin insists he brought ‘bad juju’</title>
+      <link>https://www.foxnews.com/media/whoopi-goldberg-tells-audience-blame-trump-knicks-loss-hostin-insists-brought-bad-juju</link>
+      <guid isPermaLink="false">2af65c62cd8f5656763e63c63f25e3b16d083b19</guid>
+      <pubDate>Tue, 09 Jun 2026 22:00:38 GMT</pubDate>
+      <description><![CDATA[Whoopi Goldberg chastised her audience for blaming the Knicks' NBA Finals loss on President Donald Trump's attendance, saying the team was not playing great ball.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>David Sullivan banned from contact with West Ham women's and youth teams since 2023</title>
+      <link>https://www.bbc.com/news/articles/c5yzwy055xdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7f4a5faf0a2ba47c720e9cb79a79153b6e42dee9</guid>
+      <pubDate>Tue, 09 Jun 2026 21:39:33 GMT</pubDate>
+      <description><![CDATA[The decision followed a safeguarding investigation opened by the the Football Association.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The rebels at the front line of Myanmar's civil war</title>
+      <link>https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">232ec57d39d7d083f62b817403b3cdea507bc3e5</guid>
+      <pubDate>Tue, 09 Jun 2026 21:04:20 GMT</pubDate>
+      <description><![CDATA[The BBC’s Quentin Sommerville travels to Myanmar - without the permission of the authorities - to meet a group of rebel fighters.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Serena Williams rolls back the years on return at Queen's</title>
+      <link>https://www.bbc.com/sport/tennis/articles/cwy0ldzprrwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">eecb212df659e31855160943aa266c35fc1fe660</guid>
+      <pubDate>Tue, 09 Jun 2026 20:13:18 GMT</pubDate>
+      <description><![CDATA[Serena Williams rolls back the years at Queen's with a winning performance on her comeback to tennis after 1,375 days away from the sport.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Version of AI tool 'too powerful for public' released to public</title>
+      <link>https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b8674af54dfedb10c103a5a63fce803184fea71f</guid>
+      <pubDate>Tue, 09 Jun 2026 18:35:59 GMT</pubDate>
+      <description><![CDATA[Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>To find the World Cup's Cinderellas, we have to start with the group stage</title>
+      <link>https://www.npr.org/2026/06/09/g-s1-127007/soccer-edition-world-cup-cinderella-group-stage</link>
+      <guid isPermaLink="false">fbaa58cd520942f2762d40998f00e73eb5839feb</guid>
+      <pubDate>Tue, 09 Jun 2026 18:05:06 GMT</pubDate>
+      <description><![CDATA[Uzbekistan, Jordan, Cape Verde and Curacao are making their World Cup debut. Meanwhile, Scotland, South Africa, Canada, and New Zealand (just to name a few) have never made it past the group stage.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nasa names next astronauts for Artemis Moon programme</title>
+      <link>https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">904b3db4cddd5199e463a9287474da108b59b7d1</guid>
+      <pubDate>Tue, 09 Jun 2026 17:46:55 GMT</pubDate>
+      <description><![CDATA[Nasa names its next Artemis crew, though they will not be walking on the Moon or even going anywhere near it.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Men jailed for violence at Henry Nowak police protest</title>
+      <link>https://www.bbc.com/news/articles/c982y5n0nlno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">553866ad67b5be266264f7aa2e2a7beb67e0d3b4</guid>
+      <pubDate>Tue, 09 Jun 2026 17:33:39 GMT</pubDate>
+      <description><![CDATA[Disorder broke out in Southampton close to where the 18-year-old student was murdered.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>U.S. strikes Iran in response to downed helicopter</title>
+      <link>https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond</link>
+      <guid isPermaLink="false">967cc7b1521a45e5b787bc2d8748009744ae693f</guid>
+      <pubDate>Tue, 09 Jun 2026 17:25:28 GMT</pubDate>
+      <description><![CDATA[Trump also confirmed the two pilots in the U.S. helicopter are unharmed and safe.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Big tobacco hooked us on ultra-processed foods. It might teach us how to cut back</title>
+      <link>https://www.npr.org/2026/06/09/nx-s1-5850364/why-ultra-processed-foods-could-become-the-new-war-on-tobacco</link>
+      <guid isPermaLink="false">a80abdb480a62499449d7fa9b7a5fd947a98aa25</guid>
+      <pubDate>Tue, 09 Jun 2026 17:02:24 GMT</pubDate>
+      <description><![CDATA[Research published in the American Journal of Public Health details the connection between ultra-processed foods and the tobacco industry when it comes to production, strategy and marketing.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Social Security funds could run short by 2032, program's Trustees warn</title>
+      <link>https://www.npr.org/2026/06/09/nx-s1-5850279/social-security-funds-trustees-congress</link>
+      <guid isPermaLink="false">9e0bddf0fbad9f67348c1583c74711e314491c13</guid>
+      <pubDate>Tue, 09 Jun 2026 16:53:28 GMT</pubDate>
+      <description><![CDATA[A trust fund that helps to finance Social Security benefits is expected to run out of money in less than seven years — unless Congress acts to patch the system before that.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Two reportedly killed as women take part in rare protest in Afghanistan</title>
+      <link>https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3be3ea69eb2fe8846479fc7c0d1924c5c3a4da80</guid>
+      <pubDate>Tue, 09 Jun 2026 16:44:23 GMT</pubDate>
+      <description><![CDATA[The demonstration, in the western city of Herat, was broken up after police are alleged to have opened fire.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Murder of Lyhanna, 11, enrages France and turns up heat on government</title>
+      <link>https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7893c315af8bd7ba30f92d9f189da038da662f2b</guid>
+      <pubDate>Tue, 09 Jun 2026 14:27:37 GMT</pubDate>
+      <description><![CDATA[Protesters are angry that the suspect had already been reported to police last August in a separate case.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>I have right papers and visa - barred referee Artan</title>
+      <link>https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f2b410175df5a6b21eb0c03f38845b250a5f1b9e</guid>
+      <pubDate>Tue, 09 Jun 2026 13:43:54 GMT</pubDate>
+      <description><![CDATA[Somali referee Omar Artan says he was subjected to an 11-hour immigration interview before being denied entry to the United States for the World Cup despite holding the "right papers" and "right visa".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Magnitude 6.1 earthquake reported near Cuba, shaking felt as far as Florida</title>
+      <link>https://www.foxweather.com/weather-news/magnitude-6-1-earthquake-cuba-shaking-felt-florida</link>
+      <guid isPermaLink="false">ad4c77efb91ec1811a276838d9e50274b0ee606b</guid>
+      <pubDate>Mon, 08 Jun 2026 18:58:55 GMT</pubDate>
+      <description><![CDATA[Residents in Florida have reported feeling shaking from a recent earthquake that occurred 90 miles off the coast of Puerto Esperanza, Cuba, on Monday afternoon.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Hottest temperatures of the year set to roast more than 100 million across major East Coast cities</title>
-      <link>https://www.foxweather.com/weather-news/hot-temperatures-roast-millions-major-northeast-cities</link>
-      <guid isPermaLink="false">105420cb8009de4636304a025284485c94681604</guid>
-      <pubDate>Sun, 07 Jun 2026 19:10:02 GMT</pubDate>
-      <description><![CDATA[Millions are expected to experience some of the hottest temperatures of the year up and down the Interstate 95 corridor on Thursday and Friday.]]></description>
+      <title>More than 120M in the path of 'potentially significant' multiday severe weather blitz across Upper Midwest</title>
+      <link>https://www.foxweather.com/weather-news/increasing-odds-severe-storms-midweek-plains-midwest</link>
+      <guid isPermaLink="false">4b43569f362e308df4bcbc1457a5daa77d7bb02e</guid>
+      <pubDate>Mon, 08 Jun 2026 11:47:25 GMT</pubDate>
+      <description><![CDATA[Tuesday marks the beginning of a multiday severe weather threat expected to affect more than 120 million people across the Northern Plains and Upper Midwest through Thursday, where storms could produce large hail, damaging wind gusts and tornadoes.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Tropical Storm Cristina brings flood risk to parts of Central America in first tropical threat of 2026</title>
-      <link>https://www.foxweather.com/weather-news/tropical-storm-eastern-pacific-mexico-heavy-rain</link>
-      <guid isPermaLink="false">49af641f9f102f398c28104300d3f7539ebed366</guid>
-      <pubDate>Sun, 07 Jun 2026 15:57:28 GMT</pubDate>
-      <description><![CDATA[Tropical Storm Cristina is drifting off the coast of Nicaragua and is expected to bring several days of heavy rain to Central America after Boris drenched southern Mexico before dissipating.]]></description>
+      <title>Elderly man dies during Saturday's severe storms after tree falls in New York City</title>
+      <link>https://www.foxweather.com/weather-news/elderly-man-dead-tree-severe-storms-nyc</link>
+      <guid isPermaLink="false">593b20aadec3534edd8f2cbb2d0825054e191bcd</guid>
+      <pubDate>Sun, 07 Jun 2026 19:11:59 GMT</pubDate>
+      <description><![CDATA[An 85-year-old man was crushed to death by a falling tree as severe storms slammed New York City on Saturday night, according to officials.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Flash flood threat expands across Central, Southern US after inches of torrential rain trigger water rescues</title>
+      <link>https://www.foxweather.com/weather-news/millions-flood-watch-downpours-drench-south-central-us</link>
+      <guid isPermaLink="false">1dba8631558424f25f9c0af45e8fe3321e59df87</guid>
+      <pubDate>Sun, 07 Jun 2026 15:12:34 GMT</pubDate>
+      <description><![CDATA[Over 15 million people across the Ohio Valley, Tennessee Valley, and Southern Appalachians remain under flood warnings Tuesday as heavy downpours continue to put communities at risk.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Five injured after ferocious winds and severe storms rip through college baseball game, sending tents airborne</title>
+      <link>https://www.foxweather.com/weather-news/whipping-winds-disrupt-west-virgina-baseball-game-tents-go-flying-injuries-reported</link>
+      <guid isPermaLink="false">97ef5ad02c67754dc2628c752dbf95868ecb0a20</guid>
+      <pubDate>Sun, 07 Jun 2026 01:00:26 GMT</pubDate>
+      <description><![CDATA[Five people were injured after powerful wind gusts sent tents flying during severe storms that swept through a West Virginia University baseball game Saturday.]]></description>
       <category>weather</category>
     </item>
   </channel>
