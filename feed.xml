@@ -5,469 +5,581 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:59:23 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: This Afternoon - Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 21 Jun 2026 00:16:57 GMT</pubDate>
-      <description><![CDATA[64°F. Wind W 10 mph. Sunny, with a high near 64. West wind around 10 mph.]]></description>
-      <category>weather</category>
+      <title>Newscast – Tuesday, June 16, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17362395/newscast-tuesday-june-16-2026</link>
+      <guid isPermaLink="false">9e3760d0f1df9519a4089df873667f2bbdca4ae0</guid>
+      <pubDate>Wed, 17 Jun 2026 00:59:23 GMT</pubDate>
+      <description><![CDATA[In this newscast: The City and Borough of Juneau is repairing two school roofs this summer that were damaged during this winter's record-breaking snowstorm; Oil rose to the surface at Juneau's historic Treadwell Gold Mine, and the state plans to assess how wide the pollution has spread this summer; A new report shows that the population regrowth of humpback whales after a heatwave a decade ago has been slow; The US Small Business Administration proposed drastic changes to its federal contracting program, but it said the change won't affect tribes and Alaska Native Corporations; The Division of Elections issued the state's final determination that Dan Sullivan of Petersburg can't be on the ballot to challenge Republican US Sen. Dan Sullivan]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>France bans alcohol at music festival events under red heatwave alert</title>
+      <link>https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">61ad9ab24b06c6c3c8c296671a64bf2529ea7e1e</guid>
+      <pubDate>Sun, 21 Jun 2026 00:29:51 GMT</pubDate>
+      <description><![CDATA[Annual street parties attended by millions ordered to help “preserve” healthcare services in 40C (104F) heat.]]></description>
+      <category>breaking</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 21 Jun 2026 00:16:57 GMT</pubDate>
-      <description><![CDATA[49°F. Wind SW 5 to 10 mph. Partly cloudy, with a low around 49. Southwest wind 5 to 10 mph.]]></description>
+      <pubDate>Sun, 21 Jun 2026 06:11:12 GMT</pubDate>
+      <description><![CDATA[49°F. Wind SW 5 mph. Partly cloudy, with a low around 49. Southwest wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Sunday - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 21 Jun 2026 00:16:57 GMT</pubDate>
-      <description><![CDATA[66°F. Wind W 0 to 5 mph. Mostly cloudy, with a high near 66. West wind 0 to 5 mph.]]></description>
+      <pubDate>Sun, 21 Jun 2026 06:11:12 GMT</pubDate>
+      <description><![CDATA[65°F. Wind W 0 to 5 mph. Mostly cloudy, with a high near 65. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Sunday Night - Mostly Cloudy then Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 21 Jun 2026 00:16:57 GMT</pubDate>
-      <description><![CDATA[49°F. Wind SW 0 to 5 mph. A slight chance of rain after 4am. Mostly cloudy, with a low around 49. Southwest wind 0 to 5 mph.]]></description>
+      <pubDate>Sun, 21 Jun 2026 06:11:12 GMT</pubDate>
+      <description><![CDATA[52°F. Wind SW 0 to 5 mph. A slight chance of rain after 4am. Mostly cloudy, with a low around 52. Southwest wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Monday - Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 21 Jun 2026 00:16:57 GMT</pubDate>
-      <description><![CDATA[65°F. Wind NW 0 to 5 mph. A slight chance of rain before 4pm. Mostly cloudy, with a high near 65. Northwest wind 0 to 5 mph.]]></description>
+      <pubDate>Sun, 21 Jun 2026 06:11:12 GMT</pubDate>
+      <description><![CDATA[66°F. Wind NW 0 to 5 mph. A slight chance of rain before 4pm. Mostly cloudy, with a high near 66. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Alaska House rejects Senate’s LNG gas line bill, lawmakers say negotiations will continue</title>
-      <link>https://alaskabeacon.com/2026/06/20/alaska-house-rejects-senates-lng-gas-line-bill-lawmakers-say-negotiations-will-continue/</link>
-      <guid isPermaLink="false">191faf74ab622629cbe89e1afd9e72ccc9085f6e</guid>
-      <pubDate>Sat, 20 Jun 2026 23:48:00 GMT</pubDate>
-      <description><![CDATA[The Alaska House of Representatives on Saturday rejected a Senate-drafted multibillion-dollar tax break for a proposed trans-Alaska natural gas pipeline project, as members of the House declined to abandon a different proposal they drafted. Members of the House voted down the Senate’s revised bill 12-28, nine votes short of what was needed to adopt the […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Juneau meeting to discuss fee increases for Tongass National Forest</title>
-      <link>https://www.juneauempire.com/2026/06/20/juneau-meeting-to-discuss-fee-increases-for-tongass-national-forest/</link>
-      <guid isPermaLink="false">e5ecad6fe923ab8dc75bc7f7bbd76049eaf61cca</guid>
-      <pubDate>Sat, 20 Jun 2026 19:30:00 GMT</pubDate>
-      <description><![CDATA[June 24 meeting topics include fees for False Bay Cabin, Mendenhall Glacier and Ketchikan center]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Agreement guarantees preservation of Homer wetlands</title>
-      <link>https://www.homernews.com/2026/06/20/agreement-guarantees-preservation-of-homer-wetlands/</link>
-      <guid isPermaLink="false">a69f21c02aeb1e5f2623b9bbf10f7a98c1342df7</guid>
-      <pubDate>Sat, 20 Jun 2026 18:30:00 GMT</pubDate>
-      <description><![CDATA[26.5 acres in the Beluga Wetlands will be part of city’s Sponge project to naturally absorb stormwater]]></description>
+      <title>Anchorage Weather: Monday Night - Mostly Cloudy then Chance Rain Showers</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 21 Jun 2026 06:11:12 GMT</pubDate>
+      <description><![CDATA[53°F. Wind S 5 mph. A chance of rain showers after 1am. Mostly cloudy, with a low around 53. South wind around 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Man who used stolen ID on Alaskan cruise sentenced to 4 years</title>
-      <link>https://www.homernews.com/2026/06/20/man-who-used-stolen-id-on-alaskan-cruise-sentenced-to-4-years/</link>
-      <guid isPermaLink="false">f466c679c2d24b492b9e6b36b59f7be1ab716ae9</guid>
-      <pubDate>Sat, 20 Jun 2026 18:30:00 GMT</pubDate>
+      <title>Bryce Harper hits for cycle, Kyle Schwarber blasts three homers in Phillies blowout win over Mets</title>
+      <link>https://www.foxnews.com/sports/bryce-harper-hits-cycle-kyle-schwarber-blasts-three-homers-phillies-blowout-win-mets</link>
+      <guid isPermaLink="false">07869f749b6bca1c2e695cf6decbbdd4790de069</guid>
+      <pubDate>Sun, 21 Jun 2026 03:40:04 GMT</pubDate>
+      <description><![CDATA[Kyle Schwarber hit three home runs, including two in one inning, and Bryce Harper hit for the cycle as the Phillies routed the Mets 15-3 Saturday.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>LETTER: Juneau Garden Club appreciates support for planter project</title>
+      <link>https://www.juneauempire.com/2026/06/20/letter-juneau-garden-club-appreciates-support-for-planter-project/</link>
+      <guid isPermaLink="false">4e13163c84aefb887916134befbbec0e33df5cdc</guid>
+      <pubDate>Sat, 20 Jun 2026 21:30:00 GMT</pubDate>
+      <description><![CDATA[The Juneau Garden Club recently installed a large raised garden planter at the Pioneer Home. This makes a lovely addition to the newly landscaped outdoor plaza.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>DOJ memo stokes fear among disability advocates of a return to institutionalization</title>
+      <link>https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization</link>
+      <guid isPermaLink="false">6fc94432a2cbdb61a514d2e34904d0588da80f17</guid>
+      <pubDate>Sat, 20 Jun 2026 20:33:14 GMT</pubDate>
+      <description><![CDATA[The Justice Department's opinion challenges civil rights protections that have long treated the institutionalization of disabled Americans as a last resort.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>This Day in Alaskan History-June 20th, 1919</title>
+      <link>https://alaska-native-news.com/june-20th-1919/42897/</link>
+      <guid isPermaLink="false">7ba80a715c519f5dd50a9f500f94b3d4cda5e03b</guid>
+      <pubDate>Sat, 20 Jun 2026 14:00:52 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Kenai Peninsula schools among 12 in Alaska to close this year amid budget cuts</title>
+      <link>https://www.homernews.com/2026/06/20/kenai-peninsula-schools-among-12-in-alaska-to-close-this-year-amid-budget-cuts/</link>
+      <guid isPermaLink="false">b2a097e5dc683c07fd69b9cc9450014efcf82e4e</guid>
+      <pubDate>Sat, 20 Jun 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Officials point to declining enrollment and say state funding has not kept pace with skyrocketing costs]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>OPINION: Elon Musk could put his $1 trillion to a good use</title>
+      <link>https://www.juneauempire.com/2026/06/20/opinion-elon-musk-could-put-his-1-trillion-to-a-good-use/</link>
+      <guid isPermaLink="false">90ec79afef4a312f3414c40fe7a98a396f535c9f</guid>
+      <pubDate>Sat, 20 Jun 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Elon Musk is the richest person in the world, probably the universe, though it’s always possible some unknown form of life has blasted to stratospheric economic heights in an unknown galaxy — if they even have an atmosphere or stratosphere — and reaped untold personal wealth in whatever currency they may use.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska Senate approves gas pipeline tax break, but governor and others indicate it isn’t enough</title>
+      <link>https://alaskabeacon.com/2026/06/20/alaska-senate-approves-gas-pipeline-tax-break-but-governor-and-others-indicate-it-isnt-enough/</link>
+      <guid isPermaLink="false">3b3f996a5d1cab991befe5d70c52d8fc67c2a25a</guid>
+      <pubDate>Sat, 20 Jun 2026 12:00:35 GMT</pubDate>
+      <description><![CDATA[The Alaska Senate has approved a multibillion-dollar tax cut for the developers of the proposed trans-Alaska natural gas pipeline, but some changes adopted late Friday by the Senate reduced the size of the break. Speaking to reporters after the 12-8 Senate vote, Gov. Mike Dunleavy and House Majority Leader Chuck Kopp, R-Anchorage, said the Senate […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>LIVING AND GROWING: The Sorrowful Mysteries</title>
+      <link>https://www.juneauempire.com/2026/06/20/living-and-growing-the-sorrowful-mysteries/</link>
+      <guid isPermaLink="false">5ae89f6fb32e0d4af0b7107715d9248b72e8dc6d</guid>
+      <pubDate>Sat, 20 Jun 2026 11:30:00 GMT</pubDate>
+      <description><![CDATA[“Say the Holy Rosary every day to obtain peace for the world.” - Our Lady of Fatima, 1917.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Capital City Fire Rescue welcomes six new members</title>
+      <link>https://www.juneauempire.com/2026/06/19/capital-city-fire-rescue-welcomes-six-new-members/</link>
+      <guid isPermaLink="false">5dfe0bdb9e311af49e8fd86d32e081f293062db1</guid>
+      <pubDate>Fri, 19 Jun 2026 21:30:00 GMT</pubDate>
+      <description><![CDATA[Six members of the Apprentice Firefighter Program transitioned from apprentices to firefighters]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Federal government appeals decision that blocked oil drilling in Alaska caribou protection area</title>
+      <link>https://alaskabeacon.com/briefs/federal-government-appeals-decision-that-blocked-oil-drilling-in-alaska-caribou-protection-area/</link>
+      <guid isPermaLink="false">fb75b66c94f210af3dd11c52e9d885b4cfe93243</guid>
+      <pubDate>Fri, 19 Jun 2026 18:30:41 GMT</pubDate>
+      <description><![CDATA[The federal government is continuing to push for oil drilling in a North Slope conservation area intended to protect caribou. Last month, the U.S. Department of the Interior asked the 9th U.S. Circuit Court of Appeals to review a ruling from U.S. District Court Judge Sharon Gleason that blocked oil and gas lease sales in […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>America 250 Anchorage: Faith, Family, Freedom &amp; 500 Artifacts with Dennis Tayman</title>
+      <link>https://mustreadalaska.com/america-250-anchorage-faith-family-freedom-500-artifacts-with-dennis-tayman/</link>
+      <guid isPermaLink="false">8a59854e7ced97081ce82824c66a612dce3da247</guid>
+      <pubDate>Fri, 19 Jun 2026 18:03:14 GMT</pubDate>
+      <description><![CDATA[https://www.podbean.com/media/share/pb-i28k7-1af02f9 Host Todd welcomes Dennis Tayman of Tayman Tutoring to preview “America Comes Alive,” a free community event at Anchorage’s Mountain City Church celebrating America’s 250th anniversary. Dennis shares his remarkable collection of artifacts, documents, and relics spanning the 1700s to today, giving families a hands-on chance to see, touch, and experience real American history. […] The post America 250 Anchorage: Faith, Family, Freedom & 500 Artifacts with Dennis Tayman appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Juneteenth reminds us of Black Americans’ long struggle for education following end of slavery</title>
+      <link>https://alaskabeacon.com/2026/06/19/juneteenth-reminds-us-of-black-americans-long-struggle-for-education-following-end-of-slavery/</link>
+      <guid isPermaLink="false">249c745379d503188dc51070e48023a6edbe3cd0</guid>
+      <pubDate>Fri, 19 Jun 2026 18:00:45 GMT</pubDate>
+      <description><![CDATA[The abolitionist and writer Frederick Douglass is known for many things, but perhaps among the most significant is his views on education’s relationship to slavery. Douglass himself was born into slavery in Maryland in 1818. Douglass described in his 1845 autobiography how one of his enslavers, Mrs. Auld, began teaching him to read when he […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Murkowski and Sullivan Welcome Funding for Fisheries</title>
+      <link>https://alaska-native-news.com/murkowski-and-sullivan-welcome-funding-for-fisheries/84639/</link>
+      <guid isPermaLink="false">de6a65f62bf90f68eb54c47e0a77394a3290fdf6</guid>
+      <pubDate>Fri, 19 Jun 2026 14:05:01 GMT</pubDate>
+      <description><![CDATA[Washington, DC—Thursday, U.S. Senators Lisa Murkowski and Dan Sullivan (R-AK) welcomed the announcement of roughly $99 million in funding allocated for Alaska fishery disasters from the U.S. Department of Commerce. This is a step toward funding for three Alaska fisheries that experienced disasters from 2022-2024. NOAA Fisheries will now work with the State of […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Murkowski, Merkley Secure Commitment to Preserve U.S. Ocean Monitoring System</title>
+      <link>https://alaska-native-news.com/murkowski-merkley-secure-commitment-to-preserve-u-s-ocean-monitoring-system/84636/</link>
+      <guid isPermaLink="false">33b6ae2d33d99d0794d5d501035e7e9bff712783</guid>
+      <pubDate>Fri, 19 Jun 2026 14:04:28 GMT</pubDate>
+      <description><![CDATA[Washington, DC – Thursday, U.S. Senators Lisa Murkowski (R-AK) and Jeff Merkley (D-OR) announced the U.S. National Science Foundation (NSF) is pausing its planned removal of the Ocean Observatories Initiative’s (OOI) sensors. NSF’s decision came after Murkowski and Merkley passed a Senate bill to prohibit the NSF from dismantling the OOI system. “The National […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Drone Dominance Program Receives First Order, Gauntlet II Gets Underway</title>
+      <link>https://alaska-native-news.com/drone-dominance-program-receives-first-order-gauntlet-ii-gets-underway/84628/</link>
+      <guid isPermaLink="false">376e48396b7cf7d7c2a8530d4b9ec41761ebad76</guid>
+      <pubDate>Fri, 19 Jun 2026 14:03:46 GMT</pubDate>
+      <description><![CDATA[Drone Dominance Program Gauntlet Phase II qualifiers conclude this week at Camp Grayling, Michigan. This high-stakes test pits 49 companies and 79 unique unmanned aerial systems against rigorous mission scenarios, including long-range strikes and close-quarters tactical assaults. Each company brought 20 drones to take on the challenge. The qualifier event is a critical test […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>‘Trillion-Dollar Scam’: Lawmakers Demand Halt to Trump’s Golden Dome Boondoggle</title>
+      <link>https://alaska-native-news.com/trillion-dollar-scam-lawmakers-demand-halt-to-trumps-golden-dome-boondoggle/84626/</link>
+      <guid isPermaLink="false">771a34f8b7e3cd93d63b5f80ea450dab49eba1b7</guid>
+      <pubDate>Fri, 19 Jun 2026 14:02:42 GMT</pubDate>
+      <description><![CDATA[“Trump’s dangerous… boondoggle will not protect Americans. It’s just a giveaway to defense contractor buddies like Elon Musk,” said US Sen. Ed Markey. Democratic lawmakers are taking aim at President Donald Trump’s proposed “Golden Dome” missile defense system, which the Congressional Budget Office projected last month would cost $1.2 trillion to create, deploy, and operate over the first […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>June 19th,1862</title>
+      <link>https://alaska-native-news.com/june-19th1862/35769/</link>
+      <guid isPermaLink="false">bb8b866c2323d933aa0d7838e3bcfd21421603f5</guid>
+      <pubDate>Fri, 19 Jun 2026 14:01:52 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>This Day in Alaskan History-June 19th, 1918</title>
+      <link>https://alaska-native-news.com/june-19th-1918/42894/</link>
+      <guid isPermaLink="false">1d534ed485b0e961edb8df82f4dbe0caa285f148</guid>
+      <pubDate>Fri, 19 Jun 2026 14:00:14 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Thursday, June 18, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17363666/newscast-thursday-june-18-2026</link>
+      <guid isPermaLink="false">1ebbd65d9fe2af291df1a70e8bb68a397eb7bc31</guid>
+      <pubDate>Fri, 19 Jun 2026 01:01:40 GMT</pubDate>
+      <description><![CDATA[In this newscast: Capital City Fire/Rescue responded to a structure fire at the site of two historic, abandoned cabins in the Mendenhall Valley Thursday afternoon. Smoke could be seen from the surrounding area. No injuries were reported; Juneau residents will have their first chance to testify in front of Juneau’s Visitor Industry Task Force Thursday at City Hall or online at 5:30 p.m; A critical deep ocean observation network that includes a long-standing station off the coast of Alaska has been saved from getting dismantled. As first reported by the New York Times, the Trump administration dropped its plan to get rid of the ocean and climate tracking system after the U.S. Senate unanimously blocked the move this week; An attorney advising the state Legislature says the Division of Elections likely lacked legal justification for disqualifying Dan. J. Sullivan of Petersburg from running in Alaska’s U.S. Senate race; Salmon is a staple traditional food in Alaska. But a growing number of Alaskans are discovering they have a unique intolerance to the fish. It’s an allergy not to the seafood itself but to the parasites that live in it.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Opinion: Senator Sullivan’s “Parents Over Platforms Act” Helps Keep Kids Save from Predatory Tech</title>
+      <link>https://mustreadalaska.com/opinion-senator-sullivans-parents-over-platforms-act-helps-keep-kids-save-from-predatory-tech/</link>
+      <guid isPermaLink="false">4bfff5e37032220a3d1072d1877b76f264e656c7</guid>
+      <pubDate>Thu, 18 Jun 2026 23:38:11 GMT</pubDate>
+      <description><![CDATA[By Sami Graham Alaska’s most recent Youth Risk Behavior Survey found that 19% of high school students reported attempting suicide at least once in the past year, more than double the rate recorded in 2011. Senator Dan Sullivan has spent years making the case that social media platforms bear real responsibility for that trend, hosting […] The post Opinion: Senator Sullivan’s “Parents Over Platforms Act” Helps Keep Kids Save from Predatory Tech appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Speakers at Kenai Rally for AK LNG Reflect on Kenai Peninsula’s Deep Roots in Oil &amp; Gas Industry</title>
+      <link>https://mustreadalaska.com/speakers-at-kenai-rally-for-ak-lng-reflect-on-kenai-peninsulas-deep-roots-in-oil-gas-industry/</link>
+      <guid isPermaLink="false">aadf512bb99e9ca1130c129d7f1864963f3164bb</guid>
+      <pubDate>Thu, 18 Jun 2026 23:09:24 GMT</pubDate>
+      <description><![CDATA[KENAI, Alaska — Hundreds of community members from across the Kenai Peninsula gathered Tuesday to voice support for Glenfarne’s Alaska LNG project and the economic opportunities it could bring to Alaska workers, businesses and families. Speakers reflected on the Kenai Peninsula’s deep roots in Alaska’s oil and gas industry and the potential for Alaska LNG […] The post Speakers at Kenai Rally for AK LNG Reflect on Kenai Peninsula’s Deep Roots in Oil & Gas Industry appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>60-day clock starts for negotiations with Iran over strait, nuclear future</title>
+      <link>https://alaskabeacon.com/2026/06/18/repub/60-day-clock-starts-for-negotiations-with-iran-over-strait-nuclear-future/</link>
+      <guid isPermaLink="false">4da28670a548ccc7274e5ea03247f5819c20ba53</guid>
+      <pubDate>Thu, 18 Jun 2026 19:57:45 GMT</pubDate>
+      <description><![CDATA[Final peace negotiations between the United States and Iran officially began Thursday, Vice President JD Vance said at a late morning press conference in Washington, starting a 60-day countdown for the Islamic Republic to safely open the Strait of Hormuz, the U.S. to lift a blockade on Iranian oil, and for the two nations to […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer Man Dies in East End Road ATV Crash</title>
+      <link>https://alaska-native-news.com/homer-man-dies-in-east-end-road-atv-crash/84634/</link>
+      <guid isPermaLink="false">4a51488761709d7e6bc253125b485dd1ba57d950</guid>
+      <pubDate>Thu, 18 Jun 2026 18:46:14 GMT</pubDate>
+      <description><![CDATA[Anchor Point Alaska State Troopers are investigating the circumstances of an ATV rider’s death that occurred early on Wednesday morning at mile 21 East End Road outside Homer. Troopers in Anchor Point were notified of a side-by-side ATV accident that occurred at mile 21 East End at 9:48 am on Wednesday and responded to […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Senator Kaufman Calls Out Senate Majority for Dealing Behind Closed Doors</title>
+      <link>https://mustreadalaska.com/senator-kaufman-calls-out-senate-majority-for-dealing-behind-closed-doors/</link>
+      <guid isPermaLink="false">9def7729619a01afca5e0556f65bafd2e8b8c4aa</guid>
+      <pubDate>Thu, 18 Jun 2026 18:30:37 GMT</pubDate>
+      <description><![CDATA[During a press conference with the Senate Republican Caucus on June 17, 2026, Senator James Kaufman (R-Anchorage) called out the Senate Majority for delaying scheduled committee meetings and “being caught in a huddle” discussing HB 381 outside of public view. “So, I felt we were on a pretty good path until just lately when suddenly, […] The post Senator Kaufman Calls Out Senate Majority for Dealing Behind Closed Doors appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Two APD Officers Struck, Suspect Killed at Walmart in Anchorage</title>
+      <link>https://alaska-native-news.com/two-apd-officers-struck-suspect-killed-at-walmart-in-anchorage/84631/</link>
+      <guid isPermaLink="false">f96589448f476d546ac6db79d504c5a47c703ec8</guid>
+      <pubDate>Thu, 18 Jun 2026 18:18:03 GMT</pubDate>
+      <description><![CDATA[At just after 10 on Tuesday night, the Anchorage Police Department were notified of a theft in progress at Walmarts on 8900 Old Seward Highway and three officers responded. They located the suspect and moved to take him into custody. As one of the officers attempted to handcuff the suspect, a struggle broke out […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Man who used stolen ID on cruise to Juneau sentenced to 4 years</title>
+      <link>https://www.juneauempire.com/2026/06/18/man-who-used-stolen-id-on-cruise-to-juneau-sentenced-to-4-years/</link>
+      <guid isPermaLink="false">e15f90273d3d2403feeda54a1365d5aeb541828e</guid>
+      <pubDate>Thu, 18 Jun 2026 17:30:00 GMT</pubDate>
       <description><![CDATA[Enrico Ronquillo used another person’s credit card information to obtain money at the ship’s casino]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>Juneau to review petition proposing rise in property tax mill rate cap</title>
-      <link>https://www.juneauempire.com/2026/06/20/juneau-to-review-petition-proposing-rise-in-property-tax-mill-rate-cap/</link>
-      <guid isPermaLink="false">9e193ebedc105c0ddf394710a2d35ba461b8a335</guid>
-      <pubDate>Sat, 20 Jun 2026 14:30:00 GMT</pubDate>
-      <description><![CDATA[The petition proposes a charter amendment to raise Juneau’s property tax cap from nine mills to 12]]></description>
+      <title>UPDATE: Fire crews making progress on 89-acre blaze in Sterling</title>
+      <link>https://www.homernews.com/2026/06/18/fire-crews-battle-50-acre-blaze-in-sterling/</link>
+      <guid isPermaLink="false">45f8598142814003ea520340c9273f85d5b12a30</guid>
+      <pubDate>Thu, 18 Jun 2026 14:30:00 GMT</pubDate>
+      <description><![CDATA[Grandview Fire burning near Swanson River Road roughly 10 miles east of Soldotna]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>OPINION: Trump’s populist promise and the billionaire takeover of America</title>
-      <link>https://www.juneauempire.com/2026/06/20/opinion-trumps-populist-promise-and-the-billionaire-takeover-of-america/</link>
-      <guid isPermaLink="false">4467c4d3fc8ec5b901b79d26befc0b325158b763</guid>
-      <pubDate>Sat, 20 Jun 2026 10:30:00 GMT</pubDate>
-      <description><![CDATA[The greatest political bait-and-switch in modern American history was not a foreign conspiracy or a stolen election, but the transformation of a populist revolt into a vehicle for billionaire rule.]]></description>
+      <title>Murkowski: “It is hard right now. Every Alaskan is feeling it.”</title>
+      <link>https://alaska-native-news.com/murkowski-it-is-hard-right-now-every-alaskan-is-feeling-it/84614/</link>
+      <guid isPermaLink="false">492a5ee982407354a0388ccd9306319081545e45</guid>
+      <pubDate>Thu, 18 Jun 2026 14:05:42 GMT</pubDate>
+      <description><![CDATA[﻿ Washington, DC— Monday, U.S. Senator Lisa Murkowski (R-AK) spoke on the Senate floor highlighting the impacts the Iran conflict has had on energy markets and prices, particularly in rural Alaska. Transcript As Delivered Madam President, like so many across the Senate, really, across the country, I think we’ve all been watching the news […]]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>Dunleavy vetoes nine bills, but Alaska lawmakers override two in special session flurry</title>
-      <link>https://alaskabeacon.com/2026/06/19/dunleavy-vetoes-nine-bills-but-alaska-lawmakers-override-two-in-special-session-flurry/</link>
-      <guid isPermaLink="false">233d82335d29cc55a1e80978169dcb43ef042eeb</guid>
-      <pubDate>Sat, 20 Jun 2026 00:59:53 GMT</pubDate>
-      <description><![CDATA[Alaska Gov. Mike Dunleavy extended his record-high veto rate Thursday by vetoing nine of the 82 bills passed by lawmakers in the second year of the 34th Alaska State Legislature. Among the vetoed bills were measures that would have provided mental health lessons to kids in public schools, created a retirement plan for private-sector workers […]]]></description>
+      <title>Letters to the editor</title>
+      <link>https://www.homernews.com/2026/06/18/letters-to-the-editor-419/</link>
+      <guid isPermaLink="false">498359044cb7e2ebec469788e62fea21bf3f5327</guid>
+      <pubDate>Thu, 18 Jun 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Scholarship will help make goals more achievable]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>Bill Mandating CPR Training in Alaska Public Schools Becomes Law</title>
-      <link>https://mustreadalaska.com/bill-mandating-cpr-training-in-alaska-public-schools-becomes-law/</link>
-      <guid isPermaLink="false">bbf0f8214ba758f3471879fa14444efc621da26e</guid>
-      <pubDate>Sat, 20 Jun 2026 00:58:59 GMT</pubDate>
-      <description><![CDATA[Today, June 18, 2026, House Bill 27 became law. This legislation requires public schools to teach Hands-Only CPR education to all students before high school graduation and expands how Alaska responds to life-threatening medical emergencies like heart attacks and strokes. The bill had passed the Senate unanimously and the House by a vote of 27-13. The law went into effect without the Governor’s signature. […] The post Bill Mandating CPR Training in Alaska Public Schools Becomes Law appeared first on Must Read Alaska .]]></description>
+      <title>Homer Pet of the Week: Lola</title>
+      <link>https://www.homernews.com/2026/06/18/homer-pet-of-the-week-lola/</link>
+      <guid isPermaLink="false">7b2c8293dde41a1a6756b3dd4e6669a8fe69a047</guid>
+      <pubDate>Thu, 18 Jun 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Lola is ready to share a life full of love and adventure]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>South Korea tops Alaska’s list of unofficial second teams for FIFA World Cup 2026</title>
-      <link>https://www.homernews.com/2026/06/19/south-korea-tops-alaskas-list-of-unofficial-second-teams-for-fifa-world-cup-2026/</link>
-      <guid isPermaLink="false">939a4e360cdf33c8c72d2b888d975ff14b4069cc</guid>
-      <pubDate>Sat, 20 Jun 2026 00:30:00 GMT</pubDate>
-      <description><![CDATA[Alaska is home to 3,188 foreign-born South Korean residents]]></description>
+      <title>Alaska study sees mixed results on links between kelp farms and CO2 levels</title>
+      <link>https://www.homernews.com/2026/06/18/alaska-study-sees-mixed-results-on-links-between-kelp-farms-and-co2-levels/</link>
+      <guid isPermaLink="false">8d09bf671b355ee8b43aa1d9a74eb6b100122458</guid>
+      <pubDate>Thu, 18 Jun 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[University of Alaska Fairbank study finds Alaska kelp farms have varied effects on marine CO2 levels]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>Former Republican State Senator Natasha von Imhof Launches Campaign for Anchorage Mayor</title>
-      <link>https://mustreadalaska.com/former-republican-state-senator-natasha-von-imhof-launches-campaign-for-anchorage-mayor/</link>
-      <guid isPermaLink="false">a248ab8f45d0f67589ef3057ec15193e613947a0</guid>
-      <pubDate>Sat, 20 Jun 2026 00:08:57 GMT</pubDate>
-      <description><![CDATA[ANCHORAGE — Natasha von Imhof today officially launched her campaign for Mayor of Anchorage, calling for a new era of disciplined leadership, economic growth, and accountable city government. Following her initial public filing in May, von Imhof’s campaign is starting its formal launch with the release of her campaign website, votevon.com, and a policy platform […] The post Former Republican State Senator Natasha von Imhof Launches Campaign for Anchorage Mayor appeared first on Must Read Alaska .]]></description>
+      <title>Homer Steps Up participants log over 3.2 million steps</title>
+      <link>https://www.homernews.com/2026/06/18/homer-steps-up-participants-log-over-3-2-million-steps/</link>
+      <guid isPermaLink="false">5c9d6f8b104aefe5ed8219f9e33dced61cd591bc</guid>
+      <pubDate>Thu, 18 Jun 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[This year’s challenge welcomed 645 participants across 86 teams]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>2 Veto Overrides Impact Pharmacists, Architects, Engineers, Land Surveyors</title>
-      <link>https://mustreadalaska.com/2-veto-overrides-impact-pharmacists-architects-engineers-land-surveyors/</link>
-      <guid isPermaLink="false">ffd7fa9f55d04ef869446f94c571e375b75c36b0</guid>
-      <pubDate>Fri, 19 Jun 2026 23:21:26 GMT</pubDate>
-      <description><![CDATA[Today, June 19, 2026, the Alaska State Legislature held a joint floor session to vote on overriding 5 of 9 vetoes issued by Governor Dunleavy yesterday. Each bill required a 2/3rd vote of the Legislature, meaning 40 “yes” votes. 2 vetoes were overridden: HB 195 and HB 314. HB 195 expands pharmacists’ authority to prescribe […] The post 2 Veto Overrides Impact Pharmacists, Architects, Engineers, Land Surveyors appeared first on Must Read Alaska .]]></description>
+      <title>All Life Comes from Life: The Enduring Wisdom of Natural Law, Science, and the Mystery of Consciousness</title>
+      <link>https://mustreadalaska.com/all-life-comes-from-life-the-enduring-wisdom-of-natural-law-science-and-the-mystery-of-consciousness/</link>
+      <guid isPermaLink="false">755b94a87133a9a7b9d992104fb2342f4479baf2</guid>
+      <pubDate>Thu, 18 Jun 2026 01:15:11 GMT</pubDate>
+      <description><![CDATA[My husband and I were recently visiting with our grandchildren in the Lower 48 and found ourselves watching a show called Wild Kratts, which teaches children about animals and their habitats. The episode we watched concerned the Butternut Tree and its possible extinction, taking the audience through the life of a Butternut tree from nut […] The post All Life Comes from Life: The Enduring Wisdom of Natural Law, Science, and the Mystery of Consciousness appeared first on Must Read Alaska .]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>9 Bills Vetoed: What’s the Gist? What Were the Votes? Why the Veto?</title>
-      <link>https://mustreadalaska.com/9-bills-vetoed-whats-the-gist-what-were-the-votes-why-the-veto/</link>
-      <guid isPermaLink="false">9eaeecd90070037c9fafe4e19f7b54b6e10a0333</guid>
-      <pubDate>Fri, 19 Jun 2026 20:46:17 GMT</pubDate>
-      <description><![CDATA[On June 18, 2026, Governor Dunleavy vetoed 9 bills. Below is a brief description of each bill, a link to the full bill text, the House vote, Senate vote, and the Governor’s reason for vetoing. The Legislature may attempt a veto override by the end of today, June 19, or within five days of a […] The post 9 Bills Vetoed: What’s the Gist? What Were the Votes? Why the Veto? appeared first on Must Read Alaska .]]></description>
+      <title>Newscast – Wednesday, June 17, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17363049/newscast-wednesday-june-17-2026</link>
+      <guid isPermaLink="false">b9a6dda89adc49b8dc9a9d2d06336aac890d5421</guid>
+      <pubDate>Thu, 18 Jun 2026 00:59:21 GMT</pubDate>
+      <description><![CDATA[In this newscast: The local firefighter union and the City and Borough of Juneau reached an agreement on a labor contract last week; Gov. Mike Dunleavy has until tomorrow to veto or sign two dozen bills into law; Denali National Park's sled dog puppies will begin sowing off their training to visitors this month; Residents of Anuktuvuk Pass can now use four wheelers to subsistence hunt in the Gates of the Arctic National Park and Preserve]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>State AG asks Alaska Supreme Court to compel Fairbanks district to open charter school</title>
-      <link>https://alaskabeacon.com/2026/06/19/state-ag-asks-alaska-supreme-court-to-compel-fairbanks-district-to-open-charter-school/</link>
-      <guid isPermaLink="false">ba01a0699efe236a08a318d04152eea1b033874d</guid>
-      <pubDate>Fri, 19 Jun 2026 20:00:57 GMT</pubDate>
-      <description><![CDATA[Alaska’s acting attorney general filed an emergency petition with the Alaska Supreme Court to compel the Fairbanks North Star Borough School District to open a charter school whose application the district previously denied. The petition comes one day after a Fairbanks judge denied a preliminary injunction filed by the local charter group that sought to […]]]></description>
+      <title>Newscast – Thursday, June 11, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17359795/newscast-thursday-june-11-2026</link>
+      <guid isPermaLink="false">b045a3bb87f2893f5d86a64e36e1d3a83c1bc4d2</guid>
+      <pubDate>Fri, 12 Jun 2026 00:59:39 GMT</pubDate>
+      <description><![CDATA[In this newscast: A Safe Place initiative for youth in crisis arrives in Juneau; An 89-year-old woman died in Juneau today from injuries suffered during a crash yesterday; Republican lawmakers are working to repeal the Roadless Rule through Congress; The University of Alaska's largest union filed an unfair labor practice complaint last week; Alaska is one of only two states that saw increased participation in SNAP last year; The minimum wage in Alaska will jump to $14 on July 1; A federal judge ruled against a group of Alaskans seeking to force the state to process SNAP applications on time]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>Governor Dunleavy Vetoes Government Expansion Bill Passed Unanimously by Legislature</title>
-      <link>https://mustreadalaska.com/governor-dunleavy-vetoes-government-expansion-bill-passed-unanimously-by-legislature/</link>
-      <guid isPermaLink="false">de7b1bcb785f0d57b80900718f346a588ac31d2f</guid>
-      <pubDate>Fri, 19 Jun 2026 19:34:00 GMT</pubDate>
-      <description><![CDATA[On June 18, 2026, Governor Dunleavy vetoed HB 23, a Democrat sponsored bill that passed both the House and the Senate unanimously. HB 23 attempts to change the name of the Alaska’s Commission for Human Rights to the Commission for Civil Rights and expand it’s authority. Under current Alaska law, the Alaska Commission for Human […] The post Governor Dunleavy Vetoes Government Expansion Bill Passed Unanimously by Legislature appeared first on Must Read Alaska .]]></description>
+      <title>Newscast – Wednesday, June 10, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17359243/newscast-wednesday-june-10-2026</link>
+      <guid isPermaLink="false">0cc35440522a784492821ce5f15b567ddbab7cdd</guid>
+      <pubDate>Thu, 11 Jun 2026 00:59:29 GMT</pubDate>
+      <description><![CDATA[In this newscast: Assembly members Christine Woll, Alicia Hughes-Skandijs not running for reelection this fall; Juneau Assembly addresses a fairness issue regarding glacial outburst flood wall funding; Back Loop Bridge trailhead closed for glacial outburst flood wall construction; What earrings mean at Celebration, to buyers and sellers]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>U.S. scientific instruments in oceans off Alaska and elsewhere to remain in place</title>
-      <link>https://alaskabeacon.com/2026/06/19/u-s-scientific-instruments-in-oceans-off-alaska-and-elsewhere-to-remain-in-place/</link>
-      <guid isPermaLink="false">269142ae10339c150a08a31a70213fbf500429eb</guid>
-      <pubDate>Fri, 19 Jun 2026 13:15:19 GMT</pubDate>
-      <description><![CDATA[Hundreds of sophisticated monitoring instruments will remain in place in the nation’s oceans, thanks to a National Science Foundation reversal of its plan to partially dismantle the system. The federal agency announced on Thursday that it is dropping its plan to remove hundreds of instruments from the Ocean Observatories Initiative program. The program encompasses more […]]]></description>
+      <title>Newscast – Friday, June 5, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17355099/newscast-friday-june-5-2026</link>
+      <guid isPermaLink="false">9ac74d798dc37bf4196ddcbc5c8aeb5ea7de3bc3</guid>
+      <pubDate>Sat, 06 Jun 2026 01:06:35 GMT</pubDate>
+      <description><![CDATA[In this newscast: The Alaska State Board of Education unanimously approved a new master's in teaching program for Indigenous languages at the University of Alaska Southeast Thursday; Residents will have a chance to testify on some major budget topics and glacial outburst funding decisions at the Juneau Assembly's upcoming meeting on Monday; An unusual partnership is sailing Alaska's waters this summer; Leqpquinm Gumilgit Gagoadim Tsmsyen Dancers leader Se'iga Liimii Marcella Asicksik talks about a song her dance group wrote for Celebration.]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>As Alaska gasline special session nears end, additional session looms and Senate prepares to vote</title>
-      <link>https://alaskabeacon.com/briefs/as-alaska-gasline-special-session-nears-end-additional-session-looms-and-senate-prepares-to-vote/</link>
-      <guid isPermaLink="false">e2d1bfd8b226f3e653099ef3778ef4a1116bac80</guid>
-      <pubDate>Fri, 19 Jun 2026 01:56:51 GMT</pubDate>
-      <description><![CDATA[If Alaska lawmakers do not vote by 11:59 p.m. Friday on a bill offering a tax break to the proposed trans-Alaska natural gas pipeline project, Gov. Mike Dunleavy says he will call them into another 30-day special session. In a message on social media, Dunleavy said legislators are making progress on the issue, but if […]]]></description>
-      <category>local</category>
+      <title>Leadership uncertainty 'enormously disruptive', former top civil servant warns</title>
+      <link>https://www.bbc.com/news/articles/cpq3n5g218no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">434cf24b66df150ad8ec927d8bb5824784184587</guid>
+      <pubDate>Sun, 21 Jun 2026 05:48:45 GMT</pubDate>
+      <description><![CDATA[Speaking on Sunday with Laura Kuenssberg, the former Cabinet Secretary said leadership transitions are "enormously disruptive".]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Feds sending $99 million in aid to address three declared Alaska fishery disasters</title>
-      <link>https://alaskabeacon.com/briefs/feds-sending-99-million-in-aid-to-address-three-declared-alaska-fishery-disasters/</link>
-      <guid isPermaLink="false">66ec4fc3e07b9fcfb9fe8f3e6827f44fc3ec74a9</guid>
-      <pubDate>Thu, 18 Jun 2026 21:06:58 GMT</pubDate>
-      <description><![CDATA[Alaska has been allocated about $99 million in new fishery disaster assistance, making up the majority of the $123.6 million in aid that federal officials on Wednesday said is headed to Alaska, Washington, Oregon and California. In Alaska, the money is to address previously declared fishery disasters for Bering Sea snow crab and Chignik and […]]]></description>
+      <title>US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz</title>
+      <link>https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">76a2fd91a26a0fd4584a7803f7919670b7d235df</guid>
+      <pubDate>Sun, 21 Jun 2026 04:34:00 GMT</pubDate>
+      <description><![CDATA[The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Meet the record-equalling keeper who helped Curacao make history</title>
+      <link>https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1ccfa3c3690e585880d7a941f521467474560a82</guid>
+      <pubDate>Sun, 21 Jun 2026 04:29:28 GMT</pubDate>
+      <description><![CDATA[Curacao's Eloy Room makes a record-equalling 15 saves to help his tiny island nation to a first World Cup point against Ecuador.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Josh Hart brings receipts as Stephen A Smith admits he was 'beyond wrong' about the Knicks</title>
+      <link>https://www.foxnews.com/sports/josh-hart-brings-receipts-stephen-smith-admits-beyond-wrong-knicks</link>
+      <guid isPermaLink="false">ebb7271fc9b5db671dd21a2671325d6e9f16a7f0</guid>
+      <pubDate>Sun, 21 Jun 2026 02:13:59 GMT</pubDate>
+      <description><![CDATA[Stephen A. Smith apologizes to Jalen Brunson and Josh Hart for past Knicks comments during a live taping of the "Roommates Show" podcast at MSG on Friday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>African and Caribbean leaders call for payments, debt cancellation, formal apologies over slavery</title>
+      <link>https://www.foxnews.com/world/african-caribbean-leaders-call-payments-debt-cancellation-formal-apologies-over-slavery</link>
+      <guid isPermaLink="false">8d7bd78c61b43b47e18dacd42e0acb81d5d2aaf6</guid>
+      <pubDate>Sun, 21 Jun 2026 02:10:02 GMT</pubDate>
+      <description><![CDATA[African and Caribbean leaders adopted a 19-point reparations plan in Ghana demanding financial compensation, debt cancellation and formal apologies.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fan hops fence during red-flagged NASCAR race at San Diego's Naval Base Coronado to meet a driver</title>
+      <link>https://www.foxnews.com/outkick-sports/fan-hops-fence-red-flagged-nascar-race-san-diegos-naval-base-coronado-meet-driver</link>
+      <guid isPermaLink="false">57265fcfe86a9de07baa49e9093623061a3f0098</guid>
+      <pubDate>Sun, 21 Jun 2026 01:50:15 GMT</pubDate>
+      <description><![CDATA[A fan scaled fences in flip-flops during a red flag at NASCAR's San Diego race to chat with Sheldon Creed, echoing a similar 2007 Watkins Glen incident.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Keir Starmer reportedly considering stepping down as PM and could announce timetable for departure</title>
+      <link>https://www.foxnews.com/world/keir-starmer-reportedly-considering-stepping-pm-could-announce-timetable-departure</link>
+      <guid isPermaLink="false">02390fbf246c91c00b1dadbb065c7a4bc557ec50</guid>
+      <pubDate>Sun, 21 Jun 2026 01:04:13 GMT</pubDate>
+      <description><![CDATA[British PM Keir Starmer is reportedly considering stepping down, with senior Labour figures expecting a statement on his future as early as next week.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Jazz Chisholm explains why he still won't wear a cup after fouling a pitch into his own groin</title>
+      <link>https://www.foxnews.com/sports/jazz-chisholm-explains-still-wont-wear-cup-fouling-pitch-groin</link>
+      <guid isPermaLink="false">8e5fe0882851494ae658eb4c4ab0061909c0deb7</guid>
+      <pubDate>Sun, 21 Jun 2026 01:00:05 GMT</pubDate>
+      <description><![CDATA[Yankees second baseman Jazz Chisholm explains why he doesn't wear a protective cup despite fouling a pitch into his groin and leaving the game.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent</title>
+      <link>https://www.foxnews.com/world/h5n1-bird-flu-confirmed-australia-first-time-meaning-virus-reached-every-continent</link>
+      <guid isPermaLink="false">fe39b248442fade600e34fbc901d7377158bcdb5</guid>
+      <pubDate>Sun, 21 Jun 2026 00:52:28 GMT</pubDate>
+      <description><![CDATA[Australia confirms its first case of H5N1 bird flu in a seabird near Esperance, Western Australia, meaning the virus has now reached every continent.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Pope Leo sends unmistakable message on immigrants during visit honoring America's first saint</title>
+      <link>https://www.foxnews.com/politics/pope-leo-sends-unmistakable-message-immigrants-visit-honoring-americas-first-saint</link>
+      <guid isPermaLink="false">715c6c5dc1294e9e6c0bfef00397425633f0813b</guid>
+      <pubDate>Sun, 21 Jun 2026 00:40:25 GMT</pubDate>
+      <description><![CDATA[Pope Leo XIV honored St. Frances Xavier Cabrini, patron saint of immigrants, delivering his latest appeal on behalf of migrants amid friction with President Donald Trump.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>From factory floor to World Cup star - Germany's super-sub Undav</title>
+      <link>https://www.bbc.com/sport/football/articles/c8r2pm4xrxro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fbb278b7f72aa872a72002d47b48dc5ca2249eb0</guid>
+      <pubDate>Sun, 21 Jun 2026 00:22:07 GMT</pubDate>
+      <description><![CDATA[It was not long ago that his manager Julian Nagelsmann called him out openly - but Deniz Undav is proving himself a key player for Germany at the World Cup.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Angel Reese opens up on singing Black National Anthem while Fever fans booed her</title>
+      <link>https://www.foxnews.com/outkick-sports/angel-reese-opens-singing-black-national-anthem-fever-fans-booed</link>
+      <guid isPermaLink="false">7d2fa3a5f0e0db30376d823d9c6522b3049eccbb</guid>
+      <pubDate>Sun, 21 Jun 2026 00:15:20 GMT</pubDate>
+      <description><![CDATA[Angel Reese explains why she sang 'Lift Every Voice and Sing' at Indiana, citing boos from Fever fans and her pride in being a Black woman in the WNBA.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?</title>
+      <link>https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">73cfad4cbbdf5f5b315376e9f416de541dea4ffa</guid>
+      <pubDate>Sat, 20 Jun 2026 23:46:26 GMT</pubDate>
+      <description><![CDATA[The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Colombia's escalating, brutal internal conflict is defining its presidential election</title>
+      <link>https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">faf40d3fb79ce926037cf499218851b0fcde746e</guid>
+      <pubDate>Sat, 20 Jun 2026 23:17:51 GMT</pubDate>
+      <description><![CDATA[A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say</title>
+      <link>https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a495715f1e14978e89c72756b9ca20cddb7487e7</guid>
+      <pubDate>Sat, 20 Jun 2026 21:57:36 GMT</pubDate>
+      <description><![CDATA[The Israeli military accused Ahmed Wishah of being a "Hamas sniper operative", without providing evidence.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Extreme heat to grip the Pacific Southwest with millions at risk of triple-digit temperatures</title>
+      <link>https://www.foxweather.com/weather-news/extreme-heat-pacific-northwest-millions-triple-digit-temperatures</link>
+      <guid isPermaLink="false">85bddad0fb64227f867c850cec375abc1e13bc8e</guid>
+      <pubDate>Sat, 20 Jun 2026 21:49:25 GMT</pubDate>
+      <description><![CDATA[Extreme heat is headed for Southern California, with temperatures topping 100 degrees in some areas. It comes as hundreds of thousands of visitors flock to California for the FIFA World Cup.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Lost Oregon hiker fell to death from cliff on Alaska trail, troopers say</title>
-      <link>https://www.juneauempire.com/2026/06/18/lost-oregon-hiker-fell-to-death-from-cliff-on-alaska-trail-troopers-say/</link>
-      <guid isPermaLink="false">3b506a7fa4de82878d5fc999fbaa4c92cb51bdf9</guid>
-      <pubDate>Thu, 18 Jun 2026 16:30:00 GMT</pubDate>
-      <description><![CDATA[An Oregon man who got lost during a hike in southeast Alaska over the weekend died after he apparently fell off a cliff, authorities said.]]></description>
-      <category>local</category>
+      <title>King Charles to reveal personal tax bill for first time as monarch</title>
+      <link>https://www.bbc.com/news/articles/c5yzlk582pzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">509f5f6411ce023ce491097cb843a823a44b47c0</guid>
+      <pubDate>Sat, 20 Jun 2026 21:04:00 GMT</pubDate>
+      <description><![CDATA[For the first time, the annual financial report for the royals will include how much tax is paid by the monarch.]]></description>
+      <category>politics</category>
     </item>
     <item>
-      <title>Trio recreates Alaska Highway journey after more than a half century</title>
-      <link>https://www.homernews.com/2026/06/18/trio-recreates-alaska-highway-journey-after-more-than-a-half-century/</link>
-      <guid isPermaLink="false">4f56d1d4d7ef9f5a9db046b5eb53922b661e6c65</guid>
-      <pubDate>Thu, 18 Jun 2026 15:30:00 GMT</pubDate>
-      <description><![CDATA[The 1969 adventure shaped the lives of Gregory Theim, Ty Pierce, and Gary Gleaves]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Newscast – Monday, June 15, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17361792/newscast-monday-june-15-2026</link>
-      <guid isPermaLink="false">5ee8e47a7a55e2163e2e52e145e0810df0d83b9e</guid>
-      <pubDate>Tue, 16 Jun 2026 00:59:23 GMT</pubDate>
-      <description><![CDATA[In this newscast: A citizen ballot proposition that would add a new seasonal sales tax will appear on the local ballot this fall election; Six new firefighters officially joined Capital City Fire/Rescue after completing a year-long apprenticeship; Alaska allows at least some late-arriving ballots to be counted as long as they are postmarked by election day, but a U.S. Supreme Court ruling could complicate that; Planned Parenthood of Alaska is suing the state to expand access to abortion medication via telehealth]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Newscast – Friday, June 12, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17360328/newscast-friday-june-12-2026</link>
-      <guid isPermaLink="false">3af3970eb923a416b50aec49183621899b6adb99</guid>
-      <pubDate>Sat, 13 Jun 2026 00:59:13 GMT</pubDate>
-      <description><![CDATA[In this newscast: A plan to build a $500 million cruise ship port on the backside of Douglas Island is taking shape, and tourism leaders and North Douglas residents have a lot of questions; The Alaska House passed a bill this afternoon tat would reduce taxes on the planned Alaska LNG project; A Juneau artist created a magazine where Indigenous artists and writers to share their perspectives without having to reduce or simplify them; Sport fishermen will be able to catch and keep king salmon in Haines for the first time in over a decade starting Monday]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Newscast – Tuesday, June 9, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17357261/newscast-tuesday-june-9-2026</link>
-      <guid isPermaLink="false">432d00fa47da9f3c6704058b23a607be984f13a0</guid>
-      <pubDate>Wed, 10 Jun 2026 00:59:32 GMT</pubDate>
-      <description><![CDATA[In this newscast: The City and Borough of Juneau has a finalized budget for the next fiscal year, but it didn't come easy; This Celebration counted some political candidates among its attendees; Former Gov. Bill Walker wants to end the Permanent Fund dividend with a one-time $10,000 payment to each eligible Alaskan; The State of Alaska has opened an investigation into whether Dan Sullivan of Petersburg is intentionally running for U.S. Senate to confuse voters]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Newscast – Monday, June 8, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17356651/newscast-monday-june-8-2026</link>
-      <guid isPermaLink="false">b2fb4060a4cb5a0f91aef5a5b104cdc5926e881a</guid>
-      <pubDate>Tue, 09 Jun 2026 00:59:00 GMT</pubDate>
-      <description><![CDATA[In this newscast: A Juneau family reported a 29-year old man missing on Friday. He was last seen on May 26 near Safeway; The Juneau School Board will decide on whether to adopt the school district’s new strategic plan Tuesday night at its last regular meeting of the fiscal year; Tickets at Eaglecrest Ski Area are about to get more expensive; The U.S. Forest Service is now saying mining interests played an important role in its decision to cancel a recreational cabin project near Juneau’s Herbert Glacier, after denying it months ago; The Tlingit Culture, Language and Literacy program unveiled a Lingit comic book during Celebration last week; A sale on oil and gas drilling rights in the Arctic National Wildlife Refuge garnered more than $3.7 million in winning bids]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>James Burrows, legendary Hollywood director behind 'Cheers,' 'Friends' and 'Will &amp; Grace,' dies at 85</title>
-      <link>https://www.foxnews.com/entertainment/james-burrows-legendary-hollywood-director-behind-cheers-friends-grace-dies-85</link>
-      <guid isPermaLink="false">5da667c94e8a7c6b626eb554ae00c811fd07043a</guid>
-      <pubDate>Sat, 20 Jun 2026 23:42:07 GMT</pubDate>
-      <description><![CDATA[James Burrows, the legendary "king of the multi-cam sitcom" who directed "Cheers," "Friends" and "Will & Grace," died at 85 surrounded by his loving family.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Three men killed following fire in west London</title>
-      <link>https://www.bbc.com/news/articles/c79yqrevgg1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">08e3c291d56f3291e478afb0bd249f0e45fd896f</guid>
-      <pubDate>Sat, 20 Jun 2026 23:29:34 GMT</pubDate>
-      <description><![CDATA[The men were rescued from a pavilion in White City but died shortly after, authorities said.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Former Olympian among those charged with vandalizing Reflecting Pool, Trump vows immediate repairs: report</title>
-      <link>https://www.foxnews.com/politics/former-olympian-among-charged-vandalizing-reflecting-pool-trump-vows-immediate-repairs-report</link>
-      <guid isPermaLink="false">efda097359796a241c2a815bfdda9ecf0202fcc9</guid>
-      <pubDate>Sat, 20 Jun 2026 23:24:50 GMT</pubDate>
-      <description><![CDATA[Multiple people were allegedly arrested for vandalizing the Lincoln Memorial Reflecting Pool, prompting President Donald Trump to warn of serious jail time.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Why the social media ban is about so much more than social media</title>
-      <link>https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">67cc5ca00885a7e007d3838781281ade3eb2fcab</guid>
-      <pubDate>Sat, 20 Jun 2026 23:18:12 GMT</pubDate>
-      <description><![CDATA[If we are witnessing a profound shift in the online space, how will it reshape our relationship with it? Technology and AI editor Zoe Kleinman writes.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Man charged after suspected anti-Muslim attacks in Edinburgh</title>
-      <link>https://www.bbc.com/news/articles/cx2xg6lwz5jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e1a73ae5b6fb8457edabaf9ccea1296123f9a334</guid>
-      <pubDate>Sat, 20 Jun 2026 23:17:05 GMT</pubDate>
-      <description><![CDATA[Two people were injured close to a mosque and a man was later seen battering the door of a pizzeria as members of the public run away.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Cowboy-hatted Swedish World Cup fan should be Buc-ee’s next spokesman after singing its praises on local TV</title>
-      <link>https://www.foxnews.com/outkick-sports/cowboy-hatted-swedish-world-cup-fan-buc-ees-next-spokesman-singing-praises-local-tv</link>
-      <guid isPermaLink="false">80aa455a5902c283c29c9dae0c7b4471bb9e64a6</guid>
-      <pubDate>Sat, 20 Jun 2026 22:59:12 GMT</pubDate>
-      <description><![CDATA[Swedish soccer fan discovers Buc-ee's during the World Cup in Texas, raving about beef jerky and cowboy hats in a viral local news interview.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Counterterrorism officials investigating after suspect goes on rampage in alleged hate attack: report</title>
-      <link>https://www.foxnews.com/world/counterterrorism-officials-investigating-suspect-rampage-alleged-hate-attack</link>
-      <guid isPermaLink="false">3cec7a0a6def1f4a5ced809defb0b037e8e85aff</guid>
-      <pubDate>Sat, 20 Jun 2026 22:50:35 GMT</pubDate>
-      <description><![CDATA[Counterterrorism officials investigate after a suspect allegedly went on an anti-Muslim rampage in Edinburgh, leaving five men injured near a mosque and anohter location.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Popular beaches closed as high bacteria levels raise health concerns for swimmers</title>
-      <link>https://www.foxnews.com/travel/popular-beaches-closed-high-bacteria-levels-raise-health-concerns-swimmers</link>
-      <guid isPermaLink="false">d57208a6b3945158bd81e0483fba3a1f79123006</guid>
-      <pubDate>Sat, 20 Jun 2026 22:47:04 GMT</pubDate>
-      <description><![CDATA[Several states warn beachgoers about elevated bacteria levels this summer, with beach closures in Iowa, Massachusetts, New Jersey and Washington state.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Landman' star Michelle Randolph stuns in barely-there metallic yellow bikini in new summer photo dump</title>
-      <link>https://www.foxnews.com/entertainment/landman-star-michelle-randolph-stuns-barely-metallic-yellow-bikini-new-summer-photo-dump</link>
-      <guid isPermaLink="false">0badc97e0257bd21debfab582511113d3913bf5c</guid>
-      <pubDate>Sat, 20 Jun 2026 22:34:44 GMT</pubDate>
-      <description><![CDATA["Landman" star Michelle Randolph stuns in a metallic yellow bikini as she shares a summer photo dump celebrating the month of June with friends.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Obama Presidential Center follows widely mocked 'stolen land' acknowledgment with Native American dance show</title>
-      <link>https://www.foxnews.com/politics/obama-presidential-center-follows-widely-mocked-stolen-land-acknowledgment-native-american-dance-show</link>
-      <guid isPermaLink="false">742485614f5ff584ba817f519af52c1705998599</guid>
-      <pubDate>Sat, 20 Jun 2026 22:20:22 GMT</pubDate>
-      <description><![CDATA[Critics mocked the Obama Presidential Center's "land acknowledgement" as performative, while the center hosted Native American dance performances Saturday.]]></description>
-      <category>culture</category>
-    </item>
-    <item>
-      <title>Extreme heat warning expanded as 37C heatwave approaches UK</title>
-      <link>https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0846bd89eb262cf6dd3ba8bf1fbfc51504d5d696</guid>
-      <pubDate>Sat, 20 Jun 2026 20:10:28 GMT</pubDate>
-      <description><![CDATA[After a slightly cooler Saturday, temperatures will rise again, possibly touching 36C by Tuesday with a Met Office amber extreme heat warning set to come into force.]]></description>
+      <title>Repeated storms could unleash dangerous flash flooding in the South through next week</title>
+      <link>https://www.foxweather.com/weather-news/repeated-rounds-heavy-rain-risk-flash-flooding-south</link>
+      <guid isPermaLink="false">5f3f9ace77770578cedf3a70233a0bafa7367647</guid>
+      <pubDate>Sat, 20 Jun 2026 20:54:55 GMT</pubDate>
+      <description><![CDATA[As the official start of summer is almost upon us, millions of Americans look to enjoy the great outdoors and hit the beach, but unfortunately, people in the South may not be so lucky.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Tourist dies in Dominican Republic luxury resort fire</title>
-      <link>https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a4e347d99aee5c4a5b44d894b7278e9cccd97172</guid>
-      <pubDate>Sat, 20 Jun 2026 17:33:25 GMT</pubDate>
-      <description><![CDATA[Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.]]></description>
+      <title>Lebanese turtle conservationist Mona Khalil killed by Israeli strike</title>
+      <link>https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">35acf2dbbfb2f4dbb560f6f248618545cb229a0b</guid>
+      <pubDate>Sat, 20 Jun 2026 17:40:43 GMT</pubDate>
+      <description><![CDATA[Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Summer bummer: Rain to impact millions in the Northeast right as official start to summer begins</title>
-      <link>https://www.foxweather.com/weather-news/summer-bummer-rain-millions-northeast</link>
-      <guid isPermaLink="false">1fbf83e88dc7d0fc8067de7ba97953b5605692e9</guid>
-      <pubDate>Sat, 20 Jun 2026 15:51:54 GMT</pubDate>
-      <description><![CDATA[If you were hoping for nice summer beach weather to start the season, you may have to wait a bit longer. After a wet spring in the East, summer is starting off the same way. The season officially starts Sunday morning, and rain is back in the forecast Monday through midweek.]]></description>
+      <title>BBC sees destroyed villages in Israeli-occupied southern Lebanon</title>
+      <link>https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9528c3f9efc76ed45776e191debd7121dfbc5531</guid>
+      <pubDate>Sat, 20 Jun 2026 16:37:03 GMT</pubDate>
+      <description><![CDATA[Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Zelensky returns highest Polish honour after award stripped</title>
+      <link>https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d239a7c69db4292b332ac02c02da37dc0bb8cfce</guid>
+      <pubDate>Sat, 20 Jun 2026 16:34:15 GMT</pubDate>
+      <description><![CDATA[Ukraine's president said his country was open to "engagement" about "difficult and painful chapters of our shared past".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Opinion: Algae doesn't care about our party lines</title>
+      <link>https://www.npr.org/2026/06/20/nx-s1-5854977/opinion-algae-doesnt-care-about-our-party-lines</link>
+      <guid isPermaLink="false">4882ec31fa6bc66a349e37f268ecc68835745521</guid>
+      <pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
+      <description><![CDATA[President Trump's beautification project of the Lincoln Memorial Reflecting Pool has become plagued with a robust algae bloom, despite a $14 million investment and a coating of "American flag blue."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Talk of Starmer staying on to fight is fading - fast</title>
+      <link>https://www.bbc.com/news/articles/cjeg7p5w4y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">32f8c4828959a3268bfa77066bd712b8530b4fe3</guid>
+      <pubDate>Sat, 20 Jun 2026 11:33:50 GMT</pubDate>
+      <description><![CDATA[After Andy Burnham’s by-election victory, support for the prime minister is evaporating, writes Laura Kuenssberg.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>James Burrows, director of classic shows 'Cheers' and 'Friends,' dies at 85</title>
+      <link>https://www.npr.org/2026/06/19/g-s1-129137/james-burrows-death-obit-cheers-friends</link>
+      <guid isPermaLink="false">445c5f06cffe4ef856c3023333506de995b15d58</guid>
+      <pubDate>Fri, 19 Jun 2026 21:16:15 GMT</pubDate>
+      <description><![CDATA[Burrows spent his career behind the camera specializing in situation comedies. Few viewers recognized him or knew his name, other than to see it flash quickly on the screen in the opening credits. But they knew his work.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Italy's Meloni, once Trump's closest ally in Europe, says he made up a story about her</title>
+      <link>https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg</link>
+      <guid isPermaLink="false">a2bb9ce18859be2afeb783fc19b0db5b62d637e1</guid>
+      <pubDate>Fri, 19 Jun 2026 20:32:35 GMT</pubDate>
+      <description><![CDATA["Italy and I do not beg," Meloni said in a video rebuke posted on social media Friday. Italy's top diplomat, meanwhile, said he was cancelling a visit to the U.S because of the alleged remarks.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Algae clouded Trump's vision for the Reflecting Pool. But scientists aren't surprised</title>
+      <link>https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump</link>
+      <guid isPermaLink="false">69fcf6121ff19ac072b36c1f5078c176f8c4ba8b</guid>
+      <pubDate>Fri, 19 Jun 2026 15:43:05 GMT</pubDate>
+      <description><![CDATA[The shallow, sunny waters of the reflecting pool are an ideal incubator for algae growth in the summertime. Experts say the recent renovation may have helped accelerate it.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Road worker killed in Mississippi while assisting in storm cleanup efforts</title>
+      <link>https://www.foxweather.com/weather-news/road-worker-killed-mississippi-storm-cleanup-operations</link>
+      <guid isPermaLink="false">0cf21fb707579dad7ce33549d4599174bdc30e1e</guid>
+      <pubDate>Fri, 19 Jun 2026 00:23:50 GMT</pubDate>
+      <description><![CDATA[A road cleanup crew member was killed in Mississippi during storm recovery efforts after severe weather and dangerous flooding triggered by the remnants of Tropical Storm Arthur swept across the region.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Meloni tells Trump to 'focus on your own popularity' as row escalates</title>
-      <link>https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1300e319fa25bc4f5c620c989c62f8f61728b759</guid>
-      <pubDate>Sat, 20 Jun 2026 15:31:12 GMT</pubDate>
-      <description><![CDATA[The US president earlier questioned Meloni's popularity after suggesting she "begged" for a photo at G7 summit]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nine people in critical condition among 100 injured in fatal Bedford train crash</title>
-      <link>https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">34aeb36464123a38b0eec1cc6651e34a483b4ce4</guid>
-      <pubDate>Sat, 20 Jun 2026 15:30:12 GMT</pubDate>
-      <description><![CDATA[British Transport Police says the collision, which killed a train driver, is being investigated.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bolivian president declares state of emergency</title>
-      <link>https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6d4a43306ed53c3233d7c8a958ebba5b5d40e491</guid>
-      <pubDate>Sat, 20 Jun 2026 15:27:09 GMT</pubDate>
-      <description><![CDATA[The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Why Harry Kane is different at this tournament</title>
-      <link>https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3d181457ad2f61a1b0dbd00b6edf2852a22979f0</guid>
-      <pubDate>Sat, 20 Jun 2026 13:24:12 GMT</pubDate>
-      <description><![CDATA[Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at the 2022 World Cup in Qatar.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>These nuns spent a lifetime helping others. In their last years, who will help them?</title>
-      <link>https://www.npr.org/2026/06/20/g-s1-128632/nuns-convent-africa-hospice</link>
-      <guid isPermaLink="false">337a289ab74240676a12f0a74c5d3bc4d82172fe</guid>
-      <pubDate>Sat, 20 Jun 2026 10:45:09 GMT</pubDate>
-      <description><![CDATA[The sisters of Uganda are teachers, health-care advocates and more. Those who are in their twilight of their life need help. Who will come to their aid?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Iran says Strait of Hormuz shut as U.S.-Iran talks set for Sunday in Switzerland</title>
-      <link>https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire</link>
-      <guid isPermaLink="false">c463874f33f9caa487718c6f1eaffe5f3eacc32d</guid>
-      <pubDate>Sat, 20 Jun 2026 10:02:05 GMT</pubDate>
-      <description><![CDATA[U.S. and Iranian teams are set to hold "technical-level" talks, according to Pakistan's foreign ministry. But fighting in Lebanon and claims over the Strait of Hormuz threaten a tentative agreement.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Palestinian-American kids find inspiration, and escape, on the soccer pitch</title>
-      <link>https://www.npr.org/2026/06/20/nx-s1-5854466/palestinian-american-kids-find-inspiration-and-escape-on-the-soccer-pitch</link>
-      <guid isPermaLink="false">19cf2daa2edc4ceba2fea05cc98c3861f42f29a9</guid>
-      <pubDate>Sat, 20 Jun 2026 10:00:00 GMT</pubDate>
-      <description><![CDATA[A dozen miles away from the World Cup games in New York/ New Jersey Stadium, Palestinian-American kids turn to soccer as an escape from the realities of war.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>A California man's case highlights gaps in care and oversight at DHS detention centers</title>
-      <link>https://www.npr.org/2026/06/20/nx-s1-5855064/richard-la-parias-ice-detention</link>
-      <guid isPermaLink="false">d55c1b9e47a4504ea5a8e713a576f665b366191a</guid>
-      <pubDate>Sat, 20 Jun 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Federal officers shot Ricardo Parias eight months ago during an ICE operation to detain him. His lawyer says he is still in pain, highlighting gaps in oversight and care in DHS facilities.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Australia confirms first case of H5N1 bird flu as virus reaches every continent</title>
-      <link>https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">319b865632de8fb0f9e3457f2bfa00bf00f5d969</guid>
-      <pubDate>Sat, 20 Jun 2026 03:12:47 GMT</pubDate>
-      <description><![CDATA[Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>African and Caribbean nations call for formal apology for transatlantic slavery</title>
-      <link>https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9b4485974244be08dbf15e3d59929f3eb58737ee</guid>
-      <pubDate>Sat, 20 Jun 2026 02:33:30 GMT</pubDate>
-      <description><![CDATA[The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US to stop funding HIV programmes in South Africa</title>
-      <link>https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5fd9a55e043c480aff6463b2abebe9e957879813</guid>
-      <pubDate>Fri, 19 Jun 2026 23:35:07 GMT</pubDate>
-      <description><![CDATA[More than eight million South Africans are living with HIV – the highest number of any country in the world.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Air Force One, gifted to Trump from Qatar, arrives at Joint Base Andrews</title>
-      <link>https://www.npr.org/2026/06/19/nx-s1-5864503/air-force-one-trump-qatar</link>
-      <guid isPermaLink="false">45fbaeeaf118bc7e778866f75025a037e05a1c08</guid>
-      <pubDate>Fri, 19 Jun 2026 21:01:21 GMT</pubDate>
-      <description><![CDATA[The luxury Boeing 747, initially valued at $400 million, arrived ahead of schedule on Friday. The jet caused controversy as one of the biggest foreign gifts ever received by the U.S. government.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>See It: Massive wave crashes over condo in Hawaii amid powerful swells, stripping shingles from the roof</title>
-      <link>https://www.foxweather.com/weather-news/watch-powerful-south-swells-send-massive-wave-over-oceanfront-condos-in-hawaii</link>
-      <guid isPermaLink="false">2e234ee06589c31d65fad6ca322da1323f4079d9</guid>
-      <pubDate>Fri, 19 Jun 2026 15:45:21 GMT</pubDate>
-      <description><![CDATA[A towering wave driven by powerful south swells surged over the oceanfront condos at the Keauhou-Kona Surf and Racquet Club on Sunday, tearing shingles from the roof as people nearby watched in awe.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Possible human remains found after resident refused to evacuate during wildfire that destroyed 14 homes</title>
-      <link>https://www.foxweather.com/weather-news/wildfire-engulfs-12-homes-washington-possible-human-remains</link>
-      <guid isPermaLink="false">dc45d70fba8b72e45781257eae4fde64fd9d7591</guid>
-      <pubDate>Thu, 18 Jun 2026 21:14:03 GMT</pubDate>
-      <description><![CDATA[A fire engulfed 12 homes in Spokane, Washington, triggering dozens of evacuations near the impacted area, and when one resident refused to follow evacuation orders, authorities later discovered possible human remains at the home]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Arthur’s remnants take aim at the East Coast as historic flooding ravages millions across the South</title>
-      <link>https://www.foxweather.com/weather-news/arthurs-remnants-could-redevelop-along-east-coast-amid-gulf-coast-flooding</link>
-      <guid isPermaLink="false">a9ec77f27edfb0e60e91578b0ad0498b210c40bc</guid>
-      <pubDate>Thu, 18 Jun 2026 13:21:44 GMT</pubDate>
-      <description><![CDATA[Just 12 hours after forming, a short-lived Tropical Storm Arthur degenerated into a remnant low Wednesday, but models warn its lingering moisture could still trigger redevelopment along the East Coast.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Severe storms and possible tornadoes threaten the Plains before invading the Midwest and East</title>
-      <link>https://www.foxweather.com/weather-news/additional-rounds-severe-storms-heavy-rain-flash-flooding-threat-central-plains-midwest</link>
-      <guid isPermaLink="false">91c13a63323aebe42e8d68372713e045105e8a73</guid>
-      <pubDate>Thu, 18 Jun 2026 11:31:58 GMT</pubDate>
-      <description><![CDATA[The risk of severe storms and flash flooding returns this weekend, targeting the Central Plains before spreading into the Midwest and East early next week as another storm system moves through.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>2 dead, 1 still missing after young girl saved in dramatic rescue operation at Missouri lake</title>
-      <link>https://www.foxweather.com/weather-news/two-dead-one-still-missing-days-after-missouri-lake-flooding</link>
-      <guid isPermaLink="false">1d334c552881d0cac47676448d891eed272fe77a</guid>
-      <pubDate>Wed, 17 Jun 2026 21:15:45 GMT</pubDate>
-      <description><![CDATA[Rescue boat capsizes during tense rescue operation, juvenile girl rescued as two people dead, one missing after group swept into dangerous area of a lake in Springfield, Missouri.]]></description>
+      <title>Millions at risk as historic flash flooding continues across the South with more rain looming</title>
+      <link>https://www.foxweather.com/weather-news/days-rain-potentially-life-threatening-flash-flooding-plague-south-amid-post-tropical-storm-arthur</link>
+      <guid isPermaLink="false">1a896b5bf6e344b1ac771f77800f6f471d78ead6</guid>
+      <pubDate>Thu, 18 Jun 2026 09:54:00 GMT</pubDate>
+      <description><![CDATA[Catastrophic and life-threatening flooding is unfolding across the South as the remnant moisture of Post-Tropical Storm Arthur has dumped days of heavy rain. Millions are at risk for flash flooding from eastern Texas to Georgia.]]></description>
       <category>weather</category>
     </item>
   </channel>
