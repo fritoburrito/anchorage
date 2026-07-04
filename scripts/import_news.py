@@ -459,10 +459,10 @@ def main():
      encoding="utf-8"
   )
 
-  print("Saved", len(combined), "items")
-  print("World/general items reserved:", len(world_items))
+    print("Saved", len(combined), "items")
+    print("World/general items reserved:", len(world_items))
 
-  sync_to_supabase(combined)
+    sync_to_supabase(combined)
 
   if __name__ == "__main__":
     main()
