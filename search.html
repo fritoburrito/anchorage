@@ -1,1 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>AK Pulse Live Search</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #e5e7eb;
+    }
+
+    header {
+      padding: 24px;
+      background: #111827;
+      border-bottom: 1px solid #334155;
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      color: #f8fafc;
+    }
+
+    .wrap {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .search-box {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    input {
+      flex: 1;
+      padding: 14px;
+      font-size: 18px;
+      border-radius: 8px;
+      border: 1px solid #475569;
+      background: #020617;
+      color: white;
+    }
+
+    button {
+      padding: 14px 20px;
+      font-size: 18px;
+      border: 0;
+      border-radius: 8px;
+      background: #dc2626;
+      color: white;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #b91c1c;
+    }
+
+    .result {
+      background: #111827;
+      border: 1px solid #334155;
+      border-radius: 10px;
+      padding: 16px;
+      margin-bottom: 14px;
+    }
+
+    .result h2 {
+      margin: 0 0 8px;
+      font-size: 20px;
+    }
+
+    .result a {
+      color: #93c5fd;
+      text-decoration: none;
+    }
+
+    .meta {
+      color: #94a3b8;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+
+    .summary {
+      color: #d1d5db;
+      line-height: 1.45;
+    }
+
+    .status {
+      color: #facc15;
+      margin-bottom: 16px;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="wrap">
+      <h1>AK Pulse Live Search</h1>
+      <div>Search the Supabase news archive</div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="search-box">
+      <input id="searchInput" type="text" placeholder="Search news..." />
+      <button id="searchButton">Search</button>
+    </div>
+
+    <div id="status" class="status"></div>
+    <div id="results"></div>
+  </main>
+
+  <script>
+    const SUPABASE_URL = "https://fkkcvuffnrcyzstrpinc.supabase.co";
+    const SUPABASE_ANON_KEY = "sb_publishable_h7V_D-7jO4feLJDDRI2CmA_KIeZOc8V";
+
+    const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+    const input = document.getElementById("searchInput");
+    const button = document.getElementById("searchButton");
+    const statusBox = document.getElementById("status");
+    const resultsBox = document.getElementById("results");
+
+    async function runSearch() {
+      const query = input.value.trim();
+
+      if (!query) {
+        statusBox.textContent = "Enter a search term.";
+        resultsBox.innerHTML = "";
+        return;
+      }
+
+      statusBox.textContent = "Searching...";
+      resultsBox.innerHTML = "";
+
+      const { data, error } = await supabaseClient.rpc("search_articles", {
+        search_text: query
+      });
+
+      if (error) {
+        console.error(error);
+        statusBox.textContent = "Search error: " + error.message;
+        return;
+      }
+
+      if (!data || data.length === 0) {
+        statusBox.textContent = "No results found.";
+        return;
+      }
+
+      statusBox.textContent = `Found ${data.length} result(s).`;
+
+      resultsBox.innerHTML = data.map(article => {
+        const date = article.published_at
+          ? new Date(article.published_at).toLocaleString()
+          : "";
+
+        return `
+          <article class="result">
+            <h2>
+              <a href="${article.url || "#"}" target="_blank" rel="noopener">
+                ${escapeHtml(article.title || "Untitled")}
+              </a>
+            </h2>
+            <div class="meta">
+              ${escapeHtml(article.source || "Unknown source")}
+              ${article.category ? " · " + escapeHtml(article.category) : ""}
+              ${date ? " · " + date : ""}
+            </div>
+            <div class="summary">
+              ${escapeHtml(article.summary || "")}
+            </div>
+          </article>
+        `;
+      }).join("");
+    }
+
+    function escapeHtml(text) {
+      return String(text)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    button.addEventListener("click", runSearch);
+
+    input.addEventListener("keydown", event => {
+      if (event.key === "Enter") {
+        runSearch();
+      }
+    });
+  </script>
+</body>
+</html>
