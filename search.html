@@ -120,7 +120,9 @@
     const SUPABASE_URL = "https://fkkcvuffnrcyzstrpinc.supabase.co";
     const SUPABASE_ANON_KEY = "sb_publishable_h7V_D-7jO4feLJDDRI2CmA_KIeZOc8V";
 
-    const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+    const supabaseClient = window.supabase.createClient(
+    SUPABASE_URL,
+    SUPABASE_ANON_KEY
 
     const input = document.getElementById("searchInput");
     const button = document.getElementById("searchButton");
