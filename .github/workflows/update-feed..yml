@@ -39,6 +39,9 @@ jobs:
       - name: Generate feed
         run: python scripts/generate_feed.py
 
+      - name: Send summary email
+        run: python scripts/send_summary_email.py
+
       - name: Commit updated files
         run: |
           git config user.name "github-actions[bot]"
