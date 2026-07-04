@@ -464,5 +464,5 @@ def main():
 
   sync_to_supabase(combined)
 
-if __name__ == "__main__":
+  if __name__ == "__main__":
     main()
