@@ -1,2 +1,3 @@
 requests
 feedparser
+supabase>=2.15.3
