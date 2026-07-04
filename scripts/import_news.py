@@ -9,6 +9,8 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime, format_datetime
 from pathlib import Path
+import os
+from supabase import create_client
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "feed_items.json"
@@ -187,6 +189,42 @@ def is_bad_link(link):
     ]
     return any(link.endswith(ext) for ext in bad_extensions)
 
+def sync_to_supabase(items):
+    supabase_url = os.environ.get("SUPABASE_URL")
+    supabase_key = os.environ.get("SUPABASE_SERVICE_ROLE_KEY")
+
+    if not supabase_url or not supabase_key:
+        print("Supabase sync skipped: missing SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY")
+        return
+
+    supabase = create_client(supabase_url, supabase_key)
+
+    rows = []
+
+    for item in items:
+        rows.append({
+            "title": item.get("title"),
+            "url": item.get("link"),
+            "source": item.get("source"),
+            "author": item.get("author"),
+            "published_at": item.get("published_at") or item.get("pubDate"),
+            "summary": item.get("description"),
+            "content": item.get("content") or item.get("description"),
+            "category": item.get("category"),
+            "tags": item.get("tag"),
+        })
+
+    if not rows:
+        print("No articles to sync to Supabase.")
+        return
+
+    result = (
+        supabase.table("articles")
+        .upsert(rows, on_conflict="url")
+        .execute()
+    )
+
+    print(f"Synced {len(rows)} articles to Supabase.")
 
 def auto_category(title, summary, default):
     text = f"{title} {summary}".lower()
@@ -419,7 +457,8 @@ def main():
    
     print("Saved", len(combined), "items")
     print("World/general items reserved:", len(world_items))
-
+    
+   sync_to_supabase(items)
 
 if __name__ == "__main__":
     main()
