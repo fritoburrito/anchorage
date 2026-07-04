@@ -450,15 +450,19 @@ def main():
     combined = non_world_items[:MAX_TOTAL_ITEMS - len(world_items)] + world_items
 
     weather_items = fetch_anchorage_weather()
-    new_items.extend(weather_items)
-    print(f"Added {len(weather_items)} weather items")
-    
-    DATA_FILE.write_text(json.dumps(new_items, indent=2), encoding="utf-8")
-   
-    print("Saved", len(combined), "items")
-    print("World/general items reserved:", len(world_items))
-    
-   sync_to_supabase(items)
+    combined.extend(weather_items)
+
+   print(f"Added {len(weather_items)} weather items")
+
+   DATA_FILE.write_text(
+    json.dumps(combined, indent=2),
+    encoding="utf-8"
+  )
+
+  print("Saved", len(combined), "items")
+  print("World/general items reserved:", len(world_items))
+
+  sync_to_supabase(combined)
 
 if __name__ == "__main__":
     main()
