@@ -160,6 +160,9 @@
         search_text: query
       });
 
+      console.log("Data:", data);
+      console.log("Error:", error);
+      
       if (error) {
         console.error(error);
         statusBox.textContent = "Search error: " + error.message;
