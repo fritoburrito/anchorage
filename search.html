@@ -16,20 +16,20 @@
     }
 
     header {
-      padding: 24px;
       background: #111827;
       border-bottom: 1px solid #334155;
+      padding: 24px;
+    }
+
+    .wrap {
+      max-width: 950px;
+      margin: 0 auto;
+      padding: 24px;
     }
 
     h1 {
       margin: 0 0 8px;
       color: #f8fafc;
-    }
-
-    .wrap {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 24px;
     }
 
     .search-box {
@@ -49,7 +49,7 @@
     }
 
     button {
-      padding: 14px 20px;
+      padding: 14px 22px;
       font-size: 18px;
       border: 0;
       border-radius: 8px;
@@ -62,6 +62,11 @@
       background: #b91c1c;
     }
 
+    .status {
+      margin-bottom: 16px;
+      color: #facc15;
+    }
+
     .result {
       background: #111827;
       border: 1px solid #334155;
@@ -72,12 +77,16 @@
 
     .result h2 {
       margin: 0 0 8px;
-      font-size: 20px;
+      font-size: 21px;
     }
 
     .result a {
       color: #93c5fd;
       text-decoration: none;
+    }
+
+    .result a:hover {
+      text-decoration: underline;
     }
 
     .meta {
@@ -91,9 +100,14 @@
       line-height: 1.45;
     }
 
-    .status {
-      color: #facc15;
-      margin-bottom: 16px;
+    @media (max-width: 650px) {
+      .search-box {
+        flex-direction: column;
+      }
+
+      button {
+        width: 100%;
+      }
     }
   </style>
 </head>
@@ -108,7 +122,7 @@
 
   <main class="wrap">
     <div class="search-box">
-      <input id="searchInput" type="text" placeholder="Search news..." />
+      <input id="searchInput" type="text" placeholder="Search news..." autofocus />
       <button id="searchButton">Search</button>
     </div>
 
@@ -121,8 +135,9 @@
     const SUPABASE_ANON_KEY = "sb_publishable_h7V_D-7jO4feLJDDRI2CmA_KIeZOc8V";
 
     const supabaseClient = window.supabase.createClient(
-    SUPABASE_URL,
-    SUPABASE_ANON_KEY
+      SUPABASE_URL,
+      SUPABASE_ANON_KEY
+    );
 
     const input = document.getElementById("searchInput");
     const button = document.getElementById("searchButton");
@@ -160,21 +175,23 @@
 
       resultsBox.innerHTML = data.map(article => {
         const date = article.published_at
-          ? new Date(article.published_at).toLocaleString()
+          ? new Date(article.published_at).toLocaleDateString()
           : "";
 
         return `
           <article class="result">
             <h2>
-              <a href="${article.url || "#"}" target="_blank" rel="noopener">
+              <a href="${escapeAttribute(article.url || "#")}" target="_blank" rel="noopener">
                 ${escapeHtml(article.title || "Untitled")}
               </a>
             </h2>
+
             <div class="meta">
               ${escapeHtml(article.source || "Unknown source")}
               ${article.category ? " · " + escapeHtml(article.category) : ""}
-              ${date ? " · " + date : ""}
+              ${date ? " · " + escapeHtml(date) : ""}
             </div>
+
             <div class="summary">
               ${escapeHtml(article.summary || "")}
             </div>
@@ -190,6 +207,10 @@
         .replaceAll(">", "&gt;")
         .replaceAll('"', "&quot;")
         .replaceAll("'", "&#039;");
+    }
+
+    function escapeAttribute(text) {
+      return escapeHtml(text);
     }
 
     button.addEventListener("click", runSearch);
