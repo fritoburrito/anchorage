@@ -41,7 +41,6 @@ jobs:
 
       - name: Send summary email
         run: python scripts/send_summary_email.py
-
       - name: Commit updated files
         run: |
           git config user.name "github-actions[bot]"
@@ -49,3 +48,10 @@ jobs:
           git add data/feed_items.json feed.xml index.html weather.html
           git diff --staged --quiet || git commit -m "Auto-update RSS feed"
           git push
+
+      - name: Send summary email
+        env:
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+        run: python scripts/send_summary_email.py
