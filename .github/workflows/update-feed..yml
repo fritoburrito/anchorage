@@ -39,6 +39,18 @@ jobs:
       - name: Generate feed
         run: python scripts/generate_feed.py
 
+      - name: Import news
+        run: python scripts/import_news.py
+
+      - name: Import news into Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python scripts/import_to_supabase.py
+
+      - name: Generate feed
+        run: python scripts/generate_feed.py
+
       - name: Send summary email
         run: python scripts/send_summary_email.py
       - name: Commit updated files
