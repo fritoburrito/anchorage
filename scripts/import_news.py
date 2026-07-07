@@ -454,6 +454,11 @@ def main():
 
     print(f"Added {len(weather_items)} weather items")
 
+    print(f"Writing to: {DATA_FILE}")
+    print(f"Combined items: {len(combined)}")
+    print(f"New items: {len(new_items)}")
+    print(f"Existing items: {len(existing)}")
+    
     DATA_FILE.write_text(
      json.dumps(combined, indent=2),
      encoding="utf-8"
