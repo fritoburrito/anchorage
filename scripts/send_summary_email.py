@@ -95,8 +95,8 @@ def main():
         print("Logging in...")
         smtp.login(EMAIL_FROM, EMAIL_APP_PASSWORD)
 
-        print("Sending summary email...")
-        smtp.send_message(msg)
+        # print("Sending summary email...")
+        # smtp.send_message(msg)
 
     print("Summary email sent.")
 
