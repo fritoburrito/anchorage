@@ -41,7 +41,7 @@ def main():
     body.append("AK Pulse Live Update Completed")
     body.append("=" * 32)
     body.append("")
-    body.append(f"Status: SUCCESS")
+    body.append("Status: SUCCESS")
     body.append(f"Time: {now}")
     body.append(f"Repository: {github_repo}")
     body.append(f"Branch: {github_ref}")
@@ -69,7 +69,7 @@ def main():
         title = item.get("title", "Untitled")
         source = item.get("source", "Unknown source")
         category = item.get("category", "general")
-        link = item.get("link", "")
+        link = item.get("link") or item.get("url", "")
 
         body.append(f"- {title}")
         body.append(f"  Source: {source} | Category: {category}")
@@ -81,7 +81,7 @@ def main():
     body.append("-" * 14)
     body.append("Import news: completed before this email step.")
     body.append("Generate feed: completed before this email step.")
-    body.append("Commit step: completed before this email step.")
+    body.append("Commit step: runs after this email step.")
     body.append("")
 
     msg = EmailMessage()
@@ -94,9 +94,8 @@ def main():
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
         print("Logging in...")
         smtp.login(EMAIL_FROM, EMAIL_APP_PASSWORD)
-
-        # print("Sending summary email...")
-        # smtp.send_message(msg)
+        print("Sending summary email...")
+        smtp.send_message(msg)
 
     print("Summary email sent.")
 

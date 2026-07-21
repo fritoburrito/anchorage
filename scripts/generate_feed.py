@@ -639,7 +639,7 @@ def main():
     print(f"Wrote {FEED_FILE}")
     print(f"Wrote {INDEX_FILE}")
     print(f"Wrote {WEATHER_FILE}")
-
+    print("Writing JSON to:", DATA_FILE)
 
 if __name__ == "__main__":
     main()
