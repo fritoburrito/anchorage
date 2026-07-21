@@ -454,13 +454,7 @@ def main():
 
     print(f"Added {len(weather_items)} weather items")
 
-<<<<<<< HEAD
-    print(f"Writing to: {DATA_FILE}")
-    print(f"Combined items: {len(combined)}")
-    print(f"New items: {len(new_items)}")
-    print(f"Existing items: {len(existing)}")
-    
-=======
+
     print("\n===== DEBUG =====")
     print("DATA_FILE =", DATA_FILE)
     print("Exists =", DATA_FILE.exists())
@@ -469,7 +463,6 @@ def main():
     print("Combined items:", len(combined))
     print("=================\n")
 
->>>>>>> 658c1b2 (Fix news import and update generated feed)
     DATA_FILE.write_text(
         json.dumps(combined, indent=2),
         encoding="utf-8",
