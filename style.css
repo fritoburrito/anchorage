@@ -47,18 +47,6 @@ html, body {
         drop-shadow(0 0 12px rgba(123,255,178,.20));
 }
 
-.label-top {
-  font-size: 12px;
-  letter-spacing: 1px;
-  line-height: 1;
-}
-
-.label-bottom {
-  font-size: 16px;
-  font-weight: 900;
-  line-height: 1;
-  animation: livePulse 2s infinite;
-}
 
 #ticker-window {
   position: relative;
