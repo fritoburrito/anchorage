@@ -1,5 +1,15 @@
 [
   {
+    "title": "Juneau man charged with sexual assault of homeless woman",
+    "link": "https://www.juneauempire.com/2026/07/22/juneau-man-charged-with-sexual-assault-of-homeless-woman/",
+    "description": "Kevin Matthew George Koenig, 37, was charged with sexual assault in the first degree",
+    "pubDate": "Wed, 22 Jul 2026 16:30:00 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
     "title": "Bryan Norcross: Weakening Bertha close to landfall in Louisiana but its story likely to continue on to Texas",
     "link": "https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-july-22-2026",
     "description": "Tropical Storm Bertha will soon make landfall on the coast of southeastern Louisiana. Once Bertha\u2019s broad center makes landfall, the circulation is likely to get sufficiently disrupted that the tropical system essentially dissipates.",
@@ -390,14 +400,174 @@
     "rank": 100
   },
   {
-    "title": "Tropical Storm Bertha is threatening the Gulf Coast with heavy rain, coastal flooding and squalls",
-    "link": "https://www.foxweather.com/weather-news/tropical-storm-bertha-forecast-rain-flood-gulf-southeast",
-    "description": "Tropical Storm Bertha is strengthening along the northern Gulf as coastal communities in parts of Florida, Alabama, Mississippi and Louisiana brace for strong wind gusts, heavy rain and coastal flooding.",
-    "pubDate": "Mon, 20 Jul 2026 23:56:06 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "What to know about Ukraine's military shakeup",
+    "link": "https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy",
+    "description": "After a week of nationwide protests over the direction of Ukraine's military strategy in the ongoing war with Russia, the Ukrainian military has a new commander, Mykhailo Drapatyi. Here's what to know.",
+    "pubDate": "Wed, 22 Jul 2026 18:01:18 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "FOX News Deals Newsletter: Our top Nordstrom Anniversary Sale picks, beach day essentials and more",
+    "link": "https://www.foxnews.com/deals/fox-news-deals-newsletter-july-23",
+    "description": "We handpicked the best deals you can shop right now, including Barefoot Dreams, Samsonite, W\u00fcsthof, Dyson and more.",
+    "pubDate": "Wed, 22 Jul 2026 18:00:25 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Former Venezuelan President Nicol\u00e1s Maduro to face trial next June",
+    "link": "https://www.bbc.co.uk/news/articles/cr5936455gmo?at_medium=RSS&at_campaign=rss",
+    "description": "Maduro and his wife, who were seized and bought to the US earlier this year, deny the weapons and drug charges against them.",
+    "pubDate": "Wed, 22 Jul 2026 17:59:40 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+    "link": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
+    "description": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
+    "pubDate": "Wed, 22 Jul 2026 17:54:57 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "IndyCar teams come to terms on the series' first-ever charter sale, which shakes up the grid for 2027",
+    "link": "https://www.foxnews.com/outkick-sports/indycar-teams-come-terms-series-first-ever-charter-sale-shakes-grid-2027",
+    "description": "Rahal Letterman Lanigan Racing agrees to sell one of its three IndyCar charters to Dreyer & Reinbold Racing, raising questions about Schumacher.",
+    "pubDate": "Wed, 22 Jul 2026 17:40:04 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Natalie Fleet leaves 'triggering' safeguarding minister role",
+    "link": "https://www.bbc.co.uk/news/articles/cq56g2n083do?at_medium=RSS&at_campaign=rss",
+    "description": "The MP for Bolsover has spoken about how she was groomed and raped as a teenager.",
+    "pubDate": "Wed, 22 Jul 2026 17:33:56 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "A strange transmissible cancer is spreading through the catfish in this lake",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5901135/transmissible-cancer-catfish-melanoma-tumors",
+    "description": "For more than a decade, there's been something fishy going on in a lake that straddles Vermont and the province of Quebec. It involves cancer, a kind of catfish, and \u2014 possibly \u2014 clues about how tumors metastasize.",
+    "pubDate": "Wed, 22 Jul 2026 17:33:15 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Memphis pizza shop says business is booming after refusing service to National Guard troops",
+    "link": "https://www.foxnews.com/media/memphis-pizza-shop-says-business-booming-after-refusing-service-national-guard-troops",
+    "description": "Miles Tamboli says the Memphis Safe Task Force makes the city less safe, and his pizza shop is seeing a surge of local supporters after the boycott call.",
+    "pubDate": "Wed, 22 Jul 2026 17:33:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Wisconsin woman's honeymoon ruined by diarrhea after she came down with Cyclosporiasis",
+    "link": "https://www.foxnews.com/outkick-culture/wisconsin-womans-honeymoon-ruined-diarrhea-cyclosporiasis",
+    "description": "Newlywed Gretchen Pleuss caught cyclosporiasis while camping at Yellowstone National Park, landing her in the hospital with a parasite mid-honeymoon.",
+    "pubDate": "Wed, 22 Jul 2026 17:27:54 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Charlie Woods' shot at the U.S. Junior Amateur ruined by clueless golf fan's phone: 'Really, dude?'",
+    "link": "https://www.foxnews.com/outkick-sports/charlie-woods-shot-us-junior-amateur-ruined-clueless-golf-fan-phone-really-dude",
+    "description": "A camera click from a fan's phone disrupted Charlie Woods' concentration in the rough during a crucial U.S. Junior Amateur playoff at Saucon Valley.",
+    "pubDate": "Wed, 22 Jul 2026 17:26:05 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Florida coach brings laughs, no filter and Lane Kiffin comparison rebuttal to first SEC media days",
+    "link": "https://www.foxnews.com/outkick-sports/florida-coach-brings-laughs-no-filter-lane-kiffin-comparison-rebuttal-first-sec-media-days",
+    "description": "Jon Sumrall revealed he and Lane Kiffin disagreed on whether their coaching carousel decisions were comparable during the SEC's wild offseason.",
+    "pubDate": "Wed, 22 Jul 2026 17:17:03 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Pat McAfee announces debut album 'The Diary of a Polarizing Figure' with Aug 14 release date",
+    "link": "https://www.foxnews.com/outkick-sports/pat-mcafee-announces-debut-album-diary-polarizing-figure-august-14-release-date",
+    "description": "Pat McAfee revealed his album \"The Diary of a Polarizing Figure\" drops August 14th, featuring songs he's been writing over the past 20 years.",
+    "pubDate": "Wed, 22 Jul 2026 17:14:48 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "In pursuit of 'Instagram face,' are we losing the imperfections that make us human?",
+    "link": "https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery",
+    "description": "Plastic surgery is becoming so normalized and undetectable, it's changing our relationship to reality. The New Yorker staff writer Jia Tolentino considers how beauty standards have dovetailed with AI.",
+    "pubDate": "Wed, 22 Jul 2026 17:11:19 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "10-foot great white shark spotted swimming dangerously close to young people",
+    "link": "https://www.foxnews.com/travel/10-foot-great-white-shark-spotted-swimming-dangerously-close-young-people",
+    "description": "Drone video captured a 10-foot great white shark swimming dangerously close to young swimmers off Southern California, who had no idea it was there.",
+    "pubDate": "Wed, 22 Jul 2026 17:06:07 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Nolan Wells independent autopsy doesn't point to foul play, former medical examiner says",
+    "link": "https://www.foxnews.com/us/nolan-wells-independent-autopsy-doesnt-point-foul-play-fmr-medical-examiner-says",
+    "description": "A forensic pathologist says the independent autopsy findings in 18-year-old athlete Nolan Wells' Mississippi death do not indicate foul play.",
+    "pubDate": "Wed, 22 Jul 2026 17:01:53 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Mamdani dodges on \u2018political theater\u2019 of empty Netanyahu arrest threat, calls for US action and NYC protests",
+    "link": "https://www.foxnews.com/politics/mamdani-dodges-political-theater-empty-netanyahu-arrest-threat-calls-us-action-nyc-protests",
+    "description": "Zohran Mamdani admits New York City lacks authority to arrest Benjamin Netanyahu on the ICC warrant, calling on the federal government to act.",
+    "pubDate": "Wed, 22 Jul 2026 17:01:35 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Two Russians handed down jail terms for terrorism and spying in Angola",
+    "link": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
+    "description": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
+    "pubDate": "Wed, 22 Jul 2026 16:34:35 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
     "title": "Sheriff investigating Nancy Guthrie disappearance hunting suspect in separate Tucson home invasion",
@@ -430,180 +600,10 @@
     "rank": 10
   },
   {
-    "title": "After Democrats' shake-up, Collins faces toss-up against Platner replacement in must-win Senate race",
-    "link": "https://www.foxnews.com/politics/democrats-shake-up-collins-faces-toss-up-platner-replacement-must-win-senate-race",
-    "description": "Susan Collins faces a fierce challenge from progressive Troy Jackson, who backs \"Medicare-for-all\" and abolishing ICE, in a toss-up Maine Senate race.",
-    "pubDate": "Wed, 22 Jul 2026 16:03:55 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Democrats lure \u2018politically homeless\u2019 Gen Z toward socialism \u2014 a counterattack is taking shape",
-    "link": "https://www.foxnews.com/politics/democrats-lure-politically-homeless-gen-z-toward-socialism-counterattack-taking-shape",
-    "description": "CJ Pearson says Gen Z voters are politically homeless and flirting with socialism, launching Next250 to counter the left on college campuses.",
-    "pubDate": "Wed, 22 Jul 2026 16:00:26 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "DOJ gives New Jersey 5 days to hand over voter data after noncitizen registration scandal",
-    "link": "https://www.foxnews.com/politics/doj-gives-new-jersey-5-days-hand-over-voter-data-noncitizen-registration-scandal",
-    "description": "Harmeet Dhillon gave Gov. Mikie Sherrill five days to hand over voter data on 6,600 noncitizen registrations as the DOJ escalates its lawsuit.",
-    "pubDate": "Wed, 22 Jul 2026 15:59:45 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "French police formally investigate woman over 2025 killing of Briton",
-    "link": "https://www.bbc.co.uk/news/articles/cwye7lv2endo?at_medium=RSS&at_campaign=rss",
-    "description": "Karen Carter was found with stab wounds in the Dordogne village she had lived in for over a decade.",
-    "pubDate": "Wed, 22 Jul 2026 15:59:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Pat McAfee forced to address ESPN layoffs on air during awkward segment, but the answer is simple",
-    "link": "https://www.foxnews.com/outkick-sports/pat-mcafee-forced-address-espn-layoffs-air-during-awkward-segment-answer-simple",
-    "description": "JJ Watt joked about ESPN layoffs on Pat McAfee's show, asking if everybody was fired to pay his reported $30 million salary and potential raise.",
-    "pubDate": "Wed, 22 Jul 2026 15:59:02 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-    "link": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
-    "description": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
-    "pubDate": "Wed, 22 Jul 2026 15:50:17 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Beloved artist stabbed, killed in 'random' beach town daytime attack as police arrest 19-year-old suspect",
-    "link": "https://www.foxnews.com/us/beloved-artist-stabbed-killed-random-beach-town-daytime-attack-police-arrest-19-year-old-suspect",
-    "description": "Tyler Leibelt, 19, faces murder and violent felony allegation charges after the random stabbing death of a 73-year-old woman at Capitola Mall.",
-    "pubDate": "Wed, 22 Jul 2026 15:46:04 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Inside NYC's 'perfect scam': Luxury cars, dusty shelves and the EBT secret behind the counter",
-    "link": "https://www.foxnews.com/politics/inside-nycs-perfect-scam-luxury-cars-dusty-shelves-ebt-secret-behind-counter",
-    "description": "Fraud expert says New York City bodegas with expired food and skimming devices are secretly operating as \"EBT ATMs\" for organized criminals.",
-    "pubDate": "Wed, 22 Jul 2026 15:45:36 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
-    "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
-    "description": "Lissie Harper says the possible early release of prisoners is \"deplorable\", after reports that two of PC Harper's killers could be freed early.",
-    "pubDate": "Wed, 22 Jul 2026 15:43:55 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "GOP erupts over 6,600 noncitizen voters found in blue state as scandal deepens: \u2018Worse than anyone expected\u2019",
-    "link": "https://www.foxnews.com/politics/gop-erupts-6600-noncitizen-voters-found-blue-state-scandal-deepens-worse-than-anyone-expected",
-    "description": "Republicans demand a halt to automatic voter registration through New Jersey's MVC after a software error registered 6,600 non-citizens to vote.",
-    "pubDate": "Wed, 22 Jul 2026 15:43:32 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "People are watching the Reflecting Pool like reality TV. What does that say about us?",
-    "link": "https://www.npr.org/2026/07/22/nx-s1-5897383/dc-reflecting-pool-saga-influencers",
-    "description": "It's not just watching paint dry. The twists and turns of the Reflecting Pool repairs, originally a two-week project, have kept bloggers and viewers busy all summer.",
-    "pubDate": "Wed, 22 Jul 2026 15:41:39 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Five impact freshmen from the SEC who are sure to turn heads on the field this coming season",
-    "link": "https://www.foxnews.com/outkick-sports/five-impact-freshmen-sec-sure-turn-heads-field-coming-season",
-    "description": "From Brandon Arrington's blazing speed at Texas A&M to Jared Curtis flipping from Georgia to Vanderbilt, five SEC freshmen are poised to dominate.",
-    "pubDate": "Wed, 22 Jul 2026 15:39:12 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
-    "link": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
-    "description": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
-    "pubDate": "Wed, 22 Jul 2026 15:19:48 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Modelling scout linked to Epstein found dead in Paris",
-    "link": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-    "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
-    "pubDate": "Wed, 22 Jul 2026 14:54:27 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-    "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-    "description": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
-    "pubDate": "Wed, 22 Jul 2026 14:52:25 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
-    "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-    "description": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
-    "pubDate": "Wed, 22 Jul 2026 14:49:12 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Independent autopsy \"inconclusive\" on cause of death for 18-year-old Nolan Wells in Mississippi",
-    "link": "https://www.npr.org/2026/07/22/nx-s1-5902909/independent-autopsy-inconclusive-on-cause-of-death-for-18-year-old-nolan-wells-in-mississippi",
-    "description": "An independent autopsy of the body of Nolan Wells shows that the cause of death is undetermined pending an investigation, according to attorney Ben Crump.",
-    "pubDate": "Wed, 22 Jul 2026 14:48:26 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Today - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "56\u00b0F. Wind S 0 to 10 mph. Rain likely. Cloudy, with a high near 56. South wind 0 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Wed, 22 Jul 2026 16:27:01 GMT",
+    "description": "56\u00b0F. Wind S 5 to 10 mph. Rain likely. Cloudy, with a high near 56. South wind 5 to 10 mph. Chance of precipitation is 60%.",
+    "pubDate": "Wed, 22 Jul 2026 18:15:00 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "48\u00b0F. Wind S 10 to 25 mph. Rain. Cloudy, with a low around 48. South wind 10 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
-    "pubDate": "Wed, 22 Jul 2026 16:27:01 GMT",
+    "pubDate": "Wed, 22 Jul 2026 18:15:00 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Thursday - Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "64\u00b0F. Wind S 10 to 25 mph. Rain before 1pm. Mostly cloudy, with a high near 64. South wind 10 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 90%.",
-    "pubDate": "Wed, 22 Jul 2026 16:27:01 GMT",
+    "pubDate": "Wed, 22 Jul 2026 18:15:00 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Thursday Night - Mostly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "48\u00b0F. Wind S 5 to 15 mph. Mostly cloudy, with a low around 48. South wind 5 to 15 mph, with gusts as high as 25 mph.",
-    "pubDate": "Wed, 22 Jul 2026 16:27:01 GMT",
+    "pubDate": "Wed, 22 Jul 2026 18:15:00 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Friday - Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "66\u00b0F. Wind NW 5 to 10 mph. Partly sunny, with a high near 66. Northwest wind 5 to 10 mph.",
-    "pubDate": "Wed, 22 Jul 2026 16:27:01 GMT",
+    "pubDate": "Wed, 22 Jul 2026 18:15:00 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
