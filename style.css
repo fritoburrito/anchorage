@@ -25,28 +25,27 @@ html, body {
 }
 
 #ticker-label {
-    flex: 0 0 150px;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: rgba(15, 23, 42, 0.95);
-    border-right: 2px solid rgba(255,255,255,.18);
-    padding: 0 8px;
-    box-sizing: border-box;
+  flex: 0 0 108px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background: rgba(15, 23, 42, 0.95);
+  border-right: 2px solid rgba(255,255,255,0.18);
+  padding: 4px 7px;
+  box-sizing: border-box;
 }
 
 .ticker-logo {
-    width: 100%;
-    max-height: 38px;
-    object-fit: contain;
-    display: block;
-
-    filter:
-        drop-shadow(0 0 8px rgba(0,198,255,.45))
-        drop-shadow(0 0 12px rgba(123,255,178,.20));
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 94px;
+  max-height: 34px;
+  object-fit: contain;
+  filter: drop-shadow(0 0 4px rgba(0,198,255,0.35));
 }
-
 
 #ticker-window {
   position: relative;
@@ -111,7 +110,8 @@ html, body {
   background: #dc2626;
   color: #ffffff;
   animation: breakingPulse 1s infinite;
-  
+}
+
 .main-link {
   display: inline-block;
   padding: 10px 16px;
@@ -125,9 +125,7 @@ html, body {
 
 .main-link:hover {
   background: #7bffb2;
-}}
-
-
+}
 
 .badge.weather { background: #1d4ed8; color: #fff; }
 .badge.top { background: #b91c1c; color: #fff; }
@@ -156,15 +154,8 @@ html, body {
   pointer-events: none;
 }
 
-
 @keyframes breakingPulse {
   0% { opacity: 1; }
   50% { opacity: 0.65; }
-  100% { opacity: 1; }
-}
-
-@keyframes livePulse {
-  0% { opacity: 1; }
-  50% { opacity: 0.72; }
   100% { opacity: 1; }
 }
