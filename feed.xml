@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 17:39:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 19:37:59 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today - Chance Light Rain then Slight Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 17:39:55 GMT</pubDate>
+      <pubDate>Thu, 23 Jul 2026 19:37:59 GMT</pubDate>
       <description><![CDATA[61°F. Wind S 10 to 25 mph. A chance of rain before 10am, then a slight chance of rain showers between 10am and 1pm. Partly sunny, with a high near 61. South wind 10 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 17:39:55 GMT</pubDate>
+      <pubDate>Thu, 23 Jul 2026 19:37:59 GMT</pubDate>
       <description><![CDATA[52°F. Wind S 5 to 10 mph. Partly cloudy, with a low around 52. South wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Friday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 17:39:55 GMT</pubDate>
+      <pubDate>Thu, 23 Jul 2026 19:37:59 GMT</pubDate>
       <description><![CDATA[65°F. Wind NW 0 to 5 mph. Mostly sunny, with a high near 65. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Friday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 17:39:55 GMT</pubDate>
+      <pubDate>Thu, 23 Jul 2026 19:37:59 GMT</pubDate>
       <description><![CDATA[47°F. Wind N 5 to 10 mph. Mostly clear, with a low around 47. North wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +42,25 @@
       <title>Anchorage Weather: Saturday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 17:39:55 GMT</pubDate>
+      <pubDate>Thu, 23 Jul 2026 19:37:59 GMT</pubDate>
       <description><![CDATA[67°F. Wind NW 5 to 10 mph. Sunny, with a high near 67. Northwest wind 5 to 10 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Elon Musk says his AI platform will create 'historically accurate' full-length 'Odyssey' movie</title>
+      <link>https://www.foxnews.com/entertainment/elon-musk-ai-platform-create-historically-accurate-full-length-odyssey-movie</link>
+      <guid isPermaLink="false">7cc4870cf4f6efeca67286eb508df5e47098ae64</guid>
+      <pubDate>Thu, 23 Jul 2026 18:26:01 GMT</pubDate>
+      <description><![CDATA[Elon Musk says Grok Imagine will produce a full-length "historically accurate" version of Homer's "The Odyssey" before the end of this year.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast: Wednesday, July 22, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17385573/newscast-wednesday-july-22-2026</link>
+      <guid isPermaLink="false">0c40c11bc7d2a93a348c54151235fc9156726728</guid>
+      <pubDate>Thu, 23 Jul 2026 17:28:59 GMT</pubDate>
+      <description><![CDATA[In this newscast: Human remains were discovered inside a chest freezer at a Lemon Creek residence on Sunday; Juneau residents in the glacial outburst flood zone are preparing for the annual flood expected soon. At a sandbag event in Mendenhall Valley on Saturday, some of that prep work is easier and faster than it was last year; Alaska U.S. Senator Lisa Murkowski announced last week that her bill allowing five Alaska Native communities in Southeast Alaska to receive land entitlements passed out of the Energy and Natural Resources Committee; In less than a month, Alaskans will cast their votes for governor in the primary election. But with 17 candidates, how do you choose? At a speed dating-style event in Anchorage Monday, members of the public got to talk with the gubernatorial hopefuls.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Hegseth Is Demanding US Households Pay $5,000 More Per Year to Fund the Pentagon, Economist Says</title>
@@ -295,11 +311,131 @@
       <category>local</category>
     </item>
     <item>
+      <title>Microplastics detected in most heart attack patients' blood in startling new study</title>
+      <link>https://www.foxnews.com/health/microplastics-detected-most-heart-attack-patients-blood-startling-new-study</link>
+      <guid isPermaLink="false">f1da8c55a92c5e83c22a59f5a962cfceb2f2bc3b</guid>
+      <pubDate>Thu, 23 Jul 2026 19:23:54 GMT</pubDate>
+      <description><![CDATA[Nearly 84% of severe heart attack patients had detectable microplastics in their coronary artery blood, with polyethylene found in 97% of cases.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Jack Smith doubles down against GOP accusations he lied under oath</title>
+      <link>https://www.foxnews.com/politics/jack-smith-doubles-down-against-gop-accusations-he-lied-under-oath</link>
+      <guid isPermaLink="false">39eb97f11ba0a980b09c4fd190efcb2a89453058</guid>
+      <pubDate>Thu, 23 Jul 2026 19:19:18 GMT</pubDate>
+      <description><![CDATA[Jack Smith's lawyers call Jim Jordan's criminal referral "meritless," claiming Trump ordered his prosecution and questions focused on toll records.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>France evacuates 20,000 as wildfires spread in south-west</title>
+      <link>https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">85bd07a0469abde35d333712389b0cfb7a9e8176</guid>
+      <pubDate>Thu, 23 Jul 2026 19:17:42 GMT</pubDate>
+      <description><![CDATA[Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Wife swapping with friends ruined by father-in-law, messy married affair with a co-worker &amp; wedding objections</title>
+      <link>https://www.foxnews.com/outkick-culture/wife-swapping-friends-ruined-father-in-law-messy-married-affair-co-worker-wedding-objections</link>
+      <guid isPermaLink="false">a36e8f86aadf5d5901b1b5b8fa0580994802230f</guid>
+      <pubDate>Thu, 23 Jul 2026 19:16:50 GMT</pubDate>
+      <description><![CDATA[Wife swapping frustrations, a secret married coworker affair confession and jaw-dropping real wedding objection stories fill this week's romance tales.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Former Obama spox charged with financial felony in city engulfed by fraud scandals</title>
+      <link>https://www.foxnews.com/politics/former-obama-spox-charged-financial-felony-city-engulfed-fraud-scandals</link>
+      <guid isPermaLink="false">5b0d7adfb197f5da07ad7ecaef02d7f6530d2544</guid>
+      <pubDate>Thu, 23 Jul 2026 19:00:37 GMT</pubDate>
+      <description><![CDATA[Adam Fetcher, Barack Obama's former deputy national press secretary, faces a felony fraud charge after allegedly stealing a co-worker's debit card.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iconic coaster to take final ride as fans say goodbye after decades of thrills</title>
+      <link>https://www.foxnews.com/travel/iconic-coaster-take-final-ride-fans-say-goodbyedecades-thrills</link>
+      <guid isPermaLink="false">9e5c2a42b295fa51fa60a18d20414f2329d2f147</guid>
+      <pubDate>Thu, 23 Jul 2026 18:40:09 GMT</pubDate>
+      <description><![CDATA[Kumba, the iconic Busch Gardens Tampa Bay roller coaster, will close on August 2 after 33 years, but a $100 million replacement is already in the works.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>First overall pick Fernando Mendoza signs guaranteed deal with Raiders, who seem to be an 'arrow up' NFL club</title>
+      <link>https://www.foxnews.com/outkick-sports/first-overall-pick-fernando-mendoza-signs-guaranteed-deal-raiders-arrow-up-nfl-club</link>
+      <guid isPermaLink="false">8ab83017df0f0ff960b72ba6bea0b7a738740aee</guid>
+      <pubDate>Thu, 23 Jul 2026 18:37:59 GMT</pubDate>
+      <description><![CDATA[Fernando Mendoza signed his $57.27 million fully guaranteed rookie deal, but Kirk Cousins holds the starting quarterback job heading into Raiders camp.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New poll complicates Vance’s status as Trump’s likely 2028 heir apparent</title>
+      <link>https://www.foxnews.com/politics/poll-complicates-vance-status-trump-likely-2028-heir-apparent</link>
+      <guid isPermaLink="false">a7ea0e99053a2437c416d3179763ef45b2e724cd</guid>
+      <pubDate>Thu, 23 Jul 2026 18:34:07 GMT</pubDate>
+      <description><![CDATA[Marco Rubio surged from 7% to 26% in New Hampshire's latest GOP primary poll, dramatically closing the gap with JD Vance in the hypothetical 2028 presidential nomination race.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WATCH: ‘Shocking’ Ben Franklin smear leaves Smithsonian chief with ‘no regrets’</title>
+      <link>https://www.foxnews.com/politics/watch-shocking-ben-franklin-smear-leaves-smithsonian-chief-no-regrets</link>
+      <guid isPermaLink="false">fa42b5e7482fbaf7204d2548ccb0850a7bf79168</guid>
+      <pubDate>Thu, 23 Jul 2026 18:21:10 GMT</pubDate>
+      <description><![CDATA[A Heritage Foundation expert called a Smithsonian exhibit "shocking" for suggesting Benjamin Franklin may have used electroshock on enslaved people.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Burnham pauses plan to release some prisoners early from September</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">bc41525d406cb087b64a58e28ee8ed9228c1a2ee</guid>
+      <pubDate>Thu, 23 Jul 2026 18:17:54 GMT</pubDate>
+      <description><![CDATA[The prime minister says no prisoners will be released until a review has been conducted.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Vance Boelter sentenced for shootings of Minnesota lawmakers and spouses</title>
+      <link>https://www.foxnews.com/us/vance-boelter-sentenced-shootings-minnesota-lawmakers-spouses</link>
+      <guid isPermaLink="false">42b976bc646b9d85ad91e25a2928cd0f718db21f</guid>
+      <pubDate>Thu, 23 Jul 2026 18:06:53 GMT</pubDate>
+      <description><![CDATA[A Minnesota man was sentenced to consecutive life terms for killing a former state House speaker and her husband, and shooting another elected official.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Saudis must recognise Israel for nuclear deal, says Trump</title>
+      <link>https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">dedc5a4790cf6224ee3171707d3b0e4457386c9f</guid>
+      <pubDate>Thu, 23 Jul 2026 17:58:02 GMT</pubDate>
+      <description><![CDATA[The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Burnham tells Swinney independence is 'off limits' at Glasgow Commonwealth Games meeting</title>
+      <link>https://www.bbc.co.uk/news/articles/c8xnq7qyr7ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f99143193dc4fc44adb3c09f2193d0f82a02bc33</guid>
+      <pubDate>Thu, 23 Jul 2026 17:49:23 GMT</pubDate>
+      <description><![CDATA[The heads of the UK, Scottish and Welsh governments came together ahead of the opening of the Glasgow Commonwealth Games.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ukraine's ousted defence minister insists on being reinstated</title>
+      <link>https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">16c6a00a2cb694616ea58a718c78680573dadca6</guid>
+      <pubDate>Thu, 23 Jul 2026 17:37:59 GMT</pubDate>
+      <description><![CDATA[Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.]]></description>
+      <category>culture</category>
+    </item>
+    <item>
       <title>For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump</title>
       <link>https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote</link>
       <guid isPermaLink="false">d83a7bc3011178b3fd513d50b9faef475c20e644</guid>
       <pubDate>Thu, 23 Jul 2026 17:35:02 GMT</pubDate>
       <description><![CDATA[Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Mum and daughter who died at beach were trying to save boy, 7</title>
+      <link>https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9946778734147937909a889a8f43e80c5d405c0b</guid>
+      <pubDate>Thu, 23 Jul 2026 17:23:21 GMT</pubDate>
+      <description><![CDATA[Shally Rahman and teenager Samiha Rahman were pulled from the water, emergency services say.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -325,134 +461,6 @@
       <pubDate>Thu, 23 Jul 2026 17:17:38 GMT</pubDate>
       <description><![CDATA[South Carolina revenue records list Alex Murdaugh's $1.6 million tax debt as his lawyers push to test unknown male DNA found under Maggie's fingernails.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>Dem supported 'Green New Deal' after receiving nearly $60k from energy groups, now wants Congressional seat</title>
-      <link>https://www.foxnews.com/politics/dem-supported-green-new-deal-receiving-nearly-60k-energy-groups-now-wants-congressional-seat</link>
-      <guid isPermaLink="false">bbfa262275b916a3e058abce0509d6149aab8553</guid>
-      <pubDate>Thu, 23 Jul 2026 17:16:06 GMT</pubDate>
-      <description><![CDATA[Democrat Sean McCann's energy contributions from DTE Energy resurface as he campaigns to unseat Rep. Bill Huizenga in Michigan's 4th district.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>NHL's top American-born scorer Patrick Kane signs deal to return to Chicago Blackhawks</title>
-      <link>https://www.foxnews.com/outkick-sports/nhl-top-american-born-scorer-patrick-kane-signs-deal-return-chicago-blackhawks</link>
-      <guid isPermaLink="false">efd3057c456c90b52b340cb2ebd8a2856d07f79a</guid>
-      <pubDate>Thu, 23 Jul 2026 17:12:30 GMT</pubDate>
-      <description><![CDATA[Patrick Kane returns to the Chicago Blackhawks on a two-year, $16 million deal after posting 57 points with Detroit last season in 67 games.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Leavitt rips blue state’s explosive noncitizen voter-roll admission: ‘Not a coincidence’</title>
-      <link>https://www.foxnews.com/politics/leavitt-rips-blue-states-explosive-noncitizen-voter-roll-admission-not-coincidence</link>
-      <guid isPermaLink="false">297cbcdf8244e7e39ac4a38b1063d02c7e3fafb7</guid>
-      <pubDate>Thu, 23 Jul 2026 17:01:35 GMT</pubDate>
-      <description><![CDATA[Karoline Leavitt says New Jersey's admission of 6,600 noncitizens on voter rolls is no coincidence as Trump renews his SAVE America Act push.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump to unveil massive coalition protecting Americans from rising costs as admin pursues a top priority</title>
-      <link>https://www.foxnews.com/politics/trump-unveils-massive-coalition-protecting-americans-rising-costs-admin-pursues-top-priority</link>
-      <guid isPermaLink="false">bf8f691e2305ac8bc5ffbb4f1d7f3b4424fc2e49</guid>
-      <pubDate>Thu, 23 Jul 2026 16:59:41 GMT</pubDate>
-      <description><![CDATA[Trump expands the Ratepayer Protection Pledge with 23 governors and 200 stakeholders vowing data centers won't raise electricity costs for families.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Yemen's Houthis attack Saudi tanker as US launches more Iran strikes</title>
-      <link>https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">341e3e413aabb9c54afd5c1b2ef1b6c5dfb94f61</guid>
-      <pubDate>Thu, 23 Jul 2026 16:50:59 GMT</pubDate>
-      <description><![CDATA[The Iran-backed group, which previously announced a "maritime embargo" against Saudi Arabia, also claims to have hit another vessel.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Former ESPN star Trey Wingo claps back at Emmanuel Acho over his claim about Ryan Clark building 'NFL Live'</title>
-      <link>https://www.foxnews.com/sports/former-espn-star-trey-wingo-claps-back-emmanuel-acho-ryan-clark-nfl-live</link>
-      <guid isPermaLink="false">ba4325c723bc20db385e1e043d302e0c4c9ffbe2</guid>
-      <pubDate>Thu, 23 Jul 2026 16:47:01 GMT</pubDate>
-      <description><![CDATA[Trey Wingo fired back at Emmanuel Acho with ESPN ratings data after Acho claimed Ryan Clark built "NFL Live" into a juggernaut on the network.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>New CIA thriller 'The Fix' blends heist, espionage genres with Liam Neeson, Zachary Levi</title>
-      <link>https://www.foxnews.com/outkick-culture/new-cia-thriller-the-fix-blends-heist-espionage-genres-liam-neeson-zachary-levi</link>
-      <guid isPermaLink="false">b9577ba2e11a42b4c226a7296515e4444e1e83be</guid>
-      <pubDate>Thu, 23 Jul 2026 16:45:37 GMT</pubDate>
-      <description><![CDATA[The trailer for "The Fix" shows Liam Neeson and Zachary Levi as CIA operators pulling off a daring heist deep inside Tehran after Afghanistan goes wrong.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>France evacuates 20,000 as wildfires spread in south-west</title>
-      <link>https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">85bd07a0469abde35d333712389b0cfb7a9e8176</guid>
-      <pubDate>Thu, 23 Jul 2026 16:41:52 GMT</pubDate>
-      <description><![CDATA[Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Johnson delivers big for Trump, but frustration grows across razor-thin GOP majority</title>
-      <link>https://www.foxnews.com/politics/johnson-delivers-big-trump-frustration-grows-across-razor-thin-gop-majority</link>
-      <guid isPermaLink="false">5d241ca2cb565e81771c6383ba73869fe9b9a6ed</guid>
-      <pubDate>Thu, 23 Jul 2026 16:41:32 GMT</pubDate>
-      <description><![CDATA[Frustrations mount over how Speaker Mike Johnson manages the razor-thin House majority even as the GOP nets a series of big wins.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says</title>
-      <link>https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">84e965977ee75fbee35fa23d4290d8d4aa24293a</guid>
-      <pubDate>Thu, 23 Jul 2026 16:26:49 GMT</pubDate>
-      <description><![CDATA[Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Gary Lineker among millionaires asking Andy Burnham to tax them more</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">064b86ea421a16ab33257754a98e8bb1a4ff9930</guid>
-      <pubDate>Thu, 23 Jul 2026 16:20:45 GMT</pubDate>
-      <description><![CDATA[A group including the former England footballer write to the new PM telling him "we can afford it".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ex-governor convicted of murdering a pregnant student in Kenya</title>
-      <link>https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3e311c56115265698cc64e31fd28876a187e2af3</guid>
-      <pubDate>Thu, 23 Jul 2026 16:07:24 GMT</pubDate>
-      <description><![CDATA[Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Nicaragua's legislature debates barring opposition from elections</title>
-      <link>https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">31261cd1379fc176df2f02d5e5d9c74e15d27b59</guid>
-      <pubDate>Thu, 23 Jul 2026 15:54:41 GMT</pubDate>
-      <description><![CDATA[The move comes days after President Daniel Ortega demanded 'a wall, a blockade' against opposition parties.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Oil prices hit $100 for the first time since May</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5a577cbb7702513920c488bd321614050c87b84e</guid>
-      <pubDate>Thu, 23 Jul 2026 15:31:00 GMT</pubDate>
-      <description><![CDATA[The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'I am still alive': Indian activist on hunger strike for 26 days loses 11kg</title>
-      <link>https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">cd3cfa1cf3e8dd96a462f95477abc5df51818e30</guid>
-      <pubDate>Thu, 23 Jul 2026 15:22:06 GMT</pubDate>
-      <description><![CDATA[Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Darline Graham reveals what Trump told her inside Oval Office after brother Lindsey's death</title>
-      <link>https://www.foxnews.com/media/darline-graham-reveals-trump-told-oval-office-after-brother-lindsey-death</link>
-      <guid isPermaLink="false">097bf2ae53fc8899e5286f20df74a08b578c94c3</guid>
-      <pubDate>Thu, 23 Jul 2026 15:07:04 GMT</pubDate>
-      <description><![CDATA[Darline Graham says she used her Oval Office meeting with Trump to bring up Russia sanctions, honoring her late brother Lindsey Graham's Senate legacy.]]></description>
-      <category>politics</category>
     </item>
     <item>
       <title>Bryan Norcross: Disorganized Bertha charging toward Texas on its last day</title>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">fd8a7e7fba5a85180b5d95ce65dd425fde2d78b5</guid>
       <pubDate>Wed, 22 Jul 2026 10:56:40 GMT</pubDate>
       <description><![CDATA[Tropical Storm Bertha is back in the northern Gulf and racing toward Texas, where it is expected to make a second landfall Thursday afternoon after striking southeast Louisiana on Wednesday.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Tropical Storm Bertha races toward a second landfall along the Texas coastline</title>
-      <link>https://www.foxweather.com/weather-news/tropical-storm-bertha-gulf-coast-louisiana</link>
-      <guid isPermaLink="false">fd8a7e7fba5a85180b5d95ce65dd425fde2d78b5</guid>
-      <pubDate>Wed, 22 Jul 2026 10:56:40 GMT</pubDate>
-      <description><![CDATA[Tropical Storm Bertha is back in the northern Gulf and racing toward Texas, where it is expected to make a second landfall later Thursday after striking southeast Louisiana on Wednesday afternoon.]]></description>
       <category>weather</category>
     </item>
   </channel>
