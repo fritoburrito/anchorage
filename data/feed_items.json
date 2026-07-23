@@ -1,5 +1,25 @@
 [
   {
+    "title": "Town Crier for Homer events",
+    "link": "https://www.homernews.com/2026/07/22/town-crier-for-homer-events-7/",
+    "description": "Public announcements for local nonprofits, community groups and individuals.",
+    "pubDate": "Thu, 23 Jul 2026 03:30:00 GMT",
+    "category": "kenai",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
+    "title": "Days of heavy rain bring dangerous flash flood threat to the Mid-Atlantic and Carolinas",
+    "link": "https://www.foxweather.com/weather-news/mid-atlantic-carolinas-region-severe-storms-heavy-flooding",
+    "description": "As a severe weather threat increases across coastal cities along the Gulf Coast, the Mid Atlantic region, and the Carolinas, they are next up through the end of this week.",
+    "pubDate": "Thu, 23 Jul 2026 01:17:22 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "Get Out the Native Vote initiative galvanizes Alaska Native voters for the 2026 elections",
     "link": "https://alaskabeacon.com/2026/07/22/get-out-the-native-vote-initiative-galvanizes-alaska-native-voters-for-the-2026-elections/",
     "description": "A Native-led voter mobilization group is working to boost Alaska Native voter education and turnout this election season. Get Out the Native Vote is a non-partisan effort now underway to reach voters across the state\u2019s vast and varied geography and get them to cast ballots in the primary elections on August 18 and the midterm [\u2026]",
@@ -177,6 +197,16 @@
     "category": "local",
     "tag": "alaska",
     "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
+    "title": "Tropical Storm Bertha expected to intensify in Gulf waters before lashing Texas coastline",
+    "link": "https://www.foxweather.com/weather-news/tropical-storm-bertha-gulf-coast-louisiana",
+    "description": "Tropical Storm Bertha is lashing the northern Gulf Coast with tropical-storm-force winds from parts of the Florida Panhandle to Louisiana ahead of its expected landfall in southeastern Louisiana on Wednesday afternoon.",
+    "pubDate": "Wed, 22 Jul 2026 10:56:40 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
     "rank": 100
   },
   {
@@ -370,34 +400,124 @@
     "rank": 100
   },
   {
-    "title": "Bryan Norcross: Disheveled Tropical Storm Bertha tracking across the northern Gulf",
-    "link": "https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-july-21-2026",
-    "description": "Tropical Storm Bertha is producing some winds gusting near hurricane force, but they are confined to a robust thunderstorm cell near the center of rotation well offshore of the Florida Panhandle.",
-    "pubDate": "Tue, 21 Jul 2026 14:59:32 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Border K9 sniffs out 99 pounds of prohibited meat, plants and monitor lizard in suitcase from Thailand",
+    "link": "https://www.foxnews.com/us/border-k9-sniffs-99-pounds-prohibited-meat-plants-monitor-lizard-suitcase-thailand",
+    "description": "K9 Maisy discovered 50 pounds of raw meat, mangoes and 16 pounds of Bengal monitor lizard in luggage from Thailand, prompting a wildlife seizure.",
+    "pubDate": "Thu, 23 Jul 2026 03:59:10 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Lake Travis passes capacity after devastating Texas floods, threatening homes as Bertha moves along Gulf",
-    "link": "https://www.foxweather.com/weather-news/lake-travis-capacity-texas-floods-tropical-storm-bertha-july-2026",
-    "description": "Following days of torrential rain and life-threatening flooding across the Hill Country, Lake Travis tops 100% full capacity, prompting the first Mansfield Dam floodgate release in five years.",
-    "pubDate": "Tue, 21 Jul 2026 14:44:34 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+    "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+    "description": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
+    "pubDate": "Thu, 23 Jul 2026 03:48:27 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
-    "title": "July 21st, 1917",
-    "link": "https://alaska-native-news.com/july-21st-1917/43558/",
-    "description": "[content id=\u201d79272\u2033]",
-    "pubDate": "Tue, 21 Jul 2026 14:00:07 GMT",
-    "category": "culture",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Watch: Missouri suspect dives headfirst off bridge in wild bid to evade deputies",
+    "link": "https://www.foxnews.com/us/missouri-suspect-dives-headfirst-off-bridge-wild-bid-evade-deputies",
+    "description": "Video captures a Missouri man sprinting across a bridge and diving headfirst into Table Rock Lake after leading Stone County deputies on a chase.",
+    "pubDate": "Thu, 23 Jul 2026 03:42:56 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Caitlin Clark proves there's no NBA 2K27 cover curse as Fever set franchise scoring record",
+    "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-proves-no-nba-2k27-cover-curse-fever-set-franchise-scoring-record",
+    "description": "Caitlin Clark posted 27 points and 11 assists as the Indiana Fever set a franchise scoring record in a 123-88 blowout of the Connecticut Sun.",
+    "pubDate": "Thu, 23 Jul 2026 03:32:56 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Boston Red Sox 15-game winning streak finally comes to an end, one short of setting franchise record",
+    "link": "https://www.foxnews.com/outkick-sports/boston-red-sox-15-game-winning-streak-comes-end-one-short-setting-franchise-record",
+    "description": "The Boston Red Sox tied a franchise record with 15 consecutive wins, turning a last-place AL East team into a legitimate MLB postseason contender.",
+    "pubDate": "Thu, 23 Jul 2026 02:35:26 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Piker tells Mamdani to \u2018shut the f--- up\u2019 over cautious messaging, claims mayor needs to be more 'bold'",
+    "link": "https://www.foxnews.com/media/piker-tells-mamdani-shut-f-up-over-cautious-messaging-claims-mayor-needs-be-more-bold",
+    "description": "Hasan Piker told Zohran Mamdani to \"shut the f--- up\" and urged progressives to be bolder and less optics-driven in a podcast with Mehdi Hasan.",
+    "pubDate": "Thu, 23 Jul 2026 02:05:21 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Liberty's Sabrina Ionescu addresses absence from WNBA 3-point contest: 'Never officially got invited'",
+    "link": "https://www.foxnews.com/sports/libertys-sabrina-ionescu-addresses-absence-wnba-3-point-contest-never-officially-got-invited",
+    "description": "Sabrina Ionescu says she was never officially invited to the WNBA 3-point contest, contradicting reports she declined to participate in All-Star weekend.",
+    "pubDate": "Thu, 23 Jul 2026 01:45:21 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Bear caught on camera perched atop New Mexico utility pole before reportedly suffering fatal electrocution",
+    "link": "https://www.foxnews.com/us/bear-caught-camera-perched-atop-new-mexico-utility-pole-before-reportedly-suffering-fatal-electrocution",
+    "description": "Viral video shows a bear perched atop a utility pole along a rural New Mexico highway, panting and struggling to keep its balance on the precarious perch.",
+    "pubDate": "Thu, 23 Jul 2026 01:35:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Teachers who once dated and share child arrested after classroom argument spiraled into violence: police",
+    "link": "https://www.foxnews.com/us/teachers-who-once-dated-share-child-arrested-after-classroom-argument-spiraled-violence-police",
+    "description": "Both teachers at The SEED School of Miami face domestic violence battery charges after an alleged assault and pepper spray attack on school property.",
+    "pubDate": "Thu, 23 Jul 2026 01:35:05 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Sophie Cunningham doubles down ahead of Sun game after ESPN profile stirs controversy: 'I said what I said'",
+    "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-doubles-down-ahead-sun-game-after-espn-profile-stirs-controversy-i-said-what-i-said",
+    "description": "Sophie Cunningham told WNBA reporters she refuses to back down on protecting women's sports, citing Title IX and her belief in safeguarding girls.",
+    "pubDate": "Thu, 23 Jul 2026 01:03:24 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Jack Smith hit with criminal referral as GOP moves testimony fight toward prosecution",
+    "link": "https://www.foxnews.com/politics/jack-smith-hit-criminal-referral-gop-moves-testimony-fight-toward-prosecution",
+    "description": "Jim Jordan issued a criminal referral against Jack Smith, accusing him of making false statements to Congress about accessing lawmakers' text messages.",
+    "pubDate": "Thu, 23 Jul 2026 01:00:33 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+    "link": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+    "description": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
+    "pubDate": "Thu, 23 Jul 2026 00:15:12 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
     "title": "US signs landmark nuclear deal with Saudi Arabia",
@@ -480,140 +600,10 @@
     "rank": 10
   },
   {
-    "title": "CDC reveals massive behind-the-scenes public health operation that kept FIFA World Cup fans safe",
-    "link": "https://www.foxnews.com/health/cdc-reveals-massive-behind-the-scenes-public-health-operation-kept-fifa-world-cup-fans-safe",
-    "description": "The CDC operated behind the scenes during the FIFA World Cup, deploying disease surveillance, wastewater monitoring and real-time data dashboards.",
-    "pubDate": "Wed, 22 Jul 2026 23:31:07 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Big things brewing off the field in Tampa thanks to Jake Browning's wife & her plans to upgrade her fit checks",
-    "link": "https://www.foxnews.com/outkick-sports/big-things-brewing-field-tampa-jake-browning-wife-plans-upgrade-fit-checks",
-    "description": "Stephanie Niles is learning to sew her own game-day outfits after joining the Tampa Bay Buccaneers as Jake Browning's newly married NFL wife.",
-    "pubDate": "Wed, 22 Jul 2026 23:30:40 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Airport drop-off fees up by a third - here are the priciest",
-    "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
-    "description": "The cost of parking closest to the terminal just for a few minutes has hit \u00a310 at two of the UK's busiest airports.",
-    "pubDate": "Wed, 22 Jul 2026 23:21:40 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Newsom turns to Hunter Biden\u2019s high-powered ex-lawyer as federal scrutiny closes in on his family, allies",
-    "link": "https://www.foxnews.com/politics/newsom-turns-hunter-bidens-high-powered-ex-lawyer-federal-scrutiny-closes-his-family-allies",
-    "description": "Gavin Newsom hired Abbe Lowell, Hunter Biden's former attorney, as federal investigators scrutinize Jennifer Siebel Newsom's nonprofit finances.",
-    "pubDate": "Wed, 22 Jul 2026 23:13:09 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-    "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-    "description": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-    "pubDate": "Wed, 22 Jul 2026 23:06:08 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Travelers unite in powerful moment of silence as fallen US service member returns home",
-    "link": "https://www.foxnews.com/us/travelers-unite-powerful-moment-silence-fallen-us-service-member-returns-home",
-    "description": "Video captured hundreds of travelers at Raleigh-Durham International Airport standing in silence during a dignified transfer. The clip gained attention online.",
-    "pubDate": "Wed, 22 Jul 2026 22:57:41 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Experts reveal how to avoid deadly Legionnaires' disease as NYC outbreak kills 5",
-    "link": "https://www.foxnews.com/health/experts-reveal-avoid-deadly-legionnaires-disease-nyc-outbreak-kills-5",
-    "description": "The New York City Legionnaires' disease outbreak has killed five and sickened 82, but doctors say key prevention steps can reduce exposure risk.",
-    "pubDate": "Wed, 22 Jul 2026 22:53:45 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Cole Hauser admits Taylor Sheridan's absence from writers' room created 'challenges' on 'Dutton Ranch'",
-    "link": "https://www.foxnews.com/entertainment/cole-hauser-admits-taylor-sheridans-absence-from-writers-room-created-challenges-dutton-ranch",
-    "description": "The \"Yellowstone\" actor admitted \"everything had changed\" on \"Dutton Ranch\" after Taylor Sheridan stepped back, saying the cast had to \"figure out\" a new creative team.",
-    "pubDate": "Wed, 22 Jul 2026 22:53:10 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-    "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-    "description": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
-    "pubDate": "Wed, 22 Jul 2026 22:17:54 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Fox News Poll: Voters want major change amid economic and political discontent",
-    "link": "https://www.foxnews.com/politics/fox-news-poll-voters-want-major-change-amid-economic-political-discontent",
-    "description": "Trump approval holds at 39% as Democrats lead the generic ballot by 7 points, the highest for either party in Fox News polling since 1996.",
-    "pubDate": "Wed, 22 Jul 2026 22:00:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Migrant allegedly kills 3 apartment building staffers over parking lot contract dispute",
-    "link": "https://www.foxnews.com/us/migrant-allegedly-kills-three-apartment-building-staffers-parking-lot-contract-dispute",
-    "description": "Tsegaab Binessu, a migrant from Ethiopia and former truck driver, allegedly killed three St. Paul apartment staffers over a parking cancellation dispute.",
-    "pubDate": "Wed, 22 Jul 2026 21:59:06 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Spanish soccer players got a bizarre reward for winning the World Cup that'll probably spoil in a week or two",
-    "link": "https://www.foxnews.com/outkick-sports/spanish-soccer-players-bizarre-reward-winning-world-cup-spoil-week-two",
-    "description": "World Cup winners Fabian Ruiz and Gavi each received their body weight in tomatoes from their Spanish hometown of Los Palacios y Villafranca.",
-    "pubDate": "Wed, 22 Jul 2026 21:57:26 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon - Light Rain Likely",
-    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "57\u00b0F. Wind S 10 mph. Rain likely. Cloudy, with a high near 57. South wind around 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Thu, 23 Jul 2026 00:08:56 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "National Weather Service Anchorage",
-    "rank": 0
-  },
-  {
     "title": "Anchorage Weather: Tonight - Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "53\u00b0F. Wind S 10 to 25 mph. Rain. Cloudy, with a low around 53. South wind 10 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
-    "pubDate": "Thu, 23 Jul 2026 00:08:56 GMT",
+    "description": "53\u00b0F. Wind SE 10 to 25 mph. Rain. Cloudy, with a low around 53. Southeast wind 10 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.",
+    "pubDate": "Thu, 23 Jul 2026 04:22:00 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +613,7 @@
     "title": "Anchorage Weather: Thursday - Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "61\u00b0F. Wind S 10 to 25 mph. Rain before 1pm. Mostly cloudy, with a high near 61. South wind 10 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 90%.",
-    "pubDate": "Thu, 23 Jul 2026 00:08:56 GMT",
+    "pubDate": "Thu, 23 Jul 2026 04:22:00 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +623,7 @@
     "title": "Anchorage Weather: Thursday Night - Mostly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "53\u00b0F. Wind S 0 to 10 mph. Mostly cloudy, with a low around 53. South wind 0 to 10 mph.",
-    "pubDate": "Thu, 23 Jul 2026 00:08:56 GMT",
+    "pubDate": "Thu, 23 Jul 2026 04:22:00 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +633,17 @@
     "title": "Anchorage Weather: Friday - Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "65\u00b0F. Wind N 0 to 10 mph. Mostly sunny, with a high near 65. North wind 0 to 10 mph.",
-    "pubDate": "Thu, 23 Jul 2026 00:08:56 GMT",
+    "pubDate": "Thu, 23 Jul 2026 04:22:00 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "National Weather Service Anchorage",
+    "rank": 0
+  },
+  {
+    "title": "Anchorage Weather: Friday Night - Mostly Clear",
+    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+    "description": "50\u00b0F. Wind N 5 to 10 mph. Mostly clear, with a low around 50. North wind 5 to 10 mph.",
+    "pubDate": "Thu, 23 Jul 2026 04:22:00 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",

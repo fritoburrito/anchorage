@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 00:08:56 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Light Rain Likely</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 00:08:56 GMT</pubDate>
-      <description><![CDATA[57°F. Wind S 10 mph. Rain likely. Cloudy, with a high near 57. South wind around 10 mph. Chance of precipitation is 60%.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 04:22:00 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 00:08:56 GMT</pubDate>
-      <description><![CDATA[53°F. Wind S 10 to 25 mph. Rain. Cloudy, with a low around 53. South wind 10 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.]]></description>
+      <pubDate>Thu, 23 Jul 2026 04:22:00 GMT</pubDate>
+      <description><![CDATA[53°F. Wind SE 10 to 25 mph. Rain. Cloudy, with a low around 53. Southeast wind 10 to 25 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Thursday - Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 00:08:56 GMT</pubDate>
+      <pubDate>Thu, 23 Jul 2026 04:22:00 GMT</pubDate>
       <description><![CDATA[61°F. Wind S 10 to 25 mph. Rain before 1pm. Mostly cloudy, with a high near 61. South wind 10 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Thursday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 00:08:56 GMT</pubDate>
+      <pubDate>Thu, 23 Jul 2026 04:22:00 GMT</pubDate>
       <description><![CDATA[53°F. Wind S 0 to 10 mph. Mostly cloudy, with a low around 53. South wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +34,25 @@
       <title>Anchorage Weather: Friday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 00:08:56 GMT</pubDate>
+      <pubDate>Thu, 23 Jul 2026 04:22:00 GMT</pubDate>
       <description><![CDATA[65°F. Wind N 0 to 10 mph. Mostly sunny, with a high near 65. North wind 0 to 10 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday Night - Mostly Clear</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Thu, 23 Jul 2026 04:22:00 GMT</pubDate>
+      <description><![CDATA[50°F. Wind N 5 to 10 mph. Mostly clear, with a low around 50. North wind 5 to 10 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Town Crier for Homer events</title>
+      <link>https://www.homernews.com/2026/07/22/town-crier-for-homer-events-7/</link>
+      <guid isPermaLink="false">e6555f52fe44ce3bd0567a5ec255da54f160ad27</guid>
+      <pubDate>Thu, 23 Jul 2026 03:30:00 GMT</pubDate>
+      <description><![CDATA[Public announcements for local nonprofits, community groups and individuals.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Get Out the Native Vote initiative galvanizes Alaska Native voters for the 2026 elections</title>
@@ -287,12 +295,108 @@
       <category>local</category>
     </item>
     <item>
-      <title>July 21st, 1917</title>
-      <link>https://alaska-native-news.com/july-21st-1917/43558/</link>
-      <guid isPermaLink="false">964ea86e60e68e2001697842b4d98c8fa5419891</guid>
-      <pubDate>Tue, 21 Jul 2026 14:00:07 GMT</pubDate>
-      <description><![CDATA[[content id=”79272″]]]></description>
-      <category>local</category>
+      <title>Border K9 sniffs out 99 pounds of prohibited meat, plants and monitor lizard in suitcase from Thailand</title>
+      <link>https://www.foxnews.com/us/border-k9-sniffs-99-pounds-prohibited-meat-plants-monitor-lizard-suitcase-thailand</link>
+      <guid isPermaLink="false">2a25f638c8669aef7b52093359a0e648aed521b3</guid>
+      <pubDate>Thu, 23 Jul 2026 03:59:10 GMT</pubDate>
+      <description><![CDATA[K9 Maisy discovered 50 pounds of raw meat, mangoes and 16 pounds of Bengal monitor lizard in luggage from Thailand, prompting a wildlife seizure.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Houthis claim attack on oil tankers as US launches more strikes on Iran</title>
+      <link>https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">341e3e413aabb9c54afd5c1b2ef1b6c5dfb94f61</guid>
+      <pubDate>Thu, 23 Jul 2026 03:48:27 GMT</pubDate>
+      <description><![CDATA[The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a "maritime embargo" against Saudi Arabia.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Watch: Missouri suspect dives headfirst off bridge in wild bid to evade deputies</title>
+      <link>https://www.foxnews.com/us/missouri-suspect-dives-headfirst-off-bridge-wild-bid-evade-deputies</link>
+      <guid isPermaLink="false">dd2efc80c6a2f2c0ad9c660fe98eca738a690091</guid>
+      <pubDate>Thu, 23 Jul 2026 03:42:56 GMT</pubDate>
+      <description><![CDATA[Video captures a Missouri man sprinting across a bridge and diving headfirst into Table Rock Lake after leading Stone County deputies on a chase.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Caitlin Clark proves there's no NBA 2K27 cover curse as Fever set franchise scoring record</title>
+      <link>https://www.foxnews.com/outkick-sports/caitlin-clark-proves-no-nba-2k27-cover-curse-fever-set-franchise-scoring-record</link>
+      <guid isPermaLink="false">037919375a44b608841d89aeb2ea5edb585db2e2</guid>
+      <pubDate>Thu, 23 Jul 2026 03:32:56 GMT</pubDate>
+      <description><![CDATA[Caitlin Clark posted 27 points and 11 assists as the Indiana Fever set a franchise scoring record in a 123-88 blowout of the Connecticut Sun.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Boston Red Sox 15-game winning streak finally comes to an end, one short of setting franchise record</title>
+      <link>https://www.foxnews.com/outkick-sports/boston-red-sox-15-game-winning-streak-comes-end-one-short-setting-franchise-record</link>
+      <guid isPermaLink="false">e2a2e4d45f070410dee8df43322dff3bf5dfe3ef</guid>
+      <pubDate>Thu, 23 Jul 2026 02:35:26 GMT</pubDate>
+      <description><![CDATA[The Boston Red Sox tied a franchise record with 15 consecutive wins, turning a last-place AL East team into a legitimate MLB postseason contender.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Piker tells Mamdani to ‘shut the f--- up’ over cautious messaging, claims mayor needs to be more 'bold'</title>
+      <link>https://www.foxnews.com/media/piker-tells-mamdani-shut-f-up-over-cautious-messaging-claims-mayor-needs-be-more-bold</link>
+      <guid isPermaLink="false">94fa253b63812bb387bdbbaf87d4be0095c8819a</guid>
+      <pubDate>Thu, 23 Jul 2026 02:05:21 GMT</pubDate>
+      <description><![CDATA[Hasan Piker told Zohran Mamdani to "shut the f--- up" and urged progressives to be bolder and less optics-driven in a podcast with Mehdi Hasan.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Liberty's Sabrina Ionescu addresses absence from WNBA 3-point contest: 'Never officially got invited'</title>
+      <link>https://www.foxnews.com/sports/libertys-sabrina-ionescu-addresses-absence-wnba-3-point-contest-never-officially-got-invited</link>
+      <guid isPermaLink="false">9d13f40ea494fa4dd1800f55a03af9bf492ecd12</guid>
+      <pubDate>Thu, 23 Jul 2026 01:45:21 GMT</pubDate>
+      <description><![CDATA[Sabrina Ionescu says she was never officially invited to the WNBA 3-point contest, contradicting reports she declined to participate in All-Star weekend.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bear caught on camera perched atop New Mexico utility pole before reportedly suffering fatal electrocution</title>
+      <link>https://www.foxnews.com/us/bear-caught-camera-perched-atop-new-mexico-utility-pole-before-reportedly-suffering-fatal-electrocution</link>
+      <guid isPermaLink="false">33d5039f59481ab6b89418c766781575eaba5c19</guid>
+      <pubDate>Thu, 23 Jul 2026 01:35:09 GMT</pubDate>
+      <description><![CDATA[Viral video shows a bear perched atop a utility pole along a rural New Mexico highway, panting and struggling to keep its balance on the precarious perch.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Teachers who once dated and share child arrested after classroom argument spiraled into violence: police</title>
+      <link>https://www.foxnews.com/us/teachers-who-once-dated-share-child-arrested-after-classroom-argument-spiraled-violence-police</link>
+      <guid isPermaLink="false">c285ea7c8ad4785661f2241ec40221b5b31b9f66</guid>
+      <pubDate>Thu, 23 Jul 2026 01:35:05 GMT</pubDate>
+      <description><![CDATA[Both teachers at The SEED School of Miami face domestic violence battery charges after an alleged assault and pepper spray attack on school property.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Days of heavy rain bring dangerous flash flood threat to the Mid-Atlantic and Carolinas</title>
+      <link>https://www.foxweather.com/weather-news/mid-atlantic-carolinas-region-severe-storms-heavy-flooding</link>
+      <guid isPermaLink="false">b2e291c078c460c89eafc1bc53e2ed817e93b10a</guid>
+      <pubDate>Thu, 23 Jul 2026 01:17:22 GMT</pubDate>
+      <description><![CDATA[As a severe weather threat increases across coastal cities along the Gulf Coast, the Mid Atlantic region, and the Carolinas, they are next up through the end of this week.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Sophie Cunningham doubles down ahead of Sun game after ESPN profile stirs controversy: 'I said what I said'</title>
+      <link>https://www.foxnews.com/outkick-sports/sophie-cunningham-doubles-down-ahead-sun-game-after-espn-profile-stirs-controversy-i-said-what-i-said</link>
+      <guid isPermaLink="false">03f05c4c0c5282e6bcf278b3c6c70c539c06bb6e</guid>
+      <pubDate>Thu, 23 Jul 2026 01:03:24 GMT</pubDate>
+      <description><![CDATA[Sophie Cunningham told WNBA reporters she refuses to back down on protecting women's sports, citing Title IX and her belief in safeguarding girls.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Jack Smith hit with criminal referral as GOP moves testimony fight toward prosecution</title>
+      <link>https://www.foxnews.com/politics/jack-smith-hit-criminal-referral-gop-moves-testimony-fight-toward-prosecution</link>
+      <guid isPermaLink="false">1fd7585eb0366de8b4724631bab1865900e00787</guid>
+      <pubDate>Thu, 23 Jul 2026 01:00:33 GMT</pubDate>
+      <description><![CDATA[Jim Jordan issued a criminal referral against Jack Smith, accusing him of making false statements to Congress about accessing lawmakers' text messages.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Canada's 'powerful' dairy sector is in Trump's trade crosshairs</title>
+      <link>https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b3a4117e165d4d73a6165029b619ddbe17d0a411</guid>
+      <pubDate>Thu, 23 Jul 2026 00:15:12 GMT</pubDate>
+      <description><![CDATA[Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>US signs landmark nuclear deal with Saudi Arabia</title>
@@ -359,70 +463,6 @@
       <category>weather</category>
     </item>
     <item>
-      <title>CDC reveals massive behind-the-scenes public health operation that kept FIFA World Cup fans safe</title>
-      <link>https://www.foxnews.com/health/cdc-reveals-massive-behind-the-scenes-public-health-operation-kept-fifa-world-cup-fans-safe</link>
-      <guid isPermaLink="false">e972253907571e9bd4e02917230fa22fdfba8279</guid>
-      <pubDate>Wed, 22 Jul 2026 23:31:07 GMT</pubDate>
-      <description><![CDATA[The CDC operated behind the scenes during the FIFA World Cup, deploying disease surveillance, wastewater monitoring and real-time data dashboards.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Big things brewing off the field in Tampa thanks to Jake Browning's wife &amp; her plans to upgrade her fit checks</title>
-      <link>https://www.foxnews.com/outkick-sports/big-things-brewing-field-tampa-jake-browning-wife-plans-upgrade-fit-checks</link>
-      <guid isPermaLink="false">5b90cc749c3ebd2ad9470cd78e86cc845e865e58</guid>
-      <pubDate>Wed, 22 Jul 2026 23:30:40 GMT</pubDate>
-      <description><![CDATA[Stephanie Niles is learning to sew her own game-day outfits after joining the Tampa Bay Buccaneers as Jake Browning's newly married NFL wife.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Airport drop-off fees up by a third - here are the priciest</title>
-      <link>https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">21a3a3711340e7ff0fd02080aebd154089097dcc</guid>
-      <pubDate>Wed, 22 Jul 2026 23:21:40 GMT</pubDate>
-      <description><![CDATA[The cost of parking closest to the terminal just for a few minutes has hit £10 at two of the UK's busiest airports.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Newsom turns to Hunter Biden’s high-powered ex-lawyer as federal scrutiny closes in on his family, allies</title>
-      <link>https://www.foxnews.com/politics/newsom-turns-hunter-bidens-high-powered-ex-lawyer-federal-scrutiny-closes-his-family-allies</link>
-      <guid isPermaLink="false">dfaa99c6521f0b76c94cd216fc0df550b8c9e532</guid>
-      <pubDate>Wed, 22 Jul 2026 23:13:09 GMT</pubDate>
-      <description><![CDATA[Gavin Newsom hired Abbe Lowell, Hunter Biden's former attorney, as federal investigators scrutinize Jennifer Siebel Newsom's nonprofit finances.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Russia's businesses under strain from Ukraine's attacks on Wildberries</title>
-      <link>https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bea210e2aedf0a1db1fe8513f5632e17785a310b</guid>
-      <pubDate>Wed, 22 Jul 2026 23:06:08 GMT</pubDate>
-      <description><![CDATA[Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Travelers unite in powerful moment of silence as fallen US service member returns home</title>
-      <link>https://www.foxnews.com/us/travelers-unite-powerful-moment-silence-fallen-us-service-member-returns-home</link>
-      <guid isPermaLink="false">492587bb6c58840c5d730a8072594530a8182641</guid>
-      <pubDate>Wed, 22 Jul 2026 22:57:41 GMT</pubDate>
-      <description><![CDATA[Video captured hundreds of travelers at Raleigh-Durham International Airport standing in silence during a dignified transfer. The clip gained attention online.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Experts reveal how to avoid deadly Legionnaires' disease as NYC outbreak kills 5</title>
-      <link>https://www.foxnews.com/health/experts-reveal-avoid-deadly-legionnaires-disease-nyc-outbreak-kills-5</link>
-      <guid isPermaLink="false">595638f790f28b9b4fce8a23a51764f896e7f319</guid>
-      <pubDate>Wed, 22 Jul 2026 22:53:45 GMT</pubDate>
-      <description><![CDATA[The New York City Legionnaires' disease outbreak has killed five and sickened 82, but doctors say key prevention steps can reduce exposure risk.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Cole Hauser admits Taylor Sheridan's absence from writers' room created 'challenges' on 'Dutton Ranch'</title>
-      <link>https://www.foxnews.com/entertainment/cole-hauser-admits-taylor-sheridans-absence-from-writers-room-created-challenges-dutton-ranch</link>
-      <guid isPermaLink="false">2777cf94ec55e714d3dba1e898f20ac31b282981</guid>
-      <pubDate>Wed, 22 Jul 2026 22:53:10 GMT</pubDate>
-      <description><![CDATA[The "Yellowstone" actor admitted "everything had changed" on "Dutton Ranch" after Taylor Sheridan stepped back, saying the cast had to "figure out" a new creative team.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Pan American plane found 2,000 miles under Atlantic Ocean after crash 74 years ago</title>
       <link>https://www.foxweather.com/weather-news/pan-am-aircraft-found-atlantic-ocean-crash-74-years-later</link>
       <guid isPermaLink="false">ff99389a82c826df72f50b86ae5b3fb96ee28648</guid>
@@ -431,43 +471,19 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist</title>
-      <link>https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d27a33d94c93219f28f60afe6a7a75788c2725ac</guid>
-      <pubDate>Wed, 22 Jul 2026 22:17:54 GMT</pubDate>
-      <description><![CDATA[Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fox News Poll: Voters want major change amid economic and political discontent</title>
-      <link>https://www.foxnews.com/politics/fox-news-poll-voters-want-major-change-amid-economic-political-discontent</link>
-      <guid isPermaLink="false">ab0960cf856275fd07a450426c96b67e1b07da58</guid>
-      <pubDate>Wed, 22 Jul 2026 22:00:03 GMT</pubDate>
-      <description><![CDATA[Trump approval holds at 39% as Democrats lead the generic ballot by 7 points, the highest for either party in Fox News polling since 1996.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Migrant allegedly kills 3 apartment building staffers over parking lot contract dispute</title>
-      <link>https://www.foxnews.com/us/migrant-allegedly-kills-three-apartment-building-staffers-parking-lot-contract-dispute</link>
-      <guid isPermaLink="false">8da6400dd6c93dd70c9f1ef9d16adf50b30940b3</guid>
-      <pubDate>Wed, 22 Jul 2026 21:59:06 GMT</pubDate>
-      <description><![CDATA[Tsegaab Binessu, a migrant from Ethiopia and former truck driver, allegedly killed three St. Paul apartment staffers over a parking cancellation dispute.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Spanish soccer players got a bizarre reward for winning the World Cup that'll probably spoil in a week or two</title>
-      <link>https://www.foxnews.com/outkick-sports/spanish-soccer-players-bizarre-reward-winning-world-cup-spoil-week-two</link>
-      <guid isPermaLink="false">213a9028074b0fe49c12aca6d5bd8f608c62c8b8</guid>
-      <pubDate>Wed, 22 Jul 2026 21:57:26 GMT</pubDate>
-      <description><![CDATA[World Cup winners Fabian Ruiz and Gavi each received their body weight in tomatoes from their Spanish hometown of Los Palacios y Villafranca.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Bryan Norcross: Weakening Bertha close to landfall in Louisiana but its story likely to continue on to Texas</title>
       <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-july-22-2026</link>
       <guid isPermaLink="false">949d107eb7495bc47afd1743076b6701a3c990aa</guid>
       <pubDate>Wed, 22 Jul 2026 14:47:43 GMT</pubDate>
       <description><![CDATA[Tropical Storm Bertha will soon make landfall on the coast of southeastern Louisiana. Once Bertha’s broad center makes landfall, the circulation is likely to get sufficiently disrupted that the tropical system essentially dissipates.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Tropical Storm Bertha expected to intensify in Gulf waters before lashing Texas coastline</title>
+      <link>https://www.foxweather.com/weather-news/tropical-storm-bertha-gulf-coast-louisiana</link>
+      <guid isPermaLink="false">fd8a7e7fba5a85180b5d95ce65dd425fde2d78b5</guid>
+      <pubDate>Wed, 22 Jul 2026 10:56:40 GMT</pubDate>
+      <description><![CDATA[Tropical Storm Bertha is lashing the northern Gulf Coast with tropical-storm-force winds from parts of the Florida Panhandle to Louisiana ahead of its expected landfall in southeastern Louisiana on Wednesday afternoon.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -508,22 +524,6 @@
       <guid isPermaLink="false">69c70a9e5711565eb2a88d238ae32d53b6120061</guid>
       <pubDate>Tue, 21 Jul 2026 15:15:19 GMT</pubDate>
       <description><![CDATA[Gulf Coast states are preparing for Tropical Storm Bertha, which is set to deliver life-threatening storm surge, tropical downpours and gusty winds to parts of Florida, Alabama, Mississippi and Louisiana, with impacts increasing through the day on Wednesday.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Bryan Norcross: Disheveled Tropical Storm Bertha tracking across the northern Gulf</title>
-      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-july-21-2026</link>
-      <guid isPermaLink="false">deabfd8e60d6648b3294a9d272bc8a5a76c67238</guid>
-      <pubDate>Tue, 21 Jul 2026 14:59:32 GMT</pubDate>
-      <description><![CDATA[Tropical Storm Bertha is producing some winds gusting near hurricane force, but they are confined to a robust thunderstorm cell near the center of rotation well offshore of the Florida Panhandle.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Lake Travis passes capacity after devastating Texas floods, threatening homes as Bertha moves along Gulf</title>
-      <link>https://www.foxweather.com/weather-news/lake-travis-capacity-texas-floods-tropical-storm-bertha-july-2026</link>
-      <guid isPermaLink="false">b4d34ab2ed287ada935287e954e3279899244275</guid>
-      <pubDate>Tue, 21 Jul 2026 14:44:34 GMT</pubDate>
-      <description><![CDATA[Following days of torrential rain and life-threatening flooding across the Hill Country, Lake Travis tops 100% full capacity, prompting the first Mansfield Dam floodgate release in five years.]]></description>
       <category>weather</category>
     </item>
   </channel>
