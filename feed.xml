@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 20:25:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 22:12:38 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Today - Mostly Sunny</title>
+      <title>Anchorage Weather: This Afternoon - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 24 Jul 2026 20:25:54 GMT</pubDate>
-      <description><![CDATA[68°F. Wind NE 0 to 15 mph. Mostly sunny, with a high near 68. Northeast wind 0 to 15 mph.]]></description>
+      <pubDate>Fri, 24 Jul 2026 22:12:38 GMT</pubDate>
+      <description><![CDATA[68°F. Wind NW 10 to 15 mph. Mostly sunny, with a high near 68. Northwest wind 10 to 15 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 24 Jul 2026 20:25:54 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 22:12:38 GMT</pubDate>
       <description><![CDATA[46°F. Wind N 5 to 15 mph. Mostly clear, with a low around 46. North wind 5 to 15 mph, with gusts as high as 25 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Saturday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 24 Jul 2026 20:25:54 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 22:12:38 GMT</pubDate>
       <description><![CDATA[69°F. Wind NW 0 to 5 mph. Sunny, with a high near 69. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Saturday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 24 Jul 2026 20:25:54 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 22:12:38 GMT</pubDate>
       <description><![CDATA[49°F. Wind S 0 to 5 mph. Mostly clear, with a low around 49. South wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Sunday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 24 Jul 2026 20:25:54 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 22:12:38 GMT</pubDate>
       <description><![CDATA[69°F. Wind SW 0 to 5 mph. Sunny, with a high near 69. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -295,12 +295,132 @@
       <category>local</category>
     </item>
     <item>
-      <title>Town Crier for Homer events</title>
-      <link>https://www.homernews.com/2026/07/22/town-crier-for-homer-events-7/</link>
-      <guid isPermaLink="false">e6555f52fe44ce3bd0567a5ec255da54f160ad27</guid>
-      <pubDate>Thu, 23 Jul 2026 03:30:00 GMT</pubDate>
-      <description><![CDATA[Public announcements for local nonprofits, community groups and individuals.]]></description>
-      <category>local</category>
+      <title>The surveillance camera on your street corner: lawful spying or constitutionally problematic?</title>
+      <link>https://www.foxnews.com/tech/surveillance-camera-your-street-corner-lawful-spying-constitutionally-problematic</link>
+      <guid isPermaLink="false">3a9bdb72aa606a1571a53bbf038c57a4577dda0c</guid>
+      <pubDate>Fri, 24 Jul 2026 22:04:51 GMT</pubDate>
+      <description><![CDATA[Automated license plate readers are expanding across the U.S., fueling privacy and surveillance concerns.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump says Saudi nuclear agreement won't move forward without Abraham Accords: 'They have to be a member'</title>
+      <link>https://www.foxnews.com/politics/trump-says-saudi-nuclear-agreement-wont-move-forward-without-abraham-accords-they-have-to-be-member</link>
+      <guid isPermaLink="false">b3ed0713fcd5e29e1b6e53f8fa6981409917d630</guid>
+      <pubDate>Fri, 24 Jul 2026 22:00:58 GMT</pubDate>
+      <description><![CDATA[Trump says Saudi Arabia must join the Abraham Accords before any civilian nuclear energy deal moves forward, insisting the condition was always understood.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump weighs in on LeBron James vs Michael Jordan debate: 'I only like people that like me'</title>
+      <link>https://www.foxnews.com/sports/trump-weighs-lebron-james-vs-michael-jordan-debate-i-only-like-people-that-like-me</link>
+      <guid isPermaLink="false">cd88f9be42e1025f510c4b74387c2191a16048fb</guid>
+      <pubDate>Fri, 24 Jul 2026 21:55:55 GMT</pubDate>
+      <description><![CDATA[President Donald Trump was asked who he thought was better, Michael Jordan or LeBron James, and Trump said he thought the Chicago Bulls legend was better.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Buffalo Bills' latest edition to their new stadium is predictably (and painfully) on brand</title>
+      <link>https://www.foxnews.com/outkick-sports/buffalo-bills-latest-edition-new-stadium-predictably-painfully-brand</link>
+      <guid isPermaLink="false">2412516009489b5327484063f7c69658c3fd6729</guid>
+      <pubDate>Fri, 24 Jul 2026 21:55:20 GMT</pubDate>
+      <description><![CDATA[A 20-foot broken folding table now stands in the concourse of Buffalo's new $2.1 billion Highmark Stadium as a tribute to Bills Mafia tailgate culture.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Democrats approve new primary election calendar, putting South Carolina first</title>
+      <link>https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028</link>
+      <guid isPermaLink="false">fb7d2468c3d524a1d62ab995e9c2a19d2755db1d</guid>
+      <pubDate>Fri, 24 Jul 2026 21:50:41 GMT</pubDate>
+      <description><![CDATA[Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain</title>
+      <link>https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0008452186b767a4c96b33e983eae2bdf77643d5</guid>
+      <pubDate>Fri, 24 Jul 2026 21:47:16 GMT</pubDate>
+      <description><![CDATA[Authorities face the "worst fire in the history of the region", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>ICC member states vote to remove chief prosecutor Karim Khan</title>
+      <link>https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote</link>
+      <guid isPermaLink="false">ef517f2c1d84cb1d891998722bf7cd560e75c20a</guid>
+      <pubDate>Fri, 24 Jul 2026 21:37:37 GMT</pubDate>
+      <description><![CDATA[The International Criminal Court voted to remove the global tribunal's chief prosecutor on Friday, nearly two years after sexual misconduct allegations against him first emerged, the court's oversight body announced.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ben Affleck and Casey Affleck's mom, Chris Anne Affleck, dead at 83 after pancreatic cancer battle</title>
+      <link>https://www.foxnews.com/entertainment/ben-affleck-casey-afflecks-mom-chris-anne-affleck-dead-83-after-pancreatic-cancer-battle</link>
+      <guid isPermaLink="false">a5f3e47851a9f746f37fe759b15abff2b13cefbb</guid>
+      <pubDate>Fri, 24 Jul 2026 21:36:03 GMT</pubDate>
+      <description><![CDATA[Chris Anne Affleck was diagnosed with pancreatic cancer in December 2025 and given six months to live. Her obituary reveals a touching final wish.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Buttigieg asked about apparent far-left socialist takeover of party as he calls himself a 'Buttigieg Democrat'</title>
+      <link>https://www.foxnews.com/media/pete-buttigieg-asked-apparent-far-left-socialist-takeover-party-calls-himself-buttigieg-democrat</link>
+      <guid isPermaLink="false">704defc1fe2eeb2cf753788eb3b4bc2b5b2c3a83</guid>
+      <pubDate>Fri, 24 Jul 2026 21:34:31 GMT</pubDate>
+      <description><![CDATA[Pete Buttigieg called himself a "common-sense Democrat" but repeatedly avoided disavowing DSA socialism, drawing criticism from Fox News political analyst Reince Priebus.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Joe and Hunter Biden appear on Barstool podcast to present ‘Lib of the Year’ award</title>
+      <link>https://www.foxnews.com/media/joe-hunter-biden-appear-barstool-podcast-present-lib-year-award</link>
+      <guid isPermaLink="false">5d854954e43f8f1561bf72bdde4b956c59d002a6</guid>
+      <pubDate>Fri, 24 Jul 2026 21:34:22 GMT</pubDate>
+      <description><![CDATA[Joe Biden and Hunter Biden surprised Jersey Jerry with a recorded video presenting him the "Lib of the Year" award on "Pardon My Take's" Takie Awards.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Huge explosion and fire rip through Essex industrial site</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2vgyzy1kyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5a0dae90525405d060b3a7eb365ac2e47a4bbdc1</guid>
+      <pubDate>Fri, 24 Jul 2026 21:31:55 GMT</pubDate>
+      <description><![CDATA[A major incident was declared as 100 firefighters battled a huge blaze south of Chelmsford.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>DHS accuses 'rogue' Clinton judge of open defiance of Supreme Court</title>
+      <link>https://www.foxnews.com/politics/dhs-accuses-rogue-clinton-judge-open-defiance-supreme-court</link>
+      <guid isPermaLink="false">573199e05bb99c532fe16e9c91f78fd18a4218b4</guid>
+      <pubDate>Fri, 24 Jul 2026 21:30:17 GMT</pubDate>
+      <description><![CDATA[DHS counsel calls the ruling "open defiance of the Supreme Court" after Judge Patti Saris preserves TPS protections for South Sudanese nationals.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Caitlin Clark deserves an apology after false USA Today report about getting her hair done</title>
+      <link>https://www.foxnews.com/outkick-sports/caitlin-clark-deserves-apology-false-usa-today-report-getting-hair-done</link>
+      <guid isPermaLink="false">1a8d8afa430097e74d17f24ab849e0c0e51339c6</guid>
+      <pubDate>Fri, 24 Jul 2026 21:27:57 GMT</pubDate>
+      <description><![CDATA[USA Today falsely reported Caitlin Clark skipped the WNBA Orange Carpet to get her hair done, then issued what it called a mere clarification.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>NYC 'Allahu Akbar' stabbings suspect's charges revealed, yells bizarre message during perp walk</title>
+      <link>https://www.foxnews.com/us/nyc-stabbing-suspect-yells-bizarre-message-during-perp-walk-authorities-reveal-charges</link>
+      <guid isPermaLink="false">1dc46327a9772b2c3f268422f46e9b9a77722e12</guid>
+      <pubDate>Fri, 24 Jul 2026 21:18:52 GMT</pubDate>
+      <description><![CDATA[Raul Morales faces attempted murder and hate crime charges after police said he stabbed two men during separate attacks on Manhattan's Upper West Side]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Man describes trying to save mother and daughter who drowned off Essex beach</title>
+      <link>https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">04f1b0a9f013d9493c71c8270aaeb32209d19c7e</guid>
+      <pubDate>Fri, 24 Jul 2026 21:14:02 GMT</pubDate>
+      <description><![CDATA[Craig Bowe says he heard screams during a trip to a beach to celebrate his daughter's birthday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>ICC top prosecutor removed over sexual misconduct allegations</title>
+      <link>https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1c31122fa3fdd06928a5df91a3b2240caceb4142</guid>
+      <pubDate>Fri, 24 Jul 2026 21:02:30 GMT</pubDate>
+      <description><![CDATA[Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Trump vows to investigate EU over fining of US tech companies</title>
@@ -335,132 +455,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Minor league baseball team's fireworks go awry and send fans scrambling for cover in viral video</title>
-      <link>https://www.foxnews.com/outkick-sports/minor-league-baseball-team-fireworks-go-awry-send-fans-scrambling-cover-viral-video</link>
-      <guid isPermaLink="false">9d7b9d9ad1b41f18aef55745efa756ac890eba1d</guid>
-      <pubDate>Fri, 24 Jul 2026 20:17:36 GMT</pubDate>
-      <description><![CDATA[Video shows fireworks shooting sideways into the bleachers at CarMax Park during the Richmond Flying Squirrels' postgame pyrotechnics display.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>How The Illharmonic's mix of hip-hop and classical builds community, one show at a time</title>
-      <link>https://www.npr.org/2026/07/24/nx-s1-5863498/the-illharmonic-orchestra-hip-hop-classical-music</link>
-      <guid isPermaLink="false">897fae34588c6f1963abace1a110c184f46b8bd5</guid>
-      <pubDate>Fri, 24 Jul 2026 20:00:00 GMT</pubDate>
-      <description><![CDATA[The Illharmonic Orchestra's performances blend hip-hop lyricism with classical instrumentation, and feature all-Black musical ensembles. The group's leaders speak with NPR's Juana Summers about how they build community around their high-energy performances and represent musicians and audiences in spaces where they may have not traditionally felt welcomed.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>ESPN host survives the cuts and then crushes a body-shaming troll, Nick Saban gets mouthy &amp; SEC vs Big Ten</title>
-      <link>https://www.foxnews.com/outkick-sports/espn-host-survives-cuts-crushes-body-shaming-troll-nick-saban-gets-mouthy-sec-vs-big-ten</link>
-      <guid isPermaLink="false">46debf141aff6f1e9847e333aaf019f1b8b833ef</guid>
-      <pubDate>Fri, 24 Jul 2026 19:59:43 GMT</pubDate>
-      <description><![CDATA[Alyssa Lang fires back at a body-shaming troll on X after surviving ESPN's roster cuts and thriving as the host at SEC Media Days this week.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>CNN host admits he was wrong to say illegal immigrant voting 'never happens' after New Jersey error</title>
-      <link>https://www.foxnews.com/media/cnn-host-admits-he-wrong-say-illegal-immigrant-voting-never-happens-after-new-jersey-error</link>
-      <guid isPermaLink="false">f9a0155b9694f4abf94409156a2489c901733079</guid>
-      <pubDate>Fri, 24 Jul 2026 19:59:15 GMT</pubDate>
-      <description><![CDATA[Michael Smerconish says he can no longer claim noncitizen voting never happens after New Jersey revealed a software error registered 6,600 noncitizens.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>ICC top prosecutor removed over sexual misconduct allegations</title>
-      <link>https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1c31122fa3fdd06928a5df91a3b2240caceb4142</guid>
-      <pubDate>Fri, 24 Jul 2026 19:57:04 GMT</pubDate>
-      <description><![CDATA[Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Republicans target Trump's crypto empire with new plan, Dems say it falls short</title>
-      <link>https://www.foxnews.com/politics/republicans-target-trumps-crypto-empire-new-plan-dems-say-falls-short</link>
-      <guid isPermaLink="false">35d0ce38166fd4f0769d5f7597955c877798ec6f</guid>
-      <pubDate>Fri, 24 Jul 2026 19:55:09 GMT</pubDate>
-      <description><![CDATA[Trump's income surged 250% to $2.2 billion largely from crypto ventures, but Senate Democrats say the Clarity Act's ethics provisions fall short.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>DNC panel picks first 2028 primary state after battle over key voting blocs</title>
-      <link>https://www.foxnews.com/politics/dnc-panel-picks-first-2028-primary-state-after-battle-over-key-voting-blocs</link>
-      <guid isPermaLink="false">b9b174ec5f3184ebda71e6bb2ecadf98fc67dddb</guid>
-      <pubDate>Fri, 24 Jul 2026 19:45:35 GMT</pubDate>
-      <description><![CDATA[The DNC Rules and Bylaws panel voted to keep South Carolina as the first 2028 Democratic primary, choosing it over Nevada in a battle over voter outreach.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Spiny lobster mini season kicks off in Florida, drawing eager divers to the water</title>
-      <link>https://www.foxnews.com/outkick-culture/spiny-lobster-mini-season-kicks-off-florida-drawing-eager-divers-water</link>
-      <guid isPermaLink="false">714d6db93f2daffd8400e35b48cf9764e38d67dc</guid>
-      <pubDate>Fri, 24 Jul 2026 19:37:44 GMT</pubDate>
-      <description><![CDATA[Florida's spiny lobster mini season arrives the last Wednesday and Thursday of July, and here's what you need to know about limits and permits.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>5 options to replace Ryan Clark on ESPN's Super Bowl halftime show</title>
-      <link>https://www.foxnews.com/outkick-sports/5-options-replace-ryan-clark-espn-super-bowl-halftime-show</link>
-      <guid isPermaLink="false">10a30edca5e2bee2e04231717d08dc47615789c3</guid>
-      <pubDate>Fri, 24 Jul 2026 19:30:19 GMT</pubDate>
-      <description><![CDATA[Kurt Warner, Steve Smith Sr., Dan Orlovsky and Mina Kimes are among five candidates to replace Ryan Clark on ESPN's Super Bowl halftime show.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>New York Times removes ex-Venezuelan Dictator Nicolás Maduro from 'Most Stylish' of 2026 list</title>
-      <link>https://www.foxnews.com/media/new-york-times-removes-ex-venezuelan-dictator-nicolas-maduro-most-stylish-2026-list</link>
-      <guid isPermaLink="false">22b87d8e591bc38a4df6df96e3907cc0293ab265</guid>
-      <pubDate>Fri, 24 Jul 2026 19:25:11 GMT</pubDate>
-      <description><![CDATA[The New York Times quietly removed Nicolás Maduro from its style list after a meme of the captured Venezuelan dictator in an tracksuit went viral.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Officers hurt as police boat hits Westminster Bridge</title>
-      <link>https://www.bbc.co.uk/news/articles/c935k4k4pezo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c72f0e96a2c1d8c4d71eb0684edf5ec7d0d02b98</guid>
-      <pubDate>Fri, 24 Jul 2026 19:11:50 GMT</pubDate>
-      <description><![CDATA[Police say a number of armed officers entered the River Thames but were recovered after the crash.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ten killed in Russian attack on drone exhibition near Kyiv</title>
-      <link>https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8518093b41402b23c8bd1965c225e2fb3813c414</guid>
-      <pubDate>Fri, 24 Jul 2026 18:51:17 GMT</pubDate>
-      <description><![CDATA[The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Four Palestinians and two Israelis killed in West Bank shooting</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">22c51bb32bd881286d0d967cfb946fd06da0a61c</guid>
-      <pubDate>Fri, 24 Jul 2026 18:19:23 GMT</pubDate>
-      <description><![CDATA[Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US and Iran trade more strikes in Gulf as fears of escalation mount</title>
-      <link>https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">29bf8be0c98cdc1af1c550bae05530f500275942</guid>
-      <pubDate>Fri, 24 Jul 2026 18:13:02 GMT</pubDate>
-      <description><![CDATA[It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Elon Musk fires back at reporter, claims more people 'hate you and the media than you realize'</title>
-      <link>https://www.foxnews.com/media/elon-musk-fires-back-reporter-claims-more-people-hate-you-media-than-you-realize</link>
-      <guid isPermaLink="false">9ae65ede3aacd68a04a98dc9da6ccea0005fb7e3</guid>
-      <pubDate>Fri, 24 Jul 2026 18:05:31 GMT</pubDate>
-      <description><![CDATA[Elon Musk told The Economist editor Zanny Minton Beddoes that journalists are more despised than him after she said people loathe the trillionaire's influence.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Cyclospora outbreak expands to nine US states, health officials say</title>
-      <link>https://www.bbc.co.uk/news/articles/cwyqgnp8wv8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">22ad8ee1365dc83a2cac3eb0aca8e87604f85a85</guid>
-      <pubDate>Fri, 24 Jul 2026 18:00:03 GMT</pubDate>
-      <description><![CDATA[Federal investigators continue to search for the sources amid the largest number of reported cyclosporiasis cases in US history.]]></description>
-      <category>world</category>
+      <title>Hurricane Fausto peaks in the Pacific as Tropical Storm Genevieve trails, forecast to become a major storm</title>
+      <link>https://www.foxweather.com/weather-news/hurricane-fausto-hawaii-tropical-activity-eastern-pacific</link>
+      <guid isPermaLink="false">f3d3bd62002296b665ccf55adcdbf60c060c72f5</guid>
+      <pubDate>Fri, 24 Jul 2026 17:44:08 GMT</pubDate>
+      <description><![CDATA[Hurricane Fausto peaked in intensity as a category 2 storm on Friday, as it hurtles through the East Pacific and brings attention to the Hawaiian Islands.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Hurricane Fausto peaks in intensity in Pacific, targeting Hawaii with Tropical Depression Seven-E following</title>
