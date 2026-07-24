@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 16:48:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 18:24:23 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 24 Jul 2026 16:48:28 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 18:24:23 GMT</pubDate>
       <description><![CDATA[68°F. Wind NE 0 to 15 mph. Mostly sunny, with a high near 68. Northeast wind 0 to 15 mph.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tonight - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 24 Jul 2026 16:48:28 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 18:24:23 GMT</pubDate>
       <description><![CDATA[46°F. Wind N 5 to 15 mph. Mostly clear, with a low around 46. North wind 5 to 15 mph, with gusts as high as 25 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Saturday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 24 Jul 2026 16:48:28 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 18:24:23 GMT</pubDate>
       <description><![CDATA[69°F. Wind NW 0 to 5 mph. Sunny, with a high near 69. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Saturday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 24 Jul 2026 16:48:28 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 18:24:23 GMT</pubDate>
       <description><![CDATA[49°F. Wind S 0 to 5 mph. Mostly clear, with a low around 49. South wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +42,49 @@
       <title>Anchorage Weather: Sunday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 24 Jul 2026 16:48:28 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 18:24:23 GMT</pubDate>
       <description><![CDATA[69°F. Wind SW 0 to 5 mph. Sunny, with a high near 69. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>‘Grotesque and Indefensible’: At Least 1.5 Million Kids Have Lost Food Aid Under GOP Budget Law</title>
+      <link>https://alaska-native-news.com/grotesque-and-indefensible-at-least-1-5-million-kids-have-lost-food-aid-under-gop-budget-law/85262/</link>
+      <guid isPermaLink="false">21072392e31939a6080317251d70646f24974ad4</guid>
+      <pubDate>Fri, 24 Jul 2026 14:05:23 GMT</pubDate>
+      <description><![CDATA[“The damage from the SNAP cuts could worsen quickly as some states are considering ending their SNAP programs entirely as soon as October 2027,” warned one expert. At least 1.5 million children have lost Supplemental Nutrition Assistance Program benefits since US President Donald Trump signed the Republican budget package into law last summer, enacting the largest cuts to federal food […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Progressives Urge Senate to Reject Israel Military Integration in NDAA Passed by House</title>
+      <link>https://alaska-native-news.com/progressives-urge-senate-to-reject-israel-military-integration-in-ndaa-passed-by-house/85259/</link>
+      <guid isPermaLink="false">2135270c26fc2c43128494ddcafab04c845e7815</guid>
+      <pubDate>Fri, 24 Jul 2026 14:04:37 GMT</pubDate>
+      <description><![CDATA[“We need to now fight to strip this amendment in the conference between the House and the Senate,” said Rep. Ro Khanna. The Republican-controlled US House of Representatives voted Wednesday in favor of a record $1.15 trillion military spending authorization bill containing a highly controversial provision to increase cooperation between the US and Israeli armed forces. House lawmakers voted […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Landless Bill Advances from Senate Committee</title>
+      <link>https://alaska-native-news.com/landless-bill-advances-from-senate-committee/85257/</link>
+      <guid isPermaLink="false">6622bbcce4ddaf92e809f667c8c14481eee54c67</guid>
+      <pubDate>Fri, 24 Jul 2026 14:03:42 GMT</pubDate>
+      <description><![CDATA[Washington, DC—U.S. Senator Lisa Murkowski (R-Alaska) Thursday announced that her bill allowing five Alaska Native communities to form urban corporations and receive land entitlements under the Alaska Native Claims Settlement Act (ANCSA) passed out of the Energy and Natural Resources Committee (ENR) by voice vote. The legislation, which would remedy a decades-long inequity for […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Murkowski and Colleagues Lead Efforts to Bolster Made-In-America Hydropower</title>
+      <link>https://alaska-native-news.com/murkowski-and-colleagues-lead-efforts-to-bolster-made-in-america-hydropower/85255/</link>
+      <guid isPermaLink="false">51d6d098959e0b616b3d6d0add9579e79be475dc</guid>
+      <pubDate>Fri, 24 Jul 2026 14:02:49 GMT</pubDate>
+      <description><![CDATA[Washington, D.C.–Tuesday, U.S. Senators Lisa Murkowski (R-Alaska), Steve Daines (R-Mont.), and Jim Risch (R-Idaho) introduced the “Hydropower Licensing Affordability Act.” This bill will reform the Federal Power Act to reduce delays and costs of hydropower licensing. Specifically, the bill would limit Section 4 (e) and Section 18 mandatory conditioning of hydropower licenses under the Federal […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>July 24th, 1974</title>
+      <link>https://alaska-native-news.com/july-24th-1974/36450/</link>
+      <guid isPermaLink="false">9dac266dc2cd3f4d2a373d4ea2574e8953ec0545</guid>
+      <pubDate>Fri, 24 Jul 2026 14:01:59 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>July 24th, 1897</title>
@@ -255,36 +295,132 @@
       <category>local</category>
     </item>
     <item>
-      <title>The Marks of a True Shepherd: A Reflection on Psalm 23</title>
-      <link>https://mustreadalaska.com/the-marks-of-a-true-shepherd-a-reflection-on-psalm-23/</link>
-      <guid isPermaLink="false">0f5d30a8591e7602db9c47f5b6d839204b090a81</guid>
-      <pubDate>Wed, 22 Jul 2026 23:49:55 GMT</pubDate>
-      <description><![CDATA[When I read through Psalm 23 a few days ago, it prompted me to ask myself, “What are the marks of a true shepherd?” What are his duties to the sheep and their owner? After delving into this topic, I discovered many interesting characteristics concerning shepherds. They would lead their flock, walking ahead of them […] The post The Marks of a True Shepherd: A Reflection on Psalm 23 appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>US and Iran trade more strikes in Gulf as fears of escalation mount</title>
+      <link>https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">29bf8be0c98cdc1af1c550bae05530f500275942</guid>
+      <pubDate>Fri, 24 Jul 2026 18:13:02 GMT</pubDate>
+      <description><![CDATA[It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Get Out the Native Vote initiative galvanizes Alaska Native voters for the 2026 elections</title>
-      <link>https://alaskabeacon.com/2026/07/22/get-out-the-native-vote-initiative-galvanizes-alaska-native-voters-for-the-2026-elections/</link>
-      <guid isPermaLink="false">f2ca3e3cb50a252af8d2d8429908d1b059608bbb</guid>
-      <pubDate>Wed, 22 Jul 2026 23:30:41 GMT</pubDate>
-      <description><![CDATA[A Native-led voter mobilization group is working to boost Alaska Native voter education and turnout this election season. Get Out the Native Vote is a non-partisan effort now underway to reach voters across the state’s vast and varied geography and get them to cast ballots in the primary elections on August 18 and the midterm […]]]></description>
-      <category>local</category>
+      <title>Elon Musk fires back at reporter, claims more people 'hate you and the media than you realize'</title>
+      <link>https://www.foxnews.com/media/elon-musk-fires-back-reporter-claims-more-people-hate-you-media-than-you-realize</link>
+      <guid isPermaLink="false">9ae65ede3aacd68a04a98dc9da6ccea0005fb7e3</guid>
+      <pubDate>Fri, 24 Jul 2026 18:05:31 GMT</pubDate>
+      <description><![CDATA[Elon Musk told The Economist editor Zanny Minton Beddoes that journalists are more despised than him after she said people loathe the trillionaire's influence.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Opinion: Why Senator Lisa Murkowski Is Wrong on the SAVE Act and Election Security</title>
-      <link>https://mustreadalaska.com/opinion-why-senator-lisa-murkowski-is-wrong-on-the-save-act-and-election-security/</link>
-      <guid isPermaLink="false">e087b00945d043be28143fe8f014cabb5e44b2dc</guid>
-      <pubDate>Wed, 22 Jul 2026 23:13:37 GMT</pubDate>
-      <description><![CDATA[By Josh Church, 2026 Candidate for Lt. Governor As a candidate for Lieutenant Governor of Alaska, I have immersed myself in our state’s election laws. What I have found is sobering: our system relies far too heavily on trust rather than verification. A utility bill as acceptable proof of identity at the polls? That is […] The post Opinion: Why Senator Lisa Murkowski Is Wrong on the SAVE Act and Election Security appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Cyclospora outbreak expands to nine US states, health officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/cwyqgnp8wv8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">22ad8ee1365dc83a2cac3eb0aca8e87604f85a85</guid>
+      <pubDate>Fri, 24 Jul 2026 18:00:03 GMT</pubDate>
+      <description><![CDATA[Federal investigators continue to search for the sources amid the largest number of reported cyclosporiasis cases in US history.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Analysis: Legislators Say Hilcorp Killed HB 381— Now Here’s the Truth</title>
-      <link>https://mustreadalaska.com/analysis-legislators-say-hilcorp-killed-hb-381-now-heres-the-truth/</link>
-      <guid isPermaLink="false">da48e87dae7a68bf54ffa78663a0d999b554c35a</guid>
-      <pubDate>Wed, 22 Jul 2026 22:48:23 GMT</pubDate>
-      <description><![CDATA[The displeasure and frustration from all parties on the latest version of HB 381 shows a negotiating strategy that ultimately failed. Remove the political theatre and rhetoric, and what remains is an effort to secure public support for the bill while simultaneously attempting to divide those responsible for making the Alaska LNG Project a reality. All negotiation in good faith should now be highly suspect if the legislature is […] The post Analysis: Legislators Say Hilcorp Killed HB 381— Now Here’s the Truth appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Jewish leaders fault Mamdani rhetoric as Upper West Side stabbing, hate crime probe continues</title>
+      <link>https://www.foxnews.com/us/jewish-leaders-fault-mamdani-rhetoric-upper-west-side-stabbing-hate-crime-probe-continues</link>
+      <guid isPermaLink="false">0775bb26030a746f74c9feecf4e823082bf6bdbe</guid>
+      <pubDate>Fri, 24 Jul 2026 17:51:15 GMT</pubDate>
+      <description><![CDATA[Jewish leaders in New York City are speaking out against Mayor Zohran Mamdani's rhetoric as an investigation continues into a potential hate crime.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>‘McCarthy trials’: Hasan Piker, far-left figures erupt over subpoenas in $39M Singham probe</title>
+      <link>https://www.foxnews.com/politics/mccarthy-trials-hasan-piker-far-left-figures-erupt-subpoenas-39m-singham-probe</link>
+      <guid isPermaLink="false">8713c63a603fcbcba1d78edb36c4fc20199d758f</guid>
+      <pubDate>Fri, 24 Jul 2026 17:48:51 GMT</pubDate>
+      <description><![CDATA[Hasan Piker and CodePink's Medea Benjamin rally behind BreakThrough News after congressional subpoenas target groups tied to communist tech tycoon.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Netanyahu to visit Trump at White House, attend 'dear friend' Lindsey Graham's memorial service</title>
+      <link>https://www.foxnews.com/politics/netanyahu-visit-trump-white-house-attend-dear-friend-lindsey-grahams-memorial-service</link>
+      <guid isPermaLink="false">ddc395b82a7357610ce18a8f067f50b5d0d93c96</guid>
+      <pubDate>Fri, 24 Jul 2026 17:44:20 GMT</pubDate>
+      <description><![CDATA[Benjamin Netanyahu will meet President Trump and attend Lindsey Graham's memorial service in Washington as U.S.-Israel operations against Iran continue.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hurricane Fausto peaks in intensity in Pacific, targeting Hawaii with Tropical Depression Seven-E following</title>
+      <link>https://www.foxweather.com/weather-news/hurricane-fausto-hawaii-tropical-activity-eastern-pacific</link>
+      <guid isPermaLink="false">f3d3bd62002296b665ccf55adcdbf60c060c72f5</guid>
+      <pubDate>Fri, 24 Jul 2026 17:44:08 GMT</pubDate>
+      <description><![CDATA[Hurricane Fausto peaked in intensity as a category 2 storm on Friday, as it hurtles through the East Pacific and brings attention to the Hawaiian Islands.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Lindsay Clancy judge shields 911 call, autopsy photos in mom’s triple-murder trial</title>
+      <link>https://www.foxnews.com/us/lindsay-clancy-judge-shields-911-call-autopsy-photos-moms-triple-murder-trial</link>
+      <guid isPermaLink="false">43da0242e01be3acda5913bb0f3c8341ee7f8491</guid>
+      <pubDate>Fri, 24 Jul 2026 17:40:39 GMT</pubDate>
+      <description><![CDATA[Patrick Clancy's 911 call and autopsy photos of his three children will be shielded from public broadcast as Lindsay Clancy's murder trial begins.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Man describes trying to save mother and daughter who drowned off Essex beach</title>
+      <link>https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">04f1b0a9f013d9493c71c8270aaeb32209d19c7e</guid>
+      <pubDate>Fri, 24 Jul 2026 17:40:14 GMT</pubDate>
+      <description><![CDATA[Craig Bowe says he heard screams during a trip to a beach to celebrate his daughter's birthday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Leavitt vows Trump will deliver 'entertaining' speech at his return to White House Correspondents' Dinner</title>
+      <link>https://www.foxnews.com/politics/leavitt-vows-trump-deliver-entertaining-speech-return-white-house-correspondents-dinner</link>
+      <guid isPermaLink="false">bf46c2d4141c4c6cd91d4fde8a5f5c12dd3bd319</guid>
+      <pubDate>Fri, 24 Jul 2026 17:39:10 GMT</pubDate>
+      <description><![CDATA[Karoline Leavitt says President Trump's rescheduled White House Correspondents' Dinner speech will be "unifying yet vicious" and "entertaining."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Second lady Usha Vance shares family photos featuring newborn who is less than 1 week old</title>
+      <link>https://www.foxnews.com/politics/second-lady-usha-vance-shares-family-photos-featuring-newborn-less-than-1-week-old</link>
+      <guid isPermaLink="false">f787fb9ec520b4dbff8093756dd6deb1a3b800b8</guid>
+      <pubDate>Fri, 24 Jul 2026 17:36:25 GMT</pubDate>
+      <description><![CDATA[Usha Vance shared the first family photo with all four children, including newborn Alec Neel Vance, joking about the challenge of a decent shot.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Eleven indicted in alleged Texas smuggling scheme that left 7 migrants dead in shipping container</title>
+      <link>https://www.foxnews.com/us/eleven-indicted-alleged-texas-smuggling-scheme-left-7-migrants-dead-shipping-container</link>
+      <guid isPermaLink="false">cbbe5efb73d1c9c540f2fca8207c0a04b10418cd</guid>
+      <pubDate>Fri, 24 Jul 2026 17:36:19 GMT</pubDate>
+      <description><![CDATA[Seven migrants died trapped inside a shipping container on a Union Pacific train in Texas, with a 14-year-old among the victims of the smuggling ring.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Measles surge hits new milestone as US cases surpass last year's total</title>
+      <link>https://www.foxnews.com/health/measles-surge-hits-new-milestone-us-cases-surpass-last-years-total</link>
+      <guid isPermaLink="false">97f42fce8a1ec0ae295010611b194008d8ceae1d</guid>
+      <pubDate>Fri, 24 Jul 2026 17:28:29 GMT</pubDate>
+      <description><![CDATA[U.S. measles cases in 2026 have officially surpassed 2025 totals, with 93% of patients unvaccinated or unknown for MMR as outbreaks persist.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>CBP intercepted biological materials tied to U.S.–China virus network before COVID, new documents show</title>
+      <link>https://www.foxnews.com/politics/cbp-intercepted-biological-materials-tied-u-s-china-virus-network-before-covid-new-documents-show</link>
+      <guid isPermaLink="false">9cf3318bf958efc533a7e2336cab1a272407527b</guid>
+      <pubDate>Fri, 24 Jul 2026 17:27:18 GMT</pubDate>
+      <description><![CDATA[Rand Paul reveals documents showing CBP intercepted undeclared biological materials tied to a U.S.-China coronavirus research network as early as 2018.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>PlayStation Network down, leaving thousands of gamers unable to play</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">dd41179d8db21407bc75e0cca3cde414545d646c</guid>
+      <pubDate>Fri, 24 Jul 2026 16:59:25 GMT</pubDate>
+      <description><![CDATA[Sony's status page read that it was "working to resolve the issue as soon as possible".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Extremely significant' bomb in car intercepted on way to NI, Irish police say</title>
+      <link>https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d2cd8cbaf115c98a1331f0feb6cfc00061d40feb</guid>
+      <pubDate>Fri, 24 Jul 2026 16:53:59 GMT</pubDate>
+      <description><![CDATA[A woman in her 20s has been charged by gardaí (Irish police) and is due in court on Friday evening.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Officers hurt as police boat hits Westminster Bridge</title>
@@ -292,6 +428,14 @@
       <guid isPermaLink="false">c72f0e96a2c1d8c4d71eb0684edf5ec7d0d02b98</guid>
       <pubDate>Fri, 24 Jul 2026 16:46:15 GMT</pubDate>
       <description><![CDATA[Police say a number of officers entered the water but were recovered following the crash.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Heatwave reveals lost archaeological sites across Wales</title>
+      <link>https://www.bbc.co.uk/news/articles/cn8n99241y3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0130f65f7e73a47cbf9a894b9f8d6b7577d25f4e</guid>
+      <pubDate>Fri, 24 Jul 2026 16:39:17 GMT</pubDate>
+      <description><![CDATA[The Royal Commission of Wales said some of these known sites have not been seen clearly in decades.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -319,140 +463,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>‘Marvelous Mrs. Maisel’ set decorator slain, husband found dead in family already scarred by home killing</title>
-      <link>https://www.foxnews.com/us/marvelous-mrs-maisel-set-decorator-slain-husband-found-dead-family-scarred-home-killing</link>
-      <guid isPermaLink="false">bc6a690c3d000bafb15a4c3259b98cda491d78dc</guid>
-      <pubDate>Fri, 24 Jul 2026 16:28:55 GMT</pubDate>
-      <description><![CDATA[Mary Golding, a 34-year-old set decorator on "The Marvelous Mrs. Maisel," was found stabbed in her Queens home in a suspected murder-suicide.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Abdul El-Sayed scores Sen Tina Smith's endorsement in Democratic primary that exposes party divide</title>
-      <link>https://www.foxnews.com/politics/abdul-el-sayed-scores-sen-tina-smith-endorsement-democratic-primary-exposes-party-divide</link>
-      <guid isPermaLink="false">3df1d12459f2fc7cdd6c4ac6bfaefe3ebdd2edbc</guid>
-      <pubDate>Fri, 24 Jul 2026 16:28:29 GMT</pubDate>
-      <description><![CDATA[U.S. Sen. Tina Smith, a Democrat from Minnesota, has thrown her support behind Michigan Democratic U.S. Senate primary candidate Abdul El-Sayed.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Trump says Iran will pay — what it takes to end the war remains unclear</title>
-      <link>https://www.foxnews.com/politics/trump-says-iran-will-pay-what-it-takes-end-war-remains-unclear</link>
-      <guid isPermaLink="false">3c40a6404d580fdc7b8ee3b0dc1530033782e3a8</guid>
-      <pubDate>Fri, 24 Jul 2026 16:21:04 GMT</pubDate>
-      <description><![CDATA[Trump's Iran campaign now focuses on reopening the Strait of Hormuz, but no clear conditions exist for ending strikes as nuclear talks stall.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Jon Bon Jovi abruptly ends Madison Square Garden show after health setback</title>
-      <link>https://www.foxnews.com/entertainment/jon-bon-jovi-abruptly-ends-madison-square-garden-show-after-health-setback</link>
-      <guid isPermaLink="false">f5f4ced7c220952133f3c9f7ba3335a37c8ff6d5</guid>
-      <pubDate>Fri, 24 Jul 2026 16:14:21 GMT</pubDate>
-      <description><![CDATA[Jon Bon Jovi stopped his Madison Square Garden residency show after just 90 minutes due to a health issue, with Train frontman Pat Monahan stepping in to help.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Country music's biggest star Morgan Wallen releases 'Been By Now' as his latest hit song</title>
-      <link>https://www.foxnews.com/outkick-culture/country-music-biggest-star-morgan-wallen-releases-been-by-now-latest-hit-song</link>
-      <guid isPermaLink="false">01febb6925f59ad70a0b4adb33769a1b5bbab3b0</guid>
-      <pubDate>Fri, 24 Jul 2026 16:10:13 GMT</pubDate>
-      <description><![CDATA[Morgan Wallen's new single "Been By Now" tells the story of a failing relationship on the brink of collapse and immediately started going viral.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>World chess chief faces endgame after EU announces Russia war sanctions</title>
-      <link>https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7ab1c997b06831dbdeb13b9c47e3be5e25769da0</guid>
-      <pubDate>Fri, 24 Jul 2026 16:08:51 GMT</pubDate>
-      <description><![CDATA[Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump must close the back door China uses to exploit North American trade</title>
-      <link>https://www.foxnews.com/opinion/trump-close-back-door-china-uses-exploit-north-american-trade</link>
-      <guid isPermaLink="false">44a5d80a1901c3c531a49856dc52dcacbf05143b</guid>
-      <pubDate>Fri, 24 Jul 2026 16:02:19 GMT</pubDate>
-      <description><![CDATA[Steel imports from China, South Korea and Vietnam surged through Mexico and Canada, exploiting USMCA loopholes the Trump administration seeks to close.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Roger Goodell floats holding NFL draft in Charlotte and returning for something bigger later</title>
-      <link>https://www.foxnews.com/outkick-sports/roger-goodell-floats-holding-nfl-draft-charlotte-returning-something-bigger-later</link>
-      <guid isPermaLink="false">a2d08856fb2672f5587cf1c2225c8fa40a3545c9</guid>
-      <pubDate>Fri, 24 Jul 2026 16:01:26 GMT</pubDate>
-      <description><![CDATA[Roger Goodell told a Charlotte audience the city is "built for a draft" and didn't rule out a future Super Bowl, but hotel rooms remain a key hurdle.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Why the Chicago White Sox moneyline is the sharp betting play against the Houston Astros today</title>
-      <link>https://www.foxnews.com/sports/chicago-white-sox-moneyline-sharp-betting-play-houston-astros</link>
-      <guid isPermaLink="false">6f40e16f734f42b723510856522ccb75ef56dc0b</guid>
-      <pubDate>Fri, 24 Jul 2026 15:48:11 GMT</pubDate>
-      <description><![CDATA[Sharp money and line movement favor the Astros, but Davis Martin's 1.80 home ERA makes the Chicago White Sox moneyline an intriguing betting play.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nigeria's president approves largest military expansion in recent times</title>
-      <link>https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9bc2bded25ffe47111f083cc4fdf43cae62d54aa</guid>
-      <pubDate>Fri, 24 Jul 2026 15:22:56 GMT</pubDate>
-      <description><![CDATA[The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US and Iran trade more strikes in Gulf as fears of escalation mount</title>
-      <link>https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">29bf8be0c98cdc1af1c550bae05530f500275942</guid>
-      <pubDate>Fri, 24 Jul 2026 15:22:40 GMT</pubDate>
-      <description><![CDATA[It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ten killed in Russian attack on drone exhibition near Kyiv</title>
-      <link>https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8518093b41402b23c8bd1965c225e2fb3813c414</guid>
-      <pubDate>Fri, 24 Jul 2026 15:12:11 GMT</pubDate>
-      <description><![CDATA[The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Four men dead after car crashes into lamp-post</title>
-      <link>https://www.bbc.co.uk/news/articles/cwymj9jmnm0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9743e562e47050f77525c9bae97b2ef01f1be46d</guid>
-      <pubDate>Fri, 24 Jul 2026 14:35:41 GMT</pubDate>
-      <description><![CDATA[The car left the road and crashed on Liverpool Road in Huyton just before 02:00 BST.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Angela Rayner rules out rent controls in England</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0d95dcbe16db75bdc682b1eca9e336b546a40f4b</guid>
-      <pubDate>Fri, 24 Jul 2026 14:21:24 GMT</pubDate>
-      <description><![CDATA[The housing secretary tells the BBC that the Renters Rights' Act is already having a significant impact on the market.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Bryan Norcross: The Atlantic goes quiet after Bertha fades away</title>
       <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-july-24-2026</link>
       <guid isPermaLink="false">b8e57a999ebdc4bce4187e5ce254eeef1ee2cc26</guid>
       <pubDate>Fri, 24 Jul 2026 14:20:40 GMT</pubDate>
       <description><![CDATA[The remnants of former Tropical Storm Bertha have moved into northern Mexico. It's now a weak disturbance over the mountains.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Faisal Islam: The UK's Trump trade deal no longer looks world-beating</title>
-      <link>https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">28f2db3522913eca684e32c4a4eb7bc9e792c108</guid>
-      <pubDate>Fri, 24 Jul 2026 14:02:26 GMT</pubDate>
-      <description><![CDATA[While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Extremely significant' bomb in car intercepted on way to NI, Irish police say</title>
-      <link>https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d2cd8cbaf115c98a1331f0feb6cfc00061d40feb</guid>
-      <pubDate>Fri, 24 Jul 2026 13:58:23 GMT</pubDate>
-      <description><![CDATA[Two people are arrested after a vehicle was stopped in County Monaghan in an operation targeting dissident republican activity.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>'Evolving crisis': Could El Niño bring needed rain to the 2 largest reservoirs in the US?</title>
@@ -504,22 +520,6 @@
     </item>
     <item>
       <title>More than 25 million Americans under threat as dangerous flash flooding targets Carolina coast</title>
-      <link>https://www.foxweather.com/weather-news/mid-atlantic-carolinas-region-severe-storms-heavy-flooding</link>
-      <guid isPermaLink="false">b2e291c078c460c89eafc1bc53e2ed817e93b10a</guid>
-      <pubDate>Thu, 23 Jul 2026 01:17:22 GMT</pubDate>
-      <description><![CDATA[As a severe weather threat increases across coastal cities along the Gulf Coast, the Mid Atlantic region, and the Carolinas, they are next up through the end of this week.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Over 20 million Americans face dangerous flood threat as heavy rains batter Carolinas, Mid-Atlantic</title>
-      <link>https://www.foxweather.com/weather-news/mid-atlantic-carolinas-region-severe-storms-heavy-flooding</link>
-      <guid isPermaLink="false">b2e291c078c460c89eafc1bc53e2ed817e93b10a</guid>
-      <pubDate>Thu, 23 Jul 2026 01:17:22 GMT</pubDate>
-      <description><![CDATA[As a severe weather threat increases across coastal cities along the Gulf Coast, the Mid Atlantic region, and the Carolinas, they are next up through the end of this week.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Days of heavy rain bring dangerous flash flood threat to the Mid-Atlantic and Carolinas</title>
       <link>https://www.foxweather.com/weather-news/mid-atlantic-carolinas-region-severe-storms-heavy-flooding</link>
       <guid isPermaLink="false">b2e291c078c460c89eafc1bc53e2ed817e93b10a</guid>
       <pubDate>Thu, 23 Jul 2026 01:17:22 GMT</pubDate>
