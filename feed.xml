@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 23:04:59 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Mostly Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 23:04:59 GMT</pubDate>
-      <description><![CDATA[61°F. Wind S 10 to 15 mph. Mostly sunny, with a high near 61. South wind 10 to 15 mph, with gusts as high as 35 mph. Chance of precipitation is 20%.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 03:32:32 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 23:04:59 GMT</pubDate>
-      <description><![CDATA[53°F. Wind S 5 to 10 mph. Mostly cloudy, with a low around 53. South wind 5 to 10 mph. Chance of precipitation is 20%.]]></description>
+      <pubDate>Fri, 24 Jul 2026 03:32:32 GMT</pubDate>
+      <description><![CDATA[53°F. Wind SW 5 mph. Mostly cloudy, with a low around 53. Southwest wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 23:04:59 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 03:32:32 GMT</pubDate>
       <description><![CDATA[66°F. Wind NW 0 to 5 mph. Mostly sunny, with a high near 66. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Friday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 23:04:59 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 03:32:32 GMT</pubDate>
       <description><![CDATA[48°F. Wind N 5 to 10 mph. Mostly clear, with a low around 48. North wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +34,33 @@
       <title>Anchorage Weather: Saturday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 23 Jul 2026 23:04:59 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 03:32:32 GMT</pubDate>
       <description><![CDATA[70°F. Wind NW 5 mph. Sunny, with a high near 70. Northwest wind around 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Saturday Night - Mostly Clear</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Fri, 24 Jul 2026 03:32:32 GMT</pubDate>
+      <description><![CDATA[49°F. Wind SW 0 to 5 mph. Mostly clear, with a low around 49. Southwest wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Alaska removes thousands from state’s active voter list, erroneously flagging some citizens</title>
+      <link>https://alaskabeacon.com/2026/07/23/alaska-removes-thousands-from-states-active-voter-list-erroneously-flagging-some-citizens/</link>
+      <guid isPermaLink="false">0d4942bf2de42f8ada3a1eb06df30ee7bbf94a75</guid>
+      <pubDate>Fri, 24 Jul 2026 01:14:43 GMT</pubDate>
+      <description><![CDATA[The state of Alaska has removed an estimated 3,000 to 3,500 Alaskans from the state’s active voter list, claiming they may be noncitizens. The removals leave those residents able to vote only if they provide extra identity information, and removal puts them on track to be purged from the state’s voter roll altogether. Only U.S. […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Thursday, July 23, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17386340/newscast-thursday-july-23-2026</link>
+      <guid isPermaLink="false">873b00e2e9988cdbcd71af5f5fd8a01a65662c24</guid>
+      <pubDate>Fri, 24 Jul 2026 01:06:36 GMT</pubDate>
+      <description><![CDATA[In this newscast: The Alaska Division of Elections has moed thousands of registered voters to its "inactive" list due to suspicion that they are not citizens; As the candidate filing deadline approaches, the race for Juneau's two open school board seats appears to be uncontested so far; One of Dutch Harbor's major seafood processors plans to pay about $5,900 to federal regulators to settle violations of the Clean Water Act; Geoff and Marcy Larson talk about running the Alaskan Brewing Company, which is celebrating its 40th anniversary this year.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>The testing desert: How closing UAA’s testing center isolates Alaskans</title>
@@ -271,36 +287,132 @@
       <category>local</category>
     </item>
     <item>
-      <title>Justice Department Settles Litigation to Provide for Healthcare Costs of the Alaska Native Tribal Health Consortium</title>
-      <link>https://alaska-native-news.com/justice-department-settles-litigation-to-provide-for-healthcare-costs-of-the-alaska-native-tribal-health-consortium/85240/</link>
-      <guid isPermaLink="false">fcb6eb96aa041d28f35b511e0ee0ee6f5e9a2f47</guid>
-      <pubDate>Wed, 22 Jul 2026 14:02:51 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — Tuesday, the Justice Department announced its authorization of the settlement of a lawsuit brought by the Alaska Native Tribal Health Consortium (ANTHC) for contract support costs owed under the Indian Self-Determination and Education Assistance Act (ISDEAA). ANTHC was formed in the 1990s to provide health services throughout the state of Alaska. Among […]]]></description>
-      <category>local</category>
+      <title>Former Fever player responds to Sophie Cunningham by alleging Indiana harassment cover-up</title>
+      <link>https://www.foxnews.com/outkick-sports/former-fever-player-responds-sophie-cunningham-alleging-indiana-harassment-cover-up</link>
+      <guid isPermaLink="false">343af58b7e5880f4d0e14b71b92259d2fb9a3047</guid>
+      <pubDate>Fri, 24 Jul 2026 03:12:23 GMT</pubDate>
+      <description><![CDATA[Brianna Turner claims the Indiana Fever fired a male staff member for sexual harassment, challenging Sophie Cunningham's stance on trans athletes.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>‘Imagine All the Better Things That Could Have Been Done’: Trump Has Blown $37.5 Billion on Iran War</title>
-      <link>https://alaska-native-news.com/imagine-all-the-better-things-that-could-have-been-done-trump-has-blown-37-5-billion-on-iran-war/85229/</link>
-      <guid isPermaLink="false">d4e9071ab9148ff67bacfa36efdcc00ba5d43085</guid>
-      <pubDate>Wed, 22 Jul 2026 14:01:57 GMT</pubDate>
-      <description><![CDATA[“THIS from the administration that said there was no money for food assistance, Medicaid, and healthcare tax credits.” While economists have warned for months that the true cost of President Donald Trump’s illegal war on Iran could be trillions of dollars, US Defense Secretary Pete Hegseth estimated on Tuesday that it’s currently about $37.5 billion. That […]]]></description>
-      <category>local</category>
+      <title>California mayor's hot mic catches candid exchange after audience sends meeting off rails</title>
+      <link>https://www.foxnews.com/politics/california-mayors-hot-mic-catches-candid-exchange-after-audience-sends-meeting-off-rails</link>
+      <guid isPermaLink="false">b0a791e05adfef31d676a76da1c18c6b09b588b8</guid>
+      <pubDate>Fri, 24 Jul 2026 02:44:55 GMT</pubDate>
+      <description><![CDATA[A hot mic caught Sacramento Vice Mayor Karina Talamantes and Mayor Kevin McCarty discussing whether to ban disruptive protesters from future meetings.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Man’s body found inside freezer on Juneau property</title>
-      <link>https://www.juneauempire.com/2026/07/22/mans-body-found-inside-freezer-on-juneau-property/</link>
-      <guid isPermaLink="false">7d8fc587b8838413ff61d7185b3f134d4fdb1650</guid>
-      <pubDate>Wed, 22 Jul 2026 14:00:00 GMT</pubDate>
-      <description><![CDATA[Human remains discovered in freezer inside locked outbulding at 6500 Glacier Highway]]></description>
-      <category>local</category>
+      <title>ESPN's Adam Schefter weighs in on LeBron James' NBA future after Heat press conference post sparks buzz</title>
+      <link>https://www.foxnews.com/sports/espn-adam-schefter-weighs-lebron-james-nba-future-heat-press-conference-post-sparks-buzz</link>
+      <guid isPermaLink="false">686e542e5daa315c9ac57662da4e5fc8fab849ab</guid>
+      <pubDate>Fri, 24 Jul 2026 01:55:58 GMT</pubDate>
+      <description><![CDATA[Adam Schefter revealed a text suggesting LeBron James is heading to Miami, while a deleted Heat YouTube post listed an introductory press conference.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>A parasite that thrives in warm conditions adds to Yukon River salmon woes</title>
-      <link>https://alaskabeacon.com/2026/07/22/a-parasite-that-thrives-in-warm-conditions-adds-to-yukon-river-salmon-woes/</link>
-      <guid isPermaLink="false">24b74c5c0e8c092b94ae87e7c20228a19282b988</guid>
-      <pubDate>Wed, 22 Jul 2026 13:45:45 GMT</pubDate>
-      <description><![CDATA[When Stan Zuray began noticing white spots, a mushy texture and a weird “sour watermelon” smell in the Chinook salmon he was pulling from the Yukon River, he knew something was going wrong. That was back in the 1980s. By about 1990, he and others just stopped fishing what he calls “the ass end of […]]]></description>
-      <category>local</category>
+      <title>PM to spend first day working from northern branch of No 10</title>
+      <link>https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8eb620b17eb0de575bbc71e08e619fe0df2dfaa7</guid>
+      <pubDate>Fri, 24 Jul 2026 01:44:39 GMT</pubDate>
+      <description><![CDATA[Various ministers are also set to work regularly from the northern branch of Downing Street.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tomi Lahren defends OutKick's ESPN scoop, torches Jemele Hill, backs Sophie Cunningham</title>
+      <link>https://www.foxnews.com/outkick-sports/tomi-lahren-defends-outkick-espn-scoop-torches-jemele-hill-backs-sophie-cunningham</link>
+      <guid isPermaLink="false">867c3d2d75ca0f0674431808db071cdb1d3da8c0</guid>
+      <pubDate>Fri, 24 Jul 2026 01:30:44 GMT</pubDate>
+      <description><![CDATA[Tomi Lahren fired back at Jemele Hill over OutKick's ESPN scoop and praised Sophie Cunningham for defending women's sports from trans athletes.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Massachusetts Democratic Party chairman admits to sufficient facts in June drunken driving case</title>
+      <link>https://www.foxnews.com/politics/massachusetts-democratic-party-chairman-admits-sufficient-facts-june-drunken-driving-case</link>
+      <guid isPermaLink="false">1df00a17b50e67bc28856ebb23e01a6407891f8d</guid>
+      <pubDate>Fri, 24 Jul 2026 01:19:37 GMT</pubDate>
+      <description><![CDATA[Steve Kerrigan's breathalyzer registered 0.089 after a Southborough traffic stop, just above state's 0.08% legal limit, court records show.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rubio unveils visa restrictions targeting cybercrime networks</title>
+      <link>https://www.foxnews.com/politics/rubio-unveils-visa-restrictions-targeting-cybercrime-networks</link>
+      <guid isPermaLink="false">71653e2764c8a69a9547a4d6445f971ad5d96d53</guid>
+      <pubDate>Fri, 24 Jul 2026 01:15:47 GMT</pubDate>
+      <description><![CDATA[Secretary of State Marco Rubio announced sweeping new visa restrictions targeting individuals complicit in cybercrime, online investment scams and sextortion.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump DOJ withdraws subpoenas targeting New York Times journalists amid leak probe</title>
+      <link>https://www.foxnews.com/media/trump-doj-withdraws-subpoenas-targeting-new-york-times-journalists-amid-leak-probe</link>
+      <guid isPermaLink="false">fbb81477db1c29c5d6a1f24867a01dcf67c804c6</guid>
+      <pubDate>Fri, 24 Jul 2026 01:01:24 GMT</pubDate>
+      <description><![CDATA[The Department of Justice withdrew its subpoenas of New York Times journalists involved in the report about President Donald Trump's use of the Qatar jet.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Evolving crisis': Could El Niño bring needed rain to the 2 largest reservoirs in the US?</title>
+      <link>https://www.foxweather.com/weather-news/water-crisis-lake-powell-lake-mead-el-nino-record-low-levels</link>
+      <guid isPermaLink="false">a1af36ab071e811941ae17214f6a46030e6e0ef5</guid>
+      <pubDate>Fri, 24 Jul 2026 00:49:43 GMT</pubDate>
+      <description><![CDATA[Lake Mead and Lake Powell, the country's two largest reservoirs, dropped to record-low storage levels this month, according to data and analysis from the Bureau of Reclamation and the University of Colorado.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Scottie Scheffler addresses growing rivalry between Rory McIlroy, Bryson DeChambeau after The Open</title>
+      <link>https://www.foxnews.com/outkick-sports/scottie-scheffler-addresses-growing-rivalry-rory-mcilroy-bryson-dechambeau-open</link>
+      <guid isPermaLink="false">2fbdab10f0cd8ac10970f78b4a6d8e0ce33330d5</guid>
+      <pubDate>Fri, 24 Jul 2026 00:27:46 GMT</pubDate>
+      <description><![CDATA[Scottie Scheffler shared his thoughts on the Bryson DeChambeau and Rory McIlroy rivalry ahead of the 3M Open, saying golf is different from other sports.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Timothy Olyphant revealed the surprising truth behind his computer-free lifestyle</title>
+      <link>https://www.foxnews.com/entertainment/timothy-olyphant-revealed-surprising-truth-behind-computer-free-lifestyle</link>
+      <guid isPermaLink="false">f582c272acf245cefed2dd9950a5778ebe90912d</guid>
+      <pubDate>Fri, 24 Jul 2026 00:25:21 GMT</pubDate>
+      <description><![CDATA[Timothy Olyphant revealed his surprisingly low-tech lifestyle on the "SmartLess" podcast, admitting he had to dig out an old desktop computer to try to connect.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Megan Rapinoe blames Trump for US Mens soccer team losing 'underdog' vibe in World Cup</title>
+      <link>https://www.foxnews.com/media/megan-rapinoe-blames-trump-us-mens-soccer-team-losing-underdog-vibe-world-cup</link>
+      <guid isPermaLink="false">c318514dff75afe62e18dcd682b9fc25263ebd7b</guid>
+      <pubDate>Fri, 24 Jul 2026 00:08:53 GMT</pubDate>
+      <description><![CDATA[Megan Rapinoe said President Donald Trump's involvement in the World Cup killed the U.S. men's team's underdog vibe and threw them off before the Belgium loss.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ridge-riding severe storms and intense heat to plague the Midwest and Northeast through next week</title>
+      <link>https://www.foxweather.com/weather-news/ridge-riding-severe-storms-intense-heat-midwest-northeast</link>
+      <guid isPermaLink="false">c631b5c3906b52fac924b430697aa50819c19824</guid>
+      <pubDate>Thu, 23 Jul 2026 23:57:20 GMT</pubDate>
+      <description><![CDATA[After a week full of nasty weather across portions of the U.S., ridge-riding severe storms are expected to make a return to the Upper Midwest.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Scientists find building blocks of birdsong's 'spectacular diversity'</title>
+      <link>https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">cade5dc6aa8ff90a86ab0be7ff669a6d2883a61a</guid>
+      <pubDate>Thu, 23 Jul 2026 23:55:29 GMT</pubDate>
+      <description><![CDATA[A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Indonesian babies were trafficked to Singapore. What happens to them now?</title>
+      <link>https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6418e7c7a9dfca620d4cad23e1a6a35b506576b6</guid>
+      <pubDate>Thu, 23 Jul 2026 23:19:58 GMT</pubDate>
+      <description><![CDATA[At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>UK complacent about war threat, warns defence boss</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">30703da68a222680ad0734cd67a6a569c5c879b5</guid>
+      <pubDate>Thu, 23 Jul 2026 23:04:19 GMT</pubDate>
+      <description><![CDATA[The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned. Dr Charles Woodburn]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>US imposes tariffs on dozens of trade partners over 'forced labour' imports</title>
@@ -308,6 +420,14 @@
       <guid isPermaLink="false">52a7ef755c17a4d81a78a03358145df8bd8e96f1</guid>
       <pubDate>Thu, 23 Jul 2026 23:03:29 GMT</pubDate>
       <description><![CDATA[The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>UK mortgage rates rise to highest level for a month</title>
+      <link>https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0b2e72623461d0090f58e05b7fcf3cb02212b8fd</guid>
+      <pubDate>Thu, 23 Jul 2026 23:02:10 GMT</pubDate>
+      <description><![CDATA[Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -343,132 +463,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Trump likens Shohei Ohtani to Babe Ruth as the World Series champion Dodgers visit White House</title>
-      <link>https://www.foxnews.com/sports/trump-likens-shohei-ohtani-babe-ruth-world-series-champion-dodgers-visit-white-house</link>
-      <guid isPermaLink="false">e09047f25bb0d10fd6e7776653e2205e4777ff06</guid>
-      <pubDate>Thu, 23 Jul 2026 22:39:02 GMT</pubDate>
-      <description><![CDATA[Trump praised Shohei Ohtani's unprecedented three consecutive unanimous MVP awards and compared the Los Angeles Dodgers star's two-way dominance to Babe Ruth.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Rahm Emanuel spars with New Yorker interviewer who grilled him for not emphasizing trans issues</title>
-      <link>https://www.foxnews.com/media/rahm-emanuel-spars-new-yorker-interviewer-grilled-not-emphasizing-trans-issues</link>
-      <guid isPermaLink="false">1ee13214ed0b7af07ef47ba826a787b8a6c41113</guid>
-      <pubDate>Thu, 23 Jul 2026 22:37:07 GMT</pubDate>
-      <description><![CDATA[The potential 2028 Democratic candidate argued the party lost focus on kitchen table issues during COVID while getting distracted by far-left culture wars.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Jewish Michigan Democrats admit they will vote Republican if Abdul El-Sayed becomes nominee</title>
-      <link>https://www.foxnews.com/media/jewish-michigan-democrats-admit-vote-republican-abdul-el-sayed-becomes-nominee</link>
-      <guid isPermaLink="false">e8f03f846230e267476d3fc43c269597825c7f2e</guid>
-      <pubDate>Thu, 23 Jul 2026 22:32:27 GMT</pubDate>
-      <description><![CDATA[Jewish Democrats said they would back Republican Mike Rogers over Democrat Abdul El-Sayed in a Senate race, citing his controversial statements on Israel.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>LIV Golf Team Championships in Michigan 'highly likely' to be canceled: we're 'disappointed'</title>
-      <link>https://www.foxnews.com/outkick-sports/liv-golf-team-championships-michigan-highly-likely-canceled-disappointed</link>
-      <guid isPermaLink="false">66b29c860359a88c01b93866eaece9e7c22a0000</guid>
-      <pubDate>Thu, 23 Jul 2026 22:27:00 GMT</pubDate>
-      <description><![CDATA[Martin Kaymer says LIV Golf's Team Championships in Michigan has a "five percent" chance of happening as investor uncertainty clouds the league's future.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Baltimore Ravens cut Heisman Trophy runner-up Diego Pavia before training camp even begins</title>
-      <link>https://www.foxnews.com/outkick-sports/baltimore-ravens-cut-heisman-trophy-runner-up-diego-pavia-before-training-camp-begins</link>
-      <guid isPermaLink="false">61c58a5656ca11ff1a22d0e39af5927c741b9ca5</guid>
-      <pubDate>Thu, 23 Jul 2026 22:10:23 GMT</pubDate>
-      <description><![CDATA[Diego Pavia was cut by the Baltimore Ravens before training camp started, giving him a chance to catch on elsewhere but also speaking to his NFL potential.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump to impose double-digit tariffs on dozens of countries</title>
-      <link>https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country</link>
-      <guid isPermaLink="false">046124641b6317aadd0d51c5f5153fa3f41a6049</guid>
-      <pubDate>Thu, 23 Jul 2026 22:06:50 GMT</pubDate>
-      <description><![CDATA[The United States will slap taxes of 10% to 12.5% on imports from 60 countries accounting for 99% of U.S. imports, charging that they have inadequately enforced bans on goods produced by forced labor.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fox News Poll: Voters oppose the Iran war, see prolonged commitment</title>
-      <link>https://www.foxnews.com/politics/fox-news-poll-voters-oppose-iran-war-see-prolonged-commitment</link>
-      <guid isPermaLink="false">264f9d20894a646d95a7403db72ac534579d2ecd</guid>
-      <pubDate>Thu, 23 Jul 2026 22:00:07 GMT</pubDate>
-      <description><![CDATA[A Fox News poll finds 56% oppose U.S. military action against Iran, while Trump's handling of the conflict hits a record-low 34% approval rating.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>King's Tardis entrance as Commonwealth Games begin</title>
-      <link>https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a07dba5aa8191bf9c0ce86d5edf12ccb4a190005</guid>
-      <pubDate>Thu, 23 Jul 2026 21:53:02 GMT</pubDate>
-      <description><![CDATA[King Charles III emerges from a Tardis and a Loch Ness Monster takes the stage at the Commonwealth Games opening ceremony in Glasgow.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>PM to spend first day working from northern branch of No 10</title>
-      <link>https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8eb620b17eb0de575bbc71e08e619fe0df2dfaa7</guid>
-      <pubDate>Thu, 23 Jul 2026 21:31:03 GMT</pubDate>
-      <description><![CDATA[Various ministers are also set to work regularly from the northern branch of Downing Street.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Coral ecosystem reemerges after 60 years within the ocean's 'twilight zone'</title>
       <link>https://www.foxweather.com/weather-news/mesophotic-coral-ecosystem-reemerges-60-years-ocean-twilight-zone</link>
       <guid isPermaLink="false">814827123b1c1eda34e19bb7c2014e0f21127683</guid>
       <pubDate>Thu, 23 Jul 2026 21:24:50 GMT</pubDate>
       <description><![CDATA[Scientists are pleasantly surprised to have rediscovered a once presumed dead species that has emerged back in the spotlight after 60 years off the coast of Africa.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Smithsonian pushed ‘revolting’ social action training after ‘whiteness’ chart apology: expert</title>
-      <link>https://www.foxnews.com/politics/smithsonian-pushed-revolting-social-action-training-whiteness-chart-apology-expert</link>
-      <guid isPermaLink="false">fb3874ba4194b5c0a2f0977361229feb9b6da351</guid>
-      <pubDate>Thu, 23 Jul 2026 21:09:38 GMT</pubDate>
-      <description><![CDATA[Smithsonian staff co-authored a DEI training toolkit that calls objectivity part of white supremacy, years after the museum apologized for a similar chart.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>French modeling scout linked to Jeffrey Epstein found dead in Paris apartment</title>
-      <link>https://www.foxnews.com/world/french-modeling-scout-linked-jeffrey-epstein-found-dead-paris-apartment</link>
-      <guid isPermaLink="false">75f5a6f9375ee2eb81f0ec862a55d5a643d1eea1</guid>
-      <pubDate>Thu, 23 Jul 2026 21:02:38 GMT</pubDate>
-      <description><![CDATA[Daniel Siad's name appeared roughly 2,000 times in the Epstein files, and at least 24 women came forward as alleged victims or witnesses in a trafficking probe.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nevada GOP nominee Carrie Buck says she’s ‘coming to retire Dina Titus’</title>
-      <link>https://www.foxnews.com/politics/nevada-gop-nominee-carrie-buck-says-shes-coming-retire-dina-titus</link>
-      <guid isPermaLink="false">cfc167ac8a9fe38485bab6fcee3b5e13206f3823</guid>
-      <pubDate>Thu, 23 Jul 2026 21:02:07 GMT</pubDate>
-      <description><![CDATA[Carrie Buck sits down at Freedom Fest to discuss her campaign to unseat veteran Democrat incumbent in Las Vegas-based swing district.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Read the list: 44 lawmakers swept into Jack Smith text sweep as his legal reckoning grows</title>
-      <link>https://www.foxnews.com/politics/read-list-44-lawmakers-swept-jack-smith-text-sweep-his-legal-reckoning-grows</link>
-      <guid isPermaLink="false">ad47cebfef7187a0a7bb06f31fac058f23f59182</guid>
-      <pubDate>Thu, 23 Jul 2026 21:00:37 GMT</pubDate>
-      <description><![CDATA[Jack Smith's probe secretly seized text messages from 44 lawmakers, including Jim Jordan and Chuck Grassley, tied to January 6 and classified documents.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>India activist ends hunger strike after 26 days</title>
-      <link>https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ff9b51ec117d58e2d3a01cb08a8f3227aa9d9020</guid>
-      <pubDate>Thu, 23 Jul 2026 20:59:54 GMT</pubDate>
-      <description><![CDATA[Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert "possible violence".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US lawmakers push for AI 'kill switch' after OpenAI goes rogue</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">76aa89281a2264acdead65426d2dc4be84e60e32</guid>
-      <pubDate>Thu, 23 Jul 2026 20:58:35 GMT</pubDate>
-      <description><![CDATA[A new bill would let the US government order the shutdown AI models that pose a major public threat.]]></description>
-      <category>politics</category>
     </item>
     <item>
       <title>Bryan Norcross: Disorganized Bertha charging toward Texas on its last day</title>
