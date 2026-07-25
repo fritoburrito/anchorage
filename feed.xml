@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 13:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 15:11:58 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Overnight - Clear</title>
+      <title>Anchorage Weather: Today - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 13:53:22 GMT</pubDate>
-      <description><![CDATA[46°F. Wind N 10 mph. Clear, with a low around 46. North wind around 10 mph.]]></description>
+      <pubDate>Sat, 25 Jul 2026 15:11:58 GMT</pubDate>
+      <description><![CDATA[70°F. Wind SW 0 to 5 mph. Sunny, with a high near 70. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday - Sunny</title>
+      <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 13:53:22 GMT</pubDate>
-      <description><![CDATA[70°F. Wind SW 0 to 10 mph. Sunny, with a high near 70. Southwest wind 0 to 10 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Saturday Night - Partly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 13:53:22 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 15:11:58 GMT</pubDate>
       <description><![CDATA[51°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 51. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Sunday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 13:53:22 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 15:11:58 GMT</pubDate>
       <description><![CDATA[69°F. Wind SW 0 to 5 mph. Sunny, with a high near 69. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,8 +34,16 @@
       <title>Anchorage Weather: Sunday Night - Mostly Cloudy then Scattered Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 13:53:22 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 15:11:58 GMT</pubDate>
       <description><![CDATA[54°F. Wind S 0 to 5 mph. Scattered rain showers after 4am. Mostly cloudy, with a low around 54. South wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday - Light Rain Likely</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sat, 25 Jul 2026 15:11:58 GMT</pubDate>
+      <description><![CDATA[61°F. Wind E 0 to 5 mph. Scattered rain showers before 7am, then rain likely. Cloudy, with a high near 61. East wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -279,6 +279,94 @@
       <category>local</category>
     </item>
     <item>
+      <title>'I Play Rocky' revives the gamble that made Sylvester Stallone a superstar</title>
+      <link>https://www.foxnews.com/entertainment/i-play-rocky-revives-gamble-made-sylvester-stallone-superstar</link>
+      <guid isPermaLink="false">b3fb4f57765a8e7e70c6d88368661cf984468839</guid>
+      <pubDate>Sat, 25 Jul 2026 15:00:16 GMT</pubDate>
+      <description><![CDATA[The "I Play Rocky" trailer reveals how Sylvester Stallone refused massive paydays to star in his own screenplay, a gamble experts call unheard of.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Conservative groups urge FCC to back off ABC license review, warning it could hurt right-leaning media</title>
+      <link>https://www.foxnews.com/media/conservative-groups-urge-fcc-back-off-abc-license-review-warning-could-hurt-right-leaning-media</link>
+      <guid isPermaLink="false">1198ca84ee59b22bbbb3f739613fc7c5e3038f69</guid>
+      <pubDate>Sat, 25 Jul 2026 15:00:07 GMT</pubDate>
+      <description><![CDATA[Conservative groups urge FCC Chairman Brendan Carr to preserve routine broadcast license renewal, warning the ABC precedent could hurt right-leaning media.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>IOC declines to investigate Gianni Infantino over Trump's call about Folarin Balogun red card</title>
+      <link>https://www.foxnews.com/sports/ioc-declines-investigate-gianni-infantino-trumps-call-folarin-balogun-red-card</link>
+      <guid isPermaLink="false">05c03c16c22ba9b4b8a027ff69af4fbc9d84290c</guid>
+      <pubDate>Sat, 25 Jul 2026 14:52:22 GMT</pubDate>
+      <description><![CDATA[The IOC ethics commission declined to investigate Gianni Infantino over President Donald Trump's call about Folarin Balogun's red card, citing jurisdictional limits.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>India's 'cockroach' movement ousts minister, but can Modi calm youth?</title>
+      <link>https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement</link>
+      <guid isPermaLink="false">2e6eb58249f38fd6cfe2c1747bf32138ce290099</guid>
+      <pubDate>Sat, 25 Jul 2026 14:48:22 GMT</pubDate>
+      <description><![CDATA[Led by Gen-Z youth across India, the movement has become perhaps the biggest challenge to Prime Minister Narendra Modi during his 12 years in office]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Mike Vrabel arrives to Patriots press conference with puppy in hand as he dodges Dianna Russini question</title>
+      <link>https://www.foxnews.com/outkick-sports/mike-vrabel-puppy-patriots-press-conference-dodges-dianna-russini-questions</link>
+      <guid isPermaLink="false">b42750a0d1349c6166c580fbde470a99f4fbc7a6</guid>
+      <pubDate>Sat, 25 Jul 2026 14:36:33 GMT</pubDate>
+      <description><![CDATA[Mike Vrabel showed up to his first Patriots training camp press conference holding a puppy, deflecting every question about the Dianna Russini scandal.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>DAVID MARCUS: Brave new world of prediction markets can make us all inside traders</title>
+      <link>https://www.foxnews.com/opinion/david-marcus-brave-new-world-prediction-markets-make-us-all-inside-traders</link>
+      <guid isPermaLink="false">c290cab36faba69d6f5eb6e13d5e76674e3c4c27</guid>
+      <pubDate>Sat, 25 Jul 2026 14:26:13 GMT</pubDate>
+      <description><![CDATA[Prediction markets let thousands of people profit from insider trading, from soldiers betting on military action to White House teleprompter operators.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Michael Kim nails dramatic birdie on the 18th to make PGA Tour scoring history at 3M Open</title>
+      <link>https://www.foxnews.com/sports/michael-kim-birdie-18th-pga-tour-scoring-history-3m-open</link>
+      <guid isPermaLink="false">45c317ad792b6c1b2beef78d599b198dd6ee7459</guid>
+      <pubDate>Sat, 25 Jul 2026 14:12:16 GMT</pubDate>
+      <description><![CDATA[Michael Kim buried a 24-foot birdie putt on the 18th hole to shoot 59 at the 3M Open, joining an elite club with just the 16th sub-60 round ever.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>As 'The Odyssey' thrives at the box office, franchise fatigue hits summer with bombs like 'Supergirl,' 'Moana'</title>
+      <link>https://www.foxnews.com/media/odyssey-thrives-box-office-franchise-fatigue-hits-summer-bombs-supergirl-moana</link>
+      <guid isPermaLink="false">16b90835698dbd3ddfb76db8d1b7336a3ae72ec3</guid>
+      <pubDate>Sat, 25 Jul 2026 14:00:49 GMT</pubDate>
+      <description><![CDATA[Christopher Nolan's "The Odyssey" crossed $320 million globally in under a week as franchise fatigue drags down "Moana," "Supergirl" among others.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Brian Hooker’s stepmom wants to help investigators as she suspects he ‘lied about everything’: reports</title>
+      <link>https://www.foxnews.com/us/brian-hooker-stepmom-wants-help-investigators-suspects-lied-everything-reports</link>
+      <guid isPermaLink="false">5a4880ee34e2ef9d72577980d94cb137bfc83b94</guid>
+      <pubDate>Sat, 25 Jul 2026 14:00:31 GMT</pubDate>
+      <description><![CDATA[Brian Hooker's stepmother says she has never been contacted by investigators despite knowing him for decades and offers to answer questions.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>TPUSA's Andrew Kolvet calls viral 'looksmaxxing' craze a 'red warning sign' for young men</title>
+      <link>https://www.foxnews.com/media/tpusa-andrew-kolvet-calls-viral-looksmaxxing-craze-red-warning-sign-young-men</link>
+      <guid isPermaLink="false">764581f7db97111a088a3deb8882615ded958b2a</guid>
+      <pubDate>Sat, 25 Jul 2026 14:00:31 GMT</pubDate>
+      <description><![CDATA[Andrew Kolvet calls the looksmaxxing trend a "giant red warning sign" and urges young men to pursue "charactermaxxing" over facial aesthetics.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Major city launches harsh tourist crackdown as locals revolt over massive crowds</title>
+      <link>https://www.foxnews.com/travel/major-city-launches-tourist-crackdown-locals-revolt-over-massive-crowds</link>
+      <guid isPermaLink="false">58453842fc19a0176fc8518b786fbc96177fb7d4</guid>
+      <pubDate>Sat, 25 Jul 2026 14:00:05 GMT</pubDate>
+      <description><![CDATA[Barcelona's first sustainable tourism commissioner says the city's message is clear: "Not one tourist more" as huge cruise taxes and rental bans take shape.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Trump takes swipes at press during White House Correspondents' Dinner</title>
       <link>https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">8a47e59434cbb00a6a880564d1ebfe4bb2681ed8</guid>
@@ -359,100 +447,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Cruise passenger horrifies diners by scratching bare foot with restaurant fork</title>
-      <link>https://www.foxnews.com/travel/cruise-passenger-horrifies-diners-scratching-bare-foot-restaurant-fork</link>
-      <guid isPermaLink="false">7bff23fb564914fe4db0867e2fc0ab6a8887d111</guid>
-      <pubDate>Sat, 25 Jul 2026 12:41:05 GMT</pubDate>
-      <description><![CDATA[Sparking anger over cruise ship hygiene standards, a Carnival Cruise passenger was caught on camera using a restaurant fork to scratch her foot while in a dining area.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>GOP lawmaker demands answers after Smithsonian chief urged moving beyond 'America First mentality'</title>
-      <link>https://www.foxnews.com/politics/gop-lawmaker-demands-answers-smithsonian-chief-urged-moving-beyond-america-first-mentality</link>
-      <guid isPermaLink="false">1f13f2d90dbd8d3e9b6b29a9bc7e833aab46ae64</guid>
-      <pubDate>Sat, 25 Jul 2026 12:30:17 GMT</pubDate>
-      <description><![CDATA[Rep. Mike Carey grilled Smithsonian leadership on why the National Museum of American History dropped "American history" from its mission statement.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sean McCann, Madeleine's brother, makes Commonwealths final</title>
-      <link>https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a1a15883b6acbaad9ecbbb8ad4d81deec7b81a8d</guid>
-      <pubDate>Sat, 25 Jul 2026 12:27:09 GMT</pubDate>
-      <description><![CDATA[Sean McCann, the younger brother of Madeleine McCann, reaches the 400m freestyle final at Commonwealth Games.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM</title>
-      <link>https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1f34bf719625e13a0fb5db6713bd14bbeb7d5a1d</guid>
-      <pubDate>Sat, 25 Jul 2026 12:26:14 GMT</pubDate>
-      <description><![CDATA[See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ryan Clark openly weeps about ugly ESPN exit during insane podcast appearance</title>
-      <link>https://www.foxnews.com/outkick-sports/ryan-clark-openly-weeps-ugly-espn-exit-insane-podcast-appearance</link>
-      <guid isPermaLink="false">8483b1bee4417c297d8483a91efe9f1b18c3ed60</guid>
-      <pubDate>Sat, 25 Jul 2026 12:21:25 GMT</pubDate>
-      <description><![CDATA[Ryan Clark broke down in tears on "The Pivot" podcast after ESPN fired him, prompting Asante Samuel to publicly call out his emotional response.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Dangerous, life-threatening heat wave bakes more than 85M Americans across 20 states with triple-digit temps</title>
       <link>https://www.foxweather.com/weather-news/dangerous-heat-wave-impact-central-us</link>
       <guid isPermaLink="false">2a9b26fd2cfc284f5093686d27b1bde27b549db4</guid>
       <pubDate>Sat, 25 Jul 2026 12:19:46 GMT</pubDate>
       <description><![CDATA[After weeks of relentless heat waves, the next blast of dangerous heat is setting its sights on the Central U.S. — and the heat is only getting started.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>COMIC: Temps are predicted to hit 106 in Egypt this week. How do people stay cool?</title>
-      <link>https://www.npr.org/2026/07/25/g-s1-135194/summer-heat-egypt-cairo-air-conditioning</link>
-      <guid isPermaLink="false">15d26b27bde1f36777aad6f704fb28333c2e7ace</guid>
-      <pubDate>Sat, 25 Jul 2026 12:05:34 GMT</pubDate>
-      <description><![CDATA[Back in the '90s, I learned the art of staying cool in Egypt. At that time, air conditioning was not common. In the extremely hot summer of 2026, how are people managing?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Far-left victories rip mask off Democrats as top conservative sounds alarm party is ‘way beyond socialism’</title>
-      <link>https://www.foxnews.com/politics/far-left-victories-rip-mask-off-democrats-top-conservative-sounds-alarm-party-way-beyond-socialism</link>
-      <guid isPermaLink="false">00c54eb589a97e8a24ff94a4729ab185f1c3ef36</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:36 GMT</pubDate>
-      <description><![CDATA[Rep. Andy Harris says DSA-backed candidates are pushing Democrats toward communism, arguing it will help House Republicans in midterm elections.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>'Baywatch: Hawaii' star Brandy Ledford says she 'wanted to truly check out' before rehab saved her life</title>
-      <link>https://www.foxnews.com/entertainment/baywatch-hawaii-star-brandy-ledford-wanted-truly-check-out-rehab-saved-life</link>
-      <guid isPermaLink="false">0f55934141729bfa8dfa91145d02b342c556e47c</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:33 GMT</pubDate>
-      <description><![CDATA[Brandy Ledford shares how substance abuse nearly destroyed her before rehab, and why connecting with fans on Passes is part of her journey in building close connections.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Opinion: New Jersey pizza, the fuel of world champions</title>
-      <link>https://www.npr.org/2026/07/25/nx-s1-5898450/opinion-new-jersey-pizza-the-fuel-of-world-champions</link>
-      <guid isPermaLink="false">a5bf770f67466c302c55a3332b77452cb8b63fd8</guid>
-      <pubDate>Sat, 25 Jul 2026 12:00:00 GMT</pubDate>
-      <description><![CDATA[What do World Cup champions crave after a win? Pizza from an Orange, N.J., bagel shop. BXJ made 46 pies for the Spanish team after their victory.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sextortion: That's the threat for women who are simply trying to buy clean water</title>
-      <link>https://www.npr.org/2026/07/25/g-s1-133450/sexual-violence-women-clean-water-nairobi-kenya</link>
-      <guid isPermaLink="false">2f6c968a2b8283ad1c4c4b6a961a23f1a89f6b6f</guid>
-      <pubDate>Sat, 25 Jul 2026 11:59:19 GMT</pubDate>
-      <description><![CDATA[Water is often a scarce commodity in Nairobi's largest slum. The only source may be a local cartel — and with that comes the risk of sexual threats and attacks.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Why these cancer patients face a lonely fight</title>
-      <link>https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria</link>
-      <guid isPermaLink="false">b587b51d50de092a84a144eb4a3db3190945a3a1</guid>
-      <pubDate>Sat, 25 Jul 2026 11:51:44 GMT</pubDate>
-      <description><![CDATA[As Nigeria grapples with a rapid rise in cancer cases, patients say they often feel as if they are on their own.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Hurricane Fausto expected to trail north of Hawaii, with Tropical Storm Genevieve poised to rapidly intensify</title>
