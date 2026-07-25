@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 00:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 04:17:12 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: This Afternoon - Mostly Sunny</title>
+      <title>Anchorage Weather: Tonight - Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 00:10:58 GMT</pubDate>
-      <description><![CDATA[69°F. Wind NW 10 to 15 mph. Mostly sunny, with a high near 69. Northwest wind 10 to 15 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight - Mostly Clear</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 00:10:58 GMT</pubDate>
-      <description><![CDATA[46°F. Wind N 10 to 15 mph. Mostly clear, with a low around 46. North wind 10 to 15 mph, with gusts as high as 25 mph.]]></description>
+      <pubDate>Sat, 25 Jul 2026 04:17:12 GMT</pubDate>
+      <description><![CDATA[46°F. Wind N 10 to 15 mph. Clear, with a low around 46. North wind 10 to 15 mph, with gusts as high as 25 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 00:10:58 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 04:17:12 GMT</pubDate>
       <description><![CDATA[70°F. Wind NW 0 to 10 mph. Sunny, with a high near 70. Northwest wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Saturday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 00:10:58 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 04:17:12 GMT</pubDate>
       <description><![CDATA[49°F. Wind SW 0 to 5 mph. Mostly clear, with a low around 49. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +34,25 @@
       <title>Anchorage Weather: Sunday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 00:10:58 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 04:17:12 GMT</pubDate>
       <description><![CDATA[70°F. Wind SW 0 to 5 mph. Sunny, with a high near 70. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Sunday Night - Mostly Cloudy then Chance Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sat, 25 Jul 2026 04:17:12 GMT</pubDate>
+      <description><![CDATA[53°F. Wind W 0 to 5 mph. A chance of rain after 4am. Mostly cloudy, with a low around 53. West wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Newscast – Friday, July 24, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17387039/newscast-friday-july-24-2026</link>
+      <guid isPermaLink="false">3961be35b01a65f81057630790edfd765281916b</guid>
+      <pubDate>Sat, 25 Jul 2026 01:10:22 GMT</pubDate>
+      <description><![CDATA[A Juneau public transportation survey closes Sunday; The University of Alaska Southeast is partnering with Minnesota-based Mitchell Hamline School of Law to allow Alaska students to get a law degree locally; The Juneau Assembly plans to tackle major local election topics on Monday; Investors that want to ship bulk water out of Sitka are asking for an extension to gather funding for a plan; The CDC reports a fourth gastrointestinal illness outbreak aboard the National Geographic Seabird since late May; Fewer sockeye salmon are returning to the Kenai River than did this time last year]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Alaska Native communities prepare for man camps driven by new mining boom</title>
@@ -279,6 +287,14 @@
       <category>local</category>
     </item>
     <item>
+      <title>Half marathoners tackle new course in 2026 Kachemak Bay Mountain Classic</title>
+      <link>https://www.homernews.com/2026/07/23/half-marathoners-tackle-new-course-in-2026-kachemak-bay-mountain-classic/</link>
+      <guid isPermaLink="false">416fd0cc6fe5e41c7379852b06a7c556d7b67c68</guid>
+      <pubDate>Thu, 23 Jul 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[26 out of 30 participants completed the 13.1-mile course with around 2,900 feet of elevation gain]]></description>
+      <category>local</category>
+    </item>
+    <item>
       <title>Homer Pet of the Week: Hunter</title>
       <link>https://www.homernews.com/2026/07/23/homer-pet-of-the-week-hunter-2/</link>
       <guid isPermaLink="false">c570f52cf99a1cd327f6c1674d06b4c5e8cfe49f</guid>
@@ -287,20 +303,124 @@
       <category>local</category>
     </item>
     <item>
-      <title>Brick by Brick: Kenai’s Russian Kiln — Part 1</title>
-      <link>https://www.homernews.com/2026/07/23/brick-by-brick-kenais-russian-kiln-part-1/</link>
-      <guid isPermaLink="false">04d0a4699e79f583c752ea95ddb3326c07aaf7fa</guid>
-      <pubDate>Thu, 23 Jul 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[AUTHOR’S NOTE: A number of people (Dorothy Gray, Marion Nelson and Danielle Stamm, for example) have assisted me in gathering information for this article, but I want to single out one individual for special acknowledgement. Without the Russian-language translations and summaries provided by Katherine Arndt, the bibliographer and curator of rare books at the Rasmuson Library at the University of Alaska Fairbanks, I would have been without at least two-thirds of my material.]]></description>
-      <category>local</category>
+      <title>Police declare 'major incident' as wind change increases Cairngorms wildfire risk</title>
+      <link>https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e53e084b89d5f1d1cd08747158e52d341c7390d7</guid>
+      <pubDate>Sat, 25 Jul 2026 04:01:00 GMT</pubDate>
+      <description><![CDATA[All residents in the village of Nethy Bridge have been evacuated over the threat the wildfire spreading.]]></description>
+      <category>weather</category>
     </item>
     <item>
-      <title>Half marathoners tackle new course in 2026 Kachemak Bay Mountain Classic</title>
-      <link>https://www.homernews.com/2026/07/23/half-marathoners-tackle-new-course-in-2026-kachemak-bay-mountain-classic/</link>
-      <guid isPermaLink="false">416fd0cc6fe5e41c7379852b06a7c556d7b67c68</guid>
-      <pubDate>Thu, 23 Jul 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[26 out of 30 participants completed the 13.1-mile course with around 2,900 feet of elevation gain]]></description>
-      <category>local</category>
+      <title>Azzi Fudd wins WNBA 3-point contest, becomes first rookie champion</title>
+      <link>https://www.foxnews.com/sports/azzi-fudd-wins-wnba-3-point-contest-becomes-first-rookie-champion</link>
+      <guid isPermaLink="false">7883bc7f2c72ac1f14ebee04e6b2e39d0dc0afc0</guid>
+      <pubDate>Sat, 25 Jul 2026 03:35:06 GMT</pubDate>
+      <description><![CDATA[Azzi Fudd made WNBA history as the first rookie to win the All-Star 3-point contest, scoring 30 of 40 possible points in the final round.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump spares no one at WHCA dinner, taking aim at Dems, press and his own Cabinet</title>
+      <link>https://www.foxnews.com/politics/trump-spares-no-one-whca-dinner-taking-aim-dems-press-own-cabinet</link>
+      <guid isPermaLink="false">4f326adeba7af63d3659aed1080179e472c7706b</guid>
+      <pubDate>Sat, 25 Jul 2026 03:33:17 GMT</pubDate>
+      <description><![CDATA[Trump scrapped his combative speech for a unity-themed address, but still took familiar jabs at J.B. Pritzker, Chuck Schumer, and Gavin Newsom.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Mets star Juan Soto exits in sixth inning against Dodgers with lingering calf injury</title>
+      <link>https://www.foxnews.com/sports/juan-soto-leaves-mets-game-dodgers-sixth-inning-lingering-calf-injury</link>
+      <guid isPermaLink="false">f9c916488b8bda4f038f830d175692a83a4a7105</guid>
+      <pubDate>Sat, 25 Jul 2026 02:47:56 GMT</pubDate>
+      <description><![CDATA[Juan Soto left Friday's game against the Los Angeles Dodgers with a lingering calf injury that has been on the New York Mets' radar since July 16.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>More than 220,000 evacuated in France and Spain due to wildfires</title>
+      <link>https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0008452186b767a4c96b33e983eae2bdf77643d5</guid>
+      <pubDate>Sat, 25 Jul 2026 02:29:36 GMT</pubDate>
+      <description><![CDATA[French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the "worst fire in the history of the region".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump orders Smithsonian to post warnings about 'inaccurate' US history</title>
+      <link>https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1206ed6269774f4b93912fe49ea6beb1362f1a3c</guid>
+      <pubDate>Sat, 25 Jul 2026 02:23:09 GMT</pubDate>
+      <description><![CDATA[The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion</title>
+      <link>https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f76de72188e4e7eb10a75e7a2079f4866eab2f71</guid>
+      <pubDate>Sat, 25 Jul 2026 02:14:50 GMT</pubDate>
+      <description><![CDATA[Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Teenage boy dies after stabbing in Luton as police launch murder investigation</title>
+      <link>https://www.bbc.co.uk/news/articles/cjejvkk70z1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6f9d1fd5fea3417066477b72706b03031799c901</guid>
+      <pubDate>Sat, 25 Jul 2026 02:02:15 GMT</pubDate>
+      <description><![CDATA[The 17-year-old was taken to hospital with multiple stab wounds but was pronounced dead shortly after, Bedfordshire Police says.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Gretchen Whitmer endorses moderate Haley Stevens in tight upcoming Senate primary</title>
+      <link>https://www.foxnews.com/politics/gretchen-whitmer-endorses-moderate-haley-stevens-tight-upcoming-senate-primary</link>
+      <guid isPermaLink="false">d591b0bffcccd8a88c7a4e38cc56fb2d9eed4bbb</guid>
+      <pubDate>Sat, 25 Jul 2026 01:55:03 GMT</pubDate>
+      <description><![CDATA[Gretchen Whitmer backed Haley Stevens over Abdul El-Sayed in the Michigan Senate primary as early voting begins, setting up a key Democratic clash.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Trump orders signs outside Smithsonian museum amid row over its depiction of American history</title>
+      <link>https://www.foxnews.com/politics/trump-orders-signs-outside-smithsonian-museum-amid-row-over-its-depiction-american-history</link>
+      <guid isPermaLink="false">9e0ccb7b342d2f17121a0309feaf9a613fe27c05</guid>
+      <pubDate>Sat, 25 Jul 2026 01:31:14 GMT</pubDate>
+      <description><![CDATA[Trump's executive order targets federal sidewalks outside the Smithsonian to post signs directing visitors to a White House report on the museum.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fired '60 Minutes' correspondent accuses CBS News leadership of meddling in reporting</title>
+      <link>https://www.foxnews.com/media/fired-60-minutes-correspondent-accuses-cbs-news-leadership-meddling-reporting</link>
+      <guid isPermaLink="false">8c1602ae69bc329e747c6ce202f9c9978e8de672</guid>
+      <pubDate>Sat, 25 Jul 2026 01:00:15 GMT</pubDate>
+      <description><![CDATA[Cecilia Vega alleges CBS News meddled in her "60 Minutes" reporting on anti-ICE unrest and Trump's Iran war, calling directives "misinformation."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dan Le Batard claims ESPN is run by McAfee and 'White people' after layoffs, slanders OutKick in unhinged rant</title>
+      <link>https://www.foxnews.com/outkick-sports/dan-le-batard-claims-espn-run-mcafee-white-people-layoffs-slanders-outkick-unhinged-rant</link>
+      <guid isPermaLink="false">bfa902c783b16148738bf9a805b7a1f23a9185b7</guid>
+      <pubDate>Sat, 25 Jul 2026 00:42:25 GMT</pubDate>
+      <description><![CDATA[Dan Le Batard claims ESPN layoffs removed Black voices and calls OutKick "dishonest," pulling the race card over Ryan Clark's departure from the network.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>California trans suspect arrested in mother's killing after neighbor recalls heated argument</title>
+      <link>https://www.foxnews.com/us/california-trans-suspect-arrested-mothers-killing-neighbor-recalls-heated-argument</link>
+      <guid isPermaLink="false">e4153b553c782f7dbe96096ae14eb5923f4ee544</guid>
+      <pubDate>Sat, 25 Jul 2026 00:37:50 GMT</pubDate>
+      <description><![CDATA[Safford Wolfson, 36, was arrested on suspicion of murdering his mother Angela Caprioli at their Laguna Beach home after being named a person of interest.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>House Republicans confront NJ governor over 6,600 noncitizens registered to vote in alleged software failure</title>
+      <link>https://www.foxnews.com/politics/house-republicans-confront-nj-governor-6600-noncitizens-registered-vote-alleged-software-failure</link>
+      <guid isPermaLink="false">a87f6fb233ea44e249c947d55253b8d9ef20e007</guid>
+      <pubDate>Sat, 25 Jul 2026 00:32:51 GMT</pubDate>
+      <description><![CDATA[House Republicans demand answers from Gov. Miki Sherrill after 6,600 noncitizens were registered to vote through a New Jersey motor vehicle system error.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Illegal immigrant who killed Nashville restaurant owner to face ICE deportation after prison</title>
+      <link>https://www.foxnews.com/us/illegal-immigrant-who-killed-nashville-restaurant-owner-face-ice-deportation-after-prison</link>
+      <guid isPermaLink="false">f9e9063dbc4be9a82cff9be13035c82090a2b6ea</guid>
+      <pubDate>Sat, 25 Jul 2026 00:18:08 GMT</pubDate>
+      <description><![CDATA[Ulises Raigoza-Martinez, who says he illegally entered through Texas in 2021, pleaded guilty to murdering Nashville restaurant owner Matt Carney.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Ten killed in Russian attack on drone exhibition near Kyiv</title>
@@ -340,126 +460,6 @@
       <guid isPermaLink="false">24be73606fd12226c553ff50fb39d4aa03f6424b</guid>
       <pubDate>Fri, 24 Jul 2026 23:01:06 GMT</pubDate>
       <description><![CDATA[Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Cause of death revealed for Big Sur hiker whose body was found naked on remote California trail</title>
-      <link>https://www.foxnews.com/us/cause-death-revealed-big-sur-hiker-body-found-remote-california-trail</link>
-      <guid isPermaLink="false">f59dd00a38ba4ae2fa34d3fadbd094d1e4e20287</guid>
-      <pubDate>Fri, 24 Jul 2026 23:00:43 GMT</pubDate>
-      <description><![CDATA[Joanna Ruth Shields, 37, died of probable alcohol withdrawal seizures near Sykes Hot Springs in Big Sur, Monterey County investigators confirmed.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'I just wanted them to survive': Couple tell of attempt to save drowning girl and mum</title>
-      <link>https://www.bbc.co.uk/news/videos/cwyje55dw4xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">fa39aefb0ccc46ce215421658cee0c9134cac2d8</guid>
-      <pubDate>Fri, 24 Jul 2026 23:00:06 GMT</pubDate>
-      <description><![CDATA[A couple have told the BBC how they attempted to save a mother and daughter who drowned off an Essex beach.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Simone Biles returns to hospital for procedure weeks after 'almost dying' in 'medical emergency'</title>
-      <link>https://www.foxnews.com/sports/simone-biles-returns-hospital-procedure-weeks-after-almost-dying-medical-emergency</link>
-      <guid isPermaLink="false">6f1b2120365d095c21facf92b9a52c0c666dad3a</guid>
-      <pubDate>Fri, 24 Jul 2026 22:56:37 GMT</pubDate>
-      <description><![CDATA[Simone Biles shared a hospital selfie with husband Jonathan Owens, revealing the NFL safety took her to a "procedure" on his birthday after her medical emergency.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Four Palestinians and two Israelis killed in West Bank shooting</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">22c51bb32bd881286d0d967cfb946fd06da0a61c</guid>
-      <pubDate>Fri, 24 Jul 2026 22:49:59 GMT</pubDate>
-      <description><![CDATA[Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Succession: Why Congress has no clear plan when lawmakers can’t serve</title>
-      <link>https://www.foxnews.com/politics/succession-why-congress-has-no-clear-plan-when-lawmakers-cant-serve</link>
-      <guid isPermaLink="false">cd1d6f6a24bc8d10ac17d24ee6f48d68cc7ee2fd</guid>
-      <pubDate>Fri, 24 Jul 2026 22:34:16 GMT</pubDate>
-      <description><![CDATA[Lawmaker absences expose a constitutional gap over replacing members who cannot serve.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Selena Gomez posts swimsuit-filled yacht vacation photos with husband Benny Blanco</title>
-      <link>https://www.foxnews.com/entertainment/selena-gomez-posts-swimsuit-filled-yacht-vacation-photos-husband-benny-blanco</link>
-      <guid isPermaLink="false">895b01cacb9dfba73add1d94e4a4f4d2cc43f951</guid>
-      <pubDate>Fri, 24 Jul 2026 22:29:28 GMT</pubDate>
-      <description><![CDATA[Benny Blanco left a cheeky comment on Selena Gomez's sultry swimsuit photos from their yacht vacation as fans celebrated the couple's happiness.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Paramount says it will pause its Warner acquisition while legal challenges play out</title>
-      <link>https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits</link>
-      <guid isPermaLink="false">3a8982b55796e590c14d0d633327a7f3d0cc3107</guid>
-      <pubDate>Fri, 24 Jul 2026 22:26:21 GMT</pubDate>
-      <description><![CDATA[A dozen states and the Writers Guild of America had challenged the merger.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>John Tortorella opens up about getting fired by Vegas after losing the Stanley Cup Final</title>
-      <link>https://www.foxnews.com/outkick-sports/john-tortorella-opens-fired-vegas-losing-stanley-cup-final</link>
-      <guid isPermaLink="false">b0a4e0e1196412c09377907c02107ebf1ca849c5</guid>
-      <pubDate>Fri, 24 Jul 2026 22:17:54 GMT</pubDate>
-      <description><![CDATA[John Tortorella says he was told within one minute of his post-Game 6 meeting that Ryan Craig would coach the Vegas Golden Knights next season.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Combat vet senator chokes up over fallen friend in fiery floor speech about Iran war: ‘We will finish it’</title>
-      <link>https://www.foxnews.com/politics/combat-vet-senator-chokes-up-over-fallen-friend-fiery-floor-speech-about-iran-war-we-finish-it</link>
-      <guid isPermaLink="false">d1987e7195ff2e5e739ada89ae809e976749d021</guid>
-      <pubDate>Fri, 24 Jul 2026 22:13:23 GMT</pubDate>
-      <description><![CDATA[US Sen. Tim Sheehy, a former combat vet, choked up pointing to a bracelet honoring a fallen friend as he opposed the Iran War Powers Resolution on the Senate floor Thursday.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>EXCLUSIVE: ICE removes former NFL player Daniel Ogama Adongo after visa overstay, criminal record</title>
-      <link>https://www.foxnews.com/politics/exclusive-ice-removes-former-nfl-player-daniel-ogama-adongo-after-visa-overstay-criminal-record</link>
-      <guid isPermaLink="false">6b7bdf971fdfa28c2692ff148e82c850699b0007</guid>
-      <pubDate>Fri, 24 Jul 2026 22:13:02 GMT</pubDate>
-      <description><![CDATA[Daniel Ogama Adongo, a former Indianapolis Colts linebacker from Kenya, had overstayed his visa and faced multiple arrests including a criminal conviction.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The surveillance camera on your street corner: lawful spying or constitutionally problematic?</title>
-      <link>https://www.foxnews.com/tech/surveillance-camera-your-street-corner-lawful-spying-constitutionally-problematic</link>
-      <guid isPermaLink="false">3a9bdb72aa606a1571a53bbf038c57a4577dda0c</guid>
-      <pubDate>Fri, 24 Jul 2026 22:04:51 GMT</pubDate>
-      <description><![CDATA[Automated license plate readers are expanding across the U.S., fueling privacy and surveillance concerns.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump says Saudi nuclear agreement won't move forward without Abraham Accords: 'They have to be a member'</title>
-      <link>https://www.foxnews.com/politics/trump-says-saudi-nuclear-agreement-wont-move-forward-without-abraham-accords-they-have-to-be-member</link>
-      <guid isPermaLink="false">b3ed0713fcd5e29e1b6e53f8fa6981409917d630</guid>
-      <pubDate>Fri, 24 Jul 2026 22:00:58 GMT</pubDate>
-      <description><![CDATA[Trump says Saudi Arabia must join the Abraham Accords before any civilian nuclear energy deal moves forward, insisting the condition was always understood.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump weighs in on LeBron James vs Michael Jordan debate: 'I only like people that like me'</title>
-      <link>https://www.foxnews.com/sports/trump-weighs-lebron-james-vs-michael-jordan-debate-i-only-like-people-that-like-me</link>
-      <guid isPermaLink="false">cd88f9be42e1025f510c4b74387c2191a16048fb</guid>
-      <pubDate>Fri, 24 Jul 2026 21:55:55 GMT</pubDate>
-      <description><![CDATA[President Donald Trump was asked who he thought was better, Michael Jordan or LeBron James, and Trump said he thought the Chicago Bulls legend was better.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Buffalo Bills' latest edition to their new stadium is predictably (and painfully) on brand</title>
-      <link>https://www.foxnews.com/outkick-sports/buffalo-bills-latest-edition-new-stadium-predictably-painfully-brand</link>
-      <guid isPermaLink="false">2412516009489b5327484063f7c69658c3fd6729</guid>
-      <pubDate>Fri, 24 Jul 2026 21:55:20 GMT</pubDate>
-      <description><![CDATA[A 20-foot broken folding table now stands in the concourse of Buffalo's new $2.1 billion Highmark Stadium as a tribute to Bills Mafia tailgate culture.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Horror injury overshadows gymnastics silver at Commonwealths</title>
-      <link>https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0472abbfb2bb9e94fd8d738f9f5b9d603b857143</guid>
-      <pubDate>Fri, 24 Jul 2026 21:53:49 GMT</pubDate>
-      <description><![CDATA[A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow 2026.]]></description>
       <category>world</category>
     </item>
     <item>
