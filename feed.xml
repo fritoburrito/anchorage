@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 21:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 23:02:12 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Today - Mostly Sunny</title>
+      <title>Anchorage Weather: Today - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 21:02:24 GMT</pubDate>
-      <description><![CDATA[70°F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 70. Southwest wind 0 to 5 mph.]]></description>
+      <pubDate>Sat, 25 Jul 2026 23:02:12 GMT</pubDate>
+      <description><![CDATA[70°F. Wind SW 0 to 5 mph. Sunny, with a high near 70. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 21:02:24 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 23:02:12 GMT</pubDate>
       <description><![CDATA[51°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 51. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Sunday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 21:02:24 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 23:02:12 GMT</pubDate>
       <description><![CDATA[69°F. Wind SW 0 to 5 mph. Sunny, with a high near 69. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Sunday Night - Mostly Cloudy then Scattered Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 21:02:24 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 23:02:12 GMT</pubDate>
       <description><![CDATA[54°F. Wind S 0 to 5 mph. Scattered rain showers after 4am. Mostly cloudy, with a low around 54. South wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +42,17 @@
       <title>Anchorage Weather: Monday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 21:02:24 GMT</pubDate>
+      <pubDate>Sat, 25 Jul 2026 23:02:12 GMT</pubDate>
       <description><![CDATA[61°F. Wind E 0 to 5 mph. Scattered rain showers before 7am, then rain likely. Cloudy, with a high near 61. East wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>On Trump, salmon and bison confusion: An Alaska-themed Q&amp;A with the Yukon’s top official</title>
+      <link>https://www.homernews.com/2026/07/25/on-trump-salmon-and-bison-confusion-an-alaska-themed-qs-top-official/</link>
+      <guid isPermaLink="false">bdc291b83e1f3b984c1c34a53021697a276838e9</guid>
+      <pubDate>Sat, 25 Jul 2026 21:30:00 GMT</pubDate>
+      <description><![CDATA[Currie Dixon is premier of the Yukon Territory. A lot of the issues on his mind might also be on yours.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Offshore supply vessel arrives in Homer</title>
@@ -271,12 +279,92 @@
       <category>local</category>
     </item>
     <item>
-      <title>The testing desert: How closing UAA’s testing center isolates Alaskans</title>
-      <link>https://alaskabeacon.com/2026/07/23/the-testing-desert-how-closing-uaas-testing-center-isolates-alaskans/</link>
-      <guid isPermaLink="false">40e19c59090950a829cf9a83a947bd2f1962ed42</guid>
-      <pubDate>Thu, 23 Jul 2026 22:04:29 GMT</pubDate>
-      <description><![CDATA[I didn’t learn about the permanent closure of the University of Alaska Anchorage Testing Center through a campus press release or a community town hall. I learned about it on a quiet summer afternoon while taking my 14-year-old son to sit for an exam for college credit. Watching a teenager step up, take initiative and […]]]></description>
-      <category>local</category>
+      <title>Summer heat fuels wildfires while monsoons trigger severe flood threats as weather whiplash plagues the West</title>
+      <link>https://www.foxweather.com/weather-news/summer-heat-fuels-wildfires-across-northwest-along-flood-threat-millions-southwest</link>
+      <guid isPermaLink="false">a7e3c47b4ff555320c158529cc5b7af5df4fbfc2</guid>
+      <pubDate>Sat, 25 Jul 2026 22:44:50 GMT</pubDate>
+      <description><![CDATA[As summer continues, the season brings a tale of two extremes: scorching heat fuels fire conditions, while a flood threat intensifies across portions of the Western U.S.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Flyers Matvei Michkov throws down disgusting Michigan move goal in charity hockey game</title>
+      <link>https://www.foxnews.com/outkick-sports/flyers-matvei-michkov-throws-down-disgusting-michigan-move-goal-charity-hockey-game</link>
+      <guid isPermaLink="false">cca85edc1c38a59cb3407c80bd1a6cc35dfca81b</guid>
+      <pubDate>Sat, 25 Jul 2026 22:44:32 GMT</pubDate>
+      <description><![CDATA[Matvei Michkov pulled off a stunning Michigan goal at a charity game in Russia featuring Alex Ovechkin, Artemi Panarin, and Mikhail Sergachev.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Miami Marlins’ collapse back to mediocrity is so predictable you could set your watch to it</title>
+      <link>https://www.foxnews.com/outkick-sports/miami-marlins-collapse-back-mediocrity-predictable-set-watch</link>
+      <guid isPermaLink="false">fae06e420a3464bb42232b5470684a5b40cec4f0</guid>
+      <pubDate>Sat, 25 Jul 2026 22:36:29 GMT</pubDate>
+      <description><![CDATA[The Miami Marlins have lost ten straight games since their historic June, and the Eury Perez perfect game controversy may have cursed their playoff race.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Atlanta Braves fan taunts The Freeze with a blown kiss and gets passed in spectacular fashion</title>
+      <link>https://www.foxnews.com/sports/atlanta-braves-fan-taunts-freeze-blown-kiss-passed-spectacular-fashion</link>
+      <guid isPermaLink="false">b74be6b66b5c061cab75e01503caaaa5dccd6f57</guid>
+      <pubDate>Sat, 25 Jul 2026 22:34:28 GMT</pubDate>
+      <description><![CDATA[Atlanta Braves' The Freeze delivered a viral moment after a fan's mid-race taunt backfired spectacularly during the warning track showdown at the ballpark.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Bargain buffet refuses to die while luxury dining takes over Vegas</title>
+      <link>https://www.foxnews.com/travel/bargain-buffet-refuses-die-while-luxury-dining-takes-over-vegas</link>
+      <guid isPermaLink="false">ceeb46b68ba302767c3d6e3f7f959df1a22707e5</guid>
+      <pubDate>Sat, 25 Jul 2026 22:33:05 GMT</pubDate>
+      <description><![CDATA[Las Vegas buffets are vanishing from the Strip, with only four remaining as the city shifts toward luxury dining and wealthier casino visitors.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>At least 1 dead, several injured after car rams into crowd at pride festival</title>
+      <link>https://www.foxnews.com/world/police-cancel-gay-pride-festival-car-rams-crowd-leaving-several-injured</link>
+      <guid isPermaLink="false">587c2de27b1f56197669e4c450ed6106f72bc3e5</guid>
+      <pubDate>Sat, 25 Jul 2026 22:14:35 GMT</pubDate>
+      <description><![CDATA[A car rammed into the Christopher Street Day festival in Berlin's Tiergarten, killing one person as police launched an intensive manhunt.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tour de France rider crashes into the back of support vehicle that slammed on the brakes</title>
+      <link>https://www.foxnews.com/outkick-sports/tour-de-france-rider-crashes-back-support-vehicle-slammed-brakes</link>
+      <guid isPermaLink="false">b9f269031a4e916f9b28241426df61d48617fb60</guid>
+      <pubDate>Sat, 25 Jul 2026 22:08:11 GMT</pubDate>
+      <description><![CDATA[Einer Rubio needed 20 stitches and a helicopter evacuation after slamming into a support vehicle on Alpe d'Huez during Tour de France Stage 19.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Armed man in tactical vest emerges from exploding Queens home before being shot by NYPD officers; 2 found dead</title>
+      <link>https://www.foxnews.com/us/armed-man-tactical-vest-emerges-exploding-queens-home-shot-nypd-officers-2-found-dead</link>
+      <guid isPermaLink="false">01ff03a273a360e3f7f2091f220dadfa73ee7346</guid>
+      <pubDate>Sat, 25 Jul 2026 22:01:29 GMT</pubDate>
+      <description><![CDATA[NYPD officers responding to a shots fired call on Ocean Crest Boulevard in Far Rockaway found a large house fire and a barricaded armed suspect.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>American cyclist Sepp Kuss narrowly avoids a horrific crash over cliff during Tour de France</title>
+      <link>https://www.foxnews.com/outkick-sports/american-cyclist-sepp-kuss-narrowly-avoids-horrific-crash-cliff-tour-de-france</link>
+      <guid isPermaLink="false">12e934299ec6d7a98dd0f29f7bfd105be9e3805c</guid>
+      <pubDate>Sat, 25 Jul 2026 21:56:58 GMT</pubDate>
+      <description><![CDATA[Sepp Kuss crashed into a low concrete barrier on a French Alps cliff edge during Tour de France Stage 20, with a massive drop-off just beyond.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Singer Zach Top slams modern country music, says it lacks 'soul'</title>
+      <link>https://www.foxnews.com/entertainment/zach-top-slams-modern-country-music-says-lacks-soul</link>
+      <guid isPermaLink="false">6e19832c5a0fe4b5073c1b31f11854eb44735371</guid>
+      <pubDate>Sat, 25 Jul 2026 21:46:07 GMT</pubDate>
+      <description><![CDATA[Zach Top says modern country music sounds "perfect" and has lost its "soul," explaining why bluegrass and raw sounds are resonating with fans now.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>A look at 7 of the worst and most ridiculous takes from Ryan Clark during his time at ESPN</title>
+      <link>https://www.foxnews.com/outkick-sports/look-7-worst-most-ridiculous-takes-ryan-clark-during-his-time-espn</link>
+      <guid isPermaLink="false">7bd6f12b41e635aa6515320f0d0c8d2a67e1f293</guid>
+      <pubDate>Sat, 25 Jul 2026 21:42:19 GMT</pubDate>
+      <description><![CDATA[From racial Shedeur Sanders draft claims to calling Kyren Lacy "innocent," Ryan Clark's most controversial ESPN moments reveal his troubles at the network.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>EXCLUSIVE: Alleged $32M COVID-19 fraud fugitive captured in Jamaica and returned to US, FBI says</title>
@@ -359,86 +447,6 @@
       <category>world</category>
     </item>
     <item>
-      <title>Country star Waylon Wyatt says he nearly 'died' after sudden health crisis derailed his Grand Ole Opry debut</title>
-      <link>https://www.foxnews.com/entertainment/country-star-waylon-wyatt-nearly-died-sudden-health-crisis-derailed-grand-ole-opry-debut</link>
-      <guid isPermaLink="false">21ba023120a3ca293fa1cebf8620b52fa6eea788</guid>
-      <pubDate>Sat, 25 Jul 2026 18:49:19 GMT</pubDate>
-      <description><![CDATA[Waylon Wyatt shared a video from his hospital bed after announcing his sepsis diagnosis on the same day his debut album "Dustpiles" dropped.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sophie Cunningham and West Wilson split on transgender athletes in girls' sports despite podcast partnership</title>
-      <link>https://www.foxnews.com/outkick-sports/sophie-cunningham-west-wilson-split-transgender-athletes-girls-sports-podcast-partnership</link>
-      <guid isPermaLink="false">e36509962cfafb29be58795a42149f006b29c6dd</guid>
-      <pubDate>Sat, 25 Jul 2026 18:23:10 GMT</pubDate>
-      <description><![CDATA[West Wilson called the transgender athletes debate a "borderline nonexistent issue" pushed by right-wingers, putting him at odds with Sophie Cunningham.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM</title>
-      <link>https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1f34bf719625e13a0fb5db6713bd14bbeb7d5a1d</guid>
-      <pubDate>Sat, 25 Jul 2026 18:20:20 GMT</pubDate>
-      <description><![CDATA[See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Riley Gaines calls USA Today reporter 'insane' for invoking Emmett Till in column about Caitlin Clark</title>
-      <link>https://www.foxnews.com/outkick-sports/riley-gaines-calls-usa-today-reporter-insane-invoking-emmett-till-column-caitlin-clark</link>
-      <guid isPermaLink="false">098685cd92974b7d7dc2ea850756b124930dbaf7</guid>
-      <pubDate>Sat, 25 Jul 2026 18:19:27 GMT</pubDate>
-      <description><![CDATA[Riley Gaines, the host of “The Riley Gaines Show," torched USA Today writer Nancy Armour over her recent Caitlin Clark column, calling her "insane."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Cairngorm residents say wildfire response 'too slow'</title>
-      <link>https://www.bbc.co.uk/news/articles/cdewlpgnlx6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0d387b8acbfd10878398f770730908b2e559a1cf</guid>
-      <pubDate>Sat, 25 Jul 2026 18:05:08 GMT</pubDate>
-      <description><![CDATA[Nethy Bridge residents were evacuated on Friday and a major incident was declared.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Police investigate donations by Tice company to Reform UK</title>
-      <link>https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3df02b7dd54c727f578cb158a79da69587f055ec</guid>
-      <pubDate>Sat, 25 Jul 2026 18:04:50 GMT</pubDate>
-      <description><![CDATA[Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Transgender dolls to be available for Minnesota schoolchildren as young as 4 under Walz-backed program: report</title>
-      <link>https://www.foxnews.com/us/transgender-dolls-available-minnesota-schoolchildren-young-4-under-walz-backed-program-report</link>
-      <guid isPermaLink="false">aed2a55d45639ba3228b9b5f262517476a2a89ce</guid>
-      <pubDate>Sat, 25 Jul 2026 17:51:06 GMT</pubDate>
-      <description><![CDATA[Taxpayer-funded transgender dolls with swappable genitalia target children ages 4-10 through a University of Minnesota research program tied to Tim Walz.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>India's 'cockroach' protest called off after education minister quits</title>
-      <link>https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">65ece58a00f2b826974bfa94733cfdd1c399d5f7</guid>
-      <pubDate>Sat, 25 Jul 2026 17:44:46 GMT</pubDate>
-      <description><![CDATA[The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Three SEC win totals you should absolutely pounce on before the 2026 college football season begins</title>
-      <link>https://www.foxnews.com/outkick-sports/three-sec-win-totals-pounce-2026-college-football-season</link>
-      <guid isPermaLink="false">a7cca241fb9e00014fbd2b6e0174eb349c5b7f1f</guid>
-      <pubDate>Sat, 25 Jul 2026 17:43:52 GMT</pubDate>
-      <description><![CDATA[Arch Manning's Texas Longhorns, Mike Elko's Texas A&M Aggies, and Lane Kiffin's LSU Tigers headline three SEC win totals worth watching in 2026.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Biden judge blocking Ethiopian deportations despite SCOTUS ruling clashed with ICE before</title>
-      <link>https://www.foxnews.com/politics/biden-judge-blocking-ethiopian-deportations-despite-scotus-ruling-clashed-ice</link>
-      <guid isPermaLink="false">1b61de2fabfe43ba9a79cb233956efe1232622ef</guid>
-      <pubDate>Sat, 25 Jul 2026 17:32:19 GMT</pubDate>
-      <description><![CDATA[Back-to-back rulings in Massachusetts blocked TPS terminations for Ethiopia and South Sudan, sparking fierce debate over lower court authority.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Bryan Norcross: The Atlantic is on snooze while Hawaii watches Fausto</title>
       <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-updte-july-25-2026</link>
       <guid isPermaLink="false">dd4736f048f18c5cea100dc195bd5008af5b36ef</guid>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">c631b5c3906b52fac924b430697aa50819c19824</guid>
       <pubDate>Thu, 23 Jul 2026 23:57:20 GMT</pubDate>
       <description><![CDATA[After a week full of nasty weather across portions of the U.S., ridge-riding severe storms are expected to make a return to the Upper Midwest.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Coral ecosystem reemerges after 60 years within the ocean's 'twilight zone'</title>
-      <link>https://www.foxweather.com/weather-news/mesophotic-coral-ecosystem-reemerges-60-years-ocean-twilight-zone</link>
-      <guid isPermaLink="false">814827123b1c1eda34e19bb7c2014e0f21127683</guid>
-      <pubDate>Thu, 23 Jul 2026 21:24:50 GMT</pubDate>
-      <description><![CDATA[Scientists are pleasantly surprised to have rediscovered a once presumed dead species that has emerged back in the spotlight after 60 years off the coast of Africa.]]></description>
       <category>weather</category>
     </item>
   </channel>
