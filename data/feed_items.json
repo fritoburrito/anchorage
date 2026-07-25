@@ -1,5 +1,25 @@
 [
   {
+    "title": "Offshore supply vessel arrives in Homer",
+    "link": "https://www.homernews.com/2026/07/25/offshore-supply-vessel-arrives-in-homer/",
+    "description": "The 190-foot C-Atlantis concluded its journey from Port Fourchon, La. through the Panama Canal",
+    "pubDate": "Sat, 25 Jul 2026 19:30:00 GMT",
+    "category": "kenai",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
+    "title": "Gimme a Smile: Good advice you might not want to take",
+    "link": "https://www.juneauempire.com/2026/07/25/gimme-a-smile-good-advice-you-might-not-want-to-take/",
+    "description": "Everywhere you go, you will find someone who longs to give you advice \u2014 sometimes even good advice. You don\u2019t always have to take it. Here are some examples of good advice you might not want to take.",
+    "pubDate": "Sat, 25 Jul 2026 19:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
     "title": "New online directory aims to advance long-term care in Alaska",
     "link": "https://www.juneauempire.com/2026/07/25/new-online-directory-aims-to-advance-long-term-care-in-alaska/",
     "description": "Alaska Care Compass provides a centralized resource",
@@ -380,24 +400,84 @@
     "rank": 100
   },
   {
-    "title": "US House and Senate split on ending Trump\u2019s war in Iran, as gas prices rise",
-    "link": "https://alaskabeacon.com/2026/07/23/repub/us-house-and-senate-split-on-ending-trumps-war-in-iran-as-gas-prices-rise/",
-    "description": "WASHINGTON \u2014 One day after President Donald Trump attended the dignified transfer of the remains of four U.S. service members killed as a result of the Iran conflict, the two chambers of Congress were at odds over whether to rein in the president\u2019s military powers in the monthslong war. While members of the U.S. House [\u2026]",
-    "pubDate": "Thu, 23 Jul 2026 21:01:35 GMT",
-    "category": "politics",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "EXCLUSIVE: Alleged $32M COVID-19 fraud fugitive captured in Jamaica and returned to US, FBI says",
+    "link": "https://www.foxnews.com/us/exclusive-alleged-32m-covid-19-fraud-fugitive-captured-jamaica-returned-us-fbi-says",
+    "description": "Elaine Angene Escoe was living under the fake identity \"Harley Newman\" in Jamaica before her arrest in connection with a $32 million COVID-19 fraud scheme.",
+    "pubDate": "Sat, 25 Jul 2026 20:15:37 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Alaska elections division director defends disqualifying U.S. Senate candidate",
-    "link": "https://alaskabeacon.com/2026/07/23/alaska-elections-division-director-defends-disqualifying-u-s-senate-candidate/",
-    "description": "Members of the House Judiciary and State Affairs committees questioned Alaska Division of Elections director Carol Beecher on Wednesday about the state\u2019s response to a U.S. Senate candidate with the same name as the incumbent \u2014 Dan Sullivan. It was the second investigatory hearing on the subject after elections officials failed to appear at an initial [\u2026]",
-    "pubDate": "Thu, 23 Jul 2026 20:00:40 GMT",
-    "category": "politics",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "Brooke Burke flaunts toned figure in green bikini during barefoot Malibu beach stroll",
+    "link": "https://www.foxnews.com/entertainment/brooke-burke-flaunts-toned-figure-green-bikini-during-barefoot-malibu-beach-stroll",
+    "description": "Brooke Burke stuns in a green bikini on a Malibu beach walk, weeks after sharing family vacation photos from Cabo San Lucas with fianc\u00e9 Scott Rigsby.",
+    "pubDate": "Sat, 25 Jul 2026 20:00:36 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Longer lives, worse health? Scientists uncover troubling trend across generations",
+    "link": "https://www.foxnews.com/health/longer-lives-worse-health-scientists-uncover-troubling-trend-across-generations",
+    "description": "The morbidity gap between life expectancy and healthy life expectancy is widest in America, where people spend about 14 years in poor health.",
+    "pubDate": "Sat, 25 Jul 2026 19:50:50 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Rep Brandon Gill backs Trump executive order, calls to 'clean house' at the Smithsonian",
+    "link": "https://www.foxnews.com/media/rep-brandon-gill-backs-trump-executive-order-calls-clean-house-smithsonian",
+    "description": "Rep. Brandon Gill says Americans are \"sick\" of woke ideology at taxpayer-funded museums and praises Trump for confronting ideological bias head-on.",
+    "pubDate": "Sat, 25 Jul 2026 19:40:19 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Court checks Pritzker as Trump administration scores another immigration win",
+    "link": "https://www.foxnews.com/politics/court-checks-pritzker-trump-administration-scores-another-immigration-win",
+    "description": "A federal judge ruled Illinois laws providing in-state tuition and financial aid to illegal immigrants are unconstitutional, dealing a blow to JB Pritzker.",
+    "pubDate": "Sat, 25 Jul 2026 19:39:22 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Biden ghostwriter tapes to be released",
+    "link": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
+    "description": "Former President Joe Biden is declining to appeal a court ruling that allows the Justice Department to publicize recordings of conversations between him and a writer collaborating on his memoir.",
+    "pubDate": "Sat, 25 Jul 2026 19:36:18 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "NYC 5-alarm fire injures at least 17 firefighters, others as blaze damages multiple apartment buildings",
+    "link": "https://www.foxnews.com/us/nyc-5-alarm-fire-injures-firefighters-others-blaze-damages-multiple-apartment-buildings",
+    "description": "5-alarm fire damages multiple buildings in Queens, injuring 17 firefighters and displacing families as 250 FDNY personnel battled the blaze.",
+    "pubDate": "Sat, 25 Jul 2026 19:33:17 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "'Weird Al' Yankovic says he walked away from a seven-figure comedy festival offer in Saudi Arabia",
+    "link": "https://www.foxnews.com/media/weird-al-yankovic-says-he-walked-away-from-seven-figure-comedy-festival-offer-saudi-arabia",
+    "description": "\"Weird Al\" Yankovic says he was offered seven figures for one show at the Riyadh Comedy Festival but turned it down because it made him \"feel icky.\"",
+    "pubDate": "Sat, 25 Jul 2026 19:20:56 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "Jacksonville Jaguars set at 8.5 win total after surprising 13-4 season and Wild Card loss to Buffalo",
@@ -470,6 +550,16 @@
     "rank": 10
   },
   {
+    "title": "Police investigate donations by Tice company to Reform UK",
+    "link": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
+    "description": "Britain Means Business, owned by the party\u2019s deputy leader Richard Tice, made two donations of \u00a3250,000 in the run-up to the 2024 general election.",
+    "pubDate": "Sat, 25 Jul 2026 18:04:50 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
     "title": "Transgender dolls to be available for Minnesota schoolchildren as young as 4 under Walz-backed program: report",
     "link": "https://www.foxnews.com/us/transgender-dolls-available-minnesota-schoolchildren-young-4-under-walz-backed-program-report",
     "description": "Taxpayer-funded transgender dolls with swappable genitalia target children ages 4-10 through a University of Minnesota research program tied to Tim Walz.",
@@ -510,100 +600,10 @@
     "rank": 10
   },
   {
-    "title": "WNBA All-Star Game betting preview: Team Coop's guards could give them the edge over Team Spoon",
-    "link": "https://www.foxnews.com/outkick-sports/wnba-all-star-game-betting-preview-team-coop-guards-could-give-them-edge-team-spoon",
-    "description": "The WNBA All-Star Game features Caitlin Clark and A'ja Wilson on Team Spoon against Paige Bueckers and Breanna Stewart on Team Coop tonight.",
-    "pubDate": "Sat, 25 Jul 2026 17:25:09 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Fired school counselor loses again after free speech fight over gender-themed books in his office",
-    "link": "https://www.foxnews.com/media/fired-school-counselor-loses-again-after-free-speech-fight-over-gender-themed-books-his-office",
-    "description": "The 9th Circuit ruled an Oregon school counselor's book display promoting binary gender views was government speech, not protected by the First Amendment.",
-    "pubDate": "Sat, 25 Jul 2026 17:13:01 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "The biggest food and drink mistakes travelers make on flights, experts warn",
-    "link": "https://www.foxnews.com/food-drink/biggest-food-drink-mistakes-travelers-make-flights-experts-warn",
-    "description": "Experts reveal the common nutrition mistakes travelers make that worsen bloating, dehydration and fatigue \u2014 and the electrolyte-rich foods to pack instead.",
-    "pubDate": "Sat, 25 Jul 2026 17:01:50 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Tony Romo's brutal golf score before getting arrested paints a nightmarish picture",
-    "link": "https://www.foxnews.com/outkick-sports/tony-romo-brutal-golf-score-arrested-nightmarish-picture",
-    "description": "Tony Romo was arrested for operating while intoxicated in Milwaukee after finishing 35-over par at the Wisconsin Amateur Championship golf tournament.",
-    "pubDate": "Sat, 25 Jul 2026 16:56:34 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "More than 250,000 flee wildfires in France and Spain",
-    "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-    "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-    "pubDate": "Sat, 25 Jul 2026 16:43:10 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "49ers coach Kyle Shanahan suffers significant injuries in offseason car wreck",
-    "link": "https://www.foxnews.com/sports/49ers-coach-kyle-shanahan-suffers-significant-injuries-offseason-car-wreck",
-    "description": "San Francisco 49ers head coach Kyle Shananhan was involved in a car accident last week, suffering non-life threatening injuries, the team announced on Saturday.",
-    "pubDate": "Sat, 25 Jul 2026 16:16:15 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Elderly Florida man faces charges after alleged 'sugar baby' dispute ends in car-ramming, gun threat: police",
-    "link": "https://www.foxnews.com/us/elderly-florida-man-faces-charges-alleged-sugar-baby-dispute-ends-car-ramming-gun-threat-police",
-    "description": "A 67-year-old Florida man allegedly rammed a woman's car with his truck and pointed a Ruger at her friend after a Tinder sugar baby date went wrong.",
-    "pubDate": "Sat, 25 Jul 2026 16:11:02 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Sophie Cunningham sees support surge after star puts career on line for girls' sports",
-    "link": "https://www.foxnews.com/media/sophie-cunningham-sees-support-surge-star-puts-career-line-girls-sports",
-    "description": "Riley Gaines called Sophie Cunningham the first current high-level female athlete in a pro league to stand against biological men in women's sports.",
-    "pubDate": "Sat, 25 Jul 2026 16:02:40 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Sammy Hagar buries decades-long feud with David Lee Roth after tour dates are axed",
-    "link": "https://www.foxnews.com/entertainment/sammy-hagar-buries-decades-long-feud-david-lee-roth-tour-dates-axed",
-    "description": "Sammy Hagar posted an emotional video urging David Lee Roth to \"carry on\" and invited him to his Las Vegas residency after tour dates were axed.",
-    "pubDate": "Sat, 25 Jul 2026 16:02:32 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Today - Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "70\u00b0F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 70. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sat, 25 Jul 2026 19:20:22 GMT",
+    "pubDate": "Sat, 25 Jul 2026 21:02:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "51\u00b0F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 51. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sat, 25 Jul 2026 19:20:22 GMT",
+    "pubDate": "Sat, 25 Jul 2026 21:02:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Sunday - Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "69\u00b0F. Wind SW 0 to 5 mph. Sunny, with a high near 69. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sat, 25 Jul 2026 19:20:22 GMT",
+    "pubDate": "Sat, 25 Jul 2026 21:02:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Sunday Night - Mostly Cloudy then Scattered Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind S 0 to 5 mph. Scattered rain showers after 4am. Mostly cloudy, with a low around 54. South wind 0 to 5 mph. Chance of precipitation is 30%.",
-    "pubDate": "Sat, 25 Jul 2026 19:20:22 GMT",
+    "pubDate": "Sat, 25 Jul 2026 21:02:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Monday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "61\u00b0F. Wind E 0 to 5 mph. Scattered rain showers before 7am, then rain likely. Cloudy, with a high near 61. East wind 0 to 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sat, 25 Jul 2026 19:20:22 GMT",
+    "pubDate": "Sat, 25 Jul 2026 21:02:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
