@@ -400,6 +400,26 @@
     "rank": 100
   },
   {
+    "title": "Andy Burnham rules out early election in exclusive BBC interview",
+    "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
+    "description": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election.",
+    "pubDate": "Sun, 26 Jul 2026 05:00:56 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+    "link": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
+    "description": "Speaking exclusively to the BBC, Andy Burnham says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
+    "pubDate": "Sun, 26 Jul 2026 05:00:14 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
     "title": "WNBA All-Star Game draws record crowd as Caitlin Clark\u2019s Team Spoon holds off Team Coop",
     "link": "https://www.foxnews.com/sports/wnba-all-star-game-draws-record-crowd-caitlin-clark-team-spoon-holds-team-coop",
     "description": "Jonquel Jones posted 22 points, 13 rebounds and eight assists as Team Spoon topped Team Coop in a record-setting WNBA All-Star Game in Chicago.",
@@ -580,30 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Flyers Matvei Michkov throws down disgusting Michigan move goal in charity hockey game",
-    "link": "https://www.foxnews.com/outkick-sports/flyers-matvei-michkov-throws-down-disgusting-michigan-move-goal-charity-hockey-game",
-    "description": "Matvei Michkov pulled off a stunning Michigan goal at a charity game in Russia featuring Alex Ovechkin, Artemi Panarin, and Mikhail Sergachev.",
-    "pubDate": "Sat, 25 Jul 2026 22:44:32 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Ramsay-Peaty in tears after missing out on gold again",
-    "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
-    "description": "An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.",
-    "pubDate": "Sat, 25 Jul 2026 22:37:49 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: Tonight - Partly Cloudy",
+    "title": "Anchorage Weather: Tonight - Mostly Clear",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "51\u00b0F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 51. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sun, 26 Jul 2026 03:43:48 GMT",
+    "description": "51\u00b0F. Wind SW 0 to 5 mph. Mostly clear, with a low around 51. Southwest wind 0 to 5 mph.",
+    "pubDate": "Sun, 26 Jul 2026 06:43:32 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Sunday - Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "69\u00b0F. Wind SW 0 to 5 mph. Sunny, with a high near 69. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sun, 26 Jul 2026 03:43:48 GMT",
+    "pubDate": "Sun, 26 Jul 2026 06:43:32 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -622,8 +622,8 @@
   {
     "title": "Anchorage Weather: Sunday Night - Mostly Cloudy then Isolated Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "52\u00b0F. Wind S 0 to 5 mph. Isolated rain showers after 4am. Mostly cloudy, with a low around 52. South wind 0 to 5 mph. Chance of precipitation is 20%.",
-    "pubDate": "Sun, 26 Jul 2026 03:43:48 GMT",
+    "description": "53\u00b0F. Wind S 0 to 5 mph. Isolated rain showers after 4am. Mostly cloudy, with a low around 53. South wind 0 to 5 mph. Chance of precipitation is 20%.",
+    "pubDate": "Sun, 26 Jul 2026 06:43:32 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -632,8 +632,8 @@
   {
     "title": "Anchorage Weather: Monday - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "61\u00b0F. Wind E 0 to 5 mph. Isolated rain showers before 7am, then a chance of rain. Cloudy, with a high near 61. East wind 0 to 5 mph. Chance of precipitation is 40%.",
-    "pubDate": "Sun, 26 Jul 2026 03:43:48 GMT",
+    "description": "66\u00b0F. Wind E 0 to 5 mph. Isolated rain showers before 7am, then a chance of rain. Cloudy, with a high near 66. East wind 0 to 5 mph. Chance of precipitation is 40%.",
+    "pubDate": "Sun, 26 Jul 2026 06:43:32 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -642,8 +642,8 @@
   {
     "title": "Anchorage Weather: Monday Night - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "52\u00b0F. Wind E 0 to 5 mph. A chance of rain. Cloudy, with a low around 52. East wind 0 to 5 mph. Chance of precipitation is 40%.",
-    "pubDate": "Sun, 26 Jul 2026 03:43:48 GMT",
+    "description": "51\u00b0F. Wind E 0 to 5 mph. A chance of rain. Cloudy, with a low around 51. East wind 0 to 5 mph. Chance of precipitation is 40%.",
+    "pubDate": "Sun, 26 Jul 2026 06:43:32 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
