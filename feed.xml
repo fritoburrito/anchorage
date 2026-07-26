@@ -5,20 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 23:02:12 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: Today - Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 23:02:12 GMT</pubDate>
-      <description><![CDATA[70°F. Wind SW 0 to 5 mph. Sunny, with a high near 70. Southwest wind 0 to 5 mph.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Sun, 26 Jul 2026 03:43:48 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 23:02:12 GMT</pubDate>
+      <pubDate>Sun, 26 Jul 2026 03:43:48 GMT</pubDate>
       <description><![CDATA[51°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 51. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,24 +18,32 @@
       <title>Anchorage Weather: Sunday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 23:02:12 GMT</pubDate>
+      <pubDate>Sun, 26 Jul 2026 03:43:48 GMT</pubDate>
       <description><![CDATA[69°F. Wind SW 0 to 5 mph. Sunny, with a high near 69. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday Night - Mostly Cloudy then Scattered Rain Showers</title>
+      <title>Anchorage Weather: Sunday Night - Mostly Cloudy then Isolated Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 23:02:12 GMT</pubDate>
-      <description><![CDATA[54°F. Wind S 0 to 5 mph. Scattered rain showers after 4am. Mostly cloudy, with a low around 54. South wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Sun, 26 Jul 2026 03:43:48 GMT</pubDate>
+      <description><![CDATA[52°F. Wind S 0 to 5 mph. Isolated rain showers after 4am. Mostly cloudy, with a low around 52. South wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Monday - Light Rain Likely</title>
+      <title>Anchorage Weather: Monday - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 25 Jul 2026 23:02:12 GMT</pubDate>
-      <description><![CDATA[61°F. Wind E 0 to 5 mph. Scattered rain showers before 7am, then rain likely. Cloudy, with a high near 61. East wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Sun, 26 Jul 2026 03:43:48 GMT</pubDate>
+      <description><![CDATA[61°F. Wind E 0 to 5 mph. Isolated rain showers before 7am, then a chance of rain. Cloudy, with a high near 61. East wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday Night - Chance Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 26 Jul 2026 03:43:48 GMT</pubDate>
+      <description><![CDATA[52°F. Wind E 0 to 5 mph. A chance of rain. Cloudy, with a low around 52. East wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -279,6 +279,150 @@
       <category>local</category>
     </item>
     <item>
+      <title>WNBA All-Star Game draws record crowd as Caitlin Clark’s Team Spoon holds off Team Coop</title>
+      <link>https://www.foxnews.com/sports/wnba-all-star-game-draws-record-crowd-caitlin-clark-team-spoon-holds-team-coop</link>
+      <guid isPermaLink="false">16347c6a5a171ab25dc6b8e58f7fc3fc6e0ba09a</guid>
+      <pubDate>Sun, 26 Jul 2026 03:27:00 GMT</pubDate>
+      <description><![CDATA[Jonquel Jones posted 22 points, 13 rebounds and eight assists as Team Spoon topped Team Coop in a record-setting WNBA All-Star Game in Chicago.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Seattle Storm's Dominique Malonga becomes youngest player to dunk in WNBA All-Star Game history</title>
+      <link>https://www.foxnews.com/outkick-sports/seattle-storm-dominique-malonga-youngest-player-dunk-wnba-all-star-game-history</link>
+      <guid isPermaLink="false">e42143b0c9b2b09eb217a666ced6a6eb0a5cad6b</guid>
+      <pubDate>Sun, 26 Jul 2026 02:49:14 GMT</pubDate>
+      <description><![CDATA[Dominique Malonga caught a feed from Angel Reese and threw down a historic dunk, becoming the youngest player to accomplish the feat in an All-Star Game.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>California authorities search for 2 children allegedly abducted by father, fear for their safety</title>
+      <link>https://www.foxnews.com/us/california-authorities-search-2-children-allegedly-abducted-father-fear-safety</link>
+      <guid isPermaLink="false">407f37bf966d81c07b2823ee8f268908a233574c</guid>
+      <pubDate>Sun, 26 Jul 2026 02:04:43 GMT</pubDate>
+      <description><![CDATA[Solomon and Marozhina Sukonick were last seen in Lancaster with their father, and authorities say there is concern for the abducted children's well-being.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Man charged with possession of explosive substance after bomb found in car</title>
+      <link>https://www.bbc.co.uk/news/articles/cj637j9gkd9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2438fd99ea3a20353d82c8f81101c787b2ca25e6</guid>
+      <pubDate>Sun, 26 Jul 2026 01:46:13 GMT</pubDate>
+      <description><![CDATA[The Dublin man appeared at the Criminal Courts of Justice on Saturday evening.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>At least 1 shot, 1 detained after reported active shooter at Texas mall: police</title>
+      <link>https://www.foxnews.com/us/least-1-shot-1-detained-reported-active-shooter-texas-mall-police</link>
+      <guid isPermaLink="false">80f67b73947970e7121bb4c59128dc2b3e3d2a62</guid>
+      <pubDate>Sun, 26 Jul 2026 01:42:44 GMT</pubDate>
+      <description><![CDATA[At least one person was shot and another detained after Harris County deputies responded to an active shooter report at Deerbrook Mall in Humble, Texas.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Knicks star Karl Anthony-Towns reportedly attends Jewish fundraiser as other NBA players take opposite stand</title>
+      <link>https://www.foxnews.com/outkick-sports/knicks-star-karl-anthony-towns-reportedly-attends-jewish-fundraiser-nba-players-take-opposite-stand</link>
+      <guid isPermaLink="false">48b21e4b685de7355faf9327d590a5d1b6161e49</guid>
+      <pubDate>Sun, 26 Jul 2026 01:34:17 GMT</pubDate>
+      <description><![CDATA[Karl Anthony-Towns attended a Chazaq fundraiser in New York City amid rising antisemitic hate crimes that account for roughly 60% of all incidents.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>One dead, several injured after vehicle plows through crowd at Berlin Pride event</title>
+      <link>https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride</link>
+      <guid isPermaLink="false">040763bbbcc9ff7c48a6b9895f613f734dae6572</guid>
+      <pubDate>Sun, 26 Jul 2026 01:10:56 GMT</pubDate>
+      <description><![CDATA[Berlin police said they have identified a suspect who "is known to police" and has links to "Islamist circles."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>France and Spain fires force more than 200,000 to flee homes</title>
+      <link>https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations</link>
+      <guid isPermaLink="false">4f91f3dba41d8beacd9d9575657fa6db4b8b219e</guid>
+      <pubDate>Sun, 26 Jul 2026 01:05:45 GMT</pubDate>
+      <description><![CDATA[At least one person has died in a fire in Spain, according to officials.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>More than 300,000 flee wildfires in France and Spain</title>
+      <link>https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">cb4ec34d33d33e56125e42311d30f42088c75aee</guid>
+      <pubDate>Sun, 26 Jul 2026 00:54:06 GMT</pubDate>
+      <description><![CDATA[Spain's PM warns of "complex hours" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WNBA commissioner vows to crack down on 'racism, misogyny,' dodges big questions at All-Star press conference</title>
+      <link>https://www.foxnews.com/sports/wnba-commissioner-vows-crack-down-racism-misogyny-dodges-big-questions-all-star-press-conference</link>
+      <guid isPermaLink="false">090e97d4fc6b52b61cc5086fbd421f953b65ef3a</guid>
+      <pubDate>Sun, 26 Jul 2026 00:48:06 GMT</pubDate>
+      <description><![CDATA[WNBA Commissioner Cathy Engelbert addressed racism, misogyny, homophobia and threats against players but faced criticism for dodging key questions.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Primark's new 'supermarket tactic' to woo customers in online price war</title>
+      <link>https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">890db6014f6950161972b5e3f2d644fef18ca642</guid>
+      <pubDate>Sun, 26 Jul 2026 00:17:50 GMT</pubDate>
+      <description><![CDATA[Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ted Danson wanted to 'stop being a liar' at the end of 'Cheers' saying he 'f---ed up' his life so badly</title>
+      <link>https://www.foxnews.com/entertainment/ted-danson-wanted-stop-being-liar-end-cheers-saying-he-f-ed-up-his-life-so-badly</link>
+      <guid isPermaLink="false">caef42eacb46b763ae5a1b6074284743503dd741</guid>
+      <pubDate>Sun, 26 Jul 2026 00:00:04 GMT</pubDate>
+      <description><![CDATA[Ted Danson revealed on his podcast that he "f---ed up" his personal life so badly he didn't even realize that "Cheers" had ended back in 1993.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Federal appeals court rejects Trump bid to enforce mail ballot order ahead of midterm elections</title>
+      <link>https://www.foxnews.com/politics/federal-appeals-court-rejects-trump-bid-enforce-mail-ballot-order-ahead-midterm-elections</link>
+      <guid isPermaLink="false">a81131257de84fb8f258d0d891117dda2ccc178b</guid>
+      <pubDate>Sat, 25 Jul 2026 23:59:13 GMT</pubDate>
+      <description><![CDATA[A federal appeals court blocked Trump's executive order on mail-in voting rules in 23 states, potentially sending the fight to the Supreme Court.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Sunscreen doesn't cause cancer. Why do those claims keep spreading?</title>
+      <link>https://www.bbc.co.uk/news/videos/cy4kv8ezpdyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d1a04099521a39e47a3cdd73f39453572a876f5c</guid>
+      <pubDate>Sat, 25 Jul 2026 23:37:45 GMT</pubDate>
+      <description><![CDATA[Each summer, false claims about sunscreen causing cancer continue to spread online.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>These female athletes need to speak up about keeping women's sports for women, like Sophie Cunningham did</title>
+      <link>https://www.foxnews.com/outkick-sports/female-athletes-speak-up-keeping-womens-sports-women-sophie-cunningham</link>
+      <guid isPermaLink="false">c383ff02bfbc7f8699f583aed53be1e83499145d</guid>
+      <pubDate>Sat, 25 Jul 2026 23:31:57 GMT</pubDate>
+      <description><![CDATA[From Simone Biles to Caitlin Clark, here's what the biggest names in women's sports have said about transgender athletes competing against females.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>What Love Island tells us about the changing face of dating</title>
+      <link>https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">65e32bfc4ea7389d2f231e3e068206428cd3732b</guid>
+      <pubDate>Sat, 25 Jul 2026 23:31:49 GMT</pubDate>
+      <description><![CDATA[From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>I thought the Lockerbie bombing was a closed case until I started asking questions</title>
+      <link>https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">53c3951a6c9a0dd934eb70c41f87daab3cf36786</guid>
+      <pubDate>Sat, 25 Jul 2026 23:31:06 GMT</pubDate>
+      <description><![CDATA[The deeper I dug, the more complicated Lockerbie became and there have been times that I don't know what to believe.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Pizza, pasta, potatoes, protein - how Italian children became so overweight</title>
+      <link>https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">281178c87b27373cb5101e6ad689011c4c8e9743</guid>
+      <pubDate>Sat, 25 Jul 2026 23:30:07 GMT</pubDate>
+      <description><![CDATA[The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Summer heat fuels wildfires while monsoons trigger severe flood threats as weather whiplash plagues the West</title>
       <link>https://www.foxweather.com/weather-news/summer-heat-fuels-wildfires-across-northwest-along-flood-threat-millions-southwest</link>
       <guid isPermaLink="false">a7e3c47b4ff555320c158529cc5b7af5df4fbfc2</guid>
@@ -295,155 +439,11 @@
       <category>world</category>
     </item>
     <item>
-      <title>Miami Marlins’ collapse back to mediocrity is so predictable you could set your watch to it</title>
-      <link>https://www.foxnews.com/outkick-sports/miami-marlins-collapse-back-mediocrity-predictable-set-watch</link>
-      <guid isPermaLink="false">fae06e420a3464bb42232b5470684a5b40cec4f0</guid>
-      <pubDate>Sat, 25 Jul 2026 22:36:29 GMT</pubDate>
-      <description><![CDATA[The Miami Marlins have lost ten straight games since their historic June, and the Eury Perez perfect game controversy may have cursed their playoff race.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Atlanta Braves fan taunts The Freeze with a blown kiss and gets passed in spectacular fashion</title>
-      <link>https://www.foxnews.com/sports/atlanta-braves-fan-taunts-freeze-blown-kiss-passed-spectacular-fashion</link>
-      <guid isPermaLink="false">b74be6b66b5c061cab75e01503caaaa5dccd6f57</guid>
-      <pubDate>Sat, 25 Jul 2026 22:34:28 GMT</pubDate>
-      <description><![CDATA[Atlanta Braves' The Freeze delivered a viral moment after a fan's mid-race taunt backfired spectacularly during the warning track showdown at the ballpark.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Bargain buffet refuses to die while luxury dining takes over Vegas</title>
-      <link>https://www.foxnews.com/travel/bargain-buffet-refuses-die-while-luxury-dining-takes-over-vegas</link>
-      <guid isPermaLink="false">ceeb46b68ba302767c3d6e3f7f959df1a22707e5</guid>
-      <pubDate>Sat, 25 Jul 2026 22:33:05 GMT</pubDate>
-      <description><![CDATA[Las Vegas buffets are vanishing from the Strip, with only four remaining as the city shifts toward luxury dining and wealthier casino visitors.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>At least 1 dead, several injured after car rams into crowd at pride festival</title>
-      <link>https://www.foxnews.com/world/police-cancel-gay-pride-festival-car-rams-crowd-leaving-several-injured</link>
-      <guid isPermaLink="false">587c2de27b1f56197669e4c450ed6106f72bc3e5</guid>
-      <pubDate>Sat, 25 Jul 2026 22:14:35 GMT</pubDate>
-      <description><![CDATA[A car rammed into the Christopher Street Day festival in Berlin's Tiergarten, killing one person as police launched an intensive manhunt.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tour de France rider crashes into the back of support vehicle that slammed on the brakes</title>
-      <link>https://www.foxnews.com/outkick-sports/tour-de-france-rider-crashes-back-support-vehicle-slammed-brakes</link>
-      <guid isPermaLink="false">b9f269031a4e916f9b28241426df61d48617fb60</guid>
-      <pubDate>Sat, 25 Jul 2026 22:08:11 GMT</pubDate>
-      <description><![CDATA[Einer Rubio needed 20 stitches and a helicopter evacuation after slamming into a support vehicle on Alpe d'Huez during Tour de France Stage 19.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Armed man in tactical vest emerges from exploding Queens home before being shot by NYPD officers; 2 found dead</title>
-      <link>https://www.foxnews.com/us/armed-man-tactical-vest-emerges-exploding-queens-home-shot-nypd-officers-2-found-dead</link>
-      <guid isPermaLink="false">01ff03a273a360e3f7f2091f220dadfa73ee7346</guid>
-      <pubDate>Sat, 25 Jul 2026 22:01:29 GMT</pubDate>
-      <description><![CDATA[NYPD officers responding to a shots fired call on Ocean Crest Boulevard in Far Rockaway found a large house fire and a barricaded armed suspect.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>American cyclist Sepp Kuss narrowly avoids a horrific crash over cliff during Tour de France</title>
-      <link>https://www.foxnews.com/outkick-sports/american-cyclist-sepp-kuss-narrowly-avoids-horrific-crash-cliff-tour-de-france</link>
-      <guid isPermaLink="false">12e934299ec6d7a98dd0f29f7bfd105be9e3805c</guid>
-      <pubDate>Sat, 25 Jul 2026 21:56:58 GMT</pubDate>
-      <description><![CDATA[Sepp Kuss crashed into a low concrete barrier on a French Alps cliff edge during Tour de France Stage 20, with a massive drop-off just beyond.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Singer Zach Top slams modern country music, says it lacks 'soul'</title>
-      <link>https://www.foxnews.com/entertainment/zach-top-slams-modern-country-music-says-lacks-soul</link>
-      <guid isPermaLink="false">6e19832c5a0fe4b5073c1b31f11854eb44735371</guid>
-      <pubDate>Sat, 25 Jul 2026 21:46:07 GMT</pubDate>
-      <description><![CDATA[Zach Top says modern country music sounds "perfect" and has lost its "soul," explaining why bluegrass and raw sounds are resonating with fans now.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>A look at 7 of the worst and most ridiculous takes from Ryan Clark during his time at ESPN</title>
-      <link>https://www.foxnews.com/outkick-sports/look-7-worst-most-ridiculous-takes-ryan-clark-during-his-time-espn</link>
-      <guid isPermaLink="false">7bd6f12b41e635aa6515320f0d0c8d2a67e1f293</guid>
-      <pubDate>Sat, 25 Jul 2026 21:42:19 GMT</pubDate>
-      <description><![CDATA[From racial Shedeur Sanders draft claims to calling Kyren Lacy "innocent," Ryan Clark's most controversial ESPN moments reveal his troubles at the network.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>EXCLUSIVE: Alleged $32M COVID-19 fraud fugitive captured in Jamaica and returned to US, FBI says</title>
-      <link>https://www.foxnews.com/us/exclusive-alleged-32m-covid-19-fraud-fugitive-captured-jamaica-returned-us-fbi-says</link>
-      <guid isPermaLink="false">0323b10be94367f45716a0f991c6701ff2b53841</guid>
-      <pubDate>Sat, 25 Jul 2026 20:15:37 GMT</pubDate>
-      <description><![CDATA[Elaine Angene Escoe was living under the fake identity "Harley Newman" in Jamaica before her arrest in connection with a $32 million COVID-19 fraud scheme.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Brooke Burke flaunts toned figure in green bikini during barefoot Malibu beach stroll</title>
-      <link>https://www.foxnews.com/entertainment/brooke-burke-flaunts-toned-figure-green-bikini-during-barefoot-malibu-beach-stroll</link>
-      <guid isPermaLink="false">fee7791a12259d44682cfe89f84c44e3c9f65e2c</guid>
-      <pubDate>Sat, 25 Jul 2026 20:00:36 GMT</pubDate>
-      <description><![CDATA[Brooke Burke stuns in a green bikini on a Malibu beach walk, weeks after sharing family vacation photos from Cabo San Lucas with fiancé Scott Rigsby.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Longer lives, worse health? Scientists uncover troubling trend across generations</title>
-      <link>https://www.foxnews.com/health/longer-lives-worse-health-scientists-uncover-troubling-trend-across-generations</link>
-      <guid isPermaLink="false">8536fafe4643d719a47673b74f865620d1e5acee</guid>
-      <pubDate>Sat, 25 Jul 2026 19:50:50 GMT</pubDate>
-      <description><![CDATA[The morbidity gap between life expectancy and healthy life expectancy is widest in America, where people spend about 14 years in poor health.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Rep Brandon Gill backs Trump executive order, calls to 'clean house' at the Smithsonian</title>
-      <link>https://www.foxnews.com/media/rep-brandon-gill-backs-trump-executive-order-calls-clean-house-smithsonian</link>
-      <guid isPermaLink="false">e2c5c4b4e83d584d6d284061f2ead6694e88d6cd</guid>
-      <pubDate>Sat, 25 Jul 2026 19:40:19 GMT</pubDate>
-      <description><![CDATA[Rep. Brandon Gill says Americans are "sick" of woke ideology at taxpayer-funded museums and praises Trump for confronting ideological bias head-on.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Court checks Pritzker as Trump administration scores another immigration win</title>
-      <link>https://www.foxnews.com/politics/court-checks-pritzker-trump-administration-scores-another-immigration-win</link>
-      <guid isPermaLink="false">6f45e39fbfcfd5f0fd1577b8c6dd6679750baf39</guid>
-      <pubDate>Sat, 25 Jul 2026 19:39:22 GMT</pubDate>
-      <description><![CDATA[A federal judge ruled Illinois laws providing in-state tuition and financial aid to illegal immigrants are unconstitutional, dealing a blow to JB Pritzker.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Biden ghostwriter tapes to be released</title>
-      <link>https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate</link>
-      <guid isPermaLink="false">f7e02a3fb9b238ade518b9808fbcb9ea13b05877</guid>
-      <pubDate>Sat, 25 Jul 2026 19:36:18 GMT</pubDate>
-      <description><![CDATA[Former President Joe Biden is declining to appeal a court ruling that allows the Justice Department to publicize recordings of conversations between him and a writer collaborating on his memoir.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NYC 5-alarm fire injures at least 17 firefighters, others as blaze damages multiple apartment buildings</title>
-      <link>https://www.foxnews.com/us/nyc-5-alarm-fire-injures-firefighters-others-blaze-damages-multiple-apartment-buildings</link>
-      <guid isPermaLink="false">cd8de6c676a0681863f6fdf527f7ef176cc5cec9</guid>
-      <pubDate>Sat, 25 Jul 2026 19:33:17 GMT</pubDate>
-      <description><![CDATA[5-alarm fire damages multiple buildings in Queens, injuring 17 firefighters and displacing families as 250 FDNY personnel battled the blaze.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Weird Al' Yankovic says he walked away from a seven-figure comedy festival offer in Saudi Arabia</title>
-      <link>https://www.foxnews.com/media/weird-al-yankovic-says-he-walked-away-from-seven-figure-comedy-festival-offer-saudi-arabia</link>
-      <guid isPermaLink="false">cc2ec3736ebfe358b90c2cf2d5613cbc0e711839</guid>
-      <pubDate>Sat, 25 Jul 2026 19:20:56 GMT</pubDate>
-      <description><![CDATA["Weird Al" Yankovic says he was offered seven figures for one show at the Riyadh Comedy Festival but turned it down because it made him "feel icky."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Jacksonville Jaguars set at 8.5 win total after surprising 13-4 season and Wild Card loss to Buffalo</title>
-      <link>https://www.foxnews.com/outkick-sports/jacksonville-jaguars-set-8-5-win-total-surprising-13-4-season-wild-card-loss-buffalo</link>
-      <guid isPermaLink="false">9af12c1be0aafe8bc559ea4a3d45d94f82852445</guid>
-      <pubDate>Sat, 25 Jul 2026 19:11:47 GMT</pubDate>
-      <description><![CDATA[Trevor Lawrence's passing yards prop looks appealing as the Jacksonville Jaguars face a tougher schedule with an 8.5 win total entering 2025.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Mamdani's latest Netanyahu remarks deepen concerns among Jewish leaders</title>
-      <link>https://www.foxnews.com/culture/mamdanis-latest-netanyahu-remarks-deepen-concerns-jewish-leaders</link>
-      <guid isPermaLink="false">a9a270b2363c16819176315c3ea52fc6f9248a17</guid>
-      <pubDate>Sat, 25 Jul 2026 19:00:38 GMT</pubDate>
-      <description><![CDATA[Jewish leaders say NYC Mayor Zohran Mamdani's admission he can't arrest Benjamin Netanyahu does little to ease concerns about his divisive rhetoric.]]></description>
+      <title>Ramsay-Peaty in tears after missing out on gold again</title>
+      <link>https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7b42e2a0f82858d643d746c030e9a975153ea831</guid>
+      <pubDate>Sat, 25 Jul 2026 22:37:49 GMT</pubDate>
+      <description><![CDATA[An emotional Adam Ramsay-Peaty questions how his future looks after missing out on gold at the Commonwealth Games in Glasgow.]]></description>
       <category>world</category>
     </item>
     <item>
