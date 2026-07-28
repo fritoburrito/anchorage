@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 06:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:41:31 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Scattered Rain Showers then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 28 Jul 2026 06:35:01 GMT</pubDate>
-      <description><![CDATA[53°F. Wind NE 0 to 5 mph. Scattered rain showers before 1am, then a chance of rain. Cloudy, with a low around 53. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Tue, 28 Jul 2026 09:41:31 GMT</pubDate>
+      <description><![CDATA[53°F. Wind N 0 to 5 mph. Scattered rain showers before 1am, then a chance of rain. Cloudy, with a low around 53. North wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tuesday - Chance Light Rain then Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 28 Jul 2026 06:35:01 GMT</pubDate>
+      <pubDate>Tue, 28 Jul 2026 09:41:31 GMT</pubDate>
       <description><![CDATA[65°F. Wind W 0 to 10 mph. A chance of rain before 10am, then a chance of rain showers. Mostly cloudy, with a high near 65. West wind 0 to 10 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Tuesday Night - Chance Rain Showers then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 28 Jul 2026 06:35:01 GMT</pubDate>
+      <pubDate>Tue, 28 Jul 2026 09:41:31 GMT</pubDate>
       <description><![CDATA[52°F. Wind SW 0 to 5 mph. A chance of rain showers before 10pm. Mostly cloudy, with a low around 52. Southwest wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Wednesday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 28 Jul 2026 06:35:01 GMT</pubDate>
+      <pubDate>Tue, 28 Jul 2026 09:41:31 GMT</pubDate>
       <description><![CDATA[68°F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 68. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Wednesday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 28 Jul 2026 06:35:01 GMT</pubDate>
+      <pubDate>Tue, 28 Jul 2026 09:41:31 GMT</pubDate>
       <description><![CDATA[54°F. Wind S 0 to 5 mph. Partly cloudy, with a low around 54. South wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -215,91 +215,171 @@
       <category>local</category>
     </item>
     <item>
-      <title>Gimme a Smile: Good advice you might not want to take</title>
-      <link>https://www.juneauempire.com/2026/07/25/gimme-a-smile-good-advice-you-might-not-want-to-take/</link>
-      <guid isPermaLink="false">c49bb96d3fb75a8fc3053592db0b856ec26b788d</guid>
-      <pubDate>Sat, 25 Jul 2026 19:30:00 GMT</pubDate>
-      <description><![CDATA[Everywhere you go, you will find someone who longs to give you advice — sometimes even good advice. You don’t always have to take it. Here are some examples of good advice you might not want to take.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>With wildfires raging in France and Spain, fire crews race against next heat wave</title>
-      <link>https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires</link>
-      <guid isPermaLink="false">359feb3b5b3606338ebb137035331ea8d63f1745</guid>
-      <pubDate>Tue, 28 Jul 2026 06:25:18 GMT</pubDate>
-      <description><![CDATA[French President Emmanuel Macron said France was "facing a completely unprecedented fire," describing the situation as France's worst fire-related crisis since World War II.]]></description>
+      <title>US walks out of UN Security Council meeting during France's remarks</title>
+      <link>https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">84af759744f5229fa85eebf27ef6b14b5d486dd3</guid>
+      <pubDate>Tue, 28 Jul 2026 09:32:25 GMT</pubDate>
+      <description><![CDATA[The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Schools to offer technical subjects to pupils from age 14, Burnham says</title>
+      <title>Democrats target more GOP House seats after socialist victories rock left-wing primaries</title>
+      <link>https://www.foxnews.com/politics/democrats-target-more-gop-house-seats-after-socialist-victories-rock-left-wing-primaries</link>
+      <guid isPermaLink="false">c16288b3ab8cced482eac809e2ac43ab2ac14ce9</guid>
+      <pubDate>Tue, 28 Jul 2026 09:15:28 GMT</pubDate>
+      <description><![CDATA[The DCCC is backing five new House candidates in Arizona, Florida, Iowa, Minnesota, and Montana as Democrats fight to wrest House control from Republicans.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Naga Munchetty to leave BBC Breakfast after 17 years</title>
+      <link>https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">549d097d619b8bc19503a3a8e876fb9335e1c646</guid>
+      <pubDate>Tue, 28 Jul 2026 09:12:13 GMT</pubDate>
+      <description><![CDATA[The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Zidane confirmed as France head coach</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">75e81f5ae0879503685aa02823127cac1da70eac</guid>
+      <pubDate>Tue, 28 Jul 2026 09:03:49 GMT</pubDate>
+      <description><![CDATA[Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Zinedine Zidane confirmed as new France manager</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">75e81f5ae0879503685aa02823127cac1da70eac</guid>
+      <pubDate>Tue, 28 Jul 2026 09:03:49 GMT</pubDate>
+      <description><![CDATA[Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Yes, it's possible to save money while paying off credit card debt. Here's how</title>
+      <link>https://www.npr.org/2026/07/28/nx-s1-5866642/yes-its-possible-to-save-money-while-paying-off-credit-card-debt-heres-how</link>
+      <guid isPermaLink="false">346b9a94b610bf9928a1314be9420c5d0feb977d</guid>
+      <pubDate>Tue, 28 Jul 2026 09:02:00 GMT</pubDate>
+      <description><![CDATA[In fact, experts recommend it because it can keep you off the hamster wheel of debt. Here's how to find the money in your budget to put toward savings and credit card payments.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>How did weather play a role during World War I for the Allies?</title>
+      <link>https://www.foxweather.com/weather-news/how-did-weather-play-role-world-war-i-allies</link>
+      <guid isPermaLink="false">23ac274725ba5a38df90d62a776c3dd8c9b26246</guid>
+      <pubDate>Tue, 28 Jul 2026 09:00:57 GMT</pubDate>
+      <description><![CDATA[As the 250th birthday of the United States has officially passed, its history remains forever ingrained in our nation’s roots, as we look back at the events that took place and the help from allies that shaped it.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>MORNING GLORY: A mind-reader at the WHCA dinner? The press finally found its perfect act</title>
+      <link>https://www.foxnews.com/opinion/morning-glory-mind-reader-whca-dinner-press-found-perfect-act</link>
+      <guid isPermaLink="false">b72f7f02ad0acb06a2eeb0d548fb4baf2883ba9f</guid>
+      <pubDate>Tue, 28 Jul 2026 09:00:54 GMT</pubDate>
+      <description><![CDATA[Mentalist Oz Pearlman's act at the White House Correspondents' Dinner mirrors how political reporters use anonymous sources to guess what Trump thinks.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Republican and Democratic coalitions put to the test in unusual elections on Tuesday</title>
+      <link>https://www.foxnews.com/politics/republican-democratic-coalitions-test-unusual-elections-tuesday</link>
+      <guid isPermaLink="false">64664849d86dc8a41f7825ea3ad3074cb87cd407</guid>
+      <pubDate>Tue, 28 Jul 2026 09:00:41 GMT</pubDate>
+      <description><![CDATA[Gov. Larry Rhoden faces outsider Toby Doeden in South Dakota's first-ever gubernatorial runoff while Georgia Democrats vie to replace Rep. David Scott.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>LIZ PEEK: Trump is starving the machine that creates America's socialist revolutionaries</title>
+      <link>https://www.foxnews.com/opinion/liz-peek-trump-starving-machine-creates-americas-socialist-revolutionaries</link>
+      <guid isPermaLink="false">7ad1e08f37440882ab5e0cfb966924d7651a6a6e</guid>
+      <pubDate>Tue, 28 Jul 2026 09:00:35 GMT</pubDate>
+      <description><![CDATA[Trump's new student loan caps target graduate school borrowing as politicians like Zohran Mamdani rally debt-laden followers toward socialism.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>SEN TIM SCOTT: Lindsey Graham was a patriot, a statesman and my dear friend</title>
+      <link>https://www.foxnews.com/opinion/sen-tim-scott-lindsey-graham-patriot-statesman-dear-friend</link>
+      <guid isPermaLink="false">d38eabc4e4de2329c2a3b38596f836f390add1ef</guid>
+      <pubDate>Tue, 28 Jul 2026 09:00:34 GMT</pubDate>
+      <description><![CDATA[Lindsey Graham's legacy of faith, military service, and sacrifice for South Carolina is remembered by a colleague who called him a true statesman.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Mamdani sparks fears of violence after doxing wealthy NYC property owners: 'Outright dangerous'</title>
+      <link>https://www.foxnews.com/politics/mamdani-sparks-fears-violence-after-doxing-wealthy-nyc-property-owners-dangerous</link>
+      <guid isPermaLink="false">d6adda36396366ad1d32ab6d28ca52f74d0d6861</guid>
+      <pubDate>Tue, 28 Jul 2026 09:00:29 GMT</pubDate>
+      <description><![CDATA[The searchable database names affluent property owners who could face the proposed pied-à-terre tax, raising new privacy and security concerns.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>America's No. 1 state is crowned again — find out who's on top and where your state ranks this year</title>
+      <link>https://www.foxnews.com/politics/americas-no-1-state-crowned-again-find-out-whos-top-where-your-state-ranks-year</link>
+      <guid isPermaLink="false">ce6c233f3c5b37fd520fd7058360c2de70f104a9</guid>
+      <pubDate>Tue, 28 Jul 2026 09:00:21 GMT</pubDate>
+      <description><![CDATA[Utah ranks as America's best state for a fourth straight year while Texas claims the No. 1 economy and South Dakota surges to the No. 2 spot.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump shattered ethics norms. Will voters trust Democrats to fix them?</title>
+      <link>https://www.npr.org/2026/07/28/nx-s1-5869808/family-trump-profit-corruption-voters-ethics-democrats</link>
+      <guid isPermaLink="false">190b22c1bb80e812b8de3954f4ef07540ba347bc</guid>
+      <pubDate>Tue, 28 Jul 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[Democrats are making the case that now is the time to tackle anti-corruption reforms — to serve as a check on Donald Trump and to overhaul a system voters say is co-opted against their interests.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ariana Grande sues hackers who leaked music and videos</title>
+      <link>https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2970bf120b5fb40b218db7726a64d62c1e6ddf20</guid>
+      <pubDate>Tue, 28 Jul 2026 08:37:12 GMT</pubDate>
+      <description><![CDATA[The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Schools to offer technical subjects from age 14 in England, Burnham says</title>
       <link>https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">efb0565346b5d6cb5455dc35f012ce2f46ed5f6d</guid>
-      <pubDate>Tue, 28 Jul 2026 05:52:51 GMT</pubDate>
+      <pubDate>Tue, 28 Jul 2026 08:23:37 GMT</pubDate>
       <description><![CDATA[The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>On the front line of Ecuador's drugs war, police fight gangs, guns and corruption</title>
-      <link>https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">370a6a7568ce516c1098e04974d0f014b1ca82fd</guid>
-      <pubDate>Tue, 28 Jul 2026 05:01:19 GMT</pubDate>
-      <description><![CDATA[The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.]]></description>
-      <category>world</category>
+      <title>Dems clash over AIPAC money, ‘ogre’ attack and electability during crucial Senate debate</title>
+      <link>https://www.foxnews.com/politics/dems-clash-aipac-money-ogre-attack-electability-crucial-senate-debate</link>
+      <guid isPermaLink="false">68d98f5559781a36f6cbd899de62a6c17da54993</guid>
+      <pubDate>Tue, 28 Jul 2026 08:00:57 GMT</pubDate>
+      <description><![CDATA[El-Sayed refused to apoelogize for the “ogre on a pike" remark that drew backlash from fellow Democrats, while Haley Stevens slammed him over his unreleased tax returns and roughly $300k in outside income.]]></description>
+      <category>politics</category>
     </item>
     <item>
-      <title>Lindsay Clancy’s ex-husband details ‘big spiral’ as expert says one part ‘scared me’ in mom’s murder trial</title>
-      <link>https://www.foxnews.com/us/lindsay-clancy-ex-husband-details-big-spiral-expert-says-one-part-scared-mom-murder-trial</link>
-      <guid isPermaLink="false">87f2b3b4a2b0315c31cbeb0691f6d9b60bf90382</guid>
-      <pubDate>Tue, 28 Jul 2026 04:00:09 GMT</pubDate>
-      <description><![CDATA[Patrick Clancy testified about his ex-wife's mental health spiral on Seroquel and her intrusive thoughts about harming their children before the killings.]]></description>
-      <category>world</category>
+      <title>Netanyahu to meet Trump in a first encounter since the Iran war began</title>
+      <link>https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war</link>
+      <guid isPermaLink="false">9d84910eb4d58e86c1f5a7efc79cd5add08620b9</guid>
+      <pubDate>Tue, 28 Jul 2026 07:42:11 GMT</pubDate>
+      <description><![CDATA[The meeting comes as both face pressures at home. Netanyahu is up for reelection, embattled in part due to his deteriorating relationship with Trump. Trump is under pressure to end an unpopular war.]]></description>
+      <category>politics</category>
     </item>
     <item>
       <title>'I just found all the classified stuff downstairs,' Biden tells ghostwriter in recording</title>
       <link>https://www.bbc.co.uk/news/articles/cr49znlz5ggo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">e14f1aae6f81a2687fc80faa599ba764c1fa9c88</guid>
-      <pubDate>Tue, 28 Jul 2026 03:20:20 GMT</pubDate>
+      <pubDate>Tue, 28 Jul 2026 07:14:51 GMT</pubDate>
       <description><![CDATA[Recordings between Biden and his ghostwriter reveal references to classified information and memory gaps.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Burnham says pupils in England need clearer pathway into work</title>
-      <link>https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">efb0565346b5d6cb5455dc35f012ce2f46ed5f6d</guid>
-      <pubDate>Tue, 28 Jul 2026 02:56:21 GMT</pubDate>
-      <description><![CDATA[The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.]]></description>
+      <title>Some people's chats with Claude AI found to be publicly available online</title>
+      <link>https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a3c19fa8f3f85fafedb754f3603e50f520280183</guid>
+      <pubDate>Tue, 28 Jul 2026 07:10:37 GMT</pubDate>
+      <description><![CDATA[Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Heroic 16-year-old lifeguard rescues child from monster surf in heart-stopping video</title>
-      <link>https://www.foxnews.com/us/heroic-16-year-old-lifeguard-rescues-child-monster-surf-heart-stopping-video</link>
-      <guid isPermaLink="false">c11a6b2365fa777b92dd98e182603b58e5c16883</guid>
-      <pubDate>Tue, 28 Jul 2026 02:06:28 GMT</pubDate>
-      <description><![CDATA[Heart-stopping video shows a 16-year-old lifeguard battling relentless waves to save a child from dangerous surf as beachgoers struggled to reach the pair.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Johnson &amp; Johnson offers up to $5.5bn to settle baby powder lawsuits</title>
-      <link>https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6304d13f1fea15ac72d82f30352ab28c1bb49f62</guid>
-      <pubDate>Tue, 28 Jul 2026 01:53:58 GMT</pubDate>
-      <description><![CDATA[The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US singer D4vd to go on trial for murder in death of 14-year-old</title>
-      <link>https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d3d25218d9380859760861bd88ee7b7a20d44bd6</guid>
-      <pubDate>Tue, 28 Jul 2026 01:39:50 GMT</pubDate>
-      <description><![CDATA[The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>California family members claim they were attacked at luxury Maui resort during violent melee</title>
-      <link>https://www.foxnews.com/us/california-family-members-claim-were-attacked-luxury-maui-resort-during-violent-melee</link>
-      <guid isPermaLink="false">09c8803118afb0d6b797f16e7f593a6fc8a615c7</guid>
-      <pubDate>Tue, 28 Jul 2026 01:33:54 GMT</pubDate>
-      <description><![CDATA[A California family claims a group hurled chairs and beat relatives as young as 17 at the Kaanapali Alii resort in Lahaina after racial threats.]]></description>
+      <title>Gunman fired at US consulate in Toronto, second time building was shot at this year</title>
+      <link>https://www.foxnews.com/world/gunman-fired-us-consulate-toronto-second-time-building-shot-year</link>
+      <guid isPermaLink="false">60e6864e35cd7be540f4ccadfaa6f06a97c0e507</guid>
+      <pubDate>Tue, 28 Jul 2026 06:53:37 GMT</pubDate>
+      <description><![CDATA[The second shooting at the U.S. Consulate in Toronto this year triggered an hour-long police chase, although no arrest was made as officials continue to investigate.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -309,86 +389,6 @@
       <pubDate>Tue, 28 Jul 2026 01:31:35 GMT</pubDate>
       <description><![CDATA[As we ease more into hurricane season, there are a few risks and terminologies to understand, ensuring safety and preparedness.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Fauci's diary shows he fed questions to journalists, built friendships with media figures</title>
-      <link>https://www.foxnews.com/media/faucis-diary-shows-he-fed-questions-journalists-built-friendships-media-figures</link>
-      <guid isPermaLink="false">17a87b9e338cf998db4fdff945d2b1b3af6056d4</guid>
-      <pubDate>Tue, 28 Jul 2026 01:30:40 GMT</pubDate>
-      <description><![CDATA[Anthony Fauci's diary entries reveal Jake Tapper texted him questions to ask CNN guests and dined at his home, calling President Donald Trump "totally nuts."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>BBC reports from outside court after judge rules singer D4vd will stand trial for murder</title>
-      <link>https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">74812062baa9e53f1078351c0ea9076d5a573fe2</guid>
-      <pubDate>Tue, 28 Jul 2026 01:29:25 GMT</pubDate>
-      <description><![CDATA[The body of 14-year-old Celeste Rivas Hernandez was found last September inside the trunk of a Tesla registered to singer D4vd.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Brian Harman flips the bird after 3M Open finish, gets a laugh from Scottie Scheffler</title>
-      <link>https://www.foxnews.com/outkick-sports/brian-harman-flips-bird-3m-open-finish-gets-laugh-scottie-scheffler</link>
-      <guid isPermaLink="false">ec867dc22cf73c98556c9e0e83901d2dbe2bc80d</guid>
-      <pubDate>Tue, 28 Jul 2026 01:18:01 GMT</pubDate>
-      <description><![CDATA[Brian Harman raised his middle finger at a TV camera in the scoring area as Scottie Scheffler erupted in laughter and a fist pump at the 3M Open.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>RFK Jr says Fauci prioritized 'getting on TV' over public health after revealing diary release</title>
-      <link>https://www.foxnews.com/media/rfk-jr-says-fauci-prioritized-getting-tv-over-public-health-after-revealing-diary-release</link>
-      <guid isPermaLink="false">5e3a8740e7524acf83ede916ec68de8af0956ac7</guid>
-      <pubDate>Tue, 28 Jul 2026 01:17:55 GMT</pubDate>
-      <description><![CDATA[Robert F. Kennedy Jr. says Anthony Fauci's diary entries reveal a fixation on fame, claiming the doctor did incalculable damage to public health trust.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kelsey Grammer admits it's 'exhausting' when movies try to alter history to fit modern tastes</title>
-      <link>https://www.foxnews.com/media/kelsey-grammer-admits-its-exhausting-when-movies-try-alter-history-fit-modern-tastes</link>
-      <guid isPermaLink="false">b1cbb04ce8b032ab2b6b3de24718f3c33f91cff1</guid>
-      <pubDate>Tue, 28 Jul 2026 01:00:49 GMT</pubDate>
-      <description><![CDATA["Frasier" star Kelsey Grammer told Katie Miller that Hollywood keeps flopping by forcing modern spins on classic stories that ought to respect history and culture.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NY Times reporter admits Trump's 'delusional' foes have wrongly written his political obituary many times</title>
-      <link>https://www.foxnews.com/media/ny-times-reporter-admits-trumps-delusional-foes-wrongly-written-political-obituary-many-times</link>
-      <guid isPermaLink="false">715d943b42ee571f3946c2f710c1fe7153c52196</guid>
-      <pubDate>Tue, 28 Jul 2026 01:00:16 GMT</pubDate>
-      <description><![CDATA[New York Times reporter Jonathan Swan said President Donald Trump showed him a document comparing himself to Napoleon, Stalin, and Genghis Khan in terms of power.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Shots fired at US consulate in Toronto for a second time this year</title>
-      <link>https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">224a166e5e8056540525c33d54fdf16297f1fa9c</guid>
-      <pubDate>Tue, 28 Jul 2026 00:36:16 GMT</pubDate>
-      <description><![CDATA[Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fourth heatwave grips parts of UK with 35C forecast</title>
-      <link>https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">382a1fa4888492a3da488e68345f746c36ea6797</guid>
-      <pubDate>Tue, 28 Jul 2026 00:18:58 GMT</pubDate>
-      <description><![CDATA[A fourth heatwave of the year is now under way for parts of the UK, with temperatures expected to climb into the mid-30s Celsius later this week.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>White House fires back after John Mellencamp mocks Trump's Gulf of America during concert</title>
-      <link>https://www.foxnews.com/entertainment/white-house-fires-back-john-mellencamp-mocks-trumps-gulf-america-concert</link>
-      <guid isPermaLink="false">39f58ad1357f151312fda5719f7c005a056e58f6</guid>
-      <pubDate>Tue, 28 Jul 2026 00:17:36 GMT</pubDate>
-      <description><![CDATA[John Mellencamp paused his "Pink Houses" performance to mock Trump's Gulf of America executive order, prompting a sharp White House response.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hundreds of thousands of women get morning-after pill via free pharmacy service</title>
-      <link>https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">daf804731a72f8680eaedbc6c3ff054fc3662438</guid>
-      <pubDate>Tue, 28 Jul 2026 00:14:41 GMT</pubDate>
-      <description><![CDATA[Since October, the morning-after pill has been made available free-of-charge at high street pharmacies under a new scheme in England.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Case tracker: Here is where flesh-eating bacteria cases have been reported in the US</title>
