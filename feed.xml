@@ -5,20 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 23:12:44 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Scattered Rain Showers</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 27 Jul 2026 23:12:44 GMT</pubDate>
-      <description><![CDATA[62°F. Wind SE 5 mph. Scattered rain showers. Cloudy, with a high near 62. Southeast wind around 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Tue, 28 Jul 2026 03:24:46 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Scattered Rain Showers then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 27 Jul 2026 23:12:44 GMT</pubDate>
+      <pubDate>Tue, 28 Jul 2026 03:24:46 GMT</pubDate>
       <description><![CDATA[53°F. Wind NE 0 to 5 mph. Scattered rain showers before 1am, then a chance of rain. Cloudy, with a low around 53. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +18,7 @@
       <title>Anchorage Weather: Tuesday - Chance Light Rain then Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 27 Jul 2026 23:12:44 GMT</pubDate>
+      <pubDate>Tue, 28 Jul 2026 03:24:46 GMT</pubDate>
       <description><![CDATA[65°F. Wind W 0 to 10 mph. A chance of rain before 10am, then a chance of rain showers. Mostly cloudy, with a high near 65. West wind 0 to 10 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Tuesday Night - Chance Rain Showers then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 27 Jul 2026 23:12:44 GMT</pubDate>
+      <pubDate>Tue, 28 Jul 2026 03:24:46 GMT</pubDate>
       <description><![CDATA[51°F. Wind SW 0 to 5 mph. A chance of rain showers before 10pm. Mostly cloudy, with a low around 51. Southwest wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +34,49 @@
       <title>Anchorage Weather: Wednesday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 27 Jul 2026 23:12:44 GMT</pubDate>
+      <pubDate>Tue, 28 Jul 2026 03:24:46 GMT</pubDate>
       <description><![CDATA[64°F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 64. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Wednesday Night - Partly Cloudy</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Tue, 28 Jul 2026 03:24:46 GMT</pubDate>
+      <description><![CDATA[53°F. Wind S 0 to 5 mph. Partly cloudy, with a low around 53. South wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Newscast – Monday, July 27, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17389312/newscast-monday-july-27-2026</link>
+      <guid isPermaLink="false">1f363cf8fb3943965456e2e1b19b86f6c7c4fccb</guid>
+      <pubDate>Tue, 28 Jul 2026 01:07:05 GMT</pubDate>
+      <description><![CDATA[Southcentral Alaska's largest natural gas utility is asking state regulators to consider allowing it to develop more natural gas storage; A Juneau mom's sourdough microbakery in Mendenhall Valley has quickly risen in popularity; Recently discovered fossils in northern Alaska show rodent-like mammals roamed the land 70 million years ago, and they've been given Inupiaq names]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Kenai River Personal Use Dip Net Fishery Open 24 Hours Per Day</title>
+      <link>https://alaska-native-news.com/kenai-river-personal-use-dip-net-fishery-open-24-hours-per-day/85313/</link>
+      <guid isPermaLink="false">298fc95899a51cd65ca06aa4d42ce9a728efd0fa</guid>
+      <pubDate>Tue, 28 Jul 2026 00:59:51 GMT</pubDate>
+      <description><![CDATA[(Soldotna) – The Kenai River personal use dip net fishery will be open 24 hours per day, beginning 11:00 p.m. Tuesday, July 28 through 11:59 p.m. Friday, July 31, 2026. As of July 26, the total run projection for Kenai River sockeye salmon is 3 million. In accordance with The Upper Cook Inlet Personal Use Salmon […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Neighbors raise alarm over ‘armed encampment’ on Juneau’s Capital Avenue</title>
+      <link>https://www.juneauempire.com/2026/07/27/neighbors-raise-alarm-over-armed-encampment-on-juneaus-capital-avenue/</link>
+      <guid isPermaLink="false">b5875e1d29a64d09bf388e0be549a2584095c006</guid>
+      <pubDate>Mon, 27 Jul 2026 23:30:00 GMT</pubDate>
+      <description><![CDATA[Bear shot at garbage-filled property on city-owned land]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>How Alaskans can help native bees thrive</title>
+      <link>https://alaskabeacon.com/2026/07/27/how-alaskans-can-help-native-bees-thrive/</link>
+      <guid isPermaLink="false">4830e4c96f681357d49129a2df0525b0fb2508a8</guid>
+      <pubDate>Mon, 27 Jul 2026 23:00:14 GMT</pubDate>
+      <description><![CDATA[On a bright June morning in Soldotna, a homeowner steps into the yard with a cup of coffee and notices a bumblebee working its way across a patch of blooming chives. It’s a small moment, but one that reflects a larger truth: the choices Alaskans make in their gardens, on their land and in their […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Alaska Legislature opens third gasline special session with no fanfare and even less optimism</title>
@@ -84,6 +116,14 @@
       <guid isPermaLink="false">4b1af2998933048570d143731a3397e546101e9c</guid>
       <pubDate>Mon, 27 Jul 2026 14:30:00 GMT</pubDate>
       <description><![CDATA[As the November elections approach, we are reminded that democracy depends on participation. Voting is one of the most important ways citizens can make their voices heard and help shape the future of our country. But civic engagement should not stop at casting our own ballots. Each of us can play an important role in motivating others to vote as well.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Raspberry-Alutiiq Word of the Week</title>
+      <link>https://alaska-native-news.com/raspberry-alutiiq-word-of-the-week-2/85279/</link>
+      <guid isPermaLink="false">92ac7c756fc01c85a6ff46f6d9bbf187a5fb8e87</guid>
+      <pubDate>Mon, 27 Jul 2026 14:05:33 GMT</pubDate>
+      <description><![CDATA[Raspberry, Nagonberry — Puyurniq April-rem puyurnit pingaktaarai. – April always likes raspberries. The American red raspberry (Rubus idaeus) is a recent introduction to Kodiak, brought to the island in the past century. This fast-growing, fruit-producing plant thrives in thickets, clearings, and along the edge of wooded areas. It is now a local favorite. Bushes […]]]></description>
       <category>local</category>
     </item>
     <item>
@@ -175,14 +215,6 @@
       <category>local</category>
     </item>
     <item>
-      <title>Offshore supply vessel arrives in Homer</title>
-      <link>https://www.homernews.com/2026/07/25/offshore-supply-vessel-arrives-in-homer/</link>
-      <guid isPermaLink="false">391fa376cd45e4b8123a17c6f99795dea9d4272f</guid>
-      <pubDate>Sat, 25 Jul 2026 19:30:00 GMT</pubDate>
-      <description><![CDATA[The 190-foot C-Atlantis concluded its journey from Port Fourchon, La. through the Panama Canal]]></description>
-      <category>local</category>
-    </item>
-    <item>
       <title>Gimme a Smile: Good advice you might not want to take</title>
       <link>https://www.juneauempire.com/2026/07/25/gimme-a-smile-good-advice-you-might-not-want-to-take/</link>
       <guid isPermaLink="false">c49bb96d3fb75a8fc3053592db0b856ec26b788d</guid>
@@ -191,36 +223,148 @@
       <category>local</category>
     </item>
     <item>
-      <title>New online directory aims to advance long-term care in Alaska</title>
-      <link>https://www.juneauempire.com/2026/07/25/new-online-directory-aims-to-advance-long-term-care-in-alaska/</link>
-      <guid isPermaLink="false">546ebc6e96ebb88e61909abb59d910310f2d044f</guid>
-      <pubDate>Sat, 25 Jul 2026 17:30:00 GMT</pubDate>
-      <description><![CDATA[Alaska Care Compass provides a centralized resource]]></description>
-      <category>local</category>
+      <title>Burnham says pupils in England need clearer pathway into work</title>
+      <link>https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">efb0565346b5d6cb5455dc35f012ce2f46ed5f6d</guid>
+      <pubDate>Tue, 28 Jul 2026 02:56:21 GMT</pubDate>
+      <description><![CDATA[The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>OPINION: Commemorating the president comes down to a coin flip</title>
-      <link>https://www.homernews.com/2026/07/25/opinion-commemorating-the-president-comes-down-to-a-coin-flip/</link>
-      <guid isPermaLink="false">533cda2db6c50bf236cc0aeb95413ba35ba4f292</guid>
-      <pubDate>Sat, 25 Jul 2026 15:30:00 GMT</pubDate>
-      <description><![CDATA[President Donald Trump is infatuated with gold, from bathroom fixtures in the White House to gold coasters, ceilings, door frames and fireplace decorations in the Oval Office.]]></description>
-      <category>local</category>
+      <title>Heroic 16-year-old lifeguard rescues child from monster surf in heart-stopping video</title>
+      <link>https://www.foxnews.com/us/heroic-16-year-old-lifeguard-rescues-child-monster-surf-heart-stopping-video</link>
+      <guid isPermaLink="false">c11a6b2365fa777b92dd98e182603b58e5c16883</guid>
+      <pubDate>Tue, 28 Jul 2026 02:06:28 GMT</pubDate>
+      <description><![CDATA[Heart-stopping video shows a 16-year-old lifeguard battling relentless waves to save a child from dangerous surf as beachgoers struggled to reach the pair.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>South Peninsula Hospital to host community information session</title>
-      <link>https://www.homernews.com/2026/07/25/south-peninsula-hospital-to-host-community-information-session/</link>
-      <guid isPermaLink="false">e8acda7163a0e44af9432e7be929fd7af4fc611d</guid>
-      <pubDate>Sat, 25 Jul 2026 14:30:00 GMT</pubDate>
-      <description><![CDATA[The Zoom event will offer an opportunity to learn more about hospital governance and operations]]></description>
-      <category>local</category>
+      <title>Johnson &amp; Johnson offers up to $5.5bn to settle baby powder lawsuits</title>
+      <link>https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6304d13f1fea15ac72d82f30352ab28c1bb49f62</guid>
+      <pubDate>Tue, 28 Jul 2026 01:53:58 GMT</pubDate>
+      <description><![CDATA[The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>I went to the Woods: Big deal or little deal?</title>
-      <link>https://www.juneauempire.com/2026/07/25/i-went-to-the-woods-big-deal-or-little-deal/</link>
-      <guid isPermaLink="false">82a761c7389f5578411ffa4cefe14f7b53ed3742</guid>
-      <pubDate>Sat, 25 Jul 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Lately I’ve been thinking a lot about catastrophic failure.]]></description>
-      <category>local</category>
+      <title>California family members claim they were attacked at luxury Maui resort during violent melee</title>
+      <link>https://www.foxnews.com/us/california-family-members-claim-were-attacked-luxury-maui-resort-during-violent-melee</link>
+      <guid isPermaLink="false">09c8803118afb0d6b797f16e7f593a6fc8a615c7</guid>
+      <pubDate>Tue, 28 Jul 2026 01:33:54 GMT</pubDate>
+      <description><![CDATA[A California family claims a group hurled chairs and beat relatives as young as 17 at the Kaanapali Alii resort in Lahaina after racial threats.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>What is barometric pressure and what does it mean for hurricanes?</title>
+      <link>https://www.foxweather.com/weather-news/what-barometric-pressure-hurricanes</link>
+      <guid isPermaLink="false">7c094857f095c9e675522c0edee0703968774837</guid>
+      <pubDate>Tue, 28 Jul 2026 01:31:35 GMT</pubDate>
+      <description><![CDATA[As we ease more into hurricane season, there are a few risks and terminologies to understand, ensuring safety and preparedness.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Fauci's diary shows he fed questions to journalists, built friendships with media figures</title>
+      <link>https://www.foxnews.com/media/faucis-diary-shows-he-fed-questions-journalists-built-friendships-media-figures</link>
+      <guid isPermaLink="false">17a87b9e338cf998db4fdff945d2b1b3af6056d4</guid>
+      <pubDate>Tue, 28 Jul 2026 01:30:40 GMT</pubDate>
+      <description><![CDATA[Anthony Fauci's diary entries reveal Jake Tapper texted him questions to ask CNN guests and dined at his home, calling President Donald Trump "totally nuts."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BBC reports from outside court after judge rules singer D4vd will stand trial for murder</title>
+      <link>https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">74812062baa9e53f1078351c0ea9076d5a573fe2</guid>
+      <pubDate>Tue, 28 Jul 2026 01:29:25 GMT</pubDate>
+      <description><![CDATA[The body of 14-year-old Celeste Rivas Hernandez was found last September inside the trunk of a Tesla registered to singer D4vd.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Brian Harman flips the bird after 3M Open finish, gets a laugh from Scottie Scheffler</title>
+      <link>https://www.foxnews.com/outkick-sports/brian-harman-flips-bird-3m-open-finish-gets-laugh-scottie-scheffler</link>
+      <guid isPermaLink="false">ec867dc22cf73c98556c9e0e83901d2dbe2bc80d</guid>
+      <pubDate>Tue, 28 Jul 2026 01:18:01 GMT</pubDate>
+      <description><![CDATA[Brian Harman raised his middle finger at a TV camera in the scoring area as Scottie Scheffler erupted in laughter and a fist pump at the 3M Open.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>RFK Jr says Fauci prioritized 'getting on TV' over public health after revealing diary release</title>
+      <link>https://www.foxnews.com/media/rfk-jr-says-fauci-prioritized-getting-tv-over-public-health-after-revealing-diary-release</link>
+      <guid isPermaLink="false">5e3a8740e7524acf83ede916ec68de8af0956ac7</guid>
+      <pubDate>Tue, 28 Jul 2026 01:17:55 GMT</pubDate>
+      <description><![CDATA[Robert F. Kennedy Jr. says Anthony Fauci's diary entries reveal a fixation on fame, claiming the doctor did incalculable damage to public health trust.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kelsey Grammer admits it's 'exhausting' when movies try to alter history to fit modern tastes</title>
+      <link>https://www.foxnews.com/media/kelsey-grammer-admits-its-exhausting-when-movies-try-alter-history-fit-modern-tastes</link>
+      <guid isPermaLink="false">b1cbb04ce8b032ab2b6b3de24718f3c33f91cff1</guid>
+      <pubDate>Tue, 28 Jul 2026 01:00:49 GMT</pubDate>
+      <description><![CDATA["Frasier" star Kelsey Grammer told Katie Miller that Hollywood keeps flopping by forcing modern spins on classic stories that ought to respect history and culture.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>NY Times reporter admits Trump's 'delusional' foes have wrongly written his political obituary many times</title>
+      <link>https://www.foxnews.com/media/ny-times-reporter-admits-trumps-delusional-foes-wrongly-written-political-obituary-many-times</link>
+      <guid isPermaLink="false">715d943b42ee571f3946c2f710c1fe7153c52196</guid>
+      <pubDate>Tue, 28 Jul 2026 01:00:16 GMT</pubDate>
+      <description><![CDATA[New York Times reporter Jonathan Swan said President Donald Trump showed him a document comparing himself to Napoleon, Stalin, and Genghis Khan in terms of power.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Shots fired at US consulate in Toronto for a second time this year</title>
+      <link>https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">224a166e5e8056540525c33d54fdf16297f1fa9c</guid>
+      <pubDate>Tue, 28 Jul 2026 00:36:16 GMT</pubDate>
+      <description><![CDATA[Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fourth heatwave grips parts of UK with 35C forecast</title>
+      <link>https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">382a1fa4888492a3da488e68345f746c36ea6797</guid>
+      <pubDate>Tue, 28 Jul 2026 00:18:58 GMT</pubDate>
+      <description><![CDATA[A fourth heatwave of the year is now under way for parts of the UK, with temperatures expected to climb into the mid-30s Celsius later this week.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>White House fires back after John Mellencamp mocks Trump's Gulf of America during concert</title>
+      <link>https://www.foxnews.com/entertainment/white-house-fires-back-john-mellencamp-mocks-trumps-gulf-america-concert</link>
+      <guid isPermaLink="false">39f58ad1357f151312fda5719f7c005a056e58f6</guid>
+      <pubDate>Tue, 28 Jul 2026 00:17:36 GMT</pubDate>
+      <description><![CDATA[John Mellencamp paused his "Pink Houses" performance to mock Trump's Gulf of America executive order, prompting a sharp White House response.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hundreds of thousands of women get morning-after pill via free pharmacy service</title>
+      <link>https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">daf804731a72f8680eaedbc6c3ff054fc3662438</guid>
+      <pubDate>Tue, 28 Jul 2026 00:14:41 GMT</pubDate>
+      <description><![CDATA[Since October, the morning-after pill has been made available free-of-charge at high street pharmacies under a new scheme in England.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us</title>
+      <link>https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin</link>
+      <guid isPermaLink="false">b33e1d00b0910b125a0ea4f1fcaffd748daa9fc0</guid>
+      <pubDate>Tue, 28 Jul 2026 00:05:31 GMT</pubDate>
+      <description><![CDATA[Sen. Rand Paul has released a tranche of Dr. Anthony Fauci's diary entries from the COVID-19 pandemic. Fauci is set to appear before a Senate committee Wednesday on the origins of the coronavirus.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Trump's $15B lawsuit against The New York Times carries on as judge gives his attorneys chance to amend filing</title>
+      <link>https://www.foxnews.com/media/trumps-15b-lawsuit-against-new-york-times-carries-as-judge-gives-attorneys-chance-amend-filing</link>
+      <guid isPermaLink="false">48e9ecfde5676f9b5a17008b8b30ad3f3559f636</guid>
+      <pubDate>Mon, 27 Jul 2026 23:49:38 GMT</pubDate>
+      <description><![CDATA[President Trump celebrates after a judge allows his legal team to amend the massive $15 billion defamation lawsuit against The New York Times by August 27.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>19 cadets rushed to hospitals after mystery illness strikes military-style youth academy in DC area</title>
+      <link>https://www.foxnews.com/us/19-cadets-rushed-hospitals-mystery-illness-strikes-military-style-youth-academy-dc-area</link>
+      <guid isPermaLink="false">225c951aa510c7a7b200ba985aca908400936a4f</guid>
+      <pubDate>Mon, 27 Jul 2026 23:46:53 GMT</pubDate>
+      <description><![CDATA[A mass casualty response was launched at a Maryland National Guard youth academy after cadets reported dizziness, headaches and nausea on Sunday.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Netflix exec claims ketamine confession in ‘trust exercise’ cost him $1.1M job: lawsuit</title>
@@ -247,148 +391,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Fishing content creator who filmed himself being bitten by a shark while spearfishing lucky he still has leg</title>
-      <link>https://www.foxnews.com/outkick-culture/fishing-content-creator-filmed-bitten-shark-spearfishing-lucky-still-has-leg</link>
-      <guid isPermaLink="false">4bc89118a86ef0ff3dca3f047323c0e0776efa09</guid>
-      <pubDate>Mon, 27 Jul 2026 22:39:09 GMT</pubDate>
-      <description><![CDATA[Footage shows the grey reef shark circling before biting Henry Gibbs' leg during a spearfishing dive in Fiji, requiring four surgeries and a skin graft.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Store clerk foiled ex-Navy SEAL's explosives plot targeting police at No Kings protest, feds say</title>
-      <link>https://www.foxnews.com/us/store-clerk-foiled-ex-navy-seals-explosives-plot-targeting-police-no-kings-protest-feds-say</link>
-      <guid isPermaLink="false">9a9cba72f92c5c28c0fdd4a92b74338920a3c1e4</guid>
-      <pubDate>Mon, 27 Jul 2026 22:29:49 GMT</pubDate>
-      <description><![CDATA[A store clerk's tip led federal agents to Gregory Vandenberg after he allegedly revealed his plan to hurl explosives at law enforcement during protests.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kyle Shanahan 'this close' to losing his right eye in horrible car crash, NFL analyst reveals</title>
-      <link>https://www.foxnews.com/sports/kyle-shanahan-close-losing-right-eye-horrible-car-crash-nfl-analyst-reveals</link>
-      <guid isPermaLink="false">9de76d00a9c13efca20dacad35c70c6ac99f2fb9</guid>
-      <pubDate>Mon, 27 Jul 2026 22:26:17 GMT</pubDate>
-      <description><![CDATA[NFL analyst Chris Simms said Kyle Shanahan nearly lost his right eye in the July 14 car crash after viewing jarring photos from the coach's wife.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>New technical education routes to be offered at 14 in England</title>
-      <link>https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">efb0565346b5d6cb5455dc35f012ce2f46ed5f6d</guid>
-      <pubDate>Mon, 27 Jul 2026 22:25:31 GMT</pubDate>
-      <description><![CDATA[The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Senate clears way for Trump's top spy as key anti-terror program remains in limbo</title>
-      <link>https://www.foxnews.com/politics/senate-clears-way-trumps-top-spy-key-anti-terror-program-remains-limbo</link>
-      <guid isPermaLink="false">b9a0c187846f98b1854c1fda06f17edd3d39e531</guid>
-      <pubDate>Mon, 27 Jul 2026 22:24:16 GMT</pubDate>
-      <description><![CDATA[Jay Clayton's Senate confirmation as DNI is set for Tuesday, potentially restarting the Section 702 FISA surveillance tool that went dark amid battles.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Summer School: Republicans' crusade to teach voters the 'New Math' on the 'commie caucus'</title>
-      <link>https://www.foxnews.com/politics/summer-school-republicans-crusade-teach-voters-new-math-commie-caucus</link>
-      <guid isPermaLink="false">9ddb25e034f1a0dad4fa18cf7167883060ed99f3</guid>
-      <pubDate>Mon, 27 Jul 2026 22:17:11 GMT</pubDate>
-      <description><![CDATA[House Republicans hope Democrats' far-left candidates will help the GOP maintain its narrow House majority heading into the midterm elections.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Love Island UK crowns winners of twist-filled series</title>
-      <link>https://www.bbc.co.uk/news/articles/c0rd5l4xlvro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1fed3e0e1991dc5b2029b981bbec3da7534a481c</guid>
-      <pubDate>Mon, 27 Jul 2026 22:11:14 GMT</pubDate>
-      <description><![CDATA[For the first time in the history of the UK series, only three couples were in the final after several twists.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>A Japanese town wrestles with identity after protests over its first mosque</title>
-      <link>https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2764d896294136c0c74a52106565cfbc94618934</guid>
-      <pubDate>Mon, 27 Jul 2026 22:08:21 GMT</pubDate>
-      <description><![CDATA[As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fox News Poll: Cool your servers! Voters reject data centers</title>
-      <link>https://www.foxnews.com/politics/fox-news-poll-cool-your-servers-voters-reject-data-centers</link>
-      <guid isPermaLink="false">88770e4c55ab6f5034d167a4c3e7ecfac40c41d5</guid>
-      <pubDate>Mon, 27 Jul 2026 22:00:03 GMT</pubDate>
-      <description><![CDATA[A 40-point margin of voters oppose building data centers in their area, citing environmental concerns over energy use, water use, and pollution.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Reform UK reports Zack Polanski to police over guillotine T-shirt post</title>
-      <link>https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8de07a9aafe7a2744adfc3bb89c0cc8e3dd606ff</guid>
-      <pubDate>Mon, 27 Jul 2026 21:57:08 GMT</pubDate>
-      <description><![CDATA[The post included a photo of a man wearing a top featuring the name "Nigel" alongside an image of a guillotine.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Badenoch calls for emergency legislation to stop early release scheme</title>
-      <link>https://www.bbc.co.uk/news/articles/cjwxvw5ppw0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e9f73101f472f49c0075010b37be200e109d060f</guid>
-      <pubDate>Mon, 27 Jul 2026 21:54:12 GMT</pubDate>
-      <description><![CDATA[Last week Andy Burnham announced he was pausing early release plans for September after backlash from survivors and victims.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Woman wins massive settlement after bladder mistakenly removed during surgery for benign cyst</title>
-      <link>https://www.foxnews.com/us/woman-wins-massive-settlement-bladder-mistakenly-removed-surgery-benign-cyst</link>
-      <guid isPermaLink="false">829d18d85a901516a76ddd04129daf50b41575e4</guid>
-      <pubDate>Mon, 27 Jul 2026 21:53:06 GMT</pubDate>
-      <description><![CDATA[A Maine jury awarded a woman $17 million after a routine surgery for a benign ovarian cyst ended with the accidental removal of her bladder.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Case tracker: Here is where flesh-eating bacteria cases have been reported in the US</title>
       <link>https://www.foxweather.com/weather-news/tracker-deadly-flesh-eating-bacteria-cases-us-2026</link>
       <guid isPermaLink="false">c340c31849c2aec4a74fc81a8741962564e844c4</guid>
       <pubDate>Mon, 27 Jul 2026 21:47:53 GMT</pubDate>
       <description><![CDATA[Health officials in Florida confirmed the state's first death from the flesh-eating bacteria known as Vibrio vulnificus. Vibrio infections have also been reported in Alabama and Connecticut this year.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Tony Romo allegedly refused intoxication test after OWI arrest following Milwaukee golf event: report</title>
-      <link>https://www.foxnews.com/sports/tony-romo-allegedly-refused-intoxication-test-owi-arrest-following-milwaukee-golf-event-report</link>
-      <guid isPermaLink="false">9f3eefb19a6ad75ede5d18c6cc9f75dc0e9b5895</guid>
-      <pubDate>Mon, 27 Jul 2026 21:45:42 GMT</pubDate>
-      <description><![CDATA[Tony Romo allegedly refused an intoxication test after his arrest following a Milwaukee golf event, with records showing the ex-Cowboys QB uncooperative.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged</title>
-      <link>https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged</link>
-      <guid isPermaLink="false">ca53aae79967dd9272e384213f6d53e487e5fe2e</guid>
-      <pubDate>Mon, 27 Jul 2026 21:29:27 GMT</pubDate>
-      <description><![CDATA[Democrats have a new candidate for U.S. Senate in Maine: Troy Jackson. In one of the country's most closely-watched races, he'll have less than 100 days to make his case.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Trump says Iran war talks taking place during lull in strikes</title>
-      <link>https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b42e63b1aaf67a646c4e93ad038e7c390dd39480</guid>
-      <pubDate>Mon, 27 Jul 2026 21:10:56 GMT</pubDate>
-      <description><![CDATA[The US president says "there is a good chance that something could happen", as Iran denies direct talks are taking place.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Luigi Mangione plea talks raise showdown over Brian Thompson murder trial</title>
-      <link>https://www.foxnews.com/us/luigi-mangione-plea-talks-raise-showdown-over-brian-thompson-murder-trial</link>
-      <guid isPermaLink="false">95b1dc99180df2cd13e1bb1b837403260b15cac4</guid>
-      <pubDate>Mon, 27 Jul 2026 21:00:23 GMT</pubDate>
-      <description><![CDATA[Manhattan prosecutors warn they could oppose any federal plea deal for Luigi Mangione that may interfere with his New York murder trial set for Sept. 8.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>9/11 families push to ban Mamdani from 25th anniversary remembrance over 'hostile' record</title>
-      <link>https://www.foxnews.com/politics/9-11-families-push-ban-mamdani-25th-anniversary-remembrance-hostile-record</link>
-      <guid isPermaLink="false">0e765363710c4874b324b4d5280fc5eda0cfb877</guid>
-      <pubDate>Mon, 27 Jul 2026 20:50:24 GMT</pubDate>
-      <description><![CDATA[A Change.org petition from 9/11 families cites Zohran Mamdani's ties to radical imam Siraj Wahhaj and refusal to condemn "globalize the intifada."]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Young man killed, 4 others injured after lightning strikes hikers during severe storms in Colorado</title>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">a7e3c47b4ff555320c158529cc5b7af5df4fbfc2</guid>
       <pubDate>Sat, 25 Jul 2026 22:44:50 GMT</pubDate>
       <description><![CDATA[As summer continues, the season brings a tale of two extremes: scorching heat fuels fire conditions, while a flood threat intensifies across portions of the Western U.S.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Bryan Norcross: The Atlantic is on snooze while Hawaii watches Fausto</title>
-      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-updte-july-25-2026</link>
-      <guid isPermaLink="false">dd4736f048f18c5cea100dc195bd5008af5b36ef</guid>
-      <pubDate>Sat, 25 Jul 2026 13:42:48 GMT</pubDate>
-      <description><![CDATA[Hurricane Fausto is in a slow weakening phase. The forecast storm track takes it in the direction of Hawaii. The storm is forecast to reach the state around Tuesday, passing by or near the islands on Wednesday.]]></description>
       <category>weather</category>
     </item>
   </channel>
