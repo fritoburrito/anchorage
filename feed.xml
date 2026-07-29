@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 23:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 23:50:34 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: This Afternoon - Chance Rain Showers</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 28 Jul 2026 23:09:02 GMT</pubDate>
-      <description><![CDATA[66°F. Wind W 10 mph. A chance of rain showers. Mostly cloudy, with a high near 66. West wind around 10 mph. Chance of precipitation is 30%.]]></description>
-      <category>weather</category>
+      <title>Amber heat health alerts to come into force as heatwave reaches 35C peak</title>
+      <link>https://www.bbc.co.uk/weather/articles/cgq534n0w85o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">79e94b3aee0bfad4813186bb65caf350a936c0f1</guid>
+      <pubDate>Tue, 28 Jul 2026 23:50:34 GMT</pubDate>
+      <description><![CDATA[Wednesday is set to be the hottest day of the week for many as a widespread fourth heatwave grips the UK.]]></description>
+      <category>breaking</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Isolated Rain Showers then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 28 Jul 2026 23:09:02 GMT</pubDate>
+      <pubDate>Wed, 29 Jul 2026 03:26:18 GMT</pubDate>
       <description><![CDATA[52°F. Wind SW 0 to 10 mph. Isolated rain showers before 10pm. Mostly cloudy, with a low around 52. Southwest wind 0 to 10 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Wednesday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 28 Jul 2026 23:09:02 GMT</pubDate>
+      <pubDate>Wed, 29 Jul 2026 03:26:18 GMT</pubDate>
       <description><![CDATA[68°F. Wind SW 0 to 10 mph. Mostly sunny, with a high near 68. Southwest wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Wednesday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 28 Jul 2026 23:09:02 GMT</pubDate>
+      <pubDate>Wed, 29 Jul 2026 03:26:18 GMT</pubDate>
       <description><![CDATA[54°F. Wind SW 0 to 10 mph. Partly cloudy, with a low around 54. Southwest wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +42,41 @@
       <title>Anchorage Weather: Thursday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 28 Jul 2026 23:09:02 GMT</pubDate>
+      <pubDate>Wed, 29 Jul 2026 03:26:18 GMT</pubDate>
       <description><![CDATA[72°F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 72. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Thursday Night - Partly Cloudy</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Wed, 29 Jul 2026 03:26:18 GMT</pubDate>
+      <description><![CDATA[53°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 53. Southwest wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Newscast – Tuesday, July 28, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17391302/newscast-tuesday-july-28-2026</link>
+      <guid isPermaLink="false">5a55902fa2ebc8fb2efeda3dbbbb84e0a8cecdc1</guid>
+      <pubDate>Wed, 29 Jul 2026 00:58:49 GMT</pubDate>
+      <description><![CDATA[In this newscast: Forecasters predict the glacial lake responsible for producing Juneau's annual glacial outburst flood will fill a bit later than initially forecast; Eight candidates are vying for three open seats on the Juneau Assembly during this fall's local election; The upcoming school year is less than one month away and district leadership says operations will remain largely the same; A handful of state legislators returned to Juneau on Monday to begin a third special session on tax breaks for the Alaska LNG project; A new Anchorage Police program aims to improve public safety by getting people into substance use treatment]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>As winter approaches, Kenai Peninsula utilities worried about running short of gas</title>
+      <link>https://www.homernews.com/2026/07/28/as-winter-approaches-kenai-peninsula-utilities-worried-about-running-short-of-gas/</link>
+      <guid isPermaLink="false">e8ef37ba19419ba8407fb5c0a827a88def312966</guid>
+      <pubDate>Wed, 29 Jul 2026 00:30:00 GMT</pubDate>
+      <description><![CDATA[After a cold spring, they’re planning for a worst-case scenario next winter and doing their best to avoid it]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Courts issue conflicting rulings on Trump executive order restricting vote-by-mail</title>
+      <link>https://alaskabeacon.com/2026/07/28/repub/courts-issue-conflicting-rulings-on-trump-executive-order-restricting-vote-by-mail/</link>
+      <guid isPermaLink="false">07039655be8d41f7a236b46723783ffb88b33ccc</guid>
+      <pubDate>Tue, 28 Jul 2026 23:43:30 GMT</pubDate>
+      <description><![CDATA[A federal appeals court ruled Tuesday that the federal government can continue implementing President Donald Trump’s executive order limiting vote-by-mail, reaching the opposite conclusion that another appeals panel decided over the weekend. The conflict appeared to make it even more clear the issue will have to be settled by the U.S. Supreme Court, which already […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>‘E pluribus unum’ is not a slogan. It’s a choice.</title>
@@ -239,20 +271,148 @@
       <category>local</category>
     </item>
     <item>
-      <title>A Q&amp;A with Alaska Democratic U.S. House candidate Matt Schultz about the end of his campaign</title>
-      <link>https://alaskabeacon.com/2026/07/27/a-qa-with-alaska-democratic-u-s-house-candidate-matt-schultz-about-the-end-of-his-campaign/</link>
-      <guid isPermaLink="false">d470cf0e61d6391acf6ba393335332696e6c1e3f</guid>
-      <pubDate>Mon, 27 Jul 2026 13:37:04 GMT</pubDate>
-      <description><![CDATA[Alaska Beacon government and politics reporter James Brooks spoke with Matt Schultz for 15 minutes about the end of his campaign for Alaska’s sole U.S. House seat. Their conversation has been lightly edited for clarity. Q: Well, how are you feeling? A: For the first time in months, I’m feeling well rested. … There’s an […]]]></description>
-      <category>local</category>
+      <title>Bret Bielema roasts Nick Saban, SEC, at Big Ten media days: 'They want to live in 2005 forever'</title>
+      <link>https://www.foxnews.com/outkick-sports/bret-bielema-roasts-nick-saban-sec-big-ten-media-days-want-live-2005-forever</link>
+      <guid isPermaLink="false">b529d2ef00f4b51cc5a2f80d45fab4a9939bd026</guid>
+      <pubDate>Wed, 29 Jul 2026 03:00:26 GMT</pubDate>
+      <description><![CDATA[Bert Bielema fired back at Greg Sankey and the SEC at Big Ten media days, saying they want to "live in 2005 forever" while NIL has leveled the field.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Lt. Governor Nancy Dahlstrom to Host Ballot Measure Public Hearings</title>
-      <link>https://alaska-native-news.com/lt-governor-nancy-dahlstrom-to-host-ballot-measure-public-hearings/85302/</link>
-      <guid isPermaLink="false">f69f4d85067b1cb60045a1c6560a5074774a25bd</guid>
-      <pubDate>Mon, 27 Jul 2026 12:35:34 GMT</pubDate>
-      <description><![CDATA[(Anchorage, Alaska) – Monday, July 27, and again on August 5, Lt. Gov. Nancy Dahlstrom will be hosting hearings on three ballot measures. Each public hearing will consist of a statement of support from proponents of the ballot measure and follow with a statement of oppositive from a group opposing the measure. After the statement […]]]></description>
-      <category>local</category>
+      <title>Israeli PM Benjamin Netanyahu vows to visit New York despite Mamdani's repeated calls for his arrest</title>
+      <link>https://www.foxnews.com/media/israeli-pm-benjamin-netanyahu-vows-visit-new-york-despite-mamdani-repeated-calls-arrest</link>
+      <guid isPermaLink="false">a3a71fc2b3c6b57e86d34d6d1ee63281abd1285b</guid>
+      <pubDate>Wed, 29 Jul 2026 03:00:11 GMT</pubDate>
+      <description><![CDATA[Benjamin Netanyahu says he will visit New York City, despite Mayor Zohran Mamdani's repeated calls for his arrest under an ICC warrant.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Zelenskyy says Putin 'lost the initiative' as Ukraine's tech industry reshapes the war</title>
+      <link>https://www.foxnews.com/media/zelenskyy-says-putin-lost-initiative-ukraine-tech-industry-reshapes-war</link>
+      <guid isPermaLink="false">b60ee16ee82636818acb0f90d844513138374807</guid>
+      <pubDate>Wed, 29 Jul 2026 03:00:11 GMT</pubDate>
+      <description><![CDATA[Ukraine's Volodymyr Zelenskyy says Vladimir Putin is losing 30,000 soldiers per month and lost the initiative in the Ukraine war due to advancing mil-tech.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iran and US trade strikes, shattering brief lull in fighting</title>
+      <link>https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">61f1ebc9a8ddde4bba20acbe93afa5fa4ea39285</guid>
+      <pubDate>Wed, 29 Jul 2026 02:47:28 GMT</pubDate>
+      <description><![CDATA[US Central Command says it intercepted "multiple" ballistic missiles fired by Iran.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BTK killer Dennis Rader's daughter Kerri Rawson hit with domestic violence injunction: report</title>
+      <link>https://www.foxnews.com/us/btk-killer-dennis-raders-daughter-kerri-rawson-hit-domestic-violence-injunction-report</link>
+      <guid isPermaLink="false">3658d25ab4adda64f558126c71bb9d32403da636</guid>
+      <pubDate>Wed, 29 Jul 2026 02:39:46 GMT</pubDate>
+      <description><![CDATA[Kerri Rawson's ex-husband alleges the BTK serial killer's daughter warned him their children would be murdered, leading to a Florida injunction.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sophie Cunningham rally rocks WNBA game as 'save women's sports' activists face counterprotest</title>
+      <link>https://www.foxnews.com/outkick-sports/sophie-cunningham-rally-rocks-wnba-game-save-womens-sports-activists-face-counterprotest</link>
+      <guid isPermaLink="false">e4883d108eaaf69d0886f978889d4155f05b8f1f</guid>
+      <pubDate>Wed, 29 Jul 2026 02:35:37 GMT</pubDate>
+      <description><![CDATA[Footage shows crowds holding signs outside the Seattle Storm game as Sophie Cunningham fans rallied in support of her women's sports stance.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Murdered 9-year-old begged not to go on trip with dad months before he allegedly killed her, mom testifies</title>
+      <link>https://www.foxnews.com/us/murdered-9-year-old-begged-not-go-trip-dad-months-before-allegedly-killed-her-mom-testifies</link>
+      <guid isPermaLink="false">f03829eaaa27278ea9a544a5ffb6a3b43dba09ae</guid>
+      <pubDate>Wed, 29 Jul 2026 02:35:04 GMT</pubDate>
+      <description><![CDATA[Kali Galanis testified that Melina Frattolin begged not to travel overseas with her father before the girl's death near Lake George, New York.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bodycam shows Tony Romo arguing with officer before refusing breath test during DUI arrest</title>
+      <link>https://www.foxnews.com/sports/bodycam-shows-tony-romo-arguing-officer-before-refusing-breath-test-during-dui-arrest</link>
+      <guid isPermaLink="false">dd543d4435cda8d11b040a3eca3e20829d066285</guid>
+      <pubDate>Wed, 29 Jul 2026 02:33:35 GMT</pubDate>
+      <description><![CDATA[Former Dallas Cowboys quarterback Tony Romo's arrest was captured on bodycam video obtained by the New York post and released Tuesday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump administration bans new Chinese humanoid robots</title>
+      <link>https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">007288e020d6f6d41f90f7a833fe4b7afbe80dba</guid>
+      <pubDate>Wed, 29 Jul 2026 02:30:50 GMT</pubDate>
+      <description><![CDATA[The US and China are locked in a race to the lead the world in robotics and artificial intelligence.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iran inmates sew lips shut in mass hunger strike at notorious US-sanctioned jail: report</title>
+      <link>https://www.foxnews.com/world/iran-inmates-sew-lips-shut-mass-hunger-strike-notorious-us-sanctioned-jail-report</link>
+      <guid isPermaLink="false">52a1ae21d457a40a00b1b6c67c804c6ea361541d</guid>
+      <pubDate>Wed, 29 Jul 2026 02:08:47 GMT</pubDate>
+      <description><![CDATA[Over 1,000 inmates at Ghezel Hesar Prison enter a third week of hunger strike against Iran's executions, with some sewing their lips shut in protest.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Burnham invites Tories and Lib Dems to social care talks</title>
+      <link>https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">068530867e1aaa584aba7ed063a0dcaef75e00cb</guid>
+      <pubDate>Wed, 29 Jul 2026 01:59:59 GMT</pubDate>
+      <description><![CDATA[In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bryan Kohberger's stunning claims draw fiery response from defense expert who uncovered key evidence</title>
+      <link>https://www.foxnews.com/true-crime/bryan-kohbergers-stunning-claims-draw-fiery-response-from-defense-expert-who-uncovered-key-evidence</link>
+      <guid isPermaLink="false">853ef34e8ba9abb64c7fc245b64a8495a874f9ed</guid>
+      <pubDate>Wed, 29 Jul 2026 01:43:06 GMT</pubDate>
+      <description><![CDATA[A former Kohberger defense expert claims mystery hairs found at the murder scene were not Kohberger’s, raising new questions as he seeks to withdraw his guilty plea in court.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New Maine law limits police cooperation with federal immigration officials</title>
+      <link>https://www.foxnews.com/politics/maine-law-limits-police-cooperation-federal-immigration-officials</link>
+      <guid isPermaLink="false">d61b48adc73e7f0082b16dd5fc48861ad5823b6c</guid>
+      <pubDate>Wed, 29 Jul 2026 01:30:53 GMT</pubDate>
+      <description><![CDATA[Three new laws restrict cooperation between Maine law enforcement and ICE, including limiting cooperation with federal immigration officials.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Polanski says guillotine re-post was mistake but refuses to apologise</title>
+      <link>https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">28797cbf1f176b5aad2eb23eeed00900cba599e2</guid>
+      <pubDate>Wed, 29 Jul 2026 00:49:40 GMT</pubDate>
+      <description><![CDATA[The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Life-threatening Flash Flood Emergency issued near Colorado burn scar, triggering debris flows</title>
+      <link>https://www.foxweather.com/weather-news/life-threatening-flash-flood-emergency-colorado</link>
+      <guid isPermaLink="false">0a5541942d83776b24472fd6f86311f7919c5a40</guid>
+      <pubDate>Wed, 29 Jul 2026 00:30:58 GMT</pubDate>
+      <description><![CDATA[A Flash Flood Emergency has been issued for areas near the Aspen Acres burn scar in Colorado as torrential rain falls across the region. The emergency includes San Isabel and North Creek near Beulah, Colorado.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>The evidence that shows today's 20-somethings really do have it worse</title>
+      <link>https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4dbd738a988f7b62e2a1764881d3bf07b414ed54</guid>
+      <pubDate>Tue, 28 Jul 2026 23:52:23 GMT</pubDate>
+      <description><![CDATA[People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>How Mexican drug cartels have outsourced meth labs to Nigeria</title>
+      <link>https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">768d9933a9d3ef7e9d59a99e2cc285a3ad889a3c</guid>
+      <pubDate>Tue, 28 Jul 2026 23:25:53 GMT</pubDate>
+      <description><![CDATA[West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'A lover of life' - Seattle pays tribute to food festival shooting victims</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2c6bb52ecd625336af2d97e9e6c1106de34b0ee7</guid>
+      <pubDate>Tue, 28 Jul 2026 23:12:09 GMT</pubDate>
+      <description><![CDATA[Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup</title>
@@ -263,155 +423,11 @@
       <category>politics</category>
     </item>
     <item>
-      <title>Tom Cruise, Katie Holmes' daughter Suri legally changes her famous last name</title>
-      <link>https://www.foxnews.com/entertainment/tom-cruise-katie-holmes-daughter-suri-legally-changes-famous-last-name</link>
-      <guid isPermaLink="false">039b0786f87c153b8472f94161b2edbb761e77ea</guid>
-      <pubDate>Tue, 28 Jul 2026 22:49:00 GMT</pubDate>
-      <description><![CDATA[Tom Cruise and Katie Holmes' daughter registered to vote under Suri Noelle at Carnegie Mellon University after legally dropping the Cruise name.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Legacy media covers Anthony Fauci diary by criticizing Donald Trump instead of Fauci's dishonesty</title>
-      <link>https://www.foxnews.com/outkick-analysis/legacy-media-covers-anthony-fauci-diary-criticizing-donald-trump-instead-faucis-dishonesty</link>
-      <guid isPermaLink="false">334136e399024f533c1ae92c96619cdc90d1fcc3</guid>
-      <pubDate>Tue, 28 Jul 2026 22:35:09 GMT</pubDate>
-      <description><![CDATA[Anthony Fauci's private diary entries reveal he acknowledged the Wuhan lab leak possibility while publicly denying it to protect research funding.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Baker Mayfield's self-imposed contract deadline arrives as Buccaneers and quarterback fail to agree on deal</title>
-      <link>https://www.foxnews.com/outkick-sports/baker-mayfield-self-imposed-contract-deadline-arrives-buccaneers-quarterback-fail-agree-deal</link>
-      <guid isPermaLink="false">ad780387cf621d3675e26ba4804007e90c7feac7</guid>
-      <pubDate>Tue, 28 Jul 2026 22:32:56 GMT</pubDate>
-      <description><![CDATA[Baker Mayfield reported to Tampa Bay Buccaneers training camp without a new deal, setting up a high-stakes bet on himself in his contract year.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Reds get majorly hosed by winning a challenge that leads directly to a Guardians grand slam</title>
-      <link>https://www.foxnews.com/outkick-sports/reds-majorly-hosed-winning-challenge-leads-directly-guardians-grand-slam</link>
-      <guid isPermaLink="false">01370a6b4f54c3a3715439a3ab083b69409e3888</guid>
-      <pubDate>Tue, 28 Jul 2026 22:17:33 GMT</pubDate>
-      <description><![CDATA[Kyle Manzardo's acting job on a hit-by-pitch fooled the umpire, but video review gave him a second chance that ended in a bases-loaded grand slam.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Children's YouTube star 'Ms. Rachel' stirs controversy with racial claim about Nolan Wells investigation</title>
-      <link>https://www.foxnews.com/media/childrens-youtube-star-ms-rachel-stirs-controversy-racial-claim-nolan-wells-investigation</link>
-      <guid isPermaLink="false">36bfb7d4882082c0a09469a59f5592f4a3825e89</guid>
-      <pubDate>Tue, 28 Jul 2026 22:06:02 GMT</pubDate>
-      <description><![CDATA[Ms. Rachel's viral post suggests race influenced the Nolan Wells investigation, drawing pushback from a former state attorney who calls it race bait.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kelsey Grammer suspects he 'may have' lost Hollywood roles due to conservative views</title>
-      <link>https://www.foxnews.com/entertainment/kelsey-grammer-suspects-may-have-lost-hollywood-roles-due-conservative-views</link>
-      <guid isPermaLink="false">971f299a1a8107b4a51fd1845517803fddc0c948</guid>
-      <pubDate>Tue, 28 Jul 2026 22:01:11 GMT</pubDate>
-      <description><![CDATA[Kelsey Grammer suspects being a conservative in Hollywood for 40 years may have kept him off casting lists and out of awards conversations entirely.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Experts scorch Mamdani's grocery plan as an 'illusion' that will have taxpayers footing the bill</title>
-      <link>https://www.foxnews.com/politics/experts-scorch-mamdanis-grocery-plan-illusion-taxpayers-footing-bill</link>
-      <guid isPermaLink="false">76af235074f76691b481cd6e59d91ce15c3f59cf</guid>
-      <pubDate>Tue, 28 Jul 2026 22:00:29 GMT</pubDate>
-      <description><![CDATA[Economists question whether Zohran Mamdani's municipal grocery stores can deliver 30% savings or simply shift costs from shoppers to taxpayers.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Can the WNBA ever get back to basketball and leave Caitlin Clark alone?</title>
-      <link>https://www.foxnews.com/outkick-sports/wnba-get-back-basketball-leave-caitlin-clark-alone</link>
-      <guid isPermaLink="false">b7afc8bf89ab3890ec2e76de978604f71271a549</guid>
-      <pubDate>Tue, 28 Jul 2026 21:59:47 GMT</pubDate>
-      <description><![CDATA[The cycle of racial hysteria surrounding Caitlin Clark in the WNBA keeps escalating as Monica McNutt, Jemele Hill, and others fuel the debate.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Deadly French wildfires threaten missile plants, nuclear sites as fourth heatwave looms</title>
-      <link>https://www.foxnews.com/world/deadly-french-wildfires-threaten-missile-plants-nuclear-sites-fourth-heatwave-looms</link>
-      <guid isPermaLink="false">634151f683c738f0f204166a6396c069da953821</guid>
-      <pubDate>Tue, 28 Jul 2026 21:56:04 GMT</pubDate>
-      <description><![CDATA[Missile factories and nuclear research sites near Bordeaux face evacuation as wildfires scorch over 104,000 acres in France's worst blaze on record.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump files Supreme Court petition to toss $83 million E Jean Carroll defamation judgment</title>
-      <link>https://www.foxnews.com/media/trump-files-supreme-court-petition-toss-83-million-e-jean-carroll-defamation-judgment</link>
-      <guid isPermaLink="false">c986079d4a4f4624c329e6faed666c003d771b30</guid>
-      <pubDate>Tue, 28 Jul 2026 21:48:48 GMT</pubDate>
-      <description><![CDATA[President Donald Trump's attorneys argued to the Supreme Court that presidential immunity should toss the $83.3 million defamation judgment ordered to E. Jean Carroll.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'A narcissist' - victim's family blasts Kohberger for challenging Idaho murder conviction</title>
-      <link>https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b113d8cf11c3af4b7212a475387ae32804a0b568</guid>
-      <pubDate>Tue, 28 Jul 2026 21:43:30 GMT</pubDate>
-      <description><![CDATA[The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>WNBA media predictably embarrasses itself again by ignoring Sophie Cunningham story over All-Star Weekend</title>
-      <link>https://www.foxnews.com/outkick-sports/wnba-media-embarrasses-itself-ignoring-sophie-cunningham-story-all-star-weekend</link>
-      <guid isPermaLink="false">378796a15baca63a2a06cc5a3f5460df42c74601</guid>
-      <pubDate>Tue, 28 Jul 2026 21:05:28 GMT</pubDate>
-      <description><![CDATA[WNBA reporters had access to 22 All-Stars and Cathy Engelbert in Chicago but never asked about Sophie Cunningham's transgender athlete stance.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ex-FDA commissioner confronted on 'outrageous' Fauci diaries by CNBC host</title>
-      <link>https://www.foxnews.com/media/ex-fda-commissioner-confronted-outrageous-fauci-diaries-cnbc-host</link>
-      <guid isPermaLink="false">a0e9e6c9c0a73be13a62a703e1eed4f8a2f6c80c</guid>
-      <pubDate>Tue, 28 Jul 2026 21:00:57 GMT</pubDate>
-      <description><![CDATA[Scott Gottlieb called Dr. Anthony Fauci's diary entries "disappointing," citing evidence of suppressing opinions and enjoying media notoriety during the COVID-19 pandemic.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on</title>
-      <link>https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">43b086712e47e81eaf9237d2a7ee64544b88afaf</guid>
-      <pubDate>Tue, 28 Jul 2026 20:57:29 GMT</pubDate>
-      <description><![CDATA[The two leaders were in Washington to attend the funeral of Senator Lindsey Graham, a staunch supporter of Israel and advocate for US aid to Ukraine.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Philadelphia Eagles lock up Jalen Carter through 2031 with record $152M contract extension</title>
-      <link>https://www.foxnews.com/sports/philadelphia-eagles-lock-jalen-carter-through-2031-record-152m-contract-extension</link>
-      <guid isPermaLink="false">0aa6c6b0be38a9acace399024c632d5ccf077953</guid>
-      <pubDate>Tue, 28 Jul 2026 20:57:29 GMT</pubDate>
-      <description><![CDATA[Jalen Carter's four-year, $152 million extension makes him the highest-paid defensive tackle in NFL history, surpassing Jeffery Simmons and Chris Jones.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dakota Johnson stuns as Marilyn Monroe in first look after director doubted casting</title>
-      <link>https://www.foxnews.com/entertainment/dakota-johnson-stuns-marilyn-monroe-first-look-after-director-doubted-casting</link>
-      <guid isPermaLink="false">f2b8e2fc2755767ab1f1e690fb6deced6e81d476</guid>
-      <pubDate>Tue, 28 Jul 2026 20:56:26 GMT</pubDate>
-      <description><![CDATA[A stunning new set photo reveals Dakota Johnson's transformation into Marilyn Monroe for Maggie Gyllenhaal's short film premiering at Venice.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>ESPN's Dan Orlovsky weighs in on Florida coach Jon Sumrall's pedicure preferences, immediately gets roasted</title>
-      <link>https://www.foxnews.com/outkick-sports/espn-dan-orlovsky-weighs-florida-coach-jon-sumrall-pedicure-preferences-immediately-gets-roasted</link>
-      <guid isPermaLink="false">82468ab00d04504af5922dd1abf55b94ee01d1c1</guid>
-      <pubDate>Tue, 28 Jul 2026 20:54:10 GMT</pubDate>
-      <description><![CDATA[Dan Orlovsky declared he's "completely against pedicures for dudes" on "Get Up," sparking backlash over his makeup and infamous end zone blunder.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Chargers quarterback Justin Herbert and pop star Madison Beer announce engagement with romantic post</title>
-      <link>https://www.foxnews.com/outkick-sports/chargers-quarterback-justin-herbert-pop-star-madison-beer-announce-engagement-romantic-post</link>
-      <guid isPermaLink="false">4410e271541a56ab9d34dc3b40cb9542dd18d921</guid>
-      <pubDate>Tue, 28 Jul 2026 20:51:19 GMT</pubDate>
-      <description><![CDATA[Los Angeles Chargers star quarterback Justin Herbert and pop star Madison Beer announced their engagement Tuesday in a romantic post to social media.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Leading economist warns of rise of 'Gen Z affordability socialism'</title>
-      <link>https://www.foxnews.com/politics/leading-economist-warns-rise-gen-z-affordability-socialism</link>
-      <guid isPermaLink="false">04de5f15938ed32cb87315385f12945601f7738f</guid>
-      <pubDate>Tue, 28 Jul 2026 20:50:42 GMT</pubDate>
-      <description><![CDATA[Diogo Costa says AI is transforming the economy, but support for free markets is fading as a new generation embraces 'affordability socialism.']]></description>
+      <title>Brits urged to avoid dangerous plug adaptors this summer - what to watch out for</title>
+      <link>https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6bd805ec837ee5aeac21d03501ec1014311d883f</guid>
+      <pubDate>Tue, 28 Jul 2026 23:00:15 GMT</pubDate>
+      <description><![CDATA[Campaign group Electrical Safety First has urged those "heading abroad this summer to think before they buy".]]></description>
       <category>world</category>
     </item>
     <item>
@@ -508,22 +524,6 @@
       <guid isPermaLink="false">0d83a466b4e88fc5037b6c4ec1888bd1064287f7</guid>
       <pubDate>Mon, 27 Jul 2026 14:09:39 GMT</pubDate>
       <description><![CDATA[By the morning of July 27, 1926, the destructive Nassau Hurricane was heading northbound offshore of Fort Lauderdale. Winds were still lashing the beach areas and increasing in Palm Beach County and other points north on the Florida East Coast.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Genevieve churns as a Category 3 hurricane as it barrels through the Eastern Pacific</title>
-      <link>https://www.foxweather.com/weather-news/genevieve-strengthens-powerful-hurricane-eastern-pacific</link>
-      <guid isPermaLink="false">8c9f39960355a33d1157b5c31223b647acaea919</guid>
-      <pubDate>Sun, 26 Jul 2026 23:57:52 GMT</pubDate>
-      <description><![CDATA[Hurricane Genevieve is barreling through the Pacific Ocean as a Category 3 storm after briefly attaining category 5 status early Monday morning.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Genevieve now a Category 4 hurricane as storm barrels through the Eastern Pacific</title>
-      <link>https://www.foxweather.com/weather-news/genevieve-strengthens-powerful-hurricane-eastern-pacific</link>
-      <guid isPermaLink="false">8c9f39960355a33d1157b5c31223b647acaea919</guid>
-      <pubDate>Sun, 26 Jul 2026 23:57:52 GMT</pubDate>
-      <description><![CDATA[Genevieve became the first Category 5 hurricane in the Eastern Pacific basin since Hurricane Kristy in 2024 as it rapidly intensified early Monday.]]></description>
       <category>weather</category>
     </item>
   </channel>
