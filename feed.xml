@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 06:39:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 09:44:17 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Tonight - Isolated Rain Showers then Mostly Cloudy</title>
+      <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 29 Jul 2026 06:39:55 GMT</pubDate>
-      <description><![CDATA[52°F. Wind SW 0 to 5 mph. Isolated rain showers before 10pm. Mostly cloudy, with a low around 52. Southwest wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
+      <pubDate>Wed, 29 Jul 2026 09:44:17 GMT</pubDate>
+      <description><![CDATA[52°F. Wind S 0 to 5 mph. Mostly cloudy, with a low around 52. South wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Wednesday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 29 Jul 2026 06:39:55 GMT</pubDate>
+      <pubDate>Wed, 29 Jul 2026 09:44:17 GMT</pubDate>
       <description><![CDATA[68°F. Wind SW 0 to 10 mph. Mostly sunny, with a high near 68. Southwest wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Wednesday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 29 Jul 2026 06:39:55 GMT</pubDate>
+      <pubDate>Wed, 29 Jul 2026 09:44:17 GMT</pubDate>
       <description><![CDATA[55°F. Wind SW 0 to 10 mph. Partly cloudy, with a low around 55. Southwest wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Thursday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 29 Jul 2026 06:39:55 GMT</pubDate>
+      <pubDate>Wed, 29 Jul 2026 09:44:17 GMT</pubDate>
       <description><![CDATA[70°F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 70. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Thursday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 29 Jul 2026 06:39:55 GMT</pubDate>
+      <pubDate>Wed, 29 Jul 2026 09:44:17 GMT</pubDate>
       <description><![CDATA[54°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 54. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -255,99 +255,163 @@
       <category>local</category>
     </item>
     <item>
-      <title>Burnham invites Tories and Lib Dems to social care talks</title>
-      <link>https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">068530867e1aaa584aba7ed063a0dcaef75e00cb</guid>
-      <pubDate>Wed, 29 Jul 2026 06:35:42 GMT</pubDate>
-      <description><![CDATA[In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.]]></description>
+      <title>Saudi Arabia joins US in strikes on Iran-backed militias in Iraq</title>
+      <link>https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">61f1ebc9a8ddde4bba20acbe93afa5fa4ea39285</guid>
+      <pubDate>Wed, 29 Jul 2026 09:39:56 GMT</pubDate>
+      <description><![CDATA[US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Ticket prices set to rise as Heathrow able to recover runway money</title>
+      <title>New York school pauses plan to deploy humanlike AI robot teacher after backlash</title>
+      <link>https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher</link>
+      <guid isPermaLink="false">da9e630912c08ee2a78b35f58fadc36502d61231</guid>
+      <pubDate>Wed, 29 Jul 2026 09:24:52 GMT</pubDate>
+      <description><![CDATA[A school district in upstate New York is pausing plans to deploy an AI-powered, humanoid robot in the classroom after state education officials, teachers and local residents raised concerns.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump's new spy chief confirmed by US Senate</title>
+      <link>https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">403661249052eefea29d0323fcf7f7766e603926</guid>
+      <pubDate>Wed, 29 Jul 2026 09:07:40 GMT</pubDate>
+      <description><![CDATA[Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq</title>
+      <link>https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq</link>
+      <guid isPermaLink="false">77e9871637a028e48990afa0fdf325fa8644dae2</guid>
+      <pubDate>Wed, 29 Jul 2026 09:07:03 GMT</pubDate>
+      <description><![CDATA[Jordan intercepted five missiles launched from Iran, the country's military said, hours after the U.S. military said it had knocked down an Iranian missile barrage launched against American forces.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament</title>
+      <link>https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2593b645482021329ebbfa29685ae1c787e06112</guid>
+      <pubDate>Wed, 29 Jul 2026 09:02:48 GMT</pubDate>
+      <description><![CDATA[From "delulu" to "FOMO", Gen Z slang has made an unlikely journey from Instagram to parliament.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>NASA at 68: America must lead on the Moon, Mars and beyond—or China will</title>
+      <link>https://www.foxnews.com/opinion/nasa-68-america-must-lead-moon-mars-beyond-or-china-will</link>
+      <guid isPermaLink="false">9f9e71b889e37039a6d0503508046f396948fa39</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:57 GMT</pubDate>
+      <description><![CDATA[Two House committee members argue the U.S. must dominate space exploration as China invests heavily in lunar and satellite network technologies.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dating's new red flag: Voting the 'wrong' way could leave you single for good</title>
+      <link>https://www.foxnews.com/opinion/datings-new-red-flag-voting-wrong-way-could-leave-you-single-good</link>
+      <guid isPermaLink="false">ed3903fa848ac7929bd6d663470cf24582661d49</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:09 GMT</pubDate>
+      <description><![CDATA[A psychotherapist explains why dating app bios on Hinge and Bumble now read like political loyalty oaths and why that's destroying real connection.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>No Jews on Mamdani’s 'truly representative' NYC judiciary panel, sparking backlash</title>
+      <link>https://www.foxnews.com/politics/no-jews-chosen-mamdanis-truly-representative-nyc-judiciary-panel-sparks-backlash</link>
+      <guid isPermaLink="false">13fbd2f686301705961d34f2313294a0d8388ee1</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:09 GMT</pubDate>
+      <description><![CDATA[Four Jewish bar associations demand Zohran Mamdani correct the exclusion of Jewish members from his 19-person judiciary advisory panel in New York City.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>The next American boom could be here — unless Washington regulates it to death</title>
+      <link>https://www.foxnews.com/opinion/next-american-boom-could-here-unless-washington-regulates-death</link>
+      <guid isPermaLink="false">1cc45fbf1fa0587be43b8b09ca33acb34a099329</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:04 GMT</pubDate>
+      <description><![CDATA[A new study called "Boomsday Not Doomsday" argues AI will lower prices on food, housing, and healthcare while creating new jobs across the economy.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Machines are collaborators' at this new museum of AI art</title>
+      <link>https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol</link>
+      <guid isPermaLink="false">93777423428c3de9f3b0e6e71a48e013503dfe7b</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA["What is beyond reality?" asks artist Refik Anadol. His latest projects include Dataland, an immersive AI art museum in Los Angeles, and an installation at the Smithsonian in Washington, D.C.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rand Paul released Fauci's pandemic-era 'diary.' Now they'll face off on Capitol Hill</title>
+      <link>https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing</link>
+      <guid isPermaLink="false">3e4866d414bd21228ad2efe78a200b26c594d129</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[At a Senate hearing Wednesday, Anthony Fauci is likely to face questions from Sen. Rand Paul related to the origins of the COVID-19 pandemic. Here's what you need to know]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>More Americans are going bankrupt. What does that mean?</title>
+      <link>https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising</link>
+      <guid isPermaLink="false">f884321cfea3932ff84e4616e65b343caefd3fe4</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[The bankruptcy rate has risen about 48% between 2022 and 2025, although it's still below pre-pandemic levels.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>As extreme heat grips the South and West, here's how to stay safe</title>
+      <link>https://www.npr.org/2026/07/29/nx-s1-5910515/heat-dome-stroke-weather</link>
+      <guid isPermaLink="false">ae46ac6437617cba1958e6c6b20cf1f7ae3c6be9</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[Experts say immersion in cold water before an ambulance arrives can greatly increase the chances of heat stroke survival and reduce the risk of long-term complications.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>To win over working class voters, Democrats need to stop talking about democracy</title>
+      <link>https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class</link>
+      <guid isPermaLink="false">5246b62d64ae9b8126581b93dcb871943824fbd7</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[Working class voters have moved away from the Democratic Party. Winning them back is key to the party's future, a new reports shows. But first, the messaging has to change.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The Federal Reserve faces a critical decision on interest rates</title>
+      <link>https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation</link>
+      <guid isPermaLink="false">ab3a4dae1447104b2c2f519b2c4b4b471526bd65</guid>
+      <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[Policymakers at the Federal Reserve are meeting to discuss interest rates Wednesday. They're expected to hold rates steady, but there's a chance they could raise rates to combat stubborn inflation.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>OpenAI says its rogue AI tried to hack other companies</title>
+      <link>https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2331edd040e16e15e8ffc61a7e6aaf2341b1cf6d</guid>
+      <pubDate>Wed, 29 Jul 2026 08:49:27 GMT</pubDate>
+      <description><![CDATA[The out-of-control AI found four logins which allowed it to access multiple unnamed online services.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Morning news brief</title>
+      <link>https://www.npr.org/2026/07/29/nx-s1-5901898/morning-news-brief</link>
+      <guid isPermaLink="false">ef912b2ceafd773461cc7a6bf2c0833c56c5c990</guid>
+      <pubDate>Wed, 29 Jul 2026 08:46:26 GMT</pubDate>
+      <description><![CDATA[President Trump met with the leaders of Ukraine and Israel on Tuesday at the White House, heatwave threatens firefighters' hold on wildfires in France and Spain.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ticket prices set to rise by 15p as Heathrow able to recover runway project money</title>
       <link>https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">a8483bf221c579074897c63fee5b5f8de26fbe48</guid>
-      <pubDate>Wed, 29 Jul 2026 06:32:39 GMT</pubDate>
+      <pubDate>Wed, 29 Jul 2026 08:22:53 GMT</pubDate>
       <description><![CDATA[UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake</title>
-      <link>https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">07b33d2ec9aadfbe22a6ab15d0027a352548e7d2</guid>
-      <pubDate>Wed, 29 Jul 2026 06:10:19 GMT</pubDate>
-      <description><![CDATA[At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Judge allows use of police interview in Tupac Shakur murder trial</title>
-      <link>https://www.npr.org/2026/07/29/nx-s1-5911616/police-interview-tupac-trial</link>
-      <guid isPermaLink="false">9b6f09fc7ab666bbfde2b2faf248f16bb8ae48ee</guid>
-      <pubDate>Wed, 29 Jul 2026 06:04:35 GMT</pubDate>
-      <description><![CDATA[A Nevada judge ruled on Tuesday that the recording of an interview the man accused in the killing Tupac Shakur gave to police in 2008 could be used at his upcoming trial.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kentucky governor calls on McConnell to prove he is fit to serve or resign: 'Address the people'</title>
-      <link>https://www.foxnews.com/politics/kentucky-governor-calls-mcconnell-prove-he-fit-serve-resign-address-people</link>
-      <guid isPermaLink="false">a45d21ee39b50e1089763ca6cc74fb01decdceec</guid>
-      <pubDate>Wed, 29 Jul 2026 05:54:56 GMT</pubDate>
-      <description><![CDATA[Kentucky Gov. Andy Beshear demanded that Sen. Mitch McConnell prove his fitness to serve or resign after the 84-year-old's lengthy hospital stay.]]></description>
+      <title>Battle to replace late House Dem goes to overtime after daughter failed to clinch seat</title>
+      <link>https://www.foxnews.com/politics/battle-replace-late-house-dem-overtime-after-daughter-failed-clinch-seat</link>
+      <guid isPermaLink="false">452d70c25a5735b38fd4273c73d6ae17f6887115</guid>
+      <pubDate>Wed, 29 Jul 2026 08:00:58 GMT</pubDate>
+      <description><![CDATA[Marcye Scott and Everton Blair advance to an Aug. 25 runoff election in Georgia's 13th congressional district to fill the late David Scott's seat.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Rescuers search for the missing after Japan earthquake as death toll rises to 13</title>
-      <link>https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates</link>
-      <guid isPermaLink="false">c9e3c9f1256ac9931cb8f6f01bbdabdf05ff54df</guid>
-      <pubDate>Wed, 29 Jul 2026 05:34:42 GMT</pubDate>
-      <description><![CDATA[Soldiers and emergency workers combed through a badly damaged shopping mall and collapsed houses looking for trapped survivors Wednesday after a powerful earthquake that killed at least 13 people.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Four women accuse Jared Leto of criminal sexual conduct</title>
-      <link>https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">11c8163e1dc2ba37764988b37968d42837c5517b</guid>
-      <pubDate>Wed, 29 Jul 2026 05:00:07 GMT</pubDate>
-      <description><![CDATA[The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Four women accuse Jared Leto of criminal sexual conduct when they were teenagers</title>
-      <link>https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">11c8163e1dc2ba37764988b37968d42837c5517b</guid>
-      <pubDate>Wed, 29 Jul 2026 05:00:07 GMT</pubDate>
-      <description><![CDATA[The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Wildfires in south-west France flare up as region braces for new 40C heatwave</title>
-      <link>https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">44c682a32aec7d7a43092836d63f526751dffd52</guid>
-      <pubDate>Wed, 29 Jul 2026 04:43:36 GMT</pubDate>
-      <description><![CDATA[Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Caitlin Clark erupts for 32 points as Fever hold off Storm to complete season-series sweep</title>
-      <link>https://www.foxnews.com/outkick-sports/caitlin-clark-erupts-32-points-fever-hold-off-storm-complete-season-series-sweep</link>
-      <guid isPermaLink="false">c59c1293f6b23372825915028bfb21e20488a1a7</guid>
-      <pubDate>Wed, 29 Jul 2026 04:30:39 GMT</pubDate>
-      <description><![CDATA[Caitlin Clark scored 32 points as the Indiana Fever beat the Seattle Storm 103-95, extending the Storm's home struggles at Climate Pledge Arena.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Lindsay Clancy’s ex-husband details pill use as expert says evidence could shape murder trial</title>
-      <link>https://www.foxnews.com/us/lindsay-clancy-ex-husband-details-pill-use-expert-says-evidence-could-shape-murder-trial</link>
-      <guid isPermaLink="false">695b77769177919500a6b61bb59568799956e03c</guid>
-      <pubDate>Wed, 29 Jul 2026 04:00:05 GMT</pubDate>
-      <description><![CDATA[Prosecutors showed jurors nine prescription bottles still containing pills, challenging claims that Lindsay Clancy was overmedicated before the killings.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Report on Jewish diaspora finds biggest rise in antisemitism in UK</title>
-      <link>https://www.bbc.co.uk/news/articles/c4gd240eelmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4fd3e8a902312aaac9dfa45b37f94cb11762db9c</guid>
-      <pubDate>Wed, 29 Jul 2026 04:00:03 GMT</pubDate>
-      <description><![CDATA[The report also says 2025 was the deadliest year for Jews living outside Israel in more than 30 years.]]></description>
+      <title>France evacuates thousands as fires displace a third of a million in southwest Europe</title>
+      <link>https://www.npr.org/2026/07/29/g-s1-136057/france-wildfires</link>
+      <guid isPermaLink="false">e38b115eb8e9bcc5fc9d64674bdde4e7ed7a7b3d</guid>
+      <pubDate>Wed, 29 Jul 2026 07:22:44 GMT</pubDate>
+      <description><![CDATA[French authorities ordered 4,000 more people evacuated from tourist sites along its Atlantic coast, widening what may be France's largest peacetime evacuation.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -357,70 +421,6 @@
       <pubDate>Wed, 29 Jul 2026 03:38:16 GMT</pubDate>
       <description><![CDATA[A magnitude 4.3 earthquake rattled Northern California on Tuesday night, marking the latest quake to happen along the Pacific Ring of Fire.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Bret Bielema roasts Nick Saban, SEC, at Big Ten media days: 'They want to live in 2005 forever'</title>
-      <link>https://www.foxnews.com/outkick-sports/bret-bielema-roasts-nick-saban-sec-big-ten-media-days-want-live-2005-forever</link>
-      <guid isPermaLink="false">b529d2ef00f4b51cc5a2f80d45fab4a9939bd026</guid>
-      <pubDate>Wed, 29 Jul 2026 03:00:26 GMT</pubDate>
-      <description><![CDATA[Bert Bielema fired back at Greg Sankey and the SEC at Big Ten media days, saying they want to "live in 2005 forever" while NIL has leveled the field.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Israeli PM Benjamin Netanyahu vows to visit New York despite Mamdani's repeated calls for his arrest</title>
-      <link>https://www.foxnews.com/media/israeli-pm-benjamin-netanyahu-vows-visit-new-york-despite-mamdani-repeated-calls-arrest</link>
-      <guid isPermaLink="false">a3a71fc2b3c6b57e86d34d6d1ee63281abd1285b</guid>
-      <pubDate>Wed, 29 Jul 2026 03:00:11 GMT</pubDate>
-      <description><![CDATA[Benjamin Netanyahu says he will visit New York City, despite Mayor Zohran Mamdani's repeated calls for his arrest under an ICC warrant.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Zelenskyy says Putin 'lost the initiative' as Ukraine's tech industry reshapes the war</title>
-      <link>https://www.foxnews.com/media/zelenskyy-says-putin-lost-initiative-ukraine-tech-industry-reshapes-war</link>
-      <guid isPermaLink="false">b60ee16ee82636818acb0f90d844513138374807</guid>
-      <pubDate>Wed, 29 Jul 2026 03:00:11 GMT</pubDate>
-      <description><![CDATA[Ukraine's Volodymyr Zelenskyy says Vladimir Putin is losing 30,000 soldiers per month and lost the initiative in the Ukraine war due to advancing mil-tech.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Iran and US trade strikes, shattering brief lull in fighting</title>
-      <link>https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">61f1ebc9a8ddde4bba20acbe93afa5fa4ea39285</guid>
-      <pubDate>Wed, 29 Jul 2026 02:47:28 GMT</pubDate>
-      <description><![CDATA[US Central Command says it intercepted "multiple" ballistic missiles fired by Iran.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>BTK killer Dennis Rader's daughter Kerri Rawson hit with domestic violence injunction: report</title>
-      <link>https://www.foxnews.com/us/btk-killer-dennis-raders-daughter-kerri-rawson-hit-domestic-violence-injunction-report</link>
-      <guid isPermaLink="false">3658d25ab4adda64f558126c71bb9d32403da636</guid>
-      <pubDate>Wed, 29 Jul 2026 02:39:46 GMT</pubDate>
-      <description><![CDATA[Kerri Rawson's ex-husband alleges the BTK serial killer's daughter warned him their children would be murdered, leading to a Florida injunction.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sophie Cunningham rally rocks WNBA game as 'save women's sports' activists face counterprotest</title>
-      <link>https://www.foxnews.com/outkick-sports/sophie-cunningham-rally-rocks-wnba-game-save-womens-sports-activists-face-counterprotest</link>
-      <guid isPermaLink="false">e4883d108eaaf69d0886f978889d4155f05b8f1f</guid>
-      <pubDate>Wed, 29 Jul 2026 02:35:37 GMT</pubDate>
-      <description><![CDATA[Footage shows crowds holding signs outside the Seattle Storm game as Sophie Cunningham fans rallied in support of her women's sports stance.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Murdered 9-year-old begged not to go on trip with dad months before he allegedly killed her, mom testifies</title>
-      <link>https://www.foxnews.com/us/murdered-9-year-old-begged-not-go-trip-dad-months-before-allegedly-killed-her-mom-testifies</link>
-      <guid isPermaLink="false">f03829eaaa27278ea9a544a5ffb6a3b43dba09ae</guid>
-      <pubDate>Wed, 29 Jul 2026 02:35:04 GMT</pubDate>
-      <description><![CDATA[Kali Galanis testified that Melina Frattolin begged not to travel overseas with her father before the girl's death near Lake George, New York.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bodycam shows Tony Romo arguing with officer before refusing breath test during DUI arrest</title>
-      <link>https://www.foxnews.com/sports/bodycam-shows-tony-romo-arguing-officer-before-refusing-breath-test-during-dui-arrest</link>
-      <guid isPermaLink="false">dd543d4435cda8d11b040a3eca3e20829d066285</guid>
-      <pubDate>Wed, 29 Jul 2026 02:33:35 GMT</pubDate>
-      <description><![CDATA[Former Dallas Cowboys quarterback Tony Romo's arrest was captured on bodycam video obtained by the New York post and released Tuesday.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Life-threatening Flash Flood Emergency issued near Colorado burn scar, triggering debris flows</title>
