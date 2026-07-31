@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 03:41:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 01:11:45 GMT</lastBuildDate>
+    <item>
+      <title>Missing hiker found dead between 2 national parks after family receives strange Garmin satellite alert</title>
+      <link>https://www.foxweather.com/weather-news/missing-hiker-found-dead-garmin-trail-popular-national-parks</link>
+      <guid isPermaLink="false">9dc4dff9d36c443b05994afdc4e5545edeff322c</guid>
+      <pubDate>Fri, 31 Jul 2026 01:11:45 GMT</pubDate>
+      <description><![CDATA[A man hiking between two popular national parks in the West was found dead nearly a week after being reported missing.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Northwest wildfire season surpasses 1 million acres burned as major fires continue to spread</title>
       <link>https://www.foxweather.com/weather-news/big-grass-fire-scorches-300000-acres-northwest-continues-burn</link>
@@ -15,26 +23,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon - Mostly Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 31 Jul 2026 00:11:27 GMT</pubDate>
-      <description><![CDATA[71°F. Wind W 10 mph. Mostly sunny, with a high near 71. West wind around 10 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 31 Jul 2026 00:11:27 GMT</pubDate>
-      <description><![CDATA[55°F. Wind SW 0 to 10 mph. Mostly clear, with a low around 55. Southwest wind 0 to 10 mph.]]></description>
+      <pubDate>Fri, 31 Jul 2026 04:29:52 GMT</pubDate>
+      <description><![CDATA[55°F. Wind S 0 to 10 mph. Mostly clear, with a low around 55. South wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 31 Jul 2026 00:11:27 GMT</pubDate>
+      <pubDate>Fri, 31 Jul 2026 04:29:52 GMT</pubDate>
       <description><![CDATA[72°F. Wind NW 0 to 10 mph. Sunny, with a high near 72. Northwest wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Friday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 31 Jul 2026 00:11:27 GMT</pubDate>
+      <pubDate>Fri, 31 Jul 2026 04:29:52 GMT</pubDate>
       <description><![CDATA[55°F. Wind SW 5 to 10 mph. Mostly clear, with a low around 55. Southwest wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,9 +50,33 @@
       <title>Anchorage Weather: Saturday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 31 Jul 2026 00:11:27 GMT</pubDate>
+      <pubDate>Fri, 31 Jul 2026 04:29:52 GMT</pubDate>
       <description><![CDATA[71°F. Wind SW 0 to 10 mph. Sunny, with a high near 71. Southwest wind 0 to 10 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Saturday Night - Mostly Clear</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Fri, 31 Jul 2026 04:29:52 GMT</pubDate>
+      <description><![CDATA[54°F. Wind SW 0 to 10 mph. Mostly clear, with a low around 54. Southwest wind 0 to 10 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Newscast – Thursday, July 30, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17396813/newscast-thursday-july-30-2026</link>
+      <guid isPermaLink="false">eebedecb67154a29e265f014b34d0bed32cb2cc0</guid>
+      <pubDate>Fri, 31 Jul 2026 00:59:05 GMT</pubDate>
+      <description><![CDATA[In this newscast: Juneau police have confirmed the identity of a man whose remains were discovered in a chest freezer last week at a home in Lemon Creek; Three people are dead after a fiery plane crash Tuesday night near McCarthy; A volunteer group freed a humpback whale that was entangled in a gillnet near Petersburg last night; Juneau veteran says he was denied First Amendment rights during July 4 parade; Members of the Alaska Legislature are asking the state Division of Elections to immediately retore the voter status of thousands of Alaskans the division deactivated based on outdated information; Hundreds of people gathered in Haines this weekend for the annual Southeast Alaska State Fair]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer cyclist raises funds for cancer research at bike-a-thon</title>
+      <link>https://www.homernews.com/2026/07/30/homer-cyclist-raises-funds-for-cancer-research-at-bike-a-thon/</link>
+      <guid isPermaLink="false">bd3bb641028dd98dc4b5681284aabccc62b84a05</guid>
+      <pubDate>Fri, 31 Jul 2026 00:30:00 GMT</pubDate>
+      <description><![CDATA[Pam Borland will participate in her third Pan-Mass Challenge this weekend]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Feds turn over Alaska hazardous waste management to state</title>
@@ -311,20 +335,140 @@
       <category>local</category>
     </item>
     <item>
-      <title>Alaska’s Congressional delegation has abandoned U.S. veterans</title>
-      <link>https://alaskabeacon.com/2026/07/29/alaskas-congressional-delegation-has-abandoned-u-s-veterans/</link>
-      <guid isPermaLink="false">fa41729e747f7f7353993d7b3ddb187af99ec0c5</guid>
-      <pubDate>Wed, 29 Jul 2026 22:00:32 GMT</pubDate>
-      <description><![CDATA[It is a disgrace the way our congressional delegation has abandoned U.S. veterans. The Trump administration’s Big Beautiful Bill, which Murkowski, Sullivan and Begich all voted for, gave more tax breaks to billionaires and large corporations, while at the same time squeezing the middle class and the poor. Among the casualties are U.S. veterans. In […]]]></description>
-      <category>local</category>
+      <title>UK rapper Yung Filly found not guilty of raping woman after Australian show</title>
+      <link>https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">46b062d91befbb0948586aa328f8dcbc264e96c4</guid>
+      <pubDate>Fri, 31 Jul 2026 04:26:20 GMT</pubDate>
+      <description><![CDATA[The rapper had been accused of sexually assaulting a woman after performing in Perth in 2024.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Anchorage woman killed in Northern Lights crash; two juveniles critically injured</title>
-      <link>https://alaska-native-news.com/anchorage-woman-killed-in-northern-lights-crash-two-juveniles-critically-injured/85356/</link>
-      <guid isPermaLink="false">0a79c99511bf44cb70c39d5b2f489eb3872e5ef5</guid>
-      <pubDate>Wed, 29 Jul 2026 21:12:53 GMT</pubDate>
-      <description><![CDATA[An early morning crash in Anchorage on July 28, 2026, claimed the life of 23-year-old Kylie Hoogendorn. According to the Anchorage Police Department, officers responded at approximately 12:02 a.m. to the intersection of East Northern Lights Boulevard and UAA Drive after receiving reports of a collision with injuries. Investigators determined that a GMC Sierra traveling […]]]></description>
-      <category>local</category>
+      <title>Fifa says 'nobody selling football' as it presses ahead with investment plan</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5c9e90a27f393159faf8f4e8fe3e1e67b7939a6c</guid>
+      <pubDate>Fri, 31 Jul 2026 04:17:06 GMT</pubDate>
+      <description><![CDATA[Football's governing body plans to continue the consultation process after Uefa threatens to boycott World Cups.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>49ers bring back Deebo Samuel to fill void left by Ricky Pearsall's knee injury: report</title>
+      <link>https://www.foxnews.com/sports/49ers-bring-back-deebo-samuel-fill-void-left-ricky-pearsall-knee-injury-report</link>
+      <guid isPermaLink="false">65e272f20b2a869168b6f0651913cb4708c470d2</guid>
+      <pubDate>Fri, 31 Jul 2026 03:47:36 GMT</pubDate>
+      <description><![CDATA[Deebo Samuel agreed to a one-year deal worth up to $7 million to rejoin the San Francisco 49ers after Ricky Pearsall suffered a knee injury.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Spain sending troops as thousands enter enclave of Ceuta from Morocco</title>
+      <link>https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4ad405e8bf33cdf3f508758828a391fbb8a89003</guid>
+      <pubDate>Fri, 31 Jul 2026 02:41:09 GMT</pubDate>
+      <description><![CDATA[At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Mystery stranger vanishes after family says frantic warning saved their lives during devastating house fire</title>
+      <link>https://www.foxnews.com/us/mystery-stranger-vanishes-after-family-says-frantic-warning-saved-lives-during-devastating-house-fire</link>
+      <guid isPermaLink="false">203353c7a9893d021003640beaeeddadd63b7828</guid>
+      <pubDate>Fri, 31 Jul 2026 02:14:20 GMT</pubDate>
+      <description><![CDATA[The Las Vegas family is now searching for the unidentified hero they say woke them during a July 5 house fire they believe was caused by fireworks.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Spain deploys military after thousands of migrants overwhelm border enclave, at least 9 dead</title>
+      <link>https://www.foxnews.com/world/spain-deploys-military-after-thousands-migrants-overwhelm-border-enclave-least-9-dead</link>
+      <guid isPermaLink="false">e4ce2a1057ca4a3c2a6e1b6fd2fafcaf493bbb7c</guid>
+      <pubDate>Fri, 31 Jul 2026 01:35:41 GMT</pubDate>
+      <description><![CDATA[Video shows thousands of migrants overwhelming Ceuta's Tarajal border as Spain deploys its military and at least nine people die during crossings.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rockets' Tari Eason says ex-girlfriend ruined $92K wardrobe with bleach, threatened to kill him in filing</title>
+      <link>https://www.foxnews.com/outkick-sports/rockets-tari-eason-says-ex-girlfriend-ruined-92k-wardrobe-bleach-threatened-kill-filing</link>
+      <guid isPermaLink="false">89f236e82b6cd0c421a38c5bf4d429682e38c2ee</guid>
+      <pubDate>Fri, 31 Jul 2026 01:35:02 GMT</pubDate>
+      <description><![CDATA[Tari Eason alleges his ex-girlfriend punched him, poured bleach on $92,000 worth of designer clothing and threatened to kill him in court filings.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Anthropic says Claude AI hacked three organisations during cyber tests</title>
+      <link>https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a6d12130c066cc77183b2af5c8741769a0176bf5</guid>
+      <pubDate>Fri, 31 Jul 2026 01:31:14 GMT</pubDate>
+      <description><![CDATA[It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Crews tackling Suffolk wildfire say they are in better position</title>
+      <link>https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">95cbb39c8f2794983dacd40c84425aab49256c08</guid>
+      <pubDate>Fri, 31 Jul 2026 01:12:58 GMT</pubDate>
+      <description><![CDATA[The Suffolk Fire and Rescue Service says "the situation appears to be stabilising" but at least 12 fire engines will remain on scene.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ex-CBS reporter claims questioning Fauci got her 'pulled off air' during COVID pandemic</title>
+      <link>https://www.foxnews.com/media/ex-cbs-reporter-claims-questioning-fauci-got-her-pulled-off-air-during-covid-pandemic</link>
+      <guid isPermaLink="false">9053d213734bae208c235c64a4b05133dcf62d4e</guid>
+      <pubDate>Fri, 31 Jul 2026 01:04:47 GMT</pubDate>
+      <description><![CDATA[Former CBS News journalist Brittney Hopper claimed she was pulled off the air for questioning Dr. Anthony Fauci's recommendations during COVID-19.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Falcons announce defensive coordinator Jeff Ulbrich's wife Cristina died after battle with cancer</title>
+      <link>https://www.foxnews.com/sports/falcons-announce-defensive-coordinator-jeff-ulbrich-wife-cristina-died-battle-cancer</link>
+      <guid isPermaLink="false">9d6555412798d003545af30eeb65c2a7170cc448</guid>
+      <pubDate>Fri, 31 Jul 2026 00:53:34 GMT</pubDate>
+      <description><![CDATA[Cristina Ulbrich, the wife of Falcons defensive coordinator Jeff Ulbrich, died Sunday after a courageous battle with cancer, the team announced.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nirmal Purja among 10 climbers feared missing after avalanche</title>
+      <link>https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">45cd353ca3801b28b70f0d31a186b26b2f6fd869</guid>
+      <pubDate>Fri, 31 Jul 2026 00:52:54 GMT</pubDate>
+      <description><![CDATA[An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nancy Guthrie update: DNA couldn't be profiled from crime scene hair sample, sheriff says</title>
+      <link>https://www.foxnews.com/us/nancy-guthrie-update-dna-couldnt-profiled-crime-scene-hair-sample-sheriff-says</link>
+      <guid isPermaLink="false">e0f0bd1ad85d034e08362e628c08646874338aa4</guid>
+      <pubDate>Fri, 31 Jul 2026 00:51:59 GMT</pubDate>
+      <description><![CDATA[DNA testing on a hair sample found in Nancy Guthrie's home returned no profile, but investigators say the sample may still prove valuable as the case continues.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>GOP gubernatorial candidate fighting to flip blue state unveils healthcare plan to lower costs, expand access</title>
+      <link>https://www.foxnews.com/politics/gop-gubernatorial-candidate-fighting-flip-blue-state-unveils-healthcare-plan-lower-costs-expand-access</link>
+      <guid isPermaLink="false">4625509a58f337da56575434c0739ee87845bdb2</guid>
+      <pubDate>Fri, 31 Jul 2026 00:50:43 GMT</pubDate>
+      <description><![CDATA[Massachusetts GOP hopeful Mike Minogue outlines a healthcare overhaul centered on innovation, outpatient care, mental health and cutting waste.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>What your summer reading list says about you</title>
+      <link>https://www.bbc.co.uk/news/articles/cd69glgl2jzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7a5b1db99cc5b2908256189b16ec990b0779f8d2</guid>
+      <pubDate>Fri, 31 Jul 2026 00:26:02 GMT</pubDate>
+      <description><![CDATA[Just picked your holiday book? Our choices can subconsciously reveal important parts of our personality, studies show.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Apple prices just went up — these refurbished MacBooks, iPads and Apple Watches cost far less</title>
+      <link>https://www.foxnews.com/deals/refurbished-apple-deals</link>
+      <guid isPermaLink="false">a108a112ec2be9b204f4f153dadfd146a93f16e3</guid>
+      <pubDate>Fri, 31 Jul 2026 00:24:48 GMT</pubDate>
+      <description><![CDATA[Apple's recent price hikes make refurbished Apple devices an even better value. Shop MacBooks, iPads and Apple Watches from $142.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sen Mark Kelly warns far-left policies that ‘don’t make sense’ could cost Democrats seats</title>
+      <link>https://www.foxnews.com/media/sen-mark-kelly-warns-far-left-policies-dont-make-sense-cost-democrats-seats</link>
+      <guid isPermaLink="false">a203cb4214811e54aa95eb89f1cdf23fee928821</guid>
+      <pubDate>Fri, 31 Jul 2026 00:15:27 GMT</pubDate>
+      <description><![CDATA[Sen. Mark Kelly said far-left calls to abolish police, eliminate prisons and defund the Pentagon are dragging down Democratic Party approval ratings.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Hamas says it has agreed to disarm after Trump announces Board of Peace plan</title>
@@ -348,142 +492,6 @@
       <guid isPermaLink="false">aa6697271eeebf297392eda94e3b4ade931cfa99</guid>
       <pubDate>Thu, 30 Jul 2026 23:52:05 GMT</pubDate>
       <description><![CDATA[Video captures Alex Ovechkin casually strolling into a couple's wedding photo shoot in Saint Petersburg with a CCM hockey stick in his hands.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Chiefs' Eric Bieniemy's son won't face court until mental health evaluation after allegedly shooting mother</title>
-      <link>https://www.foxnews.com/sports/chiefs-coordinator-eric-bieniemy-son-wont-face-court-until-mental-health-evaluation-after-shooting-mother</link>
-      <guid isPermaLink="false">da03dc571d092767f80bdd94822badd4c3c82280</guid>
-      <pubDate>Thu, 30 Jul 2026 23:51:26 GMT</pubDate>
-      <description><![CDATA[Elijah Bieniemy's public defender argued he suffers from significant mental health issues after allegedly shooting his mother Mia at their Ashburn home.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Renowned ex-Royal Marine Nirmal Purja among 10 climbers feared missing after avalanche</title>
-      <link>https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">45cd353ca3801b28b70f0d31a186b26b2f6fd869</guid>
-      <pubDate>Thu, 30 Jul 2026 23:37:47 GMT</pubDate>
-      <description><![CDATA[An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Father who bought AR-15 for Georgia school shooter learns fate in first-of-its-kind conviction</title>
-      <link>https://www.foxnews.com/us/father-who-bought-ar-15-georgia-school-shooter-learns-fate-first-of-its-kind-conviction</link>
-      <guid isPermaLink="false">aed283ca6bf728dc2d273bea1f37b6504cb69676</guid>
-      <pubDate>Thu, 30 Jul 2026 23:22:57 GMT</pubDate>
-      <description><![CDATA[Colin Gray was sentenced to 15 years after a jury found he gave his son the AR-15 used in the Apalachee High School shooting despite mental health warnings.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Carville says one democratic socialist's 'lunacy of the highest level' policy could haunt swing-state Dems</title>
-      <link>https://www.foxnews.com/media/carville-democratic-socialist-lunacy-highest-level-policy-haunt-swing-state-dems</link>
-      <guid isPermaLink="false">4b3dcecaa6dc0c7fd1a9087737272d3a7cfb701f</guid>
-      <pubDate>Thu, 30 Jul 2026 23:15:04 GMT</pubDate>
-      <description><![CDATA[James Carville warns that democratic socialist candidates in Michigan and Wisconsin primaries could taint the entire Democratic Party's image nationally.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Former LSU star Demetrius Byrd arrested after allegedly pulling knife on bus: 'Who wants to die?'</title>
-      <link>https://www.foxnews.com/sports/former-lsu-star-demetrius-byrd-arrested-allegedly-pulling-knife-bus-who-wants-die</link>
-      <guid isPermaLink="false">b0e8bb802bec805acb0cd57bd4842958380d7c99</guid>
-      <pubDate>Thu, 30 Jul 2026 23:14:10 GMT</pubDate>
-      <description><![CDATA[Former LSU wide receiver Demetrius Byrd faces an aggravated assault with a deadly weapon charge after allegedly brandishing a blade on a Miami bus.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Jessica Simpson celebrates turning 46 in bikini and reveals her children have never seen her perform</title>
-      <link>https://www.foxnews.com/entertainment/jessica-simpson-celebrates-turning-46-bikini-admits-children-never-seen-perform</link>
-      <guid isPermaLink="false">7107addc5c10ae8242328cbc1d8f7ee44b3c9d55</guid>
-      <pubDate>Thu, 30 Jul 2026 22:59:23 GMT</pubDate>
-      <description><![CDATA[Jessica Simpson shared a bikini selfie while tanning on her 46th birthday, staying true to her self-described identity as a lifelong "sun lover."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hamas agrees to complete disarmament under 'historic' Gaza agreement: Trump</title>
-      <link>https://www.foxnews.com/politics/hamas-agrees-complete-disarmament-historic-gaza-agreement-trump</link>
-      <guid isPermaLink="false">e7227f7d45f1bb29c421f64c9797ed3ce295e1db</guid>
-      <pubDate>Thu, 30 Jul 2026 22:43:46 GMT</pubDate>
-      <description><![CDATA[President Donald Trump announced what he called a historic agreement to completely disarm Hamas and other armed groups in Gaza as part of a broader peace initiative.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sean Payton wipes away tears after Drew Brees asks him for incredible Hall of Fame honor</title>
-      <link>https://www.foxnews.com/sports/sean-payton-wipes-away-tears-drew-brees-asks-incredible-hall-fame-honor</link>
-      <guid isPermaLink="false">300ba0b5d2e54a4f8592fac30b841c53a53a400b</guid>
-      <pubDate>Thu, 30 Jul 2026 22:40:31 GMT</pubDate>
-      <description><![CDATA[A FaceTime call from Drew Brees left Denver Broncos coach Sean Payton in tears after the quarterback asked him to present at his Hall of Fame induction.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hiker's unexplained death exposes deadly alcohol withdrawal risk many don't recognize</title>
-      <link>https://www.foxnews.com/health/hikers-unexplained-death-exposes-deadly-alcohol-withdrawal-risk-many-dont-recognize</link>
-      <guid isPermaLink="false">7a33698926bcfe8e01b842bc81174ac0d9489590</guid>
-      <pubDate>Thu, 30 Jul 2026 22:38:26 GMT</pubDate>
-      <description><![CDATA[Alcohol withdrawal seizures can strike 24 to 48 hours after the last drink, turning wilderness settings into life-threatening traps for heavy drinkers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Washington school district reviewing incident of employee making celebratory remark about Charlie Kirk's death</title>
-      <link>https://www.foxnews.com/media/washington-school-district-reviewing-incident-employee-making-celebratory-remark-about-charlie-kirks-death</link>
-      <guid isPermaLink="false">3f60cb9ec92dacb53b171ef48ac894d45ceddd03</guid>
-      <pubDate>Thu, 30 Jul 2026 22:00:11 GMT</pubDate>
-      <description><![CDATA[The Lake Washington School District says it launched a review after viral video captured a staff member apparently celebrating Charlie Kirk's assassination.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fox News Poll: GOP divisions shape Texas Senate race</title>
-      <link>https://www.foxnews.com/politics/fox-news-poll-gop-divisions-shape-texas-senate-race</link>
-      <guid isPermaLink="false">b12103f8b357fe3ff37e7e88982d82531b890f72</guid>
-      <pubDate>Thu, 30 Jul 2026 22:00:03 GMT</pubDate>
-      <description><![CDATA[Ken Paxton trails James Talarico by 3 points in the Texas Senate race as character concerns and a GOP unity gap reshape the 2026 midterm battle.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Pentagon fires back after Mark Kelly accuses Pete Hegseth of targeting women and Black military officers</title>
-      <link>https://www.foxnews.com/media/pentagon-fires-back-after-mark-kelly-accuses-pete-hegseth-targeting-women-black-military-officers</link>
-      <guid isPermaLink="false">bd5a6dede21d886e5561eecd00dbef4359624be6</guid>
-      <pubDate>Thu, 30 Jul 2026 21:59:04 GMT</pubDate>
-      <description><![CDATA[The Department of War rejected Sen. Mark Kelly's claims that Pete Hegseth targeted women and Black officers, citing merit-based promotion policies.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Former Auburn two-way star Bobby Hunt, Chiefs Super Bowl I starter, dead at 85</title>
-      <link>https://www.foxnews.com/sports/former-auburn-two-way-star-bobby-hunt-chiefs-super-bowl-starter-dead-85</link>
-      <guid isPermaLink="false">e1e3662821226bd42d0081be3d23b619aea5f734</guid>
-      <pubDate>Thu, 30 Jul 2026 21:55:04 GMT</pubDate>
-      <description><![CDATA[Bobby Hunt led the AFL with 10 interceptions the year he started at safety for the Kansas City Chiefs in their Super Bowl I loss to Green Bay.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>WNBA faces growing Sophie Cunningham movement as new rallies are set for Fever games in Oregon, Minnesota</title>
-      <link>https://www.foxnews.com/outkick-sports/wnba-faces-growing-sophie-cunningham-movement-rallies-set-fever-games-oregon-minnesota</link>
-      <guid isPermaLink="false">be3dccf611f5085b911e7ec707e2613416c6c973</guid>
-      <pubDate>Thu, 30 Jul 2026 21:55:02 GMT</pubDate>
-      <description><![CDATA[Rallies supporting Sophie Cunningham are planned outside WNBA arenas in Portland and Minneapolis after a chaotic Seattle game sparked national debate.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>President Trump pushes lawmakers on legislation as 'Protect College Sports Act' hangs on by a thread</title>
-      <link>https://www.foxnews.com/sports/president-trump-pushes-lawmakers-legislation-protect-college-sports-act-hangs-thread</link>
-      <guid isPermaLink="false">50a401abd1ab78c471ad12a2c65b56f035d25c2a</guid>
-      <pubDate>Thu, 30 Jul 2026 21:33:47 GMT</pubDate>
-      <description><![CDATA[Conference realignment caps, tampering penalties, and a $22.5 million retention pool were among the major sticking points in Senate negotiations.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Andy Burnham to give regional mayors share of income tax</title>
-      <link>https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c2fde99a69621020827de2edb0294f5ab296b279</guid>
-      <pubDate>Thu, 30 Jul 2026 21:32:09 GMT</pubDate>
-      <description><![CDATA[The prime minister says the move will give power to "every postcode" but critics say the plans lack detail.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump Education Department probes school after teacher allegedly required same-sex students to kiss</title>
-      <link>https://www.foxnews.com/media/trump-education-department-probes-school-teacher-allegedly-required-same-sex-students-kiss</link>
-      <guid isPermaLink="false">5d707e85b9254435ff39e01a1059dd17e3d607d7</guid>
-      <pubDate>Thu, 30 Jul 2026 21:32:03 GMT</pubDate>
-      <description><![CDATA[The Trump administration opened a federal investigation into Denver Public Schools after a teacher allegedly required same-sex students to kiss in class.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">017ace362f4b5e010869b506b6b5dfb6bd6c4a0f</guid>
       <pubDate>Thu, 30 Jul 2026 12:12:13 GMT</pubDate>
       <description><![CDATA[Super Typhoon Dolphin continues to strengthen as it slowly tracks northwest across the Western Pacific toward Asia, with the Joint Typhoon Warning Center reporting sustained winds of 160 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Summer storms swamped New York City, but sunshine looks to return to end July</title>
-      <link>https://www.foxweather.com/weather-news/summer-storms-swamp-nyc-sunshine-returns-kalshi</link>
-      <guid isPermaLink="false">aa82a67b44ca4cd70fe71e49b8a663556c3e9062</guid>
-      <pubDate>Wed, 29 Jul 2026 21:59:59 GMT</pubDate>
-      <description><![CDATA[After weeks of heavy rain and flash flooding, New York City's July rainfall has surged above average. With only days left in the month, here's what the forecast says about where the official total could finish.]]></description>
       <category>weather</category>
     </item>
   </channel>

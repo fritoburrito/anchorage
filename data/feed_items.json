@@ -1,5 +1,35 @@
 [
   {
+    "title": "Missing hiker found dead between 2 national parks after family receives strange Garmin satellite alert",
+    "link": "https://www.foxweather.com/weather-news/missing-hiker-found-dead-garmin-trail-popular-national-parks",
+    "description": "A man hiking between two popular national parks in the West was found dead nearly a week after being reported missing.",
+    "pubDate": "Fri, 31 Jul 2026 01:11:45 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Newscast \u2013 Thursday, July 30, 2026",
+    "link": "https://feeds.ktoo.org/link/20427/17396813/newscast-thursday-july-30-2026",
+    "description": "In this newscast: Juneau police have confirmed the identity of a man whose remains were discovered in a chest freezer last week at a home in Lemon Creek; Three people are dead after a fiery plane crash Tuesday night near McCarthy; A volunteer group freed a humpback whale that was entangled in a gillnet near Petersburg last night; Juneau veteran says he was denied First Amendment rights during July 4 parade; Members of the Alaska Legislature are asking the state Division of Elections to immediately retore the voter status of thousands of Alaskans the division deactivated based on outdated information; Hundreds of people gathered in Haines this weekend for the annual Southeast Alaska State Fair",
+    "pubDate": "Fri, 31 Jul 2026 00:59:05 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "KTOO",
+    "rank": 100
+  },
+  {
+    "title": "Homer cyclist raises funds for cancer research at bike-a-thon",
+    "link": "https://www.homernews.com/2026/07/30/homer-cyclist-raises-funds-for-cancer-research-at-bike-a-thon/",
+    "description": "Pam Borland will participate in her third Pan-Mass Challenge this weekend",
+    "pubDate": "Fri, 31 Jul 2026 00:30:00 GMT",
+    "category": "kenai",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
     "title": "Feds turn over Alaska hazardous waste management to state",
     "link": "https://alaskabeacon.com/briefs/feds-turn-over-alaska-hazardous-waste-management-to-state/",
     "description": "Alaska is now in charge of hazardous waste regulation in the state, a task that can be made more challenging by geographic remoteness. The U.S. Environmental Protection Agency on Wednesday officially transferred authority for hazardous waste regulation to the Alaska Department of Environmental Conservation. That makes Alaska the 49th state to be granted hazardous waste [\u2026]",
@@ -370,34 +400,174 @@
     "rank": 100
   },
   {
-    "title": "Alaska\u2019s Congressional delegation has abandoned U.S. veterans",
-    "link": "https://alaskabeacon.com/2026/07/29/alaskas-congressional-delegation-has-abandoned-u-s-veterans/",
-    "description": "It is a disgrace the way our congressional delegation has abandoned U.S. veterans. The Trump administration\u2019s Big Beautiful Bill, which Murkowski, Sullivan and Begich all voted for, gave more tax breaks to billionaires and large corporations, while at the same time squeezing the middle class and the poor. Among the casualties are U.S. veterans. In [\u2026]",
-    "pubDate": "Wed, 29 Jul 2026 22:00:32 GMT",
-    "category": "politics",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+    "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+    "description": "The rapper had been accused of sexually assaulting a woman after performing in Perth in 2024.",
+    "pubDate": "Fri, 31 Jul 2026 04:26:20 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
-    "title": "Summer storms swamped New York City, but sunshine looks to return to end July",
-    "link": "https://www.foxweather.com/weather-news/summer-storms-swamp-nyc-sunshine-returns-kalshi",
-    "description": "After weeks of heavy rain and flash flooding, New York City's July rainfall has surged above average. With only days left in the month, here's what the forecast says about where the official total could finish.",
-    "pubDate": "Wed, 29 Jul 2026 21:59:59 GMT",
+    "title": "Fifa says 'nobody selling football' as it presses ahead with investment plan",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+    "description": "Football's governing body plans to continue the consultation process after Uefa threatens to boycott World Cups.",
+    "pubDate": "Fri, 31 Jul 2026 04:17:06 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "49ers bring back Deebo Samuel to fill void left by Ricky Pearsall's knee injury: report",
+    "link": "https://www.foxnews.com/sports/49ers-bring-back-deebo-samuel-fill-void-left-ricky-pearsall-knee-injury-report",
+    "description": "Deebo Samuel agreed to a one-year deal worth up to $7 million to rejoin the San Francisco 49ers after Ricky Pearsall suffered a knee injury.",
+    "pubDate": "Fri, 31 Jul 2026 03:47:36 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+    "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+    "description": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+    "pubDate": "Fri, 31 Jul 2026 02:41:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Mystery stranger vanishes after family says frantic warning saved their lives during devastating house fire",
+    "link": "https://www.foxnews.com/us/mystery-stranger-vanishes-after-family-says-frantic-warning-saved-lives-during-devastating-house-fire",
+    "description": "The Las Vegas family is now searching for the unidentified hero they say woke them during a July 5 house fire they believe was caused by fireworks.",
+    "pubDate": "Fri, 31 Jul 2026 02:14:20 GMT",
     "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Anchorage woman killed in Northern Lights crash; two juveniles critically injured",
-    "link": "https://alaska-native-news.com/anchorage-woman-killed-in-northern-lights-crash-two-juveniles-critically-injured/85356/",
-    "description": "An early morning crash in Anchorage on July 28, 2026, claimed the life of 23-year-old Kylie Hoogendorn. According to the Anchorage Police Department, officers responded at approximately 12:02 a.m. to the intersection of East Northern Lights Boulevard and UAA Drive after receiving reports of a collision with injuries. Investigators determined that a GMC Sierra traveling [\u2026]",
-    "pubDate": "Wed, 29 Jul 2026 21:12:53 GMT",
-    "category": "anchorage",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Spain deploys military after thousands of migrants overwhelm border enclave, at least 9 dead",
+    "link": "https://www.foxnews.com/world/spain-deploys-military-after-thousands-migrants-overwhelm-border-enclave-least-9-dead",
+    "description": "Video shows thousands of migrants overwhelming Ceuta's Tarajal border as Spain deploys its military and at least nine people die during crossings.",
+    "pubDate": "Fri, 31 Jul 2026 01:35:41 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Rockets' Tari Eason says ex-girlfriend ruined $92K wardrobe with bleach, threatened to kill him in filing",
+    "link": "https://www.foxnews.com/outkick-sports/rockets-tari-eason-says-ex-girlfriend-ruined-92k-wardrobe-bleach-threatened-kill-filing",
+    "description": "Tari Eason alleges his ex-girlfriend punched him, poured bleach on $92,000 worth of designer clothing and threatened to kill him in court filings.",
+    "pubDate": "Fri, 31 Jul 2026 01:35:02 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Anthropic says Claude AI hacked three organisations during cyber tests",
+    "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+    "description": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+    "pubDate": "Fri, 31 Jul 2026 01:31:14 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Crews tackling Suffolk wildfire say they are in better position",
+    "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+    "description": "The Suffolk Fire and Rescue Service says \"the situation appears to be stabilising\" but at least 12 fire engines will remain on scene.",
+    "pubDate": "Fri, 31 Jul 2026 01:12:58 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Ex-CBS reporter claims questioning Fauci got her 'pulled off air' during COVID pandemic",
+    "link": "https://www.foxnews.com/media/ex-cbs-reporter-claims-questioning-fauci-got-her-pulled-off-air-during-covid-pandemic",
+    "description": "Former CBS News journalist Brittney Hopper claimed she was pulled off the air for questioning Dr. Anthony Fauci's recommendations during COVID-19.",
+    "pubDate": "Fri, 31 Jul 2026 01:04:47 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Falcons announce defensive coordinator Jeff Ulbrich's wife Cristina died after battle with cancer",
+    "link": "https://www.foxnews.com/sports/falcons-announce-defensive-coordinator-jeff-ulbrich-wife-cristina-died-battle-cancer",
+    "description": "Cristina Ulbrich, the wife of Falcons defensive coordinator Jeff Ulbrich, died Sunday after a courageous battle with cancer, the team announced.",
+    "pubDate": "Fri, 31 Jul 2026 00:53:34 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+    "description": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+    "pubDate": "Fri, 31 Jul 2026 00:52:54 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Nancy Guthrie update: DNA couldn't be profiled from crime scene hair sample, sheriff says",
+    "link": "https://www.foxnews.com/us/nancy-guthrie-update-dna-couldnt-profiled-crime-scene-hair-sample-sheriff-says",
+    "description": "DNA testing on a hair sample found in Nancy Guthrie's home returned no profile, but investigators say the sample may still prove valuable as the case continues.",
+    "pubDate": "Fri, 31 Jul 2026 00:51:59 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "GOP gubernatorial candidate fighting to flip blue state unveils healthcare plan to lower costs, expand access",
+    "link": "https://www.foxnews.com/politics/gop-gubernatorial-candidate-fighting-flip-blue-state-unveils-healthcare-plan-lower-costs-expand-access",
+    "description": "Massachusetts GOP hopeful Mike Minogue outlines a healthcare overhaul centered on innovation, outpatient care, mental health and cutting waste.",
+    "pubDate": "Fri, 31 Jul 2026 00:50:43 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "What your summer reading list says about you",
+    "link": "https://www.bbc.co.uk/news/articles/cd69glgl2jzo?at_medium=RSS&at_campaign=rss",
+    "description": "Just picked your holiday book? Our choices can subconsciously reveal important parts of our personality, studies show.",
+    "pubDate": "Fri, 31 Jul 2026 00:26:02 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Apple prices just went up \u2014 these refurbished MacBooks, iPads and Apple Watches cost far less",
+    "link": "https://www.foxnews.com/deals/refurbished-apple-deals",
+    "description": "Apple's recent price hikes make refurbished Apple devices an even better value. Shop MacBooks, iPads and Apple Watches from $142.",
+    "pubDate": "Fri, 31 Jul 2026 00:24:48 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Sen Mark Kelly warns far-left policies that \u2018don\u2019t make sense\u2019 could cost Democrats seats",
+    "link": "https://www.foxnews.com/media/sen-mark-kelly-warns-far-left-policies-dont-make-sense-cost-democrats-seats",
+    "description": "Sen. Mark Kelly said far-left calls to abolish police, eliminate prisons and defund the Pentagon are dragging down Democratic Party approval ratings.",
+    "pubDate": "Fri, 31 Jul 2026 00:15:27 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
@@ -430,190 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Chiefs' Eric Bieniemy's son won't face court until mental health evaluation after allegedly shooting mother",
-    "link": "https://www.foxnews.com/sports/chiefs-coordinator-eric-bieniemy-son-wont-face-court-until-mental-health-evaluation-after-shooting-mother",
-    "description": "Elijah Bieniemy's public defender argued he suffers from significant mental health issues after allegedly shooting his mother Mia at their Ashburn home.",
-    "pubDate": "Thu, 30 Jul 2026 23:51:26 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Renowned ex-Royal Marine Nirmal Purja among 10 climbers feared missing after avalanche",
-    "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-    "description": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
-    "pubDate": "Thu, 30 Jul 2026 23:37:47 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Father who bought AR-15 for Georgia school shooter learns fate in first-of-its-kind conviction",
-    "link": "https://www.foxnews.com/us/father-who-bought-ar-15-georgia-school-shooter-learns-fate-first-of-its-kind-conviction",
-    "description": "Colin Gray was sentenced to 15 years after a jury found he gave his son the AR-15 used in the Apalachee High School shooting despite mental health warnings.",
-    "pubDate": "Thu, 30 Jul 2026 23:22:57 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Carville says one democratic socialist's 'lunacy of the highest level' policy could haunt swing-state Dems",
-    "link": "https://www.foxnews.com/media/carville-democratic-socialist-lunacy-highest-level-policy-haunt-swing-state-dems",
-    "description": "James Carville warns that democratic socialist candidates in Michigan and Wisconsin primaries could taint the entire Democratic Party's image nationally.",
-    "pubDate": "Thu, 30 Jul 2026 23:15:04 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Former LSU star Demetrius Byrd arrested after allegedly pulling knife on bus: 'Who wants to die?'",
-    "link": "https://www.foxnews.com/sports/former-lsu-star-demetrius-byrd-arrested-allegedly-pulling-knife-bus-who-wants-die",
-    "description": "Former LSU wide receiver Demetrius Byrd faces an aggravated assault with a deadly weapon charge after allegedly brandishing a blade on a Miami bus.",
-    "pubDate": "Thu, 30 Jul 2026 23:14:10 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Jessica Simpson celebrates turning 46 in bikini and reveals her children have never seen her perform",
-    "link": "https://www.foxnews.com/entertainment/jessica-simpson-celebrates-turning-46-bikini-admits-children-never-seen-perform",
-    "description": "Jessica Simpson shared a bikini selfie while tanning on her 46th birthday, staying true to her self-described identity as a lifelong \"sun lover.\"",
-    "pubDate": "Thu, 30 Jul 2026 22:59:23 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Hamas agrees to complete disarmament under 'historic' Gaza agreement: Trump",
-    "link": "https://www.foxnews.com/politics/hamas-agrees-complete-disarmament-historic-gaza-agreement-trump",
-    "description": "President Donald Trump announced what he called a historic agreement to completely disarm Hamas and other armed groups in Gaza as part of a broader peace initiative.",
-    "pubDate": "Thu, 30 Jul 2026 22:43:46 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Sean Payton wipes away tears after Drew Brees asks him for incredible Hall of Fame honor",
-    "link": "https://www.foxnews.com/sports/sean-payton-wipes-away-tears-drew-brees-asks-incredible-hall-fame-honor",
-    "description": "A FaceTime call from Drew Brees left Denver Broncos coach Sean Payton in tears after the quarterback asked him to present at his Hall of Fame induction.",
-    "pubDate": "Thu, 30 Jul 2026 22:40:31 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Hiker's unexplained death exposes deadly alcohol withdrawal risk many don't recognize",
-    "link": "https://www.foxnews.com/health/hikers-unexplained-death-exposes-deadly-alcohol-withdrawal-risk-many-dont-recognize",
-    "description": "Alcohol withdrawal seizures can strike 24 to 48 hours after the last drink, turning wilderness settings into life-threatening traps for heavy drinkers.",
-    "pubDate": "Thu, 30 Jul 2026 22:38:26 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Washington school district reviewing incident of employee making celebratory remark about Charlie Kirk's death",
-    "link": "https://www.foxnews.com/media/washington-school-district-reviewing-incident-employee-making-celebratory-remark-about-charlie-kirks-death",
-    "description": "The Lake Washington School District says it launched a review after viral video captured a staff member apparently celebrating Charlie Kirk's assassination.",
-    "pubDate": "Thu, 30 Jul 2026 22:00:11 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Fox News Poll: GOP divisions shape Texas Senate race",
-    "link": "https://www.foxnews.com/politics/fox-news-poll-gop-divisions-shape-texas-senate-race",
-    "description": "Ken Paxton trails James Talarico by 3 points in the Texas Senate race as character concerns and a GOP unity gap reshape the 2026 midterm battle.",
-    "pubDate": "Thu, 30 Jul 2026 22:00:03 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Pentagon fires back after Mark Kelly accuses Pete Hegseth of targeting women and Black military officers",
-    "link": "https://www.foxnews.com/media/pentagon-fires-back-after-mark-kelly-accuses-pete-hegseth-targeting-women-black-military-officers",
-    "description": "The Department of War rejected Sen. Mark Kelly's claims that Pete Hegseth targeted women and Black officers, citing merit-based promotion policies.",
-    "pubDate": "Thu, 30 Jul 2026 21:59:04 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Former Auburn two-way star Bobby Hunt, Chiefs Super Bowl I starter, dead at 85",
-    "link": "https://www.foxnews.com/sports/former-auburn-two-way-star-bobby-hunt-chiefs-super-bowl-starter-dead-85",
-    "description": "Bobby Hunt led the AFL with 10 interceptions the year he started at safety for the Kansas City Chiefs in their Super Bowl I loss to Green Bay.",
-    "pubDate": "Thu, 30 Jul 2026 21:55:04 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "WNBA faces growing Sophie Cunningham movement as new rallies are set for Fever games in Oregon, Minnesota",
-    "link": "https://www.foxnews.com/outkick-sports/wnba-faces-growing-sophie-cunningham-movement-rallies-set-fever-games-oregon-minnesota",
-    "description": "Rallies supporting Sophie Cunningham are planned outside WNBA arenas in Portland and Minneapolis after a chaotic Seattle game sparked national debate.",
-    "pubDate": "Thu, 30 Jul 2026 21:55:02 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "President Trump pushes lawmakers on legislation as 'Protect College Sports Act' hangs on by a thread",
-    "link": "https://www.foxnews.com/sports/president-trump-pushes-lawmakers-legislation-protect-college-sports-act-hangs-thread",
-    "description": "Conference realignment caps, tampering penalties, and a $22.5 million retention pool were among the major sticking points in Senate negotiations.",
-    "pubDate": "Thu, 30 Jul 2026 21:33:47 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Andy Burnham to give regional mayors share of income tax",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
-    "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
-    "pubDate": "Thu, 30 Jul 2026 21:32:09 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Trump Education Department probes school after teacher allegedly required same-sex students to kiss",
-    "link": "https://www.foxnews.com/media/trump-education-department-probes-school-teacher-allegedly-required-same-sex-students-kiss",
-    "description": "The Trump administration opened a federal investigation into Denver Public Schools after a teacher allegedly required same-sex students to kiss in class.",
-    "pubDate": "Thu, 30 Jul 2026 21:32:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon - Mostly Sunny",
-    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "71\u00b0F. Wind W 10 mph. Mostly sunny, with a high near 71. West wind around 10 mph.",
-    "pubDate": "Fri, 31 Jul 2026 00:11:27 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "National Weather Service Anchorage",
-    "rank": 0
-  },
-  {
     "title": "Anchorage Weather: Tonight - Mostly Clear",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "55\u00b0F. Wind SW 0 to 10 mph. Mostly clear, with a low around 55. Southwest wind 0 to 10 mph.",
-    "pubDate": "Fri, 31 Jul 2026 00:11:27 GMT",
+    "description": "55\u00b0F. Wind S 0 to 10 mph. Mostly clear, with a low around 55. South wind 0 to 10 mph.",
+    "pubDate": "Fri, 31 Jul 2026 04:29:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +613,7 @@
     "title": "Anchorage Weather: Friday - Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "72\u00b0F. Wind NW 0 to 10 mph. Sunny, with a high near 72. Northwest wind 0 to 10 mph.",
-    "pubDate": "Fri, 31 Jul 2026 00:11:27 GMT",
+    "pubDate": "Fri, 31 Jul 2026 04:29:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +623,7 @@
     "title": "Anchorage Weather: Friday Night - Mostly Clear",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "55\u00b0F. Wind SW 5 to 10 mph. Mostly clear, with a low around 55. Southwest wind 5 to 10 mph.",
-    "pubDate": "Fri, 31 Jul 2026 00:11:27 GMT",
+    "pubDate": "Fri, 31 Jul 2026 04:29:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +633,17 @@
     "title": "Anchorage Weather: Saturday - Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "71\u00b0F. Wind SW 0 to 10 mph. Sunny, with a high near 71. Southwest wind 0 to 10 mph.",
-    "pubDate": "Fri, 31 Jul 2026 00:11:27 GMT",
+    "pubDate": "Fri, 31 Jul 2026 04:29:52 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "National Weather Service Anchorage",
+    "rank": 0
+  },
+  {
+    "title": "Anchorage Weather: Saturday Night - Mostly Clear",
+    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+    "description": "54\u00b0F. Wind SW 0 to 10 mph. Mostly clear, with a low around 54. Southwest wind 0 to 10 mph.",
+    "pubDate": "Fri, 31 Jul 2026 04:29:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
