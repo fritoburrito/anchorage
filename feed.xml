@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 14:23:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 16:52:16 GMT</lastBuildDate>
+    <item>
+      <title>How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record</title>
+      <link>https://www.bbc.co.uk/news/articles/cly8r2p27lzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ddfec3923fed433bb0729531123db5ee15cac252</guid>
+      <pubDate>Fri, 31 Jul 2026 16:52:16 GMT</pubDate>
+      <description><![CDATA[The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>El Niño continues to strengthen toward record territory two months into the Atlantic hurricane season</title>
       <link>https://www.foxweather.com/weather-news/el-nino-continues-strengthen-suppressing-chances-tropical-development-atlantic-basin</link>
@@ -26,15 +34,15 @@
       <title>Anchorage Weather: Today - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 31 Jul 2026 16:05:18 GMT</pubDate>
-      <description><![CDATA[75°F. Wind NW 0 to 10 mph. Sunny, with a high near 75. Northwest wind 0 to 10 mph.]]></description>
+      <pubDate>Fri, 31 Jul 2026 18:25:27 GMT</pubDate>
+      <description><![CDATA[75°F. Wind W 5 to 10 mph. Sunny, with a high near 75. West wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 31 Jul 2026 16:05:18 GMT</pubDate>
+      <pubDate>Fri, 31 Jul 2026 18:25:27 GMT</pubDate>
       <description><![CDATA[50°F. Wind SW 5 to 10 mph. Mostly clear, with a low around 50. Southwest wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +50,7 @@
       <title>Anchorage Weather: Saturday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 31 Jul 2026 16:05:18 GMT</pubDate>
+      <pubDate>Fri, 31 Jul 2026 18:25:27 GMT</pubDate>
       <description><![CDATA[73°F. Wind SW 0 to 15 mph. Sunny, with a high near 73. Southwest wind 0 to 15 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +58,7 @@
       <title>Anchorage Weather: Saturday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 31 Jul 2026 16:05:18 GMT</pubDate>
+      <pubDate>Fri, 31 Jul 2026 18:25:27 GMT</pubDate>
       <description><![CDATA[54°F. Wind SW 0 to 15 mph. Mostly clear, with a low around 54. Southwest wind 0 to 15 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,9 +66,25 @@
       <title>Anchorage Weather: Sunday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 31 Jul 2026 16:05:18 GMT</pubDate>
+      <pubDate>Fri, 31 Jul 2026 18:25:27 GMT</pubDate>
       <description><![CDATA[68°F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 68. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Legislature distributes unspent cruise ship tax funds; Homer to receive $125,000</title>
+      <link>https://www.homernews.com/2026/07/31/legislature-distributes-unspent-cruise-ship-tax-funds-homer-to-receive-125000/</link>
+      <guid isPermaLink="false">3aff84d740c1944dda0308534f32aeb514595a36</guid>
+      <pubDate>Fri, 31 Jul 2026 17:30:00 GMT</pubDate>
+      <description><![CDATA[The state collects a tax of $34.50 per passenger from cruise ships of more than 250 passengers]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Legislature distributes unspent cruise ship tax funds; Juneau to receive $6 million</title>
+      <link>https://www.juneauempire.com/2026/07/31/legislature-distributes-unspent-cruise-ship-tax-funds-juneau-to-receive-6-million/</link>
+      <guid isPermaLink="false">2185fe6205b3f5ef8c512829146bdaee0b727c0f</guid>
+      <pubDate>Fri, 31 Jul 2026 17:30:00 GMT</pubDate>
+      <description><![CDATA[The state collects a tax of $34.50 per passenger from cruise ships of more than 250 passengers]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Alaska Science Forum: Deep thawing soil will keep roads rough</title>
@@ -295,14 +319,6 @@
       <category>local</category>
     </item>
     <item>
-      <title>Body found inside freezer identified as Juneau man</title>
-      <link>https://www.juneauempire.com/2026/07/30/body-found-inside-freezer-identified-as-juneau-man/</link>
-      <guid isPermaLink="false">c3e6f21b5354e310ce33b73dbeea41fdeff3bd25</guid>
-      <pubDate>Thu, 30 Jul 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Remains stored for years in freezer on Glacier Highway property found to be those of Ross Pasquan]]></description>
-      <category>local</category>
-    </item>
-    <item>
       <title>Homer Pet of the Week: Panther</title>
       <link>https://www.homernews.com/2026/07/30/homer-pet-of-the-week-panther/</link>
       <guid isPermaLink="false">61438123a9605cb9be1c108dc6eaf9970f58234b</guid>
@@ -319,12 +335,148 @@
       <category>local</category>
     </item>
     <item>
-      <title>Awards shine spotlight on Homer’s top artists</title>
-      <link>https://www.homernews.com/2026/07/30/awards-shine-spotlight-on-homers-top-artists/</link>
-      <guid isPermaLink="false">c61a58331b9c48a9ff01ad41d1188b70c08f2ea3</guid>
-      <pubDate>Thu, 30 Jul 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Dave Webster picks up lifetime achievement award while Carla Klinker named artist of the year]]></description>
-      <category>local</category>
+      <title>Two more small boat pilots jailed for Channel crossings</title>
+      <link>https://www.bbc.co.uk/news/articles/cq6d8m1y3y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">61c2ec060118ef84069e98f5dc9f8867ed0849ad</guid>
+      <pubDate>Fri, 31 Jul 2026 18:14:49 GMT</pubDate>
+      <description><![CDATA[Both men admitted steering overcrowded vessels carrying more than 80 people each to the UK.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Professional surfer Arran Strong, 28, presumed dead after going missing of the coast of Portugal</title>
+      <link>https://www.foxnews.com/sports/professional-surfer-arran-strong-presumed-dead-missing-coast-portugal</link>
+      <guid isPermaLink="false">ce59c287558537250c47eb47700ab8ea7563bb0c</guid>
+      <pubDate>Fri, 31 Jul 2026 18:05:03 GMT</pubDate>
+      <description><![CDATA[Arran Strong, 28, vanished about a mile off Portugal's coast while crossing between beaches with his coach and is presumed dead after a four-day search.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Brittney Griner files for divorce from wife of 7 years who fought for her release from Russia</title>
+      <link>https://www.foxnews.com/sports/brittney-griner-files-divorce-wife-release-russia</link>
+      <guid isPermaLink="false">b27283a75158f1d20d3ae4496c8dca877dbf4980</guid>
+      <pubDate>Fri, 31 Jul 2026 17:49:06 GMT</pubDate>
+      <description><![CDATA[Brittney Griner filed for divorce from Cherelle Griner, who helped get the WNBA star out of a Russian prison, saying the marriage is "irretrievably broken."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Google pauses AI satellite images, after fears of deepfakes in the sky</title>
+      <link>https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky</link>
+      <guid isPermaLink="false">982ae88045bd9534a6ebac7064d9263c4ebc69ed</guid>
+      <pubDate>Fri, 31 Jul 2026 17:48:26 GMT</pubDate>
+      <description><![CDATA[Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: "The opportunities for abuse and disinfo are literally boundless," said one.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>American Red Cross declares national blood crisis as type O supply drops to dangerous levels</title>
+      <link>https://www.foxnews.com/health/american-red-cross-declares-national-blood-crisis-type-o-supply-drops-dangerous-levels</link>
+      <guid isPermaLink="false">4c8c28df6764ed3ff8812b9cd43c122f511b5ed2</guid>
+      <pubDate>Fri, 31 Jul 2026 17:45:15 GMT</pubDate>
+      <description><![CDATA[The American Red Cross declared a blood crisis across the nation as donations hit a four-year summer low, forcing limits on type O blood distributions to hospitals.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">95f29731f96dc1363d00d717a4bd8239f3e3e2d4</guid>
+      <pubDate>Fri, 31 Jul 2026 17:45:11 GMT</pubDate>
+      <description><![CDATA[Fifa's chief operating officer strongly criticises Gianni Infantino's plan to sell stakes in competitions to private investors.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Washington Post opinion editor to exit paper after just one year, staff completely 'blindsided'</title>
+      <link>https://www.foxnews.com/media/washington-post-opinion-editor-exit-paper-one-year-staff-blindsided</link>
+      <guid isPermaLink="false">08381df3b9a5ca3f1cd2e9c7d69279bb41f622aa</guid>
+      <pubDate>Fri, 31 Jul 2026 17:45:07 GMT</pubDate>
+      <description><![CDATA[A source says Post leadership was "blindsided" by Adam O'Neal's exit after he reshaped the opinion section to champion free markets and liberties.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Michigan hospital pays $410K to settle lawsuit by physician assistant fired over transgender policy</title>
+      <link>https://www.foxnews.com/media/michigan-hospital-pays-410k-settle-lawsuit-physician-assistant-fired-transgender-policy</link>
+      <guid isPermaLink="false">e9e0c4ca8784426831f2c9a21ca838325953417f</guid>
+      <pubDate>Fri, 31 Jul 2026 17:36:38 GMT</pubDate>
+      <description><![CDATA[Valerie Kloosterman says she was fired three weeks after requesting a religious accommodation from mandatory gender identity training at the hospital.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Fauci faces lifetime ban from federal government work under new bill following explosive hearing</title>
+      <link>https://www.foxnews.com/politics/fauci-faces-lifetime-ban-from-federal-government-work-under-new-bill-following-explosive-hearing</link>
+      <guid isPermaLink="false">661bf2fccaa15ced8d722298cba3f054dd9bef9a</guid>
+      <pubDate>Fri, 31 Jul 2026 17:35:49 GMT</pubDate>
+      <description><![CDATA[Rep. Rich McCormick's bill could ban Anthony Fauci from federal employment after he invoked the Fifth Amendment over 100 times before Rand Paul.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Internet erupts over report that Platner's replacement in key Senate race fathered children with second cousin</title>
+      <link>https://www.foxnews.com/politics/internet-erupts-report-platners-replacement-key-senate-race-fathered-children-second-cousin</link>
+      <guid isPermaLink="false">648f42fc247373f74fd975f1ae33f24996ab125a</guid>
+      <pubDate>Fri, 31 Jul 2026 17:33:13 GMT</pubDate>
+      <description><![CDATA[Troy Jackson, who replaced Graham Platner on the Maine ballot, fathered two children with his second cousin, sparking fierce social media reaction.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Country singer Ruston Kelly commits to sobriety after relapsing on drugs following freak golf cart crash</title>
+      <link>https://www.foxnews.com/entertainment/country-singer-ruston-kelly-commits-sobriety-after-relapsing-drugs-following-freak-golf-cart-crash</link>
+      <guid isPermaLink="false">ad6866a6c47b51a182224d75fa287f1353df2e75</guid>
+      <pubDate>Fri, 31 Jul 2026 17:32:22 GMT</pubDate>
+      <description><![CDATA[Ruston Kelly reveals he relapsed after a golf cart accident left him with a broken arm and a month-long Percocet prescription that spiraled quickly.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b77056b3f0a1ebb1986438ddf3fe9377cd9a205d</guid>
+      <pubDate>Fri, 31 Jul 2026 17:03:47 GMT</pubDate>
+      <description><![CDATA[Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Top Wisconsin Democratic socialist candidate confronted on past 'defund police' rhetoric</title>
+      <link>https://www.foxnews.com/media/wisconsin-democratic-socialist-candidate-forced-address-past-police-abolition-posts-live-tv</link>
+      <guid isPermaLink="false">b9e5d1d19d1198a68c6b672fea23e35fe8260054</guid>
+      <pubDate>Fri, 31 Jul 2026 17:00:31 GMT</pubDate>
+      <description><![CDATA[Francesca Hong confirmed her DSA membership since 2020 but says her views on police abolition have evolved since her earlier social media posts.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump blasts Spain migrant surge as 'catastrophe,' warns US could face worse if Democrats regain power</title>
+      <link>https://www.foxnews.com/politics/trump-blasts-spain-migrant-surge-catastrophe-warns-us-could-face-worse-democrats-regain-power</link>
+      <guid isPermaLink="false">e913b29a2596e7124f059da5b584a6c3897f5f3e</guid>
+      <pubDate>Fri, 31 Jul 2026 16:42:27 GMT</pubDate>
+      <description><![CDATA[President Donald Trump said during a Cabinet meeting that similar scenes of migrants flooding into Spain could play out in the U.S. if Democrats gain power.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Two bodies located and search ongoing after avalanche hits Nirmal Purja's team</title>
+      <link>https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">45cd353ca3801b28b70f0d31a186b26b2f6fd869</guid>
+      <pubDate>Fri, 31 Jul 2026 16:41:59 GMT</pubDate>
+      <description><![CDATA[Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>No sentence long enough for jailed funeral director Robert Bush, say families</title>
+      <link>https://www.bbc.co.uk/news/articles/cre4nlez9nyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">954a8f9a5375e74c603f8f56a6d67499745a9114</guid>
+      <pubDate>Fri, 31 Jul 2026 16:40:45 GMT</pubDate>
+      <description><![CDATA[Families give their reaction to the 20-year sentence handed to Robert Bush.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Parents sue school over 'inhumane' calming rooms after BBC report</title>
+      <link>https://www.bbc.co.uk/news/articles/cq89757z9vyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d04c054bb626c2b9f31ef0bc1e08140ea4f7c4ff</guid>
+      <pubDate>Fri, 31 Jul 2026 16:29:00 GMT</pubDate>
+      <description><![CDATA[Ten families are claiming their children were amongst those harmed by their treatment in the rooms.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Burnham faces criticism over plans for mayors to get share of income tax</title>
+      <link>https://www.bbc.co.uk/news/articles/cwyr1w8r2y2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">059aa299660657aa84316e1e41fbb0324b5cbeb8</guid>
+      <pubDate>Fri, 31 Jul 2026 16:13:26 GMT</pubDate>
+      <description><![CDATA[Tory mayor Lord Houchen wants to offer a rebate, but the prime minister says it should be reinvested in communities.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Budget to be held in October, Healey announces</title>
@@ -335,164 +487,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Details on Giants outfielder's scooter crash take bizarre twist as team announces he will miss rest of season</title>
-      <link>https://www.foxnews.com/sports/giants-outfielder-scooter-crash-bizarre-twist-miss-rest-season</link>
-      <guid isPermaLink="false">e7a2d926f023817ca58f49870ea622bae42caf6d</guid>
-      <pubDate>Fri, 31 Jul 2026 15:54:39 GMT</pubDate>
-      <description><![CDATA[New details reveal Harrison Bader's scooter accident occurred at 1:50 a.m. after visiting multiple bars, marking his second scooter crash in his career.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Disgraced funeral boss who failed to bury bodies jailed for 20 years</title>
-      <link>https://www.bbc.co.uk/news/articles/ckg35errde5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2fa5cc424290f4dc530a1533b5dd5a516ebdf892</guid>
-      <pubDate>Fri, 31 Jul 2026 15:49:22 GMT</pubDate>
-      <description><![CDATA[Robert Bush also failed to cremate people and gave bereaved relatives the ashes of strangers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fox News AI Newsletter: AI models accessed systems of 3 real organizations, company reveals</title>
-      <link>https://www.foxnews.com/tech/ai-newsletter-models-accessed-systems-3-real-organizations-company-reveals</link>
-      <guid isPermaLink="false">6fb55ada90e2ae6d6117acb4e73db083537949fd</guid>
-      <pubDate>Fri, 31 Jul 2026 15:46:00 GMT</pubDate>
-      <description><![CDATA[Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Smithsonian America 250 exhibit features 3x more liberal items than conservative ones</title>
-      <link>https://www.foxnews.com/politics/smithsonian-america-250-exhibit-features-3x-more-liberal-items-than-conservative-ones</link>
-      <guid isPermaLink="false">dd30b22cf4588c722f8fc127fd291c8f9f3238ea</guid>
-      <pubDate>Fri, 31 Jul 2026 15:44:21 GMT</pubDate>
-      <description><![CDATA[The Smithsonian's America 250th anniversary exhibit features nearly two dozen items for liberal causes but just seven representing conservatism.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Yordan Alvarez's 12-for-25 record against Nathan Eovaldi looms large in Rangers-Astros matchup</title>
-      <link>https://www.foxnews.com/outkick-sports/yordan-alvarez-12-for-25-record-nathan-eovaldi-looms-large-rangers-astros-matchup</link>
-      <guid isPermaLink="false">bb93cc4b0ece35950a4b86aaaaa489faa74e5b33</guid>
-      <pubDate>Fri, 31 Jul 2026 15:43:38 GMT</pubDate>
-      <description><![CDATA[Nathan Eovaldi takes the mound for the Texas Rangers against Hunter Brown and the Houston Astros in a pivotal American League West division clash.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>England and Wales on course for driest July on record</title>
-      <link>https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4b15df3babb0c9c29fca587b92f121dae25fb80d</guid>
-      <pubDate>Fri, 31 Jul 2026 15:37:17 GMT</pubDate>
-      <description><![CDATA[Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nancy Guthrie case: Sheriff says no one is permanently ruled out as detained man prepares lawsuit</title>
-      <link>https://www.foxnews.com/us/nancy-guthrie-case-sheriff-says-no-one-permanently-ruled-out-detained-man-prepares-lawsuit</link>
-      <guid isPermaLink="false">40d04683d325f99993c7c15793f3914c9339f190</guid>
-      <pubDate>Fri, 31 Jul 2026 15:35:35 GMT</pubDate>
-      <description><![CDATA[Pima County Sheriff Chris Nanos says a judge approved the probable cause warrant before Carlos Palazuelos was detained in the Nancy Guthrie case.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Democratic Socialists of America activists signed pledge to support, defend 'Chinese socialism'</title>
-      <link>https://www.foxnews.com/politics/democratic-socialists-america-activists-signed-pledge-support-defend-chinese-socialism</link>
-      <guid isPermaLink="false">6cdecf4fde2426fe0de98e6095985f687b4dfac6</guid>
-      <pubDate>Fri, 31 Jul 2026 15:34:58 GMT</pubDate>
-      <description><![CDATA[People with self-described Democratic Socialists of America ties signed on to support a pro-China statement that extols "Chinese socialism."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>DAVID MARCUS: America needs a museum for COVID madness</title>
-      <link>https://www.foxnews.com/opinion/david-marcus-america-needs-museum-covid-madness</link>
-      <guid isPermaLink="false">493ffe9f9b662f31909b08767106c89fac38da14</guid>
-      <pubDate>Fri, 31 Jul 2026 15:25:02 GMT</pubDate>
-      <description><![CDATA[A proposed Museum of the COVID Lockdowns would memorialize everything from nursing home deaths to remote learning failures and church closures.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Karl Ravech stuns MLB fans by returning to ESPN booth weeks after being laid off</title>
-      <link>https://www.foxnews.com/outkick-sports/karl-ravech-stuns-mlb-fans-returning-espn-booth-weeks-laid-off</link>
-      <guid isPermaLink="false">a8d926fc9ebf37b89d5529980b7a08dadc143ff7</guid>
-      <pubDate>Fri, 31 Jul 2026 15:23:26 GMT</pubDate>
-      <description><![CDATA[Karl Ravech returned to ESPN's booth for the Nationals-Braves game days after reportedly being laid off, and sources say more assignments are coming.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza</title>
-      <link>https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ec62d291055f55a2d71806153b2de4df42c3a4d0</guid>
-      <pubDate>Fri, 31 Jul 2026 15:18:31 GMT</pubDate>
-      <description><![CDATA[The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Liberal court stuns with ruling that hands Trump major immigration win</title>
-      <link>https://www.foxnews.com/politics/liberal-court-stuns-ruling-hands-trump-major-immigration-win</link>
-      <guid isPermaLink="false">ec8d9c8272fc1da61005ff6e3f48c0bea8e78f9e</guid>
-      <pubDate>Fri, 31 Jul 2026 15:15:48 GMT</pubDate>
-      <description><![CDATA[A liberal-leaning First Circuit panel reversed two district court orders blocking Trump's TPS termination for South Sudan and Ethiopia migrants.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Murdaugh defense says newly disclosed reserve DNA samples should go to Othram before state analysis</title>
-      <link>https://www.foxnews.com/us/murdaugh-defense-newly-disclosed-reserve-dna-samples-othram-state-analysis</link>
-      <guid isPermaLink="false">5009d7af53598b4b6a25cb0141d3da7c42542564</guid>
-      <pubDate>Fri, 31 Jul 2026 15:15:18 GMT</pubDate>
-      <description><![CDATA[Alex Murdaugh's attorneys argue SLED's proposed STR testing could destroy reserve DNA samples before Othram Inc. conducts independent SNP analysis.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Puberty blockers trial can start recruiting children after judge rejects legal challenge</title>
-      <link>https://www.bbc.co.uk/news/articles/c0jl4np49w1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a080600dfc7078e9723e9daa46e369a9e99c0283</guid>
-      <pubDate>Fri, 31 Jul 2026 15:09:57 GMT</pubDate>
-      <description><![CDATA[Campaigners brought the legal action to try and stop the trial going ahead.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Keeping cool without AC: Our readers share their tips</title>
-      <link>https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool</link>
-      <guid isPermaLink="false">a60e447e41433ce50be73a6bf9cc15f8d16ed78f</guid>
-      <pubDate>Fri, 31 Jul 2026 14:44:47 GMT</pubDate>
-      <description><![CDATA[We asked our readers to tell us how they've fended off heat without the refrigerant blasts of an air conditioner. Here's what they shared.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hundreds escape Greek wildfire by sea as blazes continue across Europe</title>
-      <link>https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">740cdc090301437198c4208e9349d2241ef67e65</guid>
-      <pubDate>Fri, 31 Jul 2026 14:26:07 GMT</pubDate>
-      <description><![CDATA[Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Bryan Norcross: The midsummer tropical nap continues though there are hints it might wake up</title>
       <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-july-31-2026</link>
       <guid isPermaLink="false">dd81e1af8a649244bffb9890d7c4303f15f52252</guid>
       <pubDate>Fri, 31 Jul 2026 13:59:19 GMT</pubDate>
       <description><![CDATA[There are no signs of any tropical development well into August, but there are early signs that the eastern Atlantic might become more hospitable to disturbances moving off Africa around the middle of the month.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>In Nebraska, Americans begin to lose Medicaid under Trump's work rules</title>
-      <link>https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska</link>
-      <guid isPermaLink="false">b58b7beb79e6f701b31474f3880b2b0b0f17b891</guid>
-      <pubDate>Fri, 31 Jul 2026 13:22:40 GMT</pubDate>
-      <description><![CDATA[Nebraska's Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs, said roughly 200 people will lose health coverage on Aug. 1.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Red Sox fans beg team to trade 'toxic' Jarren Duran after yet another embarrassing incident</title>
-      <link>https://www.foxnews.com/outkick-sports/red-sox-fans-beg-team-trade-toxic-jarren-duran-after-yet-another-embarrassing-incident</link>
-      <guid isPermaLink="false">334389e5b10296d1eb48ef7752ae434f9393b859</guid>
-      <pubDate>Fri, 31 Jul 2026 12:50:43 GMT</pubDate>
-      <description><![CDATA[Jarren Duran's dugout blowup over Willson Contreras not scoring adds to a long list of incidents as the MLB trade deadline approaches for Boston.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sainsbury's agrees to sell Argos for £120m</title>
-      <link>https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">37485cbc405af5ac0ffcf74d9ca3982279fd8d05</guid>
-      <pubDate>Fri, 31 Jul 2026 12:42:22 GMT</pubDate>
-      <description><![CDATA[Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Will wet weather dampen Lollapalooza and how much rain will Chicago receive?</title>
