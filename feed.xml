@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 14:23:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:51:46 GMT</lastBuildDate>
+    <item>
+      <title>Italy putting nearly all major cities on highest heat alert</title>
+      <link>https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">604cac9ea13c3b39209388c0d387dbfa43099eae</guid>
+      <pubDate>Sat, 01 Aug 2026 17:51:46 GMT</pubDate>
+      <description><![CDATA[Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>El Niño continues to strengthen toward record territory two months into the Atlantic hurricane season</title>
       <link>https://www.foxweather.com/weather-news/el-nino-continues-strengthen-suppressing-chances-tropical-development-atlantic-basin</link>
@@ -23,18 +31,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Today - Mostly Sunny</title>
+      <title>Anchorage Weather: Today - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 01 Aug 2026 18:04:50 GMT</pubDate>
-      <description><![CDATA[72°F. Wind W 0 to 10 mph. Mostly sunny, with a high near 72. West wind 0 to 10 mph.]]></description>
+      <pubDate>Sat, 01 Aug 2026 20:13:04 GMT</pubDate>
+      <description><![CDATA[72°F. Wind W 5 to 10 mph. Sunny, with a high near 72. West wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 01 Aug 2026 18:04:50 GMT</pubDate>
+      <pubDate>Sat, 01 Aug 2026 20:13:04 GMT</pubDate>
       <description><![CDATA[54°F. Wind SW 0 to 10 mph. Mostly clear, with a low around 54. Southwest wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +50,7 @@
       <title>Anchorage Weather: Sunday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 01 Aug 2026 18:04:50 GMT</pubDate>
+      <pubDate>Sat, 01 Aug 2026 20:13:04 GMT</pubDate>
       <description><![CDATA[69°F. Wind SW 0 to 5 mph. Sunny, with a high near 69. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +58,7 @@
       <title>Anchorage Weather: Sunday Night - Mostly Cloudy then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 01 Aug 2026 18:04:50 GMT</pubDate>
+      <pubDate>Sat, 01 Aug 2026 20:13:04 GMT</pubDate>
       <description><![CDATA[53°F. Wind S 0 to 10 mph. A chance of rain after 1am. Mostly cloudy, with a low around 53. South wind 0 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -58,9 +66,17 @@
       <title>Anchorage Weather: Monday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 01 Aug 2026 18:04:50 GMT</pubDate>
+      <pubDate>Sat, 01 Aug 2026 20:13:04 GMT</pubDate>
       <description><![CDATA[64°F. Wind SE 10 to 15 mph. Rain. Cloudy, with a high near 64. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>MY TURN: Together for Alaska’s oceans – building the next generation</title>
+      <link>https://www.homernews.com/2026/08/01/my-turn-together-for-alaskas-oceans-building-the-next-generation/</link>
+      <guid isPermaLink="false">08e296f2ebb93e9758b4b0f873232e42604fb5e3</guid>
+      <pubDate>Sat, 01 Aug 2026 19:30:00 GMT</pubDate>
+      <description><![CDATA[Some of the most meaningful things we build are born from our greatest challenges. Nearly three decades ago, Alaskans chose to invest in hope, creating an institution that continues to serve our state through science, education, wildlife response, and community.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>LETTER: Senator Sullivan making a difference in Southeast Alaska</title>
@@ -311,12 +327,100 @@
       <category>local</category>
     </item>
     <item>
-      <title>Feds turn over Alaska hazardous waste management to state</title>
-      <link>https://alaskabeacon.com/briefs/feds-turn-over-alaska-hazardous-waste-management-to-state/</link>
-      <guid isPermaLink="false">9a5396b436d419e7c0f028bc8a88d35928285ce9</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:49 GMT</pubDate>
-      <description><![CDATA[Alaska is now in charge of hazardous waste regulation in the state, a task that can be made more challenging by geographic remoteness. The U.S. Environmental Protection Agency on Wednesday officially transferred authority for hazardous waste regulation to the Alaska Department of Environmental Conservation. That makes Alaska the 49th state to be granted hazardous waste […]]]></description>
-      <category>local</category>
+      <title>Calvin Ridley recalls fast-casual Mexican meal before offseason stomach bug knocked him out</title>
+      <link>https://www.foxnews.com/outkick-sports/calvin-ridley-recalls-fast-casual-mexican-meal-offseason-stomach-bug-knocked-him-out</link>
+      <guid isPermaLink="false">cb09bd172ca5e8dccb29fe3587ca19ce3d05d2af</guid>
+      <pubDate>Sat, 01 Aug 2026 19:50:44 GMT</pubDate>
+      <description><![CDATA[Calvin Ridley says he lost 15 pounds in 24 hours from a stomach bug he blames on Chipotle, though the chain has no link to Cyclospora cases.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bill Maher breaks with the left to hammer Anthony Fauci after explosive Senate hearing</title>
+      <link>https://www.foxnews.com/media/bill-maher-breaks-left-hammer-anthony-fauci-explosive-senate-hearing</link>
+      <guid isPermaLink="false">233647870c2502e7c3a71176f63fed2d43dbab5b</guid>
+      <pubDate>Sat, 01 Aug 2026 19:46:15 GMT</pubDate>
+      <description><![CDATA[Bill Maher accused Anthony Fauci of telling "actual lies" about COVID-19 origins, saying the lab leak theory was silenced over racial politics.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Trump says he 'disagrees 100%' with U.S. Attorney Jeanine Pirro over Reflecting Pool case</title>
+      <link>https://www.foxnews.com/politics/trump-disagrees-100-percent-us-attorney-jeanine-pirro-reflecting-pool-case</link>
+      <guid isPermaLink="false">70cf91f857c9e0c306d1ab7df259cc880ae60f84</guid>
+      <pubDate>Sat, 01 Aug 2026 19:44:05 GMT</pubDate>
+      <description><![CDATA[Trump publicly broke with U.S. Attorney Jeanine Pirro on Truth Social, calling Lincoln Memorial Reflecting Pool damage a case of "VANDALISM."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Heidi Klum shows off figure during yacht trip after revealing her husband told her to 'eat more'</title>
+      <link>https://www.foxnews.com/entertainment/heidi-klum-shows-off-figure-during-yacht-trip-after-revealing-husband-told-her-eat-more</link>
+      <guid isPermaLink="false">5609ad7977a3cf6961915d3caa72fe1efa1d6e1b</guid>
+      <pubDate>Sat, 01 Aug 2026 19:36:07 GMT</pubDate>
+      <description><![CDATA[Heidi Klum and daughter Leni Klum stun in bikinis on a St. Barts yacht, weeks after the supermodel revealed why she refuses GLP-1 weight loss drugs.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Three killed in Moscow restaurant explosion</title>
+      <link>https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">de5af23a6b216faf9fded3210ce240861d80faa8</guid>
+      <pubDate>Sat, 01 Aug 2026 19:34:09 GMT</pubDate>
+      <description><![CDATA[The deadly blast took place in a venue near the centre of the city, but the cause is currently unclear.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Baby boomers hate 10 things about today's grocery stores</title>
+      <link>https://www.foxnews.com/food-drink/baby-boomers-hate-10-things-todays-grocery-stores</link>
+      <guid isPermaLink="false">79d3635bfa4fd422e5dacca71a6e662152936fe3</guid>
+      <pubDate>Sat, 01 Aug 2026 19:29:42 GMT</pubDate>
+      <description><![CDATA[From self-checkout frustrations to digital coupons and understaffing, baby boomers have strong opinions about how modern grocery stores have changed.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fans stunned at Travis Kelce's training camp physique after nuptials to Taylor Swift</title>
+      <link>https://www.foxnews.com/sports/fans-stunned-travis-kelce-training-camp-physique-nuptials-taylor-swift</link>
+      <guid isPermaLink="false">ae3db0119a7be50383380ece93008d4b777173b5</guid>
+      <pubDate>Sat, 01 Aug 2026 19:28:00 GMT</pubDate>
+      <description><![CDATA[Fans poke fun at Travis Kelce's physique after videos of the Kansas City Chiefs star at training camp surface online just weeks after he married Taylor Swift.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Assisted living sent resident to doctor's appointment after giving him 18 shots, 5 am beer: officials</title>
+      <link>https://www.foxnews.com/us/assisted-living-sent-resident-doctors-appointment-after-giving-him-18-shots-5-am-beer-officials</link>
+      <guid isPermaLink="false">38830644c60a2ced5eeb11bce90f353f450f31db</guid>
+      <pubDate>Sat, 01 Aug 2026 19:21:45 GMT</pubDate>
+      <description><![CDATA[State investigators claim a Minnesota assisted living facility gave a mentally ill resident 18 shots of liquor in 24 hours before a telehealth appointment.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Mamdani extends deadline for NYC homeowners to seek exemption from new pied-à-terre tax</title>
+      <link>https://www.foxnews.com/politics/mamdani-extends-deadline-nyc-homeowners-seek-exemption-from-new-pied-a-terre-tax</link>
+      <guid isPermaLink="false">374424a1d5bc06344377750eee801cb5cd3f4f60</guid>
+      <pubDate>Sat, 01 Aug 2026 19:21:32 GMT</pubDate>
+      <description><![CDATA[The pied-a-terre tax sparked confusion after 900,000 properties appeared on a supplemental roll, but only 17,000 homeowners received surcharge letters.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Father of slain Marine speaks out after illegal immigrant who killed son faces third deportation</title>
+      <link>https://www.foxnews.com/us/father-slain-marine-speaks-illegal-immigrant-killed-son-faces-third-deportation</link>
+      <guid isPermaLink="false">09e073d0d8ff98cdea97f5ca838879b1db792f50</guid>
+      <pubDate>Sat, 01 Aug 2026 19:16:13 GMT</pubDate>
+      <description><![CDATA[Martin Martinez-Ballinas, arrested five times before the fatal motorcycle crash, now faces a third deportation after illegally reentering the U.S.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>No cure, no vaccine: Experts warn of rare Bourbon virus after first NY case</title>
+      <link>https://www.foxnews.com/health/no-cure-no-vaccine-experts-warn-rare-bourbon-virus-after-first-ny-case</link>
+      <guid isPermaLink="false">3ba1582f429319e93973f13b51b39873c5cc63aa</guid>
+      <pubDate>Sat, 01 Aug 2026 19:14:59 GMT</pubDate>
+      <description><![CDATA[A Long Island patient was hospitalized after researchers confirmed the first Bourbon virus case in New York, transmitted by the common lone star tick.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge</title>
+      <link>https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants</link>
+      <guid isPermaLink="false">09b68f1e22cf7ab0a1abbbe1f1a7f190ddfe5897</guid>
+      <pubDate>Sat, 01 Aug 2026 18:33:27 GMT</pubDate>
+      <description><![CDATA[The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Giants’ Harrison Bader sees scooter accident take a drastic turn as team suspends pay on $20.5M contract</title>
@@ -380,110 +484,6 @@
       <guid isPermaLink="false">ced530318b9b3265f67dbddcf3fef92613d4f43c</guid>
       <pubDate>Sat, 01 Aug 2026 17:07:46 GMT</pubDate>
       <description><![CDATA[The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Houston Texans 2025 win total set at 9.5 as CJ Stroud faces questions about offensive line</title>
-      <link>https://www.foxnews.com/sports/houston-texans-2025-win-total-set-9-5-cj-stroud-faces-questions-offensive-line</link>
-      <guid isPermaLink="false">3aee33433d493a9a1bea5eb49ea4c2a3032719ca</guid>
-      <pubDate>Sat, 01 Aug 2026 17:02:54 GMT</pubDate>
-      <description><![CDATA[The Houston Texans posted a 12-5 record last season, but an unaddressed offensive line problem raises questions about their 2024 Super Bowl hopes.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Paul Skenes caps awful month with another brutal start, and an alarming stat has MLB fans concerned</title>
-      <link>https://www.foxnews.com/outkick-sports/paul-skenes-caps-awful-month-brutal-start-alarming-stat-mlb-fans-concerned</link>
-      <guid isPermaLink="false">38aeef68092c7ab2f487e49f5b8d8ebf7be741cf</guid>
-      <pubDate>Sat, 01 Aug 2026 16:49:07 GMT</pubDate>
-      <description><![CDATA[Paul Skenes hasn't topped 98 MPH in his last four starts after doing so nearly 900 times last year, and his ERA has ballooned to 3.90 this season.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nicki Minaj torches Anthony Fauci in mock diary video after explosive Senate appearance</title>
-      <link>https://www.foxnews.com/entertainment/nicki-minaj-torches-anthony-fauci-mock-diary-video-after-explosive-senate-appearance</link>
-      <guid isPermaLink="false">b79c34b8f35a60803fc06892d7e3110c20d48937</guid>
-      <pubDate>Sat, 01 Aug 2026 16:36:07 GMT</pubDate>
-      <description><![CDATA[Nicki Minaj shared a satirical video mocking Anthony Fauci's diary entries days after he invoked the Fifth Amendment over 100 times at a Senate hearing.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Sophie Cunningham supporters rallied outside in Portland while liberal fans booed her inside</title>
-      <link>https://www.foxnews.com/outkick-sports/sophie-cunningham-supporters-rallied-outside-portland-liberal-fans-booed-inside</link>
-      <guid isPermaLink="false">3513f1b37cc822412360fd4c41f175d821f541f0</guid>
-      <pubDate>Sat, 01 Aug 2026 16:31:24 GMT</pubDate>
-      <description><![CDATA[Dozens rallied outside Portland's Moda Center in support of Sophie Cunningham's stance on women's sports as trans supporters clashed nearby.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Humanoid robot skin senses people before contact</title>
-      <link>https://www.foxnews.com/tech/humanoid-robot-skin-senses-people-before-contact</link>
-      <guid isPermaLink="false">9a5411fa20fe3c52ba0e755b8469c33f9f96b93e</guid>
-      <pubDate>Sat, 01 Aug 2026 16:30:40 GMT</pubDate>
-      <description><![CDATA[Gene.01's sensor-filled smart skin detects workers before contact occurs, but Generative Bionics has yet to release detailed workplace safety data.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Reporter's Notebook: Why Fauci's 111 Fifth Amendment pleas could end up before the courts</title>
-      <link>https://www.foxnews.com/politics/reporters-notebook-why-faucis-111-fifth-amendment-pleas-could-end-up-before-courts</link>
-      <guid isPermaLink="false">e4e3830517ec01d3f1ca28c316e07354ba54429a</guid>
-      <pubDate>Sat, 01 Aug 2026 16:26:55 GMT</pubDate>
-      <description><![CDATA[Anthony Fauci's Fifth Amendment invocations drew parallels to Lois Lerner's case, raising questions about whether Trump's DOJ will prosecute.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Current Ebola outbreak worst ever in DR Congo, WHO says</title>
-      <link>https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bddd599ff97ba9e9a97d6a3f67b7c52bd1f55132</guid>
-      <pubDate>Sat, 01 Aug 2026 16:16:16 GMT</pubDate>
-      <description><![CDATA[The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Jillian Michaels exposes dangers of self-dosing illegal 'gray market' weight loss drugs</title>
-      <link>https://www.foxnews.com/media/jillian-michaels-exposes-dangers-self-dosing-illegal-gray-market-weight-loss-drugs</link>
-      <guid isPermaLink="false">5eb7a414c3bdac3ce0e65d5a21e7f29585673453</guid>
-      <pubDate>Sat, 01 Aug 2026 16:02:03 GMT</pubDate>
-      <description><![CDATA[Fitness expert Jillian Michaels warns Americans against self-dosing "gray market" weight-loss peptides, citing health risks like vision loss and hormonal damage.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bob Barker allegations in explosive docuseries were 'true and then some,' former game show host says</title>
-      <link>https://www.foxnews.com/entertainment/bob-barker-allegations-explosive-docuseries-true-then-some-former-game-show-host-says</link>
-      <guid isPermaLink="false">b940983a58616a77e451130c643de429b64e67c8</guid>
-      <pubDate>Sat, 01 Aug 2026 16:00:05 GMT</pubDate>
-      <description><![CDATA[Former "Double Dare" host Marc Summers recalls Bob Barker's massive ego and cheap pay after Holly Hallstrom detailed her firing from "The Price Is Right" show.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e1980fe0915a80c17ea08af6d53db97598be6a0a</guid>
-      <pubDate>Sat, 01 Aug 2026 15:46:08 GMT</pubDate>
-      <description><![CDATA[Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta "shocking".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hunter Biden claims under oath that his family is broke amid fight over $17M legal bill</title>
-      <link>https://www.foxnews.com/politics/hunter-biden-claims-under-oath-family-broke-amid-fight-17m-legal-bill</link>
-      <guid isPermaLink="false">c0b266fda4ed8f46d965d28c5ec1e4adee03e383</guid>
-      <pubDate>Sat, 01 Aug 2026 15:38:54 GMT</pubDate>
-      <description><![CDATA[Hunter Biden claims in a deposition that he has no assets, no car, and no savings as a law firm sues him for $17 million in unpaid legal bills.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>DAVID MARCUS: Reflecting pool controversy is mirror for our broken politics</title>
-      <link>https://www.foxnews.com/opinion/david-marcus-reflecting-pool-controversy-mirror-broken-politics</link>
-      <guid isPermaLink="false">2083998ddc132a2abeeda1c848b27c23c560dca6</guid>
-      <pubDate>Sat, 01 Aug 2026 15:35:18 GMT</pubDate>
-      <description><![CDATA[Jeanine Pirro dropped charges against David Hearn after documents revealed the Lincoln Memorial Reflecting Pool damage stemmed from flawed contractor work.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Test your pop culture: From Hollywood to the Heartland</title>
-      <link>https://www.foxnews.com/entertainment/test-your-pop-culture-from-hollywood-heartland-18</link>
-      <guid isPermaLink="false">3a79a82a94444cf1057cba9cef4e3515d8993f9e</guid>
-      <pubDate>Sat, 01 Aug 2026 15:30:02 GMT</pubDate>
-      <description><![CDATA[Test your knowledge of entertainment with this quiz on celebrities, trends and headline-making moments. Featured this week: bikini-clad vacations, an unbelievable survival story, a post-divorce splurge and a romance decades in the making.]]></description>
       <category>world</category>
     </item>
     <item>
