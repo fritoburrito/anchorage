@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 14:23:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 09:00:00 GMT</lastBuildDate>
+    <item>
+      <title>In the race for Senate in Michigan, multiple party fights are colliding for Democrats</title>
+      <link>https://www.npr.org/2026/08/01/nx-s1-5904608/michigan-primary-haley-stevens-abdul-el-sayed-democrats</link>
+      <guid isPermaLink="false">d0afabf042445423179033f8a3c0dbfaa59194f8</guid>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[As Haley Stevens and Abdul El-Sayed vie for the Democratic nomination, voters are debating which way the party should go: establishment or insurgent; progressive or more moderate; new media or old.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>El Niño continues to strengthen toward record territory two months into the Atlantic hurricane season</title>
       <link>https://www.foxweather.com/weather-news/el-nino-continues-strengthen-suppressing-chances-tropical-development-atlantic-basin</link>
@@ -23,18 +31,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight - Mostly Clear</title>
+      <title>Anchorage Weather: Overnight - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 01 Aug 2026 07:33:00 GMT</pubDate>
-      <description><![CDATA[53°F. Wind S 5 to 10 mph. Mostly clear, with a low around 53. South wind 5 to 10 mph.]]></description>
+      <pubDate>Sat, 01 Aug 2026 10:06:53 GMT</pubDate>
+      <description><![CDATA[53°F. Wind SE 5 mph. Mostly clear, with a low around 53. Southeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 01 Aug 2026 07:33:00 GMT</pubDate>
+      <pubDate>Sat, 01 Aug 2026 10:06:53 GMT</pubDate>
       <description><![CDATA[73°F. Wind SW 0 to 15 mph. Sunny, with a high near 73. Southwest wind 0 to 15 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +50,7 @@
       <title>Anchorage Weather: Saturday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 01 Aug 2026 07:33:00 GMT</pubDate>
+      <pubDate>Sat, 01 Aug 2026 10:06:53 GMT</pubDate>
       <description><![CDATA[52°F. Wind SW 0 to 15 mph. Mostly clear, with a low around 52. Southwest wind 0 to 15 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +58,7 @@
       <title>Anchorage Weather: Sunday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 01 Aug 2026 07:33:00 GMT</pubDate>
+      <pubDate>Sat, 01 Aug 2026 10:06:53 GMT</pubDate>
       <description><![CDATA[69°F. Wind W 0 to 5 mph. Sunny, with a high near 69. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,9 +66,17 @@
       <title>Anchorage Weather: Sunday Night - Mostly Cloudy then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 01 Aug 2026 07:33:00 GMT</pubDate>
+      <pubDate>Sat, 01 Aug 2026 10:06:53 GMT</pubDate>
       <description><![CDATA[54°F. Wind S 0 to 10 mph. A chance of rain after 1am. Mostly cloudy, with a low around 54. South wind 0 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified</title>
+      <link>https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members</link>
+      <guid isPermaLink="false">e4ad2295837e1033aa087327617f06c7a715c564</guid>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they'll try to confirm who he is.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>First week of third gasline special session ends with no action by Dunleavy or Alaska Legislature</title>
@@ -343,6 +359,126 @@
       <category>local</category>
     </item>
     <item>
+      <title>Nancy Guthrie sheriff says investigators may have more video evidence as they review thousands of clips</title>
+      <link>https://www.foxnews.com/us/nancy-guthrie-sheriff-says-investigators-may-have-more-video-evidence-review-thousands-clips</link>
+      <guid isPermaLink="false">6644cefa760846065cb277de3a1250a491ec4db1</guid>
+      <pubDate>Sat, 01 Aug 2026 10:00:56 GMT</pubDate>
+      <description><![CDATA[Pima County Sheriff Chris Nanos says he believes there's more video evidence as investigators comb through 'tens of thousands' of clips. Ransom notes released in bid to ID suspect.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>100 days until midterms and Democrats are winning because they actually have a message</title>
+      <link>https://www.foxnews.com/opinion/100-days-until-midterms-democrats-winning-message</link>
+      <guid isPermaLink="false">0e65c0483113eb253d64014ac2710608a6092fb9</guid>
+      <pubDate>Sat, 01 Aug 2026 10:00:44 GMT</pubDate>
+      <description><![CDATA[Democrats have unified their midterms message around affordability while Republicans offer a menu of issues without a single organizing story.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>What’s old is new again: Trump-style conservative is back as PM of European nation</title>
+      <link>https://www.foxnews.com/world/whats-old-new-again-trump-style-conservative-back-pm-european-nation</link>
+      <guid isPermaLink="false">dcda8ab4ef8f1a4a3524269987c5ac3be71db3b0</guid>
+      <pubDate>Sat, 01 Aug 2026 10:00:20 GMT</pubDate>
+      <description><![CDATA[Janez Janša formed a coalition government after losing Slovenia's election, reversing Robert Golob's policies on Israel, immigration,and business.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Brazen social media fraud schemes wreak havoc as Trump official issues stark warning for 'fraudfluencers'</title>
+      <link>https://www.foxnews.com/politics/brazen-social-media-fraud-schemes-wreak-havoc-trump-official-issues-stark-warning-fraudfluencers</link>
+      <guid isPermaLink="false">8ba8c9cd8db8878ab62acd636e85a1177356cdfc</guid>
+      <pubDate>Sat, 01 Aug 2026 10:00:02 GMT</pubDate>
+      <description><![CDATA["Fraudfluencers" use social media to recruit others into government fraud schemes, says DOL Inspector General Anthony D'Esposito in a stark warning.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Lebanese who fled the Israeli invasion visit to see what's left</title>
+      <link>https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah</link>
+      <guid isPermaLink="false">aece072eccd7b1f27d7c6f1ab7fc72df999b8660</guid>
+      <pubDate>Sat, 01 Aug 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>More than 25,000 children lose previous legal protections, as federal contract ends</title>
+      <link>https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration</link>
+      <guid isPermaLink="false">c24609d2d8f0b9e0e41a26915fbd18efdbb39393</guid>
+      <pubDate>Sat, 01 Aug 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[Thousands of unaccompanied immigrant children are set to lose legal representation. The federal contract that pays for legal access expired Friday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Uefa has 'lost confidence' in Fifa leadership as investment plan scrapped</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ced530318b9b3265f67dbddcf3fef92613d4f43c</guid>
+      <pubDate>Sat, 01 Aug 2026 09:51:05 GMT</pubDate>
+      <description><![CDATA[Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco</title>
+      <link>https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco</link>
+      <guid isPermaLink="false">4a110b525b70663706b63a908504faf8f3b5ff9f</guid>
+      <pubDate>Sat, 01 Aug 2026 09:36:05 GMT</pubDate>
+      <description><![CDATA[The death toll in Spain's Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sir John Curtice: The "Burnham bounce" is real but it's not massive</title>
+      <link>https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">525694640ee263c2daf8beb0103a9bb69bc5954e</guid>
+      <pubDate>Sat, 01 Aug 2026 09:13:00 GMT</pubDate>
+      <description><![CDATA[The governing party's poll ratings have improved but they're only just ahead of Reform]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews</title>
+      <link>https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc</link>
+      <guid isPermaLink="false">8058c8812566fef42e74c8a15b3a8e13b355b8b2</guid>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Why did OpenAI's and Anthropic's AI models hack other companies?</title>
+      <link>https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity</link>
+      <guid isPermaLink="false">640b3aa08bf34604b8317e0c7b9f042b9cecb12a</guid>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[OpenAI and Anthropic say their models broke into other companies' systems during testing, raising security concerns amid a heated debate over how to regulate AI.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest</title>
+      <link>https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral</link>
+      <guid isPermaLink="false">73bc027ff515b6402ed800505a315752c184105b</guid>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[Staff Sgt. Angel S. Rampersad is one of a handful of service members who've recently died in the conflict with Iran. Her family says she knew from a young age she wanted to serve in the military.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>For sale: early access to Trump's Truth Social posts</title>
+      <link>https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading</link>
+      <guid isPermaLink="false">3d53e3f05197a6cb4b133e2579271554334591d5</guid>
+      <pubDate>Sat, 01 Aug 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WATCH: Booker continues to reject SAVE Act despite bombshell NJ voter roll scandal</title>
+      <link>https://www.foxnews.com/politics/watch-booker-continues-reject-save-act-despite-bombshell-nj-voter-roll-scandal</link>
+      <guid isPermaLink="false">e96b5b180423f8189fa0085e3c8b3488cc9680d4</guid>
+      <pubDate>Sat, 01 Aug 2026 08:00:12 GMT</pubDate>
+      <description><![CDATA[Cory Booker says the SAVE Act would not have prevented the New Jersey software error that made roughly 6,600 noncitizens eligible to vote.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WATCH: Democrats admit when they'd eliminate the filibuster as SAVE Act fight heats up</title>
+      <link>https://www.foxnews.com/politics/democrats-admit-when-theyd-eliminate-filibuster-save-act-fight-heats</link>
+      <guid isPermaLink="false">98296186419d32b40e344f662e8564deb586a22b</guid>
+      <pubDate>Sat, 01 Aug 2026 08:00:00 GMT</pubDate>
+      <description><![CDATA[Trump urges John Thune to eliminate the Senate filibuster or cancel August recess until lawmakers pass the SAVE Act election integrity bill.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
       <title>Race to rescue remaining climbers after deadly avalanche in Pakistan</title>
       <link>https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">45cd353ca3801b28b70f0d31a186b26b2f6fd869</guid>
@@ -359,147 +495,11 @@
       <category>world</category>
     </item>
     <item>
-      <title>Fifa scraps World Cup investment plan after outcry</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">119215f2d9608b62b966765e4d172398ada051d1</guid>
-      <pubDate>Sat, 01 Aug 2026 05:42:31 GMT</pubDate>
-      <description><![CDATA[Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had "created divisions" and would not go ahead.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge</title>
-      <link>https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">937d3ed96e2045c5bfb0d86c0eb0ead49b1d1b03</guid>
-      <pubDate>Sat, 01 Aug 2026 05:01:56 GMT</pubDate>
-      <description><![CDATA[Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?</title>
-      <link>https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d6f43fdcdf98a81ef9ac737782db8eb893e2d431</guid>
-      <pubDate>Sat, 01 Aug 2026 05:01:19 GMT</pubDate>
-      <description><![CDATA[BBC Verify has spoken to experts and analysed satellite imagery to piece together what we know about the site, and the potential impact of a US strike.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bill Belichick avoids specifics as North Carolina launches probe into GM Michael Lombardi</title>
-      <link>https://www.foxnews.com/sports/bill-belichick-avoids-specifics-north-carolina-launches-probe-gm-michael-lombardi</link>
-      <guid isPermaLink="false">cf003e84c16271e72260b042e55bbcb2b36f6140</guid>
-      <pubDate>Sat, 01 Aug 2026 03:55:13 GMT</pubDate>
-      <description><![CDATA[Michael Lombardi, the highest-paid GM at a public institution, is under official investigation as Bill Belichick's North Carolina program faces scrutiny.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Mamdani not called to speak at NYC funeral of Army sergeant killed in Iranian attack: report</title>
-      <link>https://www.foxnews.com/politics/mamdani-not-called-speak-nyc-funeral-army-sergeant-killed-iranian-attack-report</link>
-      <guid isPermaLink="false">74b0160fffdf8ffec89e24fdd1ba65e0aa16f61b</guid>
-      <pubDate>Sat, 01 Aug 2026 03:53:03 GMT</pubDate>
-      <description><![CDATA[NYC Mayor Zohran Mamdani was reportedly blocked from speaking at Army Sgt. Angel Sarah Rampersad's funeral as her family sought to avoid political distractions.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>SEC, Big Ten agree to support historic 'Protect College Sports Act' after intense negotiations</title>
-      <link>https://www.foxnews.com/outkick-sports/sec-big-ten-agree-support-historic-protect-college-sports-act-intense-negotiations</link>
-      <guid isPermaLink="false">d86e41b32ea8e850162fdbaef143d73b63a05ed4</guid>
-      <pubDate>Sat, 01 Aug 2026 02:50:25 GMT</pubDate>
-      <description><![CDATA[The retention pool jumped to $22.5 million as Senators Ted Cruz and Maria Cantwell secured support from Big Ten and SEC before the August recess.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Peru's ex-president leaves jail after 15-year jail term for corruption overturned</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">daed8babd9a7ae502d5a7e3b051b885d356f0f58</guid>
-      <pubDate>Sat, 01 Aug 2026 02:21:29 GMT</pubDate>
-      <description><![CDATA[Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>FIFA scraps controversial deal to sell stakes in World Cup to private investors</title>
-      <link>https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino</link>
-      <guid isPermaLink="false">1869e571ffad0b29b55f5ef854cd640ff3c2f57b</guid>
-      <pubDate>Sat, 01 Aug 2026 02:08:51 GMT</pubDate>
-      <description><![CDATA[FIFA abandoned a plan to create a commercial venture and then sell stakes to minority investors, just days after unveiling it. The plan drew sharp condemnation — and a boycott from European nations.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>American climber's remains found after avalanche in Pakistan, other mountaineers still missing</title>
-      <link>https://www.foxnews.com/world/american-climber-remains-found-avalanche-pakistan-mountaineers-missing</link>
-      <guid isPermaLink="false">47df4b2c321e239aa9848b29b0517b543359591d</guid>
-      <pubDate>Sat, 01 Aug 2026 01:57:36 GMT</pubDate>
-      <description><![CDATA[American climber Sarah Mallory Geis was among at least 10 mountaineers caught in a Broad Peak avalanche as rescue teams search for others.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Norwegian soccer star Erling Haaland's top-tier summer continues, snags pinnacle of celebrity photo-ops</title>
-      <link>https://www.foxnews.com/outkick-sports/norwegian-soccer-star-erling-haaland-top-tier-summer-continues-snags-pinnacle-celebrity-photo-ops</link>
-      <guid isPermaLink="false">7f6db34fd28477f47d6599f30c1292c4af1ee77c</guid>
-      <pubDate>Sat, 01 Aug 2026 01:10:25 GMT</pubDate>
-      <description><![CDATA[Erling Haaland scored a celebrity photo with Michael Jordan after his breakout 2026 FIFA World Cup run leading a surprising Norwegian squad.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>I was working to survive and I wasn't paid</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2rv3899g8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1165f6f76855db57cfa10ce6c7c5cf920b58a9a7</guid>
-      <pubDate>Sat, 01 Aug 2026 01:04:30 GMT</pubDate>
-      <description><![CDATA[Sonia Garcia Monuz is among ex-catering firm employees who claim they are owed unpaid wages.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Police search for gunman after Walmart employee shot during dispute in Pennsylvania</title>
-      <link>https://www.foxnews.com/us/police-search-gunman-walmart-employee-shot-dispute-pennsylvania</link>
-      <guid isPermaLink="false">97815071dce4fe84ac0f867a97ab7b099d002f16</guid>
-      <pubDate>Sat, 01 Aug 2026 01:00:27 GMT</pubDate>
-      <description><![CDATA[An innocent Walmart employee was shot after two men got into an argument at a Pennsylvania Walmart, police said. The suspected gunman fled before officers arrived]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Victims of disgraced funeral boss demand industry regulation</title>
-      <link>https://www.bbc.co.uk/news/articles/cr49w13w9d0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c91c3a32d88a2ab247096d4aa40838f409fbb718</guid>
-      <pubDate>Sat, 01 Aug 2026 00:55:15 GMT</pubDate>
-      <description><![CDATA[Campaigners say "full statutory regulation" must be brought in following Legacy funerals scandal.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NCAA rocked by Colorado judge's 2022 class eligibility ruling that could reshape college sports this year</title>
-      <link>https://www.foxnews.com/outkick-sports/ncaa-rocked-colorado-judge-2022-class-eligibility-ruling-reshape-college-sports-year</link>
-      <guid isPermaLink="false">1ad3e43f092b4be077fdeed7e93831b9860090ce</guid>
-      <pubDate>Sat, 01 Aug 2026 00:51:47 GMT</pubDate>
-      <description><![CDATA[A Colorado federal judge ordered the NCAA to create a blanket waiver granting all 2022-class college athletes an additional eligibility year.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs</title>
-      <link>https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1e9b02f3263efa6bb082f5c59b8b91ef53f0f66d</guid>
-      <pubDate>Sat, 01 Aug 2026 00:20:43 GMT</pubDate>
-      <description><![CDATA[President Donald Trump had blamed "sick" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>New York nuns will not be forced to comply with assisted-suicide law while case progresses</title>
-      <link>https://www.foxnews.com/media/new-york-nuns-not-forced-comply-assisted-suicide-law-case-progresses</link>
-      <guid isPermaLink="false">215bdd3a9dd14092602f1e4d430a9bf33ef1b841</guid>
-      <pubDate>Sat, 01 Aug 2026 00:19:03 GMT</pubDate>
-      <description><![CDATA[Catholic nuns sued New York over a law forcing them to recommend assisted suicide to terminally ill patients, and a federal judge blocked them having to comply while the case is pending.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Fifa scraps controversial World Cup investment plan</title>
       <link>https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">119215f2d9608b62b966765e4d172398ada051d1</guid>
-      <pubDate>Sat, 01 Aug 2026 00:04:50 GMT</pubDate>
-      <description><![CDATA[Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's idea.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts</title>
-      <link>https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c3d9348123b3c421379f235c0802876a4b12ff45</guid>
-      <pubDate>Fri, 31 Jul 2026 23:58:12 GMT</pubDate>
-      <description><![CDATA[Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.]]></description>
+      <pubDate>Sat, 01 Aug 2026 05:42:31 GMT</pubDate>
+      <description><![CDATA[Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.]]></description>
       <category>world</category>
     </item>
     <item>
