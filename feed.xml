@@ -23,18 +23,10 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon - Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 02 Aug 2026 00:04:09 GMT</pubDate>
-      <description><![CDATA[73°F. Wind W 10 mph. Sunny, with a high near 73. West wind around 10 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 02 Aug 2026 00:04:09 GMT</pubDate>
+      <pubDate>Sun, 02 Aug 2026 04:29:46 GMT</pubDate>
       <description><![CDATA[54°F. Wind SW 0 to 10 mph. Mostly clear, with a low around 54. Southwest wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +34,7 @@
       <title>Anchorage Weather: Sunday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 02 Aug 2026 00:04:09 GMT</pubDate>
+      <pubDate>Sun, 02 Aug 2026 04:29:46 GMT</pubDate>
       <description><![CDATA[69°F. Wind SW 0 to 5 mph. Sunny, with a high near 69. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +42,7 @@
       <title>Anchorage Weather: Sunday Night - Partly Cloudy then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 02 Aug 2026 00:04:09 GMT</pubDate>
+      <pubDate>Sun, 02 Aug 2026 04:29:46 GMT</pubDate>
       <description><![CDATA[53°F. Wind SW 0 to 15 mph. A chance of rain after 1am. Partly cloudy, with a low around 53. Southwest wind 0 to 15 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -58,8 +50,16 @@
       <title>Anchorage Weather: Monday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 02 Aug 2026 00:04:09 GMT</pubDate>
+      <pubDate>Sun, 02 Aug 2026 04:29:46 GMT</pubDate>
       <description><![CDATA[64°F. Wind SE 15 to 20 mph. Rain likely. Cloudy, with a high near 64. Southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday Night - Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 02 Aug 2026 04:29:46 GMT</pubDate>
+      <description><![CDATA[54°F. Wind SE 5 to 15 mph. Rain. Cloudy, with a low around 54. Southeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -303,12 +303,108 @@
       <category>local</category>
     </item>
     <item>
-      <title>Newscast – Thursday, July 30, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17396813/newscast-thursday-july-30-2026</link>
-      <guid isPermaLink="false">eebedecb67154a29e265f014b34d0bed32cb2cc0</guid>
-      <pubDate>Fri, 31 Jul 2026 00:59:05 GMT</pubDate>
-      <description><![CDATA[In this newscast: Juneau police have confirmed the identity of a man whose remains were discovered in a chest freezer last week at a home in Lemon Creek; Three people are dead after a fiery plane crash Tuesday night near McCarthy; A volunteer group freed a humpback whale that was entangled in a gillnet near Petersburg last night; Juneau veteran says he was denied First Amendment rights during July 4 parade; Members of the Alaska Legislature are asking the state Division of Elections to immediately retore the voter status of thousands of Alaskans the division deactivated based on outdated information; Hundreds of people gathered in Haines this weekend for the annual Southeast Alaska State Fair]]></description>
-      <category>local</category>
+      <title>Texas man allegedly bought 77 head of cattle with bad checks totaling over $159K: sheriff</title>
+      <link>https://www.foxnews.com/us/texas-man-allegedly-bought-77-head-cattle-bad-checks-totaling-over-159k-sheriff</link>
+      <guid isPermaLink="false">9c0e9a45d4bcbd8bf1006bf91f9736d775b066d3</guid>
+      <pubDate>Sun, 02 Aug 2026 03:53:16 GMT</pubDate>
+      <description><![CDATA[A 25-year-old man from Barry, Texas, allegedly used bad checks to purchase 77 head of cattle worth over $159,000 from Buffalo Livestock Marketing.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Chiefs rookie standout Cyrus Allen exits practice after scary collision with teammate Kaiir Elam</title>
+      <link>https://www.foxnews.com/sports/chiefs-rookie-standout-cyrus-allen-exits-practice-after-scary-collision-teammate-kaiir-elam</link>
+      <guid isPermaLink="false">49c89fa3c1b1c47160385b1dfeb741b0ed84e189</guid>
+      <pubDate>Sun, 02 Aug 2026 03:26:52 GMT</pubDate>
+      <description><![CDATA[Tests revealed a shin bruise for Cyrus Allen after the Chiefs rookie collided with Kaiir Elam during a special teams drill at training camp.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal</title>
+      <link>https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f189c87d748443ea643954add8a9c254331fe88e</guid>
+      <pubDate>Sun, 02 Aug 2026 03:05:16 GMT</pubDate>
+      <description><![CDATA[The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Oba Femi shows the future of WWE is here as he takes down Brock Lesnar in Hell in a Cell match at SummerSlam</title>
+      <link>https://www.foxnews.com/sports/oba-femi-shows-future-wwe-takes-down-brock-lesnar-hell-cell-match-summerslam</link>
+      <guid isPermaLink="false">fdf389be64720d8a1cb8b99636a92531efa52197</guid>
+      <pubDate>Sun, 02 Aug 2026 02:51:27 GMT</pubDate>
+      <description><![CDATA[Brock Lesnar delivered a tombstone piledriver and multiple F5s inside Hell in a Cell, but Oba Femi's Fall from Grace sealed a stunning outcome.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The Bellas' alliance with Paige crumbles after stunning SummerSlam loss to Fatal Influence</title>
+      <link>https://www.foxnews.com/sports/bellas-alliance-paige-crumbles-stunning-summerslam-loss-fatal-influence</link>
+      <guid isPermaLink="false">0fb501639a50a211a2232fbc59e7b8b6d38f71f5</guid>
+      <pubDate>Sun, 02 Aug 2026 02:44:04 GMT</pubDate>
+      <description><![CDATA[Nikki Bella turned on Paige with a vicious clothesline after Fatal Influence's SummerSlam victory, leaving her former partner stunned in the ring.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Randy Orton puts his fangs into Cody Rhodes, costs him WWE title against CM Punk at SummerSlam</title>
+      <link>https://www.foxnews.com/sports/randy-orton-puts-fangs-cody-rhodes-costs-wwe-title-cm-punk-summerslam</link>
+      <guid isPermaLink="false">144681d27b9adde973ade803666ad37e61dd7275</guid>
+      <pubDate>Sun, 02 Aug 2026 02:18:31 GMT</pubDate>
+      <description><![CDATA[Randy Orton's shocking RKO out of nowhere cost Cody Rhodes the Undisputed WWE Championship as CM Punk capitalized with a Go to Sleep at SummerSlam.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Sopranos' star sings national anthem at Mets game on same day that fellow castmember dies</title>
+      <link>https://www.foxnews.com/outkick-sports/sopranos-star-sings-national-anthem-mets-game-castmember-dies</link>
+      <guid isPermaLink="false">752f6c6058d5ec4b1a81f506ea2f6a7b91bfd151</guid>
+      <pubDate>Sun, 02 Aug 2026 02:10:28 GMT</pubDate>
+      <description><![CDATA[Jamie-Lynn Sigler sang the National Anthem at a New York Mets game on the same day Vincent Pastore's death was announced, stunning fans of the show.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan</title>
+      <link>https://www.foxnews.com/world/famed-mountaineer-nirmal-purja-43-among-10-climbers-killed-avalanche-pakistan</link>
+      <guid isPermaLink="false">1c6f6c2317180fa113068b594a3725a275ed3f91</guid>
+      <pubDate>Sun, 02 Aug 2026 01:59:24 GMT</pubDate>
+      <description><![CDATA[Nirmal Purja was leading climbers up Broad Peak in Pakistan when a deadly avalanche struck the Karakoram expedition, killing all 10 members of the group.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Liv Morgan proves herself as top women's star in WWE as she retains title at SummerSlam over Iyo Sky</title>
+      <link>https://www.foxnews.com/sports/liv-morgan-proves-herself-top-womens-star-wwe-retains-title-summerslam-iyo-sky</link>
+      <guid isPermaLink="false">1d1f2f2b4b3d127d3c5d457e0020cd8cdf936817</guid>
+      <pubDate>Sun, 02 Aug 2026 01:20:42 GMT</pubDate>
+      <description><![CDATA[Liv Morgan retained the Women's World Championship at SummerSlam after a brutal sequence of Oblivion finishers put Iyo Sky down for the count.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Stephanie White, let me 'educate' you on the science of why men don't belong in women's sports</title>
+      <link>https://www.foxnews.com/outkick-analysis/stephanie-white-educate-science-why-men-dont-belong-womens-sports</link>
+      <guid isPermaLink="false">4644402d9f715762f8760eb9061d6944e8c29e42</guid>
+      <pubDate>Sun, 02 Aug 2026 01:15:31 GMT</pubDate>
+      <description><![CDATA[Stephanie White said she wasn't educated enough on the science of males in women's sports. Here's what biology and sports science say about fairness.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>How Spain's migrant crisis created a political storm - whipped up by social media</title>
+      <link>https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">be8ccf657c9d14cd06e480db1dad2ef34be840d5</guid>
+      <pubDate>Sun, 02 Aug 2026 00:55:16 GMT</pubDate>
+      <description><![CDATA[The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Democratic socialist headed for $142K legislature salary begs for rent handout, deletes post after backlash</title>
+      <link>https://www.foxnews.com/politics/democratic-socialist-headed-142k-legislature-salary-begs-rent-handout-deletes-post-backlash</link>
+      <guid isPermaLink="false">0e41363f56def00fef94995d9e4f5421a8e14fff</guid>
+      <pubDate>Sun, 02 Aug 2026 00:49:29 GMT</pubDate>
+      <description><![CDATA[Brian Romero's GoFundMe seeking $2,000 for rent and groceries raised eyebrows given his expected $142,000 annual Assembly salary once sworn in.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Tourist plane crashes in Peru, killing 13</title>
+      <link>https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">947baee6e271c7fe69e9ee6b1a0f96190369854d</guid>
+      <pubDate>Sun, 02 Aug 2026 00:29:55 GMT</pubDate>
+      <description><![CDATA[The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Three killed after bomb detonated at Moscow restaurant, state media say</title>
@@ -319,12 +415,28 @@
       <category>world</category>
     </item>
     <item>
+      <title>Solitude as a new aspirational lifestyle: 'We are not lonely'</title>
+      <link>https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">01a3756bab1732f41f0768aaff2b89394a1d5741</guid>
+      <pubDate>Sat, 01 Aug 2026 23:56:19 GMT</pubDate>
+      <description><![CDATA[A growing number of what the internet has dubbed "loneliness influencers" are spotlighting solo living without children or friends - and it's spurring debate.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Alexander Rossi reacts to his first laps in the next generation of IndyCar</title>
       <link>https://www.foxnews.com/outkick-sports/alexander-rossi-reacts-first-laps-next-generation-indycar</link>
       <guid isPermaLink="false">a31568ccd9eca09ea9f093786b1a95c4f4f67a62</guid>
       <pubDate>Sat, 01 Aug 2026 23:55:34 GMT</pubDate>
       <description><![CDATA[Alexander Rossi called IndyCar's IR-28 shakedown at Indianapolis Motor Speedway smooth as "Christmas morning," but weather limited full testing.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Does Love Island UK need to pull the US version for a chat?</title>
+      <link>https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a14bc1e282f15081664f516df524845fdfdcad03</guid>
+      <pubDate>Sat, 01 Aug 2026 23:46:48 GMT</pubDate>
+      <description><![CDATA[Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Spider-Man fans hail Brand New Day as Holland's best yet</title>
@@ -351,126 +463,6 @@
       <category>world</category>
     </item>
     <item>
-      <title>Lynx coach defends trans athletes ahead of big game vs Fever with Sophie Cunningham rally scheduled outside</title>
-      <link>https://www.foxnews.com/outkick-sports/lynx-coach-defends-trans-athletes-ahead-big-game-vs-fever-sophie-cunningham-rally-scheduled-outside</link>
-      <guid isPermaLink="false">7104f0b32ea83328a8835575f391224615035ed8</guid>
-      <pubDate>Sat, 01 Aug 2026 23:30:31 GMT</pubDate>
-      <description><![CDATA[Cheryl Reeve defended protesters' right to rally outside the Lynx-Fever game while urging the WNBA to establish a transgender player policy.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>State Department raises travel warning for part of Spain as migrant surge sparks military deployment</title>
-      <link>https://www.foxnews.com/world/state-department-raises-travel-warning-part-spain-migrant-surge-sparks-military-deployment</link>
-      <guid isPermaLink="false">569e8de2a042d7055701ed34366720dd6ae2453a</guid>
-      <pubDate>Sat, 01 Aug 2026 23:16:46 GMT</pubDate>
-      <description><![CDATA[Tens of thousands of migrants surged into Spain's Ceuta from Morocco, prompting a military deployment and a new State Department travel advisory.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Young guns for hire - the teenage hitmen recruited to kill across Europe</title>
-      <link>https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9d8fd6f39a4ebc6ce4cf257da11fa3c2de148236</guid>
-      <pubDate>Sat, 01 Aug 2026 23:03:35 GMT</pubDate>
-      <description><![CDATA[The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Russian ship defies sanctions to send military vehicles to Mali</title>
-      <link>https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d177225f52f9a5d3125d8d48195fcbae11bb28d2</guid>
-      <pubDate>Sat, 01 Aug 2026 23:03:23 GMT</pubDate>
-      <description><![CDATA[The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo</title>
-      <link>https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bcb6a83b1705f502a96a9713c3dbb8e5e96bdf67</guid>
-      <pubDate>Sat, 01 Aug 2026 23:03:15 GMT</pubDate>
-      <description><![CDATA[Uganda discharged its last Ebola patient from hospital roughly two weeks ago.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The Sopranos star Vincent Pastore dies aged 80</title>
-      <link>https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">723ac7e10b4290fdb81836e58b63a7465af74bac</guid>
-      <pubDate>Sat, 01 Aug 2026 22:57:55 GMT</pubDate>
-      <description><![CDATA[Pastore, who played Salvatore "Big Pussy" Bonpensiero in the hit US show, was found at his home in New York City, US media report.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold</title>
-      <link>https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">13bc4455c820a1566f6568e49cb36cf7a6219417</guid>
-      <pubDate>Sat, 01 Aug 2026 22:41:38 GMT</pubDate>
-      <description><![CDATA[There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tourist plane crashes in Peru, killing 13</title>
-      <link>https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">947baee6e271c7fe69e9ee6b1a0f96190369854d</guid>
-      <pubDate>Sat, 01 Aug 2026 22:34:20 GMT</pubDate>
-      <description><![CDATA[The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80</title>
-      <link>https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit</link>
-      <guid isPermaLink="false">f588b0fa4e2ce327398e5a3a30275af4aba14b8b</guid>
-      <pubDate>Sat, 01 Aug 2026 22:32:44 GMT</pubDate>
-      <description><![CDATA[Vincent Pastore appeared in movies dating back to the 1980s and had roles in big movies including "Goodfellas" and "Awakenings," both in 1990.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers</title>
-      <link>https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche</link>
-      <guid isPermaLink="false">128dd21f46e6850ad3964eb819cbbcedfdf2ad34</guid>
-      <pubDate>Sat, 01 Aug 2026 22:23:39 GMT</pubDate>
-      <description><![CDATA[A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>A bruising 24 hours - what next for Fifa and under-pressure Infantino?</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d515e81635bd608a87b950e3bbe9b61dc6bfbfd0</guid>
-      <pubDate>Sat, 01 Aug 2026 22:23:20 GMT</pubDate>
-      <description><![CDATA[The pressure is building on Gianni Infantino. Can he survive as Fifa president?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ginger hair portraits show unexpected 'golden thread' connecting Americans</title>
-      <link>https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f1a2a5ceb777d66f82d533f33320c1bf6d53d80b</guid>
-      <pubDate>Sat, 01 Aug 2026 22:06:18 GMT</pubDate>
-      <description><![CDATA[For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'The Sopranos' actor Vincent Pastore dead at 80</title>
-      <link>https://www.foxnews.com/entertainment/sopranos-actor-vincent-pastore-dead-80</link>
-      <guid isPermaLink="false">d9a4c10bfb4ec6530a61c67004fb3c752f13fadb</guid>
-      <pubDate>Sat, 01 Aug 2026 22:03:39 GMT</pubDate>
-      <description><![CDATA[Vincent Pastore, who played Big Pussy on "The Sopranos," has died at age 80 at his home in The Bronx, his manager Robert Attermann confirmed.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sophie Cunningham shares touching moment with young Fever fan after game against Portland</title>
-      <link>https://www.foxnews.com/outkick-sports/sophie-cunningham-shares-touching-moment-young-fever-fan-game-portland</link>
-      <guid isPermaLink="false">76044e10c5ff47f1336db27b1133341a2fff6324</guid>
-      <pubDate>Sat, 01 Aug 2026 22:00:36 GMT</pubDate>
-      <description><![CDATA[Sophie Cunningham silenced Portland Fire fans waving transgender flags with a three-pointer, then shared a heartwarming moment with a young girl postgame.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Leonardo DiCaprio goes shirtless during yacht getaway with model girlfriend Vittoria Ceretti</title>
-      <link>https://www.foxnews.com/entertainment/leonardo-dicaprio-goes-shirtless-during-yacht-getaway-model-girlfriend-vittoria-ceretti</link>
-      <guid isPermaLink="false">645cde9c72ba8927c914563a91df9634901b1478</guid>
-      <pubDate>Sat, 01 Aug 2026 22:00:35 GMT</pubDate>
-      <description><![CDATA[Leonardo DiCaprio and Vittoria Ceretti were spotted shirtless and swimming off a yacht in Saint-Tropez with friends Laura Harrier and Tommaso Buti.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>World-renowned mountaineer Nirmal 'Nimsdai' Purja has died in avalanche, several others feared dead</title>
       <link>https://www.foxweather.com/weather-news/world-renowned-mountaineer-nimsdai-dead-avalanche</link>
       <guid isPermaLink="false">a8d7cc5baacd781adba84fbcf28107689a4ea087</guid>
@@ -484,6 +476,14 @@
       <guid isPermaLink="false">a1277a632c43ede09ebd4e43f231068807a7797a</guid>
       <pubDate>Sat, 01 Aug 2026 14:40:35 GMT</pubDate>
       <description><![CDATA[The National Hurricane Center continues to predict an empty slate in the Atlantic, the Caribbean, and the Gulf through next week. Saharan dust continues to spread across the tropical Atlantic from Africa, while El Niño-driven hostile upper-level winds blow across the Caribbean from the Pacific.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Dangerous situation unfolds in the Northwest as intense winds rapidly spread ongoing and new fires</title>
+      <link>https://www.foxweather.com/weather-news/increased-wildfire-threat-targets-scorched-pacific-northwest</link>
+      <guid isPermaLink="false">9aac37be8fb95459dcce172478c9b6ba58b8394f</guid>
+      <pubDate>Fri, 31 Jul 2026 21:09:04 GMT</pubDate>
+      <description><![CDATA[The Pacific Northwest is bracing for a particularly dangerous weekend of wildfire weather as strong winds and critically low humidity threaten explosive fire growth. Nearly two million acres have already burned this season, with rare fire weather warnings now in effect.]]></description>
       <category>weather</category>
     </item>
     <item>
