@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 14:23:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 02:06:27 GMT</lastBuildDate>
+    <item>
+      <title>Heat health alerts in England as temperatures set to reach 34C</title>
+      <link>https://www.bbc.co.uk/weather/articles/c17199dy4yxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2afb11d9eae5310c734532a41d64441702b14c25</guid>
+      <pubDate>Mon, 03 Aug 2026 02:06:27 GMT</pubDate>
+      <description><![CDATA[Temperatures are expected to reach 34C in some areas of England.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>El Niño continues to strengthen toward record territory two months into the Atlantic hurricane season</title>
       <link>https://www.foxweather.com/weather-news/el-nino-continues-strengthen-suppressing-chances-tropical-development-atlantic-basin</link>
@@ -15,18 +23,10 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon - Mostly Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 03 Aug 2026 00:05:14 GMT</pubDate>
-      <description><![CDATA[66°F. Wind W 5 to 10 mph. Mostly sunny, with a high near 66. West wind 5 to 10 mph, with gusts as high as 20 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight - Mostly Cloudy then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 03 Aug 2026 00:05:14 GMT</pubDate>
+      <pubDate>Mon, 03 Aug 2026 04:36:50 GMT</pubDate>
       <description><![CDATA[57°F. Wind SW 10 to 15 mph. A chance of rain after 1am. Mostly cloudy, with a low around 57. Southwest wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Monday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 03 Aug 2026 00:05:14 GMT</pubDate>
+      <pubDate>Mon, 03 Aug 2026 04:36:50 GMT</pubDate>
       <description><![CDATA[65°F. Wind SE 15 to 20 mph. Rain likely. Cloudy, with a high near 65. Southeast wind 15 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Monday Night - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 03 Aug 2026 00:05:14 GMT</pubDate>
+      <pubDate>Mon, 03 Aug 2026 04:36:50 GMT</pubDate>
       <description><![CDATA[53°F. Wind SE 10 to 15 mph. Rain. Cloudy, with a low around 53. Southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -50,9 +50,25 @@
       <title>Anchorage Weather: Tuesday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 03 Aug 2026 00:05:14 GMT</pubDate>
+      <pubDate>Mon, 03 Aug 2026 04:36:50 GMT</pubDate>
       <description><![CDATA[64°F. Wind SE 5 to 10 mph. Rain. Cloudy, with a high near 64. Southeast wind 5 to 10 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Tuesday Night - Light Rain Likely</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Mon, 03 Aug 2026 04:36:50 GMT</pubDate>
+      <description><![CDATA[50°F. Wind E 0 to 5 mph. Rain likely. Cloudy, with a low around 50. East wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Brewers ace Jacob Misiorowski unloads on Angel Stadium mound after embarrassing Angels loss</title>
+      <link>https://www.foxnews.com/outkick-sports/brewers-ace-jacob-misiorowski-unloads-angel-stadium-mound-embarrassing-angels-loss</link>
+      <guid isPermaLink="false">4d00876de880f1a5e197241ffbf6e246cae96f97</guid>
+      <pubDate>Mon, 03 Aug 2026 03:11:37 GMT</pubDate>
+      <description><![CDATA[Jacob Misiorowski called the Angel Stadium mound 'awful' after Wade Meckler's two-run homer lifted the Angels past the NL Central-leading Brewers.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Juneau Arts Humanities Council launches new summer festival</title>
@@ -263,108 +279,148 @@
       <category>local</category>
     </item>
     <item>
-      <title>Kevin Owens returns in a fighting mood at WWE SummerSlam, earns No 1 contender spot for undisputed title</title>
-      <link>https://www.foxnews.com/sports/kevin-owens-returns-fighting-mood-wwe-summerslam-earns-no-1-contender-spot-undisputed-title</link>
-      <guid isPermaLink="false">848f0aa4b4dcff826d5d46f2deaf22efb2376048</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:54 GMT</pubDate>
-      <description><![CDATA[Kevin Owens made a shocking SummerSlam return after 16 months with a neck injury, hitting a stunner on Sami Zayn to earn his next WWE title shot.]]></description>
+      <title>Todd Blanche moves closer to confirmation after rescinding $1.8B fund</title>
+      <link>https://www.foxnews.com/politics/todd-blanche-anti-weaponization-fund</link>
+      <guid isPermaLink="false">8ee2b60a2b07c7ba4e8ee696032b42dce682d3d3</guid>
+      <pubDate>Mon, 03 Aug 2026 04:06:53 GMT</pubDate>
+      <description><![CDATA[Acting Attorney General Todd Blanche took a key step towards confirmation after meeting demands to rein in a settlement deal President Donald Trump reached with the IRS this year.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Rock star kicked off tour amid allegations of inappropriate messages with a minor</title>
-      <link>https://www.foxnews.com/entertainment/rock-star-kicked-off-tour-amid-allegations-inappropriate-messages-minor</link>
-      <guid isPermaLink="false">69a13625f8697ea0eed4b5d5f9737b7d7a367f3d</guid>
-      <pubDate>Sun, 02 Aug 2026 23:43:51 GMT</pubDate>
-      <description><![CDATA[Simon O'Connor claims a tasteless meme sent to a minor was a case of mistaken identity after a Reddit post surfaced with screenshot evidence.]]></description>
+      <title>A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing</title>
+      <link>https://www.npr.org/2026/08/03/g-s1-136858/blaze-indonesian-passenger-ferry</link>
+      <guid isPermaLink="false">785681d2bec85cf0f0af2e83966d58ed34da5139</guid>
+      <pubDate>Mon, 03 Aug 2026 04:06:11 GMT</pubDate>
+      <description><![CDATA[An Indonesian ferry carrying 271 people has caught fire in waters off Madura island, killing at least five people and leaving 41 others unaccounted for, authorities said]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Defunct part of SpaceX Falcon 9 rocket will slam into the moon</title>
-      <link>https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon</link>
-      <guid isPermaLink="false">6281252dfa52dbcc3262e20859b53a93ec5406d1</guid>
-      <pubDate>Sun, 02 Aug 2026 23:38:05 GMT</pubDate>
-      <description><![CDATA[A defunct part of a Falcon 9 rocket could slam into the moon at more than 5,000 miles per hour, according to scientists.]]></description>
+      <title>'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir</title>
+      <link>https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2e80605faa5a5660b20f1cd898afab173f46ad31</guid>
+      <pubDate>Mon, 03 Aug 2026 03:32:21 GMT</pubDate>
+      <description><![CDATA[The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Ukraine seeks more US Patriot interceptors as bomb shelter probe deepens</title>
-      <link>https://www.foxnews.com/world/ukraine-seeks-more-us-patriot-interceptors-bomb-shelter-probe-deepens</link>
-      <guid isPermaLink="false">610b2e1538e43785f12f908a91bc43050ed3d757</guid>
-      <pubDate>Sun, 02 Aug 2026 23:20:55 GMT</pubDate>
-      <description><![CDATA[A former Ukrainian official describes "scandalous situations" in bomb shelters as Volodymyr Zelenskyy pushes partners for 300 Patriot interceptors.]]></description>
+      <title>Roman Reigns, Seth Rollins close important chapter of their history in colossal SummerSlam main event</title>
+      <link>https://www.foxnews.com/sports/roman-reigns-seth-rollins-close-important-chapter-history-colossal-summerslam-main-event</link>
+      <guid isPermaLink="false">908959662ac8b9b79307140bb58680e4e4e4c5e7</guid>
+      <pubDate>Mon, 03 Aug 2026 02:54:28 GMT</pubDate>
+      <description><![CDATA[Roman Reigns and Seth Rollins delivered an instant classic at SummerSlam with spears, stomps, and a steel chair callback to their Shield betrayal.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Ariana Grande to take a break from public life amid 'endless' scrutiny</title>
-      <link>https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bb5b4dd8a444f523ad0eaed1163cdaf29f7c93bb</guid>
-      <pubDate>Sun, 02 Aug 2026 23:15:14 GMT</pubDate>
-      <description><![CDATA[The US singer, 33, will "step back from visibility" at the end of her world tour next month, her representative says.]]></description>
+      <title>Brooks Nader sizzles in iconic red swimsuit as she shares behind the scenes snaps from 'Baywatch' reboot set</title>
+      <link>https://www.foxnews.com/entertainment/brooks-nader-sizzles-iconic-red-swimsuit-behind-scenes-snaps-baywatch-reboot-set</link>
+      <guid isPermaLink="false">0f53c4c275d157601ad1d33c6f90dc0a2fc72b17</guid>
+      <pubDate>Mon, 03 Aug 2026 02:53:13 GMT</pubDate>
+      <description><![CDATA[Brooks Nader shared behind-the-scenes photos in the iconic red swimsuit as filming wrapped on FOX's "Baywatch" reboot alongside Noah Beck and Livvy Dunne.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Darius Rucker sets tone for WWE SummerSlam with national anthem performance in Minneapolis</title>
-      <link>https://www.foxnews.com/sports/darius-rucker-sets-tone-wwe-summerslam-national-anthem-performance-minneapolis</link>
-      <guid isPermaLink="false">491c5ac38cf2c6426be405d0ac37932f456326bb</guid>
-      <pubDate>Sun, 02 Aug 2026 22:50:56 GMT</pubDate>
-      <description><![CDATA[Darius Rucker revealed he owns an authentic Ric Flair robe and grew up watching Dusty Rhodes before delivering the national anthem at SummerSlam.]]></description>
+      <title>US and Japan take action to prop up yen in rare joint move</title>
+      <link>https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ce628e04385f45b564020979678a5e09d73168d4</guid>
+      <pubDate>Mon, 03 Aug 2026 02:43:06 GMT</pubDate>
+      <description><![CDATA[Both countries have said that they will not hesitate to conduct joint interventions in the future.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Yankees acquire Luis Garcia Jr. from Nationals in interesting trade before MLB deadline</title>
-      <link>https://www.foxnews.com/sports/yankees-acquire-luis-garcia-jr-nationals-interesting-trade-mlb-deadline</link>
-      <guid isPermaLink="false">fc2a5b6b6de67a73fb23da5e4967606a7c26b2bf</guid>
-      <pubDate>Sun, 02 Aug 2026 22:43:38 GMT</pubDate>
-      <description><![CDATA[Luis Garcia Jr. brings an NL-leading .560 slugging percentage to the Yankees, but his fit alongside Jazz Chisholm Jr. and Ben Rice raises questions.]]></description>
+      <title>Deadliest animal in every US state revealed, from moose and bears to dogs</title>
+      <link>https://www.foxnews.com/us/deadliest-animals-every-us-state</link>
+      <guid isPermaLink="false">bf41693f11cec122dc69f693277d376818eeb3c9</guid>
+      <pubDate>Mon, 03 Aug 2026 02:37:27 GMT</pubDate>
+      <description><![CDATA[A new report identifies the deadliest animal in every U.S. state, with snakes leading nationwide while bears, sharks, insects and even dogs top other regions.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Joe Manchin says he would never support a socialist candidate, warns against 'crazy' postions</title>
-      <link>https://www.foxnews.com/media/joe-manchin-says-he-would-never-support-socialist-candidate-warns-against-crazy-postions</link>
-      <guid isPermaLink="false">cf19776dd1103d2bc04d7ab1ef53628f6db66a5e</guid>
-      <pubDate>Sun, 02 Aug 2026 22:32:35 GMT</pubDate>
-      <description><![CDATA[Former West Virginia Sen. Joe Manchin slammed DSA-backed candidates and socialist platforms, saying he could never support their candidacy despite their popularity.]]></description>
+      <title>Gavin Williams' perfect game bid leads to benches-clearing altercation between Guardians and Diamondbacks</title>
+      <link>https://www.foxnews.com/sports/gavin-williams-perfect-game-bid-leads-benches-clearing-altercation-guardians-diamondbacks</link>
+      <guid isPermaLink="false">7364f4f86e5bdf04af1862032373ff6c7db47051</guid>
+      <pubDate>Mon, 03 Aug 2026 02:21:11 GMT</pubDate>
+      <description><![CDATA[Gavin Williams was pitching a perfect game before Tim Tawa's controversial bunt attempt sparked a benches-clearing scrum during a rain delay.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Landman' star Ali Larter shows off her fit physique in barely-there bikinis during yacht vacation in Italy</title>
-      <link>https://www.foxnews.com/entertainment/landman-star-ali-larter-shows-off-fit-physique-barely-there-bikinis-yacht-vacation-italy</link>
-      <guid isPermaLink="false">efe9e9c859d73649ef0f200e64e95a0f609ea7e0</guid>
-      <pubDate>Sun, 02 Aug 2026 22:19:46 GMT</pubDate>
-      <description><![CDATA[Ali Larter, 50, shared stunning bikini photos from her Italian superyacht vacation, showcasing the fitness routine that keeps her camera-ready.]]></description>
+      <title>Saints make shocking Ja'Lynn Polk retirement move after former second-round pick disappears</title>
+      <link>https://www.foxnews.com/sports/saints-shocking-jalynn-polk-retirement-move-former-second-round-pick-disappears</link>
+      <guid isPermaLink="false">38d7f1c490793a9e0f3c69d21fcb21e0318ebef1</guid>
+      <pubDate>Mon, 03 Aug 2026 02:14:12 GMT</pubDate>
+      <description><![CDATA[Ja'Lynn Polk scrubbed his Instagram and went dark just days before the Saints placed the 24-year-old wide receiver on the reserve/retired list.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>President Trump celebrates Bedminster club championship, brags little practice was needed to score a 70</title>
-      <link>https://www.foxnews.com/outkick-sports/president-trump-celebrates-bedminster-club-championship-brags-little-practice-needed-score-70</link>
-      <guid isPermaLink="false">4aecc69d84669db10ee4438c3e9dabd1451ce23f</guid>
-      <pubDate>Sun, 02 Aug 2026 22:15:47 GMT</pubDate>
-      <description><![CDATA[Trump posted a scorecard of 70 at Bedminster's championship course, claiming his 40th club championship title in the senior division on Sunday.]]></description>
+      <title>Trailblazing former Republican Rep Kay Granger dies at 83: 'Broke barriers'</title>
+      <link>https://www.foxnews.com/politics/trailblazing-former-republican-rep-kay-granger-dies-83-broke-barriers</link>
+      <guid isPermaLink="false">0b43c5154a6e39fd4c6374d5c1450c59a16fd918</guid>
+      <pubDate>Mon, 03 Aug 2026 02:01:52 GMT</pubDate>
+      <description><![CDATA[Former Rep. Kay Granger, a trailblazing Texas Republican who served nearly three decades in Congress and became Fort Worth’s first female mayor, has died at 83.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Spencer Pratt reacts to Spokane devastation with blunt wildfire warning and message of faith</title>
-      <link>https://www.foxnews.com/us/spencer-pratt-reacts-spokane-devastation-blunt-wildfire-warning-message-faith</link>
-      <guid isPermaLink="false">0b0341c67cd24925152f71f7c37d70f199333c1d</guid>
-      <pubDate>Sun, 02 Aug 2026 22:08:12 GMT</pubDate>
-      <description><![CDATA[Spencer Pratt urges families not to wait for disaster after Spokane wildfire evacuation displaces thousands, drawing on his Palisades Fire experience.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>'No guarantees' - joyful Glasgow cannot banish all Commonwealth Games doubts</title>
-      <link>https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a71a9e62eb91933d963e6b4d87cd032a6118a7a4</guid>
-      <pubDate>Sun, 02 Aug 2026 21:45:22 GMT</pubDate>
-      <description><![CDATA[Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future.]]></description>
+      <title>Donald Trump's granddaughter Kai Trump reveals her unexpected song of the year pick</title>
+      <link>https://www.foxnews.com/entertainment/donald-trump-granddaughter-kai-trump-reveals-unexpected-song-year-pick</link>
+      <guid isPermaLink="false">6a41898e27006bf94d9f7a1d0d0f44933ba40138</guid>
+      <pubDate>Mon, 03 Aug 2026 01:46:19 GMT</pubDate>
+      <description><![CDATA[Kai Trump revealed Adele's "Rolling in the Deep" as her song of the year in a new video, surprising fans with the classic 2010 hit as her pick.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>James Carville vows to abandon Democratic Party if far-left Hasan Piker becomes leading voice</title>
-      <link>https://www.foxnews.com/media/james-carville-vows-abandon-democratic-party-far-left-hasan-piker-becomes-leading-voice</link>
-      <guid isPermaLink="false">31d68bedec85b60cef454f64f1d015897e0339a5</guid>
-      <pubDate>Sun, 02 Aug 2026 21:40:22 GMT</pubDate>
-      <description><![CDATA[James Carville vows to leave the Democratic Party if socialist streamer Hasan Piker becomes a leading force, warning the two-party system faces stress.]]></description>
-      <category>weather</category>
+      <title>Malaysian boy on trial for allegedly murdering girl in school</title>
+      <link>https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d1865ac92d38f3cb1638f9db1d33d49f164d1dc7</guid>
+      <pubDate>Mon, 03 Aug 2026 01:43:16 GMT</pubDate>
+      <description><![CDATA[The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Chad Gable overcome with emotion as he beats Penta for the Intercontinental Championship at SummerSlam</title>
+      <link>https://www.foxnews.com/sports/chad-gable-overcome-emotion-beats-penta-intercontinental-championship-summerslam</link>
+      <guid isPermaLink="false">1ba8352a769b5408663d0b1e9eb28e249e5cb35b</guid>
+      <pubDate>Mon, 03 Aug 2026 01:41:17 GMT</pubDate>
+      <description><![CDATA[Chad Gable survived a Mexican Destroyer and locked in the ankle lock to finally capture the WWE Intercontinental Championship on his sixth attempt.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Massive Attack respond after Singapore ban over Palestine display</title>
+      <link>https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">05d148b7a87c3f19dd99e137a5b06fa43387275f</guid>
+      <pubDate>Mon, 03 Aug 2026 01:31:05 GMT</pubDate>
+      <description><![CDATA[The UK band says they are "surprised and disappointed" by their treatment over shouting "free Palestine" at a concert there.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began</title>
+      <link>https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">876b2cb24ae48b0641a8c1c660ace2caac9f337a</guid>
+      <pubDate>Mon, 03 Aug 2026 01:04:23 GMT</pubDate>
+      <description><![CDATA[Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Two crew killed after firefighting helicopters collide in Greece, as British pilot survives</title>
+      <link>https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0fa80837ef64cee2d4ac88d9b747c0bab3f8a9c8</guid>
+      <pubDate>Mon, 03 Aug 2026 01:03:31 GMT</pubDate>
+      <description><![CDATA[One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>What are the 'luteal uglies'? And how they're affecting women</title>
+      <link>https://www.bbc.co.uk/news/articles/cy0jk6wjkn0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b625c86fb77e6dcafcc7f568f327556014e32544</guid>
+      <pubDate>Mon, 03 Aug 2026 00:57:22 GMT</pubDate>
+      <description><![CDATA[More women than ever are talking about the luteal phase on social media, but how does it actually affect you?]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump suggests new talks with Iran to begin on Monday</title>
+      <link>https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">57b1ff7bea6738f15c770ee96c23a2a85a315003</guid>
+      <pubDate>Mon, 03 Aug 2026 00:11:18 GMT</pubDate>
+      <description><![CDATA[Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>East Coast faces double threat of flash flooding in the North and tropical downpours in the South</title>
@@ -373,62 +429,6 @@
       <pubDate>Sun, 02 Aug 2026 21:29:35 GMT</pubDate>
       <description><![CDATA[Another round of storms capable of causing flash flooding is expected to impact major cities on the East Coast to start the workweek. While the Northeast and Mid-Atlantic will face the greatest risk for flash flooding, tropical moisture will also fuel heavy rain and a few strong storms from the Carolinas into Florida.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Burnham pledges to be 'relentless' in curbing small boat crossings</title>
-      <link>https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e414b9c89d0aaa3a4b1576e4c9d9679d0778cdee</guid>
-      <pubDate>Sun, 02 Aug 2026 21:18:26 GMT</pubDate>
-      <description><![CDATA[The prime minister says enforcement is increased but there also need to be more safe routes into the UK.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Early eating habits could have lasting effects on dementia risk, study suggests</title>
-      <link>https://www.foxnews.com/health/early-eating-habits-could-have-lasting-effects-dementia-risk-study-suggests</link>
-      <guid isPermaLink="false">6ba52dde22ebc9b39269fd24646383657a9ab486</guid>
-      <pubDate>Sun, 02 Aug 2026 21:18:05 GMT</pubDate>
-      <description><![CDATA[A study of about 64,000 people found that lower sugar intake during pregnancy and early life was linked to up to 23% lower dementia risk decades later.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ariana Grande pulls out of musical for break from 'endless' scrutiny</title>
-      <link>https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bb5b4dd8a444f523ad0eaed1163cdaf29f7c93bb</guid>
-      <pubDate>Sun, 02 Aug 2026 21:02:29 GMT</pubDate>
-      <description><![CDATA[The US singer, 33, will "step back from visibility" at the end of her world tour, her representative says.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Cowboys owner Jerry Jones has Tony Romo's back, believes he will 'work through' OWI arrest</title>
-      <link>https://www.foxnews.com/sports/cowboys-owner-jerry-jones-tony-romo-back-believe-work-through-owi-arrest</link>
-      <guid isPermaLink="false">08f196dbcbd286466e89058d4c2cc3637fe0d22b</guid>
-      <pubDate>Sun, 02 Aug 2026 20:56:31 GMT</pubDate>
-      <description><![CDATA[Jerry Jones said Tony Romo will "work through" his recent Wisconsin OWI arrest, praising his former quarterback's ability to handle adversity.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Two crew killed after firefighting helicopters collide in Greece, as British pilot survives</title>
-      <link>https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0fa80837ef64cee2d4ac88d9b747c0bab3f8a9c8</guid>
-      <pubDate>Sun, 02 Aug 2026 20:36:37 GMT</pubDate>
-      <description><![CDATA[One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Off-duty trooper and armed citizen hailed as heroes after returning fire on In-N-Out gunman</title>
-      <link>https://www.foxnews.com/us/police-identify-suspect-deadly-idaho-in-n-out-shooting-say-he-died-self-inflicted-gunshot-wound</link>
-      <guid isPermaLink="false">54774a07eb7cffacefec865c0ff73802f1571365</guid>
-      <pubDate>Sun, 02 Aug 2026 20:34:34 GMT</pubDate>
-      <description><![CDATA[Police identified Chad Williams as the suspect in the Twin Falls, Idaho, In-N-Out Burger shooting that left three people dead and seven others injured.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Chris Sabin, Alex Shelley make All Elite Wrestling debut</title>
-      <link>https://www.foxnews.com/sports/chris-sabin-alex-shelley-make-all-elite-wrestling-debut</link>
-      <guid isPermaLink="false">38e8032731d8e3bbf5bb0f89d95906bbffbf848e</guid>
-      <pubDate>Sun, 02 Aug 2026 20:31:35 GMT</pubDate>
-      <description><![CDATA[The Motor City Machine Guns debuted on AEW "Collision" in Detroit, aligning with the Bang Bang Gang after an eight-man tag team match turned chaotic.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Severe storms target Northern Plains and Midwest with hail and damaging winds to kick off August</title>
