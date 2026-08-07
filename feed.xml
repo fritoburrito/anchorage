@@ -5,12 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 17:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 17:48:17 GMT</lastBuildDate>
+    <item>
+      <title>Monty Roberts, who trained horses through trust, dies at 91</title>
+      <link>https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training</link>
+      <guid isPermaLink="false">ca39346d607f2dd71c6998908a142d22c061d44d</guid>
+      <pubDate>Fri, 07 Aug 2026 17:48:17 GMT</pubDate>
+      <description><![CDATA[The internationally acclaimed horseman defied the conventional method of breaking horses and developed his own gentler approach — based on horses' non-verbal language. Roberts spoke with Fresh Air in 1997.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Anchorage Weather: Today - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 17:48:00 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 18:48:38 GMT</pubDate>
       <description><![CDATA[65°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 65. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +26,7 @@
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 17:48:00 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 18:48:38 GMT</pubDate>
       <description><![CDATA[51°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 51. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +34,7 @@
       <title>Anchorage Weather: Saturday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 17:48:00 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 18:48:38 GMT</pubDate>
       <description><![CDATA[69°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 69. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +42,7 @@
       <title>Anchorage Weather: Saturday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 17:48:00 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 18:48:38 GMT</pubDate>
       <description><![CDATA[53°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 53. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +50,25 @@
       <title>Anchorage Weather: Sunday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 17:48:00 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 18:48:38 GMT</pubDate>
       <description><![CDATA[66°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 66. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Healing is collective: Reflections on a family healing camp</title>
+      <link>https://www.juneauempire.com/2026/08/07/healing-is-collective-reflections-on-a-family-healing-camp/</link>
+      <guid isPermaLink="false">dfca4d0509177d4c15ff361b094cc2c049f1b4fd</guid>
+      <pubDate>Fri, 07 Aug 2026 18:30:00 GMT</pubDate>
+      <description><![CDATA[Woven: Peoples and Place looks at camp held by Haa Tóoch Lichéesh]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Officials work on solution to Suicide Basin flooding</title>
+      <link>https://www.juneauempire.com/2026/08/07/officials-work-on-solution-to-suicide-basin-flooding/</link>
+      <guid isPermaLink="false">e54db39ce1360192d2b37ef72c0de3b410509709</guid>
+      <pubDate>Fri, 07 Aug 2026 18:00:00 GMT</pubDate>
+      <description><![CDATA[Suicide Basin has released glacier lake outburst floods along Mendenhall Lake and River annually]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Bill introduced by Alaska’s Murkowski aims to promote use of eDNA analysis in fishery management</title>
@@ -271,36 +295,84 @@
       <category>local</category>
     </item>
     <item>
-      <title>Brick by Brick: Kenai’s Russian Kiln — Part 3</title>
-      <link>https://www.homernews.com/2026/08/06/brick-by-brick-kenais-russian-kiln-part-3/</link>
-      <guid isPermaLink="false">23363ae513df84b4e09e0cc3fc57ac26c9b6b977</guid>
-      <pubDate>Thu, 06 Aug 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[AUTHOR’S NOTE: Other than some raw numbers, the history of brick making in colonial Alaska is poorly understood. Nevertheless, the Russian government in Alaska considered the manufacture of bricks highly important. During the 19th century, the Russian-American Company had kilns in at least nine different locations, including Kenai from 1841 to 1866.]]></description>
-      <category>local</category>
+      <title>Obesity rates have doubled in England since 1993 - what's going on?</title>
+      <link>https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">97502a11157185f623ddeedd68011f6be50799ed</guid>
+      <pubDate>Fri, 07 Aug 2026 18:38:46 GMT</pubDate>
+      <description><![CDATA[Around seven million more adults are living with obesity than would have been if obesity rates had stayed the same as 1993.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Letters to the editor</title>
-      <link>https://www.homernews.com/2026/08/06/letters-to-the-editor-426/</link>
-      <guid isPermaLink="false">dc687d50084fe8ac08daa61904c834c593a7fe15</guid>
-      <pubDate>Thu, 06 Aug 2026 11:30:00 GMT</pubDate>
-      <description><![CDATA[Family let down by hospital care]]></description>
-      <category>local</category>
+      <title>EXCLUSIVE: Title IX defender Payton McNabb praises Sophie Cunningham, reacts to Caitlin Clark</title>
+      <link>https://www.foxnews.com/outkick-sports/exclusive-title-ix-defender-payton-mcnabb-praises-sophie-cunningham-reacts-caitlin-clark</link>
+      <guid isPermaLink="false">f87f4d9e6b85d8e80026383639956b4c80d7274e</guid>
+      <pubDate>Fri, 07 Aug 2026 18:38:43 GMT</pubDate>
+      <description><![CDATA[Payton McNabb applauds Sophie Cunningham's courage, rips Cheryl Reeve's trans inclusion stance, and explains why Caitlin Clark's voice matters.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Artwork brings Homer’s summer to life for First Friday</title>
-      <link>https://www.homernews.com/2026/08/06/artwork-brings-homers-summer-to-life-for-first-friday/</link>
-      <guid isPermaLink="false">6169c118ec64c0c94c7b11e9cc2c78cee43785b2</guid>
-      <pubDate>Thu, 06 Aug 2026 10:30:00 GMT</pubDate>
-      <description><![CDATA[A summer stroll through Homer’s downtown is a perfect way to spend a Friday night. And a collection of Homer art galleries and public art spaces will make sure there’s plenty to pique your interest during First Friday.]]></description>
-      <category>local</category>
+      <title>Former NBA first round pick Enes Kanter Freedom declares for 2027 WNBA Draft</title>
+      <link>https://www.foxnews.com/outkick-sports/former-nba-first-round-pick-enes-kanter-freedom-declares-2027-wnba-draft</link>
+      <guid isPermaLink="false">5325383d3b8b198afae16d0531e87bf9153b7e61</guid>
+      <pubDate>Fri, 07 Aug 2026 18:34:52 GMT</pubDate>
+      <description><![CDATA[Enes Kanter Freedom declares eligibility for the 2027 WNBA Draft, citing self-identification rules in a challenge to the league's inclusion policies.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>OPINION: State maintenance work making a mess of Homer roadsides</title>
-      <link>https://www.homernews.com/2026/08/06/opinion-state-maintenance-work-making-a-mess-of-homer-roadsides/</link>
-      <guid isPermaLink="false">3216088ea6de2eb39063a183f13a030dfe9791ed</guid>
-      <pubDate>Thu, 06 Aug 2026 10:30:00 GMT</pubDate>
-      <description><![CDATA[Brute force approach is outmoded for an Alaska that depends on its beauty to bolster the economy]]></description>
-      <category>local</category>
+      <title>Heidi Klum goes topless in racy anniversary beach snaps with husband on St. Barts vacation</title>
+      <link>https://www.foxnews.com/entertainment/heidi-klum-topless-racy-anniversary-beach-snaps-husband-st-barts-vacation</link>
+      <guid isPermaLink="false">23a2bb7c999f3af06d4bfa9ab68a76ad4c21eb47</guid>
+      <pubDate>Fri, 07 Aug 2026 18:32:07 GMT</pubDate>
+      <description><![CDATA[Heidi Klum shared topless beach photos on Instagram while celebrating her seventh wedding anniversary with Tom Kaulitz in St. Barts this week.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>El Niño intensifies Puerto Rico's record drought and water crisis as water rationing begins</title>
+      <link>https://www.foxweather.com/weather-news/el-nino-intensifying-puerto-rico-drought-water-crisis-rationing</link>
+      <guid isPermaLink="false">904a65d44abe811e40d32538fb352f800cd9aae3</guid>
+      <pubDate>Fri, 07 Aug 2026 18:29:27 GMT</pubDate>
+      <description><![CDATA[Water rationing officially began across parts of Puerto Rico Friday as the U.S. commonwealth grapples with significant drought and water shortages. Forecasters say a strong El Niño climate pattern is now intensifying drought conditions.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>US Army offering defense firms 'concierge access' to test weapons at military ranges</title>
+      <link>https://www.foxnews.com/politics/us-army-offering-defense-firms-concierge-access-test-weapons-military-ranges</link>
+      <guid isPermaLink="false">5d6bec6e1f5f85e9727b65765f6706dda3ba3225</guid>
+      <pubDate>Fri, 07 Aug 2026 18:25:26 GMT</pubDate>
+      <description><![CDATA[Army Secretary Dan Driscoll says defense companies can now book military test ranges within 30 days through a new online portal with concierge access.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Another court blocks White House ballroom work, teeing up a Supreme Court review</title>
+      <link>https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress</link>
+      <guid isPermaLink="false">6bc3a84741d8316213f11e1b09ba6e0f26093026</guid>
+      <pubDate>Fri, 07 Aug 2026 18:10:37 GMT</pubDate>
+      <description><![CDATA[A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Socialist House nominee's radical law-and-order vision: 'What are illegals?'</title>
+      <link>https://www.foxnews.com/politics/socialist-house-nominee-radical-law-order-vision-what-are-illegals</link>
+      <guid isPermaLink="false">0d4931cdcb4406985cd5d0b54cf51524210faa4d</guid>
+      <pubDate>Fri, 07 Aug 2026 18:04:23 GMT</pubDate>
+      <description><![CDATA[Chris Rabb questioned the premise of "illegal immigrants" and claimed 99% of police work does not involve pursuing criminals in a heated exchange.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump says White House ballroom ruling jeopardizes lives of future presidents, vows Supreme Court appeal</title>
+      <link>https://www.foxnews.com/politics/trump-white-house-ballroom-ruling-jeopardizes-lives-future-presidents-vows-supreme-court-appeal</link>
+      <guid isPermaLink="false">97d1cd0b2b7d63415578529ef2db73ed525f5ffb</guid>
+      <pubDate>Fri, 07 Aug 2026 17:57:00 GMT</pubDate>
+      <description><![CDATA[Trump vows an immediate Supreme Court appeal after a federal appeals court ordered construction halted on his "massive" White House ballroom project.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Politicians, private jets and power - the life of a Fifa president</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d2533536bd71eff03efb7f4eaefddce9ca8a4969</guid>
+      <pubDate>Fri, 07 Aug 2026 17:45:06 GMT</pubDate>
+      <description><![CDATA[Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Saudi Arabia, Turkey and Pakistan sign defence pact</title>
@@ -383,91 +455,19 @@
       <category>world</category>
     </item>
     <item>
-      <title>Lindsey Graham's final mission to punish Putin clears Senate after yearlong fight</title>
-      <link>https://www.foxnews.com/politics/lindsey-grahams-final-mission-punish-putin-clears-senate-after-yearlong-fight</link>
-      <guid isPermaLink="false">8c60706dba8ff303f254275e0f90907309daa2b3</guid>
-      <pubDate>Fri, 07 Aug 2026 17:25:58 GMT</pubDate>
-      <description><![CDATA[The sanctions bill targets Russia's oil and gas revenue with up to 500% tariffs on Russian imports and penalties on countries buying Russian energy.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>North Korea expert warns US can 'never take their eye off' Kim Jong Un following missile test during Iran war</title>
-      <link>https://www.foxnews.com/politics/north-korea-expert-warns-us-never-take-eye-kim-jong-un-following-missile-test-iran-war</link>
-      <guid isPermaLink="false">95b7908b27ec4251b1c0b35e30d32e7d691bd8e7</guid>
-      <pubDate>Fri, 07 Aug 2026 17:18:53 GMT</pubDate>
-      <description><![CDATA[A North Korea expert said the U.S. can never take its eye off Kim Jong Un and the Korean Peninsula after North Korea test-fired a missile this week.]]></description>
-      <category>kenai</category>
-    </item>
-    <item>
-      <title>How police left a registered sex offender free to murder and attack women</title>
-      <link>https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0a15f73d04144a38449b15506052a3cfc996b014</guid>
-      <pubDate>Fri, 07 Aug 2026 17:12:27 GMT</pubDate>
-      <description><![CDATA[Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Cambridge to review process for hiring senior academics after Jason Arday resignation</title>
-      <link>https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d98bfafb7efa8b632264461b585fac89140f1501</guid>
-      <pubDate>Fri, 07 Aug 2026 17:09:32 GMT</pubDate>
-      <description><![CDATA[Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be "marking its own homework".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Smart toilet seat could detect AFib in 30 seconds</title>
-      <link>https://www.foxnews.com/tech/smart-toilet-seat-detect-afib-30-seconds</link>
-      <guid isPermaLink="false">2ba7e0513611bf2df9e193eed0903be03f22bd7d</guid>
-      <pubDate>Fri, 07 Aug 2026 17:00:41 GMT</pubDate>
-      <description><![CDATA[The HARO EKG-seat by Hamberger Medical records a six-lead EKG in 30 seconds while you sit, scanning for atrial fibrillation and irregular heartbeat.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NBA star Kyrie Irving got his apology, but four COVID-era athletes still waiting for theirs from the media</title>
-      <link>https://www.foxnews.com/outkick-sports/kyrie-irving-got-apology-four-covid-era-athletes-still-waiting-theirs-media</link>
-      <guid isPermaLink="false">a0205cbacb0745c0e67be40c5555d3130af409d0</guid>
-      <pubDate>Fri, 07 Aug 2026 16:54:26 GMT</pubDate>
-      <description><![CDATA[Beyond Kyrie Irving's apology from Stephen A. Smith, Novak Djokovic and three other athletes still await media accountability for their stance.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Streeting 'sickened' by sex abuse claims at Army college</title>
-      <link>https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7b0d26aba49109bd40e2307065066b79b069ed6c</guid>
-      <pubDate>Fri, 07 Aug 2026 16:53:25 GMT</pubDate>
-      <description><![CDATA[The defence secretary promises to look into what went wrong at the college in North Yorkshire.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Serial sex offender guilty of murdering two women and raping third</title>
-      <link>https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2b809ab79e98e7b37ce20f0626da089a2b52be19</guid>
-      <pubDate>Fri, 07 Aug 2026 16:46:50 GMT</pubDate>
-      <description><![CDATA[Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Maryland's lone congressional Republican blasts Moore's redistricting push as alleged 2028 White House play</title>
-      <link>https://www.foxnews.com/politics/maryland-lone-congressional-republican-blasts-moore-redistricting-push-alleged-2028-white-house-play</link>
-      <guid isPermaLink="false">29187f44ec92ea2761cb1db07da8903039e02b35</guid>
-      <pubDate>Fri, 07 Aug 2026 16:46:31 GMT</pubDate>
-      <description><![CDATA[Rep. Andy Harris claims Gov. Wes Moore is pushing a Maryland ballot amendment to eliminate his district in furtherance of presidential ambitions.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Six-hour train services between London and Stirling running with no toilets after fault</title>
-      <link>https://www.bbc.co.uk/news/articles/cd7lzy85ywdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">00e7844f55f8d529b167ac82be99fb18f8061f76</guid>
-      <pubDate>Fri, 07 Aug 2026 16:42:43 GMT</pubDate>
-      <description><![CDATA[Services have been stopping for longer at stations to allow passengers to get off and use toilets on platforms.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Bryan Norcross: The tropical Atlantic remains closed for business though long-range models show stirring</title>
       <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-august-7-2026</link>
       <guid isPermaLink="false">dbb7a65bb318fb5ea6c1015a0b91a7af10d8ecde</guid>
       <pubDate>Fri, 07 Aug 2026 14:34:09 GMT</pubDate>
       <description><![CDATA[Extremely hostile upper-level winds and Saharan dust continue to dominate the tropical Atlantic, so the National Hurricane Center is predicting that nothing will develop through next week, which will take us to the middle of August.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>40 million Americans under severe thunderstorm threat across 6 states as sweltering heat fuels summer storms</title>
+      <link>https://www.foxweather.com/weather-news/another-round-storms-threatens-east-coast-heavy-rain-flooding</link>
+      <guid isPermaLink="false">6c87b9bd34554e63a24992501bc4d9790cd7d8dd</guid>
+      <pubDate>Fri, 07 Aug 2026 00:50:39 GMT</pubDate>
+      <description><![CDATA[Millions of people across the East Coast and Ohio Valley could see more strong thunderstorms Friday through Sunday, bringing pockets of torrential rain and a risk of flash flooding after storms swamped parts of the Northeast earlier this week.]]></description>
       <category>weather</category>
     </item>
     <item>
