@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 15:52:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 15:54:24 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 15:52:08 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 15:54:24 GMT</pubDate>
       <description><![CDATA[65°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 65. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 15:52:08 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 15:54:24 GMT</pubDate>
       <description><![CDATA[51°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 51. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Saturday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 15:52:08 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 15:54:24 GMT</pubDate>
       <description><![CDATA[69°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 69. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Saturday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 15:52:08 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 15:54:24 GMT</pubDate>
       <description><![CDATA[53°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 53. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,8 +42,16 @@
       <title>Anchorage Weather: Sunday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 15:52:08 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 15:54:24 GMT</pubDate>
       <description><![CDATA[66°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 66. Southwest wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Marlins outfielders collide, knock fly ball over wall to give Braves star a home run in brutal mishap</title>
+      <link>https://www.foxnews.com/sports/marlins-outfielders-collide-knock-fly-ball-over-wall-give-braves-star-home-run-brutal-mishap</link>
+      <guid isPermaLink="false">ce7d415e0782311485ca4883e4d1aa855fa9e793</guid>
+      <pubDate>Fri, 07 Aug 2026 15:46:44 GMT</pubDate>
+      <description><![CDATA[Two Miami Marlins outfielders colliding on the warning track, accidentally knocking Ronald Acuña Jr.'s deep fly ball over the wall for a homer.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -303,6 +311,14 @@
       <category>local</category>
     </item>
     <item>
+      <title>Seven killed after Thai student opens fire at home and school</title>
+      <link>https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">35ed013050666cd0a16287a515eb5085fb71d562</guid>
+      <pubDate>Fri, 07 Aug 2026 15:51:16 GMT</pubDate>
+      <description><![CDATA[Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Seven killed after teen shooter opens fire at home and school in Thailand</title>
       <link>https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">35ed013050666cd0a16287a515eb5085fb71d562</guid>
@@ -383,6 +399,14 @@
       <category>world</category>
     </item>
     <item>
+      <title>Officer who led PC Harper investigation 'appalled' killers could be released early</title>
+      <link>https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">90ad40169d8249d5cf110e02c578dbab49ac95fb</guid>
+      <pubDate>Fri, 07 Aug 2026 15:29:23 GMT</pubDate>
+      <description><![CDATA[Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Cambridge University professor resigns after major plagiarism accusations prompt investigation</title>
       <link>https://www.foxnews.com/media/cambridge-university-professor-resigns-major-plagiarism-accusations-prompt-investigation</link>
       <guid isPermaLink="false">8ebcc3df86dec0310310f77a1f7bf05c56575970</guid>
@@ -439,36 +463,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Streeting 'sickened' by sex abuse claims at Army college</title>
-      <link>https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7b0d26aba49109bd40e2307065066b79b069ed6c</guid>
-      <pubDate>Fri, 07 Aug 2026 14:34:29 GMT</pubDate>
-      <description><![CDATA[The defence secretary promises to look into what went wrong at the college in North Yorkshire.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Bryan Norcross: The tropical Atlantic remains closed for business though long-range models show stirring</title>
       <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-august-7-2026</link>
       <guid isPermaLink="false">dbb7a65bb318fb5ea6c1015a0b91a7af10d8ecde</guid>
       <pubDate>Fri, 07 Aug 2026 14:34:09 GMT</pubDate>
       <description><![CDATA[Extremely hostile upper-level winds and Saharan dust continue to dominate the tropical Atlantic, so the National Hurricane Center is predicting that nothing will develop through next week, which will take us to the middle of August.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Blanche's path to confirmation appears clear after winning key Republican's support</title>
-      <link>https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general</link>
-      <guid isPermaLink="false">3a8240d8812b879ae117f2f958ea6b32b0d01e26</guid>
-      <pubDate>Fri, 07 Aug 2026 14:12:59 GMT</pubDate>
-      <description><![CDATA[A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Serial sex offender guilty of double murder and rape</title>
-      <link>https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2b809ab79e98e7b37ce20f0626da089a2b52be19</guid>
-      <pubDate>Fri, 07 Aug 2026 14:07:17 GMT</pubDate>
-      <description><![CDATA[Simon Levy was a serial sex offender who was being monitored by the Metropolitan Police.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Thunderstorms, flooding threaten East Coast through weekend as sweltering heat fuels summer storms</title>
