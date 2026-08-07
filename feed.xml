@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 20:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:35:51 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 20:03:53 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 20:35:51 GMT</pubDate>
       <description><![CDATA[65°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 65. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 20:03:53 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 20:35:51 GMT</pubDate>
       <description><![CDATA[51°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 51. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Saturday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 20:03:53 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 20:35:51 GMT</pubDate>
       <description><![CDATA[69°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 69. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Saturday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 20:03:53 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 20:35:51 GMT</pubDate>
       <description><![CDATA[53°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 53. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +42,17 @@
       <title>Anchorage Weather: Sunday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 20:03:53 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 20:35:51 GMT</pubDate>
       <description><![CDATA[66°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 66. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>5th annual Sacred Acre music festival returns to Kenai Peninsula Fairgrounds next month</title>
+      <link>https://www.homernews.com/2026/08/07/5th-annual-sacred-acre-music-festival-returns-to-kenai-peninsula-fairgrounds-next-month/</link>
+      <guid isPermaLink="false">24bb127d7b924ac6a50ba7d88a9218d7b42bbea4</guid>
+      <pubDate>Fri, 07 Aug 2026 20:14:00 GMT</pubDate>
+      <description><![CDATA[Over 1,000 people attend the immersive electronic music and eco-activism festival each year]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>As Trump pushes for a massive $1.5T in defense spending, a few states brace for a windfall</title>
@@ -279,12 +287,44 @@
       <category>local</category>
     </item>
     <item>
-      <title>South Peninsula Hospital brings ear, nose and throat clinic to Homer, Kenai</title>
-      <link>https://www.homernews.com/2026/08/06/south-peninsula-hospital-brings-ear-nose-and-throat-clinic-to-homer-kenai/</link>
-      <guid isPermaLink="false">27abb66a789183e3f41e8c6e480b7a2ea274a448</guid>
-      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
-      <description><![CDATA[Dr. James Zirul, Dr. Fredrick Freeman, and Teresa Thompson are joining SPH full time]]></description>
-      <category>local</category>
+      <title>Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry</title>
+      <link>https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9fd3f591579d6cad8775e2a596a683b0dab407ed</guid>
+      <pubDate>Fri, 07 Aug 2026 20:33:32 GMT</pubDate>
+      <description><![CDATA[No arrests were made at the time and the investigation was closed.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The Colorado Buffaloes are once again getting roasted online for looking like a Pop Warner team</title>
+      <link>https://www.foxnews.com/outkick-sports/colorado-buffaloes-roasted-online-looking-pop-warner-team</link>
+      <guid isPermaLink="false">693b496921b2ec2ac33469f26670dd80e5d883ff</guid>
+      <pubDate>Fri, 07 Aug 2026 20:17:27 GMT</pubDate>
+      <description><![CDATA[A new Colorado Buffaloes practice video has fans questioning the team's size, comparing Coach Prime's squad to a Pop Warner or high school team.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Watch: BBC questions Infantino over backing as Fifa president</title>
+      <link>https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e183c545cb4ccc730a27d390a7c35824700c6087</guid>
+      <pubDate>Fri, 07 Aug 2026 20:12:26 GMT</pubDate>
+      <description><![CDATA[The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>It sounds like Tony Romo may never return to CBS</title>
+      <link>https://www.foxnews.com/outkick-sports/tony-romo-may-never-return-cbs</link>
+      <guid isPermaLink="false">f9ec72484f662598b550dc5b2c150ba071e93e72</guid>
+      <pubDate>Fri, 07 Aug 2026 20:09:04 GMT</pubDate>
+      <description><![CDATA[Tony Romo's OWI arrest may trigger a morals clause exit from CBS, but his $18 million annual contract through 2030 sets up a major legal battle.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Unearthed clip of El-Sayed revealing his 'hate' for iconic Michigan town sparks online firestorm: 'Dark heart'</title>
+      <link>https://www.foxnews.com/politics/unearthed-clip-el-sayed-revealing-hate-iconic-michigan-town-sparks-online-firestorm-dark-heart</link>
+      <guid isPermaLink="false">56c4d7910d8a3379c9378b14d46cae0a2289e9ce</guid>
+      <pubDate>Fri, 07 Aug 2026 20:04:29 GMT</pubDate>
+      <description><![CDATA[A resurfaced clip shows Abdul El-Sayed saying he "hates" Mackinac Island, sparking viral backlash as he seeks Michigan's Democratic Senate nomination.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Tennessee Titans revamped their mascot and social media certainly had some thoughts</title>
@@ -407,52 +447,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Former NBA first round pick Enes Kanter Freedom declares for 2027 WNBA Draft</title>
-      <link>https://www.foxnews.com/outkick-sports/former-nba-first-round-pick-enes-kanter-freedom-declares-2027-wnba-draft</link>
-      <guid isPermaLink="false">5325383d3b8b198afae16d0531e87bf9153b7e61</guid>
-      <pubDate>Fri, 07 Aug 2026 18:34:52 GMT</pubDate>
-      <description><![CDATA[Enes Kanter Freedom declares eligibility for the 2027 WNBA Draft, citing self-identification rules in a challenge to the league's inclusion policies.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Heidi Klum goes topless in racy anniversary beach snaps with husband on St. Barts vacation</title>
-      <link>https://www.foxnews.com/entertainment/heidi-klum-topless-racy-anniversary-beach-snaps-husband-st-barts-vacation</link>
-      <guid isPermaLink="false">23a2bb7c999f3af06d4bfa9ab68a76ad4c21eb47</guid>
-      <pubDate>Fri, 07 Aug 2026 18:32:07 GMT</pubDate>
-      <description><![CDATA[Heidi Klum shared topless beach photos on Instagram while celebrating her seventh wedding anniversary with Tom Kaulitz in St. Barts this week.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>El Niño intensifies Puerto Rico's record drought and water crisis as water rationing begins</title>
       <link>https://www.foxweather.com/weather-news/el-nino-intensifying-puerto-rico-drought-water-crisis-rationing</link>
       <guid isPermaLink="false">904a65d44abe811e40d32538fb352f800cd9aae3</guid>
       <pubDate>Fri, 07 Aug 2026 18:29:27 GMT</pubDate>
       <description><![CDATA[Water rationing officially began across parts of Puerto Rico Friday as the U.S. commonwealth grapples with significant drought and water shortages. Forecasters say a strong El Niño climate pattern is now intensifying drought conditions.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>US Army offering defense firms 'concierge access' to test weapons at military ranges</title>
-      <link>https://www.foxnews.com/politics/us-army-offering-defense-firms-concierge-access-test-weapons-military-ranges</link>
-      <guid isPermaLink="false">5d6bec6e1f5f85e9727b65765f6706dda3ba3225</guid>
-      <pubDate>Fri, 07 Aug 2026 18:25:26 GMT</pubDate>
-      <description><![CDATA[Army Secretary Dan Driscoll says defense companies can now book military test ranges within 30 days through a new online portal with concierge access.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Another court blocks White House ballroom work, teeing up a Supreme Court review</title>
-      <link>https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress</link>
-      <guid isPermaLink="false">6bc3a84741d8316213f11e1b09ba6e0f26093026</guid>
-      <pubDate>Fri, 07 Aug 2026 18:10:37 GMT</pubDate>
-      <description><![CDATA[A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Socialist House nominee's radical law-and-order vision: 'What are illegals?'</title>
-      <link>https://www.foxnews.com/politics/socialist-house-nominee-radical-law-order-vision-what-are-illegals</link>
-      <guid isPermaLink="false">0d4931cdcb4406985cd5d0b54cf51524210faa4d</guid>
-      <pubDate>Fri, 07 Aug 2026 18:04:23 GMT</pubDate>
-      <description><![CDATA[Chris Rabb questioned the premise of "illegal immigrants" and claimed 99% of police work does not involve pursuing criminals in a heated exchange.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Bryan Norcross: The tropical Atlantic remains closed for business though long-range models show stirring</title>
