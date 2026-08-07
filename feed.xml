@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 17:44:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 17:48:00 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 17:44:33 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 17:48:00 GMT</pubDate>
       <description><![CDATA[65°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 65. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 17:44:33 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 17:48:00 GMT</pubDate>
       <description><![CDATA[51°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 51. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Saturday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 17:44:33 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 17:48:00 GMT</pubDate>
       <description><![CDATA[69°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 69. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Saturday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 17:44:33 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 17:48:00 GMT</pubDate>
       <description><![CDATA[53°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 53. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Sunday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 17:44:33 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 17:48:00 GMT</pubDate>
       <description><![CDATA[66°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 66. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -303,6 +303,30 @@
       <category>local</category>
     </item>
     <item>
+      <title>Saudi Arabia, Turkey and Pakistan sign defence pact</title>
+      <link>https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d16d38017cfe419907b86cfb7d2cbfdefd07c29e</guid>
+      <pubDate>Fri, 07 Aug 2026 17:42:54 GMT</pubDate>
+      <description><![CDATA[Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Blackjack losses, a chilling phone call and a diverted flight cap a chaotic Las Vegas vacation</title>
+      <link>https://www.foxnews.com/outkick-culture/blackjack-losses-chilling-phone-call-diverted-flight-cap-chaotic-las-vegas-vacation</link>
+      <guid isPermaLink="false">c041b935c515e2fd3aa6024443361c9ee7fe4f46</guid>
+      <pubDate>Fri, 07 Aug 2026 17:42:11 GMT</pubDate>
+      <description><![CDATA[David Hookstead's Las Vegas trip featured high-limit blackjack tables, Golden Tiki, Stage Door and machine guns while navigating threats in Las Vegas.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US appeals court halts Trump ballroom project paving way for Supreme Court showdown</title>
+      <link>https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">00fed587ccb48d9ddcbe5d1af2ef04b450b6b2da</guid>
+      <pubDate>Fri, 07 Aug 2026 17:41:30 GMT</pubDate>
+      <description><![CDATA["Whether or not a ⁠massive ballroom should be constructed is for Congress to decide," the appeals panel's ​majority said.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>GOP senator breaks with Trump over 'woke' Smithsonian history battle</title>
       <link>https://www.foxnews.com/politics/gop-senator-breaks-trump-over-woke-smithsonian-history-battle</link>
       <guid isPermaLink="false">4beabe03b63ad74869ed68af24985bd587b22e55</guid>
@@ -436,30 +460,6 @@
       <guid isPermaLink="false">00e7844f55f8d529b167ac82be99fb18f8061f76</guid>
       <pubDate>Fri, 07 Aug 2026 16:42:43 GMT</pubDate>
       <description><![CDATA[Services have been stopping for longer at stations to allow passengers to get off and use toilets on platforms.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Detroit-area couple accused of throwing explosive device with alarming 2-word message into neighbor's yard</title>
-      <link>https://www.foxnews.com/us/detroit-area-couple-accused-throwing-explosive-device-alarming-2-word-message-neighbors-yard</link>
-      <guid isPermaLink="false">52e3e08758abe0fb8bf6e5eae39a8533ecfb6625</guid>
-      <pubDate>Fri, 07 Aug 2026 16:39:55 GMT</pubDate>
-      <description><![CDATA[Jason and Megan Showers face decades in prison after allegedly throwing an explosive device marked "BYE BYE" into their 72-year-old neighbor's yard.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Congress must fix the Protect College Sports Act before girls pay the price</title>
-      <link>https://www.foxnews.com/opinion/congress-fix-protect-college-sports-act-girls-pay-price</link>
-      <guid isPermaLink="false">335f527cb3554b167138c81a2442e4db80a3ede3</guid>
-      <pubDate>Fri, 07 Aug 2026 16:35:41 GMT</pubDate>
-      <description><![CDATA[Alliance Defending Freedom warns the Protect College Sports Act could undermine 27 state laws keeping men out of women's sports despite its intent.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings</title>
-      <link>https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7dc1d2ca7c7563799778ff1e29fcbc9ae2cf4de3</guid>
-      <pubDate>Fri, 07 Aug 2026 16:33:50 GMT</pubDate>
-      <description><![CDATA[Italy has said it will not accept "ultimatums or impositions" after the mass crossing of migrants from Morocco to Ceuta last week.]]></description>
       <category>world</category>
     </item>
     <item>
