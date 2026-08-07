@@ -1,30 +1,37 @@
-name: Update RSS feed
+name: Update RSS Feed
 
 on:
-  push:
-    paths:
-      - "scripts/generate_feed.py"
-      - "scripts/import_news.py"
-      - "scripts/import_to_supabase.py"
-      - "scripts/send_summary_email.py"
-      - ".github/workflows/update-feed.yml"
   workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
+  push:
+    paths:
+      - "scripts/import_news.py"
+      - "scripts/import_to_supabase.py"
+      - "scripts/generate_feed.py"
+      - "scripts/send_summary_email.py"
+      - "requirements.txt"
+      - ".github/workflows/update-feed.yml"
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-rss-feed
+  cancel-in-progress: false
+
 jobs:
-  build-feed:
+  update-feed:
     runs-on: ubuntu-latest
 
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
-      - name: Check out repo
+      - name: Check out repository
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -37,9 +44,6 @@ jobs:
           pip install -r requirements.txt
 
       - name: Import news
-        env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: python scripts/import_news.py
 
       - name: Import news into Supabase
@@ -48,7 +52,7 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: python scripts/import_to_supabase.py
 
-      - name: Generate feed
+      - name: Generate feed and pages
         run: python scripts/generate_feed.py
 
       - name: Send summary email
@@ -58,10 +62,23 @@ jobs:
           EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
         run: python scripts/send_summary_email.py
 
-      - name: Commit updated files
+      - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/feed_items.json feed.xml index.html weather.html
-          git diff --staged --quiet || git commit -m "Auto-update RSS feed"
-          git push
+
+          git add \
+            data/feed_items.json \
+            data/import_stats.json \
+            feed.xml \
+            index.html \
+            weather.html
+
+          if git diff --staged --quiet; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Auto-update RSS feed"
+          git pull --rebase origin main
+          git push origin main

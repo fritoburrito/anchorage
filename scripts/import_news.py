@@ -471,7 +471,7 @@ def main():
     print("Saved", len(combined), "items")
     print("World/general items reserved:", len(world_items))
 
-    sync_to_supabase(combined)
+    # Supabase import is handled separately by import_to_supabase.py
 
 
 if __name__ == "__main__":
