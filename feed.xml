@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 20:35:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:34:21 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 20:35:51 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 21:34:21 GMT</pubDate>
       <description><![CDATA[65°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 65. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 20:35:51 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 21:34:21 GMT</pubDate>
       <description><![CDATA[51°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 51. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Saturday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 20:35:51 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 21:34:21 GMT</pubDate>
       <description><![CDATA[69°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 69. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Saturday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 20:35:51 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 21:34:21 GMT</pubDate>
       <description><![CDATA[53°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 53. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +42,33 @@
       <title>Anchorage Weather: Sunday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 07 Aug 2026 20:35:51 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 21:34:21 GMT</pubDate>
       <description><![CDATA[66°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 66. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>OPINION: The internal sabotage of America’s security foundations</title>
+      <link>https://www.homernews.com/2026/08/07/opinion-the-internal-sabotage-of-americas-security-foundations/</link>
+      <guid isPermaLink="false">c2db45bb03bdd3f4022e4b22b145638e437d8ed4</guid>
+      <pubDate>Fri, 07 Aug 2026 21:30:00 GMT</pubDate>
+      <description><![CDATA[Every fortress in history has fallen one of two ways: an enemy battered down its walls or those inside opened the gates.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska researchers part of study looking into ancient humans’ preference for female mammoths</title>
+      <link>https://www.homernews.com/2026/08/07/alaska-researchers-part-of-study-looking-into-ancient-humans-preference-for-female-mammoths/</link>
+      <guid isPermaLink="false">7b536ce47a3baf162fe5103338e9c4665df720b2</guid>
+      <pubDate>Fri, 07 Aug 2026 21:30:00 GMT</pubDate>
+      <description><![CDATA[An international research team analyzed the DNA in over 500 ancient mammoth bones]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Dark money group backing Senate Republicans launches network of fake news sites</title>
+      <link>https://alaskabeacon.com/2026/08/07/dark-money-group-backing-senate-republicans-launches-network-of-fake-news-sites/</link>
+      <guid isPermaLink="false">ab95497817d6bbf30b1a63157582bca81fe0d3f1</guid>
+      <pubDate>Fri, 07 Aug 2026 21:17:26 GMT</pubDate>
+      <description><![CDATA[This article was originally published by Popular Information. The Alaska Navigator bills itself as “independent news covering the Last Frontier.” On June 10, the outlet published an article headlined, “As Fentanyl Deaths Rise in Alaska, Sullivan Pushes Tougher Penalties and Enforcement.” The piece, which has no byline, reports that Senator Dan Sullivan (R-AK) — who […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>5th annual Sacred Acre music festival returns to Kenai Peninsula Fairgrounds next month</title>
@@ -271,20 +295,108 @@
       <category>local</category>
     </item>
     <item>
-      <title>Alaska superintendents drill down on education policy with some gubernatorial candidates</title>
-      <link>https://alaskabeacon.com/2026/08/06/alaska-superintendents-drill-down-on-education-policy-with-some-gubernatorial-candidates/</link>
-      <guid isPermaLink="false">87afde61682bb0df506f3209ba88b53a139eccee</guid>
-      <pubDate>Thu, 06 Aug 2026 13:45:18 GMT</pubDate>
-      <description><![CDATA[Six candidates for Alaska governor from across the political spectrum appeared side-by-side in a room full of superintendents and school officials in Juneau and promised that boosting education funding would be a priority of their administration, if elected. Six candidates participated in the debate, out of 17 running for governor this year. Randy Hoffbeck, a […]]]></description>
-      <category>local</category>
+      <title>Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy</title>
+      <link>https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f66a47c275c9ca706b42b55f13fcafef103cc061</guid>
+      <pubDate>Fri, 07 Aug 2026 21:32:30 GMT</pubDate>
+      <description><![CDATA[In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and spoke frankly on his father's declining health.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Fruit tarts help celebrate life’s sweet victories</title>
-      <link>https://www.homernews.com/2026/08/06/fruit-tarts-help-celebrate-lifes-sweet-victories/</link>
-      <guid isPermaLink="false">7a1ae69a52bc8c20066deef40c2876d35dc48451</guid>
-      <pubDate>Thu, 06 Aug 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[This is a great recipe for a not-too-sweet tart shell]]></description>
-      <category>local</category>
+      <title>Watch: BBC asks Infantino if he will resign as Fifa president</title>
+      <link>https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e183c545cb4ccc730a27d390a7c35824700c6087</guid>
+      <pubDate>Fri, 07 Aug 2026 21:24:17 GMT</pubDate>
+      <description><![CDATA[The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Earth, Wind &amp; Fire abruptly postpones show after band member’s medical emergency</title>
+      <link>https://www.foxnews.com/entertainment/earth-wind-fire-abruptly-postpones-show-after-band-members-medical-emergency</link>
+      <guid isPermaLink="false">07703b3ac0dad7e5d7e0b8eca9fe144976272985</guid>
+      <pubDate>Fri, 07 Aug 2026 21:23:03 GMT</pubDate>
+      <description><![CDATA[Earth, Wind & Fire canceled their Chase Center show with Lionel Richie due to a band member's medical emergency, with a rescheduled date pending.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Chicago Sky address Sophie Cunningham rally planned outside home game vs Fever</title>
+      <link>https://www.foxnews.com/outkick-sports/chicago-sky-address-sophie-cunningham-rally-planned-outside-home-game-vs-fever</link>
+      <guid isPermaLink="false">ace95cc46d1b1cfabbbd9f21409514f845d46fd2</guid>
+      <pubDate>Fri, 07 Aug 2026 21:20:45 GMT</pubDate>
+      <description><![CDATA[The Chicago Sky responded to the Sophie Cunningham rally planned outside the United Center ahead of Saturday's game against the Indiana Fever.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>San Francisco dad questioned by park rangers for teaching his own kids tennis at public court</title>
+      <link>https://www.foxnews.com/us/san-francisco-dad-questioned-park-rangers-teaching-kids-tennis-public-court</link>
+      <guid isPermaLink="false">b76856275a42ef49148646b031346fb9f9c446aa</guid>
+      <pubDate>Fri, 07 Aug 2026 21:19:39 GMT</pubDate>
+      <description><![CDATA[Sam Dogen says San Francisco park rangers asked whether he had a tennis permit while he was practicing with his two children on a public court.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Thai PM vows to introduce stricter gun laws after eight killed in shooting</title>
+      <link>https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b58e53d751b2924666e136521a3977f8557ae0c3</guid>
+      <pubDate>Fri, 07 Aug 2026 21:19:27 GMT</pubDate>
+      <description><![CDATA[Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fox News Campus Radicals Newsletter: Duke Law's alleged race-based admissions accused of defying Supreme Court</title>
+      <link>https://www.foxnews.com/politics/fox-news-campus-radicals-newsletter-duke-laws-alleged-race-based-admissions-accused-defying-supreme-court</link>
+      <guid isPermaLink="false">5523ccd145d2b3b980fb48bc51194d4a057c036b</guid>
+      <pubDate>Fri, 07 Aug 2026 21:15:58 GMT</pubDate>
+      <description><![CDATA[Stay up to date with the Fox News Campus Radicals newsletter.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Police failings revealed as sex offender left free to murder and attack women</title>
+      <link>https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0a15f73d04144a38449b15506052a3cfc996b014</guid>
+      <pubDate>Fri, 07 Aug 2026 21:10:48 GMT</pubDate>
+      <description><![CDATA[Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Christie Brinkley has fans mistaking supermodel for daughter in new photos</title>
+      <link>https://www.foxnews.com/entertainment/christie-brinkley-has-fans-mistaking-supermodel-daughter-new-photos</link>
+      <guid isPermaLink="false">1b7217f058c0d1c5303afb1e9f30caf837238d5f</guid>
+      <pubDate>Fri, 07 Aug 2026 21:09:18 GMT</pubDate>
+      <description><![CDATA[Christie Brinkley posed next to a vintage truck to promote her zero-sugar prosecco line, leaving fans convinced she was one of her daughters.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WNBPA issues statement embracing diversity and inclusion amid trans athlete debate in women's sports</title>
+      <link>https://www.foxnews.com/outkick-sports/wnbpa-issues-statement-embracing-diversity-inclusion-amid-trans-athlete-debate-womens-sports</link>
+      <guid isPermaLink="false">90e0359ca7a8bdced8d464d874d0063b3f3210de</guid>
+      <pubDate>Fri, 07 Aug 2026 21:05:01 GMT</pubDate>
+      <description><![CDATA[The Women's National Basketball Players Association praised diversity and inclusion while condemning hate against transgender people in a new statement.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Missing Illinois kayakers found dead near strait called Death's Door known for shipwrecks</title>
+      <link>https://www.foxnews.com/us/missing-illinois-kayakers-found-dead-near-strait-called-deaths-door-known-shipwrecks</link>
+      <guid isPermaLink="false">a80bc29c16e236100a3acdcd8eb9f4268e186972</guid>
+      <pubDate>Fri, 07 Aug 2026 20:46:17 GMT</pubDate>
+      <description><![CDATA[David Thalman and Francesca Warick were likely not wearing life jackets when their bodies were recovered off Washington Island after kayaking Death's Door strait.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kidnapped rare Serbian eagle freed into wild after rescue</title>
+      <link>https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fbade28d6edd2cae13880aa2bac65da99c771daa</guid>
+      <pubDate>Fri, 07 Aug 2026 20:40:56 GMT</pubDate>
+      <description><![CDATA[Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Caribbean hot spot gripped by water crisis, and tourists scramble to reschedule plans</title>
+      <link>https://www.foxnews.com/travel/caribbean-hot-spot-gripped-water-crisis-tourists-scramble-reschedule-plans</link>
+      <guid isPermaLink="false">054d7cfbd2ea9807a27c42c3a984d97b7505199a</guid>
+      <pubDate>Fri, 07 Aug 2026 20:38:31 GMT</pubDate>
+      <description><![CDATA[San Juan faces 48-hour water outages, and Puerto Rico's severe drought has raised concerns for tourists visiting the island. Some travelers have canceled dream vacations.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry</title>
@@ -341,110 +453,6 @@
       <pubDate>Fri, 07 Aug 2026 19:49:00 GMT</pubDate>
       <description><![CDATA[James Carville says 2028 Democratic primary voters will decide the party's future direction, warning of a schism if the DSA wing takes power.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies</title>
-      <link>https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7dc1d2ca7c7563799778ff1e29fcbc9ae2cf4de3</guid>
-      <pubDate>Fri, 07 Aug 2026 19:39:45 GMT</pubDate>
-      <description><![CDATA[Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>‘Sopranos’ stars reunite in emotional farewell for Vincent Pastore</title>
-      <link>https://www.foxnews.com/entertainment/sopranos-stars-reunite-emotional-farewell-vincent-pastore</link>
-      <guid isPermaLink="false">92e943eafdbcd3128ae0f5d710b12d14f9a05f0f</guid>
-      <pubDate>Fri, 07 Aug 2026 19:38:47 GMT</pubDate>
-      <description><![CDATA[Steven Van Zandt served as pallbearer at Vincent Pastore's funeral, revealing he spoke to his "Sopranos" co-star just one day before his death.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump renews push to fire Fed Governor Lisa Cook</title>
-      <link>https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve</link>
-      <guid isPermaLink="false">5b1465dadaee85234226fafe64b95a50db11475d</guid>
-      <pubDate>Fri, 07 Aug 2026 19:35:35 GMT</pubDate>
-      <description><![CDATA[Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Carrie Underwood still has her Sunday Night Football fastball, awkward Jim Harbaugh &amp; Baywatch Livvy Dunne!</title>
-      <link>https://www.foxnews.com/outkick-sports/carrie-underwood-sunday-night-football-fastball-awkward-jim-harbaugh-baywatch-livvy-dunne</link>
-      <guid isPermaLink="false">5a98c7d49b52c30b1bb09b3442bd5dc4ed645fcc</guid>
-      <pubDate>Fri, 07 Aug 2026 19:30:33 GMT</pubDate>
-      <description><![CDATA[Carrie Underwood returns for Year 14 on "Sunday Night Football" with a rock 'n' roll anthem twist, and Cris Collinsworth memes are back in full force.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Beachgoers warned after deadly 'flesh-eating' bacteria kills 5 in southern state</title>
-      <link>https://www.foxnews.com/health/beachgoers-warned-deadly-flesh-eating-bacteria-kills-5-southern-state</link>
-      <guid isPermaLink="false">0c39069f4f72a2f4acf261e21acaf42bb0c3b94f</guid>
-      <pubDate>Fri, 07 Aug 2026 19:22:48 GMT</pubDate>
-      <description><![CDATA[Five deaths in Louisiana from Vibrio vulnificus mark a sharp rise, as all nine cases involved open wounds exposed to warm seawater this year.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Serial sex offender guilty of murdering two women and raping third</title>
-      <link>https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2b809ab79e98e7b37ce20f0626da089a2b52be19</guid>
-      <pubDate>Fri, 07 Aug 2026 19:16:07 GMT</pubDate>
-      <description><![CDATA[Simon Levy, from Tottenham, was left free to kill due to a string of police and court blunders.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The men who fled these socialist regimes have a terrifying warning</title>
-      <link>https://www.foxnews.com/media/men-fled-socialist-regimes-terrifying-warning</link>
-      <guid isPermaLink="false">4d6b5f24f9c166abd8c7ae099f31c853f145c0c4</guid>
-      <pubDate>Fri, 07 Aug 2026 19:08:18 GMT</pubDate>
-      <description><![CDATA[Three immigrants who fled Venezuela, Cuba and the Soviet Union describe the nightmare of socialism, from blackouts and censorship to lost freedom.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>The men that fled these socialist regimes have a terrifying warning</title>
-      <link>https://www.foxnews.com/media/men-fled-socialist-regimes-terrifying-warning</link>
-      <guid isPermaLink="false">4d6b5f24f9c166abd8c7ae099f31c853f145c0c4</guid>
-      <pubDate>Fri, 07 Aug 2026 19:08:18 GMT</pubDate>
-      <description><![CDATA[Three immigrants who fled Venezuela, Cuba, and the Soviet Union describe the nightmare of socialism, from blackouts and censorship to lost freedom.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Former DNC Vice Chair David Hogg claims Democratic moderates 'don't have the right values'</title>
-      <link>https://www.foxnews.com/media/former-dnc-vice-chair-david-hogg-claims-democratic-moderates-dont-have-right-values</link>
-      <guid isPermaLink="false">5e58ad246357b1b52173beaba5f34f6807ad161b</guid>
-      <pubDate>Fri, 07 Aug 2026 19:04:15 GMT</pubDate>
-      <description><![CDATA[Former DNC Vice Chair David Hogg told moderate Democrats they "don't have the right values" as progressive candidates score primary wins before 2026.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Duke Law's alleged race-based admissions accused of defying Supreme Court ruling: DOJ</title>
-      <link>https://www.foxnews.com/politics/duke-laws-alleged-race-based-admissions-accused-defying-supreme-court-ruling-doj</link>
-      <guid isPermaLink="false">358bfa5cefe6c8bd54c093fea3d8b1b8ccbbf0dd</guid>
-      <pubDate>Fri, 07 Aug 2026 19:00:55 GMT</pubDate>
-      <description><![CDATA[Duke Law School allegedly gave Black applicants 3.5 times higher admission chances than Asian applicants with the same credentials, the DOJ says.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings</title>
-      <link>https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7dc1d2ca7c7563799778ff1e29fcbc9ae2cf4de3</guid>
-      <pubDate>Fri, 07 Aug 2026 18:56:33 GMT</pubDate>
-      <description><![CDATA[Italy has said it will not accept "ultimatums or impositions" after the mass crossing of migrants from Morocco to Ceuta last week.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Obesity rates have doubled in England since 1993 - what's going on?</title>
-      <link>https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">97502a11157185f623ddeedd68011f6be50799ed</guid>
-      <pubDate>Fri, 07 Aug 2026 18:38:46 GMT</pubDate>
-      <description><![CDATA[Around seven million more adults are living with obesity than would have been if obesity rates had stayed the same as 1993.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>EXCLUSIVE: Title IX defender Payton McNabb praises Sophie Cunningham, reacts to Caitlin Clark</title>
-      <link>https://www.foxnews.com/outkick-sports/exclusive-title-ix-defender-payton-mcnabb-praises-sophie-cunningham-reacts-caitlin-clark</link>
-      <guid isPermaLink="false">f87f4d9e6b85d8e80026383639956b4c80d7274e</guid>
-      <pubDate>Fri, 07 Aug 2026 18:38:43 GMT</pubDate>
-      <description><![CDATA[Payton McNabb applauds Sophie Cunningham's courage, rips Cheryl Reeve's trans inclusion stance, and explains why Caitlin Clark's voice matters.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>El Niño intensifies Puerto Rico's record drought and water crisis as water rationing begins</title>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">e5a9142cebbb9d258fe97b6563625e5fe57a5284</guid>
       <pubDate>Thu, 06 Aug 2026 14:24:18 GMT</pubDate>
       <description><![CDATA[NOAA maintained its forecast for a below-average Atlantic hurricane season, the agency announced in its final 2026 hurricane season outlook Thursday.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Power cut to thousands, evacuations remain as crews work to contain historic wildfires raging in Northwest</title>
-      <link>https://www.foxweather.com/weather-news/spokane-complex-fire-updates-evacuations-damage</link>
-      <guid isPermaLink="false">23348a173f9b82711e4d87ee9ef183429cb0a6d0</guid>
-      <pubDate>Thu, 06 Aug 2026 13:16:48 GMT</pubDate>
-      <description><![CDATA[A historic wildfire emergency has forced at least 65,000 people from their homes, completely upending local communities as the most destructive wildfire in Washington state history tears through the region. The Spokane Complex Fire has destroyed over 700 structures and scorched more than 10,000 acres, leaving neighborhoods shattered and completely unrecognizable.]]></description>
       <category>weather</category>
     </item>
   </channel>
