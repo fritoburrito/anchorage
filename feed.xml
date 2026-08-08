@@ -5,15 +5,7 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 12:00:00 GMT</lastBuildDate>
-    <item>
-      <title>Opinion: Europe's summer of heat</title>
-      <link>https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat</link>
-      <guid isPermaLink="false">dddca6cd28d37aa510cf057610496e7809963d97</guid>
-      <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
-      <description><![CDATA[Europe is in another brutal heat wave. The summer's earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths.]]></description>
-      <category>breaking</category>
-    </item>
+    <lastBuildDate>Fri, 07 Aug 2026 21:40:50 GMT</lastBuildDate>
     <item>
       <title>Southwest heat to rebuild days after widespread record-breaking temperatures</title>
       <link>https://www.foxweather.com/weather-news/southwest-summer-heat-rebuild-days-after-widespread-record-breaking-scorcher</link>
@@ -23,18 +15,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Overnight - Mostly Cloudy</title>
+      <title>Anchorage Weather: Overnight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 08 Aug 2026 12:37:19 GMT</pubDate>
-      <description><![CDATA[51°F. Wind  0 mph. Mostly cloudy, with a low around 51. Southwest wind around 0 mph.]]></description>
+      <pubDate>Sat, 08 Aug 2026 13:41:45 GMT</pubDate>
+      <description><![CDATA[51°F. Wind  0 mph. Partly cloudy, with a low around 51. South wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 08 Aug 2026 12:37:19 GMT</pubDate>
+      <pubDate>Sat, 08 Aug 2026 13:41:45 GMT</pubDate>
       <description><![CDATA[69°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 69. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +34,7 @@
       <title>Anchorage Weather: Saturday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 08 Aug 2026 12:37:19 GMT</pubDate>
+      <pubDate>Sat, 08 Aug 2026 13:41:45 GMT</pubDate>
       <description><![CDATA[54°F. Wind W 0 to 5 mph. Partly cloudy, with a low around 54. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +42,7 @@
       <title>Anchorage Weather: Sunday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 08 Aug 2026 12:37:19 GMT</pubDate>
+      <pubDate>Sat, 08 Aug 2026 13:41:45 GMT</pubDate>
       <description><![CDATA[68°F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 68. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,9 +50,17 @@
       <title>Anchorage Weather: Sunday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 08 Aug 2026 12:37:19 GMT</pubDate>
+      <pubDate>Sat, 08 Aug 2026 13:41:45 GMT</pubDate>
       <description><![CDATA[54°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 54. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>LETTER: Keep Juneau’s long-term flood solution moving forward</title>
+      <link>https://www.juneauempire.com/2026/08/08/letter-keep-juneaus-long-term-flood-solution-moving-forward/</link>
+      <guid isPermaLink="false">89b127529b25a324bda62eb36bc562f15c483c1f</guid>
+      <pubDate>Sat, 08 Aug 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[I want to thank the City and Borough of Juneau for the additional efforts being made this year to support and prepare those of us living in the glacial outburst flood area. Because of the increased communication, planning, and resources, I feel better informed and more prepared for this year’s outburst. After what many of us have experienced, that has made a real difference.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>I went to the Woods: Cooping with loss</title>
@@ -287,20 +287,92 @@
       <category>local</category>
     </item>
     <item>
-      <title>Opinion: Beyond the Deadlock— How a Direct-Invoice Mechanism Can Unlock Alaska LNG Right Now</title>
-      <link>https://mustreadalaska.com/opinion-beyond-the-deadlock-how-a-direct-invoice-mechanism-can-unlock-alaska-lng-right-now/</link>
-      <guid isPermaLink="false">91bfee307722f84e7d60e82031202a5a5b9a2a24</guid>
-      <pubDate>Thu, 06 Aug 2026 17:42:38 GMT</pubDate>
-      <description><![CDATA[By Jason Dutch As the Alaska Legislature convenes for its third special session of 2026, the mood in Juneau is a mix of exhaustion and predictability. We are watching a multi-billion-dollar energy-security lifeline get strangled by the same old political paralysis. On one side, the administration and private developers warn that forcing a traditional, front-loaded […] The post Opinion: Beyond the Deadlock— How a Direct-Invoice Mechanism Can Unlock Alaska LNG Right Now appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>K-pop's global wave inspires Chile's next pop stars</title>
+      <link>https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts</link>
+      <guid isPermaLink="false">e96c5fba7b2761bd28d247d65e7830df560f7a94</guid>
+      <pubDate>Sat, 08 Aug 2026 13:34:45 GMT</pubDate>
+      <description><![CDATA[K-pop conquered the world — now Chile's young creatives are remixing the movement and making it their own.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Alaska Department of Fish Game looks to boost Kenai Peninsula deer population</title>
-      <link>https://www.homernews.com/2026/08/06/alaska-department-of-fish-game-looks-to-boost-kenai-peninsula-deer-population/</link>
-      <guid isPermaLink="false">e8ea6f394787b745cfb1262d09e00426e3895fe0</guid>
-      <pubDate>Thu, 06 Aug 2026 17:30:00 GMT</pubDate>
-      <description><![CDATA[19 black-tailed deer were translocated from Sitkinak Island to the south end of the Kenai Peninsula]]></description>
-      <category>local</category>
+      <title>Child among three killed in Russian missile attacks near Kyiv</title>
+      <link>https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d56edb344975089394f1c03bd9c81627d6cabaa8</guid>
+      <pubDate>Sat, 08 Aug 2026 13:29:38 GMT</pubDate>
+      <description><![CDATA[Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Spain's migrant surge reignites debate over Europe’s Islamist terror threat</title>
+      <link>https://www.foxnews.com/world/spains-migrant-surge-reignites-debate-over-europes-islamist-terror-threat</link>
+      <guid isPermaLink="false">f52cf9394551854f0fbcff596b412f324253b2bc</guid>
+      <pubDate>Sat, 08 Aug 2026 13:23:51 GMT</pubDate>
+      <description><![CDATA[Spain recorded the EU's highest jihadist terrorism arrests in 2025 as suspected extremists were identified among 72,000 migrants flooding into Ceuta.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general</title>
+      <link>https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6ff63d9b355ff2cd94110236f01705c6638a3736</guid>
+      <pubDate>Sat, 08 Aug 2026 13:23:16 GMT</pubDate>
+      <description><![CDATA[The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New area to watch for development designated in Atlantic as tropical wave will move off Africa next week</title>
+      <link>https://www.foxweather.com/weather-news/area-to-watch-tropical-development-atlantic-hurricane-season-august-2026</link>
+      <guid isPermaLink="false">e206b1694736480f3b678b5be2392c00c35d4fb5</guid>
+      <pubDate>Sat, 08 Aug 2026 13:16:01 GMT</pubDate>
+      <description><![CDATA[The National Hurricane Center (NHC) has designated a new area to watch for tropical development during the 2026 Atlantic hurricane season.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>The WNBA has limited options after two men declared for the draft, and those options aren't great</title>
+      <link>https://www.foxnews.com/outkick-sports/wnba-limited-options-two-men-declared-draft-options-arent-great</link>
+      <guid isPermaLink="false">fd1a54a8544bfe098130521aae364d24d3619ef6</guid>
+      <pubDate>Sat, 08 Aug 2026 13:08:03 GMT</pubDate>
+      <description><![CDATA[Enes Canter Freedom and Royce White declared for the 2027 WNBA Draft, claiming transgender identity and forcing the league into a no-win situation.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Middle school student arrested after allegedly stashing homemade firearms for robbery plot: Sheriff</title>
+      <link>https://www.foxnews.com/us/middle-school-student-arrested-allegedly-stashing-homemade-firearms-robbery-plot-sheriff</link>
+      <guid isPermaLink="false">6fe5b05edc030a16e964cfdc32e397583e3861e1</guid>
+      <pubDate>Sat, 08 Aug 2026 13:00:58 GMT</pubDate>
+      <description><![CDATA[Two Florida middle school students allegedly built homemade firearms and explosives while researching mass school shootings, authorities say.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Teen accused of killing Citadel cadet and friend had lengthy rap sheet with little consequences, sheriff says</title>
+      <link>https://www.foxnews.com/us/teen-accused-killing-citadel-cadet-friend-lengthy-rap-sheet-little-consequences-sheriff-says</link>
+      <guid isPermaLink="false">a2cbdce89a360ae6fda256c5f1273957b49c7934</guid>
+      <pubDate>Sat, 08 Aug 2026 13:00:41 GMT</pubDate>
+      <description><![CDATA[The 17-year-old suspect in the DeLand double murder had charges dropped or dismissed repeatedly since 2021, Volusia County Sheriff Chitwood says.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'One Night Only' Review: Monica Barbaro and Callum Turner charm in lively high-concept rom-com</title>
+      <link>https://www.foxnews.com/opinion/one-night-only-review-monica-barbaro-callum-turner-charm-lively-high-concept-rom-com</link>
+      <guid isPermaLink="false">6f707fbc8afc29efef5dea7b2e7e693899bde541</guid>
+      <pubDate>Sat, 08 Aug 2026 13:00:39 GMT</pubDate>
+      <description><![CDATA[Fox News Digital reviews Universal Pictures' high-concept romantic comedy "One Night Only" starring Callum Turner and Monica Barbaro. Directed by Will Gluck.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Common marriage habit could quietly kill your sex life, expert warns</title>
+      <link>https://www.foxnews.com/health/common-marriage-habit-could-quietly-kill-your-sex-life-expert-warns</link>
+      <guid isPermaLink="false">e680aa784572c2fd444073c98e3687e6a1701cb2</guid>
+      <pubDate>Sat, 08 Aug 2026 13:00:06 GMT</pubDate>
+      <description><![CDATA[A clinical sexologist reveals the everyday habits that quietly kill intimacy and explains how couples can work together to reignite desire.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Georgia ICE sweep nabs over 700 criminal illegal aliens including sex offenders, child abusers</title>
+      <link>https://www.foxnews.com/media/georgia-ice-sweep-nabs-700-criminal-illegal-aliens-including-sex-offenders-child-abusers</link>
+      <guid isPermaLink="false">8a43d74c31708d7d853d9ae9582adccd9cdb135c</guid>
+      <pubDate>Sat, 08 Aug 2026 12:41:43 GMT</pubDate>
+      <description><![CDATA[Operation Safe Community in Atlanta, Georgia netted over 1,200 immigration arrests, with DHS saying 720 had criminal histories including sex crimes.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Protect College Sports Act stalls in overnight Senate showdown, vote pushed to September after chaotic evening</title>
@@ -309,6 +381,22 @@
       <pubDate>Sat, 08 Aug 2026 12:31:34 GMT</pubDate>
       <description><![CDATA[The Protect College Sports Act stalled Friday as senators filed amendments targeting conference realignment, women's sports, and NCAA liability.]]></description>
       <category>politics</category>
+    </item>
+    <item>
+      <title>Dem Senate hopeful flip-flops on emerging issue impacting communities across US</title>
+      <link>https://www.foxnews.com/politics/brown-embraced-amazon-data-centers-blaming-higher-utility-costs-high-stakes-senate-race</link>
+      <guid isPermaLink="false">65225dd9ed839771f81e1565dd69da4e2392cc88</guid>
+      <pubDate>Sat, 08 Aug 2026 12:30:18 GMT</pubDate>
+      <description><![CDATA[Former Democratic Senator Sherrod Brown celebrated Amazon datacenter construction in Ohio in 2015 but now campaigns against them as an electric grid drain.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>NBA forward Clarke's death due to effects of drugs</title>
+      <link>https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">29fda5a3ba64a25b5d9aeded5e4a8f54bc83fc29</guid>
+      <pubDate>Sat, 08 Aug 2026 12:05:04 GMT</pubDate>
+      <description><![CDATA[Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>US pledges $1bn support to Colombia as Trump-backed president sworn in</title>
@@ -367,94 +455,6 @@
       <category>world</category>
     </item>
     <item>
-      <title>Actress convicted as accessory after double murder made disturbing remark before killings, former friend says</title>
-      <link>https://www.foxnews.com/us/actress-convicted-accessory-double-murder-made-disturbing-remark-killings-former-friend-says</link>
-      <guid isPermaLink="false">b45c6b0a98d51fb0840abb98e388917021808028</guid>
-      <pubDate>Sat, 08 Aug 2026 12:00:11 GMT</pubDate>
-      <description><![CDATA[Daniel Wozniak's ex-fiancée Rachel Buffett is explored in the true crime series "A Killer Among Friends" as a former friend recalls chilling red flags.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Simon Levy victims urged to come forward as police accused of 'litany of failures'</title>
-      <link>https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">796e7b992e4f2ede92b990e308c5dd815b18399d</guid>
-      <pubDate>Sat, 08 Aug 2026 11:55:30 GMT</pubDate>
-      <description><![CDATA[The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump pumps brakes on Senate budget plan, delaying GOP SAVE America push</title>
-      <link>https://www.foxnews.com/politics/trump-pumps-brakes-senate-budget-plan-delaying-gop-save-america-push</link>
-      <guid isPermaLink="false">282fe302b5b9eb57e90a99225b8324fade810d64</guid>
-      <pubDate>Sat, 08 Aug 2026 11:25:58 GMT</pubDate>
-      <description><![CDATA[Senate Republicans left D.C. without passing the SAVE America Act as Trump intervened on the budget reconciliation vote over concerns it would fail.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Switzerland is a neutral nation but has more nuclear bunkers than any country in the world</title>
-      <link>https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers</link>
-      <guid isPermaLink="false">8313e6823b48194ca4bb60750bdd9384f4af79d8</guid>
-      <pubDate>Sat, 08 Aug 2026 11:01:00 GMT</pubDate>
-      <description><![CDATA[Instead of scrapping its network of bomb shelters after the Cold War, Switzerland kept building them. The country has more than 370,000 nuclear bomb shelters. Some are now used to house migrants.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Police bigwig accused of driving son's getaway car in gang shooing is sorority sisters with mayor: report</title>
-      <link>https://www.foxnews.com/us/police-bigwig-accused-driving-sons-getaway-car-gang-shooting-sorority-sisters-mayor-report</link>
-      <guid isPermaLink="false">4b69edbece0ae1e00d13dcb2d5f113034b1524e3</guid>
-      <pubDate>Sat, 08 Aug 2026 11:00:46 GMT</pubDate>
-      <description><![CDATA[Jennifer Lackard is accused of driving the getaway car for her son's alleged drive-by shooting near Bronx Criminal Court before her termination.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>I got stage 4 cancer in my 40s. My young daughter and husband keep me fighting</title>
-      <link>https://www.foxnews.com/opinion/got-stage-4-cancer-40s-young-daughter-husband-keep-fighting</link>
-      <guid isPermaLink="false">6b82b51787d8a4a201cb5a7ca10e1e463dc64eed</guid>
-      <pubDate>Sat, 08 Aug 2026 11:00:40 GMT</pubDate>
-      <description><![CDATA[A journalist and mother shares the grueling reality of fighting rare metastatic appendiceal cancer through chemotherapy, surgeries, and clinical trials.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>From Iron Dome to Abraham Accords: Congressional trips helped shape 15 years of US-Israel cooperation</title>
-      <link>https://www.foxnews.com/culture/iron-dome-abraham-accords-congressional-trips-shaped-15-years-us-israel-cooperation</link>
-      <guid isPermaLink="false">e39beb01ef388c65495ba023ef90a423fe0730fb</guid>
-      <pubDate>Sat, 08 Aug 2026 11:00:11 GMT</pubDate>
-      <description><![CDATA[USIEA has brought dozens of lawmakers to Israel over 15 years, shaping major congressional action on Iron Dome funding and military cooperation.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The Women's Professional Baseball League makes its historic debut</title>
-      <link>https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut</link>
-      <guid isPermaLink="false">24bec18850c294bad7306023e4025b7f179abc36</guid>
-      <pubDate>Sat, 08 Aug 2026 10:30:00 GMT</pubDate>
-      <description><![CDATA[The Los Angeles Queens, the New York Heights, the Boston Hunters and the San Francisco Firebells take the field in Springfield, Ill., as the Women's Pro Baseball League kicks off its inaugural season.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general</title>
-      <link>https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6ff63d9b355ff2cd94110236f01705c6638a3736</guid>
-      <pubDate>Sat, 08 Aug 2026 10:19:46 GMT</pubDate>
-      <description><![CDATA[Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Democratic socialist Francesca Hong has former child star, OnlyFans model in senior campaign role: report</title>
-      <link>https://www.foxnews.com/politics/democratic-socialist-francesca-hong-has-former-child-star-onlyfans-model-senior-campaign-role-report</link>
-      <guid isPermaLink="false">9ff8a8ef0c995e177180a94bcf63947e7adbfec1</guid>
-      <pubDate>Sat, 08 Aug 2026 10:11:05 GMT</pubDate>
-      <description><![CDATA[An OnlyFans model and sex worker advocate is reportedly serving as deputy campaign manager for Francesca Hong's Wisconsin governor campaign.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Charlotte career criminal records himself punching woman in unprovoked attack, posting to social media: police</title>
-      <link>https://www.foxnews.com/us/charlotte-career-criminal-records-himself-punching-woman-unprovoked-attack-posting-social-media-police</link>
-      <guid isPermaLink="false">ef5627209177eb660dd43bb2fd378dba876f0b08</guid>
-      <pubDate>Sat, 08 Aug 2026 10:00:38 GMT</pubDate>
-      <description><![CDATA[Social media video helped Charlotte-Mecklenburg police identify and arrest Di-Quan Schafar Hunt in connection with a July sidewalk attack. Records show he had been arrested at least nine times since 2023.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Tropical humidity grips the East Coast as millions along the I-95 corridor deal with intense summer heat</title>
       <link>https://www.foxweather.com/weather-news/tropical-humidity-east-hot-sticky-millions-grips-temperatures-coast</link>
       <guid isPermaLink="false">5405ec6f2921e2059470cbd73e7e09f3382fadab</guid>
@@ -503,6 +503,14 @@
       <category>weather</category>
     </item>
     <item>
+      <title>Flash flood threat expands from South Florida through North Carolina as tropical downpours lash the Southeast</title>
+      <link>https://www.foxweather.com/weather-news/weekend-wet-weather-headed-southeast-bringing-rounds-heavy-rain-thunderstorms</link>
+      <guid isPermaLink="false">56c6ac1d822f64a44f89835e999847423fcf8eb3</guid>
+      <pubDate>Fri, 07 Aug 2026 00:14:55 GMT</pubDate>
+      <description><![CDATA[Summer weekend plans are once again at risk for millions of people across the Southeast, as wet weather is expected to dampen the chances for time outdoors.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
       <title>Tropical downpours to soak Florida and Southeast coast this weekend, bringing thunderstorms and flood threat</title>
       <link>https://www.foxweather.com/weather-news/weekend-wet-weather-headed-southeast-bringing-rounds-heavy-rain-thunderstorms</link>
       <guid isPermaLink="false">56c6ac1d822f64a44f89835e999847423fcf8eb3</guid>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">6aa1f95235c9976dde373135b7e1d3a2635b668f</guid>
       <pubDate>Thu, 06 Aug 2026 22:08:39 GMT</pubDate>
       <description><![CDATA[It has been a busy month of activity in space so far this August, with the recent crashing of a SpaceX rocket's upper stage into the moon, along with more launches on the way.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Hawaii could be in path of tropical threat as El Niño boosts Eastern Pacific activity</title>
-      <link>https://www.foxweather.com/weather-news/hawaii-could-path-tropical-threat-el-nino-boosts-eastern-pacific-activity</link>
-      <guid isPermaLink="false">8827b87ed3991222cc61566096b981f400cf6ae9</guid>
-      <pubDate>Thu, 06 Aug 2026 18:05:10 GMT</pubDate>
-      <description><![CDATA[The National Hurricane Center (NHC) is monitoring two areas to watch for tropical development in the Eastern Pacific which long-range forecasts indicate could move toward Hawaii over the next 10 days.]]></description>
       <category>weather</category>
     </item>
   </channel>
