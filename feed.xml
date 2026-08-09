@@ -15,26 +15,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Overnight - Haze</title>
+      <title>Anchorage Weather: Today - Haze</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 09 Aug 2026 13:45:19 GMT</pubDate>
-      <description><![CDATA[54°F. Wind  0 mph. Haze and areas of fog. Partly cloudy, with a low around 54. West wind around 0 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Sunday - Haze</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 09 Aug 2026 13:45:19 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 14:29:46 GMT</pubDate>
       <description><![CDATA[68°F. Wind SW 0 to 5 mph. Haze and areas of fog. Mostly sunny, with a high near 68. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday Night - Haze</title>
+      <title>Anchorage Weather: Tonight - Haze</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 09 Aug 2026 13:45:19 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 14:29:46 GMT</pubDate>
       <description><![CDATA[54°F. Wind W 0 to 5 mph. Haze before 4am, then haze and areas of fog. Partly cloudy, with a low around 54. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +34,7 @@
       <title>Anchorage Weather: Monday - Haze</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 09 Aug 2026 13:45:19 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 14:29:46 GMT</pubDate>
       <description><![CDATA[70°F. Wind W 0 to 5 mph. Haze and areas of fog before 4pm. Mostly sunny, with a high near 70. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,8 +42,16 @@
       <title>Anchorage Weather: Monday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 09 Aug 2026 13:45:19 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 14:29:46 GMT</pubDate>
       <description><![CDATA[54°F. Wind SW 5 mph. Mostly clear, with a low around 54. Southwest wind around 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Tuesday - Partly Sunny then Isolated Rain Showers</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 09 Aug 2026 14:29:46 GMT</pubDate>
+      <description><![CDATA[67°F. Wind SW 0 to 5 mph. Isolated rain showers between 1pm and 4pm. Partly sunny, with a high near 67. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -271,12 +271,12 @@
       <category>local</category>
     </item>
     <item>
-      <title>Credit Union 1 stages grand opening celebration for new Homer branch</title>
-      <link>https://www.homernews.com/2026/08/07/credit-union-1-stages-grand-opening-celebration-for-new-homer-branch/</link>
-      <guid isPermaLink="false">12d7b7fcaf8b1161a3ed8dad4c7b70b66acb0dcf</guid>
-      <pubDate>Fri, 07 Aug 2026 10:30:00 GMT</pubDate>
-      <description><![CDATA[The new location will be at 475 East Pioneer Avenue]]></description>
-      <category>local</category>
+      <title>Author Dinesh D'Souza challenges Bible skeptics with 'startling' archaeological discoveries</title>
+      <link>https://www.foxnews.com/travel/dinesh-dsouza-challenges-bible-skeptics-startling-archaeological-discoveries</link>
+      <guid isPermaLink="false">fccbd34db2be2b916c9ac0b27ea02443b5cb0929</guid>
+      <pubDate>Sun, 09 Aug 2026 14:00:05 GMT</pubDate>
+      <description><![CDATA[The new book "The Stones Cry Out" by Dinesh D'Souza explores how the Pilate Stone, Caiaphas ossuary and Balaam inscription, among other artifacts, support biblical history.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Body of Good Samaritan recovered after rip current rescue in Myrtle Beach</title>
@@ -348,6 +348,14 @@
       <guid isPermaLink="false">5087f286786bc6469b11fe35ddad1efb9c4e155e</guid>
       <pubDate>Sun, 09 Aug 2026 12:39:47 GMT</pubDate>
       <description><![CDATA[President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation</title>
+      <link>https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8e8f81d9a10702ba0c675f36541c908bc599c14f</guid>
+      <pubDate>Sun, 09 Aug 2026 12:39:18 GMT</pubDate>
+      <description><![CDATA[The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -431,22 +439,6 @@
       <category>world</category>
     </item>
     <item>
-      <title>IN CHARTS: A visual breakdown of the Smithsonian's billion-dollar taxpayer-funded budget</title>
-      <link>https://www.foxnews.com/politics/charts-visual-breakdown-smithsonian-billion-dollar-taxpayer-funded-budget</link>
-      <guid isPermaLink="false">059b20c0c5addc9eb456bf1e175905e4030b2887</guid>
-      <pubDate>Sun, 09 Aug 2026 11:27:10 GMT</pubDate>
-      <description><![CDATA[Trump's proposed Smithsonian budget drops below $1 billion for the first time since 2020 after years of climbing federal appropriations under Biden.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Socialists rising in Colorado? Send in the Marines, GOP nominee says</title>
-      <link>https://www.foxnews.com/politics/socialists-rising-colorado-send-marines-nominee-says</link>
-      <guid isPermaLink="false">36ab5ecdddbaf2418d1023e0f1b31f96d9a6abd8</guid>
-      <pubDate>Sun, 09 Aug 2026 11:00:54 GMT</pubDate>
-      <description><![CDATA[Victor Marx and retired Marine Col. George Markert form an all-Marine ticket they say can combat what Marx calls the rise of communism in Colorado.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Farmers’ Almanac releases 2026-2027 winter forecast: What to expect across the U.S.</title>
       <link>https://www.foxweather.com/weather-news/farmers-almanac-releases-2026-winter-forecast-what-expect-across-us</link>
       <guid isPermaLink="false">61aee9b3beff743d456327880a082594ee498c22</guid>
@@ -484,6 +476,14 @@
       <guid isPermaLink="false">6c3deb1bc789aea5a2a34471ed662d16f8fd4d4a</guid>
       <pubDate>Sat, 08 Aug 2026 14:53:40 GMT</pubDate>
       <description><![CDATA[The National Hurricane Center is painting a large yellow area to watch in the central tropical Atlantic]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Atlantic basin wakes up with two areas to watch for potential development as tropical waves move off Africa</title>
+      <link>https://www.foxweather.com/weather-news/area-to-watch-tropical-development-atlantic-hurricane-season-august-2026</link>
+      <guid isPermaLink="false">e206b1694736480f3b678b5be2392c00c35d4fb5</guid>
+      <pubDate>Sat, 08 Aug 2026 13:16:01 GMT</pubDate>
+      <description><![CDATA[The National Hurricane Center has designated two new areas to watch for potential tropical development during the 2026 Atlantic hurricane season, with one showing a medium chance of formation and the other a low chance as activity begins to pick up across the Atlantic.]]></description>
       <category>weather</category>
     </item>
     <item>
