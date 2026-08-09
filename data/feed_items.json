@@ -400,6 +400,26 @@
     "rank": 100
   },
   {
+    "title": "Perez Hilton faces long recovery after self-harm livestream",
+    "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+    "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+    "pubDate": "Sun, 09 Aug 2026 04:32:06 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "WNBA walks back Caitlin Clark technical foul, sparing Fever star from suspension",
+    "link": "https://www.foxnews.com/outkick-sports/wnba-walks-back-caitlin-clark-technical-foul-sparing-fever-star-suspension",
+    "description": "Caitlin Clark's technical foul against the Chicago Sky was rescinded hours after the game, sparing her a one-game suspension for the Indiana Fever.",
+    "pubDate": "Sun, 09 Aug 2026 03:58:02 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
     "title": "More areas of UK likely to move into drought as fifth heatwave builds",
     "link": "https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss",
     "description": "With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains.",
@@ -500,6 +520,16 @@
     "rank": 10
   },
   {
+    "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
+    "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
+    "description": "A fire destroyed a warehouse, leaving heaps of rotting chicken, poultry and fish to attract flies and rats.",
+    "pubDate": "Sun, 09 Aug 2026 00:15:28 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
     "title": "President Trump receives big cheers from spectators during LIV Golf event at his New Jersey club",
     "link": "https://www.foxnews.com/outkick-sports/president-trump-receives-big-cheers-spectators-liv-golf-event-new-jersey-club",
     "description": "Trump received a big ovation from spectators while driving a golf cart at LIV Golf New York, held at his Trump National Golf Club Bedminster.",
@@ -507,6 +537,16 @@
     "category": "world",
     "tag": "world",
     "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Hundreds arrested over French wildfires, but who is to blame?",
+    "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+    "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+    "pubDate": "Sat, 08 Aug 2026 23:59:23 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
     "rank": 10
   },
   {
@@ -560,50 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Andy Burnham to embark on cost of living tour through the UK",
-    "link": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
-    "description": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
-    "pubDate": "Sat, 08 Aug 2026 23:10:50 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Molly Sims flaunts toned abs in mismatched bikini during perfect beach day with her kids",
-    "link": "https://www.foxnews.com/entertainment/molly-sims-flaunts-toned-abs-mismatched-bikini-perfect-beach-day-kids",
-    "description": "Molly Sims flaunted her toned abs in photos of her in a black bikini top and blue bikini bottoms while enjoying \"a perfect beach day' with her kids.",
-    "pubDate": "Sat, 08 Aug 2026 22:23:01 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "EXCLUSIVE: Teen girls recall Jersey Shore ride malfunction that left them stuck hanging upside down",
-    "link": "https://www.foxnews.com/us/exclusive-teen-girls-recall-jersey-shore-ride-malfunction-left-stuck-hanging-upside-down",
-    "description": "Two 13-year-olds recall the terrifying minutes they spent stuck upside down on the Wipe Out ride at Castaway Cove in Ocean City, New Jersey.",
-    "pubDate": "Sat, 08 Aug 2026 22:13:38 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "USA Volleyball suggests changes coming to sex testing, while junior families raise male athlete concerns",
-    "link": "https://www.foxnews.com/outkick-sports/usa-volleyball-suggests-changes-sex-testing-junior-families-raise-male-athlete-concerns",
-    "description": "Multiple families say their daughters competed against an alleged biological male in a USA Volleyball-sanctioned league, raising Title IX concerns.",
-    "pubDate": "Sat, 08 Aug 2026 22:10:55 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Tonight - Partly Cloudy then Areas Of Fog",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind W 0 to 5 mph. Areas of fog after 4am. Partly cloudy, with a low around 54. West wind 0 to 5 mph.",
-    "pubDate": "Sun, 09 Aug 2026 03:29:27 GMT",
+    "pubDate": "Sun, 09 Aug 2026 04:59:39 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Sunday - Areas Of Fog then Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "68\u00b0F. Wind SW 0 to 5 mph. Areas of fog before 10am. Mostly sunny, with a high near 68. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sun, 09 Aug 2026 03:29:27 GMT",
+    "pubDate": "Sun, 09 Aug 2026 04:59:39 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Sunday Night - Partly Cloudy then Areas Of Fog",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind SW 0 to 5 mph. Areas of fog after 4am. Partly cloudy, with a low around 54. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sun, 09 Aug 2026 03:29:27 GMT",
+    "pubDate": "Sun, 09 Aug 2026 04:59:39 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Monday - Areas Of Fog then Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "67\u00b0F. Wind SW 0 to 5 mph. Areas of fog before 10am. Mostly sunny, with a high near 67. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sun, 09 Aug 2026 03:29:27 GMT",
+    "pubDate": "Sun, 09 Aug 2026 04:59:39 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Monday Night - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 54. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sun, 09 Aug 2026 03:29:27 GMT",
+    "pubDate": "Sun, 09 Aug 2026 04:59:39 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
