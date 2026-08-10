@@ -1,5 +1,15 @@
 [
   {
+    "title": "Monsoon fuels flood and dust storm threat across Southwest while bringing needed drought relief",
+    "link": "https://www.foxweather.com/weather-news/monsoon-flood-dust-storm-threat-southwest-drought-relief",
+    "description": "Monsoon thunderstorms are returning to Arizona and the other Four Corner states, bringing a flash flood threat as well as potential dust storms to the region through the week.",
+    "pubDate": "Mon, 10 Aug 2026 18:38:16 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "State Senate candidate Louise Stutes agrees to settle campaign finance violations",
     "link": "https://alaskabeacon.com/briefs/state-senate-candidate-louise-stutes-agrees-to-settle-campaign-finance-violations/",
     "description": "Rep. Louise Stutes, R-Kodiak, will pay more than $2,000 to settle a series of campaign finance complaints filed by a former chair of the Alaska Republican Party in 2025. The Alaska Public Offices Commission approved the final consent agreement July 28. Under the terms of the agreement, Stutes will pay a penalty of $2,643.50 and [\u2026]",
@@ -27,6 +37,16 @@
     "category": "culture",
     "tag": "alaska",
     "source": "Alaska Beacon",
+    "rank": 100
+  },
+  {
+    "title": "At least 27 deaths reported, dozens of buildings damaged after magnitude 7.4 earthquake in western Colombia",
+    "link": "https://www.foxweather.com/weather-news/magnitude-7-4-earthquake-jolts-western-colombia-along-pacific-ring-fire",
+    "description": "Residents across western Colombia were rattled by a 7.4 earthquake on Monday morning, along the Pacific Ring of Fire.",
+    "pubDate": "Mon, 10 Aug 2026 13:33:19 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
     "rank": 100
   },
   {
@@ -380,24 +400,64 @@
     "rank": 100
   },
   {
-    "title": "Alaska Public Media receives $1.15M in grants for equipment upgrades",
-    "link": "https://www.juneauempire.com/2026/08/07/alaska-public-media-receives-1-15m-in-grants-for-equipment-upgrades/",
-    "description": "Funds will replace and modernize aging broadcast and information technology systems",
-    "pubDate": "Fri, 07 Aug 2026 22:02:00 GMT",
-    "category": "local",
-    "tag": "alaska",
-    "source": "Juneau Empire",
-    "rank": 100
+    "title": "New train service connects Finland and Sweden for first time in decades",
+    "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+    "description": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
+    "pubDate": "Mon, 10 Aug 2026 18:28:11 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
-    "title": "Opinion: Rep. Louise Stutes Admits to Major APOC Violations, Now She Should Drop Out of Senate Race",
-    "link": "https://mustreadalaska.com/opinion-rep-louise-stutes-admits-to-major-apoc-violations-now-she-should-drop-out-of-senate-race/",
-    "description": "By Greg Sarber This article was originally published in \u201cSeward\u2019s Folly,\u201d the author\u2019s personal Substack, on August 7, 2026, under the title \u201cRepresentative Louise Stutes Gets Busted.\u201d Representative Louise Stutes cheated when it came to election financing.\u00a0This isn\u2019t my opinion; she recently admitted as much in a consent decree with the Alaska Public Offices Commission.\u00a0They [\u2026] The post Opinion: Rep. Louise Stutes Admits to Major APOC Violations, Now She Should Drop Out of Senate Race appeared first on Must Read Alaska .",
-    "pubDate": "Fri, 07 Aug 2026 21:51:47 GMT",
-    "category": "kenai",
-    "tag": "alaska",
-    "source": "Must Read Alaska",
-    "rank": 100
+    "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+    "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+    "description": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
+    "pubDate": "Mon, 10 Aug 2026 18:19:41 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Mike Trout golf outing goes from team-bonding event to awkward MLB trade deadline mess for Angels",
+    "link": "https://www.foxnews.com/outkick-sports/mike-trout-golf-outing-team-bonding-event-awkward-mlb-trade-deadline-mess-angels",
+    "description": "Mike Trout's private golf club became the scene of MLB trade deadline chaos as four Los Angeles Angels teammates were dealt mid-round on Aug. 3.",
+    "pubDate": "Mon, 10 Aug 2026 18:09:17 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Fauci discussed COVID mRNA vaccine concerns for pregnant women in text chain released by Senate committee",
+    "link": "https://www.foxnews.com/politics/fauci-discussed-covid-mrna-vaccine-concerns-pregnant-women-text-chain-released-senate-committee",
+    "description": "Dr. Anthony Fauci texted health officials about a theoretical miscarriage risk from fever after the second mRNA dose in pregnant women's first trimester.",
+    "pubDate": "Mon, 10 Aug 2026 18:08:07 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+    "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+    "description": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+    "pubDate": "Mon, 10 Aug 2026 17:50:29 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Body language expert says NFL fans are wrong about Justin Herbert & Madison Beer viral camp videos",
+    "link": "https://www.foxnews.com/outkick-sports/body-language-expert-says-nfl-fans-wrong-justin-herbert-madison-beer-viral-camp-videos",
+    "description": "A behavioral scientist who trains the FBI and Secret Service analyzed viral videos of Justin Herbert and Madison Beer at Chargers training camp.",
+    "pubDate": "Mon, 10 Aug 2026 17:45:11 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "More than two-thirds of England now in drought",
@@ -540,70 +600,10 @@
     "rank": 10
   },
   {
-    "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-    "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-    "description": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region.",
-    "pubDate": "Mon, 10 Aug 2026 16:10:56 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Payton McNabb: The backlash against Sophie Cunningham proves the goalposts have moved",
-    "link": "https://www.foxnews.com/outkick-sports/payton-mcnabb-backlash-against-sophie-cunningham-proves-goalposts-moved",
-    "description": "Payton McNabb, whose career ended after a male athlete's spike caused a traumatic brain injury, explains why Sophie Cunningham's stand matters.",
-    "pubDate": "Mon, 10 Aug 2026 16:10:56 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
-    "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
-    "description": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival",
-    "pubDate": "Mon, 10 Aug 2026 16:08:06 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Gavin Newsom's 'hidden climate tax' hitting Americans nationwide, lawmaker warns",
-    "link": "https://www.foxnews.com/politics/gavin-newsom-hidden-climate-tax-hitting-americans-nationwide-lawmaker-warns",
-    "description": "Rep. Vince Fong targets the EPA-authorized vessel at berth regulation that lets California levy massive penalties on cargo ships docked at its ports.",
-    "pubDate": "Mon, 10 Aug 2026 16:01:49 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Brinks Home data breach puts 1M customers on alert",
-    "link": "https://www.foxnews.com/tech/brinks-home-data-breach-puts-1m-customers-alert",
-    "description": "Brinks Home confirmed unauthorized access to its IT systems, and the ShinyHunters group claims it stole 4.9 million Salesforce records from it.",
-    "pubDate": "Mon, 10 Aug 2026 16:00:55 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Parents found buried behind home in wealthy neighborhood as police launch international manhunt for son",
-    "link": "https://www.foxnews.com/us/parents-found-buried-behind-home-wealthy-neighborhood-police-launch-international-manhunt-son",
-    "description": "Matthew Flores is the subject of an international manhunt after two decomposing bodies were found buried in a Litchfield Park, Arizona backyard.",
-    "pubDate": "Mon, 10 Aug 2026 15:53:14 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Today - Haze",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "71\u00b0F. Wind W 0 to 5 mph. Haze and areas of fog before 4pm. Mostly sunny, with a high near 71. West wind 0 to 5 mph.",
-    "pubDate": "Mon, 10 Aug 2026 17:47:52 GMT",
+    "description": "71\u00b0F. Wind W 0 to 5 mph. Haze before 4pm. Mostly sunny, with a high near 71. West wind 0 to 5 mph.",
+    "pubDate": "Mon, 10 Aug 2026 18:50:44 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "55\u00b0F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 55. Southwest wind 0 to 5 mph.",
-    "pubDate": "Mon, 10 Aug 2026 17:47:52 GMT",
+    "pubDate": "Mon, 10 Aug 2026 18:50:44 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Tuesday - Mostly Sunny then Isolated Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "67\u00b0F. Wind SW 0 to 5 mph. Isolated rain showers between 1pm and 4pm. Mostly sunny, with a high near 67. Southwest wind 0 to 5 mph. Chance of precipitation is 20%.",
-    "pubDate": "Mon, 10 Aug 2026 17:47:52 GMT",
+    "pubDate": "Mon, 10 Aug 2026 18:50:44 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Tuesday Night - Mostly Cloudy then Isolated Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "53\u00b0F. Wind SW 0 to 5 mph. Isolated rain showers after 4am. Mostly cloudy, with a low around 53. Southwest wind 0 to 5 mph.",
-    "pubDate": "Mon, 10 Aug 2026 17:47:52 GMT",
+    "pubDate": "Mon, 10 Aug 2026 18:50:44 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Wednesday - Isolated Rain Showers then Mostly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "68\u00b0F. Wind NW 0 to 5 mph. Isolated rain showers before 10am. Mostly cloudy, with a high near 68. Northwest wind 0 to 5 mph.",
-    "pubDate": "Mon, 10 Aug 2026 17:47:52 GMT",
+    "pubDate": "Mon, 10 Aug 2026 18:50:44 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
