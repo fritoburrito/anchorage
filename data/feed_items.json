@@ -1,5 +1,15 @@
 [
   {
+    "title": "OPINION: Nothing is private in Meta\u2019s field of vision",
+    "link": "https://www.homernews.com/2026/08/10/opinion-nothing-is-private-in-metas-field-of-vision/",
+    "description": "If you want a pair of smartglasses that will record every burp, blemish and blush of whoever is sitting across from you \u2014 while it also remembers their names \u2014 chief executive Mark Zuckerberg and his techies at Meta see the world the same as you. They see privacy to be dismissed and eating habits to be recorded.",
+    "pubDate": "Mon, 10 Aug 2026 09:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
     "title": "Invest 93C designated in Central Pacific with eyes on Hawaii as warm water fuels development chances",
     "link": "https://www.foxweather.com/weather-news/invest-93c-designated-central-pacific-hawaii-threat",
     "description": "We're tracking three areas of potential tropical development between Mexico and Hawaii over the open waters, with one in particular worth watching for the Aloha State.",
@@ -64,6 +74,16 @@
     "link": "https://www.foxweather.com/weather-news/farmers-almanac-releases-2026-winter-forecast-what-expect-across-us",
     "description": "The Farmers\u2019 Almanac has released its 2026-2027 winter forecast. See where snow, cold, rain and storms could impact the U.S. this winter.",
     "pubDate": "Sat, 08 Aug 2026 22:13:29 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Multiday threat targets millions across the Midwest, Great Lakes with destructive storms and flash flooding",
+    "link": "https://www.foxweather.com/weather-news/gulf-moisture-trigger-flash-flood-threat-ohio-valley-great-lakes-next-week",
+    "description": "Another round of severe weather is targeting parts of the Midwest, Great Lakes and the Ohio Valley beginning Monday afternoon, after Sunday's storms spawned at least one tornado in northwestern Illinois.",
+    "pubDate": "Sat, 08 Aug 2026 18:08:53 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "FOX Weather",
@@ -380,24 +400,164 @@
     "rank": 100
   },
   {
-    "title": "Officials work on solution to Suicide Basin flooding",
-    "link": "https://www.juneauempire.com/2026/08/07/officials-work-on-solution-to-suicide-basin-flooding/",
-    "description": "Suicide Basin has released glacier lake outburst floods along Mendenhall Lake and River annually",
-    "pubDate": "Fri, 07 Aug 2026 18:00:00 GMT",
-    "category": "local",
-    "tag": "alaska",
-    "source": "Juneau Empire",
-    "rank": 100
+    "title": "Record 230 people cross Channel in one small boat",
+    "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
+    "description": "The 230 people on one boat breaks the previous record from July, which was 165 on a vessel.",
+    "pubDate": "Mon, 10 Aug 2026 11:01:39 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
-    "title": "Bryan Norcross: The tropical Atlantic remains closed for business though long-range models show stirring",
-    "link": "https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-august-7-2026",
-    "description": "Extremely hostile upper-level winds and Saharan dust continue to dominate the tropical Atlantic, so the National Hurricane Center is predicting that nothing will develop through next week, which will take us to the middle of August.",
-    "pubDate": "Fri, 07 Aug 2026 14:34:09 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Ocean heat records broken as hottest July temperature recorded",
+    "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+    "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Ni\u00f1o conditions, as wildfires continue to ravage western Europe.",
+    "pubDate": "Mon, 10 Aug 2026 10:24:46 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Sports media hits all-time low in coverage of DiJonai Carrington and Sophie Cunningham",
+    "link": "https://www.foxnews.com/outkick-sports/sports-media-hits-all-time-low-coverage-dijonai-carrington-sophie-cunningham",
+    "description": "DiJonai Carrington's flagrant foul ejection and \"white privilege\" post sparked debate as Jemele Hill and media figures rushed to her defense.",
+    "pubDate": "Mon, 10 Aug 2026 10:23:07 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Senior detective under investigation over use of AI",
+    "link": "https://www.bbc.co.uk/news/articles/c7vgq5mgz2mo?at_medium=RSS&at_campaign=rss",
+    "description": "Police say a voluntary referral about an officer was made to the Independent Office for Police Conduct on 23 June.",
+    "pubDate": "Mon, 10 Aug 2026 10:13:20 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Drugs and alcohol nearly cost World Series hero Scott Spiezio everything, including his life",
+    "link": "https://www.foxnews.com/sports/drugs-alcohol-nearly-cost-world-series-hero-scott-spiezio-everything-including-life",
+    "description": "Scott Spiezio's liver was failing and doctors gave him a 20% chance to live, but the World Series hero wasn't sure he could stop drinking to save himself.",
+    "pubDate": "Mon, 10 Aug 2026 10:12:34 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+    "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+    "description": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+    "pubDate": "Mon, 10 Aug 2026 10:03:58 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Prince William was 'fuming' over request for Kate Middleton to spell her name differently: book",
+    "link": "https://www.foxnews.com/entertainment/prince-william-fuming-request-kate-middleton-spell-name-differently-book",
+    "description": "King Charles III and Queen Camilla allegedly asked Kate Middleton to change her name spelling over royal crest concerns, leaving Prince William fuming.",
+    "pubDate": "Mon, 10 Aug 2026 10:00:47 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "2,200-year-old alcohol found sealed inside ancient tomb \u2014 and there's nearly a gallon of it",
+    "link": "https://www.foxnews.com/food-drink/2200-year-old-alcohol-found-sealed-inside-ancient-tomb-theres-nearly-gallon",
+    "description": "A sealed bronze vessel in a Qin tomb yielded 3.74 liters of ancient millet beer brewed during the Warring States period over 2,200 years ago.",
+    "pubDate": "Mon, 10 Aug 2026 10:00:45 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Apple Pay text scam threatens $8,250 loss in 35 minutes",
+    "link": "https://www.foxnews.com/tech/apple-pay-text-scam-threatens-8250-loss-35-minutes",
+    "description": "Paul C. in Washington, D.C., received an Apple Pay scam text claiming $8,250 was charged and a duplicate would auto-approve within 35 minutes.",
+    "pubDate": "Mon, 10 Aug 2026 10:00:42 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Embattled Smithsonian director brought 'Marxist' activism, political agenda to roles through career: historian",
+    "link": "https://www.foxnews.com/politics/embattled-smithsonian-director-brought-marxist-activism-political-agenda-roles-through-career-historian",
+    "description": "Historian Dr. Jody Edward Ginn says Anthea Hartig's writings and leadership record reveal an activist approach at odds with claims of nonpartisanship.",
+    "pubDate": "Mon, 10 Aug 2026 10:00:37 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "A quiet rush for gold is sweeping the globe \u2014 here's why countries are stockpiling it",
+    "link": "https://www.foxnews.com/politics/quiet-rush-gold-sweeping-globe-why-countries-stockpiling",
+    "description": "A record 45% of central banks plan to add gold reserves as governments worldwide brace for persistent inflation and geopolitical uncertainty.",
+    "pubDate": "Mon, 10 Aug 2026 10:00:11 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Descendant of slaves shames Smithsonian\u2019s woke \u2018indoctrination\u2019 against the \u2018greatest nation on earth\u2019",
+    "link": "https://www.foxnews.com/politics/descendant-slaves-shames-smithsonian-woke-indoctrination-greatest-nation-earth",
+    "description": "Bishop Earl Walker Jackson, a slave descendant, calls out the Smithsonian National Museum of American History for anti-American indoctrination.",
+    "pubDate": "Mon, 10 Aug 2026 10:00:04 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Tupac Shakur murder suspect takes center stage at trial nearly 30 years after shooting shocked music world",
+    "link": "https://www.foxnews.com/us/tupac-shakur-murder-suspect-takes-center-stage-trial-nearly-30-years-after-shooting-shocked-music-world",
+    "description": "Duane Davis stands trial for Tupac Shakur's 1996 Las Vegas drive-by shooting, with prosecutors citing his memoir and past statements as key evidence.",
+    "pubDate": "Mon, 10 Aug 2026 10:00:02 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Ban on 'subscription traps' brought forward by three months",
+    "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+    "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+    "pubDate": "Mon, 10 Aug 2026 09:57:54 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+    "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+    "description": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+    "pubDate": "Mon, 10 Aug 2026 09:51:07 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+    "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+    "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+    "pubDate": "Mon, 10 Aug 2026 09:33:25 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
     "title": "Democrats no longer have the No. 1 weapon to keep their socialist wing in line",
@@ -440,170 +600,10 @@
     "rank": 10
   },
   {
-    "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
-    "description": "In a new report, former Interlochen students detail some 70 allegations of sexual abuse by nearly 50 adults employed or affiliated with the school. One of the former students tells his story to NPR.",
-    "pubDate": "Mon, 10 Aug 2026 09:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "In a competitive Maine Senate race, women voters could be the deciders",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
-    "description": "The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women.",
-    "pubDate": "Mon, 10 Aug 2026 09:00:00 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-    "description": "Lindell, of \"MyPillow,\" plays up his ties to Trump, who endorsed him for Tuesday's primary. But the state Republican convention backed one of his opponents.",
-    "pubDate": "Mon, 10 Aug 2026 09:00:00 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Who really needs testosterone?",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
-    "description": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?",
-    "pubDate": "Mon, 10 Aug 2026 09:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-    "description": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party's vote share.",
-    "pubDate": "Mon, 10 Aug 2026 09:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
-    "description": "Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public.",
-    "pubDate": "Mon, 10 Aug 2026 08:58:22 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Thames Water gave finance boss a \u00a31m signing-on fee",
-    "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
-    "description": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
-    "pubDate": "Mon, 10 Aug 2026 08:57:54 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
-    "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-    "description": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
-    "pubDate": "Mon, 10 Aug 2026 08:50:02 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Infantino has broken trust 'through deception', confederation presidents say",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss",
-    "description": "Fifa has been accused of breaking trust \"through deception\" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation.",
-    "pubDate": "Mon, 10 Aug 2026 08:46:54 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Morning news brief",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5921277/morning-news-brief",
-    "description": "Iran aims to put pressure on Trump amid negotiations with Oman, Labor Department to release new report on inflation, new report reveals decades of abuse at arts school linked to Epstein.",
-    "pubDate": "Mon, 10 Aug 2026 08:41:46 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "China evacuates one million from homes as massive storm makes landfall",
-    "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-    "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-    "pubDate": "Mon, 10 Aug 2026 07:23:54 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
-    "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-    "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
-    "pubDate": "Mon, 10 Aug 2026 07:16:12 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Risk of patient safety 'bonfire' with Health Bill changes, Lib Dems say",
-    "link": "https://www.bbc.co.uk/news/articles/c62e60m1jygo?at_medium=RSS&at_campaign=rss",
-    "description": "The party says the government's plans to modernise the NHS risk another major hospital scandal.",
-    "pubDate": "Mon, 10 Aug 2026 05:01:50 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Travelodge staff gave domestic abuser key to his victim's room",
-    "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
-    "description": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
-    "pubDate": "Mon, 10 Aug 2026 05:00:07 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
-    "link": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
-    "description": "A new generation of small nuclear reactors is poised to come online in the next few years. Public opinion remains split.",
-    "pubDate": "Mon, 10 Aug 2026 04:01:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-    "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-    "description": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
-    "pubDate": "Mon, 10 Aug 2026 03:33:51 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Tonight - Haze",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind  0 mph. Haze and areas of fog. Partly cloudy, with a low around 54. West wind around 0 mph.",
-    "pubDate": "Mon, 10 Aug 2026 09:14:46 GMT",
+    "pubDate": "Mon, 10 Aug 2026 11:03:48 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Monday - Haze",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "71\u00b0F. Wind W 0 to 5 mph. Haze and areas of fog before 4pm. Mostly sunny, with a high near 71. West wind 0 to 5 mph. Chance of precipitation is 20%.",
-    "pubDate": "Mon, 10 Aug 2026 09:14:46 GMT",
+    "pubDate": "Mon, 10 Aug 2026 11:03:48 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Monday Night - Mostly Clear",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "58\u00b0F. Wind SW 0 to 5 mph. Mostly clear, with a low around 58. Southwest wind 0 to 5 mph. Chance of precipitation is 20%.",
-    "pubDate": "Mon, 10 Aug 2026 09:14:46 GMT",
+    "pubDate": "Mon, 10 Aug 2026 11:03:48 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Tuesday - Partly Sunny then Isolated Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "67\u00b0F. Wind SW 0 to 5 mph. Isolated rain showers between 1pm and 4pm. Partly sunny, with a high near 67. Southwest wind 0 to 5 mph.",
-    "pubDate": "Mon, 10 Aug 2026 09:14:46 GMT",
+    "pubDate": "Mon, 10 Aug 2026 11:03:48 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Tuesday Night - Mostly Cloudy then Isolated Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "53\u00b0F. Wind W 0 to 5 mph. Isolated rain showers after 4am. Mostly cloudy, with a low around 53. West wind 0 to 5 mph.",
-    "pubDate": "Mon, 10 Aug 2026 09:14:46 GMT",
+    "pubDate": "Mon, 10 Aug 2026 11:03:48 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",

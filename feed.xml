@@ -5,21 +5,21 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 09:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:24:46 GMT</lastBuildDate>
+    <item>
+      <title>Ocean heat records broken as hottest July temperature recorded</title>
+      <link>https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">889ef1d7e249b9901c14f25ac936660f9dab5725</guid>
+      <pubDate>Mon, 10 Aug 2026 10:24:46 GMT</pubDate>
+      <description><![CDATA[Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Capitalism is about incentives. Stopping the stupidity of socialism is a big incentive</title>
       <link>https://www.foxnews.com/opinion/capitalism-incentives-stopping-stupidity-socialism-big-incentive</link>
       <guid isPermaLink="false">ccc965038a6271f651252169fa22cab785270f53</guid>
       <pubDate>Mon, 10 Aug 2026 09:00:50 GMT</pubDate>
       <description><![CDATA[Friedrich Hayek's 'The Road to Serfdom' warns how central planning erodes individual freedom, and its lessons about incentives remain urgent today.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Infantino has broken trust 'through deception', confederation presidents say</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0ec4b75e26aced0474d75589419558b78757b657</guid>
-      <pubDate>Mon, 10 Aug 2026 08:46:54 GMT</pubDate>
-      <description><![CDATA[Fifa has been accused of breaking trust "through deception" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation.]]></description>
       <category>breaking</category>
     </item>
     <item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Tonight - Haze</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 10 Aug 2026 09:14:46 GMT</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:03:48 GMT</pubDate>
       <description><![CDATA[54°F. Wind  0 mph. Haze and areas of fog. Partly cloudy, with a low around 54. West wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Monday - Haze</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 10 Aug 2026 09:14:46 GMT</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:03:48 GMT</pubDate>
       <description><![CDATA[71°F. Wind W 0 to 5 mph. Haze and areas of fog before 4pm. Mostly sunny, with a high near 71. West wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +50,7 @@
       <title>Anchorage Weather: Monday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 10 Aug 2026 09:14:46 GMT</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:03:48 GMT</pubDate>
       <description><![CDATA[58°F. Wind SW 0 to 5 mph. Mostly clear, with a low around 58. Southwest wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -58,7 +58,7 @@
       <title>Anchorage Weather: Tuesday - Partly Sunny then Isolated Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 10 Aug 2026 09:14:46 GMT</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:03:48 GMT</pubDate>
       <description><![CDATA[67°F. Wind SW 0 to 5 mph. Isolated rain showers between 1pm and 4pm. Partly sunny, with a high near 67. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -66,9 +66,17 @@
       <title>Anchorage Weather: Tuesday Night - Mostly Cloudy then Isolated Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 10 Aug 2026 09:14:46 GMT</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:03:48 GMT</pubDate>
       <description><![CDATA[53°F. Wind W 0 to 5 mph. Isolated rain showers after 4am. Mostly cloudy, with a low around 53. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>OPINION: Nothing is private in Meta’s field of vision</title>
+      <link>https://www.homernews.com/2026/08/10/opinion-nothing-is-private-in-metas-field-of-vision/</link>
+      <guid isPermaLink="false">78490e0799a87139d9598a8bc7dedfbb4e6ebd5d</guid>
+      <pubDate>Mon, 10 Aug 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[If you want a pair of smartglasses that will record every burp, blemish and blush of whoever is sitting across from you — while it also remembers their names — chief executive Mark Zuckerberg and his techies at Meta see the world the same as you. They see privacy to be dismissed and eating habits to be recorded.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>The FAA wants to reboot the nation's airspace. This airline shows how it might work</title>
@@ -263,12 +271,124 @@
       <category>local</category>
     </item>
     <item>
-      <title>Officials work on solution to Suicide Basin flooding</title>
-      <link>https://www.juneauempire.com/2026/08/07/officials-work-on-solution-to-suicide-basin-flooding/</link>
-      <guid isPermaLink="false">e54db39ce1360192d2b37ef72c0de3b410509709</guid>
-      <pubDate>Fri, 07 Aug 2026 18:00:00 GMT</pubDate>
-      <description><![CDATA[Suicide Basin has released glacier lake outburst floods along Mendenhall Lake and River annually]]></description>
-      <category>local</category>
+      <title>Record 230 people cross Channel in one small boat</title>
+      <link>https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">72e91b85a53d8e36a294c7a95155e6bf8f26305f</guid>
+      <pubDate>Mon, 10 Aug 2026 11:01:39 GMT</pubDate>
+      <description><![CDATA[The 230 people on one boat breaks the previous record from July, which was 165 on a vessel.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sports media hits all-time low in coverage of DiJonai Carrington and Sophie Cunningham</title>
+      <link>https://www.foxnews.com/outkick-sports/sports-media-hits-all-time-low-coverage-dijonai-carrington-sophie-cunningham</link>
+      <guid isPermaLink="false">39acf04ea3cf1691f672c218cf20e0e2a948192f</guid>
+      <pubDate>Mon, 10 Aug 2026 10:23:07 GMT</pubDate>
+      <description><![CDATA[DiJonai Carrington's flagrant foul ejection and "white privilege" post sparked debate as Jemele Hill and media figures rushed to her defense.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Senior detective under investigation over use of AI</title>
+      <link>https://www.bbc.co.uk/news/articles/c7vgq5mgz2mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7dd97681f9cfdba15cb258716a820e690f61c4c0</guid>
+      <pubDate>Mon, 10 Aug 2026 10:13:20 GMT</pubDate>
+      <description><![CDATA[Police say a voluntary referral about an officer was made to the Independent Office for Police Conduct on 23 June.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Drugs and alcohol nearly cost World Series hero Scott Spiezio everything, including his life</title>
+      <link>https://www.foxnews.com/sports/drugs-alcohol-nearly-cost-world-series-hero-scott-spiezio-everything-including-life</link>
+      <guid isPermaLink="false">9b20b204dab27e5239bbb7d2c5843ad866aa65ad</guid>
+      <pubDate>Mon, 10 Aug 2026 10:12:34 GMT</pubDate>
+      <description><![CDATA[Scott Spiezio's liver was failing and doctors gave him a 20% chance to live, but the World Series hero wasn't sure he could stop drinking to save himself.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">91024385e6ab15aed8af474f2b2d2a0f7ec18781</guid>
+      <pubDate>Mon, 10 Aug 2026 10:03:58 GMT</pubDate>
+      <description><![CDATA[It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Prince William was 'fuming' over request for Kate Middleton to spell her name differently: book</title>
+      <link>https://www.foxnews.com/entertainment/prince-william-fuming-request-kate-middleton-spell-name-differently-book</link>
+      <guid isPermaLink="false">30d0e610857d1d5eb477075a01d6a94302a460e2</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:47 GMT</pubDate>
+      <description><![CDATA[King Charles III and Queen Camilla allegedly asked Kate Middleton to change her name spelling over royal crest concerns, leaving Prince William fuming.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>2,200-year-old alcohol found sealed inside ancient tomb — and there's nearly a gallon of it</title>
+      <link>https://www.foxnews.com/food-drink/2200-year-old-alcohol-found-sealed-inside-ancient-tomb-theres-nearly-gallon</link>
+      <guid isPermaLink="false">d319a99f20f6ccd9866599142194514a84562127</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:45 GMT</pubDate>
+      <description><![CDATA[A sealed bronze vessel in a Qin tomb yielded 3.74 liters of ancient millet beer brewed during the Warring States period over 2,200 years ago.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Apple Pay text scam threatens $8,250 loss in 35 minutes</title>
+      <link>https://www.foxnews.com/tech/apple-pay-text-scam-threatens-8250-loss-35-minutes</link>
+      <guid isPermaLink="false">84cfa7276e937dd9e623fe2c704fa673feea6420</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:42 GMT</pubDate>
+      <description><![CDATA[Paul C. in Washington, D.C., received an Apple Pay scam text claiming $8,250 was charged and a duplicate would auto-approve within 35 minutes.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Embattled Smithsonian director brought 'Marxist' activism, political agenda to roles through career: historian</title>
+      <link>https://www.foxnews.com/politics/embattled-smithsonian-director-brought-marxist-activism-political-agenda-roles-through-career-historian</link>
+      <guid isPermaLink="false">5241ff2901052181d00ac441b6340ec3d4ea2a13</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:37 GMT</pubDate>
+      <description><![CDATA[Historian Dr. Jody Edward Ginn says Anthea Hartig's writings and leadership record reveal an activist approach at odds with claims of nonpartisanship.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>A quiet rush for gold is sweeping the globe — here's why countries are stockpiling it</title>
+      <link>https://www.foxnews.com/politics/quiet-rush-gold-sweeping-globe-why-countries-stockpiling</link>
+      <guid isPermaLink="false">f3b3149bb5e8561240ce9d01c6540d2e84c5c2be</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:11 GMT</pubDate>
+      <description><![CDATA[A record 45% of central banks plan to add gold reserves as governments worldwide brace for persistent inflation and geopolitical uncertainty.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Descendant of slaves shames Smithsonian’s woke ‘indoctrination’ against the ‘greatest nation on earth’</title>
+      <link>https://www.foxnews.com/politics/descendant-slaves-shames-smithsonian-woke-indoctrination-greatest-nation-earth</link>
+      <guid isPermaLink="false">2f24139bd65c4def9e2cf04056966357ed3abb72</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:04 GMT</pubDate>
+      <description><![CDATA[Bishop Earl Walker Jackson, a slave descendant, calls out the Smithsonian National Museum of American History for anti-American indoctrination.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tupac Shakur murder suspect takes center stage at trial nearly 30 years after shooting shocked music world</title>
+      <link>https://www.foxnews.com/us/tupac-shakur-murder-suspect-takes-center-stage-trial-nearly-30-years-after-shooting-shocked-music-world</link>
+      <guid isPermaLink="false">03eea9c7255b519e9217ee01f6510639fd29f647</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:02 GMT</pubDate>
+      <description><![CDATA[Duane Davis stands trial for Tupac Shakur's 1996 Las Vegas drive-by shooting, with prosecutors citing his memoir and past statements as key evidence.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ban on 'subscription traps' brought forward by three months</title>
+      <link>https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0813d3c3302e764756e88155891ba014f59b6eda</guid>
+      <pubDate>Mon, 10 Aug 2026 09:57:54 GMT</pubDate>
+      <description><![CDATA[The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Former Thai MP allegedly kills official and confesses on YouTube</title>
+      <link>https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3318c3c4c0c7e1d90f41e02e3d5c0ac62a9e193f</guid>
+      <pubDate>Mon, 10 Aug 2026 09:51:07 GMT</pubDate>
+      <description><![CDATA[Chalong Riewrang called a YouTube livestream to say he had shot a government official.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Suspected crime boss Kinahan spends first night in custody in Ireland</title>
+      <link>https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8e8f81d9a10702ba0c675f36541c908bc599c14f</guid>
+      <pubDate>Mon, 10 Aug 2026 09:33:25 GMT</pubDate>
+      <description><![CDATA[The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Democrats no longer have the No. 1 weapon to keep their socialist wing in line</title>
@@ -284,126 +404,6 @@
       <guid isPermaLink="false">051fbff2490bff72a6047332cc9bea59502ffaf6</guid>
       <pubDate>Mon, 10 Aug 2026 09:00:18 GMT</pubDate>
       <description><![CDATA[Over 30 Minnesota water systems were targeted in a coordinated cyberattack exploiting default passwords and internet-connected operational technology.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>An arts school where Epstein allegedly preyed on students reveals decades of abuse</title>
-      <link>https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts</link>
-      <guid isPermaLink="false">74a43ccf18e194d01701064051f8f1e0fff9179c</guid>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[In a new report, former Interlochen students detail some 70 allegations of sexual abuse by nearly 50 adults employed or affiliated with the school. One of the former students tells his story to NPR.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>In a competitive Maine Senate race, women voters could be the deciders</title>
-      <link>https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters</link>
-      <guid isPermaLink="false">f22a33e1cdf7509b70de0ad900ba7f5475934b4e</guid>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[The race between Susan Collins and Troy Jackson is one of this year's most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine women.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost</title>
-      <link>https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump</link>
-      <guid isPermaLink="false">4a7622f97748d12dced1875b27382fdad27e3dd7</guid>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Lindell, of "MyPillow," plays up his ties to Trump, who endorsed him for Tuesday's primary. But the state Republican convention backed one of his opponents.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Who really needs testosterone?</title>
-      <link>https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy</link>
-      <guid isPermaLink="false">ac87328f97152c874eaa878168e4ba944dda0604</guid>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Voters are sick of the two-party system. A new poll shows they're open to big changes</title>
-      <link>https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll</link>
-      <guid isPermaLink="false">20b9ac06e4d5b66e100ddc28db4495cf2a67d27c</guid>
-      <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party's vote share.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say</title>
-      <link>https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia</link>
-      <guid isPermaLink="false">08ffa30fce993def57fb255a09788f019a80c73b</guid>
-      <pubDate>Mon, 10 Aug 2026 08:58:22 GMT</pubDate>
-      <description><![CDATA[Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Thames Water gave finance boss a £1m signing-on fee</title>
-      <link>https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6a25ae06f692c3044b471a537ba4a97b88b301f9</guid>
-      <pubDate>Mon, 10 Aug 2026 08:57:54 GMT</pubDate>
-      <description><![CDATA[The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">91024385e6ab15aed8af474f2b2d2a0f7ec18781</guid>
-      <pubDate>Mon, 10 Aug 2026 08:50:02 GMT</pubDate>
-      <description><![CDATA[It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Morning news brief</title>
-      <link>https://www.npr.org/2026/08/10/nx-s1-5921277/morning-news-brief</link>
-      <guid isPermaLink="false">f8178483c5bacaf9e3392936edc416f51368b0cd</guid>
-      <pubDate>Mon, 10 Aug 2026 08:41:46 GMT</pubDate>
-      <description><![CDATA[Iran aims to put pressure on Trump amid negotiations with Oman, Labor Department to release new report on inflation, new report reveals decades of abuse at arts school linked to Epstein.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>China evacuates one million from homes as massive storm makes landfall</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">dff43803b2df9e059dcc728087797cf31385745f</guid>
-      <pubDate>Mon, 10 Aug 2026 07:23:54 GMT</pubDate>
-      <description><![CDATA[Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Burnham brings forward ban on 'subscription traps' to ease cost of living</title>
-      <link>https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0813d3c3302e764756e88155891ba014f59b6eda</guid>
-      <pubDate>Mon, 10 Aug 2026 07:16:12 GMT</pubDate>
-      <description><![CDATA[The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Risk of patient safety 'bonfire' with Health Bill changes, Lib Dems say</title>
-      <link>https://www.bbc.co.uk/news/articles/c62e60m1jygo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3022fa3704bfddd61813ba8d6bcc81defc1903f4</guid>
-      <pubDate>Mon, 10 Aug 2026 05:01:50 GMT</pubDate>
-      <description><![CDATA[The party says the government's plans to modernise the NHS risk another major hospital scandal.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Travelodge staff gave domestic abuser key to his victim's room</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ea11a83d4b93184f25ccf6e6f91cfd25be7d8941</guid>
-      <pubDate>Mon, 10 Aug 2026 05:00:07 GMT</pubDate>
-      <description><![CDATA[A woman tells the BBC her attacker kicked her hotel room door "off its hinges" after reception gave him the key.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho</title>
-      <link>https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho</link>
-      <guid isPermaLink="false">cd94d28b2da6f9eee1541fecf879bf926a7ecb8d</guid>
-      <pubDate>Mon, 10 Aug 2026 04:01:00 GMT</pubDate>
-      <description><![CDATA[A new generation of small nuclear reactors is poised to come online in the next few years. Public opinion remains split.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Residents warned to brace for the worst as Canada wildfire rages out of control</title>
-      <link>https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">830076b7f973377562f3480b16ef6421ba01db6f</guid>
-      <pubDate>Mon, 10 Aug 2026 03:33:51 GMT</pubDate>
-      <description><![CDATA[One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -444,6 +444,14 @@
       <guid isPermaLink="false">61aee9b3beff743d456327880a082594ee498c22</guid>
       <pubDate>Sat, 08 Aug 2026 22:13:29 GMT</pubDate>
       <description><![CDATA[The Farmers’ Almanac has released its 2026-2027 winter forecast. See where snow, cold, rain and storms could impact the U.S. this winter.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Multiday threat targets millions across the Midwest, Great Lakes with destructive storms and flash flooding</title>
+      <link>https://www.foxweather.com/weather-news/gulf-moisture-trigger-flash-flood-threat-ohio-valley-great-lakes-next-week</link>
+      <guid isPermaLink="false">67c9d2900933685a8b864dca5289f5b70486d6ac</guid>
+      <pubDate>Sat, 08 Aug 2026 18:08:53 GMT</pubDate>
+      <description><![CDATA[Another round of severe weather is targeting parts of the Midwest, Great Lakes and the Ohio Valley beginning Monday afternoon, after Sunday's storms spawned at least one tornado in northwestern Illinois.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">904a65d44abe811e40d32538fb352f800cd9aae3</guid>
       <pubDate>Fri, 07 Aug 2026 18:29:27 GMT</pubDate>
       <description><![CDATA[Water rationing officially began across parts of Puerto Rico Friday as the U.S. commonwealth grapples with significant drought and water shortages. Forecasters say a strong El Niño climate pattern is now intensifying drought conditions.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Bryan Norcross: The tropical Atlantic remains closed for business though long-range models show stirring</title>
-      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-august-7-2026</link>
-      <guid isPermaLink="false">dbb7a65bb318fb5ea6c1015a0b91a7af10d8ecde</guid>
-      <pubDate>Fri, 07 Aug 2026 14:34:09 GMT</pubDate>
-      <description><![CDATA[Extremely hostile upper-level winds and Saharan dust continue to dominate the tropical Atlantic, so the National Hurricane Center is predicting that nothing will develop through next week, which will take us to the middle of August.]]></description>
       <category>weather</category>
     </item>
   </channel>
