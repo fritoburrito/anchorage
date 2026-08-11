@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 15:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 01:38:14 GMT</lastBuildDate>
+    <item>
+      <title>Amber heat health alerts for almost all of England as next heatwave begins</title>
+      <link>https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ca9cf643607481a852bb70bce0ef4885339f53f7</guid>
+      <pubDate>Tue, 11 Aug 2026 01:38:14 GMT</pubDate>
+      <description><![CDATA[The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Bryan Norcross: Getting closer to tropical development in the Atlantic and a threat to Hawaii</title>
       <link>https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-august-10-2026</link>
@@ -15,18 +23,10 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon - Haze</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 11 Aug 2026 01:17:58 GMT</pubDate>
-      <description><![CDATA[71°F. Wind SW 5 mph. Haze before 4pm. Mostly sunny, with a high near 71. Southwest wind around 5 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 11 Aug 2026 01:17:58 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 03:39:09 GMT</pubDate>
       <description><![CDATA[55°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 55. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Tuesday - Mostly Sunny then Isolated Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 11 Aug 2026 01:17:58 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 03:39:09 GMT</pubDate>
       <description><![CDATA[67°F. Wind SW 0 to 5 mph. Isolated rain showers between 1pm and 4pm. Mostly sunny, with a high near 67. Southwest wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -42,16 +42,24 @@
       <title>Anchorage Weather: Tuesday Night - Mostly Cloudy then Isolated Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 11 Aug 2026 01:17:58 GMT</pubDate>
-      <description><![CDATA[53°F. Wind W 0 to 5 mph. Isolated rain showers after 4am. Mostly cloudy, with a low around 53. West wind 0 to 5 mph.]]></description>
+      <pubDate>Tue, 11 Aug 2026 03:39:09 GMT</pubDate>
+      <description><![CDATA[53°F. Wind W 0 to 5 mph. Isolated rain showers after 4am. Mostly cloudy, with a low around 53. West wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Wednesday - Isolated Rain Showers then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 11 Aug 2026 01:17:58 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 03:39:09 GMT</pubDate>
       <description><![CDATA[68°F. Wind NW 0 to 5 mph. Isolated rain showers before 10am. Mostly cloudy, with a high near 68. Northwest wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Wednesday Night - Mostly Cloudy</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Tue, 11 Aug 2026 03:39:09 GMT</pubDate>
+      <description><![CDATA[53°F. Wind  0 mph. Mostly cloudy, with a low around 53. Southwest wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -191,6 +199,78 @@
       <category>weather</category>
     </item>
     <item>
+      <title>President Trump warns FIFA will pay a massive price if it ousts chief Gianni Infantino</title>
+      <link>https://www.foxnews.com/outkick-sports/president-trump-warns-fifa-pay-massive-price-ousts-chief-gianni-infantino</link>
+      <guid isPermaLink="false">230c139b581c9d98aec0a046f775c1a4027da68e</guid>
+      <pubDate>Tue, 11 Aug 2026 03:01:44 GMT</pubDate>
+      <description><![CDATA[Trump warned FIFA against replacing Gianni Infantino, calling him "fantastic" as soccer's governing body faces internal revolt over private equity deals.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>DiJonai Carrington, who declared 'White privilege' after ejection, plays vs Storm as WNBA remains silent</title>
+      <link>https://www.foxnews.com/outkick-sports/dijonai-carrington-who-declared-white-privilege-after-ejection-suspended-wnba-foul-fever-star</link>
+      <guid isPermaLink="false">d48e9c550df4ab6f88eacde770ecec3ca69c0187</guid>
+      <pubDate>Tue, 11 Aug 2026 02:32:10 GMT</pubDate>
+      <description><![CDATA[The Chicago Sky had DiJonai Carrington playing against the Seattle Storm on Monday night, as the WNBA has remained silent following her Flagrant 2 foul ejection on Saturday night.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>New Forest firefighting to continue overnight as cars abandoned</title>
+      <link>https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c61523687a034ac87596970cd583ffb658b68448</guid>
+      <pubDate>Tue, 11 Aug 2026 02:25:31 GMT</pubDate>
+      <description><![CDATA[One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump used catering truck, Air Force One decoy to evade Iran threat: report</title>
+      <link>https://www.foxnews.com/politics/trump-used-catering-truck-air-force-one-decoy-evade-iran-threat-report</link>
+      <guid isPermaLink="false">0437fee25a6c51ca6273c44fbabeffada6324fb1</guid>
+      <pubDate>Tue, 11 Aug 2026 02:17:00 GMT</pubDate>
+      <description><![CDATA[President Donald Trump secretly exited Air Force One via a catering truck at the NATO summit in Turkey, boarding a smaller jet to evade Iran threats, according to a report.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>At least 132 killed in Colombia's largest earthquake in years</title>
+      <link>https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4152215b50c3a67e78a415ebf399f3b8f3cc3017</guid>
+      <pubDate>Tue, 11 Aug 2026 01:59:40 GMT</pubDate>
+      <description><![CDATA[The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Perseid meteor shower reaches peak: When and where to catch a glimpse</title>
+      <link>https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">de13070e2a05822675fa2e24b6449f585eb22148</guid>
+      <pubDate>Tue, 11 Aug 2026 01:59:24 GMT</pubDate>
+      <description><![CDATA[On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fauci texts suggest officials were ‘too slow to pivot' amid pandemic, says Dr Marc Siegel</title>
+      <link>https://www.foxnews.com/health/fauci-texts-suggest-officials-slow-pivot-pandemic-dr-marc-siegel</link>
+      <guid isPermaLink="false">ed8ea4019d230bafa8784f5f11617673121b13af</guid>
+      <pubDate>Tue, 11 Aug 2026 01:58:54 GMT</pubDate>
+      <description><![CDATA[Dr. Marc Siegel, senior medical analyst, says newly released Anthony Fauci text messages reveal he was "too dogmatic" and too slow to pivot on COVID-19 vaccine guidance.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Quinnen Williams agrees to $105.9M contract extension with Cowboys, locking him in through 2030 season</title>
+      <link>https://www.foxnews.com/sports/quinnen-williams-agrees-105-9m-contract-extension-cowboys-locking-through-2030-season</link>
+      <guid isPermaLink="false">c95507bcfba2ee21e3a81833640a49f2f35c78a5</guid>
+      <pubDate>Tue, 11 Aug 2026 01:53:53 GMT</pubDate>
+      <description><![CDATA[Quinnen Williams agreed to a three-year, $105.9 million extension with the Dallas Cowboys, making him one of the highest-paid defensive tackles in the NFL.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dem Gov Maura Healey signs sweeping Massachusetts bill allowing abortions up to birth</title>
+      <link>https://www.foxnews.com/politics/dem-gov-maura-healey-signs-sweeping-massachusetts-bill-allowing-abortions-up-birth</link>
+      <guid isPermaLink="false">d1ab3cea2a2c44df3e6b25527e680268746d0dc6</guid>
+      <pubDate>Tue, 11 Aug 2026 01:16:40 GMT</pubDate>
+      <description><![CDATA[Massachusetts joins nine other states in removing gestational age limits, allowing abortions up to birth, as Healey vows abortion will remain safe, legal and accessible.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
       <title>Mamdani’s luxury-home tax rollout derailed for now as judge delivers win to NYC homeowners over massive list</title>
       <link>https://www.foxnews.com/us/mamdanis-luxury-home-tax-rollout-derailed-judge-delivers-win-nyc-homeowners-massive-list</link>
       <guid isPermaLink="false">8af99c806183a58c48ecb3d602a6fcaa4f2029f8</guid>
@@ -239,11 +319,27 @@
       <category>world</category>
     </item>
     <item>
+      <title>England set to eliminate hepatitis C</title>
+      <link>https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a98897e9f8776feb5bc8933da797d614988acdb1</guid>
+      <pubDate>Mon, 10 Aug 2026 23:40:58 GMT</pubDate>
+      <description><![CDATA[England is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>'Pod Save America' accused of temporarily deleting clip critical of Piker after ex-Biden staffer amplified it</title>
       <link>https://www.foxnews.com/media/pod-save-america-accused-temporarily-deleting-clip-critical-piker-after-ex-biden-staffer-amplified</link>
       <guid isPermaLink="false">8ed9b9746fa3bc4696037fcaeb8cb6cd28da2f7c</guid>
       <pubDate>Mon, 10 Aug 2026 23:36:24 GMT</pubDate>
       <description><![CDATA[Michael LaRosa says Crooked Media's "Pod Save America" deleted a clip of Chris Hayes criticizing Hasan Piker's ties to Abdul El-Sayed from their X page.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'I started in my 20s and made £8,000': Why women are often better investors than men</title>
+      <link>https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f2c2be7cefd463f7633b5a731f3cc93b7ff6f526</guid>
+      <pubDate>Mon, 10 Aug 2026 23:32:10 GMT</pubDate>
+      <description><![CDATA[Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -261,102 +357,6 @@
       <pubDate>Mon, 10 Aug 2026 23:14:51 GMT</pubDate>
       <description><![CDATA[Michigan's Democratic Senate nominee Abdul El-Sayed faces backlash over a resurfaced blog post linking toxic masculinity to football culture.]]></description>
       <category>politics</category>
-    </item>
-    <item>
-      <title>Iran installs new war chiefs as Tehran signals ‘prolonged confrontation,’ expert warns</title>
-      <link>https://www.foxnews.com/world/iran-installs-new-war-chiefs-tehran-signals-prolonged-confrontation-expert-warns</link>
-      <guid isPermaLink="false">9da3829cae8f7a3f2f9cf74df176543dd6c5e678</guid>
-      <pubDate>Mon, 10 Aug 2026 23:08:50 GMT</pubDate>
-      <description><![CDATA[Iranian Supreme Leader Mojtaba Khamenei named six military commanders as an expert says Tehran is preparing for prolonged confrontation, not settlement.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump signs order to limit childhood vaccines and split MMR shots</title>
-      <link>https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7c1d08a3a9fa6b27d097b1c29c91d168432dcc45</guid>
-      <pubDate>Mon, 10 Aug 2026 23:03:52 GMT</pubDate>
-      <description><![CDATA[The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots "dangerous".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Unlicensed NYC boat operator allegedly ignored safety warnings before mother, baby died in capsizing: feds</title>
-      <link>https://www.foxnews.com/us/unlicensed-nyc-boat-operator-allegedly-ignored-safety-warnings-mother-baby-died-capsizing-feds</link>
-      <guid isPermaLink="false">90e271af497da600a3f9b2ad7136ffe983b6cf3a</guid>
-      <pubDate>Mon, 10 Aug 2026 23:03:10 GMT</pubDate>
-      <description><![CDATA[Manuel Hernandez allegedly ignored safety warnings and overcrowded a New York Harbor boat tour before it capsized, killing a mother and her baby.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Top Senate Dem’s new tax idea gets torched as critics warn nearly every American could pay</title>
-      <link>https://www.foxnews.com/politics/top-senate-dems-new-tax-idea-gets-torched-critics-warn-nearly-every-american-could-pay</link>
-      <guid isPermaLink="false">d9cd9f77f37855eacc76c18faa54feb15f6597b5</guid>
-      <pubDate>Mon, 10 Aug 2026 23:00:59 GMT</pubDate>
-      <description><![CDATA[The top Democrat on the Senate Finance Committee proposed a gross receipts tax on data centers that critics call a national internet tax on all Americans.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>AOC tries to laugh off 'crazy' woke era as thing of the past, but conservatives aren't amused</title>
-      <link>https://www.foxnews.com/media/aoc-tries-laugh-off-crazy-woke-era-thing-past-conservatives-arent-amused</link>
-      <guid isPermaLink="false">90175cb48757b2520b930e8757d96249d281a7e6</guid>
-      <pubDate>Mon, 10 Aug 2026 22:12:55 GMT</pubDate>
-      <description><![CDATA[Rep. Alexandria Ocasio-Cortez laughed off the "Woke 1" era as "crazy," but critics say Democrats haven't renounced any of their far-left positions.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fauci in the hot seat as GOP senator tears into 'truly sick' vaccine texts: 'Tip of the iceberg'</title>
-      <link>https://www.foxnews.com/politics/fauci-hot-seat-gop-senator-tears-truly-sick-vaccine-texts-tip-iceberg</link>
-      <guid isPermaLink="false">cb40a756d4e746541df0d1471424539e55a13fe7</guid>
-      <pubDate>Mon, 10 Aug 2026 22:08:12 GMT</pubDate>
-      <description><![CDATA[Sen. Ron Johnson says Anthony Fauci's government phone texts reveal he privately feared mRNA vaccines could cause miscarriages in pregnant women.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>22-year-old passenger dies after sudden medical emergency strikes aboard Southwest flight to LA</title>
-      <link>https://www.foxnews.com/us/22-year-old-passenger-dies-sudden-medical-emergency-southwest-flight-la</link>
-      <guid isPermaLink="false">972fcb5f2a499cecad1a8859049dc3e93d1a833b</guid>
-      <pubDate>Mon, 10 Aug 2026 22:03:03 GMT</pubDate>
-      <description><![CDATA[Rain McMillan Walmsey, 22, became unresponsive on Southwest Airlines Flight 958 from Dallas to LAX, and his cause of death remains deferred.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The lonely Chinese men being conned by fake brides</title>
-      <link>https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">199631baf6530c65ead0b14b08ed629bbe47fa18</guid>
-      <pubDate>Mon, 10 Aug 2026 22:02:21 GMT</pubDate>
-      <description><![CDATA["Flash marriage" scams are an extreme symptom of a demographic crisis long in the making in China.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fauci texts raising theoretical miscarriage concern after COVID vaccine dose spark backlash</title>
-      <link>https://www.foxnews.com/politics/fauci-texts-raising-theoretical-miscarriage-concern-after-covid-vaccine-dose-spark-backlash</link>
-      <guid isPermaLink="false">3c55f31106e884daae7613157993d9dfa1c60d44</guid>
-      <pubDate>Mon, 10 Aug 2026 22:00:16 GMT</pubDate>
-      <description><![CDATA[Dr. Anthony Fauci’s private 2021 discussion of a theoretical miscarriage association drew fierce criticism from Republican lawmakers and officials.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>No evidence of data breach after Chinese-made component found in Navy drones, MoD says</title>
-      <link>https://www.bbc.co.uk/news/articles/c4gwl3n7ne7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">186803b4b5361203384e60b3652e254146da6331</guid>
-      <pubDate>Mon, 10 Aug 2026 21:50:37 GMT</pubDate>
-      <description><![CDATA[The Royal Navy's new sea drones were found to include a Chinese-made component which sent communication to a Chinese IP address.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>GB's Amy Hunt wins European 100m gold</title>
-      <link>https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7bcd2b2a30c89f6abc63a583d778a023fca8f76f</guid>
-      <pubDate>Mon, 10 Aug 2026 21:47:29 GMT</pubDate>
-      <description><![CDATA[Great Britain's Amy Hunt claims her first senior international title by powering to 100m gold at the European Athletics Championships in Birmingham.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>DiJonai Carrington responds to 'White privilege' post, but leaves meaning of it still unclear</title>
-      <link>https://www.foxnews.com/outkick-sports/dijonai-carrington-responds-white-privilege-post-leaves-meaning-unclear</link>
-      <guid isPermaLink="false">19cf0e463ff119b58f6ea8e45ebad053bc356dde</guid>
-      <pubDate>Mon, 10 Aug 2026 21:37:53 GMT</pubDate>
-      <description><![CDATA[DiJonai Carrington responded to Emmanuel Acho's critique of her "White privilege" post after her ejection, but still won't clarify what she meant by those words.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Monsoon fuels flood and dust storm threat across Southwest while bringing needed drought relief</title>
