@@ -1,5 +1,15 @@
 [
   {
+    "title": "How much will it rain in New York City by the end of the month?",
+    "link": "https://www.foxweather.com/weather-news/rain-new-york-city-end-august-kalshi",
+    "description": "More wet weather is on the way for people in the Northeast as rain and thunderstorms are expected to return by the end of the workweek in New York City.",
+    "pubDate": "Wed, 12 Aug 2026 23:18:39 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "Thousands of Juneau residents urged to evacuate before glacial outburst flood",
     "link": "https://alaskabeacon.com/2026/08/12/thousands-of-juneau-residents-urged-to-evacuate-before-glacial-outburst-flood/",
     "description": "Alaska\u2019s capital city has issued an evacuation advisory for the densely-populated Mendenhall Valley area on Wednesday as glacial outburst flooding begins. Officials and the public are closely watching the Mendenhall Glacier, where climate-change driven melting results in water filling an ice-dammed lake called Suicide Basin each year. That lake eventually bursts and billions of gallons [\u2026]",
@@ -164,6 +174,16 @@
     "link": "https://www.foxweather.com/weather-news/magnitude-5-2-earthquake-strikes-off-hawaii-big-island-undersea-volcano",
     "description": "A magnitude 5.2 earthquake struck off the coast of Hawaii's Big Island Monday evening beneath an undersea volcano, part of unrest that began this past Sunday, according to the USGS.",
     "pubDate": "Wed, 12 Aug 2026 09:45:51 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "16 hospitalized after lightning strike at Ohio prison; all victims in stable condition",
+    "link": "https://www.foxweather.com/weather-news/lightning-strike-injuries-16-ohio-correctional-institution",
+    "description": "More than a dozen people were hospitalized, including one who was airlifted, after a lightning strike at an Ohio correctional facility Tuesday evening.",
+    "pubDate": "Wed, 12 Aug 2026 01:46:44 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "FOX Weather",
@@ -380,24 +400,84 @@
     "rank": 100
   },
   {
-    "title": "Destructive derecho lashes millions with damaging winds and rain, causing mass power outages in the Midwest",
-    "link": "https://www.foxweather.com/weather-news/millions-across-midwest-great-lakes-face-multi-day-threat-destructive-storms-flash-flooding",
-    "description": "Rounds of severe storms and flash flooding have returned to portions of the Midwest, Ohio Valley and the Northeast, bringing a threat of significant rain as well as swaths of destructive winds.",
-    "pubDate": "Tue, 11 Aug 2026 11:08:17 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+    "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+    "description": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+    "pubDate": "Wed, 12 Aug 2026 23:11:35 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
-    "title": "Tornado Warnings, mass power outages hit Midwest as severe storms lash millions with damaging winds, rain",
-    "link": "https://www.foxweather.com/weather-news/millions-across-midwest-great-lakes-face-multi-day-threat-destructive-storms-flash-flooding",
-    "description": "Rounds of severe storms and flash flooding have returned to portions of the Midwest, Ohio Valley and the Northeast, bringing a threat of significant rain as well as swaths of destructive winds.",
-    "pubDate": "Tue, 11 Aug 2026 11:08:17 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Mystery Wi-Fi network aboard flight raises 'unusual' alarm about travelers' information",
+    "link": "https://www.foxnews.com/travel/mystery-wi-fi-network-aboard-flight-raises-unusual-alarm-travelers-information",
+    "description": "A rogue Wi-Fi network called \"Delta WiFi Fast\" appeared for passengers on a Delta flight from Las Vegas, forcing the crew to shut down in-flight internet for 30 minutes.",
+    "pubDate": "Wed, 12 Aug 2026 23:10:06 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+    "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+    "description": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+    "pubDate": "Wed, 12 Aug 2026 22:58:45 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Thousands of Canadians call for US ambassador's expulsion",
+    "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+    "description": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
+    "pubDate": "Wed, 12 Aug 2026 22:56:44 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Knoxville police love triangle drags police chief into mess for flirty texts with one of the female officers",
+    "link": "https://www.foxnews.com/outkick-culture/knoxville-police-love-triangle-drags-police-chief-into-mess-flirty-texts-female-officers",
+    "description": "Knoxville Police Department officer Jasmine Reed's love triangle with a married lieutenant led to the discovery of flirtatious texts with Chief Paul Noel.",
+    "pubDate": "Wed, 12 Aug 2026 22:52:10 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Millions watch 'surreal' solar eclipse in UK and Europe",
+    "link": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&at_campaign=rss",
+    "description": "More than 90% of the Sun was covered by the Moon in the UK, while a full eclipse was visible in Spain and Iceland.",
+    "pubDate": "Wed, 12 Aug 2026 22:45:52 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+    "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+    "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+    "pubDate": "Wed, 12 Aug 2026 22:41:46 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "GB's Hudson-Smith wins historic 400m gold on home track",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
+    "description": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.",
+    "pubDate": "Wed, 12 Aug 2026 22:41:22 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
     "title": "Ms Rachel posts support for reparations, sharing Ta-Nehisi Coates quote on slavery and Jim Crow",
@@ -500,6 +580,16 @@
     "rank": 10
   },
   {
+    "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+    "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+    "description": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
+    "pubDate": "Wed, 12 Aug 2026 21:53:26 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
     "title": "Raiders' No. 1 pick Fernando Mendoza will get 'plenty of experience' in preseason debut Thursday",
     "link": "https://www.foxnews.com/sports/raiders-no-1-pick-fernando-mendoza-plenty-experience-preseason-debut-thursday",
     "description": "Raiders head coach Klint Kubiak said that Fernando Mendoza, the No. 1 overall pick of the 2026 NFL Draft, will get \"plenty of experience\" as he's set for first preseason action.",
@@ -510,100 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Hasan Piker cheers Mamdani aide going 'beast mode' with 'impoverish the White middle-class' remark",
-    "link": "https://www.foxnews.com/politics/hasan-piker-cheers-mamdani-aide-beast-mode-impoverish-white-middle-class-remark",
-    "description": "Hasan Piker called Cea Weaver \"beast mode\" after Bill Maher highlighted the Zohran Mamdani aide's comments about impoverishing the White middle class.",
-    "pubDate": "Wed, 12 Aug 2026 21:43:45 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Paris Jackson says dad Michael\u2019s unusual rule helped protect her childhood",
-    "link": "https://www.foxnews.com/entertainment/paris-jackson-says-dad-michaels-unusual-rule-helped-protect-her-childhood",
-    "description": "Paris Jackson revealed on \"Call Her Daddy\" that Michael Jackson required his kids to finish homework and chores before enjoying Neverland attractions.",
-    "pubDate": "Wed, 12 Aug 2026 21:36:20 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Sophie Cunningham vs DiJonai Carrington: How two ex-football players collided in the 'privilege' debate",
-    "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-vs-dijonai-carrington-ex-football-players-collided-privilege-debate",
-    "description": "DiJonai Carrington and Sophie Cunningham's paths from football fields to the WNBA reveal how two players became symbols of the league's deepest divide.",
-    "pubDate": "Wed, 12 Aug 2026 21:30:51 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "JCB Hydromax shatters a world record with \u2018extraordinary\u2019 speeds topping 400 mph in hydrogen-powered car",
-    "link": "https://www.foxnews.com/sports/jcb-hydromax-shatters-world-record-extraordinary-speeds-topping-400-mph-hydrogen-powered-car",
-    "description": "JCB Hydromax hit 406 mph at the Bonneville Salt Flats with Andy Green at the wheel, shattering the previous hydrogen car record by over 220 mph.",
-    "pubDate": "Wed, 12 Aug 2026 21:27:20 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Pat McAfee threatens to sue liberal troll who accused him of using 'N-word' after sitting with Trump",
-    "link": "https://www.foxnews.com/outkick-sports/pat-mcafee-threatens-sue-liberal-troll-falsely-accused-using-n-word-sitting-trump",
-    "description": "An X user's viral post accused Pat McAfee of racism for sitting with Trump, prompting the ESPN host to threaten a potential libel lawsuit next week.",
-    "pubDate": "Wed, 12 Aug 2026 21:16:35 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Repeat offender sucker-punches woman in city where Ukrainian refugee was stabbed by career criminal",
-    "link": "https://www.foxnews.com/politics/repeat-offender-sucker-punches-woman-city-ukrainian-refugee-stabbed-career-criminal",
-    "description": "Di-Quan Schafar Hunt allegedly recorded himself punching a woman in Charlotte, the same city where Iryna Zarutska was fatally stabbed last year.",
-    "pubDate": "Wed, 12 Aug 2026 21:06:53 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Watch: Solar eclipse seen over UK skies",
-    "link": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss",
-    "description": "Millions of people in the UK and Europe have been wowed by a once-in-a-generation solar eclipse.",
-    "pubDate": "Wed, 12 Aug 2026 21:03:24 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-    "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-    "pubDate": "Wed, 12 Aug 2026 20:58:39 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Deadly military helicopter crash in Texas kills 2, sparks wildfire and forces evacuations: officials",
-    "link": "https://www.foxnews.com/us/deadly-military-helicopter-crash-texas-kills-2-sparks-wildfire-forces-evacuations-officials",
-    "description": "A military helicopter crashed near Salado, Texas, sparking a vegetation fire as Bell County authorities work an active scene with details still emerging.",
-    "pubDate": "Wed, 12 Aug 2026 20:57:58 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: This Afternoon - Haze",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "68\u00b0F. Wind NW 0 to 5 mph. Haze. Partly sunny, with a high near 68. Northwest wind 0 to 5 mph.",
-    "pubDate": "Wed, 12 Aug 2026 22:35:40 GMT",
+    "pubDate": "Wed, 12 Aug 2026 23:36:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Haze then Mostly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "52\u00b0F. Wind  0 mph. Haze before 7pm. Mostly cloudy, with a low around 52. Northwest wind around 0 mph.",
-    "pubDate": "Wed, 12 Aug 2026 22:35:40 GMT",
+    "pubDate": "Wed, 12 Aug 2026 23:36:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -622,18 +622,18 @@
   {
     "title": "Anchorage Weather: Thursday - Scattered Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "69\u00b0F. Wind NW 0 to 5 mph. Scattered rain showers between 7am and 4pm. Mostly cloudy, with a high near 69. Northwest wind 0 to 5 mph. Chance of precipitation is 40%.",
-    "pubDate": "Wed, 12 Aug 2026 22:35:40 GMT",
+    "description": "69\u00b0F. Wind  0 mph. Scattered rain showers between 7am and 1pm. Mostly cloudy, with a high near 69. North wind around 0 mph. Chance of precipitation is 30%.",
+    "pubDate": "Wed, 12 Aug 2026 23:36:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Thursday Night - Mostly Cloudy",
+    "title": "Anchorage Weather: Thursday Night - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "54\u00b0F. Wind SW 0 to 5 mph. Mostly cloudy, with a low around 54. Southwest wind 0 to 5 mph.",
-    "pubDate": "Wed, 12 Aug 2026 22:35:40 GMT",
+    "description": "54\u00b0F. Wind  0 mph. Partly cloudy, with a low around 54. Southwest wind around 0 mph.",
+    "pubDate": "Wed, 12 Aug 2026 23:36:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -642,8 +642,8 @@
   {
     "title": "Anchorage Weather: Friday - Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "73\u00b0F. Wind  0 mph. Mostly sunny, with a high near 73. Northwest wind around 0 mph.",
-    "pubDate": "Wed, 12 Aug 2026 22:35:40 GMT",
+    "description": "73\u00b0F. Wind W 0 to 5 mph. Mostly sunny, with a high near 73. West wind 0 to 5 mph.",
+    "pubDate": "Wed, 12 Aug 2026 23:36:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
