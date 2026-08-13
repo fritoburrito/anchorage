@@ -20,6 +20,16 @@
     "rank": 100
   },
   {
+    "title": "Mendenhall River floodwaters have begun to recede",
+    "link": "https://www.juneauempire.com/2026/08/13/suicide-basin-waters-expected-to-crest-by-6-p-m-thursday/",
+    "description": "Waters crest at 14.7 feet, however, evacuation advisory remains in effect until waters fall below 12 feet",
+    "pubDate": "Thu, 13 Aug 2026 18:40:00 GMT",
+    "category": "weather",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
     "title": "Mendenhall River waters expected to crest around 3 p.m. Thursday",
     "link": "https://www.juneauempire.com/2026/08/13/suicide-basin-waters-expected-to-crest-by-6-p-m-thursday/",
     "description": "Juneau officials, local agencies provide daily Suicide Basin flooding update",
@@ -390,14 +400,94 @@
     "rank": 100
   },
   {
-    "title": "Alaska\u2019s giant cabbage OK, university fee disclosures vetoed as Alaska governor acts on four bills",
-    "link": "https://alaskabeacon.com/2026/08/12/alaskas-giant-cabbage-ok-university-fee-disclosures-vetoed-as-alaska-governor-acts-on-four-bills/",
-    "description": "Alaska Gov. Mike Dunleavy allowed two bills to become law without his signature and vetoed two more on Monday, extending the record for the most vetoes in a two-year session of the Alaska Legislature. The governor vetoed a bill that would have required the University of Alaska to provide fee notices to students, and his [\u2026]",
-    "pubDate": "Wed, 12 Aug 2026 15:45:40 GMT",
+    "title": "Small town buzzing over identity of its $1B Powerball winner: \u2018Like a murder mystery\u2019",
+    "link": "https://www.foxnews.com/travel/small-town-buzzing-over-identity-1b-powerball-winner-like-murder-mystery",
+    "description": "Jon Marshall, manager of the Hy-Vee Gas Fresh & Fast in Quincy, Illinois, says the hunt for the $1.04 billion Powerball winner feels like \"a murder mystery.\"",
+    "pubDate": "Thu, 13 Aug 2026 23:14:49 GMT",
     "category": "politics",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+    "description": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+    "pubDate": "Thu, 13 Aug 2026 23:06:23 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Matthew McConaughey gives update on rumored 'Yellowstone' spin-off series, years after reports first surfaced",
+    "link": "https://www.foxnews.com/entertainment/matthew-mcconaughey-gives-update-rumored-yellowstone-spin-off-series-years-after-reports-first-surfaced",
+    "description": "Matthew McConaughy says his conversations with Taylor Sheridan about a \"Yellowstone\" spin-off are ongoing but confirms nothing is officially real yet.",
+    "pubDate": "Thu, 13 Aug 2026 23:05:54 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "JD Vance warns Republicans not to blame young Americans for the appeal of socialism",
+    "link": "https://www.foxnews.com/media/jd-vance-warns-republicans-not-blame-young-americans-appeal-socialism",
+    "description": "Vice President JD Vance warns Republicans not to blame young Americans for embracing socialism, saying the GOP must address surging housing prices and economic anxiety.",
+    "pubDate": "Thu, 13 Aug 2026 22:52:33 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Mamdani\u2019s luxury-home tax gets new life as appeals court lifts roadblock in homeowner fight",
+    "link": "https://www.foxnews.com/politics/mamdanis-luxury-home-tax-gets-new-life-appeals-court-lifts-roadblock-homeowner-fight",
+    "description": "The legal battle over Zohran Mamdani's luxury home tax surcharge intensifies as the city warns of jeopardized revenue projected at $500 million.",
+    "pubDate": "Thu, 13 Aug 2026 22:52:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Speaker Johnson slams Dems after noncitizens were charged with illegally voting in battleground state",
+    "link": "https://www.foxnews.com/us/speaker-johnson-slams-dems-after-noncitizens-charged-illegally-voting-battleground-state",
+    "description": "Michigan AG Dana Nessel charged five noncitizens and one U.S. citizen with election crimes after reviewing 38 suspected cases of illegal voting.",
+    "pubDate": "Thu, 13 Aug 2026 22:48:57 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
+    "description": "Britain's Amy Hunt charges to 200m glory to secure her second European Championships gold medal - but the sprinter has her sights set on a historic quadruple in Birmingham.",
+    "pubDate": "Thu, 13 Aug 2026 22:40:50 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Aussie women's cricket star addresses cheating with her teammate scandal that ended marriage",
+    "link": "https://www.foxnews.com/outkick-sports/aussie-womens-cricket-star-addresses-cheating-teammate-scandal-ended-marriage",
+    "description": "Ash Gardner addressed the cheating scandal involving teammate Georgia Voll on Instagram after Cricket Australia decided to keep her as vice-captain.",
+    "pubDate": "Thu, 13 Aug 2026 22:40:19 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Could Shohei Ohtani leave the Los Angeles Dodgers if Mark Walter sells the team after Lakers deal?",
+    "link": "https://www.foxnews.com/outkick-sports/shohei-ohtani-leave-los-angeles-dodgers-mark-walter-sells-team-lakers-deal",
+    "description": "Mark Walter's federal investigation for alleged loan fraud fuels speculation about whether the Los Angeles Dodgers could be sold after the Lakers deal.",
+    "pubDate": "Thu, 13 Aug 2026 22:35:34 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "White House correspondents widely praise Karoline Leavitt as she announces exit from Trump administration",
@@ -510,100 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Nicole Kidman admits she was \u2018very fearful and deeply vulnerable\u2019 after Keith Urban divorce",
-    "link": "https://www.foxnews.com/entertainment/nicole-kidman-admits-very-fearful-deeply-vulnerable-keith-urban-divorce",
-    "description": "Nicole Kidman says her divorce from Keith Urban left her future \"completely unknown,\" despite surviving her split from Tom Cruise decades earlier.",
-    "pubDate": "Thu, 13 Aug 2026 21:34:35 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "World War II Memorial on National Mall vandalized with pink spray paint, fountain overflowing with bubbles",
-    "link": "https://www.foxnews.com/politics/world-war-ii-memorial-national-mall-vandalized-pink-spray-paint-fountain-overflowing-bubbles",
-    "description": "Pink spray paint reading \"clean hands, dirty money\" was found on the World War II Memorial as U.S. Park Police launched an active investigation.",
-    "pubDate": "Thu, 13 Aug 2026 21:34:10 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Davis Martin ejected after back-to-back wild pitches near Sal Stewart's head spark benches-clearing incident",
-    "link": "https://www.foxnews.com/sports/davis-martin-ejected-back-to-back-wild-pitches-sal-stewart-head-spark-benches-clearing-incident",
-    "description": "Davis Martin was ejected after back-to-back wild pitches near Sal Stewart's head sparked a benches-clearing altercation between the White Sox and Reds.",
-    "pubDate": "Thu, 13 Aug 2026 21:30:48 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Tony Romo may have cost himself coveted CBS position after arrest, former NFL QB says",
-    "link": "https://www.foxnews.com/outkick-sports/tony-romo-may-have-cost-himself-coveted-cbs-position-arrest-former-nfl-qb-says",
-    "description": "Tony Romo's arrest on suspicion of intoxicated driving may end his CBS career, says Boomer Esiason, as J.J. Watt replaces him alongside Jim Nantz.",
-    "pubDate": "Thu, 13 Aug 2026 21:30:22 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Overturned cars shut down multiple 405 Freeway lanes in West Los Angeles during morning commute",
-    "link": "https://www.foxnews.com/us/overturned-cars-shut-down-multiple-405-freeway-lanes-west-los-angeles-morning-commute",
-    "description": "California Highway Patrol closed three Los Angeles 405 Freeway lanes as crews worked to clear two overturned cars near Santa Monica Boulevard.",
-    "pubDate": "Thu, 13 Aug 2026 21:23:27 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Russia\u2019s \u2018Amazon\u2019 in deep-strike Ukraine blitz, wiping billions from Putin-linked CEO",
-    "link": "https://www.foxnews.com/world/russia-amazon-deep-strike-ukraine-blitz-wiping-billions-putin-linked-ceo",
-    "description": "Ukraine's drone strikes have knocked out 27% of Wildberries warehouse capacity, with losses estimated up to $8.5 billion as Russia's logistics reels.",
-    "pubDate": "Thu, 13 Aug 2026 21:20:28 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Stacey Abrams tells nodding Kamala Harris that southerners have lived under 'soft authoritarianism' since 1776",
-    "link": "https://www.foxnews.com/media/stacey-abrams-tells-nodding-kamala-harris-southerners-have-lived-under-soft-authoritarianism-since-1776",
-    "description": "Stacey Abrams told Kamala Harris on her podcast that the American South represents what authoritarianism looks like in the U.S., dating back to 1776.",
-    "pubDate": "Thu, 13 Aug 2026 21:18:02 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Resurfaced assault report puts Dem Senate nominee in GOP crosshairs: 'Graham Platner 2.0'",
-    "link": "https://www.foxnews.com/politics/resurfaced-assault-report-puts-dem-senate-nominee-gop-crosshairs-graham-platner-2-0",
-    "description": "Troy Jackson, the Democratic Senate nominee in Maine, faces GOP attacks after a 1988 police report details a late-night brawl and assault claims.",
-    "pubDate": "Thu, 13 Aug 2026 21:15:50 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "My son's ultrasound showed me the truth about abortion Massachusetts now denies",
-    "link": "https://www.foxnews.com/opinion/son-ultrasound-showed-truth-abortion-massachusetts-now-denies",
-    "description": "Gov. Maura Healey signed a law on Monday removing Massachusetts' 24-week abortion restrictions, replacing specific conditions with physician judgment alone.",
-    "pubDate": "Thu, 13 Aug 2026 21:12:53 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: This Afternoon - Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "69\u00b0F. Wind N 0 to 5 mph. Partly sunny, with a high near 69. North wind 0 to 5 mph.",
-    "pubDate": "Thu, 13 Aug 2026 22:35:57 GMT",
+    "pubDate": "Thu, 13 Aug 2026 23:36:04 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Mostly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind SW 0 to 5 mph. Mostly cloudy, with a low around 54. Southwest wind 0 to 5 mph.",
-    "pubDate": "Thu, 13 Aug 2026 22:35:57 GMT",
+    "pubDate": "Thu, 13 Aug 2026 23:36:04 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Friday - Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "73\u00b0F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 73. Southwest wind 0 to 5 mph.",
-    "pubDate": "Thu, 13 Aug 2026 22:35:57 GMT",
+    "pubDate": "Thu, 13 Aug 2026 23:36:04 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Friday Night - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "55\u00b0F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 55. Southwest wind 0 to 5 mph.",
-    "pubDate": "Thu, 13 Aug 2026 22:35:57 GMT",
+    "pubDate": "Thu, 13 Aug 2026 23:36:04 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Saturday - Mostly Sunny then Scattered Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "70\u00b0F. Wind W 0 to 5 mph. Scattered rain showers after 1pm. Mostly sunny, with a high near 70. West wind 0 to 5 mph. Chance of precipitation is 30%.",
-    "pubDate": "Thu, 13 Aug 2026 22:35:57 GMT",
+    "pubDate": "Thu, 13 Aug 2026 23:36:04 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
