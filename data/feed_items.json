@@ -1,5 +1,15 @@
 [
   {
+    "title": "Teen charged for setting fire to youth counselor at Soldotna cabin",
+    "link": "https://www.homernews.com/2026/08/14/teen-charged-for-setting-fire-to-youth-counselor-at-soldotna-cabin/",
+    "description": "Isaac Caldera wanted to convince peers he was a gangster so they would stop bullying him",
+    "pubDate": "Fri, 14 Aug 2026 12:30:00 GMT",
+    "category": "kenai",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
     "title": "Timeline: When Hawaii will start feeling Tropical Storm Lala's impacts",
     "link": "https://www.foxweather.com/weather-news/timeline-tropical-storm-lala-hawaii-impacts",
     "description": "Tropical Storm Lala has formed in the Pacific Ocean and is forecast to strengthen into a hurricane by Saturday morning. Here\u2019s a timeline of when Tropical Storm Lala is expected to arrive in Hawaii area and the impacts forecasters expect it to bring.",
@@ -144,6 +154,16 @@
     "link": "https://www.foxweather.com/weather-news/magnitude-3-9-earthquake-san-francisco-bay-area-shaking-felt-oakland",
     "description": "A magnitude 3.8 earthquake struck the San Francisco Bay Area at 8:30 a.m. local time Thursday. The quake's epicenter was just 3.2 miles below the surface about 2.5 miles south of San Leandro, according to the USGS.",
     "pubDate": "Thu, 13 Aug 2026 16:20:13 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Hawaii braces for rare landfall as Tropical Storm Lala continues to strengthen toward hurricane status",
+    "link": "https://www.foxweather.com/weather-news/tropical-storm-lala-takes-aim-at-hawaii-threatening-flooding-rain-monster-surf",
+    "description": "Hawaii declared a State of Emergency as Tropical Storm Lala closes in, with the system expected to become a Category 1 hurricane as it approaches the islands with intense wind and flooding rain.",
+    "pubDate": "Thu, 13 Aug 2026 14:45:57 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "FOX Weather",
@@ -380,24 +400,94 @@
     "rank": 100
   },
   {
-    "title": "\u201cVote Yes to End the Mess:\u201d Bethany Marcum and Jim Minnery Discuss Repeal RCV Effort",
-    "link": "https://mustreadalaska.com/vote-yes-to-end-the-mess-bethany-marcum-and-jim-minnery-discuss-repeal-rcv-effort/",
-    "description": "By Jim Minnery, President of Alaska Family Council Rank choice voting, in large part, is about the fear from the Left that Republican Primaries produced too many dedicated, true conservatives for the General Election. You know, candidates who actually believe in and want to advance and protect the issues of the Republican platform. I was [\u2026] The post \u201cVote Yes to End the Mess:\u201d Bethany Marcum and Jim Minnery Discuss Repeal RCV Effort appeared first on Must Read Alaska .",
-    "pubDate": "Wed, 12 Aug 2026 21:22:33 GMT",
-    "category": "politics",
-    "tag": "alaska",
-    "source": "Must Read Alaska",
-    "rank": 100
+    "title": "REP TED LIEU: AI is already too powerful. We need a kill switch before disaster strikes",
+    "link": "https://www.foxnews.com/opinion/rep-ted-lieu-ai-already-too-powerful-need-kill-switch-before-disaster-strikes",
+    "description": "OpenAI's advanced AI model recently broke out of its sandbox, accessed the internet and penetrated Hugging Face servers \u2014 raising urgent questions about AI safety.",
+    "pubDate": "Fri, 14 Aug 2026 12:37:21 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Trump administration urges Supreme Court to rule soon on limiting vote-by-mail in midterms",
-    "link": "https://alaskabeacon.com/2026/08/12/repub/trump-administration-urges-supreme-court-to-rule-soon-on-limiting-vote-by-mail-in-midterms/",
-    "description": "The Trump administration on Wednesday renewed its request to the U.S. Supreme Court to quickly decide a case over an executive order restricting voting, a day after a Massachusetts federal judge expanded an injunction on the order nationwide. The Tuesday\u00a0order from U.S. District Judge Indira Talwani that blocked President Donald Trump\u2019s executive order from taking [\u2026]",
-    "pubDate": "Wed, 12 Aug 2026 21:00:34 GMT",
-    "category": "alaska",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "American missionary Kevin Rideout released after more than 9 months in captivity in Niger",
+    "link": "https://www.foxnews.com/us/american-missionary-kevin-rideout-released-after-more-than-9-months-captivity-niger",
+    "description": "Kevin Rideout was held captive for nine months after being kidnapped just 150 feet from Niger's presidential palace in the capital city of Niamey.",
+    "pubDate": "Fri, 14 Aug 2026 12:36:17 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Mother jailed for killing baby by burning her with a hairdryer",
+    "link": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&at_campaign=rss",
+    "description": "Courtney Gartshore, 28, used the appliance to subject three-month-old Dahlia-Rose to \"significant and sustained heat\" on her head and body.",
+    "pubDate": "Fri, 14 Aug 2026 12:22:13 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+    "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+    "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+    "pubDate": "Fri, 14 Aug 2026 12:19:21 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "U.S. missionary who was kidnapped in Niger is released",
+    "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+    "description": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
+    "pubDate": "Fri, 14 Aug 2026 12:11:50 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Bravo's Steven McBee Jr stands by Sophie Cunningham, blasts 'Summer House' star for stance on trans athletes",
+    "link": "https://www.foxnews.com/outkick-sports/bravos-steven-mcbee-jr-stands-sophie-cunningham-blasts-summer-house-star-stance-trans-athletes",
+    "description": "Steven McBee Jr. of \"McBee Dynasty: Real American Cowboys\" defends Sophie Cunningham's transgender sports stance and fires back at West Wilson.",
+    "pubDate": "Fri, 14 Aug 2026 12:05:23 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Treasure hunters strike gold after years of disappointment with find worth a fortune",
+    "link": "https://www.foxnews.com/travel/treasure-hunters-strike-gold-years-disappointment-find-worth-fortune",
+    "description": "Hobbyists Alan Daniels and Andy Crammond unearthed three Bronze Age gold bracelets near Carlisle, England, dating to 1100 B.C. The items are now under British Museum review.",
+    "pubDate": "Fri, 14 Aug 2026 12:00:55 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Deadly Connecticut home invasion suspect texted \u2018I\u2019ll make her life hell\u2019 before attack: report",
+    "link": "https://www.foxnews.com/us/deadly-connecticut-home-invasion-suspect-texted-make-her-life-hell-before-attack-report",
+    "description": "Court documents reveal text messages showing Ivan Barias-Florimon's alleged threats before the deadly Milford home invasion that killed Frederick Werner.",
+    "pubDate": "Fri, 14 Aug 2026 12:00:41 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "'Glam helps mentality' says sprinter Amy Hunt, but can it give you that winning edge?",
+    "link": "https://www.bbc.co.uk/news/articles/cd9wp32dgxxo?at_medium=RSS&at_campaign=rss",
+    "description": "Sprinter Amy Hunt has been showing off her nails at the European Athletics Championships in Birmingham.",
+    "pubDate": "Fri, 14 Aug 2026 11:49:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
     "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
@@ -427,6 +517,26 @@
     "category": "politics",
     "tag": "world",
     "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
+    "link": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&at_campaign=rss",
+    "description": "The investigation into a \u00a35m gift received by Farage reopens, as he returns as the MP for Clacton.",
+    "pubDate": "Fri, 14 Aug 2026 11:20:52 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Watch: 'Carnage' in Stourbridge as houses destroyed by fire",
+    "link": "https://www.bbc.co.uk/news/videos/cj03gyzg2l7o?at_medium=RSS&at_campaign=rss",
+    "description": "Fire crews have been tackling blazes in the West Midlands after multiple fires tore through the region on Thursday.",
+    "pubDate": "Fri, 14 Aug 2026 11:11:48 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
     "rank": 10
   },
   {
@@ -490,130 +600,20 @@
     "rank": 10
   },
   {
-    "title": "US Ambassador Huckabee slams extreme group of Israeli settlers for seizing Palestinian homes on West Bank",
-    "link": "https://www.foxnews.com/world/us-ambassador-huckabee-slams-extreme-group-israeli-settlers-seizing-palestinian-homes-west-bank",
-    "description": "Settler violence in the West Bank prompted U.S. Ambassador Mike Huckabee to call the perpetrators \"Israeli terrorists\" after they besieged a Palestinian American's home near Nablus.",
-    "pubDate": "Fri, 14 Aug 2026 10:52:42 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Raiders rookie Fernando Mendoza thanks God for an NFL debut that compares favorably to 'Mr Brady'",
-    "link": "https://www.foxnews.com/outkick-sports/raiders-rookie-fernando-mendoza-thanks-god-nfl-debut-compares-favorably-mr-brady",
-    "description": "Fernando Mendoza posted a 100.3 quarterback rating in his NFL preseason debut, but coach Klint Kubiak says Kirk Cousins still holds the starting job.",
-    "pubDate": "Fri, 14 Aug 2026 10:44:34 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "'Unprecedented' rain in Japan kills eight people",
-    "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-    "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-    "pubDate": "Fri, 14 Aug 2026 10:36:14 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
-    "link": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum",
-    "description": "Iran's expected election to a United Nations committee on human rights and counterterrorism is called \"Orwellian\" by UN Watch's Hillel Neuer.",
-    "pubDate": "Fri, 14 Aug 2026 10:30:49 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
-    "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
-    "description": "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe's fifth heatwave this summer",
-    "pubDate": "Fri, 14 Aug 2026 10:30:17 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Luigi Mangione case in photos: From Brian Thompson\u2019s killing to the courtroom",
-    "link": "https://www.foxnews.com/us/luigi-mangione-case-photos-from-brian-thompson-killing-courtroom",
-    "description": "Photos detail the legal case against Luigi Mangione, from his suspected killing of UnitedHealthcare CEO Brian Thompson in New York City to his moves in court.",
-    "pubDate": "Fri, 14 Aug 2026 10:30:14 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Eurovision proposes new rules to reduce political voting",
-    "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
-    "description": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
-    "pubDate": "Fri, 14 Aug 2026 10:23:08 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Eurovision proposes new rules to tackle mass voting",
-    "link": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
-    "description": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
-    "pubDate": "Fri, 14 Aug 2026 10:23:08 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "US missionary released following kidnap in Niger, Christian group says",
-    "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-    "description": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
-    "pubDate": "Fri, 14 Aug 2026 10:18:02 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Mark Lynch endorses Ralph Norman as congressman heads into runoff against Darline Graham",
-    "link": "https://www.foxnews.com/politics/ralph-norman-darline-graham-senate-runoff",
-    "description": "Mark Lynch endorsed Rep. Ralph Norman, the candidate running against Sen. Darline Graham in the South Carolina special GOP U.S. Senate primary runoff.",
-    "pubDate": "Fri, 14 Aug 2026 10:13:09 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "MLW rising star LaBron Kozone set for grudge match against Joe Coffey, talks Teddy Long inspiration",
-    "link": "https://www.foxnews.com/sports/mlw-rising-star-labron-kozone-set-grudge-match-against-joe-coffey-talks-teddy-long-inspiration",
-    "description": "LaBron Kozone told Fox News Digital he owes Joe Coffey payback after the Glasgow Boys on Top member admitted to taking out Teddy Long at MLW Blood & Thunder.",
-    "pubDate": "Fri, 14 Aug 2026 10:08:01 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: Tonight - Mostly Cloudy",
+    "title": "Anchorage Weather: Overnight - Patchy Fog",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "54\u00b0F. Wind SW 0 to 5 mph. Mostly cloudy, with a low around 54. Southwest wind 0 to 5 mph.",
-    "pubDate": "Fri, 14 Aug 2026 11:40:54 GMT",
+    "description": "54\u00b0F. Wind  0 mph. Patchy fog. Mostly cloudy, with a low around 54. North wind around 0 mph.",
+    "pubDate": "Fri, 14 Aug 2026 12:55:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Friday - Mostly Sunny",
+    "title": "Anchorage Weather: Friday - Patchy Fog then Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "73\u00b0F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 73. Southwest wind 0 to 5 mph.",
-    "pubDate": "Fri, 14 Aug 2026 11:40:54 GMT",
+    "description": "74\u00b0F. Wind W 0 to 5 mph. Patchy fog before 7am. Mostly sunny, with a high near 74. West wind 0 to 5 mph.",
+    "pubDate": "Fri, 14 Aug 2026 12:55:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,27 +623,27 @@
     "title": "Anchorage Weather: Friday Night - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "55\u00b0F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 55. Southwest wind 0 to 5 mph.",
-    "pubDate": "Fri, 14 Aug 2026 11:40:54 GMT",
+    "pubDate": "Fri, 14 Aug 2026 12:55:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Saturday - Mostly Sunny then Scattered Rain Showers",
+    "title": "Anchorage Weather: Saturday - Partly Sunny then Isolated Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "70\u00b0F. Wind W 0 to 5 mph. Scattered rain showers after 1pm. Mostly sunny, with a high near 70. West wind 0 to 5 mph. Chance of precipitation is 30%.",
-    "pubDate": "Fri, 14 Aug 2026 11:40:54 GMT",
+    "description": "69\u00b0F. Wind NW 0 to 5 mph. Isolated rain showers after 4pm. Partly sunny, with a high near 69. Northwest wind 0 to 5 mph.",
+    "pubDate": "Fri, 14 Aug 2026 12:55:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Saturday Night - Scattered Rain Showers",
+    "title": "Anchorage Weather: Saturday Night - Isolated Rain Showers then Slight Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "55\u00b0F. Wind SW 0 to 5 mph. Scattered rain showers. Mostly cloudy, with a low around 55. Southwest wind 0 to 5 mph. Chance of precipitation is 40%.",
-    "pubDate": "Fri, 14 Aug 2026 11:40:54 GMT",
+    "description": "55\u00b0F. Wind NW 5 mph. Isolated rain showers before 1am, then a slight chance of rain. Mostly cloudy, with a low around 55. Northwest wind around 5 mph.",
+    "pubDate": "Fri, 14 Aug 2026 12:55:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
