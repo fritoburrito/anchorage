@@ -31,18 +31,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Today - Mostly Sunny</title>
+      <title>Anchorage Weather: Today - Patchy Fog then Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 16:48:42 GMT</pubDate>
-      <description><![CDATA[74°F. Wind W 0 to 5 mph. Mostly sunny, with a high near 74. West wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 14 Aug 2026 17:48:31 GMT</pubDate>
+      <description><![CDATA[74°F. Wind W 0 to 5 mph. Patchy fog before 7am. Mostly sunny, with a high near 74. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 16:48:42 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 17:48:31 GMT</pubDate>
       <description><![CDATA[55°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 55. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +50,7 @@
       <title>Anchorage Weather: Saturday - Partly Sunny then Isolated Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 16:48:42 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 17:48:31 GMT</pubDate>
       <description><![CDATA[69°F. Wind NW 0 to 5 mph. Isolated rain showers after 4pm. Partly sunny, with a high near 69. Northwest wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -58,7 +58,7 @@
       <title>Anchorage Weather: Saturday Night - Isolated Rain Showers then Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 16:48:42 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 17:48:31 GMT</pubDate>
       <description><![CDATA[55°F. Wind NW 5 mph. Isolated rain showers before 1am, then a slight chance of rain. Mostly cloudy, with a low around 55. Northwest wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -66,7 +66,7 @@
       <title>Anchorage Weather: Sunday - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 16:48:42 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 17:48:31 GMT</pubDate>
       <description><![CDATA[65°F. Wind NE 0 to 5 mph. A chance of rain. Mostly cloudy, with a high near 65. Northeast wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
@@ -287,6 +287,86 @@
       <category>local</category>
     </item>
     <item>
+      <title>Temporary ban on sale of disposable BBQs over wildfire risk</title>
+      <link>https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">85b52537fb1c8a075ea3546db919ce22d8207cc3</guid>
+      <pubDate>Fri, 14 Aug 2026 17:42:00 GMT</pubDate>
+      <description><![CDATA[Single-use grills pose a "significant risk to the public" in current drought and heatwave conditions, the government warns.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Massachusetts mayor charged with wire fraud in $1.5M COVID relief scheme</title>
+      <link>https://www.foxnews.com/us/massachusetts-mayor-charged-wire-fraud-1-5m-covid-relief-scheme</link>
+      <guid isPermaLink="false">dc10251db5bb546d49f3c92e1b214bc6d2610c3a</guid>
+      <pubDate>Fri, 14 Aug 2026 17:35:34 GMT</pubDate>
+      <description><![CDATA[Brian DePena allegedly funneled over $1.5 million in EIDL loan funds into his campaign account, personal taxes, and real estate debts, federal charges say.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Air Force athletes chasing Olympic dreams in between serving the nation in a critical time</title>
+      <link>https://www.foxnews.com/sports/air-force-athletes-chasing-olympic-dreams-serving-nation-critical-time</link>
+      <guid isPermaLink="false">da1e97b5f51886b828256dc1b6bc3e2a2df1c3a6</guid>
+      <pubDate>Fri, 14 Aug 2026 17:22:50 GMT</pubDate>
+      <description><![CDATA[Air Force athletes Anita Alvarez, Texas Tanner and Wyatt Hendrickson train for the 2028 Olympics through WCAP while fellow airmen serve in combat.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Elephants may have played surprising role in early human survival, study suggests</title>
+      <link>https://www.foxnews.com/travel/elephants-may-have-played-surprising-role-early-human-survival-study-suggests</link>
+      <guid isPermaLink="false">c14b2da2787a4045ab386fa5bd028b245de2c61b</guid>
+      <pubDate>Fri, 14 Aug 2026 17:10:38 GMT</pubDate>
+      <description><![CDATA[A new study suggests early humans were butchering elephants for food nearly 2 million years ago, revealing a strategic adaptation to megafaunal resources.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers</title>
+      <link>https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">bc705624b05e8c4dd7c0352b6617f07232195119</guid>
+      <pubDate>Fri, 14 Aug 2026 17:03:17 GMT</pubDate>
+      <description><![CDATA[Two families have been trapped in their homes in the occupied West Bank for several days.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>UK diplomats no longer get hardship bonus for being posted to Buenos Aires</title>
+      <link>https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5beaacc5001001882d1a7f6fec31dd1ec2d0e279</guid>
+      <pubDate>Fri, 14 Aug 2026 17:00:46 GMT</pubDate>
+      <description><![CDATA[Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>As speed cameras spread to more states, so does the backlash from drivers</title>
+      <link>https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash</link>
+      <guid isPermaLink="false">6342117534f3ed73ef0d43fd70c1d9a0a40b17a7</guid>
+      <pubDate>Fri, 14 Aug 2026 16:54:58 GMT</pubDate>
+      <description><![CDATA[Millions of drivers across the country are encountering speed cameras for the first time, or will soon. Some don't like it, but advocates say there's clear evidence that cameras make roads safer.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Luigi Mangione pleads guilty in federal court to stalking and killing UnitedHealthcare CEO Brian Thompson</title>
+      <link>https://www.foxnews.com/us/luigi-mangione-pleads-guilty-federal-court-stalking-killing-unitedhealthcare-ceo-brian-thompson</link>
+      <guid isPermaLink="false">a155eb5d0b07e6ecf1308b7ef4192638e9e457dd</guid>
+      <pubDate>Fri, 14 Aug 2026 16:53:28 GMT</pubDate>
+      <description><![CDATA[Luigi Mangione told the federal judge he traveled to New York with intent to shoot Brian Thompson, raising questions about a double jeopardy defense.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Farage puts seat on the line over ‘establishment hit job’ — voters send him right back</title>
+      <link>https://www.foxnews.com/world/farage-puts-seat-line-over-establishment-hit-job-voters-send-him-right-back</link>
+      <guid isPermaLink="false">a8c2776dde6291abb72c2bfa8f8cb72c7534bbf2</guid>
+      <pubDate>Fri, 14 Aug 2026 16:52:57 GMT</pubDate>
+      <description><![CDATA[Nigel Farage reclaimed his Clacton seat with 22,239 votes, but the parliamentary investigation into his undeclared £5 million gift is now active again.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Britain's Finlay Tarling dies in Volta a Portugal accident</title>
+      <link>https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">534775643230231340d489c0f6b33e1cdd3cba02</guid>
+      <pubDate>Fri, 14 Aug 2026 16:47:21 GMT</pubDate>
+      <description><![CDATA[British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>British cyclist Tarling dies in Volta a Portugal accident</title>
       <link>https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">534775643230231340d489c0f6b33e1cdd3cba02</guid>
@@ -295,11 +375,35 @@
       <category>world</category>
     </item>
     <item>
+      <title>‘Raw material for election fraud’: Expert flags voter-roll problems far beyond one state</title>
+      <link>https://www.foxnews.com/politics/raw-material-election-fraud-expert-flags-voter-roll-problems-far-beyond-one-state</link>
+      <guid isPermaLink="false">2cfc5a6698c9b148f8a1f23a320d07498ff6e867</guid>
+      <pubDate>Fri, 14 Aug 2026 16:46:13 GMT</pubDate>
+      <description><![CDATA[Chuck DeVore told Fox News Digital that liberal states treat elections as census exercises, supercharging weaknesses in noncitizen voting safeguards.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>'Blue Bloods' star Jennifer Esposito says she walked away from Hollywood after years of rejection and ‘abuse’</title>
+      <link>https://www.foxnews.com/entertainment/blue-bloods-star-jennifer-esposito-walked-away-hollywood-years-rejection-abuse</link>
+      <guid isPermaLink="false">10646b787a9f10ea11820c03fb3bc6981c291054</guid>
+      <pubDate>Fri, 14 Aug 2026 16:43:16 GMT</pubDate>
+      <description><![CDATA[Jennifer Esposito reveals the anxiety, abuse concerns, and Hollywood sexism that drove her to mortgage her house to make "Fresh Kills" on her terms.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Is there a summer COVID-19 surge this year? Yep, it's ramping up again</title>
       <link>https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge</link>
       <guid isPermaLink="false">c3ac349ba8c141d4d8c2f78451b2d2c1328e7985</guid>
       <pubDate>Fri, 14 Aug 2026 16:37:54 GMT</pubDate>
       <description><![CDATA[Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>France's top court blocks social media ban for under-15s</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">feba530ce504de61a57ad233b19e1208b1a773d8</guid>
+      <pubDate>Fri, 14 Aug 2026 16:35:06 GMT</pubDate>
+      <description><![CDATA[The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -332,110 +436,6 @@
       <guid isPermaLink="false">79559d8abfb8ac01eca7d224e7315bf8fd378baf</guid>
       <pubDate>Fri, 14 Aug 2026 16:07:07 GMT</pubDate>
       <description><![CDATA[Abdul El-Sayed's half sister Eman Abdelhadi was arrested on a felony charge for allegedly spitting on a trooper during anti-ICE protests in Broadview.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Susan Collins drops brutal reminder of Dem rival rocked by accusations</title>
-      <link>https://www.foxnews.com/politics/susan-collins-drops-brutal-reminder-dem-rival-rocked-accusations</link>
-      <guid isPermaLink="false">8eff0754c31cc98bd186a0b312341091e3ffe3f4</guid>
-      <pubDate>Fri, 14 Aug 2026 16:06:38 GMT</pubDate>
-      <description><![CDATA[Republican Sen. Susan Collins says Democratic challenger Troy Jackson "struggles to control his temper" after a resurfaced 1988 police report emerged.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Mangione pleads guilty in federal court, leaving fate of state trial uncertain</title>
-      <link>https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea</link>
-      <guid isPermaLink="false">d65cb53f1ec8589134f17b962f0151b39e46f8eb</guid>
-      <pubDate>Fri, 14 Aug 2026 16:05:24 GMT</pubDate>
-      <description><![CDATA[Mangione has pleaded guilty to stalking charges in connection with the death of Brian Thompson, a health care executive. A separate judge will decide the future of Mangione's state trial.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Unearthed El-Sayed essay draws explosive Trump-bin Laden parallel: ‘recruited, radicalized and reassured’</title>
-      <link>https://www.foxnews.com/politics/unearthed-el-sayed-essay-draws-explosive-trump-bin-laden-parallel-recruited-radicalized-reassured</link>
-      <guid isPermaLink="false">3c818fcad40819eb59f9883a947535a88adfc343</guid>
-      <pubDate>Fri, 14 Aug 2026 16:02:02 GMT</pubDate>
-      <description><![CDATA[Abdul El-Sayed's now-private 2021 blog post argued Trump should be treated like Osama bin Laden, calling the Capitol riot comparable to 9/11.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Glastonbury festival organiser dismisses rumours that Madonna will headline in 2027</title>
-      <link>https://www.bbc.co.uk/news/articles/cqjx1wdkn81o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0453fe7e251e6d6e72bcbb1732127b1be772575e</guid>
-      <pubDate>Fri, 14 Aug 2026 16:01:11 GMT</pubDate>
-      <description><![CDATA[Emily Eavis says the festival has booked its headliners, but the Queen of Pop is "definitely not" among them.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bezos-backed consortium buys a third of Liverpool FC</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ecebd07d0359926cc02ceeabf474288175c616d9</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:16 GMT</pubDate>
-      <description><![CDATA[Liverpool's owners agree to sell around a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Sparks star Cameron Brink helped off the court after brutal collision with Breanna Stewart</title>
-      <link>https://www.foxnews.com/outkick-sports/sparks-star-cameron-brink-helped-off-court-after-brutal-collision-breanna-stewart</link>
-      <guid isPermaLink="false">e293b03a1f795b3f2c6d9e8ec8ac8dd0915144e2</guid>
-      <pubDate>Fri, 14 Aug 2026 15:59:18 GMT</pubDate>
-      <description><![CDATA[Cameron Brink collapsed after a collision with Breanna Stewart during the Sparks' loss to the New York Liberty, raising fresh injury concerns.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Geno Auriemma questions why WNBA transgender athlete debate is 'an issue' when it 'doesn't exist'</title>
-      <link>https://www.foxnews.com/outkick-sports/geno-auriemma-questions-why-wnba-transgender-athlete-debate-issue-when-doesnt-exist</link>
-      <guid isPermaLink="false">95e0971107ecb3c5d1cc88c6cce7fc501f102dc9</guid>
-      <pubDate>Fri, 14 Aug 2026 15:57:08 GMT</pubDate>
-      <description><![CDATA[Geno Auriemma says the transgender athlete debate in the WNBA is over an issue that doesn't exist, claiming people exploit it for personal gain.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>MouthPad lets your tongue control a computer</title>
-      <link>https://www.foxnews.com/science/mouthpad-lets-tongue-control-computer</link>
-      <guid isPermaLink="false">d58a04637eac8a6c4142b5619e1ad42c38beb818</guid>
-      <pubDate>Fri, 14 Aug 2026 15:53:16 GMT</pubDate>
-      <description><![CDATA[The MouthPad is a custom-fit hands-free touchpad that sits inside your mouth, letting you control a cursor with your tongue or head movements.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>What we know so far about the West Midlands fires</title>
-      <link>https://www.bbc.co.uk/news/articles/cp8xr2n9560o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">26a42a1e51f7a213c071e78d6e755e80addae535</guid>
-      <pubDate>Fri, 14 Aug 2026 15:46:56 GMT</pubDate>
-      <description><![CDATA[Several fires swept across the West Midlands on Thursday destroying homes and forcing residents to flee.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>New York City’s lone Republican in Congress accuses Mamdani, Schumer of 'hypocrisy' in voter ID fight</title>
-      <link>https://www.foxnews.com/politics/new-york-citys-lone-republican-congress-accuses-mamdani-schumer-hypocrisy-voter-id-fight</link>
-      <guid isPermaLink="false">67d4312385436f08b4faf6f3d67773296a85c5e6</guid>
-      <pubDate>Fri, 14 Aug 2026 15:25:44 GMT</pubDate>
-      <description><![CDATA[Rep. Nicole Malliotakis, R-N.Y. argues Senate Minority Leader Chuck Schumer and Senate Democrats block the SAVE Act while claiming to support voter ID in their districts.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Trump asks Supreme Court to allow ballroom work to continue</title>
-      <link>https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6b21c3c238e4b1218c8366be94a61c9adcfb88c7</guid>
-      <pubDate>Fri, 14 Aug 2026 15:10:41 GMT</pubDate>
-      <description><![CDATA[Forcing the US president to go "hat-in-hand to Congress" for permission would be "dangerous", the administration says.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Watch: Moment €9m worth of art stolen from Italy museum</title>
-      <link>https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e3ccd6f91547354eb2278e7a4b900d0589d73dcb</guid>
-      <pubDate>Fri, 14 Aug 2026 14:56:04 GMT</pubDate>
-      <description><![CDATA[Police released the CCTV footage after the art, which was stolen in March, was recovered.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kelly Ripa admits everyday habit led to painful gum surgery</title>
-      <link>https://www.foxnews.com/entertainment/kelly-ripa-admits-everyday-habit-led-painful-gum-surgery</link>
-      <guid isPermaLink="false">10c6d023b09df510a4046b37fa5f2460a9bf64e3</guid>
-      <pubDate>Fri, 14 Aug 2026 14:51:18 GMT</pubDate>
-      <description><![CDATA[Kelly Ripa revealed her over-brushing caused severe gum recession, forcing a surgery that left the famously chatty talk show host unable to speak.]]></description>
       <category>world</category>
     </item>
     <item>
