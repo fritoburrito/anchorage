@@ -15,14 +15,6 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>REP TED LIEU: AI is already too powerful. We need a kill switch before disaster strikes</title>
-      <link>https://www.foxnews.com/opinion/rep-ted-lieu-ai-already-too-powerful-need-kill-switch-before-disaster-strikes</link>
-      <guid isPermaLink="false">80b8b47b8a6d6976abe8d0a99f5ae33957257ce7</guid>
-      <pubDate>Fri, 14 Aug 2026 12:37:21 GMT</pubDate>
-      <description><![CDATA[OpenAI's advanced AI model recently broke out of its sandbox, accessed the internet and penetrated Hugging Face servers — raising urgent questions about AI safety.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
       <title>Track Tropical Storm Lala: Live radar, forecast cone, wave heights, wind speed and warnings</title>
       <link>https://www.foxweather.com/weather-news/tracker-tropical-storm-lala-forecast-cone-waves-wind-speed-warnings</link>
       <guid isPermaLink="false">65fc9c4ac76a15b5e03560e2402b8ee4efcc9f37</guid>
@@ -31,26 +23,26 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Overnight - Patchy Fog</title>
+      <title>Widespread alerts issued across Hawaiian Islands as Tropical Storm Lala continues to strengthen</title>
+      <link>https://www.foxweather.com/weather-news/tropical-storm-lala-takes-aim-at-hawaii-threatening-flooding-rain-monster-surf</link>
+      <guid isPermaLink="false">7313eaf859edd9e2014273468c0a9301eeb93a00</guid>
+      <pubDate>Thu, 13 Aug 2026 14:45:57 GMT</pubDate>
+      <description><![CDATA[Tropical Storm Warnings have expanded to include Honolulu as Tropical Storm Lala closes in on Hawaii, with the system expected to become a Category 1 hurricane as it approaches the islands with intense wind and flooding rain.]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Today - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 14:13:30 GMT</pubDate>
-      <description><![CDATA[54°F. Wind  0 mph. Patchy fog. Mostly cloudy, with a low around 54. North wind around 0 mph.]]></description>
+      <pubDate>Fri, 14 Aug 2026 15:46:03 GMT</pubDate>
+      <description><![CDATA[74°F. Wind W 0 to 5 mph. Mostly sunny, with a high near 74. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Friday - Patchy Fog then Mostly Sunny</title>
+      <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 14:13:30 GMT</pubDate>
-      <description><![CDATA[74°F. Wind W 0 to 5 mph. Patchy fog before 7am. Mostly sunny, with a high near 74. West wind 0 to 5 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Friday Night - Partly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 14:13:30 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 15:46:03 GMT</pubDate>
       <description><![CDATA[55°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 55. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,17 +50,33 @@
       <title>Anchorage Weather: Saturday - Partly Sunny then Isolated Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 14:13:30 GMT</pubDate>
-      <description><![CDATA[69°F. Wind NW 0 to 5 mph. Isolated rain showers after 4pm. Partly sunny, with a high near 69. Northwest wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 14 Aug 2026 15:46:03 GMT</pubDate>
+      <description><![CDATA[69°F. Wind NW 0 to 5 mph. Isolated rain showers after 4pm. Partly sunny, with a high near 69. Northwest wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday Night - Isolated Rain Showers then Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 14:13:30 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 15:46:03 GMT</pubDate>
       <description><![CDATA[55°F. Wind NW 5 mph. Isolated rain showers before 1am, then a slight chance of rain. Mostly cloudy, with a low around 55. Northwest wind around 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Sunday - Chance Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Fri, 14 Aug 2026 15:46:03 GMT</pubDate>
+      <description><![CDATA[65°F. Wind NE 0 to 5 mph. A chance of rain. Mostly cloudy, with a high near 65. Northeast wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Alaska judge confirms legislative candidate for primary despite blank financial disclosure form</title>
+      <link>https://alaskabeacon.com/2026/08/14/alaska-judge-confirms-legislative-candidate-for-primary-despite-blank-financial-disclosure-form/</link>
+      <guid isPermaLink="false">7f93cc19a8a96c62eaff8d2bd0043991596c0510</guid>
+      <pubDate>Fri, 14 Aug 2026 13:45:54 GMT</pubDate>
+      <description><![CDATA[An Anchorage Superior Court judge ruled Thursday that the Alaska Division of Elections was correct to keep Anchorage Republican Jose Tagle on the primary election ballot for state House even though he filed a blank form when asked to disclose his personal finances. State law requires candidates for public office to complete a Public Official […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Teen charged for setting fire to youth counselor at Soldotna cabin</title>
@@ -271,12 +279,92 @@
       <category>local</category>
     </item>
     <item>
-      <title>Alaska’s August 18 Primary: A Practical Guide for Voters Who Prefer Results Over Theater</title>
-      <link>https://mustreadalaska.com/alaskas-august-18-primary-a-practical-guide-for-voters-who-prefer-results-over-theater/</link>
-      <guid isPermaLink="false">a9f2deee3de747c462328d3c4963be9cd843f926</guid>
-      <pubDate>Wed, 12 Aug 2026 22:54:56 GMT</pubDate>
-      <description><![CDATA[The August primary is soon at hand with only one week left until election day on August 18. Alaska’s jungle primary means all candidates regardless of party appear on the same ballot. There is no ranking in the primary; each voter just picks his or her favorite candidate. The top four vote-getters advance to the […] The post Alaska’s August 18 Primary: A Practical Guide for Voters Who Prefer Results Over Theater appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>New York City’s lone Republican in Congress accuses Mamdani, Schumer of 'hypocrisy' in voter ID fight</title>
+      <link>https://www.foxnews.com/politics/new-york-citys-lone-republican-congress-accuses-mamdani-schumer-hypocrisy-voter-id-fight</link>
+      <guid isPermaLink="false">67d4312385436f08b4faf6f3d67773296a85c5e6</guid>
+      <pubDate>Fri, 14 Aug 2026 15:25:44 GMT</pubDate>
+      <description><![CDATA[Rep. Nicole Malliotakis, R-N.Y. argues Senate Minority Leader Chuck Schumer and Senate Democrats block the SAVE Act while claiming to support voter ID in their districts.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Trump asks Supreme Court to allow ballroom work to continue</title>
+      <link>https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6b21c3c238e4b1218c8366be94a61c9adcfb88c7</guid>
+      <pubDate>Fri, 14 Aug 2026 15:10:41 GMT</pubDate>
+      <description><![CDATA[Forcing the US president to go "hat-in-hand to Congress" for permission would be "dangerous", the administration says.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kelly Ripa admits everyday habit led to painful gum surgery</title>
+      <link>https://www.foxnews.com/entertainment/kelly-ripa-admits-everyday-habit-led-painful-gum-surgery</link>
+      <guid isPermaLink="false">10c6d023b09df510a4046b37fa5f2460a9bf64e3</guid>
+      <pubDate>Fri, 14 Aug 2026 14:51:18 GMT</pubDate>
+      <description><![CDATA[Kelly Ripa revealed her over-brushing caused severe gum recession, forcing a surgery that left the famously chatty talk show host unable to speak.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e9a89241b9eb0f6a14f078be81a9255f78a224e9</guid>
+      <pubDate>Fri, 14 Aug 2026 14:50:02 GMT</pubDate>
+      <description><![CDATA[As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>We learned 5 important things about the economy this week</title>
+      <link>https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas</link>
+      <guid isPermaLink="false">815c81ae572b5898ea26d28b49471bd6f5e9336a</guid>
+      <pubDate>Fri, 14 Aug 2026 14:47:15 GMT</pubDate>
+      <description><![CDATA[From inflation, to credit card debt, to who's actually doing the spending: These are key takeaways from this week in economic news.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Cuban ties put powerful US union under microscope over alleged communist influence push</title>
+      <link>https://www.foxnews.com/politics/cuban-ties-put-powerful-us-union-under-microscope-over-alleged-communist-influence-push</link>
+      <guid isPermaLink="false">4a1a1657d4730faf91cb999ab57880570c1730a8</guid>
+      <pubDate>Fri, 14 Aug 2026 14:45:16 GMT</pubDate>
+      <description><![CDATA[Senate Committee on Health, Education, Labor and Pensions Chair Bill Cassidy demands answers from IAM over alleged Cuban regime influence scheme.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>The Taliban has taken a terrible toll on the education of girls -- and boys as well</title>
+      <link>https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school</link>
+      <guid isPermaLink="false">5e8950c3a2c900c1d51b727e6224626947fcc3fa</guid>
+      <pubDate>Fri, 14 Aug 2026 14:41:22 GMT</pubDate>
+      <description><![CDATA[Saturday marks the 5th anniversary of the current Taliban rule in Aghanistan. They've had a devastating impact on girls' education. A lesser told story is their impact on the education of boys.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>49ers quarterback hospitalized after struggling to breathe in first game in nearly 2 years</title>
+      <link>https://www.foxnews.com/sports/49ers-quarterback-hospitalized-struggling-breathe-first-game-nearly-2-years</link>
+      <guid isPermaLink="false">2a645c648b792878b7b63cefb8f8316b1c0ee6b6</guid>
+      <pubDate>Fri, 14 Aug 2026 14:41:09 GMT</pubDate>
+      <description><![CDATA[Kurtis Rourke went 12-for-14 in his 49ers preseason debut against the Tennessee Titans before a rib injury sent him to the hospital with breathing trouble.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WWII Memorial vandalism suspect now in custody, to be charged with two felonies, Pirro announces</title>
+      <link>https://www.foxnews.com/politics/wwii-memorial-vandalism-suspect-now-custody-charged-two-felonies-pirro-announces</link>
+      <guid isPermaLink="false">446882571b11741565b576c2606ef3bcc536a176</guid>
+      <pubDate>Fri, 14 Aug 2026 14:18:54 GMT</pubDate>
+      <description><![CDATA[Melissa L. Farris is in federal custody and is facing two felony charges for allegedly vandalizing the World War II Memorial in Washington, D.C.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New Yorkers take Zohran Mamdani free bus promise literally as MTA loses millions in skipped fares</title>
+      <link>https://www.foxnews.com/media/new-yorkers-take-zohran-mamdani-free-bus-promise-literally-mta-loses-millions-skipped-fares</link>
+      <guid isPermaLink="false">faacbf6c0e920aeec922c0683c3c87d373da95d7</guid>
+      <pubDate>Fri, 14 Aug 2026 14:10:50 GMT</pubDate>
+      <description><![CDATA[Zohran Mamdani's free bus rhetoric created a "perfect storm" of fare evasion in New York City, transit union and MTA officials warn amid rising losses.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Country trio The Castellows team up with Keller Cox for new collaboration 'Way Things Work'</title>
+      <link>https://www.foxnews.com/outkick-culture/country-trio-castellows-team-keller-cox-new-collaboration-way-things-work</link>
+      <guid isPermaLink="false">548816c695bb23d84816767ae7fbceb7da180b0b</guid>
+      <pubDate>Fri, 14 Aug 2026 14:06:30 GMT</pubDate>
+      <description><![CDATA[The Castellows and Keller Cox dropped "Way Things Work," a collaboration the country trio describes as a "feel-good-sad-song" about a failing relationship.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Bryan Norcross: Tropical Storm Lala's impacts begin in Hawaii tonight while the Atlantic disturbances struggle</title>
@@ -335,6 +423,14 @@
       <category>world</category>
     </item>
     <item>
+      <title>Builders unearth €9m gold stash sealed in walls of Belgian property</title>
+      <link>https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f6ae48084239327ab4329fa2a8d18dfd1df49f85</guid>
+      <pubDate>Fri, 14 Aug 2026 13:18:08 GMT</pubDate>
+      <description><![CDATA[Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Builders unearth €9m gold loot sealed in walls of Belgian property</title>
       <link>https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">f6ae48084239327ab4329fa2a8d18dfd1df49f85</guid>
@@ -348,94 +444,6 @@
       <guid isPermaLink="false">821457474492c928a5a5afed8541c9a054bf5bf2</guid>
       <pubDate>Fri, 14 Aug 2026 13:09:35 GMT</pubDate>
       <description><![CDATA[The University of Michigan's new pass/fail grading system for freshmen sparks debate, plus Texas high school football's wet bulb controversy heats up.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>El-Sayed in the hot seat after 'sickening' animal control record goes viral on social media</title>
-      <link>https://www.foxnews.com/politics/el-sayed-hot-seat-sickening-animal-control-record-goes-viral-social-media</link>
-      <guid isPermaLink="false">22ec900f4059cc0696a41465c850ef15674efd9f</guid>
-      <pubDate>Fri, 14 Aug 2026 13:05:39 GMT</pubDate>
-      <description><![CDATA[Abdul El-Sayed's Michigan Senate bid faces scrutiny over thousands of euthanized animals at Detroit Animal Control during his tenure as the city's health director.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Matthew McConaughey's piece of relationship advice that keeps his marriage to Camila Alves strong</title>
-      <link>https://www.foxnews.com/entertainment/matthew-mcconaughey-relationship-advice-keeps-marriage-camila-alves-strong</link>
-      <guid isPermaLink="false">524003a4cd7bf6ed660f33f6a14be3adf7d7f1ce</guid>
-      <pubDate>Fri, 14 Aug 2026 13:00:57 GMT</pubDate>
-      <description><![CDATA[Matthew McConaughey reveals the marriage advice that has kept him and Camila Alves connected through nearly two decades together as a couple.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Wildfires, heat waves and blackouts exposed the green agenda’s dangerous flaws</title>
-      <link>https://www.foxnews.com/opinion/wildfires-heat-waves-blackouts-exposed-green-agenda-dangerous-flaws</link>
-      <guid isPermaLink="false">3ba7c5c5f0705d82971d5dc1e6128b8a793a5311</guid>
-      <pubDate>Fri, 14 Aug 2026 13:00:26 GMT</pubDate>
-      <description><![CDATA[From Canadian wildfires to European heat wave deaths, decades of green ideology have blocked forest management, air conditioning and nuclear energy.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Jayden Daniels wanted ‘respect’ from LSU. Instead, he started an ugly fight that will tarnish his reputation</title>
-      <link>https://www.foxnews.com/outkick-sports/jayden-daniels-wanted-respect-lsu-instead-started-ugly-fight-tarnish-reputation</link>
-      <guid isPermaLink="false">5bd89f2688864641b0298e507585eb3641fc751a</guid>
-      <pubDate>Fri, 14 Aug 2026 12:55:12 GMT</pubDate>
-      <description><![CDATA[Jayden Daniels' camp filed a cease-and-desist against LSU over DJ Pickett wearing the No. 5 jersey, but the move is rightfully drawing backlash from fans.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>American missionary Kevin Rideout released after more than 9 months in captivity in Niger</title>
-      <link>https://www.foxnews.com/us/american-missionary-kevin-rideout-released-after-more-than-9-months-captivity-niger</link>
-      <guid isPermaLink="false">f19a2bc84fd32727f5e84a74d0192e35564c17bb</guid>
-      <pubDate>Fri, 14 Aug 2026 12:36:17 GMT</pubDate>
-      <description><![CDATA[Kevin Rideout was held captive for nine months after being kidnapped just 150 feet from Niger's presidential palace in the capital city of Niamey.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Mother jailed for killing baby by burning her with a hairdryer</title>
-      <link>https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e3fe46ec90e9c056abf909815c32da71d8979bde</guid>
-      <pubDate>Fri, 14 Aug 2026 12:22:13 GMT</pubDate>
-      <description><![CDATA[Courtney Gartshore, 28, used the appliance to subject three-month-old Dahlia-Rose to "significant and sustained heat" on her head and body.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>What we know so far about the West Midlands fires</title>
-      <link>https://www.bbc.co.uk/news/articles/cp8xr2n9560o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">26a42a1e51f7a213c071e78d6e755e80addae535</guid>
-      <pubDate>Fri, 14 Aug 2026 12:19:25 GMT</pubDate>
-      <description><![CDATA[Several fires swept across the West Midlands on Thursday destroying homes and forcing residents to flee.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Instagram accounts fuelling Ceuta crisis with paid advice for help to cross</title>
-      <link>https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">36c71486f9a3ddb647c03d97c85913925af0c268</guid>
-      <pubDate>Fri, 14 Aug 2026 12:19:21 GMT</pubDate>
-      <description><![CDATA[BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>U.S. missionary who was kidnapped in Niger is released</title>
-      <link>https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released</link>
-      <guid isPermaLink="false">7de0bbecb16faf5c285990391e25f5842cc59ce9</guid>
-      <pubDate>Fri, 14 Aug 2026 12:11:50 GMT</pubDate>
-      <description><![CDATA[Kevin Rideout "is in good health in the care of US officials," SIM International said in a statement, adding he would soon be reunited with his family.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bravo's Steven McBee Jr stands by Sophie Cunningham, blasts 'Summer House' star for stance on trans athletes</title>
-      <link>https://www.foxnews.com/outkick-sports/bravos-steven-mcbee-jr-stands-sophie-cunningham-blasts-summer-house-star-stance-trans-athletes</link>
-      <guid isPermaLink="false">224d3176a992055d276182312c374091fad16826</guid>
-      <pubDate>Fri, 14 Aug 2026 12:05:23 GMT</pubDate>
-      <description><![CDATA[Steven McBee Jr. of "McBee Dynasty: Real American Cowboys" defends Sophie Cunningham's transgender sports stance and fires back at West Wilson.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Treasure hunters strike gold after years of disappointment with find worth a fortune</title>
-      <link>https://www.foxnews.com/travel/treasure-hunters-strike-gold-years-disappointment-find-worth-fortune</link>
-      <guid isPermaLink="false">417c33f7cbc778918cde6be7b64e822a71fe8d79</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:55 GMT</pubDate>
-      <description><![CDATA[Hobbyists Alan Daniels and Andy Crammond unearthed three Bronze Age gold bracelets near Carlisle, England, dating to 1100 B.C. The items are now under British Museum review.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">9de6364f14de6bf93aa863b12b782cfdbf4fa739</guid>
       <pubDate>Thu, 13 Aug 2026 01:39:34 GMT</pubDate>
       <description><![CDATA[A deadly derecho, catastrophic flooding and more than one million customers left without power were just the beginning, as more rounds of severe weather threaten the region and much of the eastern U.S.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>How much will it rain in New York City by the end of the month?</title>
-      <link>https://www.foxweather.com/weather-news/rain-new-york-city-end-august-kalshi</link>
-      <guid isPermaLink="false">596f96a73dca3a16d9ecfae5f67bc6ad30d4bc52</guid>
-      <pubDate>Wed, 12 Aug 2026 23:18:39 GMT</pubDate>
-      <description><![CDATA[More wet weather is on the way for people in the Northeast as rain and thunderstorms are expected to return by the end of the workweek in New York City.]]></description>
       <category>weather</category>
     </item>
   </channel>
