@@ -26,15 +26,15 @@
       <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 04:02:57 GMT</pubDate>
-      <description><![CDATA[54°F. Wind SW 0 to 5 mph. Mostly cloudy, with a low around 54. Southwest wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 14 Aug 2026 06:10:07 GMT</pubDate>
+      <description><![CDATA[54°F. Wind  0 mph. Mostly cloudy, with a low around 54. Southwest wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 04:02:57 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 06:10:07 GMT</pubDate>
       <description><![CDATA[73°F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 73. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Friday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 04:02:57 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 06:10:07 GMT</pubDate>
       <description><![CDATA[55°F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 55. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +50,7 @@
       <title>Anchorage Weather: Saturday - Mostly Sunny then Scattered Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 04:02:57 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 06:10:07 GMT</pubDate>
       <description><![CDATA[70°F. Wind W 0 to 5 mph. Scattered rain showers after 1pm. Mostly sunny, with a high near 70. West wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -58,8 +58,16 @@
       <title>Anchorage Weather: Saturday Night - Scattered Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 14 Aug 2026 04:02:57 GMT</pubDate>
+      <pubDate>Fri, 14 Aug 2026 06:10:07 GMT</pubDate>
       <description><![CDATA[55°F. Wind SW 0 to 5 mph. Scattered rain showers. Mostly cloudy, with a low around 55. Southwest wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>'Unprecedented' rains in Japan kill four people</title>
+      <link>https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3c023a579eff4ae414e56ebc89837bdf916efdf6</guid>
+      <pubDate>Fri, 14 Aug 2026 04:54:13 GMT</pubDate>
+      <description><![CDATA[The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -100,6 +108,14 @@
       <guid isPermaLink="false">af7c128911aa60e665dbe5d490a1682d78ec4ee1</guid>
       <pubDate>Thu, 13 Aug 2026 19:48:14 GMT</pubDate>
       <description><![CDATA[This story was originally reported by Chabeli Carrazana of The 19th. Meet Chabeli and read more of their reporting on gender, politics and policy. The Trump administration is pushing a total overhaul of Head Start that could fundamentally reshape the 60-year-old program that has provided childcare and key support for America’s lowest-income families. A new […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Flooding threat ends for Juneau neighborhoods</title>
+      <link>https://www.juneauempire.com/2026/08/13/suicide-basin-waters-expected-to-crest-by-6-p-m-thursday/</link>
+      <guid isPermaLink="false">c967c8f6d654f906378c08e703f63189924b0ee0</guid>
+      <pubDate>Thu, 13 Aug 2026 18:40:00 GMT</pubDate>
+      <description><![CDATA[Mendenhall River floodwaters crested Thursday afternoon at 14.7 feet]]></description>
       <category>local</category>
     </item>
     <item>
@@ -287,12 +303,52 @@
       <category>local</category>
     </item>
     <item>
-      <title>Juneau officials, local agencies provide update after Suicide Basin outburst</title>
-      <link>https://www.juneauempire.com/2026/08/12/juneau-officials-local-agencies-provide-update-after-suicide-basin-outburst/</link>
-      <guid isPermaLink="false">0c45e64aae1c1e0cc3a5cb604fe3fb98d0c0b1ae</guid>
-      <pubDate>Wed, 12 Aug 2026 20:00:00 GMT</pubDate>
-      <description><![CDATA[The National Weather Service issued a flood warning on Tuesday]]></description>
-      <category>weather</category>
+      <title>Judge drops Nevada case against electors accused of forging certificate in 2020 election</title>
+      <link>https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election</link>
+      <guid isPermaLink="false">1bc3272a6cd39ccdd872d87c82e9ed649ca88471</guid>
+      <pubDate>Fri, 14 Aug 2026 05:42:35 GMT</pubDate>
+      <description><![CDATA[The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Count Binface scores best ever by-election result in Clacton</title>
+      <link>https://www.bbc.co.uk/news/articles/ce97mm3vvemo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b33d15567303a56473930f90643386da676e3437</guid>
+      <pubDate>Fri, 14 Aug 2026 05:42:19 GMT</pubDate>
+      <description><![CDATA[His 9,455 votes were over a quarter of those cast by the local electorate]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Farage's by-election victory won't stop questions about finances</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">68bc03ae41920304dea94c333d5183c4013cd2a7</guid>
+      <pubDate>Fri, 14 Aug 2026 05:22:27 GMT</pubDate>
+      <description><![CDATA[Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>NHS service admits data breach due to pager use</title>
+      <link>https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">210f67807157f60fc8b59dfcaa5dde715b48fb56</guid>
+      <pubDate>Fri, 14 Aug 2026 05:12:44 GMT</pubDate>
+      <description><![CDATA[The medical data of transplant patients from across the UK was sent over an unencrypted pager network.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>How a major oil slick started washing up on Iran's beaches</title>
+      <link>https://www.bbc.co.uk/news/articles/cr7kpdkg13zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0649437e8c30d834974d8490a73d904fd3182fe0</guid>
+      <pubDate>Fri, 14 Aug 2026 05:01:00 GMT</pubDate>
+      <description><![CDATA[Experts tell BBC Verify pollution has spread from a ship attacked on 3 August and threatens vulnerable wildlife.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Detransitioners reveal how doctors pushed them toward life-altering treatment as teens</title>
+      <link>https://www.foxnews.com/politics/detransitioners-reveal-how-doctors-pushed-them-toward-life-altering-treatment-teens</link>
+      <guid isPermaLink="false">7b7371207c6feab280ac03e9715c718ae015fbf2</guid>
+      <pubDate>Fri, 14 Aug 2026 04:50:54 GMT</pubDate>
+      <description><![CDATA[Three detransitioners say doctors pushed puberty blockers, testosterone and double mastectomy on them as teens without adequate mental health screening.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Timeline: When Hawaii will start feeling Tropical Storm Lala's impacts</title>
@@ -405,62 +461,6 @@
       <pubDate>Fri, 14 Aug 2026 00:14:20 GMT</pubDate>
       <description><![CDATA[Analysts warn Iran could strike U.S. bases, ships, and Gulf infrastructure this fall as Trump's sanctions tighten and the Strait of Hormuz deadline looms.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>Final day of heatwave for many before weekend cooldown</title>
-      <link>https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">56924ce95a7ced788cb61791c4c18166496ca82a</guid>
-      <pubDate>Fri, 14 Aug 2026 00:08:16 GMT</pubDate>
-      <description><![CDATA[Heatwave conditions continue on Friday in south-east England but it is turning fresher for all into the weekend.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Rams star Puka Nacua left bloodied in bizarre accident at Michael Rubin's star-studded White Party</title>
-      <link>https://www.foxnews.com/outkick-sports/rams-star-puka-nacua-left-bloodied-bizarre-accident-michael-rubins-star-studded-white-party</link>
-      <guid isPermaLink="false">5bbbc1487f9f2c4535ba80e27bef8297c33eb0da</guid>
-      <pubDate>Fri, 14 Aug 2026 00:03:22 GMT</pubDate>
-      <description><![CDATA[Puka Nacua revealed on the "Impaulsive" podcast that he ended up bleeding after walking into a glass pane while trying to find Davante Adams.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Gun rights groups capitalize after judge reverses decades-old restrictions: 'Monumental'</title>
-      <link>https://www.foxnews.com/politics/gun-rights-groups-capitalize-after-judge-reverses-decades-old-restrictions</link>
-      <guid isPermaLink="false">b918a6bbc99cce3697add67b591ca4faedb2c35d</guid>
-      <pubDate>Thu, 13 Aug 2026 23:55:09 GMT</pubDate>
-      <description><![CDATA[Gun Owners of America members completed the first silencer transfers without National Firearms Act registration since 1934 after a court ruling.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Julianne Hough flaunts her toned figure in bikinis as she shares snaps from her trip to Sardinia</title>
-      <link>https://www.foxnews.com/entertainment/julianne-hough-flaunts-her-toned-figure-bikinis-she-shares-snaps-from-her-trip-sardinia</link>
-      <guid isPermaLink="false">4fd384a4db359de79b6c4e2954fa2165b3905d7b</guid>
-      <pubDate>Thu, 13 Aug 2026 23:52:49 GMT</pubDate>
-      <description><![CDATA[Julianne Hough shared photos from her Sardinia, Italy, girls trip featuring white string bikini beach moments, cliff jumping and seaside yoga.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>David Foster denies snubbing Meghan Markle after red carpet interaction with Prince Harry</title>
-      <link>https://www.foxnews.com/entertainment/david-foster-denies-snubbing-meghan-markle-after-red-carpet-interaction-prince-harry</link>
-      <guid isPermaLink="false">7bfdffdc2c8e47a73ff00cc3d1f8117d207dfb8b</guid>
-      <pubDate>Thu, 13 Aug 2026 23:50:23 GMT</pubDate>
-      <description><![CDATA[David Foster spoke out out after a red carpet video went viral, sparking speculation he had snubbed Meghan Markle. Foster said Prince Harry and Meghan are "dear friends."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Federal appeals court restores Texas mail ballot ID requirements in major election integrity ruling</title>
-      <link>https://www.foxnews.com/politics/federal-appeals-court-restores-texas-mail-ballot-id-requirements-major-election-integrity-ruling</link>
-      <guid isPermaLink="false">9914a1e8b315f3880e9263abf1d1e789b1d9e6cc</guid>
-      <pubDate>Thu, 13 Aug 2026 23:43:19 GMT</pubDate>
-      <description><![CDATA[The 5th Circuit restored key parts of Texas Senate Bill 1 governing mail-in voting and voter assistance after rejecting the plaintiffs’ challenges]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Small town buzzing over identity of its $1B Powerball winner: ‘Like a murder mystery’</title>
-      <link>https://www.foxnews.com/travel/small-town-buzzing-over-identity-1b-powerball-winner-like-murder-mystery</link>
-      <guid isPermaLink="false">dce4ee99adc672aaa1a845be25ae11946f957959</guid>
-      <pubDate>Thu, 13 Aug 2026 23:14:49 GMT</pubDate>
-      <description><![CDATA[Jon Marshall, manager of the Hy-Vee Gas Fresh & Fast in Quincy, Illinois, says the hunt for the $1.04 billion Powerball winner feels like "a murder mystery."]]></description>
-      <category>politics</category>
     </item>
     <item>
       <title>Magnitude 3.8 earthquake rattles San Francisco Bay Area along Pacific Ring of Fire</title>
