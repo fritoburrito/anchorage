@@ -5,15 +5,7 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 20:15:34 GMT</lastBuildDate>
-    <item>
-      <title>'The Simpsons' shows a teaser for new movie featuring hilarious baseball-chasing scene</title>
-      <link>https://www.foxnews.com/outkick-culture/simpsons-teaser-new-movie-hilarious-baseball-chasing-scene</link>
-      <guid isPermaLink="false">6c399f05fac58a1749ab44987cc9b0dd22d1c81d</guid>
-      <pubDate>Sat, 15 Aug 2026 20:15:34 GMT</pubDate>
-      <description><![CDATA["The New Simpsons Movie" teaser from Disney's D23 shows Homer chasing a record-breaking baseball at a Springfield Isotopes game in raw animation.]]></description>
-      <category>breaking</category>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 21:02:53 GMT</lastBuildDate>
     <item>
       <title>Track Tropical Storm Lala: Live radar, forecast cone, wave heights, wind speed and warnings</title>
       <link>https://www.foxweather.com/weather-news/tracker-tropical-storm-lala-forecast-cone-waves-wind-speed-warnings</link>
@@ -26,7 +18,7 @@
       <title>Anchorage Weather: This Afternoon - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 15 Aug 2026 22:16:02 GMT</pubDate>
+      <pubDate>Sat, 15 Aug 2026 23:15:48 GMT</pubDate>
       <description><![CDATA[67°F. Wind W 5 to 10 mph. Partly sunny, with a high near 67. West wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Tonight - Scattered Rain Showers then Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 15 Aug 2026 22:16:02 GMT</pubDate>
+      <pubDate>Sat, 15 Aug 2026 23:15:48 GMT</pubDate>
       <description><![CDATA[55°F. Wind NW 5 to 10 mph. Scattered rain showers between 10pm and 1am, then rain likely. Mostly cloudy, with a low around 55. Northwest wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +34,7 @@
       <title>Anchorage Weather: Sunday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 15 Aug 2026 22:16:02 GMT</pubDate>
+      <pubDate>Sat, 15 Aug 2026 23:15:48 GMT</pubDate>
       <description><![CDATA[64°F. Wind NE 5 mph. Rain likely. Cloudy, with a high near 64. Northeast wind around 5 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +42,7 @@
       <title>Anchorage Weather: Sunday Night - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 15 Aug 2026 22:16:02 GMT</pubDate>
+      <pubDate>Sat, 15 Aug 2026 23:15:48 GMT</pubDate>
       <description><![CDATA[53°F. Wind NE 5 to 10 mph. Rain likely before 1am, then a chance of rain showers. Cloudy, with a low around 53. Northeast wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -58,9 +50,17 @@
       <title>Anchorage Weather: Monday - Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 15 Aug 2026 22:16:02 GMT</pubDate>
+      <pubDate>Sat, 15 Aug 2026 23:15:48 GMT</pubDate>
       <description><![CDATA[60°F. Wind S 5 to 10 mph. A chance of rain showers. Mostly cloudy, with a high near 60. South wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>LETTER: Senate candidate a long way from home</title>
+      <link>https://www.juneauempire.com/2026/08/15/letter-senate-candidate-a-long-way-from-home/</link>
+      <guid isPermaLink="false">6aa03613d77e85683c5e32ed77a71b405d83c53d</guid>
+      <pubDate>Sat, 15 Aug 2026 22:30:00 GMT</pubDate>
+      <description><![CDATA[As a South Dakota resident, Carol Hafner, who is running to represent Alaska in the U.S. Senate, can use her knowledge of South Dakota agriculture to help Alaska. She will be able to improve Alaska’s cattle, hog and poultry production. She can help Alaskans with growing corn, soybeans and wheat. Unfortunately, she knows nothing about our fishing industry but over time, we can teach her.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>OPINION: The war we lost before it began</title>
@@ -287,12 +287,28 @@
       <category>local</category>
     </item>
     <item>
-      <title>Opinion: Education, Ideology, and the Duty to Teach Independent Judgment</title>
-      <link>https://mustreadalaska.com/opinion-education-ideology-and-the-duty-to-teach-independent-judgment/</link>
-      <guid isPermaLink="false">8c58087651947a26e4d6fdac6aa6f2ba36cfd177</guid>
-      <pubDate>Thu, 13 Aug 2026 19:27:29 GMT</pubDate>
-      <description><![CDATA[By Michael Tavoliero In Alaska, public education carries extraordinary power and control. It does more than transmit mathematics, science, history, and language; it helps shape how young people understand authority, citizenship, rights, government, and their relationship to one another. Precisely because that influence is so great, public education must resist the temptation to transform instruction into political mobilization. […] The post Opinion: Education, Ideology, and the Duty to Teach Independent Judgment appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Henry Winkler opens up about the unexpected career he considered before becoming an actor</title>
+      <link>https://www.foxnews.com/entertainment/henry-winkler-opens-about-unexpected-career-considered-before-becoming-actor</link>
+      <guid isPermaLink="false">ee74ecf90d02d3579600cbff94b6b1fba365f62d</guid>
+      <pubDate>Sat, 15 Aug 2026 22:28:22 GMT</pubDate>
+      <description><![CDATA[Henry Winkler almost studied to become a child psychologist before transitioning into a career as an actor and finding fame as Fonzie on "Happy Days."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Roger Miller given stark choice after getting caught stealing: ‘You can go to jail or you can go in the Army’</title>
+      <link>https://www.foxnews.com/entertainment/roger-miller-given-stark-choice-after-getting-caught-stealing-you-can-go-jail-you-can-go-army</link>
+      <guid isPermaLink="false">59b005ff5608ccebc8b0e285784c6fb177838bb1</guid>
+      <pubDate>Sat, 15 Aug 2026 22:17:48 GMT</pubDate>
+      <description><![CDATA[Dean Miller says his father joined the Army as a teen after he was caught stealing from a club. The judge then gave him a choice between jail and the Army.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ex-detective who served fraction of 102-year sentence faces new charges after cold case review</title>
+      <link>https://www.foxnews.com/us/ex-detective-served-fraction-102-year-sentence-faces-new-charges-cold-case-review</link>
+      <guid isPermaLink="false">f8f6951582f0bf4cdd4a8ee1af2a057e531012bd</guid>
+      <pubDate>Sat, 15 Aug 2026 22:13:06 GMT</pubDate>
+      <description><![CDATA[Former Los Angeles vice detective Michael Douglas Brambles, paroled in 2020 under California's elderly inmates law, faces new kidnapping charges.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Rescuers search for survivors of powerful Indonesia earthquake</title>
@@ -428,22 +444,6 @@
       <guid isPermaLink="false">dd1378fa5474d056c9a6cc36eb818f5128e52e39</guid>
       <pubDate>Sat, 15 Aug 2026 20:24:22 GMT</pubDate>
       <description><![CDATA[Courtney Love shared that her body "just exploded" during a secret health crisis that left her near death, losing all her hair and dropping to 100 pounds.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Eleven killed in Israeli strikes on southern Lebanon, authorities say</title>
-      <link>https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8890d3817dfdc24c5d276c5de47a0384ff82ad95</guid>
-      <pubDate>Sat, 15 Aug 2026 20:21:14 GMT</pubDate>
-      <description><![CDATA[Israel's military said it had struck "Hezbollah terror infrastructure" in response to what it described as earlier action against its soldiers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Everyday habit linked to dramatically lower risk of dying from heart disease</title>
-      <link>https://www.foxnews.com/health/everyday-habit-linked-dramatically-lower-risk-dying-heart-disease</link>
-      <guid isPermaLink="false">0b09afa377307c4d30d43eb1ed011a10b244bfb1</guid>
-      <pubDate>Sat, 15 Aug 2026 20:12:05 GMT</pubDate>
-      <description><![CDATA[Stair climbing was linked to a 39% lower risk of dying from cardiovascular disease, according to an analysis of more than 480,000 participants.]]></description>
       <category>world</category>
     </item>
     <item>
