@@ -380,9 +380,19 @@
     "rank": 100
   },
   {
-    "title": "Homer High School volleyball program recruits standout collegiate coach",
-    "link": "https://www.homernews.com/2026/08/13/homer-high-school-volleyball-program-recruits-standout-collegiate-coach/",
-    "description": "Kip Yoshimura has over 450 career wins across 29 years as a college head coach",
+    "title": "Life in the Wilderness: The Henry Lucas Story \u2013 Part 1",
+    "link": "https://www.homernews.com/2026/08/13/life-in-the-wilderness-the-henry-lucas-story-part-1/",
+    "description": "AUTHOR\u2019S NOTE: Many of the sections in this series about the life of Henry Lucas would have been next to impossible for me to document adequately without the generous assistance of Gary Titus.",
+    "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
+    "title": "Homer Pet of the Week: Stevie",
+    "link": "https://www.homernews.com/2026/08/13/homer-pet-of-the-week-stevie/",
+    "description": "Lovable chinchilla enjoys dust baths and spending time outside of his kennel",
     "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT",
     "category": "kenai",
     "tag": "alaska",
@@ -390,14 +400,24 @@
     "rank": 100
   },
   {
-    "title": "Design work begins on cable between Homer and Seward to improve broadband service",
-    "link": "https://www.homernews.com/2026/08/13/design-work-begins-on-cable-between-homer-and-seward-to-improve-broadband-service/",
-    "description": "Cable will connect Seward and Homer, with branching units to Seldovia, Port Graham, and Nanwalek",
-    "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT",
-    "category": "kenai",
-    "tag": "alaska",
-    "source": "Homer News",
-    "rank": 100
+    "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+    "description": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+    "pubDate": "Sat, 15 Aug 2026 04:12:55 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+    "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+    "description": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+    "pubDate": "Sat, 15 Aug 2026 03:58:31 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
     "title": "Fires prompt national alert as 19 homes destroyed",
@@ -437,6 +457,16 @@
     "category": "world",
     "tag": "world",
     "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+    "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
+    "description": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+    "pubDate": "Sat, 15 Aug 2026 01:41:24 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
     "rank": 10
   },
   {
@@ -570,40 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Kelly Osbourne blasts Dee Snider as 'spectacularly classless' for claiming Ozzy didn\u2019t write his own songs",
-    "link": "https://www.foxnews.com/entertainment/kelly-osbourne-blasts-dee-snider-spectacularly-classless-claiming-ozzy-didnt-write-his-own-songs",
-    "description": "Kelly Osbourne called Dee Snider's claims about her father's songwriting \"spectacularly classless,\" igniting a fierce debate over Ozzy Osbourne's legacy.",
-    "pubDate": "Fri, 14 Aug 2026 22:36:56 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Butch Huskey, one of the last MLB players to wear Jackie Robinson's famed number 42, dies at 54",
-    "link": "https://www.foxnews.com/sports/butch-huskey-last-mlb-players-wear-famed-no-42-dies-54",
-    "description": "Butch Huskey, one of the final MLB players to wear No. 42 after it was retired for Jackie Robinson, has died at 54 following a seven-year MLB career.",
-    "pubDate": "Fri, 14 Aug 2026 22:27:24 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx",
-    "link": "https://www.foxnews.com/politics/trump-leaves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx",
-    "description": "President Donald Trump left the stage mid-speech at the Nassau County Police Academy to embrace the parents of Jacob Freytes, a 12-year-old killed by a stray bullet.",
-    "pubDate": "Fri, 14 Aug 2026 22:19:30 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Tonight - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "55\u00b0F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 55. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sat, 15 Aug 2026 03:34:18 GMT",
+    "pubDate": "Sat, 15 Aug 2026 04:24:19 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Saturday - Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "67\u00b0F. Wind NW 0 to 5 mph. Partly sunny, with a high near 67. Northwest wind 0 to 5 mph.",
-    "pubDate": "Sat, 15 Aug 2026 03:34:18 GMT",
+    "pubDate": "Sat, 15 Aug 2026 04:24:19 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Saturday Night - Mostly Cloudy then Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "56\u00b0F. Wind NW 5 mph. A chance of rain after 1am. Mostly cloudy, with a low around 56. Northwest wind around 5 mph. Chance of precipitation is 30%.",
-    "pubDate": "Sat, 15 Aug 2026 03:34:18 GMT",
+    "pubDate": "Sat, 15 Aug 2026 04:24:19 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Sunday - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "64\u00b0F. Wind N 0 to 5 mph. A chance of rain. Cloudy, with a high near 64. North wind 0 to 5 mph. Chance of precipitation is 50%.",
-    "pubDate": "Sat, 15 Aug 2026 03:34:18 GMT",
+    "pubDate": "Sat, 15 Aug 2026 04:24:19 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Sunday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind E 0 to 5 mph. Rain likely before 1am, then widespread rain showers. Mostly cloudy, with a low around 54. East wind 0 to 5 mph. Chance of precipitation is 80%.",
-    "pubDate": "Sat, 15 Aug 2026 03:34:18 GMT",
+    "pubDate": "Sat, 15 Aug 2026 04:24:19 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
