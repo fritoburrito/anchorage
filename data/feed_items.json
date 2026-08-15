@@ -380,9 +380,19 @@
     "rank": 100
   },
   {
-    "title": "Homer High School volleyball program recruits standout collegiate coach",
-    "link": "https://www.homernews.com/2026/08/13/homer-high-school-volleyball-program-recruits-standout-collegiate-coach/",
-    "description": "Kip Yoshimura has over 450 career wins across 29 years as a college head coach",
+    "title": "Life in the Wilderness: The Henry Lucas Story \u2013 Part 1",
+    "link": "https://www.homernews.com/2026/08/13/life-in-the-wilderness-the-henry-lucas-story-part-1/",
+    "description": "AUTHOR\u2019S NOTE: Many of the sections in this series about the life of Henry Lucas would have been next to impossible for me to document adequately without the generous assistance of Gary Titus.",
+    "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
+    "title": "Homer Pet of the Week: Stevie",
+    "link": "https://www.homernews.com/2026/08/13/homer-pet-of-the-week-stevie/",
+    "description": "Lovable chinchilla enjoys dust baths and spending time outside of his kennel",
     "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT",
     "category": "kenai",
     "tag": "alaska",
@@ -390,14 +400,24 @@
     "rank": 100
   },
   {
-    "title": "Design work begins on cable between Homer and Seward to improve broadband service",
-    "link": "https://www.homernews.com/2026/08/13/design-work-begins-on-cable-between-homer-and-seward-to-improve-broadband-service/",
-    "description": "Cable will connect Seward and Homer, with branching units to Seldovia, Port Graham, and Nanwalek",
-    "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT",
-    "category": "kenai",
-    "tag": "alaska",
-    "source": "Homer News",
-    "rank": 100
+    "title": "Construction workers uncover $10 million in gold while building sewer under former brewery",
+    "link": "https://www.foxnews.com/world/construction-workers-uncover-10-million-gold-building-sewer-former-brewery",
+    "description": "Construction workers in Belgium discovered $10 million in gold coins and bars while building a sewer, but a finder's fee remains uncertain.",
+    "pubDate": "Sat, 15 Aug 2026 01:09:08 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "DFW Airport scraps controversial Islamic foot-washing station plan as Texas Gov Abbott takes aim",
+    "link": "https://www.foxnews.com/politics/dfw-airport-scraps-controversial-islamic-footwashing-station-plan-texas-gov-abbott-takes-aim",
+    "description": "Texas Gov. Greg Abbott directed a review of state grants to DFW Airport and George Bush Intercontinental over planned Islamic wudu ablution stations.",
+    "pubDate": "Sat, 15 Aug 2026 00:54:03 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "US flag football team stunned by American Samoa in shocking first loss in 14 years",
@@ -580,30 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Stephen A Smith admits Byron Donalds could make him a Republican, calls him \u2018the real deal\u2019",
-    "link": "https://www.foxnews.com/media/stephen-smith-admits-byron-donalds-could-make-him-republican-calls-him-real-deal",
-    "description": "Stephen A. Smith says Byron Donalds could make him a Republican, praising the Trump-backed Florida governor frontrunner ahead of the GOP primary.",
-    "pubDate": "Fri, 14 Aug 2026 22:00:23 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Halle Berry celebrates 60th birthday in plunging robe with defiant message",
-    "link": "https://www.foxnews.com/entertainment/halle-berry-celebrates-60th-birthday-plunging-robe-defiant-message",
-    "description": "Halle Berry marked her 60th birthday with a bold photo slideshow on Instagram, including a romantic shot with fianc\u00e9 Van Hunt and selfies of her in a robe.",
-    "pubDate": "Fri, 14 Aug 2026 21:54:45 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: This Afternoon - Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "74\u00b0F. Wind W 5 mph. Sunny, with a high near 74. West wind around 5 mph.",
-    "pubDate": "Sat, 15 Aug 2026 00:57:17 GMT",
+    "pubDate": "Sat, 15 Aug 2026 02:13:26 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "55\u00b0F. Wind SW 0 to 5 mph. Partly cloudy, with a low around 55. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sat, 15 Aug 2026 00:57:17 GMT",
+    "pubDate": "Sat, 15 Aug 2026 02:13:26 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Saturday - Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "67\u00b0F. Wind NW 0 to 5 mph. Partly sunny, with a high near 67. Northwest wind 0 to 5 mph.",
-    "pubDate": "Sat, 15 Aug 2026 00:57:17 GMT",
+    "pubDate": "Sat, 15 Aug 2026 02:13:26 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Saturday Night - Mostly Cloudy then Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "56\u00b0F. Wind NW 5 mph. A chance of rain after 1am. Mostly cloudy, with a low around 56. Northwest wind around 5 mph. Chance of precipitation is 30%.",
-    "pubDate": "Sat, 15 Aug 2026 00:57:17 GMT",
+    "pubDate": "Sat, 15 Aug 2026 02:13:26 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Sunday - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "64\u00b0F. Wind N 0 to 5 mph. A chance of rain. Cloudy, with a high near 64. North wind 0 to 5 mph. Chance of precipitation is 50%.",
-    "pubDate": "Sat, 15 Aug 2026 00:57:17 GMT",
+    "pubDate": "Sat, 15 Aug 2026 02:13:26 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
