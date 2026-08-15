@@ -1,5 +1,15 @@
 [
   {
+    "title": "OPINION: The war we lost before it began",
+    "link": "https://www.homernews.com/2026/08/15/opinion-the-war-we-lost-before-it-began/",
+    "description": "How loyalty politics replaced strategy and made defeat inevitable",
+    "pubDate": "Sat, 15 Aug 2026 21:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
     "title": "State cracks down on Southeast Alaska stores misrepresenting made-in-Alaska jewelry",
     "link": "https://www.juneauempire.com/2026/08/15/state-cracks-down-on-southeast-alaska-stores-misrepresenting-made-in-alaska-jewelry/",
     "description": "Skagway jewelry store fined $20K for misrepresenting jewelry origin",
@@ -34,6 +44,16 @@
     "link": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-august-15-2026",
     "description": "Tropical Storm or Hurricane Lala will make its final approach to the southern tip of the Big Island of Hawaii today. Maximum impacts are likely this afternoon Hawaii time, which is this evening Eastern time.",
     "pubDate": "Sat, 15 Aug 2026 14:26:59 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Hurricane Lala strengthens into Category 1 storm as it slams Hawaii\u2019s Big Island with heavy rain, strong wind",
+    "link": "https://www.foxweather.com/weather-news/tropical-storm-lala-nears-hurricane-status-eyeing-landfall-hawaii",
+    "description": "Lala continues barreling toward the Hawaiian Islands as a Category 1 hurricane ahead of a rare impact on the state, bringing heavy rain and rough surf that could trigger dangerous flash flooding and mudslides across the island chain.",
+    "pubDate": "Sat, 15 Aug 2026 10:35:08 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "FOX Weather",
@@ -380,24 +400,104 @@
     "rank": 100
   },
   {
-    "title": "Flooding threat ends for Juneau neighborhoods",
-    "link": "https://www.juneauempire.com/2026/08/13/suicide-basin-waters-expected-to-crest-by-6-p-m-thursday/",
-    "description": "Mendenhall River floodwaters crested Thursday afternoon at 14.7 feet",
-    "pubDate": "Thu, 13 Aug 2026 18:40:00 GMT",
-    "category": "southeast",
-    "tag": "alaska",
-    "source": "Juneau Empire",
-    "rank": 100
+    "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+    "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+    "pubDate": "Sat, 15 Aug 2026 21:49:12 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
-    "title": "Mendenhall River floodwaters have begun to recede",
-    "link": "https://www.juneauempire.com/2026/08/13/suicide-basin-waters-expected-to-crest-by-6-p-m-thursday/",
-    "description": "Waters crest at 14.7 feet, however, evacuation advisory remains in effect until waters fall below 12 feet",
-    "pubDate": "Thu, 13 Aug 2026 18:40:00 GMT",
-    "category": "weather",
-    "tag": "alaska",
-    "source": "Juneau Empire",
-    "rank": 100
+    "title": "Mets become latest on social media to troll Jayden Daniels amid No 5 jersey feud with LSU",
+    "link": "https://www.foxnews.com/outkick-sports/mets-latest-social-media-troll-jayden-daniels-no-5-jersey-feud-lsu",
+    "description": "The New York Mets trolled Jayden Daniels on X after beating the Washington Nationals, joining the viral mockery over his cease-and-desist letter to LSU.",
+    "pubDate": "Sat, 15 Aug 2026 21:45:07 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Australian state to launch gun buyback after Bondi Beach attack",
+    "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+    "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+    "pubDate": "Sat, 15 Aug 2026 21:41:43 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Indiana Pacers' star Tyrese Haliburton has one major problem with the new NBA schedule",
+    "link": "https://www.foxnews.com/outkick-sports/indiana-pacers-star-tyrese-haliburton-major-problem-new-nba-schedule",
+    "description": "Tyrese Haliburton questioned why his Achilles return after 16 months won't be on national TV, calling out the NBA schedule on a recent podcast.",
+    "pubDate": "Sat, 15 Aug 2026 21:35:13 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Florida middle school teacher admits to years of 'inappropriate' conversations with former student: deputies",
+    "link": "https://www.foxnews.com/us/florida-middle-school-teacher-admits-years-inappropriate-conversations-former-student-deputies",
+    "description": "Christian Schneider, a Memorial Middle School teacher, allegedly sent inappropriate messages to a former teenage student since 2023, authorities say.",
+    "pubDate": "Sat, 15 Aug 2026 21:29:50 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+    "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
+    "description": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+    "pubDate": "Sat, 15 Aug 2026 21:28:54 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Popular beach town cracks down on teens with curfews after fights, underage drinking",
+    "link": "https://www.foxnews.com/travel/popular-beach-town-cracks-down-teens-curfews-fights-underage-drinking",
+    "description": "Cape May's new Jersey Shore beach curfew bars unaccompanied minors after 8 p.m. and bans backpacks on the promenade amid underage drinking concerns.",
+    "pubDate": "Sat, 15 Aug 2026 21:27:58 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Reform UK plan would overhaul welfare system with \u00a350bn in savings",
+    "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+    "description": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.",
+    "pubDate": "Sat, 15 Aug 2026 21:19:28 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Fauci refuses Senate appearance after invoking Fifth Amendment more than 100 times in COVID probe",
+    "link": "https://www.foxnews.com/politics/fauci-refuses-senate-appearance-invoking-fifth-amendment-100-times-covid-probe",
+    "description": "Anthony Fauci's attorney rejected Sen. Ron Johnson's request to testify, arguing a second Senate appearance would amount to political harassment.",
+    "pubDate": "Sat, 15 Aug 2026 21:15:59 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Hunt wins third gold as Asher-Smith makes history",
+    "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+    "description": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
+    "pubDate": "Sat, 15 Aug 2026 21:13:17 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
     "title": "JJ McCarthy considered 'unpredictable' as Vikings hand starting QB role to Kyler Murray: report",
@@ -500,110 +600,10 @@
     "rank": 10
   },
   {
-    "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-    "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-    "description": "Indiana, Illinois and surrounding states are preparing for another stretch of flooding through this weekend.",
-    "pubDate": "Sat, 15 Aug 2026 20:04:13 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-    "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-    "pubDate": "Sat, 15 Aug 2026 20:00:15 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Dolly Parton\u2019s ongoing health battle forces country legend to miss major Dollywood event",
-    "link": "https://www.foxnews.com/entertainment/dolly-partons-ongoing-health-battle-forces-country-legend-miss-major-dollywood-event",
-    "description": "Dolly Parton appeared virtually at Dollywood's new roller coaster opening after her Nashville doctor grounded her travel over dizziness and dehydration.",
-    "pubDate": "Sat, 15 Aug 2026 19:43:07 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-    "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-    "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-    "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Cardinals top pick Jeremiyah Love out for a least a week after suffering preseason injury, coach says",
-    "link": "https://www.foxnews.com/sports/cardinals-top-pick-jeremiyah-love-out-least-week-after-suffering-preseason-injury-coach-says",
-    "description": "Tyler Allgeier steps into the starting RB role as the Arizona Cardinals manage key injuries to Jeremiyah Love and veteran James Conner this week.",
-    "pubDate": "Sat, 15 Aug 2026 19:36:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-    "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
-    "pubDate": "Sat, 15 Aug 2026 19:34:22 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Bernie-backed California House candidate called DEI a \u2018social justice-driven duty,\u2019 embraced activist role",
-    "link": "https://www.foxnews.com/politics/bernie-backed-california-house-candidate-called-dei-social-justice-driven-duty-embraced-activist-role",
-    "description": "Bernie Sanders-backed California candidate Randy Villegas promoted DEI as a \"social justice-driven duty\" in his academic writings on community colleges.",
-    "pubDate": "Sat, 15 Aug 2026 19:27:33 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "8 things we learned from Google's Pixel 11 event",
-    "link": "https://www.foxnews.com/tech/8-things-learned-googles-pixel-11-event",
-    "description": "Google's Pixel 11 lineup introduces Magic Capture, HiLight notifications and proactive Gemini features designed to reduce screen time demands.",
-    "pubDate": "Sat, 15 Aug 2026 19:21:37 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Trump\u2019s $100K Wall Street Truth access draws lawsuit as expert warns it \u2018raises the stakes\u2019 on ethics",
-    "link": "https://www.foxnews.com/media/trumps-100k-wall-street-truth-access-draws-lawsuit-expert-warns-raises-stakes-ethics",
-    "description": "President Donald Trump's Truth Social API charges Wall Street firms up to $100,000 monthly for early access to his market-moving posts on tariffs and policy updates.",
-    "pubDate": "Sat, 15 Aug 2026 19:20:27 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Medicare and Social Security scams: Warning signs and tips",
-    "link": "https://www.foxnews.com/tech/medicare-social-security-scams-warning-signs-tips",
-    "description": "Medicare and Social Security scams use spoofed caller ID, AI-cloned voices and urgent threats to trick older adults into sharing sensitive information.",
-    "pubDate": "Sat, 15 Aug 2026 19:19:46 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon - Isolated Rain Showers",
+    "title": "Anchorage Weather: This Afternoon - Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "67\u00b0F. Wind W 0 to 10 mph. Isolated rain showers before 1pm. Partly sunny, with a high near 67. West wind 0 to 10 mph. Chance of precipitation is 20%.",
-    "pubDate": "Sat, 15 Aug 2026 21:16:47 GMT",
+    "description": "67\u00b0F. Wind W 5 to 10 mph. Partly sunny, with a high near 67. West wind 5 to 10 mph.",
+    "pubDate": "Sat, 15 Aug 2026 22:16:02 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Scattered Rain Showers then Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "55\u00b0F. Wind NW 5 to 10 mph. Scattered rain showers between 10pm and 1am, then rain likely. Mostly cloudy, with a low around 55. Northwest wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sat, 15 Aug 2026 21:16:47 GMT",
+    "pubDate": "Sat, 15 Aug 2026 22:16:02 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Sunday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "64\u00b0F. Wind NE 5 mph. Rain likely. Cloudy, with a high near 64. Northeast wind around 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sat, 15 Aug 2026 21:16:47 GMT",
+    "pubDate": "Sat, 15 Aug 2026 22:16:02 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Sunday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "53\u00b0F. Wind NE 5 to 10 mph. Rain likely before 1am, then a chance of rain showers. Cloudy, with a low around 53. Northeast wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sat, 15 Aug 2026 21:16:47 GMT",
+    "pubDate": "Sat, 15 Aug 2026 22:16:02 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Monday - Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "60\u00b0F. Wind S 5 to 10 mph. A chance of rain showers. Mostly cloudy, with a high near 60. South wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sat, 15 Aug 2026 21:16:47 GMT",
+    "pubDate": "Sat, 15 Aug 2026 22:16:02 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
