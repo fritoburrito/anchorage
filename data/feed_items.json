@@ -1,5 +1,15 @@
 [
   {
+    "title": "At least one killed as Hurricane Lala slams Hawaiian Islands with violent flash flooding, sweeping homes away",
+    "link": "https://www.foxweather.com/weather-news/hurricane-lala-blasts-hawaii-with-hurricane-force-winds-flooding-rain",
+    "description": "Hurricane Lala continues its path northwest past the Hawaiian Islands as a Category 1 hurricane, unleashing a rare and dangerous impact on the state as it continues its track northwest along the western side of the Big Island, bringing damaging winds and heavy rain and taking the life of one person.",
+    "pubDate": "Sun, 16 Aug 2026 08:30:30 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "What happens when Hurricane Lala collides with Hawaii\u2019s massive volcanoes?",
     "link": "https://www.foxweather.com/weather-news/hurricane-lala-threat-kilauea-hawaii-volcanoes",
     "description": "As Hurricane Lala barrels toward Hawaii, it poses a constant threat to Mount Kilauea and the rest of the islands. Hurricane Lala continues its path toward Hawaii, as thousands of people feel the impacts of severe storms that have caused over 85,000 power outages amid intense wind gusts and coastal flooding.",
@@ -380,9 +390,9 @@
     "rank": 100
   },
   {
-    "title": "Track Hurricane Lala: Live radar, forecast cone, wave heights, wind speed and warnings",
+    "title": "Track Hurricane Lala: Live radar, power outages, wave heights, wind speed and active warnings",
     "link": "https://www.foxweather.com/weather-news/tracker-tropical-storm-lala-forecast-cone-waves-wind-speed-warnings",
-    "description": "Hurricane Lala is closing in on Hawaii after strengthening into a Category 1 hurricane as it passes south of the islands this weekend. It is expected to deliver intense wind, rain and mudslides.",
+    "description": "Here is everything you need to know about Hurricane Lala, including where it is, when impacts will stop, live radar, active tropical alerts and more.",
     "pubDate": "Thu, 13 Aug 2026 21:02:53 GMT",
     "category": "weather",
     "tag": "weather",
@@ -390,14 +400,84 @@
     "rank": 100
   },
   {
-    "title": "Track Tropical Storm Lala: Live radar, forecast cone, wave heights, wind speed and warnings",
-    "link": "https://www.foxweather.com/weather-news/tracker-tropical-storm-lala-forecast-cone-waves-wind-speed-warnings",
-    "description": "Tropical Storm Lala has formed in the Central Pacific and is barreling toward the Hawaiian Islands, where heavy rain, strong winds and dangerous surf are expected by late Friday. Here is everything you need to know about Tropical Storm Lala, including where it is, when to expect impacts, tropical alerts and more.",
-    "pubDate": "Thu, 13 Aug 2026 21:02:53 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "People who fled Stourbridge fires start to return home",
+    "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+    "description": "Many families are only just discovering the extent of damage to their homes for the first time.",
+    "pubDate": "Sun, 16 Aug 2026 09:12:41 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+    "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+    "pubDate": "Sun, 16 Aug 2026 09:04:14 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Americans clash over transgender athletes as debate heats up: \u2018Just getting outrageous'",
+    "link": "https://www.foxnews.com/politics/americans-clash-over-transgender-athletes-debate-heats-up-just-getting-outrageous",
+    "description": "Americans told Fox News Digital they're sharply divided over transgender athletes in women's sports as Sophie Cunningham doubles down on her stance.",
+    "pubDate": "Sun, 16 Aug 2026 09:00:08 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "NPR Senior Podcast Challenge: Official Rules",
+    "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
+    "description": "",
+    "pubDate": "Sun, 16 Aug 2026 09:00:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+    "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
+    "description": "Sunflower sea stars are critically endangered in the Pacific Ocean. University of Washington researchers are working with the Samish Indian Nation to bring this 24-armed creature back from the brink of extinction.",
+    "pubDate": "Sun, 16 Aug 2026 09:00:00 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
+    "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
+    "description": "The high-profile murder trial of Lindsay Clancy's has put the condition in the spotlight. Women who have had it call for more research and understanding of a difficult mental illness.",
+    "pubDate": "Sun, 16 Aug 2026 09:00:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "65 and older? Have a story to tell? Hit 'record' and send NPR your podcast",
+    "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
+    "description": "This fall, we're asking seniors to send us their stories in audio form. Our judges will pick the best ones and air them on NPR.",
+    "pubDate": "Sun, 16 Aug 2026 09:00:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+    "description": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+    "pubDate": "Sun, 16 Aug 2026 08:23:38 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
     "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
@@ -520,90 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos",
-    "link": "https://www.foxnews.com/entertainment/jessica-simpson-turns-heads-bikini-photos-trip-turks-caicos",
-    "description": "Jessica Simpson shared bikini photos from her Turks and Caicos birthday trip on Instagram, lounging in a black polka dot two-piece in paradise.",
-    "pubDate": "Sun, 16 Aug 2026 00:45:24 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Reform proposes \u00a350bn welfare bill cut with changes to disability payments for millions",
-    "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-    "description": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
-    "pubDate": "Sun, 16 Aug 2026 00:39:22 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Reform UK plans to overhaul welfare system to save \u00a350bn",
-    "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-    "description": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
-    "pubDate": "Sun, 16 Aug 2026 00:39:22 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Reform UK plan would overhaul welfare system with \u00a350bn in savings",
-    "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-    "description": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.",
-    "pubDate": "Sun, 16 Aug 2026 00:39:22 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Bills' Dion Dawkins sparks intense debate after picking up his dog's poop on practice field",
-    "link": "https://www.foxnews.com/outkick-sports/bills-dion-dawkins-sparks-intense-debate-picking-up-dogs-poop-practice-field",
-    "description": "Video shows Buffalo Bills offensive tackle Dion Dawkins scooping dog poop off the NFL practice field in Crocs, igniting a fierce online debate.",
-    "pubDate": "Sun, 16 Aug 2026 00:38:50 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "BBC seeks to subpoena family members in Panorama lawsuit",
-    "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-    "description": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
-    "pubDate": "Sun, 16 Aug 2026 00:11:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Deshaun Watson's first game since 2024 a success because he wasn't as bad as Shedeur Sanders or Dillon Gabriel",
-    "link": "https://www.foxnews.com/outkick-sports/deshaun-watson-first-game-since-2024-success-wasnt-bad-shedeur-sanders-dillon-gabriel",
-    "description": "Deshaun Watson completed 11 of 15 passes in his return from dual Achilles tears, while Shedeur Sanders and Dillon Gabriel both threw interceptions.",
-    "pubDate": "Sun, 16 Aug 2026 00:05:04 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "From making friends to managing money: Students' advice for this year's freshers",
-    "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
-    "description": "BC News asked current students about the worries they had before arriving at university how they overcame them.",
-    "pubDate": "Sat, 15 Aug 2026 23:45:15 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Tonight - Scattered Rain Showers then Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "56\u00b0F. Wind N 5 mph. Scattered rain showers before 1am, then rain likely. Cloudy, with a low around 56. North wind around 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sun, 16 Aug 2026 08:22:35 GMT",
+    "pubDate": "Sun, 16 Aug 2026 09:22:42 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Sunday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "65\u00b0F. Wind NE 5 mph. Rain likely. Cloudy, with a high near 65. Northeast wind around 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sun, 16 Aug 2026 08:22:35 GMT",
+    "pubDate": "Sun, 16 Aug 2026 09:22:42 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Sunday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "55\u00b0F. Wind NE 5 to 10 mph. Rain likely before 1am, then a chance of rain showers. Mostly cloudy, with a low around 55. Northeast wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sun, 16 Aug 2026 08:22:35 GMT",
+    "pubDate": "Sun, 16 Aug 2026 09:22:42 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Monday - Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "60\u00b0F. Wind S 5 to 10 mph. A chance of rain showers. Mostly cloudy, with a high near 60. South wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sun, 16 Aug 2026 08:22:35 GMT",
+    "pubDate": "Sun, 16 Aug 2026 09:22:42 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Monday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "53\u00b0F. Wind S 5 to 10 mph. Rain showers likely before 10pm, then rain likely. Cloudy, with a low around 53. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sun, 16 Aug 2026 08:22:35 GMT",
+    "pubDate": "Sun, 16 Aug 2026 09:22:42 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
