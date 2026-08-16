@@ -400,6 +400,16 @@
     "rank": 100
   },
   {
+    "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+    "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+    "pubDate": "Sun, 16 Aug 2026 04:13:32 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
     "title": "Mets' Jefry Yan, known for high-flying strikeout celebration, performs it too soon in hilarious blunder",
     "link": "https://www.foxnews.com/outkick-sports/mets-jefry-yan-known-high-flying-strikeout-celebration-performs-too-soon-hilarious-blunder",
     "description": "Mets reliever Jefry Yan thought he had strike three against the Nationals, but as he jumped in the air to perform his signature celebration, he realized the umpire didn't call it.",
@@ -467,6 +477,16 @@
     "category": "world",
     "tag": "world",
     "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Reform UK plans to overhaul welfare system to save \u00a350bn",
+    "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+    "description": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
+    "pubDate": "Sun, 16 Aug 2026 00:39:22 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
     "rank": 10
   },
   {
@@ -580,30 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Roger Miller given stark choice after getting caught stealing: \u2018You can go to jail or you can go in the Army\u2019",
-    "link": "https://www.foxnews.com/entertainment/roger-miller-given-stark-choice-after-getting-caught-stealing-you-can-go-jail-you-can-go-army",
-    "description": "Dean Miller says his father joined the Army as a teen after he was caught stealing from a club. The judge then gave him a choice between jail and the Army.",
-    "pubDate": "Sat, 15 Aug 2026 22:17:48 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Ex-detective who served fraction of 102-year sentence faces new charges after cold case review",
-    "link": "https://www.foxnews.com/us/ex-detective-served-fraction-102-year-sentence-faces-new-charges-cold-case-review",
-    "description": "Former Los Angeles vice detective Michael Douglas Brambles, paroled in 2020 under California's elderly inmates law, faces new kidnapping charges.",
-    "pubDate": "Sat, 15 Aug 2026 22:13:06 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Tonight - Scattered Rain Showers then Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "56\u00b0F. Wind NW 5 mph. Scattered rain showers before 1am, then rain likely. Cloudy, with a low around 56. Northwest wind around 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sun, 16 Aug 2026 05:22:59 GMT",
+    "description": "56\u00b0F. Wind N 5 mph. Scattered rain showers before 1am, then rain likely. Cloudy, with a low around 56. North wind around 5 mph. Chance of precipitation is 70%.",
+    "pubDate": "Sun, 16 Aug 2026 06:31:46 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Sunday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "65\u00b0F. Wind NE 5 mph. Rain likely. Cloudy, with a high near 65. Northeast wind around 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sun, 16 Aug 2026 05:22:59 GMT",
+    "pubDate": "Sun, 16 Aug 2026 06:31:46 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Sunday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "55\u00b0F. Wind NE 5 to 10 mph. Rain likely before 1am, then a chance of rain showers. Mostly cloudy, with a low around 55. Northeast wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sun, 16 Aug 2026 05:22:59 GMT",
+    "pubDate": "Sun, 16 Aug 2026 06:31:46 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -632,18 +632,18 @@
   {
     "title": "Anchorage Weather: Monday - Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "62\u00b0F. Wind S 5 to 10 mph. A chance of rain showers. Mostly cloudy, with a high near 62. South wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sun, 16 Aug 2026 05:22:59 GMT",
+    "description": "60\u00b0F. Wind S 5 to 10 mph. A chance of rain showers. Mostly cloudy, with a high near 60. South wind 5 to 10 mph. Chance of precipitation is 70%.",
+    "pubDate": "Sun, 16 Aug 2026 06:31:46 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Monday Night - Chance Light Rain",
+    "title": "Anchorage Weather: Monday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "53\u00b0F. Wind S 5 to 10 mph. A chance of rain showers before 10pm, then a chance of rain. Cloudy, with a low around 53. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sun, 16 Aug 2026 05:22:59 GMT",
+    "description": "53\u00b0F. Wind S 5 to 10 mph. Rain showers likely before 10pm, then rain likely. Cloudy, with a low around 53. South wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 60%.",
+    "pubDate": "Sun, 16 Aug 2026 06:31:46 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
