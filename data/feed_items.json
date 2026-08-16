@@ -400,6 +400,26 @@
     "rank": 100
   },
   {
+    "title": "Angel Reese admits she was 'playing like s---' before helping Dream build halftime lead over Fever",
+    "link": "https://www.foxnews.com/outkick-sports/angel-reese-admits-playing-helping-dream-build-halftime-lead-fever",
+    "description": "Angel Reese admitted she was \"playing like s---\" early against the Indiana Fever before helping the Atlanta Dream build a 17-4 run to close the half.",
+    "pubDate": "Sun, 16 Aug 2026 22:39:37 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Long Island street takeover erupts as drivers block road, perform donuts, burnouts: police",
+    "link": "https://www.foxnews.com/us/long-island-street-takeover-erupts-drivers-block-road-perform-donuts-burnouts-police",
+    "description": "Suffolk County police broke up an alleged street takeover on Long Island early Saturday, arresting 15 people and impounding seven vehicles.",
+    "pubDate": "Sun, 16 Aug 2026 22:24:26 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
     "title": "Former ABC News correspondent admits network is liberal, claims \u2018nobody\u2019 voted for Trump",
     "link": "https://www.foxnews.com/media/former-abc-news-correspondent-admits-network-liberal-claims-nobody-voted-trump",
     "description": "Terry Moran admitted ABC News is liberal and lacked viewpoint diversity, revealing he sent internal emails urging fairness toward Trump's supporters.",
@@ -580,30 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Berkeley math professor sounds alarm on liberal 'test-blind' policies, warns many students badly behind",
-    "link": "https://www.foxnews.com/media/berkeley-math-professor-sounds-alarm-liberal-test-blind-policies-warns-many-students-badly-behind",
-    "description": "A Berkeley professor attacked the University of California system's \"test-blind\" policies as calamitous, noting students were arriving on campus unable to do basic math.",
-    "pubDate": "Sun, 16 Aug 2026 19:00:08 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
-    "link": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
-    "description": "The left-handed MLB pitcher was 31 years old when he tore the ulnar collateral ligament in his pitching elbow in 1974, an injury that had been a death knell for pitchers' careers up to that point.",
-    "pubDate": "Sun, 16 Aug 2026 18:58:25 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: Today - Chance Light Rain",
+    "title": "Anchorage Weather: This Afternoon - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "65\u00b0F. Wind N 5 to 10 mph. A chance of rain. Cloudy, with a high near 65. North wind 5 to 10 mph. Chance of precipitation is 50%.",
-    "pubDate": "Sun, 16 Aug 2026 22:15:30 GMT",
+    "description": "65\u00b0F. Wind NE 5 to 10 mph. A chance of rain. Cloudy, with a high near 65. Northeast wind 5 to 10 mph. Chance of precipitation is 50%.",
+    "pubDate": "Sun, 16 Aug 2026 23:15:01 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -612,8 +612,8 @@
   {
     "title": "Anchorage Weather: Tonight - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "55\u00b0F. Wind NE 5 to 10 mph. Rain likely. Cloudy, with a low around 55. Northeast wind 5 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sun, 16 Aug 2026 22:15:30 GMT",
+    "description": "55\u00b0F. Wind NE 5 to 15 mph. Rain likely. Cloudy, with a low around 55. Northeast wind 5 to 15 mph. Chance of precipitation is 60%.",
+    "pubDate": "Sun, 16 Aug 2026 23:15:01 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -622,8 +622,8 @@
   {
     "title": "Anchorage Weather: Monday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "60\u00b0F. Wind S 10 mph. Rain likely. Cloudy, with a high near 60. South wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sun, 16 Aug 2026 22:15:30 GMT",
+    "description": "60\u00b0F. Wind S 10 to 15 mph. Rain likely. Cloudy, with a high near 60. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
+    "pubDate": "Sun, 16 Aug 2026 23:15:01 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Monday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "53\u00b0F. Wind S 10 mph. Rain likely. Cloudy, with a low around 53. South wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sun, 16 Aug 2026 22:15:30 GMT",
+    "pubDate": "Sun, 16 Aug 2026 23:15:01 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Tuesday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "60\u00b0F. Wind S 5 to 10 mph. Rain likely. Cloudy, with a high near 60. South wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sun, 16 Aug 2026 22:15:30 GMT",
+    "pubDate": "Sun, 16 Aug 2026 23:15:01 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
