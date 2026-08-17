@@ -1,5 +1,35 @@
 [
   {
+    "title": "Lala is moving on, but the Pacific is already showing new signs of tropical activity",
+    "link": "https://www.foxweather.com/weather-news/threat-emerges-pacific-lala-moves-away-hawaii",
+    "description": "In Lala\u2019s wake, another area to watch is emerging across the Pacific, with conditions favorable for development as it tracks generally toward the west.",
+    "pubDate": "Mon, 17 Aug 2026 01:47:09 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "BLM Opening Fall Fortymile Caribou Federal Subsistence Hunt Zone 1",
+    "link": "https://alaska-native-news.com/blm-opening-fall-fortymile-caribou-federal-subsistence-hunt-zone-1/85688/",
+    "description": "Zone 1 open August 18 through August 23 FAIRBANKS, Alaska \u2013 The Bureau of Land Management Eastern Interior Field Office will open the Fortymile federal subsistence fall hunt on federal public lands in Alaska Department of Fish and Game (ADF&G) State Fortymile Caribou Zone 1 within Unit 25C for six days beginning August 18. The BLM previously issued an emergency special action delaying the opening of Zone 1. This shortened season in Zone 1 is being implemented to limit [\u2026]",
+    "pubDate": "Mon, 17 Aug 2026 01:09:38 GMT",
+    "category": "interior",
+    "tag": "alaska",
+    "source": "Alaska Native News",
+    "rank": 100
+  },
+  {
+    "title": "Skagway AMHS Terminal Closed for Safety Assessment",
+    "link": "https://alaska-native-news.com/skagway-amhs-terminal-closed-for-safety-assessment/85686/",
+    "description": "Ferry Operations Suspended Until Further Notice (JUNEAU, Alaska) \u2013 The Alaska Department of Transportation and Public Facilities has temporarily suspended vehicle and passenger ferry operations at the Skagway Ferry Terminal after cracks were identified in the concrete abutment supporting the terminal\u2019s vehicle transfer bridge and passenger walkway. The terminal office remains open to answer questions and [\u2026]",
+    "pubDate": "Mon, 17 Aug 2026 00:05:05 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "Alaska Native News",
+    "rank": 100
+  },
+  {
     "title": "Heavy rain and thunderstorms trigger severe weather alerts across portions of East Coast to begin new week",
     "link": "https://www.foxweather.com/weather-news/heavy-rain-thunderstorms-severe-weather-alerts-east-coast",
     "description": "Nasty weather conditions are headed for portions of the East Coast as the new week begins, with rain and thunderstorms possible.",
@@ -67,6 +97,16 @@
     "category": "weather",
     "tag": "weather",
     "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "This Day in Alaskan History-August 16th, 1920",
+    "link": "https://alaska-native-news.com/august-16th-1920/44014/",
+    "description": "",
+    "pubDate": "Sun, 16 Aug 2026 14:00:25 GMT",
+    "category": "culture",
+    "tag": "alaska",
+    "source": "Alaska Native News",
     "rank": 100
   },
   {
@@ -170,6 +210,46 @@
     "rank": 100
   },
   {
+    "title": "U.S. Coast Guard Cutter Douglas Denman returns to Ketchikan, following California coastal patrol",
+    "link": "https://alaska-native-news.com/u-s-coast-guard-cutter-douglas-denman-returns-to-ketchikan-following-california-coastal-patrol/85664/",
+    "description": "JUNEAU \u2014 The crew of U.S. Coast Guard Cutter Douglas Denman (WPC 1149) returned to its homeport at Coast Guard Base Ketchikan, Saturday, following a 41-day patrol operating in the California coastal region. The crew of the Douglas Denman deployed in support of Operation Border Trident, Coast Guard Southwest District\u2019s standing operation to counter illicit maritime activity along the Southwest maritime boundary line. Operation Border [\u2026]",
+    "pubDate": "Sat, 15 Aug 2026 17:56:32 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "Alaska Native News",
+    "rank": 100
+  },
+  {
+    "title": "\u2018Freezers Are Getting Empty\u2019: Food Banks Struggle to Meet Demand as SNAP Cuts Rip Through Communities",
+    "link": "https://alaska-native-news.com/freezers-are-getting-empty-food-banks-struggle-to-meet-demand-as-snap-cuts-rip-through-communities/85662/",
+    "description": "\u201cWe are feverishly fundraising and talking to the board about the need to provide grants, but in reality, we are limited,\u201d said the executive director of the Central Illinois Food Bank. Food banks across the US, from New Mexico to Oregon to Illinois, are seeing massive increases in demand as the unprecedented federal nutrition aid [\u2026]",
+    "pubDate": "Sat, 15 Aug 2026 17:43:42 GMT",
+    "category": "culture",
+    "tag": "alaska",
+    "source": "Alaska Native News",
+    "rank": 100
+  },
+  {
+    "title": "With Iran Talks Stalled, Trump Vows to Declare Strait of Hormuz a US Territory",
+    "link": "https://alaska-native-news.com/with-iran-talks-stalled-trump-vows-to-declare-strait-of-hormuz-a-us-territory-2/85660/",
+    "description": "\u201cHe absolutely needs to be impeached, removed, and locked up,\u201d said one progressive critic, calling the president \u201ca completely unhinged lunatic.\u201d In yet another remark that triggered alarm around the world, President Donald Trump said Friday that he planned to declare the Strait of Hormuz\u2014which Iran has blockaded for much of the past five months over his [\u2026]",
+    "pubDate": "Sat, 15 Aug 2026 17:38:54 GMT",
+    "category": "culture",
+    "tag": "alaska",
+    "source": "Alaska Native News",
+    "rank": 100
+  },
+  {
+    "title": "New Inflation Numbers Prove \u2018Catastrophic Mismanagement of Our Economy\u2019 by Trump",
+    "link": "https://alaska-native-news.com/new-inflation-numbers-prove-catastrophic-mismanagement-of-our-economy-by-trump/85654/",
+    "description": "\u201cToday\u2019s report is yet another reminder that Trump\u2019s promise to lower costs on \u2018Day One\u2019 was a lie,\u201d said the House Budget Committee\u2019s top Democrat. As Americans continue to struggle with the cost of gasoline, groceries, healthcare, housing, and more under President Donald Trump, congressional Democrats and economists on Wednesday used his own government\u2019s latest inflation figures to call out the Republican\u2019s [\u2026]",
+    "pubDate": "Sat, 15 Aug 2026 17:30:40 GMT",
+    "category": "culture",
+    "tag": "alaska",
+    "source": "Alaska Native News",
+    "rank": 100
+  },
+  {
     "title": "Opinion: Supporting Access to Healthcare Does Not Mean Supporting Abortion, and Why I Believe Rep. Mike Prax Did the Right Thing",
     "link": "https://mustreadalaska.com/opinion-supporting-access-to-healthcare-does-not-mean-supporting-abortion/",
     "description": "By April Smith As a pro-life Alaskan\u00a0who has dedicated my life to defending the unborn, I understand why some people have raised concerns about House Bill 195. Those of us who believe strongly in protecting unborn life should always be willing to ask\u00a0hard questions\u00a0and hold our elected officials accountable.\u00a0 But we also need to be [\u2026] The post Opinion: Supporting Access to Healthcare Does Not Mean Supporting Abortion, and Why I Believe Rep. Mike Prax Did the Right Thing appeared first on Must Read Alaska .",
@@ -187,6 +267,16 @@
     "category": "weather",
     "tag": "weather",
     "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "This Day in Alaskan History-August 15th, 1935",
+    "link": "https://alaska-native-news.com/august-15th-1935/44001/",
+    "description": "[content id=\u201d79272\u2033]",
+    "pubDate": "Sat, 15 Aug 2026 14:00:06 GMT",
+    "category": "culture",
+    "tag": "alaska",
+    "source": "Alaska Native News",
     "rank": 100
   },
   {
@@ -310,94 +400,54 @@
     "rank": 100
   },
   {
-    "title": "Alaska\u2019s 2026 Farm Family of the Year Award Goes to Anchor Point Greenhouse",
-    "link": "https://mustreadalaska.com/alaskas-2026-farm-family-of-the-year-award-goes-to-anchor-point-greenhouse/",
-    "description": "Alaska\u2019s 2026 \u201cFarm Family of the Year\u201d is Al Poindexter and his family, who own and operate Anchor Point Greenhouse, LLC. The Farm Family of the Year award was established in 2000 by the Alaska Division of Agriculture and the Alaska State Fair, with sponsorship provided by Matanuska Valley Federal Credit Union, to honor an [\u2026] The post Alaska\u2019s 2026 Farm Family of the Year Award Goes to Anchor Point Greenhouse appeared first on Must Read Alaska .",
-    "pubDate": "Fri, 14 Aug 2026 21:07:28 GMT",
-    "category": "opinion",
-    "tag": "alaska",
-    "source": "Must Read Alaska",
-    "rank": 100
-  },
-  {
-    "title": "No more \u2018hypothetical situations\u2019: States move to fortify elections against Trump",
-    "link": "https://alaskabeacon.com/2026/08/14/repub/no-more-hypothetical-situations-states-move-to-fortify-elections-against-trump/",
-    "description": "State Democratic officials are preparing for chaos at the polls this November, as President Donald Trump casts doubt on election security and pushes for more federal involvement in local voting. \u201cWe\u2019re no longer talking about hypothetical situations,\u201d said Nick Brown, Washington state\u2019s Democratic attorney general, noting the president\u2019s push to nationalize election administration and to [\u2026]",
-    "pubDate": "Fri, 14 Aug 2026 20:45:35 GMT",
-    "category": "politics",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
-  },
-  {
-    "title": "Public Invited to Fishing Policy Forum in Kenai, August 21",
-    "link": "https://mustreadalaska.com/public-invited-to-fishing-policy-forum-in-kenai-august-21/",
-    "description": "The Western Caucus Foundation and Kenai River Sportfishing Association will be hosting a policy forum open to the public in Kenai, Alaska on August 21 at 2 p.m. Panelists include members of Alaska\u2019s federal delegation, Western Caucus leaders, and federal government officials. The forum will take place at the Kenai High School Auditorium, 9583 Kenai [\u2026] The post Public Invited to Fishing Policy Forum in Kenai, August 21 appeared first on Must Read Alaska .",
-    "pubDate": "Fri, 14 Aug 2026 20:30:23 GMT",
-    "category": "kenai",
-    "tag": "alaska",
-    "source": "Must Read Alaska",
-    "rank": 100
-  },
-  {
-    "title": "Woman Injured in Bear Attack Near Prospect Heights Trailhead in Anchorage",
-    "link": "https://mustreadalaska.com/woman-injured-in-bear-attack-near-prospect-heights-trailhead-in-anchorage/",
-    "description": "On Thursday, August 13, Alaska Department of Fish and Game (ADF&G) staff responded to a reported bear attack near the Prospect Heights trailhead in Anchorage. An adult female victim was injured, while trail running alone, after encountering a brown bear on the Wolverine Bowl trail. The victim was carrying bear spray and was able to [\u2026] The post Woman Injured in Bear Attack Near Prospect Heights Trailhead in Anchorage appeared first on Must Read Alaska .",
-    "pubDate": "Fri, 14 Aug 2026 20:18:47 GMT",
-    "category": "anchorage",
-    "tag": "alaska",
-    "source": "Must Read Alaska",
-    "rank": 100
-  },
-  {
-    "title": "Preliminary 2027 forecast for Alaska\u2019s Bristol Bay fishery predicts more, smaller sockeye",
-    "link": "https://alaskabeacon.com/2026/08/14/preliminary-2027-forecast-for-alaskas-bristol-bay-fishery-predicts-more-smaller-sockeye/",
-    "description": "With the 2026 commercial salmon harvests winding down in Alaska, the seafood industry is already calculating how to navigate at a profit in 2027, given dynamic biological, economic, climate and market conditions. Their forecast has a far-reaching socio-economic impact across the state \u2014 Bristol Bay\u2019s commercial fishery had about $2 billion in economic impact and [\u2026]",
-    "pubDate": "Fri, 14 Aug 2026 20:02:38 GMT",
+    "title": "UK to turn cooler with rain after exceptional heat and dry spell",
+    "link": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+    "description": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+    "pubDate": "Mon, 17 Aug 2026 02:08:56 GMT",
     "category": "weather",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
-    "title": "The Central Test: Who Is Actually Ready to Govern Alaska?",
-    "link": "https://mustreadalaska.com/the-central-test-who-is-actually-ready-to-govern-alaska/",
-    "description": "By Paul A. Bauer, Jr. Alaskans are being asked to choose our next governor, but after watching this election unfold, I am left with a basic concern: Have voters actually been given enough opportunity to determine who is prepared to govern? We have seen candidate forums, introductions, short answers and carefully managed appearances. What we have largely not seen are genuine debates where the [\u2026] The post The Central Test: Who Is Actually Ready to Govern Alaska? appeared first on Must Read Alaska .",
-    "pubDate": "Fri, 14 Aug 2026 18:50:31 GMT",
-    "category": "politics",
-    "tag": "alaska",
-    "source": "Must Read Alaska",
-    "rank": 100
+    "title": "Ferrari's first ever electric car sold for record $40m at auction",
+    "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+    "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+    "pubDate": "Mon, 17 Aug 2026 01:47:33 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
-    "title": "Opinion: What a Clean Gasline Bill Would Actually Look Like",
-    "link": "https://mustreadalaska.com/opinion-what-a-clean-gasline-bill-would-actually-look-like/",
-    "description": "By Dana Raffaniello This article is a partial reprint of \u201cThere Was Never a Clean Bill\u201d first published in the author\u2019s personal Substack, August 13, 2026. For two months, the loudest complaint from the governor\u2019s office and the House Republican minority has been that Alaska cannot get a \u201cclean gasline bill\u201d passed. On July 15, [\u2026] The post Opinion: What a Clean Gasline Bill Would Actually Look Like appeared first on Must Read Alaska .",
-    "pubDate": "Fri, 14 Aug 2026 18:14:06 GMT",
-    "category": "politics",
-    "tag": "alaska",
-    "source": "Must Read Alaska",
-    "rank": 100
+    "title": "Louisiana man accused of killing wife, propping her body up for multistate drive",
+    "link": "https://www.foxnews.com/us/louisiana-man-accused-killing-wife-propping-body-multistate-drive",
+    "description": "A man allegedly shot his wife at a park in Louisiana and drove her body through multiple states before a traffic stop in Memphis led to his arrest.",
+    "pubDate": "Mon, 17 Aug 2026 01:20:57 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Bryan Norcross: Tropical Storm Lala's impacts begin in Hawaii tonight while the Atlantic disturbances struggle",
-    "link": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-august-14-2026",
-    "description": "Tropical Storm Lala is forecast to become Hurricane Lala as it tracks toward Hawaii. It's a sprawling system and impacts will arrive well before the center approaches the islands and continue well after it has moved past.",
-    "pubDate": "Fri, 14 Aug 2026 14:00:31 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Mercury coach blasts WNBA narratives but ignores Fever coach Stephanie White\u2019s role in the mess",
+    "link": "https://www.foxnews.com/outkick-sports/mercury-coach-blasts-wnba-narratives-ignores-fever-coach-stephanie-white-role-mess",
+    "description": "Nate Tibbetts ripped the media narrative around the WNBA but rushed to defend Stephanie White instead of backing Sophie Cunningham and Caitlin Clark.",
+    "pubDate": "Mon, 17 Aug 2026 00:58:42 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Alaska judge confirms legislative candidate for primary despite blank financial disclosure form",
-    "link": "https://alaskabeacon.com/2026/08/14/alaska-judge-confirms-legislative-candidate-for-primary-despite-blank-financial-disclosure-form/",
-    "description": "An Anchorage Superior Court judge ruled Thursday that the Alaska Division of Elections was correct to keep Anchorage Republican Jose Tagle on the primary election ballot for state House even though he filed a blank form when asked to disclose his personal finances. State law requires candidates for public office to complete a Public Official [\u2026]",
-    "pubDate": "Fri, 14 Aug 2026 13:45:54 GMT",
-    "category": "anchorage",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "Todd Blanche backs Jeanine Pirro after Lincoln Memorial pool vandalism case dismissal",
+    "link": "https://www.foxnews.com/politics/todd-blanche-backs-jeanine-pirro-after-lincoln-memorial-pool-vandalism-case-dismissal",
+    "description": "AG Blanche called Pirro's overall work \u2018phenomenal\u2019 while acknowledging that President Trump remains frustrated over the dismissed Lincoln Memorial Reflecting Pool case.",
+    "pubDate": "Mon, 17 Aug 2026 00:54:16 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "Rob Schneider leans on faith, holds hope for reconciliation with estranged daughter Elle King",
@@ -550,70 +600,10 @@
     "rank": 10
   },
   {
-    "title": "\u2018X-Files\u2019 star Gillian Anderson reveals parenting regret, says she wishes she was 'less selfish'",
-    "link": "https://www.foxnews.com/entertainment/x-files-star-gillian-anderson-reveals-parenting-regret-says-she-wishes-she-less-selfish",
-    "description": "Gillian Anderson reveals she wishes she'd been \"less selfish\" in early parenting while filming \"The X-Files\" and working grueling 17-hour days.",
-    "pubDate": "Sun, 16 Aug 2026 21:40:41 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "CENTCOM commander touts USS Abraham Lincoln mental health record after more than 260 days without port call",
-    "link": "https://www.foxnews.com/politics/centcom-commander-touts-uss-abraham-lincoln-mental-health-record-after-more-than-260-days-without-port-call",
-    "description": "CENTCOM Adm. Brad Cooper said the Lincoln's leadership has prioritized mental health as the carrier nears the end of its extended deployment.",
-    "pubDate": "Sun, 16 Aug 2026 21:10:49 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "US commander says mental health a 'priority' on USS Lincoln",
-    "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-    "description": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
-    "pubDate": "Sun, 16 Aug 2026 21:04:27 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Chrissy Metz slams weight loss critics, says they're always 'going to have something to say'",
-    "link": "https://www.foxnews.com/entertainment/chrissy-metz-slams-weight-loss-critics-says-theyre-always-going-have-something-say",
-    "description": "Chrissy Metz slams online critics commenting on her body and reveals how her father's death from obesity complications led her to start GLP-1 medication.",
-    "pubDate": "Sun, 16 Aug 2026 20:48:31 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Multiple people dead as flooding continues in Indiana",
-    "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
-    "description": "Some parts of Indiana received more than 11 inches of rainfall over three days, beginning Aug. 11, causing record floods. Several suburbs of Indianapolis also underwater.",
-    "pubDate": "Sun, 16 Aug 2026 20:38:40 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon - Chance Light Rain",
-    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "65\u00b0F. Wind NE 10 mph. A chance of rain. Cloudy, with a high near 65. Northeast wind around 10 mph. Chance of precipitation is 50%.",
-    "pubDate": "Mon, 17 Aug 2026 00:58:21 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "National Weather Service Anchorage",
-    "rank": 0
-  },
-  {
     "title": "Anchorage Weather: Tonight - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "55\u00b0F. Wind NE 5 to 15 mph. Rain likely. Cloudy, with a low around 55. Northeast wind 5 to 15 mph. Chance of precipitation is 60%.",
-    "pubDate": "Mon, 17 Aug 2026 00:58:21 GMT",
+    "pubDate": "Mon, 17 Aug 2026 02:20:55 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +613,7 @@
     "title": "Anchorage Weather: Monday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "60\u00b0F. Wind S 10 to 15 mph. Rain likely. Cloudy, with a high near 60. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
-    "pubDate": "Mon, 17 Aug 2026 00:58:21 GMT",
+    "pubDate": "Mon, 17 Aug 2026 02:20:55 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +623,7 @@
     "title": "Anchorage Weather: Monday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "53\u00b0F. Wind S 10 mph. Rain likely. Cloudy, with a low around 53. South wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
-    "pubDate": "Mon, 17 Aug 2026 00:58:21 GMT",
+    "pubDate": "Mon, 17 Aug 2026 02:20:55 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +633,17 @@
     "title": "Anchorage Weather: Tuesday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "60\u00b0F. Wind S 5 to 10 mph. Rain likely. Cloudy, with a high near 60. South wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
-    "pubDate": "Mon, 17 Aug 2026 00:58:21 GMT",
+    "pubDate": "Mon, 17 Aug 2026 02:20:55 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "National Weather Service Anchorage",
+    "rank": 0
+  },
+  {
+    "title": "Anchorage Weather: Tuesday Night - Chance Light Rain",
+    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+    "description": "49\u00b0F. Wind SE 0 to 5 mph. A chance of rain. Cloudy, with a low around 49. Southeast wind 0 to 5 mph. Chance of precipitation is 40%.",
+    "pubDate": "Mon, 17 Aug 2026 02:20:55 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
