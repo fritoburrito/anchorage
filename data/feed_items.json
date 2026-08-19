@@ -1,5 +1,25 @@
 [
   {
+    "title": "Alaska Science Forum time capsule: Looking for a few good wood frogs",
+    "link": "https://www.homernews.com/2026/08/19/alaska-science-forum-time-capsule-looking-for-a-few-good-wood-frogs/",
+    "description": "Note: This article was originally published 30 years ago, on Aug. 7, 1996. Brian Barnes and author Ned Rozell have since retired from the University of Alaska Fairbanks, and scientists now know that the wood frog\u2019s internal body temperature can dip to 0.6 degrees below zero Fahrenheit while overwintering. So the wood frogs are still out there, hopping around and readying for the long winter ahead!",
+    "pubDate": "Wed, 19 Aug 2026 09:30:00 GMT",
+    "category": "interior",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
+    "title": "LETTER: Why I vote Democratic",
+    "link": "https://www.juneauempire.com/2026/08/19/letter-why-i-vote-democratic/",
+    "description": "The first time I ever voted, I chose all Republican candidates. Growing up, I was deeply influenced by my conservative (and loving) grandfather. However, the Republican Party in those years was very different from the party it is today.",
+    "pubDate": "Wed, 19 Aug 2026 09:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
     "title": "Alaska on course to approve new campaign donation limits in Ballot Measure 1",
     "link": "https://alaskabeacon.com/2026/08/18/alaska-on-course-to-approve-new-campaign-donation-limits-in-ballot-measure-1/",
     "description": "This article is developing and will be updated. Early tallies from Tuesday\u2019s statewide primary election showed overwhelming support for a ballot measure that will restrict the amount of money that political candidates can accept from groups and individuals. With 198 of 402 precincts reporting by 9:15 p.m. Tuesday night, Ballot Measure 1 had the support [\u2026]",
@@ -380,24 +400,104 @@
     "rank": 100
   },
   {
-    "title": "After historic crash, Yukon River\u2019s iconic king salmon run shows early signs of rebound",
-    "link": "https://alaskabeacon.com/2026/08/17/after-historic-crash-yukon-rivers-iconic-king-salmon-run-shows-early-signs-of-rebound/",
-    "description": "For the past few years, smokehouses in the Yukon River village of Anvik have sat empty. After salmon populations crashed, dozens of Alaska Native communities along the river faced a stark new reality, one without the fish that fed families and sustained Yup\u2019ik and Athabascan traditions for generations. This summer, though, smoke once again wafted [\u2026]",
-    "pubDate": "Mon, 17 Aug 2026 17:45:52 GMT",
-    "category": "culture",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "Apparent human remains found in US reservoir as water levels hit record low",
+    "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+    "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says.",
+    "pubDate": "Wed, 19 Aug 2026 10:10:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
-    "title": "Man rescued by Good Samaritans, emergency responders after falling into Gastineau Channel",
-    "link": "https://www.juneauempire.com/2026/08/17/man-rescued-by-good-samaritans-emergency-responders-after-falling-into-gastineay-channel/",
-    "description": "The man was trasnported to Seattle for medical care",
-    "pubDate": "Mon, 17 Aug 2026 17:30:00 GMT",
-    "category": "local",
-    "tag": "alaska",
-    "source": "Juneau Empire",
-    "rank": 100
+    "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
+    "link": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&at_campaign=rss",
+    "description": "Warnings for northern England, eastern Scotland and Northern Ireland will come into force later on Wednesday.",
+    "pubDate": "Wed, 19 Aug 2026 10:05:16 GMT",
+    "category": "weather",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "How India's blocking of a film exposing real-life police abuses backfired",
+    "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
+    "description": "When Indian authorities scrubbed the biopic of activist Jaswant Singh Khalra, local villagers and activists turned its censorship into a grassroots movement.",
+    "pubDate": "Wed, 19 Aug 2026 10:02:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Tupac murder trial faces \u2018snitches get stitches\u2019 problem but defendant's ghostwriter could be key",
+    "link": "https://www.foxnews.com/us/tupac-murder-trial-faces-snitches-get-stitches-problem-defendant-ghostwriter-could-be-key",
+    "description": "Duane \"Keffe D\" Davis' own memoir and ghostwriter Yusef Jah could become key evidence as prosecutors build their case in the Tupac Shakur murder trial.",
+    "pubDate": "Wed, 19 Aug 2026 10:00:16 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "New \u2018Reagan\u2019 movie museum planned for president\u2019s hometown",
+    "link": "https://www.foxnews.com/media/new-reagan-movie-museum-planned-presidents-hometown",
+    "description": "Young America's Foundation will display full-scale replicas of the Oval Office and Situation Room from the \"Reagan\" movie at a new museum in Dixon.",
+    "pubDate": "Wed, 19 Aug 2026 10:00:03 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Striking hospital employees sound alarm over workplace violence",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
+    "description": "In addition to pay, striking hospital workers say patient violence is an issue. Hospital workers are 7 times more likely to be injured at work due to violent acts than the general working population.",
+    "pubDate": "Wed, 19 Aug 2026 10:00:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
+    "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+    "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
+    "pubDate": "Wed, 19 Aug 2026 09:48:16 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Competition for degree apprenticeships quadruples as university costs rise",
+    "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
+    "description": "The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny.",
+    "pubDate": "Wed, 19 Aug 2026 09:37:16 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+    "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
+    "description": "Government data showed the outbreak had so far recorded 5,021 cases, including 2,378 deaths. The outbreak has infected and killed more people at a greater speed than any other outbreak in history.",
+    "pubDate": "Wed, 19 Aug 2026 09:29:40 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
+    "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+    "description": "Rough sleepers in England will be offered housing, in a move likened to the \u201cEveryone In\u201d initiative during the pandemic.",
+    "pubDate": "Wed, 19 Aug 2026 09:26:05 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
     "title": "Socialists capture major Florida victory on hit-or-miss night for Trump-endorsed primary candidates",
@@ -407,6 +507,16 @@
     "category": "politics",
     "tag": "world",
     "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Sacked Ukrainian defence minister calls for presidential election",
+    "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+    "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+    "pubDate": "Wed, 19 Aug 2026 09:02:08 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "BBC World",
     "rank": 10
   },
   {
@@ -490,120 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
-    "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
-    "description": "Elbridge Gerry was an important early figure in the American Revolution, but his decision to approve a \"gerrymandered\" state legislative map inadvertently won him lasting infamy.",
-    "pubDate": "Wed, 19 Aug 2026 09:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
-    "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
-    "description": "Nick Kyrgios is provisionally suspended from tennis after testing positive for cocaine.",
-    "pubDate": "Wed, 19 Aug 2026 08:38:37 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
-    "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-    "description": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
-    "pubDate": "Wed, 19 Aug 2026 08:25:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, court told",
-    "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
-    "description": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
-    "pubDate": "Wed, 19 Aug 2026 08:25:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
-    "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
-    "description": "Israel struck an air base in northwest Syria early Tuesday, saying it aimed to prevent Turkish troops from deploying there. Turkey, which has close ties with the Syrian government and has been providing assistance to Syria's military.",
-    "pubDate": "Wed, 19 Aug 2026 07:51:59 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Rain arrives for some but is another UK heatwave on the way in September?",
-    "link": "https://www.bbc.co.uk/weather/articles/c79g04899wno?at_medium=RSS&at_campaign=rss",
-    "description": "Some long range forecasts are suggesting autumn could be hotter and drier than average. Simon King explores whether a warm spell might be on the cards.",
-    "pubDate": "Wed, 19 Aug 2026 07:45:17 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
-    "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
-    "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
-    "pubDate": "Wed, 19 Aug 2026 07:21:51 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
-    "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
-    "description": "The 1,200 deportees will include Africans as well as nationals from North America, South America and the Caribbean, with the first batch of 20 expected on Thursday.",
-    "pubDate": "Wed, 19 Aug 2026 06:57:51 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "State of play: What to know about California showdown to replace Swalwell after massive scandal",
-    "link": "https://www.foxnews.com/politics/state-play-california-showdown-replace-swalwell-after-massive-scandal",
-    "description": "Aisha Wahab and Melissa Hernandez battle for Eric Swalwell's California 14th Congressional District seat, as early results remain undecided.",
-    "pubDate": "Wed, 19 Aug 2026 06:18:56 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "South Korea shortens war games with US, citing Washington request",
-    "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-    "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-    "pubDate": "Wed, 19 Aug 2026 05:53:53 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Former state rep tops ranked-choice slugfest as Alaska advances nominees for governor",
-    "link": "https://www.foxnews.com/politics/former-state-rep-tops-ranked-choice-slugfest-alaska-advances-nominees-governor",
-    "description": "Seventeen tickets competed in Alaska's nonpartisan primary to succeed term-limited Republican Gov. Michael Dunleavy in the November general election.",
-    "pubDate": "Wed, 19 Aug 2026 05:38:51 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Tonight - Scattered Rain Showers then Slight Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "53\u00b0F. Wind  0 mph. Scattered rain showers before 4am, then a slight chance of rain. Mostly cloudy, with a low around 53. Northwest wind around 0 mph. Chance of precipitation is 30%.",
-    "pubDate": "Wed, 19 Aug 2026 09:28:12 GMT",
+    "pubDate": "Wed, 19 Aug 2026 10:22:55 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Wednesday - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "57\u00b0F. Wind  0 mph. A chance of rain before 1pm, then a chance of rain showers. Mostly cloudy, with a high near 57. West wind around 0 mph. Chance of precipitation is 70%.",
-    "pubDate": "Wed, 19 Aug 2026 09:28:12 GMT",
+    "pubDate": "Wed, 19 Aug 2026 10:22:55 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Wednesday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "52\u00b0F. Wind N 0 to 5 mph. A chance of rain showers before 7pm, then rain likely between 7pm and 1am, then a chance of rain showers. Cloudy, with a low around 52. North wind 0 to 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Wed, 19 Aug 2026 09:28:12 GMT",
+    "pubDate": "Wed, 19 Aug 2026 10:22:55 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Thursday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "60\u00b0F. Wind N 5 mph. A chance of rain showers before 7am, then rain likely. Cloudy, with a high near 60. North wind around 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Wed, 19 Aug 2026 09:28:12 GMT",
+    "pubDate": "Wed, 19 Aug 2026 10:22:55 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Thursday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "51\u00b0F. Wind E 0 to 5 mph. Rain likely. Cloudy, with a low around 51. East wind 0 to 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Wed, 19 Aug 2026 09:28:12 GMT",
+    "pubDate": "Wed, 19 Aug 2026 10:22:55 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
