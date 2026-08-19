@@ -1,5 +1,15 @@
 [
   {
+    "title": "Assault on stepdaughter brings jail term for former Juneau firefighter",
+    "link": "https://www.juneauempire.com/2026/08/19/assault-on-stepdaughter-brings-jail-term-for-former-juneau-firefighter/",
+    "description": "Brent Clancy, 52, sentenced to 15 months for assault meant to teach his stepdaughter a lesson",
+    "pubDate": "Wed, 19 Aug 2026 14:30:00 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
     "title": "Bryan Norcross: Remembering 34 years ago today and keeping an eye on Hawaii again",
     "link": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-19-2026",
     "description": "Coincidentally, August 19 was a Wednesday in 1992, as it is today. We were tracking the first named storm of the year \u2014 a tropical storm northeast of the Caribbean. At first glance, the storm looked impressive on the satellite, but Hurricane Hunters had found it to be disorganized.",
@@ -7,6 +17,16 @@
     "category": "weather",
     "tag": "weather",
     "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Homer voters have their say in Alaska primaries",
+    "link": "https://www.homernews.com/2026/08/19/homer-voters-have-their-say-in-alaska-primaries/",
+    "description": "Brent Johnson tops voting for House District 6 while Louise Stutes in front for Senate District C",
+    "pubDate": "Wed, 19 Aug 2026 12:30:00 GMT",
+    "category": "kenai",
+    "tag": "alaska",
+    "source": "Homer News",
     "rank": 100
   },
   {
@@ -380,24 +400,94 @@
     "rank": 100
   },
   {
-    "title": "Scorching heat lingers across Southeast, placing 72M+ under heat alerts following day of record-breaking temps",
-    "link": "https://www.foxweather.com/weather-news/south-summer-heat-wave-humidity-august-2026",
-    "description": "Millions across the South face a week of feels-like temperatures over 100 degrees, with heat indices reaching 115 degrees in some places as a summer heat wave grips the region.",
-    "pubDate": "Mon, 17 Aug 2026 17:53:17 GMT",
-    "category": "southeast",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Real-world study of Oregon's nonmedical psilocybin program shows promise",
+    "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
+    "description": "Oregon was the first state to establish a legalized and regulated psilocybin industry. Since then, thousands have tried magic mushrooms. Here is the first data from the state's real life experiment.",
+    "pubDate": "Wed, 19 Aug 2026 15:22:35 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
   },
   {
-    "title": "Miami ties its all time hottest day as scorching heat put more than 70M Americans under alerts",
-    "link": "https://www.foxweather.com/weather-news/south-summer-heat-wave-humidity-august-2026",
-    "description": "Millions across the South face a week of feels-like temperatures over 100 degrees, with heat indices reaching 115 degrees in some places as a summer heat wave grips the region.",
-    "pubDate": "Mon, 17 Aug 2026 17:53:17 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+    "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
+    "description": "A 2.9% rise in inflation had been widely expected by economists, with Chancellor John Healey saying the Iran war \u201ccontinues to impact prices here at home\u201d.",
+    "pubDate": "Wed, 19 Aug 2026 15:19:55 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Jill Biden hails Hunter having his 'time to shine' as media tour raises questions about political ambitions",
+    "link": "https://www.foxnews.com/media/jill-biden-hails-hunter-having-his-time-shine-media-tour-raises-questions-about-political-ambitions",
+    "description": "Jill Biden said it's Hunter Biden's \"time to shine\" as his podcast interviews and media presence explode, praising his honesty about addiction.",
+    "pubDate": "Wed, 19 Aug 2026 15:14:28 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
+    "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
+    "description": "A Christmas Island resident was surprised to find the massive piece of debris floating off the coast.",
+    "pubDate": "Wed, 19 Aug 2026 15:01:57 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Fauci scandal grows as top House committee accuses Biden Cabinet official of hiding COVID diary",
+    "link": "https://www.foxnews.com/politics/fauci-scandal-grows-top-house-committee-accuses-california-governor-hopeful-hiding-covid-diary",
+    "description": "James Comer demands answers from Xavier Becerra on why Anthony Fauci's COVID-19 diary and cellphone were not turned over to Congress in 2023.",
+    "pubDate": "Wed, 19 Aug 2026 15:00:59 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "New York grandmother vanishes in Las Vegas as family gets mysterious texts from her phone asking for Bitcoin",
+    "link": "https://www.foxnews.com/us/new-york-grandmother-vanishes-las-vegas-family-mysterious-texts-phone-asking-bitcoin",
+    "description": "Alisa Goods vanished after leaving a friend's Las Vegas apartment for CVS, and her family says mysterious texts demanding Bitcoin and gas money followed.",
+    "pubDate": "Wed, 19 Aug 2026 15:00:51 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Iran loses key economic lifeline in Middle East that Trump's sanctions couldn't reach as deadlock persists",
+    "link": "https://www.foxnews.com/politics/iran-loses-key-economic-lifeline-in-middle-east-that-trumps-sanctions-couldnt-reach-as-deadlock-persists",
+    "description": "The United Arab Emirates suspended all trade with Iran after accusing Tehran of firing ballistic missiles toward maritime traffic in the region.",
+    "pubDate": "Wed, 19 Aug 2026 14:55:34 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Bill de Blasio backs Democrats' socialist wing, says Americans are 'hungry' for far-left vision",
+    "link": "https://www.foxnews.com/media/bill-de-blasio-backs-democrats-socialist-wing-says-americans-hungry-far-left-vision",
+    "description": "Former New York City mayor says Americans are hungry for the socialist vision offered by Alexandria Ocasio-Cortez, Zohran Mamdani and Bernie Sanders.",
+    "pubDate": "Wed, 19 Aug 2026 14:49:29 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Retail giant Target receives $1bn boost from tariff refunds",
+    "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+    "description": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
+    "pubDate": "Wed, 19 Aug 2026 14:47:02 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
     "title": "Publix ditches longtime checkout lane rule in major change for shoppers",
@@ -447,6 +537,16 @@
     "category": "world",
     "tag": "world",
     "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Track defect found on approach to site of Lewes derailment, initial report says",
+    "link": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+    "description": "Initial findings from an RAIB investigation show an \"irregularity\" at the site near Lewes.",
+    "pubDate": "Wed, 19 Aug 2026 14:06:42 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
     "rank": 10
   },
   {
@@ -500,110 +600,10 @@
     "rank": 10
   },
   {
-    "title": "5 takeaways from Florida Senate primary: GOP Sen Ashley Moody will face DSA's Nixon",
-    "link": "https://www.foxnews.com/politics/5-takeaways-florida-senate-primary-gop-sen-ashley-moody-face-dsa-nixon",
-    "description": "Angie Nixon's stunning upset over Alexander Vindman in Florida's Senate primary sparked a Trump celebration and exposed Democrats' fundraising crisis.",
-    "pubDate": "Wed, 19 Aug 2026 13:48:31 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Massive piece of 9/11 history makes stunning 10,500-mile journey across America",
-    "link": "https://www.foxnews.com/politics/massive-piece-9-11-history-embarks-stunning-10500-mile-journey-across-america",
-    "description": "A 16,000-pound steel beam from the South Tower is traveling 10,500 miles across America, stopping at museums, the White House and Ground Zero.",
-    "pubDate": "Wed, 19 Aug 2026 13:23:23 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Sophie Cunningham sent a loud and clear message after getting viciously booed in Canada",
-    "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-sent-loud-clear-message-viciously-booed-canada",
-    "description": "Sophie Cunningham was mercilessly booed every time she touched the basketball in Toronto, then drilled all three 3-pointers in a 101-95 win.",
-    "pubDate": "Wed, 19 Aug 2026 13:20:34 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Ella Langley's 'Choosin' Texas' spends 18 weeks at number one on the Billboard Hot 100; sets new record",
-    "link": "https://www.foxnews.com/outkick-culture/ella-langley-choosin-texas-spends-18-weeks-number-one-billboard-hot-100",
-    "description": "Ella Langley's \"Choosin' Texas\" has now spent 18 weeks atop the Billboard Hot 100, setting a record for a female singer in a non-holiday spot.",
-    "pubDate": "Wed, 19 Aug 2026 13:19:21 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Bryson DeChambeau & hockey goalie Mikayla Demaiter dating rumors heat up, tarps off in Chicago & NFL tension",
-    "link": "https://www.foxnews.com/outkick-sports/bryson-dechambeau-hockey-goalie-mikayla-demaiter-dating-rumors-heat-tarps-off-chicago-nfl-tension",
-    "description": "Bryson DeChambeau and Mikayla Demaiter dating evidence mounts as Canadian golf content and LIV credentials fuel Wednesday Screencaps debate.",
-    "pubDate": "Wed, 19 Aug 2026 13:15:33 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Jury discharged in Palestine Action Elbit raid trial",
-    "link": "https://www.bbc.co.uk/news/articles/c2dk657dky1o?at_medium=RSS&at_campaign=rss",
-    "description": "The jury at the Old Bailey is discharged after 37 hours of deliberations.",
-    "pubDate": "Wed, 19 Aug 2026 13:03:50 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "BBC presenter Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
-    "link": "https://www.bbc.co.uk/news/articles/ce346v4l17yo?at_medium=RSS&at_campaign=rss",
-    "description": "The BBC Radio 4 Today programme presenter explained her recent absence on her return on Wednesday.",
-    "pubDate": "Wed, 19 Aug 2026 13:00:57 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Emma Barnett reveals she 'had the hysterectomy I never wanted to have'",
-    "link": "https://www.bbc.co.uk/news/articles/ce346v4l17yo?at_medium=RSS&at_campaign=rss",
-    "description": "The BBC Radio 4 Today programme presenter explained her recent absence on her return on Wednesday.",
-    "pubDate": "Wed, 19 Aug 2026 13:00:57 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Redistricting gives Republicans an edge, but affordability will decide the midterms",
-    "link": "https://www.foxnews.com/opinion/redistricting-gives-republicans-edge-affordability-decide-midterms",
-    "description": "Republicans may gain a dozen seats through redistricting, but Democrats lead the congressional ballot 53% to 46% as affordability dominates voters.",
-    "pubDate": "Wed, 19 Aug 2026 13:00:41 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Six tourists and pilot killed in Kenya helicopter crash",
-    "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-    "description": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
-    "pubDate": "Wed, 19 Aug 2026 13:00:09 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Today - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "57\u00b0F. Wind N 0 to 5 mph. Isolated rain showers before 10am, then rain likely. Mostly cloudy, with a high near 57. North wind 0 to 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Wed, 19 Aug 2026 14:28:17 GMT",
+    "pubDate": "Wed, 19 Aug 2026 15:26:05 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "53\u00b0F. Wind N 0 to 5 mph. Rain likely before 1am, then scattered rain showers. Cloudy, with a low around 53. North wind 0 to 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Wed, 19 Aug 2026 14:28:17 GMT",
+    "pubDate": "Wed, 19 Aug 2026 15:26:05 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Thursday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "60\u00b0F. Wind N 5 mph. Scattered rain showers before 10am, then rain likely. Cloudy, with a high near 60. North wind around 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Wed, 19 Aug 2026 14:28:17 GMT",
+    "pubDate": "Wed, 19 Aug 2026 15:26:05 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Thursday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "51\u00b0F. Wind NE 0 to 5 mph. Rain likely. Cloudy, with a low around 51. Northeast wind 0 to 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Wed, 19 Aug 2026 14:28:17 GMT",
+    "pubDate": "Wed, 19 Aug 2026 15:26:05 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Friday - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "60\u00b0F. Wind S 0 to 5 mph. A chance of rain. Mostly cloudy, with a high near 60. South wind 0 to 5 mph. Chance of precipitation is 50%.",
-    "pubDate": "Wed, 19 Aug 2026 14:28:17 GMT",
+    "pubDate": "Wed, 19 Aug 2026 15:26:05 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
