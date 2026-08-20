@@ -1,5 +1,25 @@
 [
   {
+    "title": "Arizona could face more severe storms after monsoon dust storms left thousands in the dark across Phoenix",
+    "link": "https://www.foxweather.com/weather-news/arizona-severe-dust-storm-monsoon-phoenix-power-outage",
+    "description": "Monsoon thunderstorms threaten to bubble up again beginning Thursday afternoon across parts of Arizona, including Phoenix and Tucson. Dust storms and damaging wind gusts will be the biggest threat after monsoon storms knocked out power to over 32,000 customers Wednesday.",
+    "pubDate": "Thu, 20 Aug 2026 17:06:44 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Repair plan in place for Skagway Ferry Terminal",
+    "link": "https://www.juneauempire.com/2026/08/20/repair-plan-in-place-for-skagway-ferry-terminal/",
+    "description": "All ferry operations were suspended on Aug. 15 after cracks in concrete were found",
+    "pubDate": "Thu, 20 Aug 2026 16:30:00 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
     "title": "New proposal to rescind \u2018Roadless Rule\u2019 would open national forests in Alaska, across US, to logging",
     "link": "https://alaska-native-news.com/new-proposal-to-rescind-roadless-rule-would-open-national-forests-in-alaska-across-us-to-logging/85741/",
     "description": "The public has 30 days to persuade the Forest Service to halt the misguided plan ANCHORAGE, Alaska \u2014 Some of Alaskans favorite places to immerse themselves in nature face imminent danger. The U.S. Forest Service (part of the Agriculture Department) filed a proposed rule in the Federal Register on Wednesday that would end protections for [\u2026]",
@@ -380,24 +400,164 @@
     "rank": 100
   },
   {
-    "title": "\u2018Deeply Alarming\u2019: Ex-Congresswoman Fuels Fears of Trump Using Nuclear Weapons on Iran",
-    "link": "https://alaska-native-news.com/deeply-alarming-ex-congresswoman-fuels-fears-of-trump-using-nuclear-weapons-on-iran/85709/",
-    "description": "\u201cNuclear weapons must never be used,\u201d said the head of an Iranian American group. \u201cThis war must end before its architects drag millions more people, and potentially the entire world, into an even greater catastrophe.\u201d A leading Iranian American organization on Monday responded with alarm after former Congresswoman Marjorie Taylor Greene claimed that members of President Donald [\u2026]",
-    "pubDate": "Wed, 19 Aug 2026 14:01:22 GMT",
-    "category": "culture",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+    "description": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
+    "pubDate": "Thu, 20 Aug 2026 17:14:55 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
-    "title": "This Day in Alaska History-August 19th, 1935",
-    "link": "https://alaska-native-news.com/august-19th-1935-85736-2/85736/",
-    "description": "Alton C Nordale, Alaska\u2019s Territorial Legislator, and four others were returning to Fairbanks after attending Discovery Day in Dawson on August 19th, 1935, but never reached their destination. Searchers sought the aircraft, or even clues, for an extended period along the four-hour intended flight path, but as winter set in, nothing about the fate of [\u2026]",
-    "pubDate": "Wed, 19 Aug 2026 14:00:10 GMT",
-    "category": "interior",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Israeli defense minister puts NATO power on notice as Middle East tensions surge: \u2018Dangerous adventures\u2019",
+    "link": "https://www.foxnews.com/world/israeli-defense-minister-puts-nato-power-notice-middle-east-tensions-surge-dangerous-adventures",
+    "description": "Israeli Defense Minister Israel Katz warned Recep Tayyip Erdogan not to test Israel's resolve after the Abu al-Duhur airbase strike in Syria.",
+    "pubDate": "Thu, 20 Aug 2026 17:12:38 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Sherrill escalates Trump fight over voter fiasco day after Mullin praises NJ cooperation",
+    "link": "https://www.foxnews.com/politics/sherrill-escalates-trump-fight-voter-fiasco-day-after-mullin-praises-nj-cooperation",
+    "description": "Mikie Sherrill released findings showing about 5,100 noncitizen voter registrations deleted due to a motor voter software error in New Jersey.",
+    "pubDate": "Thu, 20 Aug 2026 17:04:32 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "An open marriage somehow leads to regret, woman hooks best friend up with sister's ex & dumb divorce excuses",
+    "link": "https://www.foxnews.com/outkick-culture/open-marriage-leads-regret-woman-hooks-best-friend-sister-ex-dumb-divorce-excuses",
+    "description": "Dakota Johnson and Role Model's breakup leads a week of romance stories including an open marriage gone wrong and dumb divorce reasons from Reddit.",
+    "pubDate": "Thu, 20 Aug 2026 16:56:56 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Gavin Newsom avoids question on bringing back SAT scores after UC open letter, asks 'show me the data'",
+    "link": "https://www.foxnews.com/media/gavin-newsom-avoids-question-bringing-back-sat-scores-after-uc-open-letter-asks-show-me-data",
+    "description": "Gov. Gavin Newsom said he wants to see more data before deciding whether to support reinstating SAT and ACT requirements at University of California campuses.",
+    "pubDate": "Thu, 20 Aug 2026 16:56:29 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+    "link": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
+    "description": "The brothers have had a fractured relationship for a number of years.",
+    "pubDate": "Thu, 20 Aug 2026 16:54:51 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+    "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+    "description": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
+    "pubDate": "Thu, 20 Aug 2026 16:53:20 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Florida Senate candidate Angie Nixon defends drag shows as 'wholesome' for children, brought her kids to one",
+    "link": "https://www.foxnews.com/media/florida-senate-candidate-angie-nixon-defends-drag-shows-wholesome-children-brought-kids",
+    "description": "Democratic socialist Florida state Rep. Angie Nixon defended drag shows as \"wholesome entertainment,\" saying she has taken her own children to them.",
+    "pubDate": "Thu, 20 Aug 2026 16:52:49 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Three things to know about the $40 trillion federal debt",
+    "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
+    "description": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
+    "pubDate": "Thu, 20 Aug 2026 16:50:41 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+    "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
+    "description": "Dr. Heidi Overton is currently working as a White House policy aide. If confirmed, she would lead an agency of 18,000 staffers who study and regulate food, drugs, medical devices, tobacco and more.",
+    "pubDate": "Thu, 20 Aug 2026 16:49:11 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "ActBlue co-founder pleads Fifth Amendment in closed-door House GOP grilling",
+    "link": "https://www.foxnews.com/politics/actblue-co-founder-pleads-fifth-amendment-closed-door-house-gop-grilling",
+    "description": "Matt DeBergalis pleaded the Fifth Amendment during his deposition before three House committees investigating ActBlue's fraud prevention standards.",
+    "pubDate": "Thu, 20 Aug 2026 16:48:04 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+    "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
+    "description": "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor.",
+    "pubDate": "Thu, 20 Aug 2026 16:40:51 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Michigan Dem invokes comparison to Jesus when pressed on socialist views: 'Radical in his time, too'",
+    "link": "https://www.foxnews.com/politics/michigan-dem-invokes-comparison-jesus-when-pressed-socialist-views-radical-his-time-too",
+    "description": "Michigan Democratic Senate nominee Abdul El-Sayed compared his progressive policies to Jesus Christ's teachings on a podcast earlier this year.",
+    "pubDate": "Thu, 20 Aug 2026 16:39:45 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "'The Terminal List' Season 2 first preview drops with Chris Pratt returning as Navy SEAL James Reece",
+    "link": "https://www.foxnews.com/outkick-culture/terminal-list-season-2-first-preview-drops-chris-pratt-returning-navy-seal-james-reece",
+    "description": "\"The Terminal List\" season 2 preview shows Chris Pratt's James Reece in a globe-trotting espionage thriller based on Jack Carr's \"True Believer.\"",
+    "pubDate": "Thu, 20 Aug 2026 16:38:22 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Racer Sting Ray Robb gears up for Freedom 250 Grand Prix: 'This is more than just an IndyCar event'",
+    "link": "https://www.foxnews.com/outkick-sports/racer-sting-ray-robb-gears-freedom-250-grand-prix-more-than-indycar-event",
+    "description": "Sting Ray Robb says the IndyCar Freedom 250 Grand Prix around Washington, D.C., is a once-in-a-lifetime celebration of America's 250th birthday.",
+    "pubDate": "Thu, 20 Aug 2026 16:26:10 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Three teams ranked outside the 2026 preseason AP Poll who will crash the party by season's end",
+    "link": "https://www.foxnews.com/outkick-sports/three-teams-ranked-outside-2026-preseason-ap-poll-crash-party-seasons-end",
+    "description": "Virginia Tech Hokies, South Carolina Gamecocks, and Florida Gators all missed the preseason AP Poll but have the talent to earn a ranking by January.",
+    "pubDate": "Thu, 20 Aug 2026 16:25:27 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "Man charged over Manchester synagogue attack",
@@ -440,170 +600,10 @@
     "rank": 10
   },
   {
-    "title": "BBC DJ Trevor Nelson reveals brain tumour surgery 'went well'",
-    "link": "https://www.bbc.co.uk/news/articles/cjd47klln75o?at_medium=RSS&at_campaign=rss",
-    "description": "The 62-year-old said that his \"world was turned upside down\" when a brain tumour was discovered.",
-    "pubDate": "Thu, 20 Aug 2026 16:01:37 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Amazon just dropped this $190 Keurig coffee maker to $90 \u2014 its lowest price this year",
-    "link": "https://www.foxnews.com/deals/keurig-coffee-maker-deal-amazon",
-    "description": "The Keurig K-Supreme Coffee Maker is down to $90, its lowest price of the year on Amazon, with customizable strength, size and iced coffee settings.",
-    "pubDate": "Thu, 20 Aug 2026 15:50:01 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Clark Lea thought Vanderbilt had no shot at Jared Curtis \u2014 but the 5-Star 'misfit' chose to flip the script",
-    "link": "https://www.foxnews.com/outkick-sports/clark-lea-thought-vanderbilt-no-shot-jared-curtis-5-star-misfit-chose-flip-script",
-    "description": "Jared Curtis recruited Vanderbilt, not the other way around. Jay Cutler, Nate Bargatze, and a Nashville NIL group helped Clark Lea land the five-star.",
-    "pubDate": "Thu, 20 Aug 2026 15:37:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Trump could face impeachment if Democrats seize House majority, GOP leader warns",
-    "link": "https://www.foxnews.com/politics/trump-could-face-impeachment-democrats-seize-house-majority-gop-leader-warns",
-    "description": "House Republican Steve Scalise warns Democrats will impeach Trump on day one if they win the majority, as socialist insurgents reshape the party.",
-    "pubDate": "Thu, 20 Aug 2026 15:35:47 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Family checks Las Vegas morgues in desperate search for missing New York grandmother",
-    "link": "https://www.foxnews.com/us/family-checks-las-vegas-morgues-desperate-search-missing-new-york-grandmother",
-    "description": "Alisa Goods' daughter traveled to Las Vegas to check hospitals and morgues after the 63-year-old grandmother vanished following a CVS trip Aug. 8.",
-    "pubDate": "Thu, 20 Aug 2026 15:33:39 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Raiders vs Texans and 49ers vs Chargers highlight NFL preseason slate with key quarterback matchups",
-    "link": "https://www.foxnews.com/outkick-sports/raiders-vs-texans-49ers-vs-chargers-highlight-nfl-preseason-slate-key-quarterback-matchups",
-    "description": "The Raiders' Fernando Mendoza and Kirk Cousins looked sharp in preseason, but Houston's elite defense awaits in tonight's NFL preseason matchup.",
-    "pubDate": "Thu, 20 Aug 2026 15:28:48 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-    "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
-    "description": "Sunday's course takes high-speed cars right past the National Gallery of Art and three Smithsonian museums. Art experts worry about the works inside, but organizers say they don't expect damage.",
-    "pubDate": "Thu, 20 Aug 2026 15:18:21 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Togo charges two French journalists over incorrect documents, rights group says",
-    "link": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
-    "description": "Ga\u00ebl Moca\u00ebr and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
-    "pubDate": "Thu, 20 Aug 2026 15:16:44 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Baltimore Ravens 2025 preview: Why the under 10.5 wins looks like the smart bet this season",
-    "link": "https://www.foxnews.com/outkick-sports/baltimore-ravens-2025-preview-why-under-10-5-wins-looks-like-smart-bet-season",
-    "description": "Jesse Minter takes over the Baltimore Ravens after John Harbaugh's exit, but Lamar Jackson's playoff struggles and key roster changes loom large.",
-    "pubDate": "Thu, 20 Aug 2026 15:16:12 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "FBI seizes Swalwell\u2019s devices at airport as sexual misconduct investigation escalates: sources",
-    "link": "https://www.foxnews.com/politics/fbi-seizes-swalwells-devices-airport-sexual-misconduct-investigation-escalates-sources",
-    "description": "Eric Swalwell's cell phone was seized at San Francisco International Airport as part of an FBI probe into sexual misconduct, a source confirms.",
-    "pubDate": "Thu, 20 Aug 2026 15:12:45 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
-    "link": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
-    "description": "The nine-page booklet covers issues including respect in public, sex and consent, and gender equality.",
-    "pubDate": "Thu, 20 Aug 2026 14:58:40 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Blue-city drug gear exposes hypocrisy as cleanup group faces probe, leader cries foul",
-    "link": "https://www.foxnews.com/politics/blue-city-drug-gear-exposes-hypocrisy-cleanup-group-faces-probe-leader-cries-foul",
-    "description": "We Heart Seattle founder Andrea Suarez says the state is investigating her volunteer needle cleanup group while the government hands out drug supplies.",
-    "pubDate": "Thu, 20 Aug 2026 14:55:45 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Dem\u2019s \u2018sexist\u2019 remark against cancer survivor provokes Republican to go scorched earth: \u2018Guy\u2019s got a problem\u2019",
-    "link": "https://www.foxnews.com/politics/dems-sexist-remark-against-cancer-survivor-provokes-republican-go-scorched-earth-guys-got-problem",
-    "description": "Republican U.S. Senate candidate Mike Collins calls Jon Ossoff's viral remark about White House aide Natalie Harp \"sexist\" and \"misogynist.\"",
-    "pubDate": "Thu, 20 Aug 2026 14:50:24 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Longtime ESPN reporter Holly Rowe openly weeps before WNBA game and Caitlin Clark is to blame",
-    "link": "https://www.foxnews.com/outkick-sports/longtime-espn-reporter-holly-rowe-openly-weeps-wnba-game-caitlin-clark-blame",
-    "description": "Holly Rowe filmed herself crying over the sold-out Scotiabank Arena crowd, but the video left out a key detail about why 19,000 fans showed up.",
-    "pubDate": "Thu, 20 Aug 2026 14:43:26 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Colton Burpo describes meeting Jesus and hearing angels sing during near-death experience",
-    "link": "https://www.foxnews.com/media/colton-burpo-describes-meeting-jesus-hearing-angels-sing-during-near-death-experience",
-    "description": "Colton Burpo describes sitting on Jesus' lap and hearing angels sing during his near-death experience at age 3, which inspired \"Heaven Is for Real.\"",
-    "pubDate": "Thu, 20 Aug 2026 14:39:21 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Boater's stunt to awaken sleeping polar bear backfires after brazen horn blast",
-    "link": "https://www.foxnews.com/travel/boaters-stunt-wake-sleeping-polar-bear-backfires-brazen-horn-blast",
-    "description": "A boater in Svalbard, Norway, was fined 50,000 Norwegian kroner, or roughly $5,300, after intentionally using a ship horn to wake a sleeping polar bear on land.",
-    "pubDate": "Thu, 20 Aug 2026 14:33:47 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Today - Widespread Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "59\u00b0F. Wind N 0 to 5 mph. Widespread rain showers. Cloudy, with a high near 59. North wind 0 to 5 mph. Chance of precipitation is 80%.",
-    "pubDate": "Thu, 20 Aug 2026 16:29:15 GMT",
+    "pubDate": "Thu, 20 Aug 2026 17:23:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Widespread Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "52\u00b0F. Wind N 0 to 5 mph. Widespread rain showers. Mostly cloudy, with a low around 52. North wind 0 to 5 mph. Chance of precipitation is 80%.",
-    "pubDate": "Thu, 20 Aug 2026 16:29:15 GMT",
+    "pubDate": "Thu, 20 Aug 2026 17:23:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Friday - Scattered Rain Showers then Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "61\u00b0F. Wind SW 0 to 5 mph. Scattered rain showers before 4pm, then a chance of rain. Mostly cloudy, with a high near 61. Southwest wind 0 to 5 mph. Chance of precipitation is 50%.",
-    "pubDate": "Thu, 20 Aug 2026 16:29:15 GMT",
+    "pubDate": "Thu, 20 Aug 2026 17:23:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Friday Night - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "50\u00b0F. Wind S 5 mph. A chance of rain. Mostly cloudy, with a low around 50. South wind around 5 mph. Chance of precipitation is 50%.",
-    "pubDate": "Thu, 20 Aug 2026 16:29:15 GMT",
+    "pubDate": "Thu, 20 Aug 2026 17:23:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Saturday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "58\u00b0F. Wind E 0 to 5 mph. Rain likely. Cloudy, with a high near 58. East wind 0 to 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Thu, 20 Aug 2026 16:29:15 GMT",
+    "pubDate": "Thu, 20 Aug 2026 17:23:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
