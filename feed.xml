@@ -23,10 +23,10 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Today - Widespread Rain Showers</title>
+      <title>Anchorage Weather: This Afternoon - Widespread Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 20 Aug 2026 20:22:32 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 21:22:55 GMT</pubDate>
       <description><![CDATA[59°F. Wind N 0 to 5 mph. Widespread rain showers. Cloudy, with a high near 59. North wind 0 to 5 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Tonight - Widespread Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 20 Aug 2026 20:22:32 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 21:22:55 GMT</pubDate>
       <description><![CDATA[52°F. Wind N 0 to 5 mph. Widespread rain showers. Mostly cloudy, with a low around 52. North wind 0 to 5 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Friday - Scattered Rain Showers then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 20 Aug 2026 20:22:32 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 21:22:55 GMT</pubDate>
       <description><![CDATA[61°F. Wind SW 0 to 5 mph. Scattered rain showers before 4pm, then a chance of rain. Mostly cloudy, with a high near 61. Southwest wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +50,7 @@
       <title>Anchorage Weather: Friday Night - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 20 Aug 2026 20:22:32 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 21:22:55 GMT</pubDate>
       <description><![CDATA[50°F. Wind S 5 mph. A chance of rain. Mostly cloudy, with a low around 50. South wind around 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
@@ -58,9 +58,25 @@
       <title>Anchorage Weather: Saturday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 20 Aug 2026 20:22:32 GMT</pubDate>
+      <pubDate>Thu, 20 Aug 2026 21:22:55 GMT</pubDate>
       <description><![CDATA[58°F. Wind E 0 to 5 mph. Rain likely. Cloudy, with a high near 58. East wind 0 to 5 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Of wilderness, springtails and Donald Trump</title>
+      <link>https://alaskabeacon.com/2026/08/20/of-wilderness-springtails-and-donald-trump/</link>
+      <guid isPermaLink="false">0cfc294d343f4ef31ca13eed1f9314cc1918f315</guid>
+      <pubDate>Thu, 20 Aug 2026 21:00:03 GMT</pubDate>
+      <description><![CDATA[Like many modern humans, especially those of us who are regularly bombarded by various technologies, I spend way too much time being distracted by “stuff” that doesn’t really matter, from news feeds to emails and text messages and what we’ve come to call social and streaming media—not to mention more traditional forms of the entertainment […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Ruling overturns land trade in Alaska wildlife refuge, casts doubt on road plan</title>
+      <link>https://alaskabeacon.com/2026/08/20/ruling-overturns-land-trade-in-alaska-wildlife-refuge-casts-doubt-on-road-plan/</link>
+      <guid isPermaLink="false">75810b2373f3d515474c7557cc9157fcca783407</guid>
+      <pubDate>Thu, 20 Aug 2026 20:17:41 GMT</pubDate>
+      <description><![CDATA[A federal judge has overturned the land exchange intended to enable the state to build a controversial road through the Izembek National Wildlife Refuge, possibly halting plans for construction to start in the coming weeks. U.S. District Court Judge Sharon Gleason ruled Tuesday that the Department of the Interior violated three laws when it approved […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Juneau Assembly approves Sealaska Heritage Institute’s $1.5M bid for city hall</title>
@@ -303,20 +319,60 @@
       <category>local</category>
     </item>
     <item>
-      <title>Healy Man Arrested for DUI and Assault on an Officer</title>
-      <link>https://alaska-native-news.com/healy-man-arrested-for-dui-and-assault-on-an-officer/85727/</link>
-      <guid isPermaLink="false">3e31aa53b3313413241b2b040b5225c29e4c3cc8</guid>
-      <pubDate>Wed, 19 Aug 2026 14:03:28 GMT</pubDate>
-      <description><![CDATA[On Monday at approximately 4:15 pm, Soldotna Troopers responded to a report of an active disturbance involving 46-year-old Clint Robert Healy of Soldotna. The initial report indicated Healy was intoxicated and had almost crashed his vehicle into a motor home that was occupied at the time. Following the near collision, Healy reportedly approached the motor […]]]></description>
-      <category>local</category>
+      <title>California controller candidate slams massive education spending despite worse student results</title>
+      <link>https://www.foxnews.com/politics/california-controller-candidate-slams-massive-education-spending-despite-worse-student-results</link>
+      <guid isPermaLink="false">5e83453afa64929fa1a1f842fcf62ac164092cf7</guid>
+      <pubDate>Thu, 20 Aug 2026 21:17:52 GMT</pubDate>
+      <description><![CDATA[Herb Morgan says California's per-pupil spending jumped from $16,300 to $27,400 yet test scores trail states spending half as much on education.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>St. Mary Woman Dies in ATV Accident</title>
-      <link>https://alaska-native-news.com/st-mary-woman-dies-in-atv-accident/85729/</link>
-      <guid isPermaLink="false">5c8ac070e3cc22062f46521d4462e535689239dd</guid>
-      <pubDate>Wed, 19 Aug 2026 14:02:51 GMT</pubDate>
-      <description><![CDATA[On Saturday, at approximately 10:42 p.m., Alaska State Troopers were notified of an ATV accident in Pitkas Point involving an adult woman who had become pinned beneath the vehicle. Initial responders were able to remove the ATV and immediately began life-saving efforts. Despite their attempts to revive her, 42-year-old Eileen Prince of Saint Mary’s was […]]]></description>
-      <category>local</category>
+      <title>Cancer vaccine prevents deadly melanoma from returning or spreading in landmark trial</title>
+      <link>https://www.foxnews.com/health/cancer-vaccine-prevents-deadly-melanoma-returning-spreading-landmark-trial</link>
+      <guid isPermaLink="false">92414077172980f75b6e5ff3928967aff4b5b355</guid>
+      <pubDate>Thu, 20 Aug 2026 20:49:47 GMT</pubDate>
+      <description><![CDATA[Merck and Moderna's mRNA cancer vaccine hit its Phase 3 trial endpoint, showing improved recurrence-free survival in melanoma patients after surgery.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Frank Isola comments on Michael Wilbon naming him preferred 'PTI' co-host when Tony Kornheiser retires</title>
+      <link>https://www.foxnews.com/outkick-sports/frank-isola-comments-michael-wilbon-naming-him-preferred-pti-co-host-tony-kornheiser-retires</link>
+      <guid isPermaLink="false">bc046d180179d376acb40d3c53644977eff81526</guid>
+      <pubDate>Thu, 20 Aug 2026 20:45:24 GMT</pubDate>
+      <description><![CDATA[Tony Kornheiser and Michael Wilbon signed new three-year ESPN deals, but "Pardon the Interruption" faces major questions about its future.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sean Duffy faces family dilemma over embattled Ivy League school and Christian values</title>
+      <link>https://www.foxnews.com/politics/sean-duffy-faces-family-dilemma-embattled-ivy-league-school-christian-values</link>
+      <guid isPermaLink="false">754b347a7835b8a773a8ace21caa83d052029525</guid>
+      <pubDate>Thu, 20 Aug 2026 20:41:09 GMT</pubDate>
+      <description><![CDATA[Sean Duffy accused Harvard University of indoctrinating students with views contrary to his Catholic faith as his daughter Paloma eyes admission.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment</title>
+      <link>https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8fa036f59528c4abbc430516dbc530276efc2c7a</guid>
+      <pubDate>Thu, 20 Aug 2026 20:40:17 GMT</pubDate>
+      <description><![CDATA[Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dozens dead after boat capsizes in north-western Nigeria</title>
+      <link>https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7e1d630fe606ca37731b1a8e1e0561a084a7a51c</guid>
+      <pubDate>Thu, 20 Aug 2026 20:27:36 GMT</pubDate>
+      <description><![CDATA[The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>IndyCar driver Graham Rahal reflects on opportunity to compete at Freedom 250 Grand Prix: 'Iconic moment'</title>
+      <link>https://www.foxnews.com/outkick-sports/indycar-driver-graham-rahal-reflects-opportunity-compete-freedom-250-grand-prix-iconic-moment</link>
+      <guid isPermaLink="false">1d529d593eb65e5732caa9fa89f123b2db3fe14f</guid>
+      <pubDate>Thu, 20 Aug 2026 20:27:18 GMT</pubDate>
+      <description><![CDATA[Graham Rahal calls the Freedom Grand Prix 250 an "iconic moment" as IndyCar prepares to race through Washington, D.C., streets past Capitol Hill.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>First lady Melania Trump, Fox Corporation announce landmark strategic alliance to grow Fostering the Future</title>
@@ -412,62 +468,6 @@
       <guid isPermaLink="false">910d737212cb1974cfdb9899f21b60dd76ecd604</guid>
       <pubDate>Thu, 20 Aug 2026 19:19:20 GMT</pubDate>
       <description><![CDATA[The US treasury secretary says allies will need to decide whether they "are with us or against us".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project</title>
-      <link>https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e28573af70a11c85948380aee907f99ccaf668d3</guid>
-      <pubDate>Thu, 20 Aug 2026 18:55:14 GMT</pubDate>
-      <description><![CDATA[European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Moskowitz rejects Rick Scott's claims he's 'scared to death' of socialists, beholden to Hasan Piker</title>
-      <link>https://www.foxnews.com/media/moskowitz-rejects-rick-scott-claim-scared-death-socialists-beholden-hasan-piker</link>
-      <guid isPermaLink="false">68a9667e8c6024e2920c234a62db56fdb77f1997</guid>
-      <pubDate>Thu, 20 Aug 2026 18:53:11 GMT</pubDate>
-      <description><![CDATA[Jared Moskowitz fires back at Rick Scott's claim that he takes marching orders from streamer Hasan Piker and the Democratic Socialists of America.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dem mayor torches DNC in scathing letter for 'abandoning' Black voters after convention snub</title>
-      <link>https://www.foxnews.com/politics/dem-mayor-torches-dnc-scathing-letter-abandoning-black-voters-2028-convention-snub</link>
-      <guid isPermaLink="false">e94cebe4ef70febbb244e742e4916818ad07ace8</guid>
-      <pubDate>Thu, 20 Aug 2026 18:29:24 GMT</pubDate>
-      <description><![CDATA[Atlanta Mayor accused DNC of “abandoning" the South and Black voters in scathing letter to national party leadership after Atlanta got cut from hosting the 2028 Democratic National Convention.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Arctic power play gives top US adversary new opening with Russia as US stakes grow</title>
-      <link>https://www.foxnews.com/world/arctic-power-play-gives-top-us-adversary-new-opening-russia-us-stakes-grow</link>
-      <guid isPermaLink="false">e0b8815a6f55e92f2d72a84407886f4c6807a235</guid>
-      <pubDate>Thu, 20 Aug 2026 18:22:17 GMT</pubDate>
-      <description><![CDATA[China launched seasonal container service to Europe via Russia's Arctic Northern Sea Route, raising U.S. concerns over the Polar Silk Road strategy.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fox News ‘Antisemitism Exposed’ Newsletter: Hometown Judge backs Harvard, tosses antisemitism suit</title>
-      <link>https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hometown-judge-backs-harvard-tosses-antisemitism-suit</link>
-      <guid isPermaLink="false">a817770f4ef0beaaaeccd7312ca7774a2df28c02</guid>
-      <pubDate>Thu, 20 Aug 2026 18:21:31 GMT</pubDate>
-      <description><![CDATA[Fox News' "Antisemitism Exposed" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Man plunges 120 feet into creek while taking photo at famous national park</title>
-      <link>https://www.foxnews.com/travel/man-plunges-120-feet-creek-while-taking-photo-famous-national-park</link>
-      <guid isPermaLink="false">fb62b700a1e6c1e839548ff86e0fbb768ce94d94</guid>
-      <pubDate>Thu, 20 Aug 2026 18:18:49 GMT</pubDate>
-      <description><![CDATA[Tourist Ken Nurse was hoisted by helicopter from McDonald Creek after a serious 120-foot cliff fall at Glacier National Park in Montana. A bystander aided in his rescue.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Harry and Meghan's return to UK reignites questions over security</title>
-      <link>https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6f9ad7bd7ba348eeb888391e4009d0b095d32c15</guid>
-      <pubDate>Thu, 20 Aug 2026 18:12:59 GMT</pubDate>
-      <description><![CDATA[Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.]]></description>
       <category>world</category>
     </item>
     <item>
