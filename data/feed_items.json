@@ -1,5 +1,15 @@
 [
   {
+    "title": "US Supreme Court allows $400M Trump ballroom project to proceed",
+    "link": "https://alaskabeacon.com/2026/08/21/repub/us-supreme-court-allows-400m-trump-ballroom-project-to-proceed/",
+    "description": "President Donald Trump can continue building a White House ballroom for now, the U.S. Supreme Court ruled Friday, reversing a federal judge\u2019s order that barred above-ground construction on the grounds of the former East Wing.",
+    "pubDate": "Fri, 21 Aug 2026 21:48:32 GMT",
+    "category": "alaska",
+    "tag": "alaska",
+    "source": "Alaska Beacon",
+    "rank": 100
+  },
+  {
     "title": "Tropical Storm Moke forms in the Pacific, threatening tropical downpours and flash flooding in Hawaii",
     "link": "https://www.foxweather.com/weather-news/tropical-storm-moke-forms-pacific-threatening-tropical-downpours-flash-flooding-hawaii",
     "description": "Just days after Hurricane Lala hammered the Hawaiian Islands, Tropical Storm Moke will make a close pass by the Big Island and unleash a dangerous threat of heavy rain, flooding and damaging winds.",
@@ -390,14 +400,94 @@
     "rank": 100
   },
   {
-    "title": "Letters to the editor",
-    "link": "https://www.homernews.com/2026/08/20/letters-to-the-editor-428/",
-    "description": "South Peninsula Hospital board should be elected",
-    "pubDate": "Thu, 20 Aug 2026 11:30:00 GMT",
-    "category": "kenai",
-    "tag": "alaska",
-    "source": "Homer News",
-    "rank": 100
+    "title": "Iryna Zarutska's family files wrongful death lawsuit alleging no security guard was on train",
+    "link": "https://www.foxnews.com/us/iryna-zarutska-family-files-wrongful-death-lawsuit-alleging-no-security-guard-train",
+    "description": "The wrongful death lawsuit alleges no security guard was aboard the Charlotte light rail train when Iryna Zarutska was fatally stabbed in 2025.",
+    "pubDate": "Fri, 21 Aug 2026 22:03:13 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+    "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+    "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+    "pubDate": "Fri, 21 Aug 2026 22:00:23 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "ESPN confirms LSU-Ole Miss as College Gameday's week three destination amid speculation",
+    "link": "https://www.foxnews.com/outkick-sports/espn-confirms-lsu-ole-miss-college-gameday-week-three-destination-amid-speculation",
+    "description": "Lane Kiffin returns to Oxford as LSU's coach for the Magnolia Bowl, with College Gameday confirmed and available tickets starting in the $600 range.",
+    "pubDate": "Fri, 21 Aug 2026 21:50:11 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Vance unloads on El-Sayed over Sharia remarks: \u2018That\u2019s not my grandpa\u2019s Democratic Party\u2019",
+    "link": "https://www.foxnews.com/politics/vance-unloads-el-sayed-sharia-remarks-not-my-grandpas-democratic-party",
+    "description": "JD Vance targeted Abdul El-Sayed's past remarks linking Sharia law criticism to White supremacy, arguing Democrats have abandoned union workers.",
+    "pubDate": "Fri, 21 Aug 2026 21:35:50 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Former acting US Attorney Andrew Haden found dead in San Diego federal building: police",
+    "link": "https://www.foxnews.com/politics/former-acting-us-attorney-andrew-haden-found-dead-san-diego-federal-building-police",
+    "description": "Andrew Haden, 48, who ran the office after Trump fired Biden appointee Tara McGrath, was found dead in a San Diego federal building Wednesday.",
+    "pubDate": "Fri, 21 Aug 2026 21:33:14 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Meghan Markle\u2019s acting return could spark fresh problems with Prince William, Kate Middleton: expert",
+    "link": "https://www.foxnews.com/entertainment/meghan-markle-acting-return-spark-fresh-problems-prince-william-kate-middleton-expert",
+    "description": "Meghan Markle's planned return to acting follows struggles with Netflix and Spotify ventures, and experts say she needs a role that shocks audiences.",
+    "pubDate": "Fri, 21 Aug 2026 21:30:44 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Hayden Panettiere\u2019s boyfriend\u2019s brother reveals what happened inside Airbnb before actress's death",
+    "link": "https://www.foxnews.com/entertainment/hayden-panettiere-boyfriends-brother-reveals-what-happened-inside-airbnb-before-actress-death",
+    "description": "Brian Hickerson's brother detailed the moments before calling 911 for Hayden Panettiere, pushing back against speculation surrounding her death.",
+    "pubDate": "Fri, 21 Aug 2026 21:23:37 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Top-ranked Jannik Sinner withdraws from US Open with right knee injury: 'Sad and disappointed'",
+    "link": "https://www.foxnews.com/outkick-sports/top-ranked-jannik-sinner-withdraws-us-open-right-knee-injury-sad-disappointed",
+    "description": "Top-ranked Jannik Sinner announced that he is withdrawing from the 2026 U.S. Open with a right knee injury, marking his first missed Grand Slam tournament since 2019.",
+    "pubDate": "Fri, 21 Aug 2026 21:21:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Ms Rachel speaks out on Black hanging cases as Raleigh death is declared suicide",
+    "link": "https://www.foxnews.com/media/ms-rachel-speaks-out-black-hanging-cases-raleigh-death-declared-suicide",
+    "description": "Children's YouTuber Ms. Rachel posted a video claiming Black people \"don't hang themselves from trees\" after Raleigh police ruled a death a suicide.",
+    "pubDate": "Fri, 21 Aug 2026 21:15:53 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
@@ -510,100 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-    "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-    "description": "The temporary order will allow the $400m (\u00a3297m) to continue while the high court mulls a final decision on the case.",
-    "pubDate": "Fri, 21 Aug 2026 19:52:48 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "One killed in sword attack at Swedish school",
-    "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-    "description": "One person remains in a critical condition, while another suffered minor injuries in the attack.",
-    "pubDate": "Fri, 21 Aug 2026 19:22:05 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Trump-appointed judge blocks blue state's crackdown on ICE detention center",
-    "link": "https://www.foxnews.com/politics/trump-appointed-judge-blocks-blue-states-crackdown-ice-detention-center",
-    "description": "A federal judge blocked Colorado's unannounced inspection mandate targeting GEO Group's Aurora ICE detention center, citing the Supremacy Clause.",
-    "pubDate": "Fri, 21 Aug 2026 19:18:17 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
-    "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
-    "description": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak.",
-    "pubDate": "Fri, 21 Aug 2026 19:13:43 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Jim Harbaugh is unhappy with his punter's embarrassingly weak tackle attempt on a touchdown return",
-    "link": "https://www.foxnews.com/outkick-sports/jim-harbaugh-unhappy-punter-embarrassingly-weak-tackle-attempt-touchdown-return",
-    "description": "Jim Harbaugh ripped punter JK Scott for refusing to attempt a tackle on Jacob Cowing's 80-yard punt return against the Chargers in preseason.",
-    "pubDate": "Fri, 21 Aug 2026 19:12:34 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Supreme Court allows Trump\u2019s White House ballroom construction to continue for now",
-    "link": "https://www.foxnews.com/politics/supreme-court-allows-trumps-white-house-ballroom-construction-continue",
-    "description": "Chief Justice John Roberts issued a stay allowing above-ground White House ballroom construction to continue as the Supreme Court weighs the case.",
-    "pubDate": "Fri, 21 Aug 2026 19:11:22 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Americans warned of kidnapping, extortion as violent crime grips parts of tourist spot",
-    "link": "https://www.foxnews.com/travel/americans-warned-kidnapping-extortion-violent-crime-grips-parts-tourist-spot",
-    "description": "The State Department's Ecuador advisory flags violent crime, kidnapping and terrorism \u2014 but Quito and the Galapagos Islands avoid the harshest warnings.",
-    "pubDate": "Fri, 21 Aug 2026 18:56:40 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Cambridge professor's death after resignation sparking dangerous calls for media censorship, scholar warns",
-    "link": "https://www.foxnews.com/media/cambridge-professors-death-after-resignation-sparking-dangerous-calls-media-censorship-scholar-warns",
-    "description": "FIRE scholar Sarah McLaughlin warned that calls for a government media inquiry after ex-Cambridge professor Jason Arday's death could become dangerous.",
-    "pubDate": "Fri, 21 Aug 2026 18:56:26 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-    "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-    "description": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
-    "pubDate": "Fri, 21 Aug 2026 18:51:43 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon - Scattered Rain Showers",
+    "title": "Anchorage Weather: Today - Scattered Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "60\u00b0F. Wind SW 5 mph. Scattered rain showers. Mostly sunny, with a high near 60. Southwest wind around 5 mph. Chance of precipitation is 30%.",
-    "pubDate": "Fri, 21 Aug 2026 21:19:07 GMT",
+    "description": "60\u00b0F. Wind SW 5 mph. Scattered rain showers. Partly sunny, with a high near 60. Southwest wind around 5 mph. Chance of precipitation is 30%.",
+    "pubDate": "Fri, 21 Aug 2026 22:19:11 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Scattered Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "52\u00b0F. Wind S 0 to 5 mph. Scattered rain showers. Mostly cloudy, with a low around 52. South wind 0 to 5 mph. Chance of precipitation is 40%.",
-    "pubDate": "Fri, 21 Aug 2026 21:19:07 GMT",
+    "pubDate": "Fri, 21 Aug 2026 22:19:11 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Saturday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "57\u00b0F. Wind NE 0 to 5 mph. Scattered rain showers before 10am, then rain likely. Cloudy, with a high near 57. Northeast wind 0 to 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Fri, 21 Aug 2026 21:19:07 GMT",
+    "pubDate": "Fri, 21 Aug 2026 22:19:11 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Saturday Night - Light Rain Likely then Scattered Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "49\u00b0F. Wind N 0 to 5 mph. Rain likely before 10pm, then scattered rain showers. Mostly cloudy, with a low around 49. North wind 0 to 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Fri, 21 Aug 2026 21:19:07 GMT",
+    "pubDate": "Fri, 21 Aug 2026 22:19:11 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Sunday - Isolated Rain Showers then Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "63\u00b0F. Wind NW 5 mph. Isolated rain showers before 7am. Partly sunny, with a high near 63. Northwest wind around 5 mph.",
-    "pubDate": "Fri, 21 Aug 2026 21:19:07 GMT",
+    "pubDate": "Fri, 21 Aug 2026 22:19:11 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
