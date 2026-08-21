@@ -400,6 +400,26 @@
     "rank": 100
   },
   {
+    "title": "French becoming more effective in stopping small boat crossings, UK says",
+    "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
+    "description": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics.",
+    "pubDate": "Fri, 21 Aug 2026 08:26:01 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "El Ni\u00f1o warming set to be 'strongest in living memory', warns Met Office",
+    "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+    "description": "Scientists say the growing El Ni\u00f1o weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+    "pubDate": "Fri, 21 Aug 2026 07:43:30 GMT",
+    "category": "weather",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
     "title": "Five missing after fire in Swiss Alpine town",
     "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
     "description": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
@@ -457,6 +477,16 @@
     "category": "world",
     "tag": "world",
     "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+    "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+    "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+    "pubDate": "Fri, 21 Aug 2026 05:47:32 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
     "rank": 10
   },
   {
@@ -570,40 +600,10 @@
     "rank": 10
   },
   {
-    "title": "No, the Dodgers didn't sign Shohei Ohtani or build a superteam because of Mark Walter's loans",
-    "link": "https://www.foxnews.com/outkick-sports/dodgers-didnt-sign-shohei-ohtani-build-superteam-mark-walters-loans",
-    "description": "Deferred contracts have existed in MLB for decades, with dozens of players across the league currently using them, not just the Los Angeles Dodgers.",
-    "pubDate": "Fri, 21 Aug 2026 03:38:02 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Paige Bueckers grabs Caitlin Clark\u2019s arm, draws foul in tense moment before halftime of Wings win over Fever",
-    "link": "https://www.foxnews.com/outkick-sports/paige-bueckers-grabs-caitlin-clarks-arm-draws-foul-tense-moment-halftime-wings-win-fever",
-    "description": "Caitlin Clark lashed out at Paige Bueckers after a halftime foul in the Indiana Fever vs. Dallas Wings game, sparking a fiery on-court exchange.",
-    "pubDate": "Fri, 21 Aug 2026 03:11:11 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "What happened to Harry and Meghan's American dream?",
-    "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
-    "description": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
-    "pubDate": "Fri, 21 Aug 2026 02:57:34 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Tonight - Widespread Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "52\u00b0F. Wind N 0 to 5 mph. Widespread rain showers. Mostly cloudy, with a low around 52. North wind 0 to 5 mph. Chance of precipitation is 80%.",
-    "pubDate": "Fri, 21 Aug 2026 07:38:28 GMT",
+    "pubDate": "Fri, 21 Aug 2026 08:34:26 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Friday - Scattered Rain Showers then Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "61\u00b0F. Wind SW 0 to 5 mph. Scattered rain showers before 4pm, then a chance of rain. Mostly cloudy, with a high near 61. Southwest wind 0 to 5 mph. Chance of precipitation is 50%.",
-    "pubDate": "Fri, 21 Aug 2026 07:38:28 GMT",
+    "pubDate": "Fri, 21 Aug 2026 08:34:26 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Friday Night - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "50\u00b0F. Wind S 5 mph. A chance of rain. Mostly cloudy, with a low around 50. South wind around 5 mph. Chance of precipitation is 50%.",
-    "pubDate": "Fri, 21 Aug 2026 07:38:28 GMT",
+    "pubDate": "Fri, 21 Aug 2026 08:34:26 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Saturday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "58\u00b0F. Wind E 0 to 5 mph. Rain likely. Cloudy, with a high near 58. East wind 0 to 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Fri, 21 Aug 2026 07:38:28 GMT",
+    "pubDate": "Fri, 21 Aug 2026 08:34:26 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Saturday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "48\u00b0F. Wind N 0 to 5 mph. Rain likely. Cloudy, with a low around 48. North wind 0 to 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Fri, 21 Aug 2026 07:38:28 GMT",
+    "pubDate": "Fri, 21 Aug 2026 08:34:26 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
