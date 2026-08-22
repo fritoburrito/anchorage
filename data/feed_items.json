@@ -1,5 +1,25 @@
 [
   {
+    "title": "Bryan Norcross: Tropical Storm Moke's rains arrive in Hawaii late tonight, plus an Atlantic system to watch",
+    "link": "https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-storm-moke-hawaii-hurricane",
+    "description": "FOX Weather Hurricane Specialist Bryan Norcross provides exclusive analysis on Tropical Storm Moke's latest track and brewing activity in the Atlantic and Pacific basins.",
+    "pubDate": "Sat, 22 Aug 2026 13:37:43 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "OPINION: Sullivan, Trump and the price of political loyalty",
+    "link": "https://www.homernews.com/2026/08/22/opinion-sullivan-trump-and-the-price-of-political-loyalty/",
+    "description": "Dan Sullivan has hitched Alaska\u2019s political wagon to Donald Trump as Trump\u2019s presidency is showing its deepest cracks.",
+    "pubDate": "Sat, 22 Aug 2026 13:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
     "title": "I went to the Woods: Turning the noise off",
     "link": "https://www.juneauempire.com/2026/08/22/i-went-to-the-woods-turning-the-noise-off/",
     "description": "The podcast ended just about as I was ready to drop anchor. I took out my earbuds, took the raft off the top of our new boat, filled it with three bags of concrete, my chainsaw, lunch, and building materials and tools, inflated the raft, attached the raft to my life jacket, got in my pack raft, and started rowing to shore with nothing but the wind through the trees.",
@@ -380,24 +400,54 @@
     "rank": 100
   },
   {
-    "title": "Arizona could face more severe storms after monsoon dust storms left thousands in the dark across Phoenix",
-    "link": "https://www.foxweather.com/weather-news/arizona-severe-dust-storm-monsoon-phoenix-power-outage",
-    "description": "Monsoon thunderstorms threaten to bubble up again beginning Thursday afternoon across parts of Arizona, including Phoenix and Tucson. Dust storms and damaging wind gusts will be the biggest threat after monsoon storms knocked out power to over 32,000 customers Wednesday.",
-    "pubDate": "Thu, 20 Aug 2026 17:06:44 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Travelers rage as budget airline plans overhead bag fee: 'Highway robbery'",
+    "link": "https://www.foxnews.com/travel/travelers-rage-budget-airline-plans-overhead-bag-fee-highway-robbery",
+    "description": "Budget airline passengers will soon have to pay extra money to put their carry-on bags in an overhead bin, and many travelers are already complaining about the extra charges.",
+    "pubDate": "Sat, 22 Aug 2026 14:00:52 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Repair plan in place for Skagway Ferry Terminal",
-    "link": "https://www.juneauempire.com/2026/08/20/repair-plan-in-place-for-skagway-ferry-terminal/",
-    "description": "All ferry operations were suspended on Aug. 15 after cracks in concrete were found",
-    "pubDate": "Thu, 20 Aug 2026 16:30:00 GMT",
-    "category": "southeast",
-    "tag": "alaska",
-    "source": "Juneau Empire",
-    "rank": 100
+    "title": "Skillet\u2019s John Cooper says Christians who call rock music \u2018demonic\u2019 are \u2018getting the gospel wrong\u2019",
+    "link": "https://www.foxnews.com/entertainment/skillets-john-cooper-says-christians-call-rock-music-demonic-getting-gospel-wrong",
+    "description": "John Cooper says Christians calling rock music \"demonic\" are \"getting the gospel wrong\" as Skillet becomes first Christian rock band with 1 billion Spotify streams.",
+    "pubDate": "Sat, 22 Aug 2026 14:00:41 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "USPS publishes rule to block mail-in ballots from states that don't provide voter lists",
+    "link": "https://www.foxnews.com/politics/usps-publishes-rule-block-mail-in-ballots-states-dont-provide-voter-lists",
+    "description": "USPS finalized a rule requiring states to share voter lists for mail-in ballots, but a federal injunction on Trump's executive order blocks it.",
+    "pubDate": "Sat, 22 Aug 2026 14:00:37 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Fourteen killed in strike on Myanmar monastery",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+    "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+    "pubDate": "Sat, 22 Aug 2026 13:48:06 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Golfer Paige Spiranac leaves playing partner speechless with awkward question, LLWS mud & WNBA wiki pages",
+    "link": "https://www.foxnews.com/outkick-sports/golfer-paige-spiranac-leaves-playing-partner-speechless-awkward-question-llws-mud-wnba-wiki-pages",
+    "description": "Paige Spiranac and LPGA veteran Mel Reid play a hilarious \"F, Marry, Kill\" game on the golf course that leaves Reid completely speechless and laughing.",
+    "pubDate": "Sat, 22 Aug 2026 13:45:10 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -550,60 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Dem Senate hopeful racked up hundreds of missed votes during stops at multiple taxpayer serving jobs",
-    "link": "https://www.foxnews.com/politics/dem-senate-hopeful-racked-hundreds-missed-votes-stops-multiple-taxpayer-serving-jobs",
-    "description": "Democratic Senate nominee Mary Peltola missed 794 of 4,265 Alaska House votes and over a third of Bethel City Council meetings, records show.",
-    "pubDate": "Sat, 22 Aug 2026 12:00:05 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
-    "link": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
-    "description": "MLB catcher Jake Rogers probably didn't know if he was coming or going the last several weeks: he's been a Detroit Tiger, a Baltimore Oriole, a Boston Red Sox, and now he's a Chicago White Sox.",
-    "pubDate": "Sat, 22 Aug 2026 12:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Here are five tunes to blast this weekend in honor of late ZZ Top drummer Frank Beard",
-    "link": "https://www.foxnews.com/outkick-culture/five-tunes-blast-weekend-honor-late-zz-top-drummer-frank-beard",
-    "description": "Frank Beard's death leaves Billy Gibbons as ZZ Top's sole original member. These essential songs showcase the drummer's iconic blues rock groove.",
-    "pubDate": "Sat, 22 Aug 2026 11:58:30 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Start your engines: Here is your crash course on the IndyCar Freedom 250 Grand Prix weekend",
-    "link": "https://www.foxnews.com/outkick-sports/start-your-engines-crash-course-indycar-freedom-250-grand-prix-weekend",
-    "description": "The Freedom 250 Grand Prix brings IndyCar racing to Pennsylvania Avenue with views of the Capitol building after Trump's executive order in January.",
-    "pubDate": "Sat, 22 Aug 2026 11:38:08 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Woman claims NY Liberty tried to change her 'XX-XY' paid scoreboard message for halftime of Fever game",
-    "link": "https://www.foxnews.com/outkick-sports/woman-claims-ny-liberty-tried-change-xx-xy-paid-scoreboard-message-halftime-fever-game",
-    "description": "Julie Potter says the New York Liberty censored her paid scoreboard message thanking Jennifer Sey and XX-XY Athletics before the Liberty vs Fever game.",
-    "pubDate": "Sat, 22 Aug 2026 11:26:02 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Overnight - Scattered Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "52\u00b0F. Wind  0 mph. Scattered rain showers. Cloudy, with a low around 52. Northeast wind around 0 mph. Chance of precipitation is 30%.",
-    "pubDate": "Sat, 22 Aug 2026 13:27:38 GMT",
+    "description": "52\u00b0F. Wind  0 mph. Scattered rain showers. Cloudy, with a low around 52. East wind around 0 mph. Chance of precipitation is 40%.",
+    "pubDate": "Sat, 22 Aug 2026 14:16:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Saturday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "56\u00b0F. Wind N 0 to 5 mph. Scattered rain showers before 10am, then rain likely. Cloudy, with a high near 56. North wind 0 to 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sat, 22 Aug 2026 13:27:38 GMT",
+    "pubDate": "Sat, 22 Aug 2026 14:16:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Saturday Night - Light Rain Likely then Scattered Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "50\u00b0F. Wind N 5 mph. Rain likely before 7pm, then scattered rain showers between 7pm and 1am, then patchy fog and isolated rain showers. Mostly cloudy, with a low around 50. North wind around 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sat, 22 Aug 2026 13:27:38 GMT",
+    "pubDate": "Sat, 22 Aug 2026 14:16:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Sunday - Patchy Fog then Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "63\u00b0F. Wind NW 0 to 5 mph. Patchy fog and isolated rain showers before 10am. Mostly sunny, with a high near 63. Northwest wind 0 to 5 mph.",
-    "pubDate": "Sat, 22 Aug 2026 13:27:38 GMT",
+    "pubDate": "Sat, 22 Aug 2026 14:16:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Sunday Night - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "48\u00b0F. Wind S 0 to 5 mph. Partly cloudy, with a low around 48. South wind 0 to 5 mph.",
-    "pubDate": "Sat, 22 Aug 2026 13:27:38 GMT",
+    "pubDate": "Sat, 22 Aug 2026 14:16:24 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
