@@ -23,18 +23,10 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon - Light Rain Likely</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 23 Aug 2026 01:01:28 GMT</pubDate>
-      <description><![CDATA[56°F. Wind N 5 mph. Rain likely. Cloudy, with a high near 56. North wind around 5 mph. Chance of precipitation is 60%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight - Light Rain Likely then Scattered Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 23 Aug 2026 01:01:28 GMT</pubDate>
+      <pubDate>Sun, 23 Aug 2026 02:57:31 GMT</pubDate>
       <description><![CDATA[51°F. Wind N 5 mph. Rain likely before 7pm, then scattered rain showers between 7pm and 1am, then patchy fog and isolated rain showers. Cloudy, with a low around 51. North wind around 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +34,7 @@
       <title>Anchorage Weather: Sunday - Patchy Fog then Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 23 Aug 2026 01:01:28 GMT</pubDate>
+      <pubDate>Sun, 23 Aug 2026 02:57:31 GMT</pubDate>
       <description><![CDATA[65°F. Wind NW 0 to 5 mph. Patchy fog and isolated rain showers before 10am. Mostly sunny, with a high near 65. Northwest wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +42,7 @@
       <title>Anchorage Weather: Sunday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 23 Aug 2026 01:01:28 GMT</pubDate>
+      <pubDate>Sun, 23 Aug 2026 02:57:31 GMT</pubDate>
       <description><![CDATA[49°F. Wind S 0 to 5 mph. Partly cloudy, with a low around 49. South wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,8 +50,16 @@
       <title>Anchorage Weather: Monday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 23 Aug 2026 01:01:28 GMT</pubDate>
+      <pubDate>Sun, 23 Aug 2026 02:57:31 GMT</pubDate>
       <description><![CDATA[63°F. Wind SW 0 to 5 mph. Partly sunny, with a high near 63. Southwest wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday Night - Rain Showers Likely</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 23 Aug 2026 02:57:31 GMT</pubDate>
+      <description><![CDATA[54°F. Wind S 0 to 5 mph. Rain showers likely after 10pm. Mostly cloudy, with a low around 54. South wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -279,12 +279,52 @@
       <category>local</category>
     </item>
     <item>
-      <title>Despite record low in veteran homelessness, half the states saw increases</title>
-      <link>https://alaskabeacon.com/2026/08/20/repub/despite-record-low-in-veteran-homelessness-half-the-states-saw-increases/</link>
-      <guid isPermaLink="false">91c32b072845b97e94243b4be65fbf25e5cf3b8c</guid>
-      <pubDate>Thu, 20 Aug 2026 23:34:12 GMT</pubDate>
-      <description><![CDATA[Veteran homelessness dipped slightly from 2024 to 2025, according to the latest results from the January 2025 point-in-time count. The U.S. Department of Housing and Urban Development counted 32,495 veterans experiencing homelessness, 387, or 1.2%, fewer than the previous year. HUD counted 18,877 veterans in shelters, and 13,518 living unsheltered in places not meant for […]]]></description>
-      <category>local</category>
+      <title>Restriction zone scheme for offenders to start in October</title>
+      <link>https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">09f697accaba01abdced877f51a436c44246f67a</guid>
+      <pubDate>Sun, 23 Aug 2026 02:37:03 GMT</pubDate>
+      <description><![CDATA[Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Police make arrest after gunfire during California high school football game leaves 1 dead</title>
+      <link>https://www.foxnews.com/us/police-arrest-gunfire-california-high-school-football-game-1-dead</link>
+      <guid isPermaLink="false">b199ae0ea4f0937f3c8248b4bcff9c38e044a138</guid>
+      <pubDate>Sun, 23 Aug 2026 01:53:37 GMT</pubDate>
+      <description><![CDATA[A 15-year-old was arrested on suspicion of murder and gang participation after a 17-year-old was fatally shot at a Bakersfield, California stadium.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Swedish sword attack victim was 17-year-old girl, police say</title>
+      <link>https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">91f9a2d4a4bb6e3183cdac7822c55ef5a1fcd76f</guid>
+      <pubDate>Sun, 23 Aug 2026 01:34:15 GMT</pubDate>
+      <description><![CDATA[Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bandido, Athena put on a show at Ring of Honor's Death Before Dishonor in Philadelphia</title>
+      <link>https://www.foxnews.com/outkick-sports/bandido-athena-show-ring-honor-death-before-dishonor-philadelphia</link>
+      <guid isPermaLink="false">d22dbadfce10dbc7c16c8a89f83431188cfb26df</guid>
+      <pubDate>Sun, 23 Aug 2026 01:23:27 GMT</pubDate>
+      <description><![CDATA[ROH Death Before Dishonor delivered two title changes and brutal matches at Philadelphia's 2300 Arena as Athena's historic reign hit 1,350 days.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Woman in her 30s who pretended to be a child and lived with family found guilty of fraud</title>
+      <link>https://www.foxnews.com/world/woman-30s-pretended-child-lived-family-found-guilty-fraud</link>
+      <guid isPermaLink="false">e0090019f586d8d466e7a8970b5eca8aa249125c</guid>
+      <pubDate>Sun, 23 Aug 2026 01:22:40 GMT</pubDate>
+      <description><![CDATA[Amanda Maria Souza de Oliveira, 37, lived with a family as their daughter for 14 months before her elaborate child identity fraud was uncovered.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Record heat takes aim at Southern Plains with Texas, Oklahoma in the bull's-eye</title>
+      <link>https://www.foxweather.com/weather-news/record-heat-shifts-southern-plains-texas-oklahoma-southwest</link>
+      <guid isPermaLink="false">45e7f95b2407d5eea6826924f54413ed2084afc6</guid>
+      <pubDate>Sun, 23 Aug 2026 00:50:11 GMT</pubDate>
+      <description><![CDATA[Relentless triple-digit heat is tightening its grip on the Southern Plains, with Texas and Oklahoma facing more potential records as worsening drought and a lack of rain add to the concern.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Hasan Piker sings mocking 'We Are Charlie Kirk' song at live podcast show</title>
@@ -407,14 +447,6 @@
       <category>world</category>
     </item>
     <item>
-      <title>‘Dukes of Hazzard’ star John Schneider admits he lied his way into iconic Bo Duke role at 18</title>
-      <link>https://www.foxnews.com/entertainment/dukes-of-hazzard-star-john-schneider-admits-lied-way-iconic-bo-duke-role-18</link>
-      <guid isPermaLink="false">0d03ee0c462e8ba33f165e91f98b6d342c742af9</guid>
-      <pubDate>Sat, 22 Aug 2026 21:38:34 GMT</pubDate>
-      <description><![CDATA[The Bo Duke actor revealed how he fabricated his age, hometown, and driving credentials to win over "Dukes of Hazzard" producers back in 1978.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Watch: 2 fishermen rescued after being trapped floating inside cooler in Pacific Ocean for several days</title>
       <link>https://www.foxweather.com/weather-news/video-fishermen-rescued-floating-cooler-pacific-ocean</link>
       <guid isPermaLink="false">65abeca9f28bfa3894cc8139d2dd69feddf47d4a</guid>
@@ -429,38 +461,6 @@
       <pubDate>Sat, 22 Aug 2026 21:17:15 GMT</pubDate>
       <description><![CDATA[A 68-year-old French tourist died after his vehicle became stuck on a remote road in Death Valley National Park, prompting him and his travel companion to set out for help as temperatures climbed to 116 degrees.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Reality star accused of upstaging bride with ‘too close to white’ gown at son’s wedding</title>
-      <link>https://www.foxnews.com/lifestyle/reality-star-accused-upstaging-bride-too-close-white-gown-sons-wedding</link>
-      <guid isPermaLink="false">ca765a60ee61941872158f5df9cd547301f4be88</guid>
-      <pubDate>Sat, 22 Aug 2026 21:09:12 GMT</pubDate>
-      <description><![CDATA[Dolores Catania's pale gown at her son's wedding ignited a Reddit debate over whether the RHONJ star violated wedding guest etiquette rules.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Judge denies Karmelo Anthony new-trial bid after ex-lawyers detail dispute that kept him from testifying</title>
-      <link>https://www.foxnews.com/us/judge-rules-carmelo-anthony-new-trial-bid-ex-lawyers-detail-dispute-kept-him-testifying</link>
-      <guid isPermaLink="false">bc9d8e187c84610a864d89c4af7e2c40152b3a21</guid>
-      <pubDate>Sat, 22 Aug 2026 21:00:26 GMT</pubDate>
-      <description><![CDATA[Karmelo Anthony's former lawyers testified that a dispute over an unwritten deal with prosecutors kept the convicted murderer from taking the stand.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump administration's 75-country visa ban was illegal, judge rules</title>
-      <link>https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries</link>
-      <guid isPermaLink="false">0bdab201e46432d8046295eeca60dc03f2eba8f6</guid>
-      <pubDate>Sat, 22 Aug 2026 20:53:19 GMT</pubDate>
-      <description><![CDATA[The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Federal judge blasts Rubio’s 75-country visa freeze as ‘Orwellian,’ strikes down policy</title>
-      <link>https://www.foxnews.com/politics/federal-judge-blasts-rubio-75-country-visa-freeze-orwellian-strikes-down-policy</link>
-      <guid isPermaLink="false">2771df16de63881ec0414ec093a8c753b01c5f5b</guid>
-      <pubDate>Sat, 22 Aug 2026 20:27:01 GMT</pubDate>
-      <description><![CDATA[A federal judge ruled Secretary of State Marco Rubio lacked authority to order immigrant visa denials for applicants from 75 countries found eligible.]]></description>
-      <category>politics</category>
     </item>
     <item>
       <title>First taste of fall on the way as cooler air targets the eastern US</title>
