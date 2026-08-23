@@ -360,6 +360,16 @@
     "rank": 100
   },
   {
+    "title": "Relentless downpours, waterspouts target the East as severe storms cool off parts of the Gulf Coast",
+    "link": "https://www.foxweather.com/weather-news/severe-weather-flooding-mid-atlantic-carolinas-east-coast-august-2026",
+    "description": "Rain and severe storms will keep the weekend soggy across the Northeast and Great Lakes on Sunday, with storm threats stretching south to Georgia and the Gulf Coast.",
+    "pubDate": "Fri, 21 Aug 2026 10:47:36 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "Torrential downpours, flash flooding to slam Mid-Atlantic, East Coast, threatening to paralyze weekend travel",
     "link": "https://www.foxweather.com/weather-news/severe-weather-flooding-mid-atlantic-carolinas-east-coast-august-2026",
     "description": "Torrential downpours and travel headaches will slam the Northeast and Mid-Atlantic today, placing Philadelphia, Baltimore and Washington, D.C. in the bull's-eye and under a Level 2 out of 4 flood risk as storms stall following this week's rare tornadoes.",
@@ -390,14 +400,74 @@
     "rank": 100
   },
   {
-    "title": "Tornado tears through Dover, Delaware, leaving significant damage, prompting state of emergency",
-    "link": "https://www.foxweather.com/weather-news/torando-rips-through-delaware-state-capital-triggering-state-emergency",
-    "description": "A confirmed tornado tore through Dover, Delaware, on Thursday evening, leaving significant damage across the state capital and prompting officials to declare a state of emergency.",
-    "pubDate": "Fri, 21 Aug 2026 00:42:05 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Nevada brush fire spreads to 10,500 acres as governor declares state of emergency",
+    "link": "https://www.foxnews.com/us/nevada-brush-fire-spreads-10500-acres-governor-declares-state-emergency",
+    "description": "Nevada Gov. Joe Lombardo declared a state of emergency as the Hawk Fire exploded across 10,500 acres, threatening 1,000 homes outside of Reno.",
+    "pubDate": "Sun, 23 Aug 2026 12:18:27 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "CrossCountry cancels 'almost all' UK services after power cut",
+    "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+    "description": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\".",
+    "pubDate": "Sun, 23 Aug 2026 12:05:37 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "AI agent hacks gym system to move up waitlist",
+    "link": "https://www.foxnews.com/tech/ai-agent-hacks-gym-system-move-up-waitlist",
+    "description": "An AI agent using Claude AI canceled another person's gym booking after finding a security flaw in the reservation system's authorization checks.",
+    "pubDate": "Sun, 23 Aug 2026 12:03:07 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Modern capitalism is turning 250, too. We need to remind Americans why it\u2019s important",
+    "link": "https://www.foxnews.com/opinion/modern-capitalism-turning-250-remind-americans-why-important",
+    "description": "Adam Smith's \"Wealth of Nations\" turns 250 as socialism gains ground among youth, and capitalism needs individual heroes to survive this test.",
+    "pubDate": "Sun, 23 Aug 2026 12:00:20 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Pasta factory expansion leads to stunning discovery of 2,600-year-old city of the dead",
+    "link": "https://www.foxnews.com/food-drink/pasta-factory-expansion-leads-stunning-discovery-2600-year-old-city-dead",
+    "description": "Pasta Garofalo's factory expansion in Gragnano uncovered burial chambers with grave goods connecting Greek, Egyptian and Etruscan civilizations.",
+    "pubDate": "Sun, 23 Aug 2026 12:00:11 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "White House revs up \u2018iconic\u2019 Freedom 250 race as IndyCars prepare to unleash American muscle on DC streets",
+    "link": "https://www.foxnews.com/politics/white-house-revs-up-iconic-freedom-250-race-indycars-prepare-unleash-american-muscle-dc-streets",
+    "description": "IndyCar racers hit the streets of Washington, D.C., at nearly 200 mph for the Freedom 250 Grand Prix, a first-of-its-kind America 250 celebration.",
+    "pubDate": "Sun, 23 Aug 2026 12:00:07 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "How to watch IndyCar\u2019s Freedom 250 Grand Prix race on Washington DC streets",
+    "link": "https://www.foxnews.com/outkick-sports/how-watch-indycars-freedom-250-grand-prix-race-washington-dc-streets",
+    "description": "The Freedom 250 Grand Prix brings IndyCar racing to Washington DC streets past the Capitol Building and down Pennsylvania Avenue this weekend.",
+    "pubDate": "Sun, 23 Aug 2026 11:59:51 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "Today\u2019s leftists are dangerously wrong about communism. Just listen to the survivors",
@@ -457,6 +527,16 @@
     "category": "world",
     "tag": "world",
     "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Mayors to get powers to overrule local councils on planning decisions",
+    "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+    "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+    "pubDate": "Sun, 23 Aug 2026 10:02:23 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
     "rank": 10
   },
   {
@@ -520,90 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Trump plays nuclear poker with Kim Jong Un \u2014 but who holds the cards?",
-    "link": "https://www.foxnews.com/politics/trump-plays-nuclear-poker-kim-jong-un-who-holds-cards",
-    "description": "Trump faces a stronger North Korea with 50-70 nuclear weapons and a powerful new partner in Russia, leaving denuclearization increasingly out of reach.",
-    "pubDate": "Sun, 23 Aug 2026 09:00:46 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
-    "link": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
-    "description": "The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis.",
-    "pubDate": "Sun, 23 Aug 2026 09:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-    "description": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-    "pubDate": "Sun, 23 Aug 2026 08:47:47 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister says",
-    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-    "description": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-    "pubDate": "Sun, 23 Aug 2026 08:02:22 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Fetterman aligns with Trump on AI push, warns China benefits from US 'overreaction'",
-    "link": "https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction",
-    "description": "Sen. John Fetterman rejected \"AI doomsdaying\" and echoed President Donald Trump's push for AI development, warning that U.S. overreaction could benefit China.",
-    "pubDate": "Sun, 23 Aug 2026 06:52:01 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
-    "link": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
-    "description": "PC Matthew Blades, PC Tom Clough and five teenagers were killed when a car carrying the teens drove the wrong way on the A66 and struck the police vehicle.",
-    "pubDate": "Sun, 23 Aug 2026 06:23:43 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-    "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-    "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
-    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-    "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-    "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Overnight - Isolated Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "51\u00b0F. Wind N 0 to 5 mph. Isolated rain showers before 4am, then patchy fog and isolated rain showers. Mostly cloudy, with a low around 51. North wind 0 to 5 mph. Chance of precipitation is 20%.",
-    "pubDate": "Sun, 23 Aug 2026 11:16:57 GMT",
+    "pubDate": "Sun, 23 Aug 2026 12:29:51 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Sunday - Patchy Fog then Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "65\u00b0F. Wind NW 0 to 5 mph. Patchy fog and isolated rain showers before 10am. Mostly sunny, with a high near 65. Northwest wind 0 to 5 mph. Chance of precipitation is 20%.",
-    "pubDate": "Sun, 23 Aug 2026 11:16:57 GMT",
+    "pubDate": "Sun, 23 Aug 2026 12:29:51 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Sunday Night - Mostly Clear",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "49\u00b0F. Wind S 0 to 5 mph. Mostly clear, with a low around 49. South wind 0 to 5 mph.",
-    "pubDate": "Sun, 23 Aug 2026 11:16:57 GMT",
+    "pubDate": "Sun, 23 Aug 2026 12:29:51 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Monday - Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "63\u00b0F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 63. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sun, 23 Aug 2026 11:16:57 GMT",
+    "pubDate": "Sun, 23 Aug 2026 12:29:51 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Monday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind SW 0 to 5 mph. Rain likely after 10pm. Mostly cloudy, with a low around 54. Southwest wind 0 to 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sun, 23 Aug 2026 11:16:57 GMT",
+    "pubDate": "Sun, 23 Aug 2026 12:29:51 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
