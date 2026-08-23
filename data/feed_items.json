@@ -1,5 +1,15 @@
 [
   {
+    "title": "Heavy rain to soak Southeast, Mid-South starting Tuesday as flash flood threat ramps up",
+    "link": "https://www.foxweather.com/weather-news/southeast-mid-south-heavy-rain-flash-flood-threat",
+    "description": "Many residents across the Mid-South and Southeast are bracing for multiple rounds of heavy rain with little relief in sight throughout the week.",
+    "pubDate": "Sun, 23 Aug 2026 17:50:20 GMT",
+    "category": "southeast",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "State of emergency declared as growing Hawk Fire rages in Nevada, with thousands ordered to evacuate",
     "link": "https://www.foxweather.com/weather-news/hawk-fire-rages-reno-nevada-thousands-evacuate",
     "description": "The rapidly growing Hawk Fire has burned more than 10,500 acres near Reno, prompting widespread evacuations and a state of emergency, with nearly 14,000 homes reportedly ordered to evacuate.",
@@ -390,14 +400,74 @@
     "rank": 100
   },
   {
-    "title": "This Day in Alaskan History-August 21st, 1914",
-    "link": "https://alaska-native-news.com/august-21st-1914/44146/",
-    "description": "The territory of Alaska\u2019s taxation laws were passed by the US Senate following passage in the US House on August 21st, 1914. The bill submitted by Delegate Wickersham validated the right of the territory to tax the railways in Alaska. Wickersham delivered the bill to WashingtonDC after Alaska\u2019s first Territorial Legislature enacted the laws. After [\u2026]",
-    "pubDate": "Fri, 21 Aug 2026 14:00:10 GMT",
-    "category": "politics",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Guinea rubbish landfill collapse kills 30",
+    "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+    "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+    "pubDate": "Sun, 23 Aug 2026 18:17:37 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+    "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+    "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+    "pubDate": "Sun, 23 Aug 2026 18:17:34 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Paulina Porizkova, Halle Berry and Elizabeth Hurley prove age is just a number in bikini photos",
+    "link": "https://www.foxnews.com/entertainment/paulina-porizkova-halle-berry-elizabeth-hurley-prove-age-just-number-bikini-photos",
+    "description": "Paulina Porizkova, Halle Berry, Elizabeth Hurley and more stars over 55 shared stunning bikini photos on Instagram proving age is just a number.",
+    "pubDate": "Sun, 23 Aug 2026 18:00:10 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Georgia Walmart shopper picks up $30 from the floor, local police launch search for him",
+    "link": "https://www.foxnews.com/us/georgia-walmart-shopper-picks-up-30-floor-local-police-launches-search",
+    "description": "The Albany Police Department's public search for a man who pocketed $30 inside a Walmart sparked widespread ridicule before the cash was returned.",
+    "pubDate": "Sun, 23 Aug 2026 17:57:52 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "'Golden Girls' kitchen comes to life with cheesecake and '80s nostalgia",
+    "link": "https://www.foxnews.com/food-drink/golden-girls-kitchen-comes-life-cheesecake-80s-nostalgia",
+    "description": "The Golden Girls Kitchen pop-up in Austin recreates the iconic sitcom's settings and serves cheesecake flights, Cuban sandwiches and meatball subs.",
+    "pubDate": "Sun, 23 Aug 2026 17:55:08 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Country singer Kacey Musgraves turns concert into plea for kids whose parents were deported 'unfairly'",
+    "link": "https://www.foxnews.com/media/country-singer-kacey-musgraves-turns-concert-into-plea-kids-whose-parents-were-deported-unfairly",
+    "description": "Kacey Musgraves asked fans at her Chicago tour opener to donate to the Young Center for Immigrant Children's Rights as ICE arrests hit record levels.",
+    "pubDate": "Sun, 23 Aug 2026 17:39:39 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "France links sharp rise in drownings to heatwaves",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+    "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+    "pubDate": "Sun, 23 Aug 2026 17:39:33 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
     "title": "Mexican governor facing US drug charges seeks leave just one day after returning to office",
@@ -437,6 +507,16 @@
     "category": "world",
     "tag": "world",
     "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Man arrested travelling to France after one dead and eight injured in London house fire",
+    "link": "https://www.bbc.co.uk/news/articles/cqlxlxy6z2no?at_medium=RSS&at_campaign=rss",
+    "description": "A 34-year-old man is arrested on suspicion of murder following a fatal fire in Hounslow.",
+    "pubDate": "Sun, 23 Aug 2026 16:38:24 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
     "rank": 10
   },
   {
@@ -520,90 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Thousands struggling without power in Indiana 12 days after severe storms",
-    "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-    "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-    "pubDate": "Sun, 23 Aug 2026 15:54:32 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Your bank may stop texting you six-digit codes",
-    "link": "https://www.foxnews.com/tech/bank-may-stop-texting-six-digit-codes",
-    "description": "MagicalAuth by Glide.id uses cryptographic SIM credentials to verify bank logins without sending SMS OTP codes that scammers can intercept or phish.",
-    "pubDate": "Sun, 23 Aug 2026 15:49:39 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "NASCAR legend Kurt Busch reveals the place he feels closest to his late brother Kyle",
-    "link": "https://www.foxnews.com/media/nascar-legend-kurt-busch-reveals-place-feels-closest-late-brother-kyle",
-    "description": "Kurt Busch reveals he feels Kyle Busch's presence behind the wheel, saying racing helps him cope with his brother's sudden death in May.",
-    "pubDate": "Sun, 23 Aug 2026 15:28:49 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Karoline Leavitt reveals next role after leaving White House press secretary post",
-    "link": "https://www.foxnews.com/politics/karoline-leavitt-reveals-next-role-after-leaving-white-house-press-secretary-post",
-    "description": "Karoline Leavitt confirmed aboard Air Force One that she will join Trump super PAC MAGA Inc. after stepping down as White House press secretary.",
-    "pubDate": "Sun, 23 Aug 2026 15:21:39 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Chiefs' Harrison Butker nails incredible 69-yard field goal vs Bucs, shares disappointment with performance",
-    "link": "https://www.foxnews.com/outkick-sports/chiefs-harrison-butker-nails-incredible-69-yard-field-goal-vs-bucs-shares-disappointment-performance",
-    "description": "Harrison Butker drilled a 69-yard field goal in preseason against the Buccaneers, but his missed game-winner left him dissatisfied with his performance.",
-    "pubDate": "Sun, 23 Aug 2026 15:19:20 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Cincinnati Reds look to steal rubber match from Arizona Diamondbacks amid Ketel Marte absence",
-    "link": "https://www.foxnews.com/outkick-sports/cincinnati-reds-steal-rubber-match-arizona-diamondbacks-ketel-marte-absence",
-    "description": "Andrew Abbott's strong road ERA splits and Ketel Marte's mysterious absence create an intriguing matchup as the Cincinnati Reds face Arizona.",
-    "pubDate": "Sun, 23 Aug 2026 15:15:36 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
-    "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
-    "description": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs.",
-    "pubDate": "Sun, 23 Aug 2026 15:07:04 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "France links rise in drownings to heatwaves",
-    "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-    "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-    "pubDate": "Sun, 23 Aug 2026 15:00:17 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Today - Patchy Fog then Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "65\u00b0F. Wind NW 0 to 5 mph. Patchy fog before 10am. Mostly sunny, with a high near 65. Northwest wind 0 to 5 mph.",
-    "pubDate": "Sun, 23 Aug 2026 17:16:53 GMT",
+    "pubDate": "Sun, 23 Aug 2026 18:21:23 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Mostly Clear",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "49\u00b0F. Wind S 0 to 5 mph. Mostly clear, with a low around 49. South wind 0 to 5 mph.",
-    "pubDate": "Sun, 23 Aug 2026 17:16:53 GMT",
+    "pubDate": "Sun, 23 Aug 2026 18:21:23 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Monday - Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "63\u00b0F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 63. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sun, 23 Aug 2026 17:16:53 GMT",
+    "pubDate": "Sun, 23 Aug 2026 18:21:23 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Monday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind SW 0 to 5 mph. Rain likely after 10pm. Mostly cloudy, with a low around 54. Southwest wind 0 to 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sun, 23 Aug 2026 17:16:53 GMT",
+    "pubDate": "Sun, 23 Aug 2026 18:21:23 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Tuesday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "60\u00b0F. Wind SE 5 to 10 mph. Rain likely. Cloudy, with a high near 60. Southeast wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sun, 23 Aug 2026 17:16:53 GMT",
+    "pubDate": "Sun, 23 Aug 2026 18:21:23 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
