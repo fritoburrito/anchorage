@@ -400,6 +400,16 @@
     "rank": 100
   },
   {
+    "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister says",
+    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+    "description": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+    "pubDate": "Sun, 23 Aug 2026 08:02:22 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
     "title": "Fetterman aligns with Trump on AI push, warns China benefits from US 'overreaction'",
     "link": "https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction",
     "description": "Sen. John Fetterman rejected \"AI doomsdaying\" and echoed President Donald Trump's push for AI development, warning that U.S. overreaction could benefit China.",
@@ -500,6 +510,16 @@
     "rank": 10
   },
   {
+    "title": "Plan to restrict violent and sex offenders to certain areas to start in October",
+    "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
+    "description": "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.",
+    "pubDate": "Sun, 23 Aug 2026 02:37:03 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
     "title": "Plan to restrict sex and violent offenders to certain areas to start in October",
     "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
     "description": "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.",
@@ -580,30 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Deshaun Watson booed by Browns fans, fires back after poor outing opens door for Shedeur Sanders",
-    "link": "https://www.foxnews.com/outkick-sports/deshaun-watson-booed-browns-fans-fires-back-poor-outing-opens-door-shedeur-sanders",
-    "description": "Deshaun Watson was booed at home before the Browns preseason game even started, then struggled completing just 5 of 12 passes against Buffalo.",
-    "pubDate": "Sun, 23 Aug 2026 00:22:23 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Connecticut police officers shot, suspect killed after attempted arrest sparks hectic chase",
-    "link": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
-    "description": "Two Connecticut police officers were wounded and a suspect killed after a car chase from Hartford ended in an exchange of gunfire in Newington.",
-    "pubDate": "Sat, 22 Aug 2026 23:52:13 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Tonight - Scattered Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "51\u00b0F. Wind N 5 mph. Scattered rain showers before 1am, then patchy fog and isolated rain showers. Mostly cloudy, with a low around 51. North wind around 5 mph. Chance of precipitation is 30%.",
-    "pubDate": "Sun, 23 Aug 2026 07:29:15 GMT",
+    "pubDate": "Sun, 23 Aug 2026 08:23:21 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Sunday - Patchy Fog then Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "65\u00b0F. Wind NW 0 to 5 mph. Patchy fog and isolated rain showers before 10am. Mostly sunny, with a high near 65. Northwest wind 0 to 5 mph. Chance of precipitation is 20%.",
-    "pubDate": "Sun, 23 Aug 2026 07:29:15 GMT",
+    "pubDate": "Sun, 23 Aug 2026 08:23:21 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Sunday Night - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "49\u00b0F. Wind S 0 to 5 mph. Partly cloudy, with a low around 49. South wind 0 to 5 mph.",
-    "pubDate": "Sun, 23 Aug 2026 07:29:15 GMT",
+    "pubDate": "Sun, 23 Aug 2026 08:23:21 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Monday - Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "63\u00b0F. Wind SW 0 to 5 mph. Partly sunny, with a high near 63. Southwest wind 0 to 5 mph.",
-    "pubDate": "Sun, 23 Aug 2026 07:29:15 GMT",
+    "pubDate": "Sun, 23 Aug 2026 08:23:21 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Monday Night - Rain Showers Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind S 0 to 5 mph. Rain showers likely after 10pm. Mostly cloudy, with a low around 54. South wind 0 to 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sun, 23 Aug 2026 07:29:15 GMT",
+    "pubDate": "Sun, 23 Aug 2026 08:23:21 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
