@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:53:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:42:08 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Tonight - Partly Cloudy then Patchy Fog</title>
+      <title>Anchorage Weather: Overnight - Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 07:53:55 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 08:42:08 GMT</pubDate>
       <description><![CDATA[47°F. Wind S 0 to 5 mph. Patchy fog after 4am. Partly cloudy, with a low around 47. South wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Monday - Patchy Fog then Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 07:53:55 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 08:42:08 GMT</pubDate>
       <description><![CDATA[63°F. Wind SW 0 to 5 mph. Patchy fog before 10am. Partly sunny, with a high near 63. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Monday Night - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 07:53:55 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 08:42:08 GMT</pubDate>
       <description><![CDATA[54°F. Wind SW 5 to 10 mph. Rain likely after 10pm. Cloudy, with a low around 54. Southwest wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Tuesday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 07:53:55 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 08:42:08 GMT</pubDate>
       <description><![CDATA[60°F. Wind SE 10 to 15 mph. Rain. Cloudy, with a high near 60. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Tuesday Night - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 07:53:55 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 08:42:08 GMT</pubDate>
       <description><![CDATA[49°F. Wind E 0 to 15 mph. Rain. Cloudy, with a low around 49. East wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -255,11 +255,35 @@
       <category>local</category>
     </item>
     <item>
+      <title>King of Norway's health has worsened, palace says</title>
+      <link>https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">cbd15a41a10c97cfac53abe5fab65b1a138fb26a</guid>
+      <pubDate>Mon, 24 Aug 2026 08:31:55 GMT</pubDate>
+      <description><![CDATA[Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump's Bedminster turf could make or break his last two years in the White House</title>
+      <link>https://www.foxnews.com/politics/trumps-bedminster-turf-could-make-break-his-last-two-years-white-house</link>
+      <guid isPermaLink="false">89bd59926e720bb1ef031558e5448f86a7f3a496</guid>
+      <pubDate>Mon, 24 Aug 2026 08:00:08 GMT</pubDate>
+      <description><![CDATA[Mike Johnson rallied supporters in New Jersey for Tom Kean's re-election, calling the 7th Congressional District a top-three race for House control.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
       <title>Pubs and hotels could see business rates reformed after review</title>
       <link>https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">bf0282009fae50708ecb1f793c6b58359dc8a3aa</guid>
       <pubDate>Mon, 24 Aug 2026 07:32:06 GMT</pubDate>
       <description><![CDATA[The review of how rates are calculated in England and Wales could lead to reform of the system.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Families of two police officers killed in crash say they were heroes</title>
+      <link>https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fd503a60c1d975b7be771c188855457163eb6ccf</guid>
+      <pubDate>Mon, 24 Aug 2026 07:18:06 GMT</pubDate>
+      <description><![CDATA[PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -295,11 +319,27 @@
       <category>world</category>
     </item>
     <item>
+      <title>Australian shark attack victim grateful for 'second chance at life'</title>
+      <link>https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c31e3c4947e8c1273c6d31b8b7c49f3462da592f</guid>
+      <pubDate>Mon, 24 Aug 2026 05:31:53 GMT</pubDate>
+      <description><![CDATA[Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv</title>
       <link>https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">6c51db20726b25637c85877b3aaaffcd98f60316</guid>
       <pubDate>Mon, 24 Aug 2026 05:16:57 GMT</pubDate>
       <description><![CDATA[It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain</title>
+      <link>https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ddeb600f69bede77cc5fe3e14d75aceb919c5f10</guid>
+      <pubDate>Mon, 24 Aug 2026 05:15:25 GMT</pubDate>
+      <description><![CDATA[There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -372,46 +412,6 @@
       <guid isPermaLink="false">398564c7de840bd4186e427252b6353dccbb6a87</guid>
       <pubDate>Mon, 24 Aug 2026 03:27:11 GMT</pubDate>
       <description><![CDATA[Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Shein aims for almost $27bn valuation in stock market debut</title>
-      <link>https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8bcb9c0fd42695b99a6371fc54fc13edc3a1438e</guid>
-      <pubDate>Mon, 24 Aug 2026 02:05:04 GMT</pubDate>
-      <description><![CDATA[The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Real Housewives' star Kim Zolciak denies sexual battery charge against 15-year-old son after his arrest</title>
-      <link>https://www.foxnews.com/entertainment/real-housewives-star-kim-zolciak-denies-sexual-battery-charge-against-15-year-old-son-after-his-arrest</link>
-      <guid isPermaLink="false">fcd117b131bfdd915166d4c350590cfa87a8c0f8</guid>
-      <pubDate>Mon, 24 Aug 2026 02:00:26 GMT</pubDate>
-      <description><![CDATA[Kim Zolciak denies allegations against her 15-year-old son KJ Biermann, citing a passed polygraph and lack of DNA evidence in the felony case.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>College grad reportedly dies in Six Flags roller coaster incident as family sues theme park</title>
-      <link>https://www.foxnews.com/us/college-grad-reportedly-dies-six-flags-roller-coaster-incident-family-sues-theme-park</link>
-      <guid isPermaLink="false">63b7230c31c969e32461de704c41b7d29030238c</guid>
-      <pubDate>Mon, 24 Aug 2026 01:50:05 GMT</pubDate>
-      <description><![CDATA[Christopher Hawley, a recent San Diego State University graduate, reportedly collapsed after riding X2 in 2022, and his family now alleges the attraction was dangerously rough.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Enes Kanter Freedom ejected from Sky-Fever game after verbal altercation with Natasha Cloud</title>
-      <link>https://www.foxnews.com/outkick-sports/enes-kanter-freedom-ejected-sky-fever-game-verbal-altercation-natasha-cloud</link>
-      <guid isPermaLink="false">35e96d4758ef823d2deab7538446fbfd14e299b0</guid>
-      <pubDate>Mon, 24 Aug 2026 01:26:49 GMT</pubDate>
-      <description><![CDATA[Enes Kanter Freedom was escorted from Wintrust Arena after a heated courtside shouting match with Chicago Sky guard Natasha Cloud during a WNBA game.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>California dad paralyzed from neck down after diving into ocean to rescue child</title>
-      <link>https://www.foxnews.com/us/california-dad-paralyzed-neck-diving-ocean-rescue-child</link>
-      <guid isPermaLink="false">b9d3cee59edd8b0270fae306be61ffc9aaeaa598</guid>
-      <pubDate>Mon, 24 Aug 2026 01:25:06 GMT</pubDate>
-      <description><![CDATA[A California father dove into a rip current to save a child at a beach and suffered a spinal cord injury that left him paralyzed from the neck down.]]></description>
       <category>world</category>
     </item>
     <item>
