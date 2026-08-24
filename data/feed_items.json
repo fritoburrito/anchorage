@@ -1,5 +1,25 @@
 [
   {
+    "title": "Lightning strike kills mother and 2-year-old daughter in Broward County, Florida",
+    "link": "https://www.foxweather.com/weather-news/lightning-strike-kills-mother-daughter-broward-county-florida",
+    "description": "A mother and her 2-year-old daughter were killed during a lighting strike in Margate, Florida, Sunday afternoon, officials said.",
+    "pubDate": "Mon, 24 Aug 2026 11:50:53 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "LETTER: Candidates extend heartfelt thanks to supporters",
+    "link": "https://www.homernews.com/2026/08/24/letter-candidates-extend-heartfelt-thanks-to-supporters/",
+    "description": "From the bottom of our hearts, thank you.",
+    "pubDate": "Mon, 24 Aug 2026 11:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
     "title": "Hawaii faces rare back-to-back tropical threats as Tropical Depression Moke brings life-threatening flood risk",
     "link": "https://www.foxweather.com/weather-news/tropical-depression-moke-hawaii-flood-eastern-pacific-el-nino",
     "description": "Tropical Depression Moke is lashing Hawaii's Big Island with downpours and gusty wind, with additional rainfall capable of producing another round of life-threatening flash flooding as the storm's center passes a few hundred miles south of the state.",
@@ -380,24 +400,144 @@
     "rank": 100
   },
   {
-    "title": "US Supreme Court allows $400M Trump ballroom project to proceed",
-    "link": "https://alaskabeacon.com/2026/08/21/repub/us-supreme-court-allows-400m-trump-ballroom-project-to-proceed/",
-    "description": "President Donald Trump can continue building a White House ballroom for now, the U.S. Supreme Court ruled Friday, reversing a federal judge\u2019s order that barred above-ground construction on the grounds of the former East Wing.",
-    "pubDate": "Fri, 21 Aug 2026 21:48:32 GMT",
-    "category": "alaska",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "Victims describe 'house of terror' abuse by mother, grandmother and stepfather",
+    "link": "https://www.bbc.co.uk/news/articles/c20jxky3ggro?at_medium=RSS&at_campaign=rss",
+    "description": "Shirley Freeman, Julia Stephen and David McColl's victims were beaten, starved and psychologically tormented.",
+    "pubDate": "Mon, 24 Aug 2026 12:38:14 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
-    "title": "Tropical Storm Moke eyes Hawaii, packing dangerous tropical downpours and flash flood threat for Big Island",
-    "link": "https://www.foxweather.com/weather-news/tropical-storm-moke-forms-pacific-threatening-tropical-downpours-flash-flooding-hawaii",
-    "description": "Just days after Hurricane Lala hammered the Hawaiian Islands, Tropical Storm Moke will make a close pass by the Big Island and unleash a dangerous triple threat of heavy rain, flooding and damaging winds.",
-    "pubDate": "Fri, 21 Aug 2026 20:48:06 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
+    "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+    "description": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
+    "pubDate": "Mon, 24 Aug 2026 12:28:16 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "NCAA created this mess, now LSU set to make Dae\u2019Quan Wright college football\u2019s first NFL returnee",
+    "link": "https://www.foxnews.com/outkick-sports/ncaa-created-mess-lsu-set-make-dae-quan-wright-college-footballs-first-nfl-returnee",
+    "description": "A Louisiana court is shielding LSU from NCAA punishment as Lane Kiffin prepares to welcome Dae'Quan Wright in a unprecedented NFL-to-college transfer.",
+    "pubDate": "Mon, 24 Aug 2026 12:27:55 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Shelley Fabares, star of 'The Donna Reed Show' and 'Coach,' dead at 82",
+    "link": "https://www.foxnews.com/entertainment/shelley-fabares-star-donna-reed-show-coach-dead-82",
+    "description": "Shelley Fabares starred on \"The Donna Reed Show,\" hit No. 1 with \"Johnny Angel\" and earned two Emmy nods for \"Coach\" over a career spanning decades.",
+    "pubDate": "Mon, 24 Aug 2026 12:27:21 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+    "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+    "description": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
+    "pubDate": "Mon, 24 Aug 2026 12:26:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "The Athletic probes Dianna Russini and Mike Vrabel relationship while considering getting in bed with the NFL",
+    "link": "https://www.foxnews.com/outkick-sports/athletic-probes-dianna-russini-mike-vrabel-relationship-considering-getting-bed-nfl",
+    "description": "The Athletic is in talks to place content on NFL.com while simultaneously investigating Dianna Russini's possible conflict of interest with Mike Vrabel.",
+    "pubDate": "Mon, 24 Aug 2026 12:20:21 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "New Zealand to introduce bill for under-16s social media ban",
+    "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+    "description": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+    "pubDate": "Mon, 24 Aug 2026 12:17:34 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Fever coach dismisses Enes Kanter Freedom\u2019s women\u2019s sports fight as a 'social media thing'",
+    "link": "https://www.foxnews.com/outkick-sports/fever-coach-dismisses-enes-kanter-freedoms-womens-sports-fight-social-media-thing",
+    "description": "Natasha Cloud shouted at Enes Kanter Freedom during a third-quarter timeout before security ejected him from Wintrust Arena in the Fever's win.",
+    "pubDate": "Mon, 24 Aug 2026 12:02:03 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Ancient clue cracks open a 2,000-year-old mystery near famed Colosseum",
+    "link": "https://www.foxnews.com/travel/ancient-clue-cracks-open-2000-year-old-mystery-near-famed-colosseum",
+    "description": "Archaeologists working near Rome's Colosseum uncovered eight rooms with mosaics and painted decorations that may belong to an ancient Roman firehouse.",
+    "pubDate": "Mon, 24 Aug 2026 12:00:41 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Sky coach praises Natasha Cloud after heated verbal altercation with Enes Kanter Freedom",
+    "link": "https://www.foxnews.com/outkick-sports/sky-coach-praises-natasha-cloud-heated-verbal-altercation-enes-kanter-freedom",
+    "description": "Chicago Sky coach Tyler Marsh defended Natasha Cloud after her courtside altercation with Enes Kanter Freedom, saying the Chicago Sky embrace her.",
+    "pubDate": "Mon, 24 Aug 2026 11:54:25 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Motown songwriter behind 'Money (That's What I Want)' and other hits dead at 87",
+    "link": "https://www.foxnews.com/entertainment/motown-songwriter-behind-money-thats-what-want-other-hits-dead-87",
+    "description": "Janie Bradford Hobbs co-wrote \"Money (That's What I Want)\" with Berry Gordy and penned hits for Marvin Gaye, Stevie Wonder and The Supremes.",
+    "pubDate": "Mon, 24 Aug 2026 11:48:27 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "AI chatbot privacy: What your AI may know about you",
+    "link": "https://www.foxnews.com/tech/ai-chatbot-privacy-what-your-ai-may-know-about-you",
+    "description": "ChatGPT, Meta AI and Google now use memory, connected apps and past chats to personalize ads and responses in ways most users overlook today.",
+    "pubDate": "Mon, 24 Aug 2026 11:44:19 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "US kills two 'narco-terrorists' in strike 2 months since last announced anti-'narco-trafficking' attack",
+    "link": "https://www.foxnews.com/politics/us-kills-two-narco-terrorists-strike-2-months-since-last-announced-anti-narco-trafficking-attack",
+    "description": "U.S. military announces a deadly strike against a low-profile vessel that it says intelligence showed was participating in \"narco-trafficking.\"",
+    "pubDate": "Mon, 24 Aug 2026 11:29:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+    "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+    "description": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
+    "pubDate": "Mon, 24 Aug 2026 11:27:44 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
   },
   {
     "title": "Access to Zambian courts prevented as election petition deadline looms",
@@ -417,6 +557,16 @@
     "category": "world",
     "tag": "world",
     "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Four arrested over suspected poisoning of elephants in Kenya",
+    "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+    "description": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
+    "pubDate": "Mon, 24 Aug 2026 11:08:27 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
     "rank": 10
   },
   {
@@ -450,160 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Ten Commandments belong in Texas schools and the Supreme Court can protect them",
-    "link": "https://www.foxnews.com/opinion/ten-commandments-belong-texas-schools-supreme-court-protect",
-    "description": "The U.S. Supreme Court faces a pivotal decision on whether Texas public schools can constitutionally display the Ten Commandments in classrooms.",
-    "pubDate": "Mon, 24 Aug 2026 11:00:23 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Dem House candidate's 2013 arrest resurfaces in pivotal race for control of Congress",
-    "link": "https://www.foxnews.com/politics/michigan-dem-candidates-2013-arrest-resurfaces-pivotal-race-control-congress",
-    "description": "Michigan House of Representatives candidate William Lawrence was arrested in 2013 for resisting police during an Enbridge Line 5 pipeline protest.",
-    "pubDate": "Mon, 24 Aug 2026 11:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Graduate job vacancies drop by almost 50% in a year",
-    "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
-    "description": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
-    "pubDate": "Mon, 24 Aug 2026 10:55:47 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Dutch broadcaster Avrotros pulls out of 2027 Eurovision Song Contest",
-    "link": "https://www.bbc.co.uk/news/articles/c1kx3m2z332o?at_medium=RSS&at_campaign=rss",
-    "description": "It says contest can no longer be considered neutral while a participating country remains involved in a large-scale military conflict.",
-    "pubDate": "Mon, 24 Aug 2026 10:54:22 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-    "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-    "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-    "pubDate": "Mon, 24 Aug 2026 10:40:22 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-    "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-    "pubDate": "Mon, 24 Aug 2026 10:39:23 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
-    "link": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
-    "description": "Former TV contestant, Jo Gardiner, 61, dies of cancer one year after her son's death in a crash.",
-    "pubDate": "Mon, 24 Aug 2026 10:13:58 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Thune-aligned groups unleash historic war chest to defend Senate majority: 'Winning message'",
-    "link": "https://www.foxnews.com/politics/thune-aligned-groups-historic-war-chest-defend-senate-majority-winning-message",
-    "description": "The Senate Leadership Fund says it raised over $500 million to defend the Republican majority in 2026 midterm elections, setting a new record.",
-    "pubDate": "Mon, 24 Aug 2026 10:00:34 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Andrew feels \u2018abandoned\u2019 by royal family, rejects King Charles\u2019 invitation over outcast fears: experts",
-    "link": "https://www.foxnews.com/entertainment/andrew-feels-abandoned-royal-family-rejects-king-charles-invitation-outcast-fears-experts",
-    "description": "Former Prince Andrew reportedly feels \"abandoned\" by the royal family after rejecting King Charles III's invitation to Balmoral, fearing outcast treatment.",
-    "pubDate": "Mon, 24 Aug 2026 10:00:33 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Baker busts common sourdough myth that keeps busy Americans out of the kitchen",
-    "link": "https://www.foxnews.com/food-drink/baker-busts-common-sourdough-myth-keeps-busy-americans-out-kitchen",
-    "description": "Kate Freebairn's debut cookbook \"Easy Sourdough on Any Schedule\" shows how sourdough bread baking fits into busy lives with minimal hands-on time.",
-    "pubDate": "Mon, 24 Aug 2026 10:00:09 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "AI's massive appetite for power, water ignites fight in high-stakes Texas Senate race",
-    "link": "https://www.foxnews.com/politics/ais-massive-appetite-power-water-ignites-fight-high-stakes-texas-senate-race",
-    "description": "Ken Paxton unveils a four-point plan targeting data centers in the Lone Star State as he and James Talarico trade blows over rising power and water costs.",
-    "pubDate": "Mon, 24 Aug 2026 10:00:05 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Social media firms should remove dangerous driving videos, minister says",
-    "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-    "description": "Defence minister Luke Pollard says \"there's no place\" for social media trend showing people driving the wrong way down roads.",
-    "pubDate": "Mon, 24 Aug 2026 09:48:43 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
-    "link": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
-    "description": "IndyCar drivers zoomed past some of the nation's most famous landmarks this weekend. They faced novel challenges on an unconventional route.",
-    "pubDate": "Mon, 24 Aug 2026 09:36:13 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Guinea rubbish landfill collapse kills 31",
-    "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-    "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-    "pubDate": "Mon, 24 Aug 2026 09:03:43 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "I have eight kids. Here's why the 'back-to-school' mom memes break my heart",
-    "link": "https://www.foxnews.com/opinion/eight-kids-why-back-to-school-mom-memes-break-my-heart",
-    "description": "A mom of eight shares why back-to-school memes celebrating kids leaving may send the wrong message to children who notice more than we think.",
-    "pubDate": "Mon, 24 Aug 2026 09:00:37 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Overnight - Patchy Fog",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "47\u00b0F. Wind SE 0 to 5 mph. Patchy fog after 4am. Partly cloudy, with a low around 47. Southeast wind 0 to 5 mph.",
-    "pubDate": "Mon, 24 Aug 2026 11:22:54 GMT",
+    "description": "48\u00b0F. Wind S 5 mph. Patchy fog. Partly cloudy, with a low around 48. South wind around 5 mph.",
+    "pubDate": "Mon, 24 Aug 2026 12:39:19 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -612,8 +612,8 @@
   {
     "title": "Anchorage Weather: Monday - Patchy Fog then Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "63\u00b0F. Wind SW 0 to 5 mph. Patchy fog before 10am. Partly sunny, with a high near 63. Southwest wind 0 to 5 mph.",
-    "pubDate": "Mon, 24 Aug 2026 11:22:54 GMT",
+    "description": "62\u00b0F. Wind SW 0 to 5 mph. Patchy fog before 10am. Partly sunny, with a high near 62. Southwest wind 0 to 5 mph.",
+    "pubDate": "Mon, 24 Aug 2026 12:39:19 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -622,8 +622,8 @@
   {
     "title": "Anchorage Weather: Monday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "54\u00b0F. Wind SW 5 to 10 mph. Rain likely after 10pm. Cloudy, with a low around 54. Southwest wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Mon, 24 Aug 2026 11:22:54 GMT",
+    "description": "54\u00b0F. Wind S 5 to 10 mph. Rain likely after 10pm. Cloudy, with a low around 54. South wind 5 to 10 mph. Chance of precipitation is 60%.",
+    "pubDate": "Mon, 24 Aug 2026 12:39:19 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -632,8 +632,8 @@
   {
     "title": "Anchorage Weather: Tuesday - Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "60\u00b0F. Wind SE 10 to 15 mph. Rain. Cloudy, with a high near 60. Southeast wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.",
-    "pubDate": "Mon, 24 Aug 2026 11:22:54 GMT",
+    "description": "58\u00b0F. Wind SE 10 to 20 mph. Rain. Cloudy, with a high near 58. Southeast wind 10 to 20 mph. Chance of precipitation is 90%.",
+    "pubDate": "Mon, 24 Aug 2026 12:39:19 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -642,8 +642,8 @@
   {
     "title": "Anchorage Weather: Tuesday Night - Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "49\u00b0F. Wind E 0 to 15 mph. Rain. Cloudy, with a low around 49. East wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.",
-    "pubDate": "Mon, 24 Aug 2026 11:22:54 GMT",
+    "description": "49\u00b0F. Wind SE 0 to 20 mph. Rain. Cloudy, with a low around 49. Southeast wind 0 to 20 mph. Chance of precipitation is 90%.",
+    "pubDate": "Mon, 24 Aug 2026 12:39:19 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
