@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:46:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:36:34 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Overnight - Patchy Fog</title>
+      <title>Anchorage Weather: Today - Patchy Fog then Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 13:46:26 GMT</pubDate>
-      <description><![CDATA[48°F. Wind S 5 mph. Patchy fog. Partly cloudy, with a low around 48. South wind around 5 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Monday - Patchy Fog then Partly Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 13:46:26 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 14:36:34 GMT</pubDate>
       <description><![CDATA[62°F. Wind SW 0 to 5 mph. Patchy fog before 10am. Partly sunny, with a high near 62. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Monday Night - Light Rain Likely</title>
+      <title>Anchorage Weather: Tonight - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 13:46:26 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 14:36:34 GMT</pubDate>
       <description><![CDATA[54°F. Wind S 5 to 10 mph. Rain likely after 10pm. Cloudy, with a low around 54. South wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Tuesday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 13:46:26 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 14:36:34 GMT</pubDate>
       <description><![CDATA[58°F. Wind SE 10 to 20 mph. Rain. Cloudy, with a high near 58. Southeast wind 10 to 20 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -42,16 +34,24 @@
       <title>Anchorage Weather: Tuesday Night - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 13:46:26 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 14:36:34 GMT</pubDate>
       <description><![CDATA[49°F. Wind SE 0 to 20 mph. Rain. Cloudy, with a low around 49. Southeast wind 0 to 20 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Sharing dangerous driving videos is 'truly reprehensible', PM says</title>
-      <link>https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b4290bb9d1bdd59cb070d0d76b56895d5542dd5c</guid>
-      <pubDate>Mon, 24 Aug 2026 12:28:16 GMT</pubDate>
-      <description><![CDATA[His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.]]></description>
+      <title>Anchorage Weather: Wednesday - Chance Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Mon, 24 Aug 2026 14:36:34 GMT</pubDate>
+      <description><![CDATA[62°F. Wind N 0 to 5 mph. A chance of rain before 4pm. Partly sunny, with a high near 62. North wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Gasoline hits $26 per gallon in the northwest Alaska village of Shungnak</title>
+      <link>https://alaskabeacon.com/briefs/gasoline-hits-26-per-gallon-in-the-northwest-alaska-village-of-shungnak/</link>
+      <guid isPermaLink="false">b9e7ef538cd438ae9623f6c005b7053f12a187dc</guid>
+      <pubDate>Mon, 24 Aug 2026 13:45:08 GMT</pubDate>
+      <description><![CDATA[It’s not a typo. The price of a gallon of gasoline in the northwest Alaska village of Shungnak was $26.82 on Friday, local residents and regional officials said, likely giving the community the dubious honor of having the most expensive gasoline in the United States. “It is very much real,” said Glenda Douglas, who manages […]]]></description>
       <category>local</category>
     </item>
     <item>
@@ -231,12 +231,60 @@
       <category>local</category>
     </item>
     <item>
-      <title>Is a U.S. Department of Justice investigation about to disrupt Alaska’s U.S. Senate race?</title>
-      <link>https://alaskabeacon.com/2026/08/21/is-a-u-s-department-of-justice-investigation-about-to-disrupt-alaskas-u-s-senate-race/</link>
-      <guid isPermaLink="false">7c62e63195e2db244f63adfd4bc0cd12187bec98</guid>
-      <pubDate>Fri, 21 Aug 2026 23:54:49 GMT</pubDate>
-      <description><![CDATA[On Alaska’s primary election day, NBC News — citing unidentified sources — reported that the U.S. Department of Justice has issued grand jury subpoenas as it investigates whether Petersburg candidate Dan J. Sullivan may have somehow violated federal law. If that’s true, subpoenas haven’t reached Sullivan, currently running third in this week’s election and the […]]]></description>
-      <category>local</category>
+      <title>Arizona police shooting suspect arrested, another remains at large after killing 1, wounding fiancee</title>
+      <link>https://www.foxnews.com/us/arizona-police-shooting-suspect-arrested-another-remains-large-killing-1-wounding-fiancee</link>
+      <guid isPermaLink="false">39bf77397bf89de85fd12bb39447ee1e4d509808</guid>
+      <pubDate>Mon, 24 Aug 2026 14:21:02 GMT</pubDate>
+      <description><![CDATA[Surveillance video shows suspects at a gas station minutes before Carlos Ramirez, a Tucson police recruit, was fatally shot in a home invasion.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Access to Zambian courts prevented as election petition deadline looms</title>
+      <link>https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">515cc1be6f0f6257ca1e49ca71698fe6905741fa</guid>
+      <pubDate>Mon, 24 Aug 2026 14:02:17 GMT</pubDate>
+      <description><![CDATA[Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>John Candy's family calls out Hollywood for weight criticism the actor endured throughout his career</title>
+      <link>https://www.foxnews.com/entertainment/john-candy-family-calls-out-hollywood-weight-criticism-actor-endured-throughout-career</link>
+      <guid isPermaLink="false">f2f2ed644674666daaa466defe791ad29e4306a1</guid>
+      <pubDate>Mon, 24 Aug 2026 14:00:44 GMT</pubDate>
+      <description><![CDATA[Jennifer Candy-Sullivan and Rosemary Candy slam Hollywood's weight criticism of John Candy, revealing how the late comedian handled it privately.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>EsDeeKid mystery no problem for fans after 'insane' All Points East set</title>
+      <link>https://www.bbc.co.uk/news/articles/cp8012ejyr6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d220fad39dd4b859d55c33a8b24e64ed15b60304</guid>
+      <pubDate>Mon, 24 Aug 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[We still don't know the Scouse rapper's true identity, but do music lovers really care who he is?]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fla Dem Sen-nominee Angie Nixon backed abolishing Electoral College, ranked-choice voting in resurfaced clips</title>
+      <link>https://www.foxnews.com/politics/fla-dem-sen-nominee-angie-nixon-backed-abolishing-electoral-college-ranked-choice-voting-resurfaced-clips</link>
+      <guid isPermaLink="false">e3f35a33f970f5b25434a2c44e0c9713f0109205</guid>
+      <pubDate>Mon, 24 Aug 2026 13:59:57 GMT</pubDate>
+      <description><![CDATA[Resurfaced clips show Angie Nixon backing abolishing the Electoral College, ranked-choice voting, and same-day registration in her Florida Senate bid.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Israel warns of 'forceful' response to kites flown from Gaza</title>
+      <link>https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c5704ab79e7089f67e389c12252cf8b0dbf4140b</guid>
+      <pubDate>Mon, 24 Aug 2026 13:56:22 GMT</pubDate>
+      <description><![CDATA[Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sam Burns is one of America's best golfers, but faith, family and the USA matter more to him than golf</title>
+      <link>https://www.foxnews.com/outkick-sports/sam-burns-one-americas-best-golfers-faith-family-usa-matter-more-than-golf</link>
+      <guid isPermaLink="false">aa9321a2b67e42182f82fe8e6fef4b22e9ea51c1</guid>
+      <pubDate>Mon, 24 Aug 2026 13:45:28 GMT</pubDate>
+      <description><![CDATA[Sam Burns told OutKick his son Bear will experience the Presidents Cup at Medinah with him as the five-time PGA Tour winner earns his fifth Team USA spot.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Bryan Norcross: The hurricane Andrew anniversary and a couple of systems to watch in the Atlantic</title>
@@ -348,54 +396,6 @@
       <guid isPermaLink="false">9ba183ac2df60fbd67a8ddcdfbdb2641ed523af0</guid>
       <pubDate>Mon, 24 Aug 2026 12:38:14 GMT</pubDate>
       <description><![CDATA[Shirley Freeman, Julia Stephen and David McColl's victims were beaten, starved and psychologically tormented.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NCAA created this mess, now LSU set to make Dae’Quan Wright college football’s first NFL returnee</title>
-      <link>https://www.foxnews.com/outkick-sports/ncaa-created-mess-lsu-set-make-dae-quan-wright-college-footballs-first-nfl-returnee</link>
-      <guid isPermaLink="false">0516409c6fe413b025ae8202f26e4bd82d5cba56</guid>
-      <pubDate>Mon, 24 Aug 2026 12:27:55 GMT</pubDate>
-      <description><![CDATA[A Louisiana court is shielding LSU from NCAA punishment as Lane Kiffin prepares to welcome Dae'Quan Wright in a unprecedented NFL-to-college transfer.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Shelley Fabares, star of 'The Donna Reed Show' and 'Coach,' dead at 82</title>
-      <link>https://www.foxnews.com/entertainment/shelley-fabares-star-donna-reed-show-coach-dead-82</link>
-      <guid isPermaLink="false">db4343fb0e0c70a6123977311dd4b108cb5ca3a1</guid>
-      <pubDate>Mon, 24 Aug 2026 12:27:21 GMT</pubDate>
-      <description><![CDATA[Shelley Fabares starred on "The Donna Reed Show," hit No. 1 with "Johnny Angel" and earned two Emmy nods for "Coach" over a career spanning decades.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran</title>
-      <link>https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran</link>
-      <guid isPermaLink="false">82ec1ffae0299ab8f15f3890fc7d4dbc653152eb</guid>
-      <pubDate>Mon, 24 Aug 2026 12:26:00 GMT</pubDate>
-      <description><![CDATA[The Trump administration calls this "economic D-Day" on Iran. Iran vows to respond to fresh sanctions in a "seismic manner."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The Athletic probes Dianna Russini and Mike Vrabel relationship while considering getting in bed with the NFL</title>
-      <link>https://www.foxnews.com/outkick-sports/athletic-probes-dianna-russini-mike-vrabel-relationship-considering-getting-bed-nfl</link>
-      <guid isPermaLink="false">36180da638ecc28bda085cf07333c76f70c4a346</guid>
-      <pubDate>Mon, 24 Aug 2026 12:20:21 GMT</pubDate>
-      <description><![CDATA[The Athletic is in talks to place content on NFL.com while simultaneously investigating Dianna Russini's possible conflict of interest with Mike Vrabel.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>New Zealand to introduce bill for under-16s social media ban</title>
-      <link>https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f631750f09188cef292f0a493292da50afff5071</guid>
-      <pubDate>Mon, 24 Aug 2026 12:17:34 GMT</pubDate>
-      <description><![CDATA[The government faces opposition to its proposals from MPs who believe a ban will not work.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Fever coach dismisses Enes Kanter Freedom’s women’s sports fight as a 'social media thing'</title>
-      <link>https://www.foxnews.com/outkick-sports/fever-coach-dismisses-enes-kanter-freedoms-womens-sports-fight-social-media-thing</link>
-      <guid isPermaLink="false">b49372cfa4f30ec18a8a54cdde6adae6567c6cda</guid>
-      <pubDate>Mon, 24 Aug 2026 12:02:03 GMT</pubDate>
-      <description><![CDATA[Natasha Cloud shouted at Enes Kanter Freedom during a third-quarter timeout before security ejected him from Wintrust Arena in the Fever's win.]]></description>
       <category>world</category>
     </item>
     <item>
