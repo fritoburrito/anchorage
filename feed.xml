@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:24:02 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 20:24:15 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 21:24:02 GMT</pubDate>
       <description><![CDATA[62°F. Wind W 0 to 5 mph. Mostly cloudy, with a high near 62. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tonight - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 20:24:15 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 21:24:02 GMT</pubDate>
       <description><![CDATA[54°F. Wind S 5 to 10 mph. Rain likely after 10pm. Cloudy, with a low around 54. South wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Tuesday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 20:24:15 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 21:24:02 GMT</pubDate>
       <description><![CDATA[58°F. Wind SE 10 to 20 mph. Rain. Cloudy, with a high near 58. Southeast wind 10 to 20 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Tuesday Night - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 20:24:15 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 21:24:02 GMT</pubDate>
       <description><![CDATA[49°F. Wind SE 0 to 20 mph. Rain. Cloudy, with a low around 49. Southeast wind 0 to 20 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Wednesday - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 24 Aug 2026 20:24:15 GMT</pubDate>
+      <pubDate>Mon, 24 Aug 2026 21:24:02 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 0 to 5 mph. A chance of rain before 4pm. Partly sunny, with a high near 62. North wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -215,6 +215,94 @@
       <category>local</category>
     </item>
     <item>
+      <title>Trump scores Supreme Court win on mail-in voting restrictions before midterms</title>
+      <link>https://www.foxnews.com/politics/trump-scores-supreme-court-win-mail-in-voting-restrictions-before-midterms</link>
+      <guid isPermaLink="false">97174af8e0842f1e5df0c07d3def65e4e26d94e9</guid>
+      <pubDate>Mon, 24 Aug 2026 21:13:42 GMT</pubDate>
+      <description><![CDATA[The Supreme Court’s order clears the Trump administration to immediately enforce revised mail-ballot restrictions in 23 states ahead of November’s midterms.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WNBA reportedly says Enes Kanter Freedom and Royce White are ineligible, but won't explain why</title>
+      <link>https://www.foxnews.com/outkick-sports/wnba-reportedly-says-enes-kanter-freedom-royce-white-ineligible-wont-explain-why</link>
+      <guid isPermaLink="false">0b44563838c373c55e4afd0575bf04caaddd992b</guid>
+      <pubDate>Mon, 24 Aug 2026 21:03:31 GMT</pubDate>
+      <description><![CDATA[The WNBA reportedly declared Enes Kanter Freedom and Royce White ineligible for the 2027 WNBA Draft but has not defined "woman" under its CBA.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom</title>
+      <link>https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court</link>
+      <guid isPermaLink="false">be7b7e3d899444a87b2de8e153c14e702f0ce1a7</guid>
+      <pubDate>Mon, 24 Aug 2026 20:53:45 GMT</pubDate>
+      <description><![CDATA[The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump administration touts ‘hard reset’ for American schools, vows to put parents ‘back in charge’</title>
+      <link>https://www.foxnews.com/politics/trump-administration-touts-hard-reset-american-schools-vows-put-parents-back-charge</link>
+      <guid isPermaLink="false">f454532530fbf54f65eb13c7a4d4fb7b5fdf79a2</guid>
+      <pubDate>Mon, 24 Aug 2026 20:53:41 GMT</pubDate>
+      <description><![CDATA[The president, who was joined by Education Secretary Linda McMahon, said his education agenda will expand school choice, boost support for families and give parents a greater say in their children’s education.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Mariska Hargitay nearly left 'Law &amp; Order SVU' over fear of being a 'one-trick pony'</title>
+      <link>https://www.foxnews.com/entertainment/mariska-hargitay-nearly-left-law-order-svu-over-fear-being-one-trick-pony</link>
+      <guid isPermaLink="false">5630edbd2fff9c91a2696e9b275c768418f1c84d</guid>
+      <pubDate>Mon, 24 Aug 2026 20:46:55 GMT</pubDate>
+      <description><![CDATA[Mariska Hargitay revealed she once told Julianna Margulies she needed to leave "SVU," but her blunt response changed everything.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Oklahoma-based Southwest Airlines flight attendant found dead in Hawaii, police investigating</title>
+      <link>https://www.foxnews.com/us/oklahoma-based-southwest-airlines-flight-attendant-found-dead-hawaii-police-investigating</link>
+      <guid isPermaLink="false">8075ea6f8050e1317eee4d6d71dc61ea457017c3</guid>
+      <pubDate>Mon, 24 Aug 2026 20:42:31 GMT</pubDate>
+      <description><![CDATA[Oklahoma Southwest Airlines flight attendant Jenny Lupton's family fears foul play after she fell from the 24th floor of the Hilton Hawaiian Village.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Manhunt for Massachusetts woman ends with grim discovery week after police officer husband found dead at home</title>
+      <link>https://www.foxnews.com/us/manhunt-massachusetts-woman-ends-grim-discovery-week-after-police-officer-husband-found-dead-home</link>
+      <guid isPermaLink="false">a3e5c1d0f5ada8d18c0c17c072c84ed67e70d853</guid>
+      <pubDate>Mon, 24 Aug 2026 20:33:46 GMT</pubDate>
+      <description><![CDATA[Police said preliminary evidence suggests Karen Solomon died by suicide after her body was found near a Worcester rehabilitation hospital, ending a dayslong search following her husband’s death.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump inauguration pastor says Dearborn Christians 'afraid' to speak out in Muslim-majority city</title>
+      <link>https://www.foxnews.com/media/trump-inauguration-pastor-says-dearborn-christians-afraid-speak-out-muslim-majority-city</link>
+      <guid isPermaLink="false">9744556f0d4530cd7fff713aabf0a59901c36b70</guid>
+      <pubDate>Mon, 24 Aug 2026 20:30:05 GMT</pubDate>
+      <description><![CDATA[Lorenzo Sewell says Christians in Dearborn, Michigan, privately told him they are afraid to express their faith, accusing city officials of upholding Sharia law.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>With one month left, American League teams are heading towards an embarrassing, historic low</title>
+      <link>https://www.foxnews.com/outkick-sports/american-league-teams-heading-embarrassing-historic-low</link>
+      <guid isPermaLink="false">4a73c3ec6c02bdb5f027b6cd5aeb2aae11fc381e</guid>
+      <pubDate>Mon, 24 Aug 2026 20:26:35 GMT</pubDate>
+      <description><![CDATA[The American League standings in 2026 could produce historic embarrassment as no AL West team holds a winning record with just a month remaining.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Schiff attack on Trump’s DC IndyCar race backfires after driver points out contradiction</title>
+      <link>https://www.foxnews.com/politics/schiff-attack-trumps-dc-indycar-race-backfires-driver-points-contradiction</link>
+      <guid isPermaLink="false">30dee496e3a5533d4981b30797009ce3f05a44ed</guid>
+      <pubDate>Mon, 24 Aug 2026 20:20:48 GMT</pubDate>
+      <description><![CDATA[IndyCar driver Graham Rahal fired back at Adam Schiff's claim that Trump's Washington race wasted taxpayer money, noting Penske privately funded it.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Vance's decade-old ‘great regrets’ resurfaces as El-Sayed’s jab at second lady comes back to bite him</title>
+      <link>https://www.foxnews.com/politics/vances-decade-old-great-regret-resurfaces-el-sayeds-jab-second-lady-comes-back-bite-him</link>
+      <guid isPermaLink="false">863e479fdf86bffdfddfecbebcdad9b446fb95f9</guid>
+      <pubDate>Mon, 24 Aug 2026 20:19:39 GMT</pubDate>
+      <description><![CDATA[Abdul El-Sayed's swipe at Usha Vance backfired after critics pointed to a passage in JD Vance's "Hillbilly Elegy" that directly undercut his attack.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
       <title>State Department blasts back at 'rogue judge' who overturned aggressive visa crackdown</title>
       <link>https://www.foxnews.com/politics/state-department-blasts-back-rogue-judge-overturned-aggressive-visa-crackdown</link>
       <guid isPermaLink="false">39583e70859e2a68709959ec1c212fd801e00fbf</guid>
@@ -271,108 +359,20 @@
       <category>world</category>
     </item>
     <item>
+      <title>Iran faces 'greatest financial offensive ever', says US treasury secretary</title>
+      <link>https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6655729cdf1212abd5ed2574698f54947f7f063b</guid>
+      <pubDate>Mon, 24 Aug 2026 19:12:35 GMT</pubDate>
+      <description><![CDATA[Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?</title>
       <link>https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">35cb5ce998f23e935356085f48b899506d1da689</guid>
       <pubDate>Mon, 24 Aug 2026 19:08:12 GMT</pubDate>
       <description><![CDATA[The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>MLB broadcaster Alanna Rizzo on trans sports debate: 'I want to keep my stepdaughters safe'</title>
-      <link>https://www.foxnews.com/outkick-sports/mlb-broadcaster-alanna-rizzo-trans-sports-debate-keep-stepdaughters-safe</link>
-      <guid isPermaLink="false">45a49f5b7068b2577465a6bc5af660750e3862c1</guid>
-      <pubDate>Mon, 24 Aug 2026 19:06:42 GMT</pubDate>
-      <description><![CDATA[Alanna Rizzo explains why she applauds Sophie Cunningham and wants to protect her stepdaughters' spaces from biological males in women's sports.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Clarence Thomas scorches racial litmus tests policing thought: ‘Stay Black and die’</title>
-      <link>https://www.foxnews.com/politics/clarence-thomas-scorches-racial-litmus-tests-policing-thought-stay-black-die</link>
-      <guid isPermaLink="false">289b0aedb49cc4e7030249d1a1f8c81696ea3815</guid>
-      <pubDate>Mon, 24 Aug 2026 18:55:22 GMT</pubDate>
-      <description><![CDATA[Clarence Thomas compared restrictions on Black conservatives' viewpoints to racial segregation in a wide-ranging interview with Sen. Ted Cruz.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>LSU’s Lane Kiffin fires back at NFL returnee backlash: Blame the NCAA, not us for recruiting pro athletes</title>
-      <link>https://www.foxnews.com/outkick-sports/lsu-lane-kiffin-fires-back-nfl-returnee-backlash-blame-ncaa-recruiting-pro-athletes</link>
-      <guid isPermaLink="false">e93a62134f954eb5c44676a628dab977b3117abd</guid>
-      <pubDate>Mon, 24 Aug 2026 18:50:54 GMT</pubDate>
-      <description><![CDATA[Lane Kiffin says LSU is recruiting athletes returning from NFL camps after court rulings granted NCAA eligibility the 2022 class was never told about.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Terror threat looms over coastal destination as US warns attacks could strike without notice</title>
-      <link>https://www.foxnews.com/travel/terror-threat-looms-coastal-destination-us-warns-attacks-could-strike-without-notice</link>
-      <guid isPermaLink="false">7070a4e5575ef82ab8c7d5e824dbdcc1baf09419</guid>
-      <pubDate>Mon, 24 Aug 2026 18:50:48 GMT</pubDate>
-      <description><![CDATA[Terrorists have targeted upscale lodges where international big-game hunters stay in Mozambique's Cabo Delgado Province, the State Department warns.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>El-Sayed distances himself from Hasan Piker after disturbing remarks about Jewish Americans</title>
-      <link>https://www.foxnews.com/politics/el-sayed-distances-himself-from-hasan-piker-after-controversial-remarks-about-jewish-americans</link>
-      <guid isPermaLink="false">e97cdf1d8421d211e602b34cac6f73364acd6235</guid>
-      <pubDate>Mon, 24 Aug 2026 18:45:38 GMT</pubDate>
-      <description><![CDATA[Abdul El-Sayed distances himself from Hasan Piker after the Twitch streamer's comments about Jewish Americans sparked a bipartisan backlash.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Anti-aging supplements taken by millions may undermine cancer treatment, study warns</title>
-      <link>https://www.foxnews.com/health/anti-aging-supplements-taken-millions-may-undermine-cancer-treatment-study-warns</link>
-      <guid isPermaLink="false">b1f129ed6d329478682301afba8716399e519eba</guid>
-      <pubDate>Mon, 24 Aug 2026 18:42:35 GMT</pubDate>
-      <description><![CDATA[Popular NAD+-boosting supplements like NMN and nicotinamide riboside may shield pancreatic cancer cells from chemotherapy, a new study warns.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Melissa Gilbert pleads to protect child actors after Hayden Panettiere's death at 36</title>
-      <link>https://www.foxnews.com/entertainment/melissa-gilbert-pleads-protect-child-actors-hayden-panettiere-death-36</link>
-      <guid isPermaLink="false">2ed165c4ec51c78b15d1eac7f24ee66dcd9a6c70</guid>
-      <pubDate>Mon, 24 Aug 2026 18:42:25 GMT</pubDate>
-      <description><![CDATA[Melissa Gilbert named three female child actors who died within one year as she demanded real substantive change for young performers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>FIRST ON FOX: ICE quietly arrests jaw dropping number of illegal immigrants in massive DC area operation</title>
-      <link>https://www.foxnews.com/politics/ice-quietly-arrests-jaw-dropping-number-illegal-immigrants-massive-dc-area-operation</link>
-      <guid isPermaLink="false">03927c70cd6197335c0cdcddc9bde92c902867f4</guid>
-      <pubDate>Mon, 24 Aug 2026 18:26:58 GMT</pubDate>
-      <description><![CDATA[U.S. ICE arrested 1,328 illegal immigrants in Virginia and Maryland in just 14 days, including a Salvadoran alien wanted on a murder warrant.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Police pass Mohamed Al Fayed case file to prosecutors</title>
-      <link>https://www.bbc.co.uk/news/articles/cz6zx0njdywo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8d4cd09cfd58fe23b14a70319fa67c6b837903dc</guid>
-      <pubDate>Mon, 24 Aug 2026 18:20:37 GMT</pubDate>
-      <description><![CDATA[The Crown Prosecution Service will review evidence relating to a man in his 80s gathered by police investigating allegations against the late Harrods owner.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Missouri assistant fire chief charged with murder after hidden video found on wife's phone, investigators say</title>
-      <link>https://www.foxnews.com/us/missouri-assistant-fire-chief-charged-murder-hidden-video-found-wifes-phone-investigators-say</link>
-      <guid isPermaLink="false">426e154571c66f31dfee131bb531497e971a9f72</guid>
-      <pubDate>Mon, 24 Aug 2026 18:16:48 GMT</pubDate>
-      <description><![CDATA[A hidden phone video and forensic blood spatter analysis unraveled Jeremy Perrien's claim that his wife Shelby Perrien shot herself during a drive, authorities say.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Card skimming scam is stealing food benefits nationwide</title>
-      <link>https://www.foxnews.com/tech/card-skimming-scam-stealing-food-benefits-nationwide</link>
-      <guid isPermaLink="false">773e38cb03f9e814489ffb4414083f1e36658ad1</guid>
-      <pubDate>Mon, 24 Aug 2026 18:15:49 GMT</pubDate>
-      <description><![CDATA[A single card skimmer can generate $1 million in stolen funds, and Secret Service video shows criminals installing them in under two seconds.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tourists smash SUV window to free black bear trapped inside their vehicle in Gatlinburg</title>
-      <link>https://www.foxnews.com/outkick-culture/tourists-smash-suv-window-free-black-bear-trapped-inside-vehicle-gatlinburg</link>
-      <guid isPermaLink="false">3ffdd2174abc7f99280a744a52195ce2f90990db</guid>
-      <pubDate>Mon, 24 Aug 2026 18:15:04 GMT</pubDate>
-      <description><![CDATA[Video shows tourists in Gatlinburg smashing an SUV's rear window with a large rock to free a trapped black bear near Great Smoky Mountains National Park.]]></description>
-      <category>weather</category>
     </item>
     <item>
       <title>Invest 96L designated in the Atlantic with another area to watch as El Niño continues to strengthen</title>
