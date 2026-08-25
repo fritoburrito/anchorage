@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:38:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:40:10 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 06:38:10 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 07:40:10 GMT</pubDate>
       <description><![CDATA[54°F. Wind S 5 to 10 mph. Rain likely. Cloudy, with a low around 54. South wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tuesday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 06:38:10 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 07:40:10 GMT</pubDate>
       <description><![CDATA[58°F. Wind SE 10 to 20 mph. Rain. Cloudy, with a high near 58. Southeast wind 10 to 20 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Tuesday Night - Light Rain then Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 06:38:10 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 07:40:10 GMT</pubDate>
       <description><![CDATA[49°F. Wind E 5 to 20 mph. Rain before 10pm, then rain showers likely. Cloudy, with a low around 49. East wind 5 to 20 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Wednesday - Chance Rain Showers then Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 06:38:10 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 07:40:10 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 5 mph. A chance of rain showers before 7am. Mostly sunny, with a high near 62. North wind around 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Wednesday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 06:38:10 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 07:40:10 GMT</pubDate>
       <description><![CDATA[45°F. Wind W 0 to 5 mph. Mostly clear, with a low around 45. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -215,6 +215,30 @@
       <category>local</category>
     </item>
     <item>
+      <title>Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series</title>
+      <link>https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c4ac7b475696e48b065d9e722e165805a41579ca</guid>
+      <pubDate>Tue, 25 Aug 2026 07:39:25 GMT</pubDate>
+      <description><![CDATA[X-Men star Hoult was only announced as Lockhart two weeks ago but has had to drop out.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Lockerbie bombing trial postponed days before it was due to start</title>
+      <link>https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">41f66579f418cf68db44ef3c7859515ba138c2fc</guid>
+      <pubDate>Tue, 25 Aug 2026 06:59:03 GMT</pubDate>
+      <description><![CDATA[The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Burnham refuses to rule out tax rises in autumn Budget</title>
+      <link>https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d182da4b0c92c15cc523a3d07eeae9726f16778d</guid>
+      <pubDate>Tue, 25 Aug 2026 06:40:33 GMT</pubDate>
+      <description><![CDATA[Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Iran says it is 'fully prepared' to counter widened US economic sanctions</title>
       <link>https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">6655729cdf1212abd5ed2574698f54947f7f063b</guid>
@@ -356,30 +380,6 @@
       <guid isPermaLink="false">6c51db20726b25637c85877b3aaaffcd98f60316</guid>
       <pubDate>Tue, 25 Aug 2026 01:48:24 GMT</pubDate>
       <description><![CDATA[It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Houston Uber driver caught in wild police chase as officers seen on dashcam video hitching a ride in his car</title>
-      <link>https://www.foxnews.com/us/houston-uber-driver-caught-wild-police-chase-officers-seen-dashcam-video-hitching-ride-his-car</link>
-      <guid isPermaLink="false">a5d33428a58930d31aeebd7f110a72d32a8a8daf</guid>
-      <pubDate>Tue, 25 Aug 2026 01:45:11 GMT</pubDate>
-      <description><![CDATA[The dashcam video shows Houston police riding with the Uber driver for several minutes before spotting the suspect and resuming pursuit on foot.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Abdul El-Sayed grilled on past statements on Sharia law and White supremacy, taxing the rich</title>
-      <link>https://www.foxnews.com/media/abdul-el-sayed-grilled-past-statements-sharia-law-white-supremacy-taxing-rich</link>
-      <guid isPermaLink="false">e7e475328f4512a545e9e1f7403a1282289184a5</guid>
-      <pubDate>Tue, 25 Aug 2026 01:40:40 GMT</pubDate>
-      <description><![CDATA[Abdul El-Sayed clashed with Jesse Watters over Sharia law, wealth taxes, and his Senate race against Mike Rogers in a fiery primetime exchange.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Trump administration proposes six-figure price tag for new H-1B visas</title>
-      <link>https://www.foxnews.com/politics/trump-administration-proposes-six-figure-price-tag-new-h-1b-visas</link>
-      <guid isPermaLink="false">6ee22f53d92e1dbbfc7d9f51f3aff285a088e430</guid>
-      <pubDate>Tue, 25 Aug 2026 01:30:02 GMT</pubDate>
-      <description><![CDATA[The Department of Homeland Security proposed making the $103,265 H-1B visa fee permanent after a federal judge blocked the temporary charge.]]></description>
       <category>world</category>
     </item>
     <item>
