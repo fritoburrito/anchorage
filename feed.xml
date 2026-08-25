@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:44:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 04:34:14 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 03:44:01 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 04:34:14 GMT</pubDate>
       <description><![CDATA[54°F. Wind S 5 to 10 mph. Rain likely. Cloudy, with a low around 54. South wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tuesday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 03:44:01 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 04:34:14 GMT</pubDate>
       <description><![CDATA[58°F. Wind SE 10 to 20 mph. Rain. Cloudy, with a high near 58. Southeast wind 10 to 20 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Tuesday Night - Light Rain then Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 03:44:01 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 04:34:14 GMT</pubDate>
       <description><![CDATA[49°F. Wind E 5 to 20 mph. Rain before 10pm, then rain showers likely. Cloudy, with a low around 49. East wind 5 to 20 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Wednesday - Chance Rain Showers then Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 03:44:01 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 04:34:14 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 5 mph. A chance of rain showers before 7am. Partly sunny, with a high near 62. North wind around 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Wednesday Night - Slight Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 03:44:01 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 04:34:14 GMT</pubDate>
       <description><![CDATA[45°F. Wind W 0 to 5 mph. A slight chance of rain showers between 10pm and 4am. Partly cloudy, with a low around 45. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -215,6 +215,38 @@
       <category>local</category>
     </item>
     <item>
+      <title>UK drone factories may face attacks from 'unknown sources', says Kremlin adviser</title>
+      <link>https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">43421df926508f045c0cfd0a4f733491a870fc1f</guid>
+      <pubDate>Tue, 25 Aug 2026 04:06:34 GMT</pubDate>
+      <description><![CDATA[The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Lindsay Clancy trial: Postpartum is real, but child killing demands accountability, veteran prosecutor says</title>
+      <link>https://www.foxnews.com/us/lindsay-clancy-trial-postpartum-real-child-killing-demands-accountability-veteran-prosecutor-says</link>
+      <guid isPermaLink="false">2ef4cd3785985fe0963916cf2882ba54c1198fb9</guid>
+      <pubDate>Tue, 25 Aug 2026 04:00:25 GMT</pubDate>
+      <description><![CDATA[Veteran child abuse prosecutor Jonathan Hatami says public support for Lindsay Clancy is overshadowing the three children she is accused of killing.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iran says it is ready for what US calls 'greatest financial offensive ever'</title>
+      <link>https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6655729cdf1212abd5ed2574698f54947f7f063b</guid>
+      <pubDate>Tue, 25 Aug 2026 03:50:06 GMT</pubDate>
+      <description><![CDATA[The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says it has a plan to counter them.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>NZ religious sect leader jailed over death of Chinese follower</title>
+      <link>https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e901cc2be824704e7cb946d2848e8df21f6991e0</guid>
+      <pubDate>Tue, 25 Aug 2026 03:07:34 GMT</pubDate>
+      <description><![CDATA[The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Severe storms, heavy rain threaten the Plains as heat dome fuels unsettled weather</title>
       <link>https://www.foxweather.com/weather-news/severe-storms-heavy-rain-threaten-plains-heat-dome-fuels-unsettled-weather</link>
       <guid isPermaLink="false">e27f9f051fe3640c181c23d1986372833bdfc10e</guid>
@@ -279,6 +311,14 @@
       <category>world</category>
     </item>
     <item>
+      <title>Tornado tears through French village leaving dozens injured</title>
+      <link>https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f641d9105f7cd4fd5c865ca37bdac5be2927b875</guid>
+      <pubDate>Tue, 25 Aug 2026 01:27:21 GMT</pubDate>
+      <description><![CDATA[The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Ex-Lakers player speaks out in defense of Enes Kanter, doubles down against WNBA's trans issue</title>
       <link>https://www.foxnews.com/outkick-sports/ex-lakers-player-speaks-defense-enes-kanter-doubles-down-against-wnbas-trans-issue</link>
       <guid isPermaLink="false">8703aab160c3d6f6b15e52561be13e50d54ab351</guid>
@@ -311,6 +351,14 @@
       <category>world</category>
     </item>
     <item>
+      <title>More than 70,000 social and affordable homes to be built across England</title>
+      <link>https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4f0532ffd883f250a5b4cd25df937f9f6e9ad859</guid>
+      <pubDate>Tue, 25 Aug 2026 00:32:20 GMT</pubDate>
+      <description><![CDATA[Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>More than 70,000 social and affordable homes to be built across England as part of £39bn plan</title>
       <link>https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">4f0532ffd883f250a5b4cd25df937f9f6e9ad859</guid>
@@ -332,54 +380,6 @@
       <guid isPermaLink="false">8f9c3ee0054cb8f8eff2e93f46ff1713a8dbe0a4</guid>
       <pubDate>Tue, 25 Aug 2026 00:17:47 GMT</pubDate>
       <description><![CDATA[The Trump administration is reportedly preparing to revoke B1 and B2 visas held by up to 200,000 foreigners who applied for asylum in the United States.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US removes Syria from list of state sponsors of terrorism</title>
-      <link>https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4ff6fd0394b8a139d6a881bb6654b8d5f198d9cf</guid>
-      <pubDate>Tue, 25 Aug 2026 00:17:25 GMT</pubDate>
-      <description><![CDATA[The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Moment tornado tears through southern France</title>
-      <link>https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e1edf19d96549135a38f55da2736bd78caccc7dc</guid>
-      <pubDate>Tue, 25 Aug 2026 00:16:35 GMT</pubDate>
-      <description><![CDATA[The tornado has injured more than 40 people and destroyed homes in villages.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ex-NBA player tells Laura Ingraham why WNBA can't ban him: 'I identify as a woman'</title>
-      <link>https://www.foxnews.com/outkick-sports/enes-kanter-freedom-exposes-natasha-clouds-profane-tirade-ingraham-angle-wnba-ejection</link>
-      <guid isPermaLink="false">43905a77e00af3b850e069fb908b366a533c5743</guid>
-      <pubDate>Tue, 25 Aug 2026 00:15:17 GMT</pubDate>
-      <description><![CDATA[Enes Kanter Freedom reveals exactly what Natasha Cloud screamed at him courtside before security ejected him from the Indiana Fever-Chicago Sky game.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Enes Kanter Freedom exposes Natasha Cloud's profane tirade on 'Ingraham Angle' after WNBA ejection</title>
-      <link>https://www.foxnews.com/outkick-sports/enes-kanter-freedom-exposes-natasha-clouds-profane-tirade-ingraham-angle-wnba-ejection</link>
-      <guid isPermaLink="false">43905a77e00af3b850e069fb908b366a533c5743</guid>
-      <pubDate>Tue, 25 Aug 2026 00:15:17 GMT</pubDate>
-      <description><![CDATA[Enes Kanter Freedom reveals exactly what Natasha Cloud screamed at him courtside before security ejected him from the Indiana Fever-Chicago Sky game.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>John Harbaugh calls it 'reasonable to assume' Malik Nabers will be available for Giants in Week 1 vs Cowboys</title>
-      <link>https://www.foxnews.com/outkick-sports/john-harbaugh-calls-reasonable-assume-malik-nabers-available-giants-week-1-vs-cowboys</link>
-      <guid isPermaLink="false">7dc315c0e7e139c9c16afb958785433c85c0d5de</guid>
-      <pubDate>Tue, 25 Aug 2026 00:06:02 GMT</pubDate>
-      <description><![CDATA[Malik Nabers shed his red non-contact jersey at Giants training camp, and head coach John Harbaugh said it's reasonable to assume he'll play Week 1.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Utah teen charged with killing mother, 8-year-old brother as mystery of final hours unravels: police</title>
-      <link>https://www.foxnews.com/us/utah-teen-charged-killing-mother-8-year-old-brother-mystery-final-hours-unravels-police</link>
-      <guid isPermaLink="false">e8c08b3211680e25c565f703bf221b620f59518b</guid>
-      <pubDate>Tue, 25 Aug 2026 00:01:16 GMT</pubDate>
-      <description><![CDATA[The Utah juvenile murder case against the 17-year-old includes surveillance audio allegedly capturing an argument and three gunshots inside the family's home.]]></description>
       <category>world</category>
     </item>
     <item>
