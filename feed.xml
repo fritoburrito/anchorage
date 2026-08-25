@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:26:11 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Overnight - Light Rain Likely</title>
+      <title>Anchorage Weather: Tonight - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 09:30:37 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 10:26:11 GMT</pubDate>
       <description><![CDATA[54°F. Wind S 5 to 10 mph. Rain likely. Cloudy, with a low around 54. South wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tuesday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 09:30:37 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 10:26:11 GMT</pubDate>
       <description><![CDATA[58°F. Wind SE 10 to 20 mph. Rain. Cloudy, with a high near 58. Southeast wind 10 to 20 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Tuesday Night - Light Rain then Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 09:30:37 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 10:26:11 GMT</pubDate>
       <description><![CDATA[49°F. Wind E 5 to 20 mph. Rain before 10pm, then rain showers likely. Cloudy, with a low around 49. East wind 5 to 20 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Wednesday - Chance Rain Showers then Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 09:30:37 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 10:26:11 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 5 mph. A chance of rain showers before 7am. Mostly sunny, with a high near 62. North wind around 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Wednesday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 09:30:37 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 10:26:11 GMT</pubDate>
       <description><![CDATA[45°F. Wind W 0 to 5 mph. Mostly clear, with a low around 45. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -215,6 +215,78 @@
       <category>local</category>
     </item>
     <item>
+      <title>Man dies in crash following police pursuit</title>
+      <link>https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fabfdb3686403b709ab2042fdb7c910f33480792</guid>
+      <pubDate>Tue, 25 Aug 2026 10:14:21 GMT</pubDate>
+      <description><![CDATA[A woman is also seriously injured and remains in hospital in critical condition.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>OnlyFans owner paid over $700m before his death</title>
+      <link>https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0fd24fdf8b9b3c8c543cedc67b04c1671876c1c4</guid>
+      <pubDate>Tue, 25 Aug 2026 10:09:00 GMT</pubDate>
+      <description><![CDATA[The site hosts a range of subscription-based content from cooking to fitness videos, but it is best known for pornography.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Yellow weather warnings issued as thunderstorms and flooding forecast</title>
+      <link>https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c4693853b7ff19fcf2daad37201ce7558c091b39</guid>
+      <pubDate>Tue, 25 Aug 2026 10:06:04 GMT</pubDate>
+      <description><![CDATA[The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Smithsonian-linked museum in El-Sayed’s backyard puts America’s post-9/11 response on trial</title>
+      <link>https://www.foxnews.com/politics/smithsonian-linked-museum-el-sayeds-backyard-puts-americas-post-9-11-response-trial</link>
+      <guid isPermaLink="false">e3e087e15337ebe6fd87200644e3b36008354cf8</guid>
+      <pubDate>Tue, 25 Aug 2026 10:00:58 GMT</pubDate>
+      <description><![CDATA[A Smithsonian Institution affiliate in Dearborn features exhibits arguing Arabs suffered unfair treatment after the Sept. 11 attacks on America.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>GLP-1 boom could reshape restaurant bars as diners cut back on alcohol</title>
+      <link>https://www.foxnews.com/food-drink/glp-1-boom-could-reshape-restaurant-bars-diners-cut-back-alcohol</link>
+      <guid isPermaLink="false">daa27974984f0b907c2b6a271a49881bb25a3515</guid>
+      <pubDate>Tue, 25 Aug 2026 10:00:45 GMT</pubDate>
+      <description><![CDATA[A new report reveals a growing interest in drink choices among restaurant customers. The report found that health is already influencing some Americans' decisions about alcohol.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Newsom's attack dog taunts Buttigieg over South Carolina visit as 2028 fight heats up</title>
+      <link>https://www.foxnews.com/politics/newsom-camp-taunts-buttigieg-over-black-voter-outreach-2028-fight-heats-up</link>
+      <guid isPermaLink="false">9e5d944054c81dc4befef9097def82dc5a74cd90</guid>
+      <pubDate>Tue, 25 Aug 2026 10:00:39 GMT</pubDate>
+      <description><![CDATA[A Gavin Newsom aide mocked former Transportation Secretary Pete Buttigieg's South Carolina NAACP visit as the Democratic Party faces a growing fight over Black voter outreach in 2028.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Blue state's water failures could threaten food supplies across US, lawmaker warns</title>
+      <link>https://www.foxnews.com/politics/blue-states-water-failures-could-threaten-food-supplies-across-us-lawmaker-warns</link>
+      <guid isPermaLink="false">ff55e8f5d20a4f1930680c67d960fc0814064810</guid>
+      <pubDate>Tue, 25 Aug 2026 10:00:39 GMT</pubDate>
+      <description><![CDATA[A key House Republican accuses Gavin Newsom of stressing the Colorado River supply by failing to build new dams and water infrastructure in California.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Prince William ‘blindsided’ by Harry, Meghan return as Kate fears new turmoil from royal feud: experts</title>
+      <link>https://www.foxnews.com/entertainment/prince-william-blindsided-harry-meghan-return-kate-fears-turmoil-royal-feud-experts</link>
+      <guid isPermaLink="false">719eab6ebe6079c2f4147072ab5de227183cad55</guid>
+      <pubDate>Tue, 25 Aug 2026 10:00:31 GMT</pubDate>
+      <description><![CDATA[Prince William was reportedly "blindsided" by the Sussexes' U.K. return, with royal experts saying he and Princess Catherine are concerned about the fallout.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Charlotte man accused of mass shooting threats at 5 schools released days before classes begin</title>
+      <link>https://www.foxnews.com/us/charlotte-man-accused-mass-shooting-threats-5-schools-released-days-before-classes-begin</link>
+      <guid isPermaLink="false">da74500578c9710b0d336803dfceae1614dea088</guid>
+      <pubDate>Tue, 25 Aug 2026 10:00:09 GMT</pubDate>
+      <description><![CDATA[Drew Andres Owens was released from Mecklenburg County Jail just three days before CMS students returned to class after allegedly threatening five schools.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?</title>
       <link>https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions</link>
       <guid isPermaLink="false">5c6750c9834dd1f7d85b7f7acd049ecd5774fb40</guid>
@@ -300,78 +372,6 @@
       <guid isPermaLink="false">3d3dc151412dd856eaf52df2cfa70e1622764845</guid>
       <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
       <description><![CDATA[President Trump's Education Department is telling schools to stop considering race when it comes to school discipline.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds</title>
-      <link>https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study</link>
-      <guid isPermaLink="false">9637f566789bd22e3d71017d0cef1217c0efd911</guid>
-      <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Playing football has long been linked to the brain disease known as CTE, but how prevalent it is is still unknown. A new study of former NFL players who died recently found that at least 25% had CTE.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show</title>
-      <link>https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge</link>
-      <guid isPermaLink="false">77a1f00472c8fe405116ba9944ab9ec2dbda4ee4</guid>
-      <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Morning news brief</title>
-      <link>https://www.npr.org/2026/08/25/nx-s1-5942903/morning-news-brief</link>
-      <guid isPermaLink="false">f8489daa95a4207ee7650183401267b54c92f327</guid>
-      <pubDate>Tue, 25 Aug 2026 08:44:36 GMT</pubDate>
-      <description><![CDATA[A look at the new round of U.S. economic sanctions on Iran, Iran vows to retaliate, SCOTUS hands President Trump a temporary win on his efforts to restrict voting by mail.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series</title>
-      <link>https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c4ac7b475696e48b065d9e722e165805a41579ca</guid>
-      <pubDate>Tue, 25 Aug 2026 07:39:25 GMT</pubDate>
-      <description><![CDATA[X-Men star Hoult was only announced as Lockhart two weeks ago but has had to drop out.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Lockerbie bombing trial postponed days before it was due to start</title>
-      <link>https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">41f66579f418cf68db44ef3c7859515ba138c2fc</guid>
-      <pubDate>Tue, 25 Aug 2026 06:59:03 GMT</pubDate>
-      <description><![CDATA[The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Burnham refuses to rule out tax rises in autumn Budget</title>
-      <link>https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d182da4b0c92c15cc523a3d07eeae9726f16778d</guid>
-      <pubDate>Tue, 25 Aug 2026 06:40:33 GMT</pubDate>
-      <description><![CDATA[Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Iran says it is 'fully prepared' to counter widened US economic sanctions</title>
-      <link>https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6655729cdf1212abd5ed2574698f54947f7f063b</guid>
-      <pubDate>Tue, 25 Aug 2026 06:16:28 GMT</pubDate>
-      <description><![CDATA[The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says it has a plan to counter them.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>More than 70,000 social and affordable homes to be built across England over 10 years</title>
-      <link>https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4f0532ffd883f250a5b4cd25df937f9f6e9ad859</guid>
-      <pubDate>Tue, 25 Aug 2026 05:41:08 GMT</pubDate>
-      <description><![CDATA[Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Indonesians brave choking smoke to pray for rain as country battles wildfires</title>
-      <link>https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires</link>
-      <guid isPermaLink="false">ade6dc3362bf723df5494b0ef36dfe2dbb4d181f</guid>
-      <pubDate>Tue, 25 Aug 2026 05:24:16 GMT</pubDate>
-      <description><![CDATA[Huge blazes in central and western regions of Indonesia have scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities.]]></description>
       <category>world</category>
     </item>
     <item>
