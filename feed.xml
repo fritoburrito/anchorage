@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 00:59:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 02:19:53 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: This Afternoon - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 00:59:09 GMT</pubDate>
-      <description><![CDATA[62°F. Wind SW 5 mph. Mostly cloudy, with a high near 62. Southwest wind around 5 mph.]]></description>
+      <pubDate>Tue, 25 Aug 2026 02:19:53 GMT</pubDate>
+      <description><![CDATA[62°F. Wind W 5 mph. Mostly cloudy, with a high near 62. West wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 00:59:09 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 02:19:53 GMT</pubDate>
       <description><![CDATA[54°F. Wind S 5 to 10 mph. Rain likely after 10pm. Cloudy, with a low around 54. South wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Tuesday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 00:59:09 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 02:19:53 GMT</pubDate>
       <description><![CDATA[58°F. Wind SE 10 to 20 mph. Rain. Cloudy, with a high near 58. Southeast wind 10 to 20 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Tuesday Night - Light Rain then Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 00:59:09 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 02:19:53 GMT</pubDate>
       <description><![CDATA[49°F. Wind E 5 to 20 mph. Rain before 10pm, then rain showers likely. Cloudy, with a low around 49. East wind 5 to 20 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +42,25 @@
       <title>Anchorage Weather: Wednesday - Chance Rain Showers then Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 00:59:09 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 02:19:53 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 5 mph. A chance of rain showers before 7am. Partly sunny, with a high near 62. North wind around 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Chronic conditions persist in Alaska, but there are bright spots in latest health report</title>
+      <link>https://alaskabeacon.com/2026/08/24/chronic-conditions-persist-in-alaska-but-there-are-bright-spots-in-latest-health-report/</link>
+      <guid isPermaLink="false">ed2e459845a764b97fbfe0b0122db40fc43198fe</guid>
+      <pubDate>Tue, 25 Aug 2026 01:48:37 GMT</pubDate>
+      <description><![CDATA[Alaskans face chronic health problems that are not yet easing and, in some cases, getting worse, according to a new status report released by the Alaska Department of Health. At the same time, there are signs of improvement in health, health care and the socioeconomic conditions that support well-being, particularly among youth, according to the […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Monday, August 24, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17427902/newscast-monday-august-24-2026</link>
+      <guid isPermaLink="false">52ce31ec092191ece8b1d40e374433c3d6e46d9c</guid>
+      <pubDate>Tue, 25 Aug 2026 00:59:59 GMT</pubDate>
+      <description><![CDATA[In this newscast: The U.S. Army Corps of Engineers plans to end Juneau's annual glacial lake outburst flood before the flood of 2030; The state approved the first segment of a new access road for the controversial New Amalga gold mine in Juneau; The Alaska Marine Highway System will finally receive $410 million in federal grant money; Federal investigators say a charter plane crashed into a remote area of Southwest Alaska on Thursday after attempting a second landing; At least nine brown bears have been eating out of Kodiak Island Borough's landfill this summer]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Dismantling the Roadless Rule threatens to disrupt wildlife, water and peace</title>
@@ -199,6 +215,70 @@
       <category>local</category>
     </item>
     <item>
+      <title>Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses</title>
+      <link>https://www.foxnews.com/us/illegal-immigrant-accused-fentanyl-dealing-linked-virginia-high-school-overdoses</link>
+      <guid isPermaLink="false">b2a0c22f313dae292d012778e0d0e3daeec09895</guid>
+      <pubDate>Tue, 25 Aug 2026 01:57:08 GMT</pubDate>
+      <description><![CDATA[Isaac Melendez-Carranza, an illegal immigrant from El Salvador, allegedly dealt fentanyl near Park View High School in Loudoun County, Virginia.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia</title>
+      <link>https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6c51db20726b25637c85877b3aaaffcd98f60316</guid>
+      <pubDate>Tue, 25 Aug 2026 01:48:24 GMT</pubDate>
+      <description><![CDATA[It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Burnham vows support for Ukraine despite 'outrageous threats' from Russia</title>
+      <link>https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6c51db20726b25637c85877b3aaaffcd98f60316</guid>
+      <pubDate>Tue, 25 Aug 2026 01:48:24 GMT</pubDate>
+      <description><![CDATA[It comes after Moscow warned of "consequences" over the reported use of British drones by Ukraine.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Houston Uber driver caught in wild police chase as officers seen on dashcam video hitching a ride in his car</title>
+      <link>https://www.foxnews.com/us/houston-uber-driver-caught-wild-police-chase-officers-seen-dashcam-video-hitching-ride-his-car</link>
+      <guid isPermaLink="false">a5d33428a58930d31aeebd7f110a72d32a8a8daf</guid>
+      <pubDate>Tue, 25 Aug 2026 01:45:11 GMT</pubDate>
+      <description><![CDATA[The dashcam video shows Houston police riding with the Uber driver for several minutes before spotting the suspect and resuming pursuit on foot.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Abdul El-Sayed grilled on past statements on Sharia law and White supremacy, taxing the rich</title>
+      <link>https://www.foxnews.com/media/abdul-el-sayed-grilled-past-statements-sharia-law-white-supremacy-taxing-rich</link>
+      <guid isPermaLink="false">e7e475328f4512a545e9e1f7403a1282289184a5</guid>
+      <pubDate>Tue, 25 Aug 2026 01:40:40 GMT</pubDate>
+      <description><![CDATA[Abdul El-Sayed clashed with Jesse Watters over Sharia law, wealth taxes, and his Senate race against Mike Rogers in a fiery primetime exchange.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Trump administration proposes six-figure price tag for new H-1B visas</title>
+      <link>https://www.foxnews.com/politics/trump-administration-proposes-six-figure-price-tag-new-h-1b-visas</link>
+      <guid isPermaLink="false">6ee22f53d92e1dbbfc7d9f51f3aff285a088e430</guid>
+      <pubDate>Tue, 25 Aug 2026 01:30:02 GMT</pubDate>
+      <description><![CDATA[The Department of Homeland Security proposed making the $103,265 H-1B visa fee permanent after a federal judge blocked the temporary charge.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ex-Lakers player speaks out in defense of Enes Kanter, doubles down against WNBA's trans issue</title>
+      <link>https://www.foxnews.com/outkick-sports/ex-lakers-player-speaks-defense-enes-kanter-doubles-down-against-wnbas-trans-issue</link>
+      <guid isPermaLink="false">8703aab160c3d6f6b15e52561be13e50d54ab351</guid>
+      <pubDate>Tue, 25 Aug 2026 01:08:40 GMT</pubDate>
+      <description><![CDATA[Matt Ryan backed Enes Kanter Freedom's ejection from the Indiana Fever-Chicago Sky game, calling out the WNBA's failure to protect women's sports.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rob Manfred addresses possibility of cancelling 2027 Major League Baseball season: 'We want to play'</title>
+      <link>https://www.foxnews.com/outkick-sports/rob-manfred-addresses-possibility-cancelling-2027-major-league-baseball-season-want-play</link>
+      <guid isPermaLink="false">94580f4e8ba5dacdb987db5e5203308c887101b0</guid>
+      <pubDate>Tue, 25 Aug 2026 00:57:10 GMT</pubDate>
+      <description><![CDATA[Rob Manfred said Major League Baseball "wants" and is "planning" to play in 2027 but stopped short of guaranteeing no lockout as CBA talks continue.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>More details about Jed York's arrest in a prostitution sting come to light and begs questions about the 49ers</title>
       <link>https://www.foxnews.com/outkick-sports/details-jed-yorks-arrest-prostitution-sting-begs-questions-49ers</link>
       <guid isPermaLink="false">3bfca82d9c4c3701806ec7265ff0ec7059c702cf</guid>
@@ -212,6 +292,14 @@
       <guid isPermaLink="false">c5dedd7d56ace35217068fe4149269f70378ff0a</guid>
       <pubDate>Tue, 25 Aug 2026 00:34:54 GMT</pubDate>
       <description><![CDATA[The United States formally removed Syria from its state sponsors of terrorism list after Marco Rubio authorized the rescission and delisted HTS.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>70,000 social and affordable homes to be built across England as part of £39bn plan</title>
+      <link>https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4f0532ffd883f250a5b4cd25df937f9f6e9ad859</guid>
+      <pubDate>Tue, 25 Aug 2026 00:32:20 GMT</pubDate>
+      <description><![CDATA[Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -236,6 +324,14 @@
       <guid isPermaLink="false">e1edf19d96549135a38f55da2736bd78caccc7dc</guid>
       <pubDate>Tue, 25 Aug 2026 00:16:35 GMT</pubDate>
       <description><![CDATA[The tornado has injured more than 40 people and destroyed homes in villages.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ex-NBA player tells Laura Ingraham why WNBA can't ban him: 'I identify as a woman'</title>
+      <link>https://www.foxnews.com/outkick-sports/enes-kanter-freedom-exposes-natasha-clouds-profane-tirade-ingraham-angle-wnba-ejection</link>
+      <guid isPermaLink="false">43905a77e00af3b850e069fb908b366a533c5743</guid>
+      <pubDate>Tue, 25 Aug 2026 00:15:17 GMT</pubDate>
+      <description><![CDATA[Enes Kanter Freedom reveals exactly what Natasha Cloud screamed at him courtside before security ejected him from the Indiana Fever-Chicago Sky game.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -279,92 +375,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Sydney Sweeney tells Tom Cruise to 'watch out' after strapping herself to top of airplane</title>
-      <link>https://www.foxnews.com/entertainment/sydney-sweeney-tells-tom-cruise-watch-out-strapping-herself-top-airplane</link>
-      <guid isPermaLink="false">20829f62641ea1ea606d2d35097cea3566185c24</guid>
-      <pubDate>Mon, 24 Aug 2026 23:39:37 GMT</pubDate>
-      <description><![CDATA[Sydney Sweeney's video shows her strapped atop a flipping airplane, prompting the official "Top Gun" Instagram account to respond to her Tom Cruise joke.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Teen hiker's disappearance ends in tragedy at national park with key question remaining</title>
-      <link>https://www.foxnews.com/travel/teen-hiker-disappearance-ends-tragedy-national-park-key-question-remaining</link>
-      <guid isPermaLink="false">10aea24c49c8f045da68ae0cb8c985c57d3e020f</guid>
-      <pubDate>Mon, 24 Aug 2026 23:30:29 GMT</pubDate>
-      <description><![CDATA[The body of teenager Lily Hooper was apparently found in Nattai National Park bushland after an eight-day search, with NSW Police preparing a report for the coroner.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Home-testing kits now available for women in England who have missed cervical screening</title>
-      <link>https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">81329bb200aa47063e560b2698bfe85dece91d4f</guid>
-      <pubDate>Mon, 24 Aug 2026 23:27:50 GMT</pubDate>
-      <description><![CDATA[Nearly 4 million women in England can order a self-testing kits to check for high-risk HPV.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The grieving family who says the coroner's courts aren't working</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">77e995874a324ce8ceb8f89f58e98cda64503a5a</guid>
-      <pubDate>Mon, 24 Aug 2026 23:09:16 GMT</pubDate>
-      <description><![CDATA[One man's death highlights the growing strains on the UK's coroner's courts]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ole Miss had FBI agent sweep football facility for bugs after Lane Kiffin left for LSU</title>
-      <link>https://www.foxnews.com/outkick-sports/ole-miss-fbi-agent-sweep-football-facility-bugs-lane-kiffin-left-lsu</link>
-      <guid isPermaLink="false">25321bda34ba6f2ecbab56ec9b554ec184b12b39</guid>
-      <pubDate>Mon, 24 Aug 2026 22:59:15 GMT</pubDate>
-      <description><![CDATA[Ole Miss officials feared electronic surveillance after Lane Kiffin took multiple assistants to LSU ahead of the college football playoff game.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment</title>
-      <link>https://www.foxnews.com/world/putin-panicked-defiant-ukraine-marks-independence-day-under-russian-bombardment</link>
-      <guid isPermaLink="false">d28fd18fdc71fc52a798af9ad56652a13754578b</guid>
-      <pubDate>Mon, 24 Aug 2026 22:53:40 GMT</pubDate>
-      <description><![CDATA[Ukraine celebrated 35 years of independence amid fresh Russian attacks as an expert said Kyiv’s deep strikes and battlefield pressure have left Putin rattled.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Another celestial show is coming as partial lunar eclipse takes center stage for billions</title>
       <link>https://www.foxweather.com/weather-news/celestial-show-partial-lunar-eclipse-visible-billions</link>
       <guid isPermaLink="false">4d1869203431eb7e6bb4b4801f0272b6e7e44f04</guid>
       <pubDate>Mon, 24 Aug 2026 22:49:55 GMT</pubDate>
       <description><![CDATA[Yet another celestial event will dazzle the sky this week as a partial lunar eclipse becomes visible across much of North and South America.]]></description>
       <category>politics</category>
-    </item>
-    <item>
-      <title>'National Treasure' director predicts upcoming third film won't be able to 'ignore' politics</title>
-      <link>https://www.foxnews.com/media/national-treasure-director-predicts-upcoming-third-film-wont-ignore-politics</link>
-      <guid isPermaLink="false">5d1cde7f7c8a4104a9ec140838aec197740ce3d4</guid>
-      <pubDate>Mon, 24 Aug 2026 22:41:55 GMT</pubDate>
-      <description><![CDATA[Director Jon Turteltaub said political polarization delayed "National Treasure 3" and explained the finished script will have to address modern politics.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kacey Musgraves divides fans with immigrant children’s plea, faces boycott calls to ‘shut up and sing’</title>
-      <link>https://www.foxnews.com/entertainment/kacey-musgraves-divides-fans-immigrant-children-plea-faces-boycott-calls-shut-up-sing</link>
-      <guid isPermaLink="false">841a423aa3637a34776158a7da79a46e4940fe21</guid>
-      <pubDate>Mon, 24 Aug 2026 22:41:36 GMT</pubDate>
-      <description><![CDATA[Kacey Musgraves asked fans to donate to the Young Center for Immigrant Children's Rights during her tour opener, sparking a divided reaction on social media.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Six months on, U.S. Navy families who evacuated Bahrain remain in limbo</title>
-      <link>https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo</link>
-      <guid isPermaLink="false">f7e5493261451d112769d8e5d22b77b45c472bd8</guid>
-      <pubDate>Mon, 24 Aug 2026 22:22:13 GMT</pubDate>
-      <description><![CDATA[When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NFL Sunday Ticket is no longer worth the price | Bobby Burack</title>
-      <link>https://www.foxnews.com/outkick-sports/nfl-sunday-ticket-no-longer-worth-price-bobby-burack</link>
-      <guid isPermaLink="false">3e62774a6b4e052c820d66df80be56787ae61603</guid>
-      <pubDate>Mon, 24 Aug 2026 22:20:25 GMT</pubDate>
-      <description><![CDATA[NFL Sunday Ticket on YouTube costs up to $480, but expanded primetime windows on Netflix and Amazon Prime mean fewer out-of-market games remain.]]></description>
-      <category>weather</category>
     </item>
     <item>
       <title>Invest 96L designated in the Atlantic with another area to watch as El Niño continues to strengthen</title>
@@ -508,22 +524,6 @@
       <guid isPermaLink="false">65abeca9f28bfa3894cc8139d2dd69feddf47d4a</guid>
       <pubDate>Sat, 22 Aug 2026 21:21:17 GMT</pubDate>
       <description><![CDATA[Two fishermen were found in quite the conundrum after being spotted floating inside a cooler in the Pacific Ocean. Mexican authorities said the two had been lost at sea for five days, about 150 miles from Chiapas.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Tourist dies in Death Valley National Park after becoming stranded in triple-digit heat</title>
-      <link>https://www.foxweather.com/weather-news/french-tourist-dies-death-valley-national-park</link>
-      <guid isPermaLink="false">2dbf368e254e6e5fa6b2a442961cea31939a040b</guid>
-      <pubDate>Sat, 22 Aug 2026 21:17:15 GMT</pubDate>
-      <description><![CDATA[A 68-year-old French tourist died after his vehicle became stuck on a remote road in Death Valley National Park, prompting him and his travel companion to set out for help as temperatures climbed to 116 degrees.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>First taste of fall on the way as cooler air targets the eastern US</title>
-      <link>https://www.foxweather.com/weather-news/first-taste-fall-early-season-change-approaches-us</link>
-      <guid isPermaLink="false">c2fa7c56f1733a8ad0f8c2fe8f197d91400d415d</guid>
-      <pubDate>Sat, 22 Aug 2026 19:53:23 GMT</pubDate>
-      <description><![CDATA[A sweeping cold front will bring a taste of fall to millions across the eastern U.S., sending temperatures tumbling from the Ohio Valley to the Northeast.]]></description>
       <category>weather</category>
     </item>
   </channel>
