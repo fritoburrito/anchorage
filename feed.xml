@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 02:19:53 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Mostly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 02:19:53 GMT</pubDate>
-      <description><![CDATA[62°F. Wind W 5 mph. Mostly cloudy, with a high near 62. West wind around 5 mph.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 03:44:01 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 02:19:53 GMT</pubDate>
-      <description><![CDATA[54°F. Wind S 5 to 10 mph. Rain likely after 10pm. Cloudy, with a low around 54. South wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
+      <pubDate>Tue, 25 Aug 2026 03:44:01 GMT</pubDate>
+      <description><![CDATA[54°F. Wind S 5 to 10 mph. Rain likely. Cloudy, with a low around 54. South wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tuesday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 02:19:53 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 03:44:01 GMT</pubDate>
       <description><![CDATA[58°F. Wind SE 10 to 20 mph. Rain. Cloudy, with a high near 58. Southeast wind 10 to 20 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Tuesday Night - Light Rain then Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 02:19:53 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 03:44:01 GMT</pubDate>
       <description><![CDATA[49°F. Wind E 5 to 20 mph. Rain before 10pm, then rain showers likely. Cloudy, with a low around 49. East wind 5 to 20 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -42,8 +34,16 @@
       <title>Anchorage Weather: Wednesday - Chance Rain Showers then Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 02:19:53 GMT</pubDate>
+      <pubDate>Tue, 25 Aug 2026 03:44:01 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 5 mph. A chance of rain showers before 7am. Partly sunny, with a high near 62. North wind around 5 mph. Chance of precipitation is 30%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Wednesday Night - Slight Chance Rain Showers</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Tue, 25 Aug 2026 03:44:01 GMT</pubDate>
+      <description><![CDATA[45°F. Wind W 0 to 5 mph. A slight chance of rain showers between 10pm and 4am. Partly cloudy, with a low around 45. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -215,6 +215,22 @@
       <category>local</category>
     </item>
     <item>
+      <title>Severe storms, heavy rain threaten the Plains as heat dome fuels unsettled weather</title>
+      <link>https://www.foxweather.com/weather-news/severe-storms-heavy-rain-threaten-plains-heat-dome-fuels-unsettled-weather</link>
+      <guid isPermaLink="false">e27f9f051fe3640c181c23d1986372833bdfc10e</guid>
+      <pubDate>Tue, 25 Aug 2026 02:56:58 GMT</pubDate>
+      <description><![CDATA[After days of relentless heat, severe weather and heavy rain are expected to develop across the Plains this week, bringing the threat of damaging winds, large hail and flood threat. This comes as powerful, ridge-riding storms track along the northern edge of a large heat dome currently impacting the Southwest.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>French tourist dies in Death Valley after car gets stuck in mud</title>
+      <link>https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1212227fd667d31eeb5c390645aa3a3140cdce7e</guid>
+      <pubDate>Tue, 25 Aug 2026 02:08:57 GMT</pubDate>
+      <description><![CDATA[The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses</title>
       <link>https://www.foxnews.com/us/illegal-immigrant-accused-fentanyl-dealing-linked-virginia-high-school-overdoses</link>
       <guid isPermaLink="false">b2a0c22f313dae292d012778e0d0e3daeec09895</guid>
@@ -295,6 +311,14 @@
       <category>world</category>
     </item>
     <item>
+      <title>More than 70,000 social and affordable homes to be built across England as part of £39bn plan</title>
+      <link>https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4f0532ffd883f250a5b4cd25df937f9f6e9ad859</guid>
+      <pubDate>Tue, 25 Aug 2026 00:32:20 GMT</pubDate>
+      <description><![CDATA[Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>70,000 social and affordable homes to be built across England as part of £39bn plan</title>
       <link>https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">4f0532ffd883f250a5b4cd25df937f9f6e9ad859</guid>
@@ -356,22 +380,6 @@
       <guid isPermaLink="false">e8c08b3211680e25c565f703bf221b620f59518b</guid>
       <pubDate>Tue, 25 Aug 2026 00:01:16 GMT</pubDate>
       <description><![CDATA[The Utah juvenile murder case against the 17-year-old includes surveillance audio allegedly capturing an argument and three gunshots inside the family's home.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nearly three million Teslas recalled in China over hidden door handles</title>
-      <link>https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">398564c7de840bd4186e427252b6353dccbb6a87</guid>
-      <pubDate>Mon, 24 Aug 2026 23:53:32 GMT</pubDate>
-      <description><![CDATA[Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Iran faces 'greatest financial offensive ever', says US treasury secretary</title>
-      <link>https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6655729cdf1212abd5ed2574698f54947f7f063b</guid>
-      <pubDate>Mon, 24 Aug 2026 23:48:25 GMT</pubDate>
-      <description><![CDATA[Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">45e7f95b2407d5eea6826924f54413ed2084afc6</guid>
       <pubDate>Sun, 23 Aug 2026 00:50:11 GMT</pubDate>
       <description><![CDATA[Relentless triple-digit heat is tightening its grip on the Southern Plains, with Texas and Oklahoma facing more potential records as worsening drought and a lack of rain add to the concern.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Watch: 2 fishermen rescued after being trapped floating inside cooler in Pacific Ocean for several days</title>
-      <link>https://www.foxweather.com/weather-news/video-fishermen-rescued-floating-cooler-pacific-ocean</link>
-      <guid isPermaLink="false">65abeca9f28bfa3894cc8139d2dd69feddf47d4a</guid>
-      <pubDate>Sat, 22 Aug 2026 21:21:17 GMT</pubDate>
-      <description><![CDATA[Two fishermen were found in quite the conundrum after being spotted floating inside a cooler in the Pacific Ocean. Mexican authorities said the two had been lost at sea for five days, about 150 miles from Chiapas.]]></description>
       <category>weather</category>
     </item>
   </channel>

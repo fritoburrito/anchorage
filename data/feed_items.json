@@ -1,5 +1,15 @@
 [
   {
+    "title": "Severe storms, heavy rain threaten the Plains as heat dome fuels unsettled weather",
+    "link": "https://www.foxweather.com/weather-news/severe-storms-heavy-rain-threaten-plains-heat-dome-fuels-unsettled-weather",
+    "description": "After days of relentless heat, severe weather and heavy rain are expected to develop across the Plains this week, bringing the threat of damaging winds, large hail and flood threat. This comes as powerful, ridge-riding storms track along the northern edge of a large heat dome currently impacting the Southwest.",
+    "pubDate": "Tue, 25 Aug 2026 02:56:58 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "Chronic conditions persist in Alaska, but there are bright spots in latest health report",
     "link": "https://alaskabeacon.com/2026/08/24/chronic-conditions-persist-in-alaska-but-there-are-bright-spots-in-latest-health-report/",
     "description": "Alaskans face chronic health problems that are not yet easing and, in some cases, getting worse, according to a new status report released by the Alaska Department of Health. At the same time, there are signs of improvement in health, health care and the socioeconomic conditions that support well-being, particularly among youth, according to the [\u2026]",
@@ -390,14 +400,14 @@
     "rank": 100
   },
   {
-    "title": "Watch: 2 fishermen rescued after being trapped floating inside cooler in Pacific Ocean for several days",
-    "link": "https://www.foxweather.com/weather-news/video-fishermen-rescued-floating-cooler-pacific-ocean",
-    "description": "Two fishermen were found in quite the conundrum after being spotted floating inside a cooler in the Pacific Ocean. Mexican authorities said the two had been lost at sea for five days, about 150 miles from Chiapas.",
-    "pubDate": "Sat, 22 Aug 2026 21:21:17 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "French tourist dies in Death Valley after car gets stuck in mud",
+    "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+    "description": "The 68-year-old man was found dead in California's salt flats amid 116\u00b0F (46.6C) heat.",
+    "pubDate": "Tue, 25 Aug 2026 02:08:57 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
     "title": "Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses",
@@ -500,6 +510,16 @@
     "rank": 10
   },
   {
+    "title": "More than 70,000 social and affordable homes to be built across England as part of \u00a339bn plan",
+    "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+    "description": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as \u00a36bn for London.",
+    "pubDate": "Tue, 25 Aug 2026 00:32:20 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
     "title": "70,000 social and affordable homes to be built across England as part of \u00a339bn plan",
     "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
     "description": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as \u00a36bn for London.",
@@ -580,40 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Nearly three million Teslas recalled in China over hidden door handles",
-    "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-    "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-    "pubDate": "Mon, 24 Aug 2026 23:53:32 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-    "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-    "pubDate": "Mon, 24 Aug 2026 23:48:25 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon - Mostly Cloudy",
-    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "62\u00b0F. Wind W 5 mph. Mostly cloudy, with a high near 62. West wind around 5 mph.",
-    "pubDate": "Tue, 25 Aug 2026 02:19:53 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "National Weather Service Anchorage",
-    "rank": 0
-  },
-  {
     "title": "Anchorage Weather: Tonight - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "54\u00b0F. Wind S 5 to 10 mph. Rain likely after 10pm. Cloudy, with a low around 54. South wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Tue, 25 Aug 2026 02:19:53 GMT",
+    "description": "54\u00b0F. Wind S 5 to 10 mph. Rain likely. Cloudy, with a low around 54. South wind 5 to 10 mph. Chance of precipitation is 70%.",
+    "pubDate": "Tue, 25 Aug 2026 03:44:01 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +613,7 @@
     "title": "Anchorage Weather: Tuesday - Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "58\u00b0F. Wind SE 10 to 20 mph. Rain. Cloudy, with a high near 58. Southeast wind 10 to 20 mph. Chance of precipitation is 90%.",
-    "pubDate": "Tue, 25 Aug 2026 02:19:53 GMT",
+    "pubDate": "Tue, 25 Aug 2026 03:44:01 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +623,7 @@
     "title": "Anchorage Weather: Tuesday Night - Light Rain then Rain Showers Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "49\u00b0F. Wind E 5 to 20 mph. Rain before 10pm, then rain showers likely. Cloudy, with a low around 49. East wind 5 to 20 mph. Chance of precipitation is 80%.",
-    "pubDate": "Tue, 25 Aug 2026 02:19:53 GMT",
+    "pubDate": "Tue, 25 Aug 2026 03:44:01 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +633,17 @@
     "title": "Anchorage Weather: Wednesday - Chance Rain Showers then Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "62\u00b0F. Wind N 5 mph. A chance of rain showers before 7am. Partly sunny, with a high near 62. North wind around 5 mph. Chance of precipitation is 30%.",
-    "pubDate": "Tue, 25 Aug 2026 02:19:53 GMT",
+    "pubDate": "Tue, 25 Aug 2026 03:44:01 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "National Weather Service Anchorage",
+    "rank": 0
+  },
+  {
+    "title": "Anchorage Weather: Wednesday Night - Slight Chance Rain Showers",
+    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+    "description": "45\u00b0F. Wind W 0 to 5 mph. A slight chance of rain showers between 10pm and 4am. Partly cloudy, with a low around 45. West wind 0 to 5 mph.",
+    "pubDate": "Tue, 25 Aug 2026 03:44:01 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
