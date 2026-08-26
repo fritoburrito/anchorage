@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:30:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:24:28 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Overnight - Chance Rain Showers</title>
+      <title>Anchorage Weather: Tonight - Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 26 Aug 2026 10:30:01 GMT</pubDate>
-      <description><![CDATA[45°F. Wind NE 5 mph. A chance of rain showers before 4am. Partly cloudy, with a low around 45. Northeast wind around 5 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Wed, 26 Aug 2026 11:24:28 GMT</pubDate>
+      <description><![CDATA[45°F. Wind NE 5 mph. Rain showers likely before 4am. Mostly cloudy, with a low around 45. Northeast wind around 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Wednesday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 26 Aug 2026 10:30:01 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 11:24:28 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 5 mph. Mostly sunny, with a high near 62. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Wednesday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 26 Aug 2026 10:30:01 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 11:24:28 GMT</pubDate>
       <description><![CDATA[42°F. Wind SW 0 to 5 mph. Mostly clear, with a low around 42. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Thursday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 26 Aug 2026 10:30:01 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 11:24:28 GMT</pubDate>
       <description><![CDATA[60°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 60. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Thursday Night - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 26 Aug 2026 10:30:01 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 11:24:28 GMT</pubDate>
       <description><![CDATA[49°F. Wind S 0 to 5 mph. Rain likely after 10pm. Mostly cloudy, with a low around 49. South wind 0 to 5 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -271,6 +271,134 @@
       <category>local</category>
     </item>
     <item>
+      <title>Murder probe as two people dead in house fire</title>
+      <link>https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fcb1520c7ccb21c5b4e9e49243be354d3c88c3f2</guid>
+      <pubDate>Wed, 26 Aug 2026 11:22:31 GMT</pubDate>
+      <description><![CDATA[Cleveland Police says it "cannot rule out any links to wider organised crime" after the fire near Middlesbrough.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Prince Harry and Meghan due to arrive in UK today</title>
+      <link>https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">aa82411670bcd55012e1d6177fe9e04e4a2791df</guid>
+      <pubDate>Wed, 26 Aug 2026 11:22:19 GMT</pubDate>
+      <description><![CDATA[Prince Harry, Meghan, and their two children are believed to be flying into the country privately from California.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>California Dems trigger outrage after siding with convicted child sex offenders in shocking vote</title>
+      <link>https://www.foxnews.com/politics/california-dems-trigger-outrage-after-siding-convicted-child-sex-offenders-shocking-vote</link>
+      <guid isPermaLink="false">a5b9cca4802d77b97118bfa416f2f15feed42e1e</guid>
+      <pubDate>Wed, 26 Aug 2026 11:16:24 GMT</pubDate>
+      <description><![CDATA[California Senate Democrats rejected a Republican effort to ban all sex offender registry tiers from holding public office, including school board seats, in a party-line vote.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>WNBA coach leaves it to the league to handle transgender eligibility issue amid mounting criticism</title>
+      <link>https://www.foxnews.com/outkick-sports/wnba-coach-leaves-league-handle-transgender-eligibility-issue-amid-mounting-criticism</link>
+      <guid isPermaLink="false">42ac5fa7598849f3ffb198d3d4905340cd16660a</guid>
+      <pubDate>Wed, 26 Aug 2026 11:10:12 GMT</pubDate>
+      <description><![CDATA[Nate Tibbetts deferred to the WNBA league office on the transgender eligibility policy after Charles Barkley criticized Adam Silver and Cathy Engelbert.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton</title>
+      <link>https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters</link>
+      <guid isPermaLink="false">87184208ba807466f4038126415fef613e4695fa</guid>
+      <pubDate>Wed, 26 Aug 2026 11:05:46 GMT</pubDate>
+      <description><![CDATA[Canada has announced it plans to hit the U.S. with countertariffs that mirror its actions "dollar for dollar." And, remembering the legacy of country star and icon Dolly Parton, who died at 80.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Household energy bills to hit three-year high as Ofgem announces 4% rise from October</title>
+      <link>https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3072f2146f51556371e7a922fdfe7e129c31a2c4</guid>
+      <pubDate>Wed, 26 Aug 2026 11:03:50 GMT</pubDate>
+      <description><![CDATA[A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Four teens kill couple in head-on crash after stealing G-Wagon, leading cops on hours-long chase: police</title>
+      <link>https://www.foxnews.com/us/four-teens-kill-couple-head-on-crash-stealing-g-wagon-leading-cops-hours-long-chase-police</link>
+      <guid isPermaLink="false">941af0a11314dd6767921c27a3e24f0a1bde39ad</guid>
+      <pubDate>Wed, 26 Aug 2026 11:00:47 GMT</pubDate>
+      <description><![CDATA[A stolen Mercedes G Wagon's joyride ended in tragedy in New Jersey when the SUV struck a sedan, killing a beloved mother and her longtime partner.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>‘Captain Canada’ firebrand unloads on Trump with profane one-liner as trade war escalates</title>
+      <link>https://www.foxnews.com/politics/captain-canada-firebrand-unloads-trump-profane-one-liner-trade-war-escalates</link>
+      <guid isPermaLink="false">e5eed2ff2a0c897851e18021e8165b84b36dd949</guid>
+      <pubDate>Wed, 26 Aug 2026 11:00:47 GMT</pubDate>
+      <description><![CDATA[Ontario Premier Doug Ford told President Donald Trump to "kiss my as*" on CP24 after Trump mocked him as less impressive than late brother Rob Ford.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The Left’s constitutional hypocrisy is on full display in its war on Trump</title>
+      <link>https://www.foxnews.com/opinion/lefts-constitutional-hypocrisy-full-display-war-trump</link>
+      <guid isPermaLink="false">0c36fadf2ef469d92afa505c39ad67e7d906ae3f</guid>
+      <pubDate>Wed, 26 Aug 2026 11:00:46 GMT</pubDate>
+      <description><![CDATA[Trump's resistance to judicial rulings on birthright citizenship and tariffs echoes Jefferson, Lincoln, and Roosevelt's departmentalist tradition.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The bravest Jews in America are 15 years old — and they’re going back to school</title>
+      <link>https://www.foxnews.com/opinion/bravest-jews-america-15-years-old-theyre-going-back-school</link>
+      <guid isPermaLink="false">52582383ce4f7a98ccadc82ca34d223973aab762</guid>
+      <pubDate>Wed, 26 Aug 2026 11:00:38 GMT</pubDate>
+      <description><![CDATA[Every August American parents add new worries to back-to-school lists, but Jewish Student Union teens are building community instead of hiding identity.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dolly Parton's life in her own words: from Smoky Mountains poverty to country music immortality</title>
+      <link>https://www.foxnews.com/entertainment/dolly-parton-life-own-words-smoky-mountains-poverty-country-music-immortality</link>
+      <guid isPermaLink="false">e06e25ae0f4ff8e1a6304fbcdf7b98cf093ec618</guid>
+      <pubDate>Wed, 26 Aug 2026 11:00:33 GMT</pubDate>
+      <description><![CDATA[Dolly Parton's life in her own words reveals her Smoky Mountains childhood, faith, marriage to Carl Dean and her views on aging and what comes after.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Eating less of common ingredient early in life may slash cancer risk decades later</title>
+      <link>https://www.foxnews.com/health/eating-less-common-ingredient-early-life-may-slash-cancer-risk-decades-later</link>
+      <guid isPermaLink="false">b82fe32756991a8cfc99bf53dfdbd76c9036d14d</guid>
+      <pubDate>Wed, 26 Aug 2026 11:00:30 GMT</pubDate>
+      <description><![CDATA[Researchers found that early-life sugar rationing in post-war Britain correlated with lower cancer risk and slower aging roughly 50 years later.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">40b893cb8f71f8113bbd5e5d7f176393fe084863</guid>
+      <pubDate>Wed, 26 Aug 2026 10:56:50 GMT</pubDate>
+      <description><![CDATA[The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>California man arrested after guillotine spotted in back of pickup truck across from US Capitol</title>
+      <link>https://www.foxnews.com/us/california-man-arrested-guillotine-back-pickup-truck-across-from-us-capitol</link>
+      <guid isPermaLink="false">936c3258d1faa7356e90ff87ad7abcf6f7ad1800</guid>
+      <pubDate>Wed, 26 Aug 2026 10:56:11 GMT</pubDate>
+      <description><![CDATA[Capitol Police arrested a California man after a massive guillotine was found upright in an illegally parked pickup truck near the US Capitol.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dolly Parton's cause of death revealed and more top headlines</title>
+      <link>https://www.foxnews.com/us/dolly-parton-cause-of-death-revealed-more-top-headlines</link>
+      <guid isPermaLink="false">0c806399ab5b7ece3e7c1d3990afd82551d4e0e0</guid>
+      <pubDate>Wed, 26 Aug 2026 10:35:24 GMT</pubDate>
+      <description><![CDATA[Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Cosmic radiation link in flight attendant's breast cancer, French court finds</title>
+      <link>https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f320dfe7e4274998f8b13a3e81e4f43ab91ff1b2</guid>
+      <pubDate>Wed, 26 Aug 2026 10:29:36 GMT</pubDate>
+      <description><![CDATA[Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Prince Harry and Meghan Markle won’t ‘hijack’ Prince George’s historic Eton debut, royal expert says</title>
       <link>https://www.foxnews.com/entertainment/prince-harry-meghan-markle-wont-hijack-prince-george-historic-eton-debut-royal-expert-says</link>
       <guid isPermaLink="false">8f1a0e16e861c30242165eb56fef5eec505fd82e</guid>
@@ -300,134 +428,6 @@
       <guid isPermaLink="false">40b893cb8f71f8113bbd5e5d7f176393fe084863</guid>
       <pubDate>Wed, 26 Aug 2026 09:47:08 GMT</pubDate>
       <description><![CDATA[The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Yellow warnings remain in force as rain and thunderstorms hit parts of UK</title>
-      <link>https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e51cb47c898807a3eed8e70f3ca125bc7cdb4a3d</guid>
-      <pubDate>Wed, 26 Aug 2026 09:28:03 GMT</pubDate>
-      <description><![CDATA[Yellow warnings updated as torrential downpours affect parts of England and Wales, delivering some of the wettest weather in several weeks.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>COMIC: 7 lifestyle habits that may boost your chances of getting pregnant</title>
-      <link>https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy</link>
-      <guid isPermaLink="false">d611f8292a9586c1d6b671b394b94dfcdc1279ce</guid>
-      <pubDate>Wed, 26 Aug 2026 09:02:00 GMT</pubDate>
-      <description><![CDATA[This illustrated guide has evidence-backed advice on how to support fertility for both men and women, including which foods to eat and which activities to avoid.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Soaring summer power bills spark protests -- and even disconnections</title>
-      <link>https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power</link>
-      <guid isPermaLink="false">9f7ad558d0af5f0f77c38947c70ca05ab800f4f8</guid>
-      <pubDate>Wed, 26 Aug 2026 09:01:00 GMT</pubDate>
-      <description><![CDATA[The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Oklahoma, people are having their power cut when they can't pay their bills.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Dog treat founder eats her own products, even packs them in her kids' lunches</title>
-      <link>https://www.foxnews.com/food-drink/dog-treat-founder-eats-her-own-products-even-packs-them-her-kids-lunches</link>
-      <guid isPermaLink="false">a1aaade3e7d9e87bf74327c843938a7e358ff13a</guid>
-      <pubDate>Wed, 26 Aug 2026 09:00:57 GMT</pubDate>
-      <description><![CDATA[In celebration of National Dog Day, Lord Jameson's founder says the MAHA movement should extend to pets with organic, whole-food treats free of artificial additives.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump’s Economic D-Day can hammer Iran, but will Tehran ever surrender?</title>
-      <link>https://www.foxnews.com/opinion/trumps-economic-d-day-hammer-iran-tehran-surrender</link>
-      <guid isPermaLink="false">65f72e14dce88ad1261f1bf01402d5173826ee53</guid>
-      <pubDate>Wed, 26 Aug 2026 09:00:44 GMT</pubDate>
-      <description><![CDATA[Scott Bessent's "Economic D-Day" Iran sanctions echo World War II's D-Day, but history shows punishing Tehran and forcing surrender are vastly different.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>AOC says ‘Woke 1 was crazy,’ but Democrats still owe voters an explanation</title>
-      <link>https://www.foxnews.com/opinion/aoc-says-woke-1-crazy-democrats-owe-voters-explanation</link>
-      <guid isPermaLink="false">f4dd9d73e6fe8b791d10aaef237d782dcb61ecc7</guid>
-      <pubDate>Wed, 26 Aug 2026 09:00:27 GMT</pubDate>
-      <description><![CDATA[New York Democrat Rep. Alexandria Ocasio-Cortez's "Woke 1" label lets Democrats compartmentalize 2020 progressive politics without a reckoning.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>JONATHAN TURLEY: Abdul El-Sayed’s wealth-tax fantasy could wreck the Michigan economy</title>
-      <link>https://www.foxnews.com/opinion/jonathan-turley-abdul-el-sayed-wealth-tax-fantasy-wreck-michigan-economy</link>
-      <guid isPermaLink="false">019131c5146556e9fa875f9f19a80e69a05e3cef</guid>
-      <pubDate>Wed, 26 Aug 2026 09:00:19 GMT</pubDate>
-      <description><![CDATA[Democratic Senate candidate Abdul El-Sayed frames extreme wealth as an existential threat, but critics warn his tax plan could trigger an exodus of top earners from Michigan.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Grocers issue warning over Mamdani’s taxpayer-backed stores: 'We're going to go after' them</title>
-      <link>https://www.foxnews.com/politics/grocers-issue-warning-mamdanis-taxpayer-backed-stores-going-after-them</link>
-      <guid isPermaLink="false">925533870ded15f3cda0e1cb7aff448115b821e7</guid>
-      <pubDate>Wed, 26 Aug 2026 09:00:17 GMT</pubDate>
-      <description><![CDATA[Frank Garcia's coalition threatens to sue any operator joining Zohran Mamdani's NYC government-owned grocery store program in new legal fight.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Michigan GOP lawmaker casts doubt on El-Sayed’s socialist denial as policies tell another story: ‘Sharp odds’</title>
-      <link>https://www.foxnews.com/politics/michigan-gop-lawmaker-casts-doubt-el-sayeds-socialist-denial-policies-tell-another-story-sharp-odds</link>
-      <guid isPermaLink="false">48ffa2a7f085f7c00a114edf6f55c64cc78fcb75</guid>
-      <pubDate>Wed, 26 Aug 2026 09:00:16 GMT</pubDate>
-      <description><![CDATA[Abdul El-Sayed denies the socialist label, but a Michigan lawmaker says his policies on ICE, Medicare for All, and taxing billionaires say otherwise.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Hollywood's summer box office is glowing, but the numbers come with startling caveats</title>
-      <link>https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office</link>
-      <guid isPermaLink="false">efd838d3662bd247f0bdeb930b58c9c731863016</guid>
-      <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Theaters have had something for everyone this summer, and fans are paying top dollar for premium formats like IMAX. There are also fewer moviegoers, fewer movies, and fewer screens than there were pre-COVID.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer</title>
-      <link>https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f1f5dde9d5e42693ca1ff8e219cd2a5bf4b62087</guid>
-      <pubDate>Wed, 26 Aug 2026 08:17:45 GMT</pubDate>
-      <description><![CDATA[Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Libyan who was cleared after Lockerbie bombing trial dies aged 70</title>
-      <link>https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">272452a3608450522f7d735a9101fa1e3938083a</guid>
-      <pubDate>Wed, 26 Aug 2026 08:01:56 GMT</pubDate>
-      <description><![CDATA[A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ex-England footballer Sterling charged with dangerous driving after crashing Lamborghini</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c23xkk1vkkpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7864cf500e91cbdfca2faf885b4cf92f94395032</guid>
-      <pubDate>Wed, 26 Aug 2026 07:42:51 GMT</pubDate>
-      <description><![CDATA[Raheem Sterling will appear in court next month to face charges of dangerous driving after crashing his car into motorway barriers in May.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump admin pauses visa appointments worldwide amid heightened screening for applicants</title>
-      <link>https://www.foxnews.com/politics/trump-immigrant-visa-interview-pause</link>
-      <guid isPermaLink="false">7db0fb0160f09723b3dbc7b825801df906415e4b</guid>
-      <pubDate>Wed, 26 Aug 2026 07:41:57 GMT</pubDate>
-      <description><![CDATA[The State Department paused all visa interviews at embassies and consulates worldwide as officers undergo training on new public charge guidance.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry</title>
-      <link>https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan</link>
-      <guid isPermaLink="false">85280b823b33559a8f4b410ad2275e8ad8cf6542</guid>
-      <pubDate>Wed, 26 Aug 2026 07:34:59 GMT</pubDate>
-      <description><![CDATA[A fire erupted early Wednesday in a nursery for newborns at a major government hospital in Pakistan's capital, killing 14 babies, according to hospital officials and the government.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Test your global economic knowledge with this quick Planet Money quiz!</title>
-      <link>https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026</link>
-      <guid isPermaLink="false">a9ce114fd9ad10abbe3e1eb5b709114485eadd83</guid>
-      <pubDate>Wed, 26 Aug 2026 07:30:00 GMT</pubDate>
-      <description><![CDATA[Every country tells a different economic story. It's time to test your knowledge of the big ideas we've collected on our World Tour. Eight questions stand between you and your Summer School diploma.]]></description>
       <category>world</category>
     </item>
     <item>
