@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 21:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 01:00:47 GMT</lastBuildDate>
     <item>
-      <title>New research finds 1 in 4 NFL players could develop CTE in their lifetime: 'Should be a call to action'</title>
-      <link>https://www.foxnews.com/outkick-sports/new-research-finds-1-in-4-nfl-players-could-develop-cte-lifetime-should-be-call-to-action</link>
-      <guid isPermaLink="false">a9a0a5379101aa136fafb08031bda5157ab70f9b</guid>
-      <pubDate>Tue, 25 Aug 2026 21:45:33 GMT</pubDate>
-      <description><![CDATA[A new study found at least one in four former NFL players may develop CTE, prompting Dr. Julian Bailes to call for urgent proactive brain protection.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Light Rain</title>
+      <title>Anchorage Weather: This Afternoon - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 23:21:07 GMT</pubDate>
-      <description><![CDATA[59°F. Wind SE 15 to 20 mph. Rain. Cloudy, with a high near 59. Southeast wind 15 to 20 mph. Chance of precipitation is 90%.]]></description>
+      <pubDate>Wed, 26 Aug 2026 01:00:47 GMT</pubDate>
+      <description><![CDATA[59°F. Wind SE 20 mph. Rain likely. Cloudy, with a high near 59. Southeast wind around 20 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Light Rain Likely then Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 23:21:07 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 01:00:47 GMT</pubDate>
       <description><![CDATA[45°F. Wind E 5 to 20 mph. Rain likely before 10pm, then rain showers likely between 10pm and 4am. Mostly cloudy, with a low around 45. East wind 5 to 20 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Wednesday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 23:21:07 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 01:00:47 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 5 mph. Mostly sunny, with a high near 62. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +34,7 @@
       <title>Anchorage Weather: Wednesday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 23:21:07 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 01:00:47 GMT</pubDate>
       <description><![CDATA[42°F. Wind SW 0 to 5 mph. Mostly clear, with a low around 42. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,9 +42,25 @@
       <title>Anchorage Weather: Thursday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 25 Aug 2026 23:21:07 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 01:00:47 GMT</pubDate>
       <description><![CDATA[60°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 60. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Agencies investigating sheen in Cook Inlet</title>
+      <link>https://www.homernews.com/2026/08/25/agencies-investigating-sheen-in-cook-inlet/</link>
+      <guid isPermaLink="false">11476ee121a473ee5ced1a6196be08e0f57492b4</guid>
+      <pubDate>Wed, 26 Aug 2026 00:30:00 GMT</pubDate>
+      <description><![CDATA[The incident occured in North Trading Bay, approximately 50 to 60 miles southwest of Anchorage]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Dolly Parton dies at 80 after a life of music and giving</title>
+      <link>https://alaskabeacon.com/2026/08/25/repub/dolly-parton-dies-at-80-after-a-life-of-music-and-giving/</link>
+      <guid isPermaLink="false">7e49b51a703fd6aeda491a829180e54f256d65ca</guid>
+      <pubDate>Tue, 25 Aug 2026 23:31:34 GMT</pubDate>
+      <description><![CDATA[Dolly Parton, the personification of Tennessee music, died Tuesday at age 80 after decades of entertaining the world. Parton’s nephew, Bryan Seaver, delivered the news of her death in a video for the family, sparking mourning from her birthplace of Locust Ridge in the mountains of East Tennessee across the state to Nashville, where she […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Alaska should turn AI time savings into mentor time</title>
@@ -287,11 +295,107 @@
       <category>local</category>
     </item>
     <item>
+      <title>Daughter of late House Dem loses runoff bid to finish father's term</title>
+      <link>https://www.foxnews.com/politics/daughter-late-house-dem-goes-down-swinging-bid-serve-remainder-fathers-term</link>
+      <guid isPermaLink="false">1bd25ffc5f9deb151c02084f33c350aeb682b2ec</guid>
+      <pubDate>Wed, 26 Aug 2026 00:51:08 GMT</pubDate>
+      <description><![CDATA[Marcye Scott fell short against former Gwinnett County school board chairman Everton Blair in her bid to finish the final months of her late father’s House term after leading the first round of voting.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Haters of fashion attack Aryna Sabalenka with 'streetwalker' insult simply because she wore fishnet at US Open</title>
+      <link>https://www.foxnews.com/outkick-sports/haters-fashion-attack-aryna-sabalenka-streetwalker-insult-fishnet-us-open</link>
+      <guid isPermaLink="false">b8dd37ab75b85c5cfa84471a0a640bc224a2d888</guid>
+      <pubDate>Wed, 26 Aug 2026 00:30:14 GMT</pubDate>
+      <description><![CDATA[Aryna Sabalenka's bold mesh dress at the US Open sparked fierce backlash, but the tennis star had a defiant response ready for her fashion critics.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>IndyCar's Freedom 250 Grand Prix spectacle in Washington, DC draws massive TV ratings</title>
+      <link>https://www.foxnews.com/outkick-sports/indycar-freedom-250-grand-prix-spectacle-washington-dc-draws-massive-tv-ratings</link>
+      <guid isPermaLink="false">44a3b88731d98eaeb04d8ea64cbd49698d3024eb</guid>
+      <pubDate>Wed, 26 Aug 2026 00:26:42 GMT</pubDate>
+      <description><![CDATA[IndyCar's Freedom 250 Grand Prix in Washington, DC, attracted 3.282 million viewers, making it the most-watched non-Indy 500 race since 2008.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>California school district sued over field trip to mosque where students allegedly donned Muslim garb</title>
+      <link>https://www.foxnews.com/media/california-school-district-sued-field-trip-mosque-students-allegedly-donned-muslim-garb</link>
+      <guid isPermaLink="false">f1f2cd87cb22e9994c9f2c46d63f2c07dc14c593</guid>
+      <pubDate>Wed, 26 Aug 2026 00:18:28 GMT</pubDate>
+      <description><![CDATA[Multi-faith parents sued Palo Alto High School claiming students were given hijabs and Qurans during a mosque field trip last year without parental consent.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps</title>
+      <link>https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">45597bd53f54b39b5f8361fa6db0f055d035523e</guid>
+      <pubDate>Tue, 25 Aug 2026 23:50:53 GMT</pubDate>
+      <description><![CDATA[Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Elissa Slotkin calls out Hasan Piker for blaming Jewish Americans targeted over their Israel views</title>
+      <link>https://www.foxnews.com/media/elissa-slotkin-calls-out-hasan-piker-blaming-jewish-americans-targeted-israel-views</link>
+      <guid isPermaLink="false">2c3c6c006bcff6696ed41125b16406a783ba563c</guid>
+      <pubDate>Tue, 25 Aug 2026 23:46:56 GMT</pubDate>
+      <description><![CDATA[Hasan Piker warned that American Jews could face violence over Israel support, prompting senators Elissa Slotkin and Jacky Rosen to condemn his remarks.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dolly Parton dies at the age of 80: A look at her life through photos</title>
+      <link>https://www.foxnews.com/entertainment/dolly-parton-dies-age-80-look-her-life-through-photos</link>
+      <guid isPermaLink="false">fa11e9130b1bb1601851237c0f011c0f6af57ad4</guid>
+      <pubDate>Tue, 25 Aug 2026 23:45:45 GMT</pubDate>
+      <description><![CDATA[Dolly Parton got her start in the entertainment industry after making her debut at the Grand Ole Opry at the age of 13. Here is a look back at her career in music, film and philanthropy.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nicotine vapes best chance to quit smoking, major review finds</title>
+      <link>https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b527b5eff9e42d1cd6c0319a57b63275fb17443f</guid>
+      <pubDate>Tue, 25 Aug 2026 23:40:38 GMT</pubDate>
+      <description><![CDATA[They work better than patches, gum or pills, the most up-to-date evidence suggests.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Former news anchor pleads guilty to stabbing mother to death on Halloween</title>
+      <link>https://www.foxnews.com/us/former-news-anchor-pleads-guilty-stabbing-mother-death-halloween</link>
+      <guid isPermaLink="false">c312fffa2cd0315f238da6a321b0dd24bb23495a</guid>
+      <pubDate>Tue, 25 Aug 2026 23:30:26 GMT</pubDate>
+      <description><![CDATA[Angelynn Mock pleaded guilty to first-degree murder after allegedly believing her mother Anita Avers was the devil during the Halloween stabbing.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Why Pride is facing a backlash - from inside and outside the LGBT community</title>
+      <link>https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">38a50540745565db820c7ae8cfbb7feb1e77ab90</guid>
+      <pubDate>Tue, 25 Aug 2026 23:13:34 GMT</pubDate>
+      <description><![CDATA[Big companies used to go out of their way to support Pride. Now, there's a nervousness in the air, Darren Milby writes]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Yellow warnings in force as rain and thunderstorms hit parts of UK</title>
+      <link>https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e51cb47c898807a3eed8e70f3ca125bc7cdb4a3d</guid>
+      <pubDate>Tue, 25 Aug 2026 23:11:15 GMT</pubDate>
+      <description><![CDATA[Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks]]></description>
+      <category>weather</category>
+    </item>
+    <item>
       <title>Utah library confirms LGBTQ 'Pride' book for its 'smallest patrons' is kept easily accessible</title>
       <link>https://www.foxnews.com/media/utah-library-confirms-lgbtq-pride-book-its-smallest-patrons-kept-easily-accessible</link>
       <guid isPermaLink="false">9303cd3bb57c224b3d82251bc08194c85e4006b6</guid>
       <pubDate>Tue, 25 Aug 2026 23:08:38 GMT</pubDate>
       <description><![CDATA[The Provo City Library confirmed to Fox News Digital it includes "Pride is Love" and other LGBTQ board books in its collection, saying they are shelved among 2,500 titles.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Winter energy prices expected to rise to three-year high</title>
+      <link>https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3072f2146f51556371e7a922fdfe7e129c31a2c4</guid>
+      <pubDate>Tue, 25 Aug 2026 23:07:29 GMT</pubDate>
+      <description><![CDATA[Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -349,94 +453,6 @@
       <pubDate>Tue, 25 Aug 2026 21:56:38 GMT</pubDate>
       <description><![CDATA[Frank LaRose vows to appeal after a Clinton-appointed judge blocked Ohio's voter registration citizenship proof law, citing federal conflicts.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>Female Virginia officer sues police department after allegedly sharing locker room with biological male</title>
-      <link>https://www.foxnews.com/media/female-virginia-officer-sues-police-department-after-allegedly-sharing-locker-room-biological-male</link>
-      <guid isPermaLink="false">d42dae166bdcaef210c9f9bd6d007c9df4de1bfb</guid>
-      <pubDate>Tue, 25 Aug 2026 21:56:06 GMT</pubDate>
-      <description><![CDATA[Former Norfolk police officer Meghan Grabow sued her police department earlier this month after sharing a women's changing room with a biological male in 2024.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Newsom promises new legal fight after Trump gets Supreme Court victory on mail-in voting</title>
-      <link>https://www.foxnews.com/politics/newsom-promises-legal-fight-trump-supreme-court-victory-mail-in-voting</link>
-      <guid isPermaLink="false">fd10f1d7dcd2d0ce5234c0045d8b9d7832e8dc09</guid>
-      <pubDate>Tue, 25 Aug 2026 21:27:45 GMT</pubDate>
-      <description><![CDATA[California Gov. Gavin Newsom says the state will sue again after the Supreme Court's 6-3 ruling allowed Trump's mail-in voting restrictions.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>DHS issues scathing rebuke after former Atlanta Mayor Keisha Lance Bottoms touts cutting ties with ICE</title>
-      <link>https://www.foxnews.com/media/dhs-issues-scathing-rebuke-former-atlanta-mayor-keisha-lance-bottoms-touts-cutting-ties-ice</link>
-      <guid isPermaLink="false">58df2dd6100733add0a1502dbd66b48b0a62b423</guid>
-      <pubDate>Tue, 25 Aug 2026 21:25:50 GMT</pubDate>
-      <description><![CDATA[Georgia gubernatorial candidate Keisha Lance Bottoms touted cutting ties with ICE as Atlanta mayor, prompting DHS to fire back with mugshots of criminals arrested in the city.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ohio State coach Ryan Day addresses NFL players returning to college football: 'We're in a different world'</title>
-      <link>https://www.foxnews.com/outkick-sports/ohio-state-coach-ryan-day-addresses-nfl-players-returning-college-football-were-different-world</link>
-      <guid isPermaLink="false">944c2ae2b4d4f22c749c97f88f4c6270cc190045</guid>
-      <pubDate>Tue, 25 Aug 2026 21:21:32 GMT</pubDate>
-      <description><![CDATA[Ohio State's Ryan Day calls on conferences to establish a roster lock deadline as former NFL players become eligible to play college football.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>IndyCar's Freedom 250 Grand Prix may have been 'once-in-a-lifetime,' but this is why it needs to happen again</title>
-      <link>https://www.foxnews.com/outkick-sports/indycars-freedom-250-grand-prix-once-in-a-lifetime-why-it-needs-happen-again</link>
-      <guid isPermaLink="false">c204d4f3e4192e9ca057407297b36b17c3b589db</guid>
-      <pubDate>Tue, 25 Aug 2026 21:13:28 GMT</pubDate>
-      <description><![CDATA[The Freedom 250 Grand Prix in Washington, D.C., delivered a once-in-a-lifetime spectacle with the Capitol and Washington Monument as backdrops.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Massive fishing boat runs aground at popular beach with 1,000 gallons of diesel on board</title>
-      <link>https://www.foxnews.com/travel/massive-fishing-boat-runs-aground-popular-beach-1000-gallons-diesel-board</link>
-      <guid isPermaLink="false">8ed34c9e0e8cb9464ee7257ced318bd5bcad4ed9</guid>
-      <pubDate>Tue, 25 Aug 2026 21:12:07 GMT</pubDate>
-      <description><![CDATA[A 58-foot fishing boat ran aground at North Beach in Northern California's Point Reyes National Seashore, triggering a closure and diesel removal effort.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Charles Barkley says WNBA players 'just don't like' Caitlin Clark and Sophie Cunningham</title>
-      <link>https://www.foxnews.com/outkick-sports/charles-barkley-says-wnba-players-just-dont-like-caitlin-clark-sophie-cunningham</link>
-      <guid isPermaLink="false">cc690eb07f4a940d60ce20961f1c1e4d40bc4353</guid>
-      <pubDate>Tue, 25 Aug 2026 21:05:43 GMT</pubDate>
-      <description><![CDATA[Charles Barkley says WNBA players dislike Caitlin Clark and Sophie Cunningham, blaming a mix of jealousy, race, and sexuality for the hostility.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kyle Shanahan breaks 49ers silence on Jed York arrest, says he still has 'respect' for the club owner</title>
-      <link>https://www.foxnews.com/outkick-sports/kyle-shanahan-breaks-49ers-silence-jed-york-arrest-says-still-respect-club-owner</link>
-      <guid isPermaLink="false">6c12b30e1d1f224ffb3ebc2000a47c0dc63c4f5c</guid>
-      <pubDate>Tue, 25 Aug 2026 20:56:24 GMT</pubDate>
-      <description><![CDATA[Kyle Shanahan says Jed York's arrest in an Ohio prostitution sting has no effect on the San Francisco 49ers as a team heading into the season.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Enes Kanter Freedom barred from Sky arena after altercation with Natasha Cloud, team owner says</title>
-      <link>https://www.foxnews.com/outkick-sports/enes-kanter-freedom-barred-from-sky-arena-after-altercation-natasha-cloud-team-owner-says</link>
-      <guid isPermaLink="false">cb2f0792b38e087384b37f2d5da6eb2ac1762289</guid>
-      <pubDate>Tue, 25 Aug 2026 20:48:41 GMT</pubDate>
-      <description><![CDATA[Chicago Sky team owner Michael Alter said Tuesday Enes Kanter Freedom is barred from Wintrust Arena after his altercation with Natasha Cloud on Sunday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump says all mines cleared from Strait of Hormuz</title>
-      <link>https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6c6b7d4884723f1c51ff01daed929aeaaa69ab91</guid>
-      <pubDate>Tue, 25 Aug 2026 20:48:16 GMT</pubDate>
-      <description><![CDATA[Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>South Carolina U.S. senate runoff election will test Trump's endorsement</title>
-      <link>https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement</link>
-      <guid isPermaLink="false">4a96733874a4357f2e9a5146b6582c0d2bc26aae</guid>
-      <pubDate>Tue, 25 Aug 2026 20:47:54 GMT</pubDate>
-      <description><![CDATA[The primary runoff in South Carolina between Sen. Darline Graham and Rep. Ralph Norman is another test of President Trump's influence. He's backing Darline, sister of the late Sen. Lindsey Graham.]]></description>
-      <category>politics</category>
     </item>
     <item>
       <title>Tropical Storms Iselle and Julio churn in El Niño-supercharged Pacific as tropical traffic jam persists</title>
@@ -508,22 +524,6 @@
       <guid isPermaLink="false">5a891136813597deedaa7b7ade159c15102187e4</guid>
       <pubDate>Mon, 24 Aug 2026 11:50:53 GMT</pubDate>
       <description><![CDATA[A mother and her 2-year-old daughter were killed during a lighting strike in Margate, Florida, Sunday afternoon, officials said.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Tropical Depression Moke threatens Hawaii with flooding as Pacific activity surges amid strengthening El Niño</title>
-      <link>https://www.foxweather.com/weather-news/tropical-depression-moke-hawaii-flood-eastern-pacific-el-nino</link>
-      <guid isPermaLink="false">f96b006a7cea9a7ba2f3b9c84bb581db001468b7</guid>
-      <pubDate>Mon, 24 Aug 2026 10:31:34 GMT</pubDate>
-      <description><![CDATA[Tropical Depression Moke is lashing Hawaii's Big Island with downpours and gusty winds, with additional rainfall capable of producing another round of flash flooding as the storm's center passes a few hundred miles south of the state.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Hawaii faces rare back-to-back tropical threats as Tropical Depression Moke brings life-threatening flood risk</title>
-      <link>https://www.foxweather.com/weather-news/tropical-depression-moke-hawaii-flood-eastern-pacific-el-nino</link>
-      <guid isPermaLink="false">f96b006a7cea9a7ba2f3b9c84bb581db001468b7</guid>
-      <pubDate>Mon, 24 Aug 2026 10:31:34 GMT</pubDate>
-      <description><![CDATA[Tropical Depression Moke is lashing Hawaii's Big Island with downpours and gusty wind, with additional rainfall capable of producing another round of life-threatening flash flooding as the storm's center passes a few hundred miles south of the state.]]></description>
       <category>weather</category>
     </item>
   </channel>
