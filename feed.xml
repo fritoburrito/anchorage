@@ -5,46 +5,110 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 13:39:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:48:26 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Overnight - Patchy Fog</title>
+      <title>Bryan Norcross: Tropical Storm Dolly is likely to form but hostile conditions are ahead</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-august-27-2026</link>
+      <guid isPermaLink="false">9d59edf31a206d1f827988e4d78a210ede81a191</guid>
+      <pubDate>Thu, 27 Aug 2026 13:48:26 GMT</pubDate>
+      <description><![CDATA[The disturbance we've been following is finally developing an organized circulation so it's on the cusp of being designated Tropical Storm Dolly. Dolly's life is going to be short, however.]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: This Afternoon - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 27 Aug 2026 13:39:18 GMT</pubDate>
-      <description><![CDATA[45°F. Wind NE 5 mph. Patchy fog. Mostly clear, with a low around 45. Northeast wind around 5 mph.]]></description>
+      <pubDate>Thu, 27 Aug 2026 23:30:40 GMT</pubDate>
+      <description><![CDATA[64°F. Wind SW 5 mph. Mostly sunny, with a high near 64. Southwest wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Thursday - Patchy Fog then Mostly Sunny</title>
+      <title>Anchorage Weather: Tonight - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 27 Aug 2026 13:39:18 GMT</pubDate>
-      <description><![CDATA[58°F. Wind NW 0 to 5 mph. Patchy fog before 10am. Mostly sunny, with a high near 58. Northwest wind 0 to 5 mph.]]></description>
+      <pubDate>Thu, 27 Aug 2026 23:30:40 GMT</pubDate>
+      <description><![CDATA[50°F. Wind S 5 to 15 mph. Rain after 10pm. Mostly cloudy, with a low around 50. South wind 5 to 15 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Thursday Night - Rain</title>
+      <title>Anchorage Weather: Friday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 27 Aug 2026 13:39:18 GMT</pubDate>
-      <description><![CDATA[50°F. Wind S 0 to 10 mph. Rain after 10pm. Mostly cloudy, with a low around 50. South wind 0 to 10 mph. Chance of precipitation is 90%.]]></description>
+      <pubDate>Thu, 27 Aug 2026 23:30:40 GMT</pubDate>
+      <description><![CDATA[58°F. Wind SE 15 to 25 mph. Rain before 4pm, then a chance of rain showers. Cloudy, with a high near 58. Southeast wind 15 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Friday - Light Rain Likely</title>
+      <title>Anchorage Weather: Friday Night - Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 27 Aug 2026 13:39:18 GMT</pubDate>
-      <description><![CDATA[57°F. Wind SE 10 to 20 mph. Rain likely. Cloudy, with a high near 57. Southeast wind 10 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%.]]></description>
+      <pubDate>Thu, 27 Aug 2026 23:30:40 GMT</pubDate>
+      <description><![CDATA[47°F. Wind SE 5 to 25 mph. A chance of rain showers. Mostly cloudy, with a low around 47. Southeast wind 5 to 25 mph, with gusts as high as 40 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Friday Night - Chance Light Rain</title>
+      <title>Anchorage Weather: Saturday - Slight Chance Rain Showers then Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 27 Aug 2026 13:39:18 GMT</pubDate>
-      <description><![CDATA[47°F. Wind S 5 to 20 mph. A chance of rain. Mostly cloudy, with a low around 47. South wind 5 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Thu, 27 Aug 2026 23:30:40 GMT</pubDate>
+      <description><![CDATA[62°F. Wind NE 5 mph. A slight chance of rain showers before 7am. Mostly sunny, with a high near 62. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Postal Service pushes ahead on Trump order limiting vote-by-mail</title>
+      <link>https://alaskabeacon.com/2026/08/27/repub/postal-service-pushes-ahead-on-trump-order-limiting-vote-by-mail/</link>
+      <guid isPermaLink="false">ada055a3357551bdec58d8a0cde16b4f991debb3</guid>
+      <pubDate>Thu, 27 Aug 2026 22:00:57 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — The U.S. Postal Service took another step Thursday in implementing a Trump administration policy to restrict mail-in voting, even as a high-stakes legal battle plays out and midterm elections approach. The agency published an FAQ about its new rule that compels states to send their voter rolls to the federal government and only deliver […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska gubernatorial candidates highlight contrasting philosophies on oil and gas</title>
+      <link>https://alaskabeacon.com/2026/08/27/alaska-gubernatorial-candidates-highlight-contrasting-philosophies-on-oil-and-gas/</link>
+      <guid isPermaLink="false">2e4f7ab3044a7548ceaaf492d3cbf45c910acc3a</guid>
+      <pubDate>Thu, 27 Aug 2026 21:32:18 GMT</pubDate>
+      <description><![CDATA[At their first candidate forum since the Aug. 18 primary election, the four remaining gubernatorial hopefuls pitched visions for the state’s future that revealed sharp political divides. Speaking at the event, held at the Alaska Oil and Gas Association’s annual conference in Anchorage, were Democrats Jonathan Kreiss-Tomkins and Tom Begich and Republicans Bernadette Wilson and […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Former Kenai man sentenced to 60 years for sexual assault of teenage girl</title>
+      <link>https://www.homernews.com/2026/08/27/former-kenai-man-sentenced-to-60-years-for-sexual-assault-of-teenage-girl/</link>
+      <guid isPermaLink="false">4f88a6ec7ae7d9bca20b3f440457091167b9d523</guid>
+      <pubDate>Thu, 27 Aug 2026 21:30:00 GMT</pubDate>
+      <description><![CDATA[Darold Greg Love convicted of sexual assault in the 1st degree and sexual abuse of a minor in the 2nd degree]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska to receive up to $23 million in landmark child safety settlement with Meta</title>
+      <link>https://alaskabeacon.com/briefs/alaska-to-receive-up-to-23-million-in-landmark-child-safety-settlement-with-meta/</link>
+      <guid isPermaLink="false">31696c8e9b4ac8e2979a140dd3faf91ec448b01d</guid>
+      <pubDate>Thu, 27 Aug 2026 20:33:41 GMT</pubDate>
+      <description><![CDATA[Alaska is set to receive up to $23 million from Meta Platforms Inc. under a landmark $17 billion settlement agreement that would also require the company to implement a sweeping set of safety features for its social media platforms, aimed at protecting children from addictive features and harmful content. The multistate settlement agreement was announced […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>New challenges to Trump mail-in voting order arrive after US Supreme Court ruling</title>
+      <link>https://alaskabeacon.com/2026/08/27/repub/new-challenges-to-trump-mail-in-voting-order-arrive-after-us-supreme-court-ruling/</link>
+      <guid isPermaLink="false">6fb454b4bc5a6bd0deb7b316195b24776bc438fb</guid>
+      <pubDate>Thu, 27 Aug 2026 17:25:10 GMT</pubDate>
+      <description><![CDATA[Democrat-led states and voting rights groups re-filed lawsuits Wednesday to block the Trump administration from executing a new regulation to restrict mail-in voting, while a federal judge lifted a nationwide pause on the policy in line with this week’s U.S. Supreme Court decision that handed the administration a procedural win. Democratic officials in 24 states […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Fruit and nut seed crackers a healthy back-to-school snack</title>
+      <link>https://www.homernews.com/2026/08/27/fruit-and-nut-seed-crackers-a-healthy-back-to-school-snack/</link>
+      <guid isPermaLink="false">96314536bfc638053d33d8cde9c4a05d9b68be0c</guid>
+      <pubDate>Thu, 27 Aug 2026 14:30:00 GMT</pubDate>
+      <description><![CDATA[These mildly sweet and healthy crackers are loaded with fiber and micronutrients]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>The teenage girls behind a $25 minimum wage fight in rural Alaska</title>
+      <link>https://alaskabeacon.com/2026/08/27/the-teenage-girls-behind-a-25-minimum-wage-fight-in-rural-alaska/</link>
+      <guid isPermaLink="false">2f6dd632dbd15bf9cdb338379eae25f88755536b</guid>
+      <pubDate>Thu, 27 Aug 2026 13:55:54 GMT</pubDate>
+      <description><![CDATA[This story was originally reported by Chabeli Carrazana of The 19th. Meet Chabeli and read more of their reporting on gender, politics and policy. In one of the most remote towns in America, a group of teenagers is fighting to put an initiative on the November ballot that would raise the minimum wage for the […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Life in the Wilderness: The Henry Lucas Story — Part 3</title>
@@ -60,6 +124,14 @@
       <guid isPermaLink="false">2602e15edd33fda7880dd803003c9800b61300b9</guid>
       <pubDate>Thu, 27 Aug 2026 12:30:00 GMT</pubDate>
       <description><![CDATA[Volunteer-supported fire, rescue, and emergency medical response department hosts event]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Victims of fatal plane crash near Seldovia identified</title>
+      <link>https://www.homernews.com/2026/08/27/four-dead-after-plane-crashes-into-water-near-seldovia/</link>
+      <guid isPermaLink="false">79b72f77b346f4f4bfbb0bba4e9df30dcf829095</guid>
+      <pubDate>Thu, 27 Aug 2026 11:30:00 GMT</pubDate>
+      <description><![CDATA[Piper PA-24 bound for Seldovia from Anchorage crashed Wednesday afternoon]]></description>
       <category>local</category>
     </item>
     <item>
@@ -191,276 +263,196 @@
       <category>local</category>
     </item>
     <item>
-      <title>Robert Hawes Convicted of Multiple Counts of Sexual Abuse of a Minor</title>
-      <link>https://alaska-native-news.com/robert-hawes-convicted-of-multiple-counts-of-sexual-abuse-of-a-minor/85849/</link>
-      <guid isPermaLink="false">4db35570caf14ea6976f999d688d0a9f5792a25d</guid>
-      <pubDate>Wed, 26 Aug 2026 14:03:46 GMT</pubDate>
-      <description><![CDATA[(Palmer, AK) – Thursday, a Palmer jury found Robert Hawes, 72, guilty of two counts of Sexual Abuse of a Minor in the First Degree, one count of Sexual Abuse of a Minor in the Second Degree, and one count of Attempted Sexual Abuse of a Minor in the First Degree. The jury returned its […]]]></description>
-      <category>local</category>
+      <title>Team USA hero Connor Hellebuyck confirms that he requested a trade from the Winnipeg Jets</title>
+      <link>https://www.foxnews.com/outkick-sports/team-usa-hero-connor-hellebuyck-confirms-requested-trade-winnipeg-jets</link>
+      <guid isPermaLink="false">c80cf7303ae9221e2a58c10fd9437875914a3192</guid>
+      <pubDate>Thu, 27 Aug 2026 23:21:03 GMT</pubDate>
+      <description><![CDATA[Connor Hellebuyck confirmed his trade request from the Winnipeg Jets as training camp approaches, saying moving on is best for him and his family.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Anchorage woman sentenced to prison for fraudulently obtaining nearly $1M in COVID-19 relief funds</title>
-      <link>https://alaska-native-news.com/anchorage-woman-sentenced-to-prison-for-fraudulently-obtaining-nearly-1m-in-covid-19-relief-funds/85851/</link>
-      <guid isPermaLink="false">d58f93108b49a9254e5fda17763cf5265248bcf1</guid>
-      <pubDate>Wed, 26 Aug 2026 14:02:08 GMT</pubDate>
-      <description><![CDATA[The defendant will also pay nearly $1M in restitution to the U.S. government. ANCHORAGE, Alaska – An Anchorage businesswoman was sentenced Monday to 3.8 years in prison for lying on federal loan applications and stealing identities to fraudulently obtain nearly $1 million in COVID-19 relief funds. According to court documents, Cheryl Labrie, 39, was the […]]]></description>
-      <category>local</category>
+      <title>Trump signs order to rename Lake Ontario as Lake America</title>
+      <link>https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fc871ed3ce6461cfe5de7204940b34fe113ecf87</guid>
+      <pubDate>Thu, 27 Aug 2026 23:14:43 GMT</pubDate>
+      <description><![CDATA[Trump's order comes after the trade talks between the US and Canada collapsed late last week.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Request for Public Assistance: Unauthorized Credit Card Charges</title>
-      <link>https://alaska-native-news.com/request-for-public-assistance-unauthorized-credit-card-charges/85853/</link>
-      <guid isPermaLink="false">509aeb53be500e31b125a17f5351fcc74e2b6f9d</guid>
-      <pubDate>Wed, 26 Aug 2026 14:01:24 GMT</pubDate>
-      <description><![CDATA[The Anchorage Police Department is investigating a fraud ring that used stolen credit and debit card information to make unauthorized purchases at several unrelated retailers. If you notice a charge you didn’t authorize from March – July the Anchorage Police Department would like to hear from you. This investigation involves fraudulent tap to pay purchases […]]]></description>
-      <category>local</category>
+      <title>DHS hits back at James Talarico after Democrat claims ICE 'kidnapped' 5-year-old boy deported with father</title>
+      <link>https://www.foxnews.com/politics/dhs-hits-back-james-talarico-democrat-claims-ice-kidnapped-5-year-old-boy-deported-father</link>
+      <guid isPermaLink="false">c452b079d7feefb949d5a9c0f90d3f0d99a83c4c</guid>
+      <pubDate>Thu, 27 Aug 2026 23:14:28 GMT</pubDate>
+      <description><![CDATA[Homeland Security Secretary Mullin says James Talarico "won't tell the full story" about the deportation of a 5-year-old boy and his father from Texas.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>This Day in Alaskan History-August 26th, 1958</title>
-      <link>https://alaska-native-news.com/august-26th-1958/44255/</link>
-      <guid isPermaLink="false">33859cb73181bb7acdac44f93b2490d2fb6b2cc1</guid>
-      <pubDate>Wed, 26 Aug 2026 14:00:41 GMT</pubDate>
-      <description><![CDATA[Almost 49,000 voters made their way to 297 polling places in the territory of Alaska on August 26th,1958. The voters cast their votes for a proposition in a six-to-one margin in the special election to approve statehood for the territory. The turnout was so tremendous that in many of the polling places, the ballot supply […]]]></description>
-      <category>local</category>
+      <title>Greens call for temporary ban on new data centres</title>
+      <link>https://www.bbc.co.uk/news/articles/cz0zm4pzme2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">dfb44dd1819d6897e07e921503fa03f0ff7bcfa1</guid>
+      <pubDate>Thu, 27 Aug 2026 23:11:27 GMT</pubDate>
+      <description><![CDATA[Zack Polanski wants stricter rules to limit the use of water and energy by data centres for AI.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Active court order still blocking Trump effort to restrict vote-by-mail</title>
-      <link>https://alaskabeacon.com/2026/08/26/repub/active-court-order-still-blocking-trump-effort-to-restrict-vote-by-mail/</link>
-      <guid isPermaLink="false">bbf7fe89c948a293a2109466bf1c251e88a9ea3d</guid>
-      <pubDate>Wed, 26 Aug 2026 13:45:17 GMT</pubDate>
-      <description><![CDATA[The U.S. Supreme Court on Monday handed a procedural victory to President Donald Trump on an executive order to curb mail-in voting, but the administration is still fighting a separate ruling that limits a portion of the order and remains in effect — complicating the administration’s temporary win.]]></description>
-      <category>local</category>
+      <title>Teens accused of destroying Flock camera until battery exploded, igniting fire near homes: report</title>
+      <link>https://www.foxnews.com/us/teens-accused-destroying-flock-camera-until-battery-exploded-igniting-fire-near-homes</link>
+      <guid isPermaLink="false">509da1b17ec46c6758c103b2bf4024b036abc970</guid>
+      <pubDate>Thu, 27 Aug 2026 23:02:15 GMT</pubDate>
+      <description><![CDATA[Three South Carolina teens allegedly cut down a Flock Safety camera pole and hammered its battery until it exploded, causing over $5,000 in damage.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Alaska Science Forum: Uncorking the secrets of a tiny bottle of volcanic ash</title>
-      <link>https://www.homernews.com/2026/08/26/alaska-science-forum-uncorking-the-secrets-of-a-tiny-bottle-of-volcanic-ash/</link>
-      <guid isPermaLink="false">f665b55aecd12ede9c631ab62574dca6a8e9a569</guid>
-      <pubDate>Wed, 26 Aug 2026 11:30:00 GMT</pubDate>
-      <description><![CDATA[I opened the living room window in our rented Anchorage waterfront condominium on what began as a mild mid-August day in 1992.]]></description>
+      <title>Megan Rapinoe mocks Enes Kanter Freedom's 'protect women' comments, calls him 'bad-faith actor'</title>
+      <link>https://www.foxnews.com/outkick-sports/megan-rapinoe-mocks-enes-kanter-freedoms-protect-women-comments-calls-him-bad-faith-actor</link>
+      <guid isPermaLink="false">8941d6579bb4f168ecea4c03058ae469f7581ce2</guid>
+      <pubDate>Thu, 27 Aug 2026 23:00:29 GMT</pubDate>
+      <description><![CDATA[Megan Rapinoe fired back at Enes Kanter Freedom on her podcast after he was ejected from the Chicago Sky-Indiana Fever game following a clash with Natasha Cloud.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>73-year-old camper vanishes off the grid before his RV turns up in wilderness</title>
+      <link>https://www.foxnews.com/us/73-year-old-camper-vanishes-grid-rv-turns-wilderness</link>
+      <guid isPermaLink="false">66048774fcc8d43f64c6d7d3ea226cebb4162010</guid>
+      <pubDate>Thu, 27 Aug 2026 22:57:49 GMT</pubDate>
+      <description><![CDATA[Craig Streeter's empty RV was found at campsite 36 on Moose River Road in Inlet with no sign of recent activity, and authorities launched a multi-agency search.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>What we know about deadly Nepal-Tibet floods</title>
+      <link>https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ff8d8d19e7965148deee01ca05c116d66c0ca29c</guid>
+      <pubDate>Thu, 27 Aug 2026 22:54:28 GMT</pubDate>
+      <description><![CDATA[Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Predicting each Power 4 conference champion ahead of the 2026 college football season</title>
+      <link>https://www.foxnews.com/outkick-sports/predicting-each-power-4-conference-champion-ahead-2026-college-football-season</link>
+      <guid isPermaLink="false">708143a409b5c099c4fdd9780765b1079c3beb9b</guid>
+      <pubDate>Thu, 27 Aug 2026 22:47:05 GMT</pubDate>
+      <description><![CDATA[College football Playoff contenders emerge as Ohio State, Georgia, Miami, and Texas Tech are predicted to win their Power 4 conferences in 2026.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Abbott taunts far-left AG with fiery warning over ICE extradition fight: 'Such bad lawyers'</title>
+      <link>https://www.foxnews.com/politics/abbott-taunts-far-left-ag-fiery-warning-ice-extradition-fight-bad-lawyers</link>
+      <guid isPermaLink="false">e936d4fda100316670f61ff348efd489e2103c81</guid>
+      <pubDate>Thu, 27 Aug 2026 22:41:39 GMT</pubDate>
+      <description><![CDATA[Minnesota AG Keith Ellison accuses Gov. Greg Abbott of making Texas a "sanctuary state for violent criminals" amid an extradition battle regarding an ICE agent charged in a Minneapolis shooting.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>LETTER: Senate candidate attempting to mislead voters</title>
-      <link>https://www.juneauempire.com/2026/08/26/letter-senate-candidate-attempting-to-mislead-voters/</link>
-      <guid isPermaLink="false">ed3b3f8d0f27cca85e4a4b5e19cb08a61ae4c5fd</guid>
-      <pubDate>Wed, 26 Aug 2026 09:30:00 GMT</pubDate>
-      <description><![CDATA[I have extreme concern for the future of the State of Alaska, its leadership, and the expectation of integrity that a government official should hold. In my opinion, “Decoy Dan”, a proposed candidate for Senate, is nothing but a despicable fraud and an outright insult to all Alaskans. And anyone who supports this underhanded tactic should not be proud, but ashamed of themselves.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Hearings scheduled on removal on roadless restrictions for Tongass</title>
-      <link>https://www.juneauempire.com/2026/08/26/hearings-scheduled-on-removal-on-roadless-restrictions-for-tongass/</link>
-      <guid isPermaLink="false">7e047be766b5d16302cb6e28141b42dfdd184d65</guid>
-      <pubDate>Wed, 26 Aug 2026 09:30:00 GMT</pubDate>
-      <description><![CDATA[Move will remove protections on approximately 9 million acres in the Tongass National Forest]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska officials respond to mystery spill near idled Cook Inlet oil platform</title>
-      <link>https://alaskabeacon.com/briefs/alaska-officials-respond-to-mystery-spill-near-idled-cook-inlet-oil-platform/</link>
-      <guid isPermaLink="false">da38fb7ee72bddaed3cfa18722164bb910036234</guid>
-      <pubDate>Wed, 26 Aug 2026 01:08:54 GMT</pubDate>
-      <description><![CDATA[State and industry officials and the U.S. Coast Guard were responding on Tuesday to an unexplained oil spill roughly 60 miles southwest of Anchorage in Southcentral Alaska’s Cook Inlet. The spill, which produced a long oil sheen on the water near the Trading Bay area on the western side of the inlet, was first spotted […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Newscast – Tuesday, August 25, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17428626/newscast-tuesday-august-25-2026</link>
-      <guid isPermaLink="false">dbf181b20a148477dda8ccc1d486fc4691df7631</guid>
-      <pubDate>Wed, 26 Aug 2026 00:59:17 GMT</pubDate>
-      <description><![CDATA[In this newscast: A Superior Court judge heard oral arguments this morning over the legality of the city's planned redevelopment of Juneau's Telephone Hill; A former Juneau fire captain has been sentenced to more than a year in prison for assaulting his stepdaughter, and KTOO examines how the city dealt with having a public safety employee charged for child assault; Around 250 U.S. Coast Guard crew members stationed across Alaska and the Pacific Northwest traveled to Juneau for a week-long training. And on Wednesday, they competed in what's called the Buoy Tender Olympics; Sitka teacher Bridgette Reynolds was recognized at Sealaska Heritage Institute's 2026 culturally responsive education conferences earlier this month; A home in Sitka sustained fire damage last week but remains standing thanks to the quick action of a good Samaritan and local emergency responders]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Agencies investigating sheen in Cook Inlet</title>
-      <link>https://www.homernews.com/2026/08/25/agencies-investigating-sheen-in-cook-inlet/</link>
-      <guid isPermaLink="false">11476ee121a473ee5ced1a6196be08e0f57492b4</guid>
-      <pubDate>Wed, 26 Aug 2026 00:30:00 GMT</pubDate>
-      <description><![CDATA[The incident occured in North Trading Bay, approximately 50 to 60 miles southwest of Anchorage]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Dolly Parton dies at 80 after a life of music and giving</title>
-      <link>https://alaskabeacon.com/2026/08/25/repub/dolly-parton-dies-at-80-after-a-life-of-music-and-giving/</link>
-      <guid isPermaLink="false">7e49b51a703fd6aeda491a829180e54f256d65ca</guid>
-      <pubDate>Tue, 25 Aug 2026 23:31:34 GMT</pubDate>
-      <description><![CDATA[Dolly Parton, the personification of Tennessee music, died Tuesday at age 80 after decades of entertaining the world. Parton’s nephew, Bryan Seaver, delivered the news of her death in a video for the family, sparking mourning from her birthplace of Locust Ridge in the mountains of East Tennessee across the state to Nashville, where she […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska should turn AI time savings into mentor time</title>
-      <link>https://alaskabeacon.com/2026/08/25/alaska-should-turn-ai-time-savings-into-mentor-time/</link>
-      <guid isPermaLink="false">b62b33dc8a09f12ee7f9b03ff398cfd02756bc04</guid>
-      <pubDate>Tue, 25 Aug 2026 22:14:00 GMT</pubDate>
-      <description><![CDATA[Alaska has a workforce problem that artificial intelligence could either ease or worsen. The state needs more people who can become skilled, dependable workers. AI can remove routine work and make experienced employees more productive. But if employers simply eliminate the junior tasks that once taught people how the work actually functions, they may save […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska DEED awarded $1.15m to implement Presidential Fitness Test in Alaska public schools</title>
-      <link>https://mustreadalaska.com/alaska-deed-awarded-1-15m-to-implement-presidential-fitness-test-in-alaska-public-schools/</link>
-      <guid isPermaLink="false">675867291103f86d333621d492b8a38bcef7ed59</guid>
-      <pubDate>Tue, 25 Aug 2026 20:27:36 GMT</pubDate>
-      <description><![CDATA[As part of the Rural Health Transformation Program, $1.15 million has been awarded to the Alaska Department of Education & Early Development (DEED) to implement the Presidential Fitness Test in Alaska public schools. DEED will provide funding as needed to Alaska’s school districts for implementation. The Presidential Fitness Test was reestablished by Executive Order 14327 […] The post Alaska DEED awarded $1.15m to implement Presidential Fitness Test in Alaska public schools appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities in Bosnia, has died at 84</title>
-      <link>https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead</link>
-      <guid isPermaLink="false">fffd64900cd16fb5b042be89807f6c2fbf2c1335</guid>
-      <pubDate>Thu, 27 Aug 2026 13:32:43 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Silence is complicity' - top footballer hits out over Cameroon femicides</title>
-      <link>https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">584bfe4e987bc6189d93ea20a787c1f5674ca6d3</guid>
-      <pubDate>Thu, 27 Aug 2026 13:26:29 GMT</pubDate>
-      <description><![CDATA[The killing of at least eight women in a week has sparked outrage in Cameroon.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Giants QB's girlfriend takes NFL preseason fashion to next level, 9U football kid unloads &amp; Horvat kids' clubs</title>
-      <link>https://www.foxnews.com/outkick-sports/giants-qb-girlfriend-takes-nfl-preseason-fashion-next-level-9u-football-kid-unloads-horvat-kids-clubs</link>
-      <guid isPermaLink="false">a681eda9aa8faddb643f8ba081439f3a87a623b5</guid>
-      <pubDate>Thu, 27 Aug 2026 13:16:09 GMT</pubDate>
-      <description><![CDATA[Dick's Sporting Goods faces reader backlash over its ammo ban as fans push Scheels, plus a 9U football hit and the viral fart corner safe space.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Florida becomes first state to block welfare cash for tattoos, vapes and more</title>
-      <link>https://www.foxnews.com/politics/florida-becomes-first-state-block-welfare-cash-tattoos-vapes-more</link>
-      <guid isPermaLink="false">b7f27881d7e428c33f627db298591ff2354e0786</guid>
-      <pubDate>Thu, 27 Aug 2026 13:00:58 GMT</pubDate>
-      <description><![CDATA[Florida will bar welfare benefits from covering tattoos, theme-park tickets, video games, vapes and other nonessential purchases under a first-in-the-nation plan Trump wants other states to follow.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>I’m president of one of America’s most reliable allies. Here’s how we stand up to Russia</title>
-      <link>https://www.foxnews.com/opinion/president-americas-reliable-allies-stand-up-russia</link>
-      <guid isPermaLink="false">51766c7e044a66f975c9fbd92319a27e400703a5</guid>
-      <pubDate>Thu, 27 Aug 2026 13:00:47 GMT</pubDate>
-      <description><![CDATA[Romania pledges 5% GDP defense spending by 2035 and billions in Black Sea military infrastructure to strengthen NATO's southeastern flank against Russia.]]></description>
-      <category>southeast</category>
-    </item>
-    <item>
-      <title>One in eight young people still out of work or education ahead of major review</title>
-      <link>https://www.bbc.co.uk/news/articles/c93epy2yev0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">03b7f9be260ef2a5b0d1819ec10becc9adc956c4</guid>
-      <pubDate>Thu, 27 Aug 2026 12:56:31 GMT</pubDate>
-      <description><![CDATA[Just under one million young people in the UK are not in education, employment or training (Neet).]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Thieves steal Bronze Age artifacts from Spanish museum in four-minute heist</title>
-      <link>https://www.bbc.co.uk/news/articles/ckgw9gw34yqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">da239303960a44eee7c367ee48a879481420cee3</guid>
-      <pubDate>Thu, 27 Aug 2026 12:41:16 GMT</pubDate>
-      <description><![CDATA[The Treasure of Villena is a unique trove of almost ten kilos of gold, bowls, bottles and bracelets dating back to the Bronze Age.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Gigi Hadid says her relationship with Bradley Cooper provides something she hasn't experienced before</title>
-      <link>https://www.foxnews.com/entertainment/gigi-hadid-says-her-relationship-bradley-cooper-provides-something-she-hasnt-experienced-before</link>
-      <guid isPermaLink="false">3a03edc9866fe600af7d777a63a9763e5ce4acca</guid>
-      <pubDate>Thu, 27 Aug 2026 12:40:11 GMT</pubDate>
-      <description><![CDATA[Gigi Hadid told Vogue France that deep honesty sets her Bradley Cooper romance apart, as marriage speculation swirls after their Paris ring sighting.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bobby Vylan faces no further action over IDF chant</title>
-      <link>https://www.bbc.co.uk/news/articles/c0lrwl2w82lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">23725b3905ca4f39447413257a01d7d0a52ddaad</guid>
-      <pubDate>Thu, 27 Aug 2026 12:37:11 GMT</pubDate>
-      <description><![CDATA[The controversial performer was investigated after chanting at an Al Quds Day demonstration in London.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Vinod Khosla knows little about owning an NFL team but it's fine because he just bought the Super Bowl champs</title>
-      <link>https://www.foxnews.com/outkick-sports/vinod-khosla-knows-little-owning-nfl-team-fine-bought-super-bowl-champs</link>
-      <guid isPermaLink="false">6653eab298ee499e2e8feb917e46465339d6b360</guid>
-      <pubDate>Thu, 27 Aug 2026 12:35:36 GMT</pubDate>
-      <description><![CDATA[Vinod Khosla's family won unanimous approval from NFL owners to buy the Seattle Seahawks for an estimated $9.6 billion, joining a fresh Super Bowl winner.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>WNBA, NBA silent on transgender eligibility debate as players and coaches take the heat</title>
-      <link>https://www.foxnews.com/outkick-sports/wnba-nba-silent-transgender-eligibility-debate-players-coaches-take-heat</link>
-      <guid isPermaLink="false">e0601be5f9dd1be760aae80dfc09de07c02367e7</guid>
-      <pubDate>Thu, 27 Aug 2026 12:30:18 GMT</pubDate>
-      <description><![CDATA[Phoenix Mercury coach Nate Tibbetts deflected questions about transgender eligibility, saying it's the league's job as Cathy Engelbert remains silent.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Judge sentences Lily Peters' killer 4 years after 10-year-old found dead in woods</title>
-      <link>https://www.foxnews.com/us/judge-sentences-lily-peters-killer-4-years-after-10-year-old-found-dead-woods</link>
-      <guid isPermaLink="false">5a78c2f9f006df0ef7e6a0050f837dcbe5ba0dc3</guid>
-      <pubDate>Thu, 27 Aug 2026 12:21:45 GMT</pubDate>
-      <description><![CDATA[Carson Peters-Berger, now 18, pleaded guilty to first-degree intentional homicide in the 2022 killing of cousin Lily Peters in Chippewa Falls.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Number of asylum seekers in hotels halves in a year</title>
-      <link>https://www.bbc.co.uk/news/articles/c3relr4xx27o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2c53ab8004174b9cfe5e05aa05ee7b3af8968215</guid>
-      <pubDate>Thu, 27 Aug 2026 12:17:32 GMT</pubDate>
-      <description><![CDATA[Figures released today by the Home Office show that there was also a fall across legal migration arrivals, asylum claims and small boat arrivals.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>MLB stadium looks virtually empty as fans send clear message about the team: 'Embarrassing'</title>
-      <link>https://www.foxnews.com/outkick-sports/mlb-stadium-looks-virtually-empty-fans-send-clear-message-team-embarrassing</link>
-      <guid isPermaLink="false">113269247cf2774a95509f089fc2d499e47862a0</guid>
-      <pubDate>Thu, 27 Aug 2026 12:17:27 GMT</pubDate>
-      <description><![CDATA[The Los Angeles Angels claimed 25,161 fans attended Wednesday's matinee, but the empty stands in Anaheim told a very different and brutal story.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Missouri deputy AG, missing 6 days after seeking to summit Wyoming's tallest peak, is found alive</title>
-      <link>https://www.foxnews.com/us/missouri-deputy-ag-missing-6-days-seeking-summit-wyomings-tallest-peak-found-alive</link>
-      <guid isPermaLink="false">fb02ebac0540d446a9215cbff2b38a982d865d16</guid>
-      <pubDate>Thu, 27 Aug 2026 12:08:43 GMT</pubDate>
-      <description><![CDATA[Missouri Attorney General Catherine L. Hanaway celebrated the rescue of Shaun Mackelprang after crews searched Wyoming's Wind River Range for days.]]></description>
+      <title>Magnitude 6.0 earthquake hits near Somalia, rattling residents and nearby communities</title>
+      <link>https://www.foxweather.com/weather-news/magnitude-6-0-earthquake-somalia-rattling-communities</link>
+      <guid isPermaLink="false">30aa04b6e0969b2810b42deffafba2d2daf8b76e</guid>
+      <pubDate>Thu, 27 Aug 2026 22:34:56 GMT</pubDate>
+      <description><![CDATA[Residents across Somalia were rattled by a magnitude 6.0 earthquake on Thursday.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Experts zero in on likely cause of deadly Nepal mudslide, with more than 1,300 missing</title>
-      <link>https://www.foxnews.com/world/experts-zero-likely-cause-deadly-nepal-mudslide-1300-missing</link>
-      <guid isPermaLink="false">654a9035d47a591c498f2938d615083f28e9b464</guid>
-      <pubDate>Thu, 27 Aug 2026 12:04:32 GMT</pubDate>
-      <description><![CDATA[A massive glacier collapse triggered a magnitude 5.2 landslide event that caused catastrophic Nepal and Tibet floods, with over 1,300 people still missing.]]></description>
+      <title>Stephen Colbert emerges from cancellation to urge Emmy voters to select Jimmy Kimmel over own show</title>
+      <link>https://www.foxnews.com/media/stephen-colbert-emerges-from-cancellation-urge-emmy-voters-select-jimmy-kimmel-over-own-show</link>
+      <guid isPermaLink="false">118c2673e432ab7f538df1df32909c533abbba5e</guid>
+      <pubDate>Thu, 27 Aug 2026 22:28:46 GMT</pubDate>
+      <description><![CDATA[Stephen Colbert urged Emmy voters to support Jimmy Kimmel for outstanding variety series in a social media video over Colbert's canceled show.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Dame Jenni Murray died days after car crash, inquest hears</title>
-      <link>https://www.bbc.co.uk/news/articles/cm27y2dx7pwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ca0c39e23ad2f906d222ca1e3d8ca9499ad0f539</guid>
-      <pubDate>Thu, 27 Aug 2026 11:52:28 GMT</pubDate>
-      <description><![CDATA[The former presenter of BBC Radio 4 Woman's Hour died earlier this year, eight days after the collision.]]></description>
+      <title>Miami’s rainy season falls short as August storms eye the Southeast</title>
+      <link>https://www.foxweather.com/weather-news/miami-rainy-season-falls-short-august-storms-southeast-kalshi</link>
+      <guid isPermaLink="false">e746ed2217a20ef3435bc26e6810125061b7deb5</guid>
+      <pubDate>Thu, 27 Aug 2026 22:16:18 GMT</pubDate>
+      <description><![CDATA[Miami is running well behind its usual August rainfall total as daily storms target Florida and the Southeast. Here’s how the unsettled pattern could bring drought relief.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Callaway ends partnership with Good Good, PGA Tour event renamed in latest fallout to controversial driver ad</title>
+      <link>https://www.foxnews.com/outkick-sports/callaway-ends-partnership-good-good-pga-tour-event-renamed-latest-fallout-controversial-driver-ad</link>
+      <guid isPermaLink="false">b915d400c49ae556a82ad03f08bb727121d7ce4b</guid>
+      <pubDate>Thu, 27 Aug 2026 22:10:38 GMT</pubDate>
+      <description><![CDATA[Callaway Golf severed ties with Good Good immediately after the controversial ad showing a man appearing to knock down a woman sparked massive fallout.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health</title>
-      <link>https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">980d6cccbe3497f977f2a850f77475c10fa89009</guid>
-      <pubDate>Thu, 27 Aug 2026 11:23:28 GMT</pubDate>
-      <description><![CDATA[A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage.]]></description>
+      <title>What we know after the big Grand Theft Auto 6 preview</title>
+      <link>https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">de4a4de434cfe23fee668b4174014c8d40281bc1</guid>
+      <pubDate>Thu, 27 Aug 2026 22:10:05 GMT</pubDate>
+      <description><![CDATA[The official look at the blockbuster video game leaves fans and critics impressed.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Norway's royal family gathers at King Harald's bedside as his condition worsens</title>
-      <link>https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">544d472ce9eb5770e78195201b3ed5cf0f5f6ebe</guid>
-      <pubDate>Thu, 27 Aug 2026 11:20:49 GMT</pubDate>
-      <description><![CDATA[The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition.]]></description>
+      <title>US removes radioactive cancer-treatment material from Central American country over 'dirty bomb' risk</title>
+      <link>https://www.foxnews.com/politics/us-removes-radioactive-cancer-treatment-material-central-american-country-dirty-bomb-risk</link>
+      <guid isPermaLink="false">1cc3a2170c3fb9bf7d97ca024234bcaa6364c578</guid>
+      <pubDate>Thu, 27 Aug 2026 21:57:55 GMT</pubDate>
+      <description><![CDATA[A cobalt-60 source from a disused cancer treatment device in Guatemala was removed over fears it could be stolen and turned into a dirty bomb.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Meta reaches $17B settlement. And, nuclear regulator to abandon radiation safety rule</title>
-      <link>https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding</link>
-      <guid isPermaLink="false">1bc167f21d13c810787845f72f519ffc5b255732</guid>
-      <pubDate>Thu, 27 Aug 2026 11:02:41 GMT</pubDate>
-      <description><![CDATA[Meta and the states that sued the company have agreed to a $17 billion settlement. And, nuclear regulators are preparing to abandon a decades-old radiation safety rule.]]></description>
+      <title>The role of climate change in the Nepal floods</title>
+      <link>https://www.npr.org/2026/08/27/nx-s1-5946703/the-role-of-climate-change-in-the-nepal-floods</link>
+      <guid isPermaLink="false">d97f9ef0adb9671afdd8b209e018d29176c58b46</guid>
+      <pubDate>Thu, 27 Aug 2026 21:43:57 GMT</pubDate>
+      <description><![CDATA[The deadly flash floods in Nepal are not a surprise to many scientists. Glacial melt is accelerating because of climate change, putting millions of people at risk.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tracking Tropical Storm Dolly: Forecast cone, rain, wind and radar maps</title>
+      <link>https://www.foxweather.com/weather-news/tracker-tropical-storm-dolly-forecast-cone-wind-speed-radar</link>
+      <guid isPermaLink="false">84ffe00b852ccbe0f5025a88eb0fb1ad4e7cb965</guid>
+      <pubDate>Thu, 27 Aug 2026 21:34:59 GMT</pubDate>
+      <description><![CDATA[Tropical Storm Dolly is churning in the Atlantic, with sustained winds of 40 mph as it tracks west generally toward the Lesser Antilles.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Rape and sex offence specialists on all police forces by 2027, PM says</title>
+      <link>https://www.bbc.co.uk/news/articles/c1e577l5g99o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ab7cebdab943b404d950fdd75f7c721d9194491f</guid>
+      <pubDate>Thu, 27 Aug 2026 21:30:39 GMT</pubDate>
+      <description><![CDATA[The plans for forces in England and Wales had been scheduled to be rolled out by summer 2029, but have been brought forward.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Clean-up of illegal waste supersite costs taxpayers £6m</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">cce82e749cd6f3504cfe6b9d52697d231f4dcb68</guid>
+      <pubDate>Thu, 27 Aug 2026 21:00:48 GMT</pubDate>
+      <description><![CDATA[The bill for clearing the dump in Oxfordshire has been covered by taxpayers.]]></description>
       <category>politics</category>
+    </item>
+    <item>
+      <title>Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children</title>
+      <link>https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7957001f942ae3fc7011e114c9f453626166176b</guid>
+      <pubDate>Thu, 27 Aug 2026 20:39:16 GMT</pubDate>
+      <description><![CDATA[Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Extra 200 police drafted in to aid force investigating wrong-way crash and fire deaths</title>
+      <link>https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1be1622c152f4a25386ce5cd064f5179f883d973</guid>
+      <pubDate>Thu, 27 Aug 2026 20:14:57 GMT</pubDate>
+      <description><![CDATA[Cleveland Police confirms it has support from six local forces and the National Crime Agency.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Helicopter pilot describes what he's seen rescuing people in Nepal</title>
+      <link>https://www.npr.org/2026/08/27/nx-s1-5946443/helicopter-pilot-describes-what-hes-seen-rescuing-people-in-nepal</link>
+      <guid isPermaLink="false">1c4e49f192f60a3e4a4abed66c3df42b710d99fd</guid>
+      <pubDate>Thu, 27 Aug 2026 20:01:44 GMT</pubDate>
+      <description><![CDATA[Andy Thapa is a charter and rescue pilot for a Nepali helicopter company. He's been rescuing people stranded by the catastrophic flooding, and carrying them to safety.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tropical Storm Dolly forms, battling brewing Super El Niño's hostile conditions in the Atlantic</title>
+      <link>https://www.foxweather.com/weather-news/tropical-storm-dolly-atlantic-ocean-super-el-nino-august-2026</link>
+      <guid isPermaLink="false">004b9df5d55caacb278bfd100b7eaf346e177aaf</guid>
+      <pubDate>Thu, 27 Aug 2026 14:20:06 GMT</pubDate>
+      <description><![CDATA[Tropical Storm Dolly has formed in the Atlantic Ocean after struggling to develop over the past few days as it battled the hostile conditions produced by the inhibitive El Niño climate pattern.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>How extreme heat is forcing school systems to adapt for better quality learning</title>
@@ -500,6 +492,14 @@
       <guid isPermaLink="false">6f779d745032987d431162dda25c3762ffb15b18</guid>
       <pubDate>Wed, 26 Aug 2026 20:59:48 GMT</pubDate>
       <description><![CDATA[The summer heat is ramping back up across parts of the West Coast this week, with scorching temperatures over 90 degrees sizzling thousands of Americans.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Millions across the South face days of dangerous flash flooding, thunderstorms stretching into the weekend</title>
+      <link>https://www.foxweather.com/weather-news/multi-day-flash-flood-severe-storm-threat-south</link>
+      <guid isPermaLink="false">721aacbb90681b3db2e92ca59ad4fd218064f260</guid>
+      <pubDate>Wed, 26 Aug 2026 19:10:31 GMT</pubDate>
+      <description><![CDATA[The South has seen little relief as a flash flood threat continues its grasp on the region until this weekend.]]></description>
       <category>weather</category>
     </item>
     <item>
