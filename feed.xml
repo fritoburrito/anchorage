@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:00:43 GMT</lastBuildDate>
+    <item>
+      <title>GOV MIKE DUNLEAVY: China is holding critical minerals hostage. Alaska can help end the threat</title>
+      <link>https://www.foxnews.com/opinion/gov-mike-dunleavy-china-holding-critical-minerals-hostage-alaska-help-end-threat</link>
+      <guid isPermaLink="false">bc8ea34aa2409287d1af65f3f5591edb83fbb579</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:43 GMT</pubDate>
+      <description><![CDATA[Gov. Mike Dunleavy says Alaska hosts 57 of 60 critical minerals and argues developing them is essential to countering China's economic blackmail.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>App alerts those with CPR training to nearby cardiac arrests in Juneau</title>
       <link>https://www.juneauempire.com/2026/08/29/app-alerts-those-with-cpr-training-to-nearby-cardiac-arrests-in-juneau/</link>
@@ -15,34 +23,26 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Canadian tariffs to further raise prices, a top concern for voters</title>
-      <link>https://alaskabeacon.com/2026/08/28/repub/canadian-tariffs-to-further-raise-prices-a-top-concern-for-voters/</link>
-      <guid isPermaLink="false">3aae2aeb12805fdbae3a7498e96b4e167f857e92</guid>
-      <pubDate>Fri, 28 Aug 2026 16:54:55 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — A developing trade war with Canada could bite Republicans ahead of the upcoming midterm elections as voters worry about rising prices and industries in states with competitive races could suffer. Maine’s lobster industry dodged what officials had warned could be economic havoc Thursday morning when Canada reversed its decision to tax lobster imports at […]]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight - Rain Showers Likely then Light Rain Likely</title>
+      <title>Anchorage Weather: Tonight - Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 31 Aug 2026 03:09:29 GMT</pubDate>
-      <description><![CDATA[43°F. Wind NE 0 to 10 mph. Rain showers likely between 7pm and 1am, then rain likely between 1am and 4am, then rain showers likely. Mostly cloudy, with a low around 43. Northeast wind 0 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%.]]></description>
+      <pubDate>Mon, 31 Aug 2026 10:24:31 GMT</pubDate>
+      <description><![CDATA[44°F. Wind NE 0 to 10 mph. A chance of rain showers before 1am, then a chance of rain between 1am and 4am, then rain showers. Cloudy, with a low around 44. Northeast wind 0 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Monday - Light Rain Likely</title>
+      <title>Anchorage Weather: Monday - Rain Showers then Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 31 Aug 2026 03:09:29 GMT</pubDate>
-      <description><![CDATA[58°F. Wind N 5 to 15 mph. Rain showers likely before 7am, then rain likely between 7am and 4pm. Mostly cloudy, with a high near 58. North wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%.]]></description>
+      <pubDate>Mon, 31 Aug 2026 10:24:31 GMT</pubDate>
+      <description><![CDATA[58°F. Wind N 5 to 15 mph. Rain showers before 7am, then rain between 7am and 4pm. Mostly cloudy, with a high near 58. North wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Monday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 31 Aug 2026 03:09:29 GMT</pubDate>
+      <pubDate>Mon, 31 Aug 2026 10:24:31 GMT</pubDate>
       <description><![CDATA[37°F. Wind N 5 to 15 mph. Mostly clear, with a low around 37. North wind 5 to 15 mph, with gusts as high as 25 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,17 +50,33 @@
       <title>Anchorage Weather: Tuesday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 31 Aug 2026 03:09:29 GMT</pubDate>
-      <description><![CDATA[60°F. Wind N 5 mph. Sunny, with a high near 60. North wind around 5 mph.]]></description>
+      <pubDate>Mon, 31 Aug 2026 10:24:31 GMT</pubDate>
+      <description><![CDATA[60°F. Wind N 0 to 5 mph. Sunny, with a high near 60. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tuesday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 31 Aug 2026 03:09:29 GMT</pubDate>
-      <description><![CDATA[41°F. Wind NE 0 to 5 mph. Partly cloudy, with a low around 41. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Mon, 31 Aug 2026 10:24:31 GMT</pubDate>
+      <description><![CDATA[41°F. Wind NW 0 to 5 mph. Partly cloudy, with a low around 41. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Shoppers are going hog wild for Piggly Wiggly's retro pig merchandise</title>
+      <link>https://www.foxnews.com/food-drink/shoppers-going-hog-wild-piggly-wigglys-retro-pig-merchandise</link>
+      <guid isPermaLink="false">8d50548d308c6296494d64b2309bcc136df523c0</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:37 GMT</pubDate>
+      <description><![CDATA[The Mr. Pig logo from Piggly Wiggly has become a merchandise phenomenon, with collectors detouring miles for T-shirts featuring the iconic retro branding.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Metanoia: Exposing the Modern Deconstruction of Personal Freedom, and Rediscovering Virtue’s Connection to Liberty</title>
+      <link>https://mustreadalaska.com/metanoia-exposing-the-modern-deconstruction-of-personal-freedom-and-rediscovering-virtues-connection-to-liberty/</link>
+      <guid isPermaLink="false">54c35c99d56e9d27c1a772b4008f5bad48af03be</guid>
+      <pubDate>Sun, 30 Aug 2026 17:00:00 GMT</pubDate>
+      <description><![CDATA[ICYMI: This article builds on concepts discussed in “Metanoia: Freedom Found in Choosing Reason Over Desire.” Ordering the will is difficult for modern men and women. Aquinas recognized the frailty of fallen nature; present cultural and educational conditions intensify the challenge by giving less attention to intellectual formation ordered toward knowledge of objective truth and […] The post Metanoia: Exposing the Modern Deconstruction of Personal Freedom, and Rediscovering Virtue’s Connection to Liberty appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>This Day in Alaska History-August 30th, 1915</title>
@@ -215,179 +231,147 @@
       <category>local</category>
     </item>
     <item>
-      <title>Opinion: The long quest for government realignment part II</title>
-      <link>https://mustreadalaska.com/opinion-the-long-quest-for-government-realignment-part-ii/</link>
-      <guid isPermaLink="false">98abeaaf146ceac0ad43b6b2911d84e247f77ccc</guid>
-      <pubDate>Fri, 28 Aug 2026 17:00:00 GMT</pubDate>
-      <description><![CDATA[The Vote We Missed and the Petition We Lost While Eagle River–Chugiak residents believed they were part of a separate borough, the Greater Anchorage Area Borough proceeded with the process that would unify the borough and the City of Anchorage. Because Eagle River–Chugiak was then regarded as being outside the Greater Anchorage Area Borough, its […] The post Opinion: The long quest for government realignment part II appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Talking Trash in Goodnews Bay</title>
-      <link>https://alaska-native-news.com/talking-trash-in-goodnews-bay/85895/</link>
-      <guid isPermaLink="false">4ca761082d907f6598be1c7d5882c068868cf74e</guid>
-      <pubDate>Fri, 28 Aug 2026 14:05:03 GMT</pubDate>
-      <description><![CDATA[To most of us, trash talk is something reserved for the basketball court or football field. But in the Bering Sea coastal village of Goodnews Bay, it’s a key part of a program for kids to keep their community clean. Trash Talk sprang from an effort to clean up the 250-person village’s streets and beaches, […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Rockies player benched after flipping off Braves fans, caught on video giving the bird</title>
-      <link>https://www.foxnews.com/outkick-sports/rockies-player-benched-flipping-off-braves-fans-caught-video-giving-bird</link>
-      <guid isPermaLink="false">6ff320989bd6db4fb63b1444882feb6593c12809</guid>
-      <pubDate>Mon, 31 Aug 2026 02:51:11 GMT</pubDate>
-      <description><![CDATA[Cole Carrigg flipped off Atlanta Braves fans after a costly eighth-inning misplay, and Rockies manager Warren Schaeffer pulled him from the lineup.]]></description>
+      <title>Attacks flare between U.S., Iran after month-long pause</title>
+      <link>https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran</link>
+      <guid isPermaLink="false">53abd1e812024a49057b8c041f095d9667b1c28e</guid>
+      <pubDate>Mon, 31 Aug 2026 10:04:30 GMT</pubDate>
+      <description><![CDATA[U.S. threats erupt into attacks in the Strait of Hormuz; Iran retaliates against U.S. targets in the UAE and Jordan in the first exchange of fire since July 29]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Many are making the argument that Jordan Travis was the greatest college QB of all time, and they aren't wrong</title>
-      <link>https://www.foxnews.com/outkick-sports/many-making-argument-jordan-travis-greatest-college-qb-all-time-arent-wrong</link>
-      <guid isPermaLink="false">8cec38a480b79102df8f2570c444114f0215d220</guid>
-      <pubDate>Mon, 31 Aug 2026 02:37:27 GMT</pubDate>
-      <description><![CDATA[Jordan Travis posted a 29-10 record with Florida State's Mike Norvell, but FSU has gone 8-17 since his departure from the Seminoles program.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>What Argentina gets right about youth soccer — and what the U.S. gets wrong</title>
-      <link>https://www.npr.org/2026/08/30/nx-s1-5924666/what-argentina-gets-right-about-youth-soccer-and-what-the-u-s-gets-wrong</link>
-      <guid isPermaLink="false">949bf245efd6eee2175e2a4e0f7d6a0113f948ef</guid>
-      <pubDate>Mon, 31 Aug 2026 02:27:49 GMT</pubDate>
-      <description><![CDATA[Argentina has produced some of the world's greatest soccer players. Could its youth system offer lessons for the United States?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Parkgoer airlifted after Batman roller coaster incident leaves man with fractures to both legs</title>
-      <link>https://www.foxnews.com/world/parkgoer-airlifted-after-batman-roller-coaster-incident-leaves-man-fractures-both-legs</link>
-      <guid isPermaLink="false">b285e840f31041eb3023de6c9835d216d3996d9e</guid>
-      <pubDate>Mon, 31 Aug 2026 02:25:58 GMT</pubDate>
-      <description><![CDATA[A 49-year-old visitor was airlifted to a hospital after suffering fractures in both legs on a Batman-themed roller coaster in Spain, lcoal reports say.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Beloved Texas chiropractor, hiking group among those unaccounted for after Grand Canyon flash flood</title>
-      <link>https://www.foxnews.com/us/beloved-texas-chiropractor-hiking-group-among-those-unaccounted-after-grand-canyon-flash-flood</link>
-      <guid isPermaLink="false">d52f4a01fd7fc1627a82fa350d24665c42cbf8cb</guid>
-      <pubDate>Mon, 31 Aug 2026 02:14:47 GMT</pubDate>
-      <description><![CDATA[Dr. John Giusti's wife said the Texas chiropractor and his hiking group are among those missing after a flash flood tore through the Grand Canyon.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Patel to be replaced by Tugendhat as shadow foreign secretary</title>
-      <link>https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c54f4fa5d3a594ebc84fa7a14270ac9245d66346</guid>
-      <pubDate>Mon, 31 Aug 2026 02:03:38 GMT</pubDate>
-      <description><![CDATA[Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>This actor was told he had Alzheimer's, now he's performing a one-man show</title>
-      <link>https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e2cd6a3fb8dd1bf2119104729092ed4c63dd0fec</guid>
-      <pubDate>Mon, 31 Aug 2026 01:47:54 GMT</pubDate>
-      <description><![CDATA[Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>California mom has both legs amputated after suspected impaired driver plows into her restaurant lunch table</title>
-      <link>https://www.foxnews.com/us/california-mom-both-legs-amputated-suspected-impaired-driver-plows-restaurant-lunch-table</link>
-      <guid isPermaLink="false">b5814b53c0fd3ac19f1922ee520c7b6c4b08d2a4</guid>
-      <pubDate>Mon, 31 Aug 2026 01:16:25 GMT</pubDate>
-      <description><![CDATA[A California woman underwent three surgeries and a bilateral leg amputation after an alleged impaired driver crashed into a Boyle Heights restaurant.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hasan Piker insists Abdul El-Sayed asked him to 'stump' for Michigan campaign amid backlash</title>
-      <link>https://www.foxnews.com/media/hasan-piker-insists-abdul-el-sayed-asked-him-stump-michigan-campaign-amid-backlash</link>
-      <guid isPermaLink="false">7e13dd0bfd90c728d5e60b46a0a6334229e5120a</guid>
-      <pubDate>Mon, 31 Aug 2026 01:07:21 GMT</pubDate>
-      <description><![CDATA[Hasan Piker claimed Abdul El-Sayed asked him to stump for his Michigan U.S. Senate campaign before the Twitch streamer faced intense political backlash.]]></description>
+      <title>'Jesus was a radical': Progressives invoke Christ to sell left-wing agenda on campaign trail</title>
+      <link>https://www.foxnews.com/politics/jesus-radical-progressives-invoke-christ-sell-left-wing-agenda-campaign-trail</link>
+      <guid isPermaLink="false">6555f0905f2b1d9462dd0205a4c4de449ae38f2d</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:59 GMT</pubDate>
+      <description><![CDATA[Angie Nixon, Abdul El-Sayed and James Talarico are weaving faith into their Senate campaigns, drawing comparisons to Jesus and echoing the Moral Majority.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Nicolás Maduro flashes peace signs in first prison photos since US capture in Caracas</title>
-      <link>https://www.foxnews.com/world/nicolas-maduro-flashes-peace-signs-first-prison-photos-since-us-capture-caracas</link>
-      <guid isPermaLink="false">c2cfb2c5eff22175546bf9a958e820e9f20945c8</guid>
-      <pubDate>Mon, 31 Aug 2026 00:56:53 GMT</pubDate>
-      <description><![CDATA[Ousted Venezuelan President Nicolás Maduro appeared in his first photos from a New York prison, smiling as he awaits trial on federal drug trafficking charges.]]></description>
+      <title>Queen Camilla puts past differences with Prince Harry aside as King Charles seeks closer family ties: experts</title>
+      <link>https://www.foxnews.com/entertainment/queen-camilla-puts-past-differences-prince-harry-aside-king-charles-seeks-closer-family-ties-experts</link>
+      <guid isPermaLink="false">4eeb29b0b5b7994b97081c4a9a50e20cb9f9634c</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:36 GMT</pubDate>
+      <description><![CDATA[Queen Camilla reportedly offered Prince Harry tea with a "fixed smile" at the secret Highgrove House meeting ahead of the Sussexes moving to the U.K. prioritizing King Charles III's welfare.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>'Like fighting a dinosaur': Sydney woman recalls how she punched shark during attack</title>
-      <link>https://www.bbc.co.uk/news/articles/c3v4px7yv6xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a2bc87b33eb2e24f05015ecdcc2e24b122191212</guid>
-      <pubDate>Mon, 31 Aug 2026 00:44:51 GMT</pubDate>
-      <description><![CDATA[Leah Stewart, 34, was mauled by a great white shark in June during a morning swim at Coogee Beach.]]></description>
+      <title>Newly unclassified Pentagon images show suspected drug boats as official issues deadly warning</title>
+      <link>https://www.foxnews.com/politics/newly-unclassified-pentagon-images-show-suspected-drug-boats-official-issues-deadly-warning</link>
+      <guid isPermaLink="false">7bf348aedc184dd146d5d0d6160f495b7fe73080</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:16 GMT</pubDate>
+      <description><![CDATA[Exclusive Pentagon photos show suspected drug-smuggling boats under U.S. military surveillance as Operation Southern Spear reaches 67 strikes at sea.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>This tiny farming town you’ve never heard of is helping Microsoft sell America on data centers</title>
+      <link>https://www.foxnews.com/politics/tiny-farming-town-helping-microsoft-sell-america-data-centers</link>
+      <guid isPermaLink="false">7031e9a5a37e8dfc14e02357f0397f65d5bed673</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:05 GMT</pubDate>
+      <description><![CDATA[Quincy, Washington, leveraged Microsoft data centers to fund a new high school, hospital and aquatic center, but long-term water concerns loom.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Jewish community in harder position than immediately after synagogue attack, says rabbi</title>
-      <link>https://www.bbc.co.uk/news/articles/cjrx4j7pyz3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d025d0b9704e14e93cc2f4714510fa3424edb943</guid>
-      <pubDate>Mon, 31 Aug 2026 00:34:25 GMT</pubDate>
-      <description><![CDATA[Rabbi Daniel Walker says members of the Jewish community are feeling increasingly vulnerable.]]></description>
+      <title>Dolly Parton laid to rest alongside husband in Nashville</title>
+      <link>https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f14aa1a495df311cbfd3e30c203e75a8831aa5f7</guid>
+      <pubDate>Mon, 31 Aug 2026 09:24:50 GMT</pubDate>
+      <description><![CDATA[A private family funeral is held for the singer who died on Tuesday at the age of 80.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Alex Palou clinches fourth straight IndyCar title and fifth overall in doubleheader at Milwaukee Mile</title>
-      <link>https://www.foxnews.com/outkick-sports/alex-palou-clinches-fourth-straight-indycar-title-fifth-overall-doubleheader-milwaukee-mile</link>
-      <guid isPermaLink="false">591d420d1fe91f6aef4d7847f6446261e1cc9310</guid>
-      <pubDate>Mon, 31 Aug 2026 00:33:49 GMT</pubDate>
-      <description><![CDATA[Alex Palou clinched his fourth straight IndyCar championship in Milwaukee, moving to third on the all-time list behind AJ Foyt and Scott Dixon.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The mystery of why so many black Britons still can't swim</title>
-      <link>https://www.bbc.co.uk/news/articles/cx27vxkpdz1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">fd33544cfb6d971cb25b94c936d23f5c06485a22</guid>
-      <pubDate>Mon, 31 Aug 2026 00:31:22 GMT</pubDate>
-      <description><![CDATA[For decades, swimming ability has been lower in the black community. Our writer asks why.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Billions in US aid to Ukraine under microscope as corruption rocks Zelenskyy’s inner circle</title>
-      <link>https://www.foxnews.com/world/billions-us-aid-ukraine-under-microscope-corruption-rocks-zelenskyys-inner-circle</link>
-      <guid isPermaLink="false">e705dc3293db20cfeb5fac6df2c58a7d41ed2075</guid>
-      <pubDate>Mon, 31 Aug 2026 00:30:48 GMT</pubDate>
-      <description><![CDATA[Over 24 federal agencies oversee billions in U.S. defense aid to Ukraine as Zelenskyy dismisses officials amid widening anti-corruption probes, expert says.]]></description>
+      <title>The data center fight could decide the next president and cost America the AI race</title>
+      <link>https://www.foxnews.com/opinion/data-center-fight-could-decide-next-president-cost-america-ai-race</link>
+      <guid isPermaLink="false">f7599bd213d9b29b9a1cf616685d15ab72799daa</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:43 GMT</pubDate>
+      <description><![CDATA[Rising electric bills and data center construction spark bipartisan pushback from governors, but restricting AI infrastructure could cost America its lead.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Abbey Gate survivor describes chaos before attack, says pullout was botched from the start</title>
-      <link>https://www.foxnews.com/media/abbey-gate-survivor-describes-chaos-before-attack-says-pullout-botched-from-start</link>
-      <guid isPermaLink="false">4577beab15b5ac14dcb14514cc55116aa5e12996</guid>
-      <pubDate>Mon, 31 Aug 2026 00:16:01 GMT</pubDate>
-      <description><![CDATA[Tyler Vargas-Andrews says Marines were forced to improvise during the Afghanistan evacuation with no tents, food, or support during the withdrawal at Abbey Gate in August, 2021.]]></description>
+      <title>Inside the dangerous US mission that cleared Iran’s mines from Hormuz shipping lanes</title>
+      <link>https://www.foxnews.com/politics/inside-dangerous-us-mission-cleared-irans-mines-hormuz-shipping-lanes</link>
+      <guid isPermaLink="false">31cdcaff75c2889abb4cf57c08bd63986fb2e823</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:38 GMT</pubDate>
+      <description><![CDATA[CENTCOM's Adm. Brad Cooper details how Navy divers, SEALs and air power quietly cleared Iranian sea mines from the Strait of Hormuz shipping lanes.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon</title>
-      <link>https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a2ad7f2294c238edf9b18d169618460722bb45fe</guid>
-      <pubDate>Sun, 30 Aug 2026 23:52:27 GMT</pubDate>
-      <description><![CDATA["It was a beautiful day - and then people were screaming," one hiker who was airlifted to safety tells the BBC.]]></description>
+      <title>My family fled the ‘butchers’ in Iran 50 years ago. We can’t give them what they want</title>
+      <link>https://www.foxnews.com/opinion/family-fled-butchers-iran-50-years-ago-cant-give-them-what-they-want</link>
+      <guid isPermaLink="false">b3572ae6752c4b72f015316fb53e80e5686bcd7a</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:33 GMT</pubDate>
+      <description><![CDATA[On Tuesday, Aug. 25, Trump announced the U.S. Navy cleared every Iranian mine from the Strait of Hormuz, but the regime's attrition strategy looms.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Families of pilgrims likely caught in floods are desperate for news from Nepal</title>
-      <link>https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal</link>
-      <guid isPermaLink="false">38bc709a8cc6ee2c518d55df2dc3cbd47e391799</guid>
-      <pubDate>Sun, 30 Aug 2026 23:32:39 GMT</pubDate>
-      <description><![CDATA[Four days after catastrophic floods wiped out villages along the Nepal-China border, thousands are still missing. Families look for answers but hear nothing.]]></description>
+      <title>Abdul El-Sayed shares dozens of donors with ex-GOP candidate at center of antisemitism controversy</title>
+      <link>https://www.foxnews.com/politics/abdul-el-sayed-shares-dozens-donors-ex-gop-candidate-center-antisemitism-controversy</link>
+      <guid isPermaLink="false">4c6bb64a23d4edc78f9ba5834ec66c52f9c7a7a9</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:22 GMT</pubDate>
+      <description><![CDATA[Michigan U.S. Senate candidate Abdul El-Sayed and Dan Bilzerian share nearly two dozen donors who gave more than $61,000 combined to both campaigns.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>The U.S. Venezuela oil deal won't lower your gas prices. Here's what you need to know</title>
+      <link>https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal</link>
+      <guid isPermaLink="false">0e65024c8a34cd63309990e54e44b7f9bbb8b172</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[The Trump administration announced a deal Friday to develop a vast amount of Venezuela's oil reserves, with the U.S. taking a majority stake. Energy experts say there are many reasons to be skeptical.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>UK raises case of British activist detained by settlers in West Bank with Israel</title>
-      <link>https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">91edb64b56b87ac8da86ed45a8b24b95338a7e38</guid>
-      <pubDate>Sun, 30 Aug 2026 23:02:43 GMT</pubDate>
-      <description><![CDATA[Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.]]></description>
+      <title>Why too many women are prescribed antibiotics for UTIs they don't have</title>
+      <link>https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause</link>
+      <guid isPermaLink="false">555917cf79e8d9b7268a75d40ddf9c6692b34992</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[A recent study found that many women treated for recurrent UTIs didn't have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Scottie Scheffler turns hot-mic F-bomb into motivation, rallies for Tour Championship win</title>
-      <link>https://www.foxnews.com/outkick-sports/scottie-scheffler-turns-hot-mic-f-bomb-motivation-rallies-tour-championship-win</link>
-      <guid isPermaLink="false">90cde84a1ad753119013e91192723a11bcdaa285</guid>
-      <pubDate>Sun, 30 Aug 2026 22:52:00 GMT</pubDate>
-      <description><![CDATA[Scottie Scheffler erased a three-shot deficit to chase down Viktor Hovland at East Lake, but a controversial bunker ruling added drama to the finish.]]></description>
+      <title>NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll</title>
+      <link>https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker</link>
+      <guid isPermaLink="false">811d8c8afdd0f475aaddaa1d96810c3ffbac5f6c</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[An NPR investigation found that people in the U.S. are dying from heat much more often than official counts show. We explore the reasons why — and how lives can be saved.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Singapore is scrambling to stabilize birthrates. Experts say there are lessons for the U.S.</title>
+      <link>https://www.npr.org/2026/08/31/nx-s1-5944260/singapore-initiative-declining-birthrates</link>
+      <guid isPermaLink="false">2c1930cfa8555c5471ba552151dd2da255a4f7dc</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[Singapore has unveiled a national initiative built entirely around its collapsing birthrate. Some demographers say the plan includes policy ideas that could help American parents.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Hit shows from Edinburgh's Fringe festival are coming to America. Here are our top picks</title>
+      <link>https://www.npr.org/2026/08/31/nx-s1-5949346/edinburgh-fringe-scotland-best-shows-coming-to-america</link>
+      <guid isPermaLink="false">8bbd241640bde0c1ca5a301553aee178ee0b5412</guid>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[The annual "anything goes" performing arts festival featured more than 4,200 performances this year. These are the ones we're still talking about.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Morning news brief</title>
+      <link>https://www.npr.org/2026/08/31/nx-s1-5946754/morning-news-brief</link>
+      <guid isPermaLink="false">6e06aa299e9ec295db145730ca672a3a56b00a23</guid>
+      <pubDate>Mon, 31 Aug 2026 08:49:20 GMT</pubDate>
+      <description><![CDATA[Trump says U.S. struck a deal to take control of 65 billion barrels of Venezuelan oil, U.S. and Iran resume exchanging strikes, funding at the top of the agenda as House reconvenes.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>US and Iran trade strikes for first time in weeks</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">77c755dad93a1169c4c24399247aa099f33fe6a1</guid>
+      <pubDate>Mon, 31 Aug 2026 08:34:25 GMT</pubDate>
+      <description><![CDATA[The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Early release scheme could see dangerous criminals released, Conservatives warn</title>
+      <link>https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">62c63d056624fecfa77306540992928efb0db1e3</guid>
+      <pubDate>Mon, 31 Aug 2026 08:20:54 GMT</pubDate>
+      <description><![CDATA[Nick Timothy's comments follow an announcement from the prime minister that some prisoners serving indefinite sentences could be freed to increase prison capacity.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -396,6 +380,14 @@
       <guid isPermaLink="false">bb2efd837153e8efd39c910036a1cd15d198ba54</guid>
       <pubDate>Sun, 30 Aug 2026 22:40:16 GMT</pubDate>
       <description><![CDATA[Tragedy has unfolded in Oklahoma after a federal wildlife officer died while helping combat the flames of the Railroad South Fire.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Invest 97L odds rise for tropical development as Texas and Louisiana brace for thunderstorms, heavy rain</title>
+      <link>https://www.foxweather.com/weather-news/tropics-latest-thunderstorms-gulf-texas-louisiana</link>
+      <guid isPermaLink="false">e81c11b685b018dd2b35915a88f9c7c81aeb87b5</guid>
+      <pubDate>Sun, 30 Aug 2026 18:49:06 GMT</pubDate>
+      <description><![CDATA[The Gulf Coast is bracing for a stormy stretch as Invest 97L churns across the region, bringing a cluster of thunderstorms and heavy rain through Wednesday.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -468,6 +460,14 @@
       <guid isPermaLink="false">6bf317789bab2d3e2ad76fb573b4cfddc20deb8b</guid>
       <pubDate>Sun, 30 Aug 2026 13:36:26 GMT</pubDate>
       <description><![CDATA[After a few quiet days across the Midwest and Great Lakes, a soggy pattern is set to return, bringing another round of heavy rain and increasing the risk of flash flooding. The unsettled pattern will eventually shift into the Northeast by early this week.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Karina strengthens into a Category 4 hurricane as the Pacific sees tropical traffic jam</title>
+      <link>https://www.foxweather.com/weather-news/tracking-hurricane-karina-pacific-tropics</link>
+      <guid isPermaLink="false">39709190524fdd0919250fe6f47c9dfe04f44bfd</guid>
+      <pubDate>Sun, 30 Aug 2026 10:17:17 GMT</pubDate>
+      <description><![CDATA[Hurricane Karina formed in the Pacific on Sunday and strengthened into a major Category 4 storm Monday morning.]]></description>
       <category>weather</category>
     </item>
     <item>
