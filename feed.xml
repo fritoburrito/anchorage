@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 17:16:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:26:34 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 01 Sep 2026 17:16:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 20:26:34 GMT</pubDate>
       <description><![CDATA[60°F. Wind NW 0 to 5 mph. Sunny, with a high near 60. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tonight - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 01 Sep 2026 17:16:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 20:26:34 GMT</pubDate>
       <description><![CDATA[35°F. Wind SW 0 to 5 mph. Mostly clear, with a low around 35. Southwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Wednesday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 01 Sep 2026 17:16:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 20:26:34 GMT</pubDate>
       <description><![CDATA[59°F. Wind N 0 to 5 mph. Sunny, with a high near 59. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Wednesday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 01 Sep 2026 17:16:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 20:26:34 GMT</pubDate>
       <description><![CDATA[44°F. Wind NE 0 to 5 mph. Partly cloudy, with a low around 44. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +42,25 @@
       <title>Anchorage Weather: Thursday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 01 Sep 2026 17:16:41 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 20:26:34 GMT</pubDate>
       <description><![CDATA[61°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 61. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Cubs set franchise record for most home runs in a single game with offensive outburst vs rival Brewers</title>
+      <link>https://www.foxnews.com/outkick-sports/cubs-set-franchise-record-most-home-runs-single-game-offensive-outburst-vs-rival-brewers</link>
+      <guid isPermaLink="false">ca1290b6f77d267758ba2b4768f0ac68b01d1e98</guid>
+      <pubDate>Tue, 01 Sep 2026 19:51:37 GMT</pubDate>
+      <description><![CDATA[Alex Bregman crushed three home runs as the Chicago Cubs set a franchise record with nine homers, tying the second-most in a single MLB game.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>US Supreme Court lets Trump move ahead with his White House ballroom project</title>
+      <link>https://alaskabeacon.com/2026/09/01/repub/us-supreme-court-lets-trump-move-ahead-with-his-white-house-ballroom-project/</link>
+      <guid isPermaLink="false">335ce0f184a23273b000f92af89c701e42275fb8</guid>
+      <pubDate>Tue, 01 Sep 2026 17:29:24 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — President Donald Trump does not have to follow a lower court order to stop aboveground construction on his $400 million East Wing ballroom, the U.S. Supreme Court ruled Monday in a 5-4 decision, all but guaranteeing work on the new complex will continue to accelerate. In an opinion from the conservative super-majority, the […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>﻿Lieutenant Governor Nancy Dahlstrom Will Not Certify Treg Taylor’s Nomination for Governor</title>
@@ -279,20 +295,140 @@
       <category>local</category>
     </item>
     <item>
-      <title>Mining projects opposed by Alaska tribes get support from Canada, British Columbia and First Nation</title>
-      <link>https://alaskabeacon.com/2026/08/31/mining-projects-opposed-by-alaska-tribes-get-support-from-canada-british-columbia-and-first-nation/</link>
-      <guid isPermaLink="false">57ddede1fe6992bbf25e28fd14ac64339d884265</guid>
-      <pubDate>Mon, 31 Aug 2026 13:55:54 GMT</pubDate>
-      <description><![CDATA[This story was first published by ICT. The salmon and the ooligan that spawn in the Unuk and Stikine rivers have no say in the expansion of mining operations in British Columbia. Neither do the Alaskan tribes that live on the same rivers. The power lies across the border in Canada, where the mining companies […]]]></description>
-      <category>local</category>
+      <title>Luke Bryan threatens to 'knock the s--- out of' online trolls trashing his new song</title>
+      <link>https://www.foxnews.com/entertainment/luke-bryan-threatens-knock-s-out-of-online-trolls-trashing-his-new-song</link>
+      <guid isPermaLink="false">a725428f8e19c2952bc3c2aa0d8721b7be953900</guid>
+      <pubDate>Tue, 01 Sep 2026 20:16:52 GMT</pubDate>
+      <description><![CDATA[Luke Bryan told Theo Von he'd confront trolls who accused his "Fish Hunt Golf Drink" song of being AI-generated, calling out teenage critics online.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Work begins as Canada Border Services modernizing Haines border crossing</title>
-      <link>https://www.juneauempire.com/2026/08/31/work-begins-as-canada-border-services-modernizing-haines-border-crossing/</link>
-      <guid isPermaLink="false">67909332560c17e798a3890d378b8856de8af65c</guid>
-      <pubDate>Mon, 31 Aug 2026 11:30:00 GMT</pubDate>
-      <description><![CDATA[$11.9 million project at Pleasant Camp border crossing expected to be completed in 2027]]></description>
-      <category>local</category>
+      <title>Miami waitress accused of extortion &amp; threatening to send intimate pics after learning she was the other woman</title>
+      <link>https://www.foxnews.com/outkick-culture/miami-waitress-accused-extortion-threatening-send-intimate-pics-learning-other-woman</link>
+      <guid isPermaLink="false">8bdc2b24e2976c4106e3a4c3bcf7388278f91218</guid>
+      <pubDate>Tue, 01 Sep 2026 20:12:24 GMT</pubDate>
+      <description><![CDATA[Nathalie Rodriguez Gonzalez allegedly sent threatening text messages demanding $20,000 after learning the man she was dating had a girlfriend.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dick Van Dyke shocks fans by posting inversion table workout at age 100</title>
+      <link>https://www.foxnews.com/entertainment/dick-van-dyke-shocks-fans-posting-inversion-table-workout-age-100</link>
+      <guid isPermaLink="false">8ded49ea0a1afed9c9a676488e700e3f6eac1bf7</guid>
+      <pubDate>Tue, 01 Sep 2026 20:08:27 GMT</pubDate>
+      <description><![CDATA[Dick Van Dyke, 100, shared a video of his inversion table workout on Instagram, proving his lifelong commitment to fitness is still going strong.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying</title>
+      <link>https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8c82411987d88df362317eb6472513bbec522cb9</guid>
+      <pubDate>Tue, 01 Sep 2026 20:05:23 GMT</pubDate>
+      <description><![CDATA[The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Allies of disgraced ex-House Dem poised for criminal charges for refusing Congress' probe</title>
+      <link>https://www.foxnews.com/politics/allies-disgraced-ex-house-dem-poised-criminal-charges-refusing-congress-probe</link>
+      <guid isPermaLink="false">cd09753997ee2619e48063ea8ef42a56527b2f22</guid>
+      <pubDate>Tue, 01 Sep 2026 20:03:02 GMT</pubDate>
+      <description><![CDATA[Allies of a former House Democrat face DOJ criminal charges after the House unanimously held them in contempt of Congress over defied subpoenas.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Teen dies from ‘brain-eating amoeba’ just days after young girl succumbs to same rare infection</title>
+      <link>https://www.foxnews.com/health/teen-dies-brain-eating-amoeba-days-after-young-girl-succumbs-same-rare-infection</link>
+      <guid isPermaLink="false">7d3c2f808c2cd89102ceef127be3f0ed1d19a604</guid>
+      <pubDate>Tue, 01 Sep 2026 19:56:20 GMT</pubDate>
+      <description><![CDATA[A North Carolina teen's first symptom was severe headaches before a brain-eating amoeba infection proved fatal, his mother shared on GoFundMe.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Swimmer rushed to hospital after suspected shark attack at Martha’s Vineyard</title>
+      <link>https://www.foxnews.com/us/swimmer-rushed-hospital-suspected-shark-attack-marthas-vineyard</link>
+      <guid isPermaLink="false">8c43d20dfd90c655084df10edaefbb20aed3cb40</guid>
+      <pubDate>Tue, 01 Sep 2026 19:53:02 GMT</pubDate>
+      <description><![CDATA[Swimming was temporarily suspended at South Beach in Edgartown after a woman sustained injuries considered consistent with a potential shark bite.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Aryna Sabalenka mocks her haters with another mesh dress, NFL legends go fishing &amp; Tua is proud of himself</title>
+      <link>https://www.foxnews.com/outkick-sports/aryna-sabalenka-mocks-haters-mesh-dress-nfl-legends-fishing-tua-proud</link>
+      <guid isPermaLink="false">65b16e92e0c41304ee69f10a24693b5032466910</guid>
+      <pubDate>Tue, 01 Sep 2026 19:53:01 GMT</pubDate>
+      <description><![CDATA[Aryna Sabalenka doubled down on her controversial mesh dress at the U.S. Open, then smoked her opponent to begin her bid for a third-straight title.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US launches more strikes on Iran as state media reports explosions</title>
+      <link>https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">eef742c7215c240cb1ffb44b5c8f9d654b2d4d50</guid>
+      <pubDate>Tue, 01 Sep 2026 19:50:05 GMT</pubDate>
+      <description><![CDATA[US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president</title>
+      <link>https://www.foxnews.com/world/one-glaring-issue-goes-unaddressed-un-chiefs-high-stakes-talks-irans-president</link>
+      <guid isPermaLink="false">377f7e845ff3caaeb332e49072c80a246548650e</guid>
+      <pubDate>Tue, 01 Sep 2026 19:32:55 GMT</pubDate>
+      <description><![CDATA[António Guterres met Iranian President Masoud Pezeshkian, but a U.N. readout omitted any mention of detained protesters or torture allegations.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Israel warns it will retaliate if UK imposes sanctions</title>
+      <link>https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">bb340cc28c4992cc56bbe0dbb576604d5eb49310</guid>
+      <pubDate>Tue, 01 Sep 2026 19:27:38 GMT</pubDate>
+      <description><![CDATA[The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a "comprehensive reset" of policy on Israel.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Burnham promises more devolution and public control of essential services</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">737dedca0f94612673274c362c9286de63b8dc5a</guid>
+      <pubDate>Tue, 01 Sep 2026 19:18:30 GMT</pubDate>
+      <description><![CDATA[Tory leader Kemi Badenoch said Burnham was offering "more government control, more taxes and more politicians", as he addressed MPs for the first time as PM.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Illegal immigrant’s ‘over-the-top’ sexual assault on elderly woman sends sheriff into rage: ‘Out of control’</title>
+      <link>https://www.foxnews.com/politics/illegal-immigrant-over-the-top-sexual-assault-elderly-woman-sends-sheriff-rage-out-of-control</link>
+      <guid isPermaLink="false">ec4179e5a353d912a5bd0e17d4b727ddd430371a</guid>
+      <pubDate>Tue, 01 Sep 2026 19:13:44 GMT</pubDate>
+      <description><![CDATA[Sheriff Grady Judd says a 24-year-old illegal immigrant broke into a Polk County home and committed a vicious sexual battery on a 77-year-old woman.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>As Michigan Senate race heats up, Vance calls El-Sayed 'evil'</title>
+      <link>https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9cfe6c1614d28b5e88ec6d07be4478870fe58628</guid>
+      <pubDate>Tue, 01 Sep 2026 18:06:58 GMT</pubDate>
+      <description><![CDATA[El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Congress averts a government shutdown ahead of the midterms</title>
+      <link>https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms</link>
+      <guid isPermaLink="false">1da638dc8d9965f97d59a56c8f3de04b6bdc9404</guid>
+      <pubDate>Tue, 01 Sep 2026 18:06:33 GMT</pubDate>
+      <description><![CDATA[With just a few weeks to spare, the House approved legislation extending funding through mid-December.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>ICE says it has enough body cameras now, after series of deadly shootings</title>
+      <link>https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration</link>
+      <guid isPermaLink="false">f1b9ce66cf587ef46117ff2ed8fd7c17fbcef25f</guid>
+      <pubDate>Tue, 01 Sep 2026 17:52:37 GMT</pubDate>
+      <description><![CDATA[Cameras could help alleviate some concerns about ICE transparency and accountability after immigration officers were involved in over two dozen shootings under the Trump administration.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Magnitude 3.6 earthquake rattles South Texas, shaking felt in Falls City</title>
+      <link>https://www.foxweather.com/weather-news/magnitude-3-6-earthquake-south-texas-falls-city</link>
+      <guid isPermaLink="false">5f5020d787389da50aeeb26ff82a6a39ac6184de</guid>
+      <pubDate>Tue, 01 Sep 2026 17:24:18 GMT</pubDate>
+      <description><![CDATA[A magnitude 3.6 earthquake shook part of South Texas Tuesday morning, with an epicenter about 45 miles north-northwest of San Antonio, according to the USGS.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Man allegedly brandishes edged weapon at Harvard-area coffee shop, prompting campus shelter-in-place</title>
@@ -311,148 +447,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Briton rescued in Nepal after deadly floods, army spokesperson says</title>
-      <link>https://www.bbc.co.uk/news/articles/c3eq499d0lgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">fa80d03ee641469fc4fe6c13e37647e01a7dfe74</guid>
-      <pubDate>Tue, 01 Sep 2026 17:02:43 GMT</pubDate>
-      <description><![CDATA[More than 3,900 people remain missing after floodwaters surged across the Nepal-Tibet border last week.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Germany says Russia behind Leipzig airport drone attack</title>
-      <link>https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">10a1cf73442658d7c96f58edae8a94698e796a1e</guid>
-      <pubDate>Tue, 01 Sep 2026 16:53:40 GMT</pubDate>
-      <description><![CDATA[A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Randy Quaid blasts Anne Hathaway ‘Days of Thunder’ casting, says sequel needs ‘sex appeal’</title>
-      <link>https://www.foxnews.com/entertainment/randy-quaid-blasts-anne-hathaway-days-thunder-casting-says-sequel-needs-sex-appeal</link>
-      <guid isPermaLink="false">58139ee3000c1772535122487b678179903c0daf</guid>
-      <pubDate>Tue, 01 Sep 2026 16:47:52 GMT</pubDate>
-      <description><![CDATA[Randy Quaid claims Anne Hathaway is a "leftist, woke, horrible choice" to replace Nicole Kidman in the "Days of Thunder" sequel with Tom Cruise.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Colin Kaepernick says NFL is 'actively blackballing me' 10 years after kneeling protest began</title>
-      <link>https://www.foxnews.com/outkick-sports/colin-kaepernick-says-nfl-actively-blackballing-me-10-years-after-kneeling-protest-began</link>
-      <guid isPermaLink="false">3246844c3701e8095ce0a69d5526563bc7a129f3</guid>
-      <pubDate>Tue, 01 Sep 2026 16:46:23 GMT</pubDate>
-      <description><![CDATA[Colin Kaepernick told NBC News he believes the NFL is still actively blackballing him 10 years after his kneeling protest against police brutality.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Colts GM Chris Ballard on Keenan Allen DUI arrest: 'He's a tremendous human being. Give him some grace'</title>
-      <link>https://www.foxnews.com/outkick-sports/colts-gm-chris-ballard-keenan-allen-dui-arrest-tremendous-human-being-give-grace</link>
-      <guid isPermaLink="false">de4812a152fa8adae3e1eea0d2a9e84988501b18</guid>
-      <pubDate>Tue, 01 Sep 2026 16:39:57 GMT</pubDate>
-      <description><![CDATA[Chris Ballard defended Keenan Allen after his DUI arrest, citing Philip Rivers' endorsement and a decorated 14-year NFL career without issues.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>UK long-term borrowing costs highest since 1998 ahead of October Budget</title>
-      <link>https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ad84cef13aeda790a8f40025a18fb9ee7b3f8e94</guid>
-      <pubDate>Tue, 01 Sep 2026 16:36:42 GMT</pubDate>
-      <description><![CDATA[Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump says US position on Falklands 'one of many' under review</title>
-      <link>https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f3bb76bbe40a414018768ea527c226e77b90df88</guid>
-      <pubDate>Tue, 01 Sep 2026 16:35:28 GMT</pubDate>
-      <description><![CDATA[The UK says Falkland islanders "are British with a right to determine their own future".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Pistol in a lake gives hope for French cold case</title>
-      <link>https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f8870adb1678347488a4e4f818926487b6c1f396</guid>
-      <pubDate>Tue, 01 Sep 2026 16:33:29 GMT</pubDate>
-      <description><![CDATA[Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Penta clinches World Heavyweight Championship match vs Roman Reigns after epic brawl with Rey Fenix</title>
-      <link>https://www.foxnews.com/outkick-sports/penta-clinches-world-heavyweight-championship-match-vs-roman-reigns-epic-brawl-rey-fenix</link>
-      <guid isPermaLink="false">9af806f8ccf733be4c87210f2c611db091b14685</guid>
-      <pubDate>Tue, 01 Sep 2026 16:30:43 GMT</pubDate>
-      <description><![CDATA[Penta defeated Rey Fenix in a thrilling "Monday Night Raw" tournament final to earn a World Heavyweight Championship shot against Roman Reigns.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Woke stunt goes horribly wrong as Michigan Dems open convention with brutal ‘land acknowledgment’</title>
-      <link>https://www.foxnews.com/politics/woke-stunt-goes-horribly-wrong-michigan-dems-open-convention-brutal-land-acknowledgment</link>
-      <guid isPermaLink="false">2fb95cb95c028421e02b65643b813e231bdbec60</guid>
-      <pubDate>Tue, 01 Sep 2026 16:29:23 GMT</pubDate>
-      <description><![CDATA[The Michigan Democratic Convention opened with a botched land acknowledgement as vice chair Portia Roberson struggled to pronounce Anishinaabe names.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Baby girl who died at Sheffield house was stabbed, police say</title>
-      <link>https://www.bbc.co.uk/news/articles/cdx0n18z8ypo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">50126095fdd5fb37b92a63dde5f5a374cce61484</guid>
-      <pubDate>Tue, 01 Sep 2026 16:28:37 GMT</pubDate>
-      <description><![CDATA[A baby girl who was pronounced dead at a property in Sheffield was stabbed, police confirm.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Red state heartlands put a ring on young love while progressive blue cities lag on early marriage</title>
-      <link>https://www.foxnews.com/media/red-state-heartlands-put-ring-young-love-while-progressive-blue-cities-lag-early-marriage</link>
-      <guid isPermaLink="false">aa72187a24a5b6aa6d3d026dc70c6e6b91458138</guid>
-      <pubDate>Tue, 01 Sep 2026 16:26:24 GMT</pubDate>
-      <description><![CDATA[IFS research reveals young adults in their 20s marry at far higher rates in middle America than in New York or Los Angeles metro areas.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC</title>
-      <link>https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b4c36ef0729c031f11987a8d1c4da21b800b60f5</guid>
-      <pubDate>Tue, 01 Sep 2026 16:11:18 GMT</pubDate>
-      <description><![CDATA[Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC</title>
-      <link>https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b4c36ef0729c031f11987a8d1c4da21b800b60f5</guid>
-      <pubDate>Tue, 01 Sep 2026 16:11:18 GMT</pubDate>
-      <description><![CDATA[Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>What a smart firewall does and why it matters on home Wi-Fi</title>
-      <link>https://www.foxnews.com/tech/smart-firewall-matters-home-wifi</link>
-      <guid isPermaLink="false">38cd72e4dba775459f13c863a6ecb843b5e0f0b4</guid>
-      <pubDate>Tue, 01 Sep 2026 16:07:56 GMT</pubDate>
-      <description><![CDATA[Router firewalls and software firewalls serve different roles in protecting your home Wi-Fi from unwanted traffic and suspicious connections.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Locals torch migrant shelters as Spain's PM points blame beyond the border</title>
-      <link>https://www.foxnews.com/world/locals-torch-migrant-shelters-spains-pm-points-blame-beyond-border</link>
-      <guid isPermaLink="false">efd7fecd70737101836a3fbc460c71b2eb488269</guid>
-      <pubDate>Tue, 01 Sep 2026 16:03:15 GMT</pubDate>
-      <description><![CDATA[Ceuta residents burned migrant shelters as Pedro Sánchez accused Russian and Israeli-linked networks of spreading disinformation that fueled the crisis.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Spaces in male prisons fall to lowest level of year, sources say</title>
-      <link>https://www.bbc.co.uk/news/articles/ce8ey8kzk3no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">769a7d04fcf50a78b7c9f3e17e21069079fd34be</guid>
-      <pubDate>Tue, 01 Sep 2026 16:03:10 GMT</pubDate>
-      <description><![CDATA[Jails in England and Wales are nearing maximum capacity as the justice secretary prepares to give more details in the Commons on the early-release scheme to free inmates.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Family mourn 'deeply loved' girl killed in Middlesbrough fire</title>
-      <link>https://www.bbc.co.uk/news/articles/c5yj08dng3no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">fd83a89ce52f5f1f75002da8a3362d73a6cd8038</guid>
-      <pubDate>Tue, 01 Sep 2026 15:59:34 GMT</pubDate>
-      <description><![CDATA[Valentina Foster's parents say their lives were changed forever by her "devastating loss".]]></description>
-      <category>world</category>
+      <title>Keir Starmer announces he is standing down as MP</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">134bbb296fbd8b5e447e0872980643b73604f3cb</guid>
+      <pubDate>Tue, 01 Sep 2026 17:04:29 GMT</pubDate>
+      <description><![CDATA[The move will trigger a by-election to replace the former prime minister in his London constituency.]]></description>
+      <category>politics</category>
     </item>
     <item>
       <title>Hawaii monitors hurricanes Karina, Lowell as Tropical Storm Marie develops in supercharged Pacific</title>
@@ -476,6 +476,14 @@
       <guid isPermaLink="false">a66ebfcce2d98b647d16ccd27ba4bb762251eb1b</guid>
       <pubDate>Tue, 01 Sep 2026 11:13:28 GMT</pubDate>
       <description><![CDATA[Tropical Storm Edouard, is expected to bring intense conditions of heavy rain and flooding to portions of the Upper Texas and Southwestern Louisiana coasts.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Tropical Storm Edouard makes landfall, slamming Texas and Louisiana with heavy rain and flash flooding</title>
+      <link>https://www.foxweather.com/weather-news/tropical-storm-edouard-gulf-targets-texas-louisiana-landfall</link>
+      <guid isPermaLink="false">ece510a1c47365c3dbd28ec01dc177deb3cabdcf</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:39 GMT</pubDate>
+      <description><![CDATA[Tropical Storm Edouard made landfall as the storm brings heavy rain, storm surge and flash flooding along the Upper Texas and southwestern Louisiana coasts as it tracks inland through the day.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">19ff48f8c5bbf05bf55c695dd5322f9b84af23ed</guid>
       <pubDate>Mon, 31 Aug 2026 14:50:46 GMT</pubDate>
       <description><![CDATA[Potential Tropical Cyclone Five has been designated in the Gulf on Monday morning, threatening heavy rain and flash flooding across parts of Louisiana and Texas, raising flash flood concerns.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Strengthening El Niño could shake up fall weather across the US. Here’s what to expect</title>
-      <link>https://www.foxweather.com/weather-news/looking-ahead-what-impacts-el-nino-fall</link>
-      <guid isPermaLink="false">c017097d0ec7c10bb9304f1adb416da49c709d37</guid>
-      <pubDate>Mon, 31 Aug 2026 14:00:29 GMT</pubDate>
-      <description><![CDATA[As summer slowly comes to an end amid the crazy weather of hurricane season, forecasters are shifting their attention to the dark-horse severe threat of El Niño this fall and its potential impacts.]]></description>
       <category>weather</category>
     </item>
   </channel>
