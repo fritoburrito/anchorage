@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 22:19:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:34:26 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Today - Scattered Rain Showers</title>
+      <title>Anchorage Weather: This Afternoon - Scattered Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 31 Aug 2026 22:19:50 GMT</pubDate>
-      <description><![CDATA[58°F. Wind N 10 to 15 mph. Scattered rain showers before 4pm. Partly sunny, with a high near 58. North wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Tue, 01 Sep 2026 01:34:26 GMT</pubDate>
+      <description><![CDATA[54°F. Wind N 10 to 15 mph. Scattered rain showers before 4pm. Mostly sunny, with a high near 54. North wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 31 Aug 2026 22:19:50 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 01:34:26 GMT</pubDate>
       <description><![CDATA[37°F. Wind N 5 to 15 mph. Mostly clear, with a low around 37. North wind 5 to 15 mph, with gusts as high as 30 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,25 +26,65 @@
       <title>Anchorage Weather: Tuesday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 31 Aug 2026 22:19:50 GMT</pubDate>
-      <description><![CDATA[60°F. Wind N 0 to 5 mph. Sunny, with a high near 60. North wind 0 to 5 mph.]]></description>
+      <pubDate>Tue, 01 Sep 2026 01:34:26 GMT</pubDate>
+      <description><![CDATA[60°F. Wind N 5 mph. Sunny, with a high near 60. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tuesday Night - Partly Cloudy</title>
+      <title>Anchorage Weather: Tuesday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 31 Aug 2026 22:19:50 GMT</pubDate>
-      <description><![CDATA[41°F. Wind NW 0 to 5 mph. Partly cloudy, with a low around 41. Northwest wind 0 to 5 mph.]]></description>
+      <pubDate>Tue, 01 Sep 2026 01:34:26 GMT</pubDate>
+      <description><![CDATA[35°F. Wind NW 5 mph. Mostly clear, with a low around 35. Northwest wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Wednesday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 31 Aug 2026 22:19:50 GMT</pubDate>
-      <description><![CDATA[58°F. Wind N 0 to 5 mph. Sunny, with a high near 58. North wind 0 to 5 mph.]]></description>
+      <pubDate>Tue, 01 Sep 2026 01:34:26 GMT</pubDate>
+      <description><![CDATA[59°F. Wind N 0 to 10 mph. Sunny, with a high near 59. North wind 0 to 10 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Newscast – Monday, August 31, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17436007/newscast-monday-august-31-2026</link>
+      <guid isPermaLink="false">21216c05c3307b8c4de3741a1913bb7efded1bee</guid>
+      <pubDate>Tue, 01 Sep 2026 00:59:09 GMT</pubDate>
+      <description><![CDATA[In this newscast: Juneau Police are asking for help finding two teens in Juneau who went missing this morning and may have access to a firearm; The University of Alaska Southeast has more than doubled the number of states nonresident students are coming from; Tongass Voices: Vera Starbard on writing a Lingit Opera; Petersburg's Borough Assembly has asked the local planning commission to take formal action on a subdivision request made by the regional tribal government]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Feds suspend permit for road construction through Alaska wildlife refuge, amid legal questions</title>
+      <link>https://alaskabeacon.com/2026/08/31/feds-suspend-permit-for-road-construction-through-alaska-wildlife-refuge-amid-legal-questions/</link>
+      <guid isPermaLink="false">d79484b503104b5b8072629aaf9fc0c63a9496d5</guid>
+      <pubDate>Tue, 01 Sep 2026 00:10:27 GMT</pubDate>
+      <description><![CDATA[Federal regulators have suspended a wetlands-fill permit allowing construction of a controversial road through an Alaska national wildlife refuge, but the on-the-ground result of that action is a subject of legal contention. State officials say they still intend to start the work in coming weeks on the first part of the road that is planned […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Opinion: APOC— the watchdog commission the people are watching</title>
+      <link>https://mustreadalaska.com/opinion-apoc-the-watchdog-commission-the-people-are-watching/</link>
+      <guid isPermaLink="false">4975da971b33f8394baa041ef27ff5fa1aef94de</guid>
+      <pubDate>Mon, 31 Aug 2026 23:52:08 GMT</pubDate>
+      <description><![CDATA[APOC’s recommendation to deny Treg Taylor certification for the ballot needs to be scrutinized by the people of Alaska for all its implications. The essential matter is not about politics, but about wise interpretation of law. What is a reasonable standard of disclosure for a public official who is also an owner of a hotel […] The post Opinion: APOC— the watchdog commission the people are watching appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>The USS Ted Stevens will be commissioned October 3 in Whittier</title>
+      <link>https://mustreadalaska.com/the-uss-ted-stevens-will-be-commissioned-october-3-in-whittier/</link>
+      <guid isPermaLink="false">83411073a6ca3863f4e7f6e56dcb09d6e6afb43a</guid>
+      <pubDate>Mon, 31 Aug 2026 22:14:42 GMT</pubDate>
+      <description><![CDATA[The U.S. Navy will commission the future Flight III Arleigh Burke-class destroyer USS Ted Stevens (DDG 128) on Oct. 3, 2026, in Whittier, Alaska. The ship and its commissioning location honor the legacy of the late Senator Ted Stevens, a decorated World War II Army Air Corps pilot and a lifelong champion for the state […] The post The USS Ted Stevens will be commissioned October 3 in Whittier appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Repeal Now warns of deceptive language on ballot measure 2 after Alaska Supreme Court ruling</title>
+      <link>https://mustreadalaska.com/repeal-now-warns-of-deceptive-language-on-ballot-measure-2-after-alaska-supreme-court-ruling/</link>
+      <guid isPermaLink="false">4b108a7a57b3f69416ccb53e4dc7910ad7586503</guid>
+      <pubDate>Mon, 31 Aug 2026 21:53:05 GMT</pubDate>
+      <description><![CDATA[On August 27, 2026, the Alaska Supreme Court issued an order in a case contending with the Division of Election’s approved language for ballot measure 2, a measure to repeal 19AKBE (approved in 2020), including the repeal of ranked-choice voting, jungle primaries, and certain campaign disclosure requirements. Senator Cathy Giessel, President of Alaska AFL-CIO Joelle […] The post Repeal Now warns of deceptive language on ballot measure 2 after Alaska Supreme Court ruling appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Judge calls Trump mail ballot rule ‘substantively unconstitutional’ as court battle extends</title>
@@ -55,11 +95,27 @@
       <category>local</category>
     </item>
     <item>
+      <title>Compliance law clashes with constitutional right to privacy in Treg Taylor non-certification decision</title>
+      <link>https://mustreadalaska.com/compliance-law-clashes-with-constitutional-right-to-privacy-in-treg-taylor-non-certification-decision/</link>
+      <guid isPermaLink="false">52300405b783af992f9c99bff4f13f008b09a98d</guid>
+      <pubDate>Mon, 31 Aug 2026 20:10:45 GMT</pubDate>
+      <description><![CDATA[On Friday, August 28, 2026, the Alaska Public Offices Commission (APOC) voted 4–1 to recommend that Lt. Gov. Nancy Dahlstrom not certify Treg Taylor’s nomination for governor on the general election ballot now that Tom Begich has withdrawn his candidacy. Today, August 31, Lt. Gov. Dahlstrom agreed with APOC and decided she will certify Taylor’s […] The post Compliance law clashes with constitutional right to privacy in Treg Taylor non-certification decision appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
       <title>Federal judge pauses case on mifepristone access until after midterm elections</title>
       <link>https://alaskabeacon.com/2026/08/31/repub/federal-judge-pauses-case-on-mifepristone-access-until-after-midterm-elections/</link>
       <guid isPermaLink="false">f9d9ebf3ff6001501b148f3271682b22b75a9f56</guid>
       <pubDate>Mon, 31 Aug 2026 19:52:47 GMT</pubDate>
       <description><![CDATA[A federal judge in Texas on Sunday paused a lawsuit seeking to revoke nationwide approval of the abortion drug mifepristone, saying the case won’t be heard until at least Dec. 1 and granting the U.S. Food and Drug Administration’s request for a stay to continue its safety review of the drug. The Republican attorneys general […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Lt. Governor will not certify Treg Taylor’s nomination for governor</title>
+      <link>https://mustreadalaska.com/lt-governor-will-not-certify-treg-taylors-nomination-for-governor/</link>
+      <guid isPermaLink="false">959e3fec3cc6760f093131bc430d755b2c48fc99</guid>
+      <pubDate>Mon, 31 Aug 2026 19:24:38 GMT</pubDate>
+      <description><![CDATA[August 31, 2026 (Anchorage, AK) – Today, Lt. Gov. Nancy Dahlstrom announced that Division of Elections will not certify Treg Taylor’s nomination for Governor. The decision follows the Alaska Public Offices Commission’s determination that Taylor’s 2026 public official financial disclosure statement did not substantially comply with AS 39.50 within the time required by law. On August […] The post Lt. Governor will not certify Treg Taylor’s nomination for governor appeared first on Must Read Alaska .]]></description>
       <category>local</category>
     </item>
     <item>
@@ -76,6 +132,14 @@
       <guid isPermaLink="false">c743ad80de3d585ac7d04094718d886e6bbfcc28</guid>
       <pubDate>Mon, 31 Aug 2026 17:26:22 GMT</pubDate>
       <description><![CDATA[Jalapenos. Frozen berries. Beef. Alfalfa sprouts. A summer of food recalls, including the record-shattering cyclosporiasis outbreak tied to iceberg lettuce that has sickened thousands, has raised many Americans’ fears of contracting a foodborne illness. The recalls have focused attention on the Trump administration’s decision to cut funding and staff at several public health agencies, and […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Service to My Country: Luis Nieves, Navy and Coast Guard</title>
+      <link>https://mustreadalaska.com/service-to-my-country-luis-nieves-navy-and-coast-guard/</link>
+      <guid isPermaLink="false">fb282cdf3ef2610d1363dd1e1e0f6a844b5e4c05</guid>
+      <pubDate>Mon, 31 Aug 2026 17:00:00 GMT</pubDate>
+      <description><![CDATA[The Uniform Comes Off, but the Duty Remains By Luis Arturo Nieves I grew up in New York City, far from the open ocean and even farther from Alaska. By the time I was old enough to choose my own direction, I knew I needed more than a job. I needed discipline, purpose, and a […] The post Service to My Country: Luis Nieves, Navy and Coast Guard appeared first on Must Read Alaska .]]></description>
       <category>local</category>
     </item>
     <item>
@@ -151,36 +215,116 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Opinion: The untapped giants of the North</title>
-      <link>https://mustreadalaska.com/opinion-the-untapped-giants-of-the-north/</link>
-      <guid isPermaLink="false">0782b177454605ee73bdf81d2bac696bbf861241</guid>
-      <pubDate>Sat, 29 Aug 2026 20:00:00 GMT</pubDate>
-      <description><![CDATA[This article was first published by 907 Honest on August 10, 2026. In an earlier article, we followed Harold Heinze from the secret decoding of the first North Slope discovery wells to the engineering breakthroughs that made Arctic oil production possible. His generation proved the resource was there and built the discipline to extract it without destroying […] The post Opinion: The untapped giants of the North appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Suspected DUI driver leads cops on wild chase before dramatic takedown on popular California beach</title>
+      <link>https://www.foxnews.com/us/suspected-dui-driver-leads-cops-wild-chase-dramatic-takedown-popular-california-beach</link>
+      <guid isPermaLink="false">53ac488cb69adc46ae7d497b4d9ed5f5a83cae3b</guid>
+      <pubDate>Tue, 01 Sep 2026 01:17:29 GMT</pubDate>
+      <description><![CDATA[Video shows stunned beachgoers as a Nissan Frontier drove onto Pacific Beach sand, ending a chaotic San Diego police chase involving felony evading.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Coast Guard terminated commercial passenger vessel in Sitka</title>
-      <link>https://www.juneauempire.com/2026/08/29/coast-guard-terminated-commercial-passenger-vessel-in-sitka/</link>
-      <guid isPermaLink="false">4ce5882a9da3d1d84be9448816bc9907840b1c99</guid>
-      <pubDate>Sat, 29 Aug 2026 17:33:00 GMT</pubDate>
-      <description><![CDATA[The vessel was conducting unauthorized passenger operations]]></description>
-      <category>local</category>
+      <title>US army secretary resigns after months of tension</title>
+      <link>https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1d4bfcb5c9ea23827d033d514859a737feaf3ec9</guid>
+      <pubDate>Tue, 01 Sep 2026 01:01:03 GMT</pubDate>
+      <description><![CDATA[Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>This Day in Alaska History-August 29th, 1885</title>
-      <link>https://alaska-native-news.com/august-29th-1885/44307/</link>
-      <guid isPermaLink="false">08e0b6feceaff35f8e62b84be6db6cdaeaf18460</guid>
-      <pubDate>Sat, 29 Aug 2026 14:00:46 GMT</pubDate>
-      <description><![CDATA[On August 29th, 1885, Lieutenant Henry Tureman Allen arrived in St Michael in the Bering Sea. What made that occasion special was the date and point marked the completion of a 1,600-mile exploration that began at the delta of the Copper River and ended at the drainage of the Tanana into the Yukon River. Yureman […]]]></description>
-      <category>local</category>
+      <title>Ketel Marte breaks unexplained absence from Diamondbacks, will face his teammates 'like a man'</title>
+      <link>https://www.foxnews.com/outkick-sports/ketel-marte-breaks-unexplained-absence-diamondbacks-face-teammates-like-man</link>
+      <guid isPermaLink="false">78e7f4af4d8217550fbd0247377dae4ccacaa4e4</guid>
+      <pubDate>Tue, 01 Sep 2026 00:59:13 GMT</pubDate>
+      <description><![CDATA[Ketel Marte admitted his walkout was a personal decision, but video of him playing roulette at a casino while injured raised serious questions.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>$410M in federal funds target smooth sailings for Southeast Alaska ferry service</title>
-      <link>https://www.juneauempire.com/2026/08/29/410m-in-federal-funds-target-smooth-sailings-for-southeast-alaska-ferry-service/</link>
-      <guid isPermaLink="false">4b7d7dad4a7393dc90bbd71a1ad4d49c473fa279</guid>
-      <pubDate>Sat, 29 Aug 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[Cascade Point Ferry Terminal lands $37.6 million while $153.4 million is earmarked for MV LeConte replacement]]></description>
-      <category>local</category>
+      <title>Texas Tech head coach blasts USC, Lincoln Riley, for poor attendance at LA Coliseum in Week Zero</title>
+      <link>https://www.foxnews.com//texas-tech-head-coach-blasts-usc-lincoln-riley-for-poor-attendance-at-la-coliseum-in-week-zero-2</link>
+      <guid isPermaLink="false">f2c0b1d5f614790b95a043e8c877f40e1afded8d</guid>
+      <pubDate>Tue, 01 Sep 2026 00:52:03 GMT</pubDate>
+      <description><![CDATA[Joey Maguire said Texas Tech fans are tough enough to show up in the heat, taking a not-so-subtle shot at USC's sparse LA Coliseum attendance.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Teen girl indicted on murder charges for allegedly helping spread livestream of deadly mosque shooting</title>
+      <link>https://www.foxnews.com/us/teen-girl-indicted-murder-charges-allegedly-helping-spread-livestream-deadly-mosque-shooting</link>
+      <guid isPermaLink="false">fefa9c61552d8b1cb95ada7420b9731b84db786c</guid>
+      <pubDate>Tue, 01 Sep 2026 00:45:07 GMT</pubDate>
+      <description><![CDATA[A North Carolina teen has been indicted for allegedly recording and spreading a deadly San Diego mosque attack livestream and manifesto.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>LSU alum Ben McDonald says he doesn't agree with NFL-to-college returns, but understands why coaches want them</title>
+      <link>https://www.foxnews.com/outkick-sports/lsu-alum-ben-mcdonald-disagrees-nfl-college-returns-understands-coaches-want</link>
+      <guid isPermaLink="false">9203733b46c4b882769eb6f7681f7bcdfa49d690</guid>
+      <pubDate>Tue, 01 Sep 2026 00:29:16 GMT</pubDate>
+      <description><![CDATA[Former LSU Tigers star Ben McDonald said he opposes ex-NFL players returning to college, but he understands why Lane Kiffin wants every edge to win.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Duane 'Keffe D' Davis found guilty of first-degree murder in 1996 killing of Tupac Shakur</title>
+      <link>https://www.foxnews.com/us/duane-keffe-d-davis-found-guilty-first-degree-murder-1996-killing-tupac-shakur</link>
+      <guid isPermaLink="false">b1668586f2f717fb7e4ca10bfedaf8c7d192720e</guid>
+      <pubDate>Tue, 01 Sep 2026 00:20:25 GMT</pubDate>
+      <description><![CDATA[Duane “Keffe D" Davis became the first person convicted in the rap icon’s 1996 drive-by shooting death after jurors deliberated for about three hours.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Roughly 80 Americans still unaccounted for after Himalayan disaster kills 903, officials say</title>
+      <link>https://www.foxnews.com/world/roughly-80-americans-still-unaccounted-after-himalayan-disaster-kills-903-officials-say</link>
+      <guid isPermaLink="false">99789c59fc26269fe93218928fe76007bee921e0</guid>
+      <pubDate>Tue, 01 Sep 2026 00:07:23 GMT</pubDate>
+      <description><![CDATA[Nepal and China's death toll climbed to 903 as roughly 4,200 people remained unaccounted for following the devastating flood and debris flow.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tropical Storm Edouard forms in Gulf, targets Texas and Louisiana with heavy rain, flood threat</title>
+      <link>https://www.foxweather.com/weather-news/tropical-storm-edouard-gulf-targets-texas-louisiana-landfall</link>
+      <guid isPermaLink="false">ece510a1c47365c3dbd28ec01dc177deb3cabdcf</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:39 GMT</pubDate>
+      <description><![CDATA[Tropical Storm Eduoard's first impacts of tropical storm force winds will be likely starting Tuesday morning along the northeast Texas and southwest Louisiana coastline.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Trump calls Hollywood a 'total disaster,' pushes federal tax incentive for film after meeting with Jon Voight</title>
+      <link>https://www.foxnews.com/entertainment/trump-calls-hollywood-total-disaster-pushes-federal-tax-incentive-film-meeting-jon-voight</link>
+      <guid isPermaLink="false">6a2ac2d6c237b9f13e29b2e5ddf705713cf6879d</guid>
+      <pubDate>Mon, 31 Aug 2026 23:58:54 GMT</pubDate>
+      <description><![CDATA[Jon Voight previously met with Trump at Mar-a-Lago to push a federal tax incentive aimed at reviving domestic film production and saving Hollywood jobs.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New super flu vaccine rollout begins as NHS regroups from 'busiest summer'</title>
+      <link>https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">65bd7f2c0bbdf4d8521bbf6e0e303ab6ec744ce0</guid>
+      <pubDate>Mon, 31 Aug 2026 23:46:48 GMT</pubDate>
+      <description><![CDATA[This year's jab has a few tweaks, including changes to better combat the Super-K strain.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Summer 2026 expected to be declared UK's hottest on record</title>
+      <link>https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">bacce90e586a3cf3b8b630f0da7af81f7acdf8ee</guid>
+      <pubDate>Mon, 31 Aug 2026 23:42:55 GMT</pubDate>
+      <description><![CDATA[Met Office figures due on Tuesday are likely to show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Abdul El-Sayed stands by criticism of fireworks, tells Americans to find other ways to 'show you love'</title>
+      <link>https://www.foxnews.com/media/abdul-el-sayed-stands-criticism-fireworks-tells-americans-find-other-ways-show-you-love</link>
+      <guid isPermaLink="false">582d6dd869dfbf22d0d6c0e3142dda33f92bba66</guid>
+      <pubDate>Mon, 31 Aug 2026 23:15:03 GMT</pubDate>
+      <description><![CDATA[Democratic Michigan U.S. Senate candidate Abdul El-Sayed appeared to defend his criticism of Fourth of July fireworks on "The Breakfast Club" radio show.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Trump officials cut political interference ban after unusual Census Bureau report</title>
+      <link>https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity</link>
+      <guid isPermaLink="false">c21659ad0a0aa301831ac5fbe9c3d1faa40a5427</guid>
+      <pubDate>Mon, 31 Aug 2026 22:24:12 GMT</pubDate>
+      <description><![CDATA[After the Census Bureau issued a report tied to a Trump-aligned think tank, the bureau's parent agency cut language banning political interference from its scientific integrity policy, NPR learned.]]></description>
+      <category>politics</category>
     </item>
     <item>
       <title>Mel Gibson apologizes for mocking ASL interpreter, blames 'spontaneous thoughtless idiocy'</title>
@@ -188,6 +332,14 @@
       <guid isPermaLink="false">32e1c7a297dac7e660e64155cbafc1d3a1af3ec2</guid>
       <pubDate>Mon, 31 Aug 2026 22:06:50 GMT</pubDate>
       <description><![CDATA[Mel Gibson apologized after video showed him allegedly mocking an ASL interpreter at Fan Expo Canada, calling it "spontaneous thoughtless idiocy."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Orangutans in danger as wildfires blaze through Borneo</title>
+      <link>https://www.bbc.co.uk/news/videos/c74emdn49kdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6c71b16b3f53224de37d5267f89dd139983ceab9</guid>
+      <pubDate>Mon, 31 Aug 2026 22:05:43 GMT</pubDate>
+      <description><![CDATA[Wildfires in Indonesia have destroyed part of the natural habitat of hundreds of orangutans, risking the survival of the species.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -228,118 +380,6 @@
       <guid isPermaLink="false">4261870565cad9984c2d74be14ec5e65c67cc9f1</guid>
       <pubDate>Mon, 31 Aug 2026 21:26:12 GMT</pubDate>
       <description><![CDATA[The NYPD urged the public to avoid West 43rd Street and Seventh Avenue in Times Square as officers investigated the the shooting incident.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bryan Kohberger's new lawyer says key questions may soon get answers in court</title>
-      <link>https://www.foxnews.com/us/bryan-kohberger-new-lawyer-says-key-questions-may-soon-get-answers-court</link>
-      <guid isPermaLink="false">3184cc81f8ea26b44f37cb19058a2d1bc5301584</guid>
-      <pubDate>Mon, 31 Aug 2026 21:10:42 GMT</pubDate>
-      <description><![CDATA[Bryan Kohberger's new lawyer says upcoming filings will address unanswered questions about the Idaho student murders guilty plea withdrawal.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Matthew Berry details how he reported Tom Brady signing with Tampa Bay while drunk at a bar with team official</title>
-      <link>https://www.foxnews.com/outkick-sports/matthew-berry-details-reported-tom-brady-signing-tampa-bay-drunk-bar-team-official</link>
-      <guid isPermaLink="false">b5068f18ba0593e08216484ed265f5a634659aab</guid>
-      <pubDate>Mon, 31 Aug 2026 21:07:42 GMT</pubDate>
-      <description><![CDATA[Matthew Berry revealed to OutKick how a late-night bar encounter at the NFL Combine led him to first report Tom Brady's move to Tampa Bay.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Mom loses grip on daughter as passenger ferry capsizes with 20 people still missing</title>
-      <link>https://www.foxnews.com/travel/mom-loses-grip-daughter-passenger-ferry-capsizes-20-people-still-missing</link>
-      <guid isPermaLink="false">b07e7cfcb5c30feccf4d5877e2430885d5d636cf</guid>
-      <pubDate>Mon, 31 Aug 2026 21:05:50 GMT</pubDate>
-      <description><![CDATA[A mother describes losing her grip on her 12-year-old daughter as the Cyprus ferry capsized, with some 20 passengers still missing in waters over 1,600 feet deep.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hundreds remember Heaton Park synagogue attack victims at memorial event</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2z4wlxj04o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2e6affcf8fd21894681574e586f47b5f5c4f51cb</guid>
-      <pubDate>Mon, 31 Aug 2026 21:05:10 GMT</pubDate>
-      <description><![CDATA[The chief rabbi and Angela Rayner are among speakers at the event, nearly a year on from the attack.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kansas City Chiefs may have ruined Jack Pyburn's plan to make big money at LSU by giving him a job in the NFL</title>
-      <link>https://www.foxnews.com/outkick-sports/kansas-city-chiefs-ruined-jack-pyburn-plan-make-big-money-lsu-giving-him-job-nfl</link>
-      <guid isPermaLink="false">1614163998df64e6ba53e048001e4afd93a46154</guid>
-      <pubDate>Mon, 31 Aug 2026 21:02:16 GMT</pubDate>
-      <description><![CDATA[Jack Pyburn was set to earn more at LSU than his NFL rookie salary, but the Kansas City Chiefs claimed the linebacker off waivers from Tampa Bay.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tips for your fantasy football draft: How to build a winning team without overthinking it</title>
-      <link>https://www.foxnews.com/outkick-sports/tips-fantasy-football-draft-build-winning-team-without-overthinking</link>
-      <guid isPermaLink="false">bf4d5a2c9c43ffda31a60c034357c2b1ca871e84</guid>
-      <pubDate>Mon, 31 Aug 2026 21:01:17 GMT</pubDate>
-      <description><![CDATA[Fantasy football draft strategy goes beyond player rankings. League scoring rules, PPR settings, roster construction, and ADP all shape your picks.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dad of third-grade girl in Massachusetts allegedly barged in on by trans student in bathroom calls for action</title>
-      <link>https://www.foxnews.com/media/dad-third-grade-girl-massachusetts-allegedly-barged-trans-student-bathroom-calls-action</link>
-      <guid isPermaLink="false">9e3f88a256d1e7c799b73bd8de49960464fa97cd</guid>
-      <pubDate>Mon, 31 Aug 2026 21:00:47 GMT</pubDate>
-      <description><![CDATA[Massachusetts father of third grader alleges transgender student barged in girls stalls and is taking complaint to federal level.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The U.S. sues Amazon again</title>
-      <link>https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit</link>
-      <guid isPermaLink="false">acd69d2a23f747e0791a465b3434cb18372b0855</guid>
-      <pubDate>Mon, 31 Aug 2026 20:17:03 GMT</pubDate>
-      <description><![CDATA[Federal regulators and 22 states allege that the tech giant made billions by manipulating how much brands and sellers paid for ads on its platform.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Festival honouring Dolly Parton set for Nashville and London</title>
-      <link>https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bcab6080a3cb96ad819d60a8043263552a5570ea</guid>
-      <pubDate>Mon, 31 Aug 2026 18:58:35 GMT</pubDate>
-      <description><![CDATA[Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kushner states regret over World Cup sell-off plan</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5bcdedd3ea977f68b41871cfee0b785b8822a0b4</guid>
-      <pubDate>Mon, 31 Aug 2026 18:38:55 GMT</pubDate>
-      <description><![CDATA[Venture capitalist Joshua Kushner says he would not have got involved in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup if he had known how the football world reacted.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ex-congressman George Santos banned from betting platform for life</title>
-      <link>https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9a02899401826b77f7335f2f3340b2e98daa607c</guid>
-      <pubDate>Mon, 31 Aug 2026 18:15:12 GMT</pubDate>
-      <description><![CDATA[The prediction market operator Kalshi says Santos made barred trades and misleading comments that influenced prices.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US singer D4vd's celebrity lawyers withdraw from murder case</title>
-      <link>https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e8c45666a1521b5a628b31056bef20a3bcac5681</guid>
-      <pubDate>Mon, 31 Aug 2026 17:47:23 GMT</pubDate>
-      <description><![CDATA[The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Texas fire department makes save on crane 22 stories in the air</title>
-      <link>https://www.foxnews.com/us/texas-fire-department-makes-save-crane-22-stories-air</link>
-      <guid isPermaLink="false">c5a87195331914d7c9e819e55ddfd61fad14aae9</guid>
-      <pubDate>Mon, 31 Aug 2026 17:38:47 GMT</pubDate>
-      <description><![CDATA[The Fort Worth Fire Department shared photos and detailed the rescue of an individual from the cab of a towering crane in the Lone Star State.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously</title>
-      <link>https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1c9ffcd8b2f408cb8c2e642bb11fa3a4c2e85907</guid>
-      <pubDate>Mon, 31 Aug 2026 17:30:47 GMT</pubDate>
-      <description><![CDATA[Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -484,46 +524,6 @@
       <guid isPermaLink="false">39709190524fdd0919250fe6f47c9dfe04f44bfd</guid>
       <pubDate>Sun, 30 Aug 2026 10:17:17 GMT</pubDate>
       <description><![CDATA[Hurricane Karina formed in the Pacific on Sunday and strengthened into a major Category 4 storm Monday morning.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Karina strengthens into a major hurricane as Pacific sees tropical traffic jam</title>
-      <link>https://www.foxweather.com/weather-news/tracking-hurricane-karina-pacific-tropics</link>
-      <guid isPermaLink="false">39709190524fdd0919250fe6f47c9dfe04f44bfd</guid>
-      <pubDate>Sun, 30 Aug 2026 10:17:17 GMT</pubDate>
-      <description><![CDATA[Hurricane Karina formed in the Pacific on Sunday and strengthened into a major Category 3 storm by nighttime.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Karina strengthens into a hurricane in the Pacific, forecast to become a Category 3+ storm</title>
-      <link>https://www.foxweather.com/weather-news/tracking-hurricane-karina-pacific-tropics</link>
-      <guid isPermaLink="false">39709190524fdd0919250fe6f47c9dfe04f44bfd</guid>
-      <pubDate>Sun, 30 Aug 2026 10:17:17 GMT</pubDate>
-      <description><![CDATA[Hurricane Karina formed in the Pacific on Sunday and is expected to continue strengthening into a major hurricane.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Bryan Norcross: Dolly's remnants to bring rain and wind to the northeastern Caribbean islands starting today</title>
-      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-august-29-2026</link>
-      <guid isPermaLink="false">89c2e6a345d619af67acea34a7f2aeaeab3b5d07</guid>
-      <pubDate>Sat, 29 Aug 2026 18:50:18 GMT</pubDate>
-      <description><![CDATA[Dolly is no longer a tropical storm, but the remnant disturbance still carries very gusty winds and pockets of heavy rain.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Remembering Hurricane Katrina, 21 years after one of America’s worst natural disasters devastated New Orleans</title>
-      <link>https://www.foxweather.com/weather-news/21-years-since-hurricane-katrina-forever-scarred-new-orleans</link>
-      <guid isPermaLink="false">6dbb77c5f80c1c3462634ac1a546f0099babf63e</guid>
-      <pubDate>Sat, 29 Aug 2026 14:52:52 GMT</pubDate>
-      <description><![CDATA[Twenty-one years after Hurricane Katrina, New Orleans and the Gulf Coast continue to reflect on the storm’s devastating toll and lasting legacy.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Several earthquakes rattle Pacific Ring of Fire in latest burst of seismic activity</title>
-      <link>https://www.foxweather.com/weather-news/several-earthquakes-rattle-pacific-ring-fire-latest-burst-seismic-activity</link>
-      <guid isPermaLink="false">a20b3e5289a1a091b4fe219531412f6834ebe8ad</guid>
-      <pubDate>Sat, 29 Aug 2026 14:27:13 GMT</pubDate>
-      <description><![CDATA[Beginning last night, several earthquakes fired off along the active region from California to Indonesia, all ranging in magnitudes from 3.5 and higher.]]></description>
       <category>weather</category>
     </item>
   </channel>
