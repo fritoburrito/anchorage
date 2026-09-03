@@ -5,28 +5,28 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:16:19 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Overnight - Partly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 03 Sep 2026 12:30:57 GMT</pubDate>
-      <description><![CDATA[43°F. Wind  0 mph. Partly cloudy, with a low around 43. East wind around 0 mph.]]></description>
-      <category>weather</category>
+      <title>Track Hurricane Lowell: Path, forecast cone, spaghetti models, wind and more</title>
+      <link>https://www.foxweather.com/weather-news/track-hurricane-lowell-path-cone-spaghetti-models-wind</link>
+      <guid isPermaLink="false">a90f1bb560cf3a664f37d21be3653ffb21dbb817</guid>
+      <pubDate>Thu, 03 Sep 2026 16:16:19 GMT</pubDate>
+      <description><![CDATA[Major Category 4 Hurricane Lowell is generally maintaining its westward tracking, but its future track, indicating a northward turn come this weekend, is putting Hawaii on high alert for potential direct impacts.]]></description>
+      <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Thursday - Mostly Sunny</title>
+      <title>Anchorage Weather: Today - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 03 Sep 2026 12:30:57 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 16:52:23 GMT</pubDate>
       <description><![CDATA[64°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 64. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Thursday Night - Mostly Cloudy</title>
+      <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 03 Sep 2026 12:30:57 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 16:52:23 GMT</pubDate>
       <description><![CDATA[50°F. Wind W 0 to 5 mph. Mostly cloudy, with a low around 50. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Friday - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 03 Sep 2026 12:30:57 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 16:52:23 GMT</pubDate>
       <description><![CDATA[63°F. Wind  0 mph. A chance of rain after 7am. Mostly cloudy, with a high near 63. Northeast wind around 0 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +42,25 @@
       <title>Anchorage Weather: Friday Night - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 03 Sep 2026 12:30:57 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 16:52:23 GMT</pubDate>
       <description><![CDATA[52°F. Wind SE 0 to 5 mph. Rain. Mostly cloudy, with a low around 52. Southeast wind 0 to 5 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Saturday - Light Rain then Chance Rain Showers</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Thu, 03 Sep 2026 16:52:23 GMT</pubDate>
+      <description><![CDATA[64°F. Wind S 0 to 5 mph. Rain before 10am, then a chance of rain showers. Mostly cloudy, with a high near 64. South wind 0 to 5 mph. Chance of precipitation is 80%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Suicide deaths and attempts among Alaska youth continue at high rates, report shows</title>
+      <link>https://alaskabeacon.com/2026/09/03/suicide-deaths-and-attempts-among-alaska-youth-continue-at-high-rates-report-shows/</link>
+      <guid isPermaLink="false">b086d4d11e2faac0110d2ffa5eb62537d0cee370</guid>
+      <pubDate>Thu, 03 Sep 2026 13:55:33 GMT</pubDate>
+      <description><![CDATA[The suicide-death rate for young Alaskans hit a 10-year high last year and the rate of suicide attempts has increased over the past decade, state health officials reported. From 2016 to 2025, there were 174 suicide deaths among Alaska youths under the age of 18 and 4,101 documented suicide attempts, according to a bulletin released […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Green pea pasta a rainy day kitchen creation</title>
@@ -223,188 +239,180 @@
       <category>local</category>
     </item>
     <item>
-      <title>OPINION: The DHS blank check: Sullivan and Begich owe Alaskans an accounting</title>
-      <link>https://www.homernews.com/2026/09/02/opinion-the-dhs-blank-check-sullivan-and-begich-owe-alaskans-an-accounting/</link>
-      <guid isPermaLink="false">54eca02039d44ffdfdd2fc1b240306d4f6f0a4bf</guid>
-      <pubDate>Wed, 02 Sep 2026 09:30:00 GMT</pubDate>
-      <description><![CDATA[Senator Dan Sullivan and Representative Nick Begich have given Donald Trump’s Department of Homeland Security billions of taxpayer dollars while demanding too few answers about how it is spent.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Juneau’s Marie Drake Gym opens for public programs</title>
-      <link>https://www.juneauempire.com/2026/09/02/juneaus-marie-drake-gym-opens-for-public-programs/</link>
-      <guid isPermaLink="false">5f12cf19f92a148a87620395881e50ff9a0eda60</guid>
-      <pubDate>Wed, 02 Sep 2026 09:30:00 GMT</pubDate>
-      <description><![CDATA[Open house set for Friday, Sept. 4, from 5 to 7 p.m. at the gym]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Jim McDermott, a Libertarian from Fairbanks, makes top four for Alaska’s U.S. House race</title>
-      <link>https://alaskabeacon.com/2026/09/01/jim-mcdermott-a-libertarian-from-fairbanks-makes-top-four-for-alaskas-u-s-house-race/</link>
-      <guid isPermaLink="false">7cdd7c606f174889b26e747464f1b7e36f26c43e</guid>
-      <pubDate>Wed, 02 Sep 2026 01:27:13 GMT</pubDate>
-      <description><![CDATA[On the morning after he became one of four finalists in the race for Alaska’s lone U.S. House seat, Libertarian candidate Jim McDermott had to apologize. He didn’t have much time to talk, he said, because he was busy working as a school tutor at Fort Wainwright, in his home town of Fairbanks. McDermott, a […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Zack Polanski says he'll run for former PM Starmer's seat in by-election</title>
-      <link>https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e2bcb656055e4aae45ac9a275817c7e667fe8818</guid>
-      <pubDate>Thu, 03 Sep 2026 12:19:47 GMT</pubDate>
-      <description><![CDATA[The Green Party leader intends to run in the Holborn and St Pancras seat following Sir Keir Starmer's resignation as MP.]]></description>
+      <title>Dem Senate nominee changes tune on ICE after vowing not 'one more dime' for agency</title>
+      <link>https://www.foxnews.com/politics/dem-senate-nominee-changes-tune-ice-after-vowing-not-one-more-dime-agency</link>
+      <guid isPermaLink="false">24b250618b77a9fce63adae83b26affedb12c299</guid>
+      <pubDate>Thu, 03 Sep 2026 16:41:52 GMT</pubDate>
+      <description><![CDATA[Hallie Shoffner said she'd defund ICE at an Arkansas event, but Tom Cotton's attack ads prompted her to redefine her immigration enforcement stance.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Amelia Dimoldenberg to close doors of Chicken Shop Date</title>
-      <link>https://www.bbc.co.uk/news/articles/c5ylg86gp4eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">637e130b2c62649bf1444716b3c3b984840286d0</guid>
-      <pubDate>Thu, 03 Sep 2026 12:15:40 GMT</pubDate>
-      <description><![CDATA[Amelia Dimoldenberg announces she will end her popular YouTube series after more than a decade.]]></description>
+      <title>Three new companies face Josh Hawley's investigation into AI surveillance and vehicle tracking</title>
+      <link>https://www.foxnews.com/politics/three-new-companies-face-josh-hawley-investigation-ai-surveillance-vehicle-tracking</link>
+      <guid isPermaLink="false">75f0267c0659088dd5f13b3add3de96a1cf7e3b2</guid>
+      <pubDate>Thu, 03 Sep 2026 16:35:32 GMT</pubDate>
+      <description><![CDATA[Josh Hawley expands his AI surveillance probe beyond Flock Safety to three more companies building massive camera networks that track Americans.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>FIRST ON FOX: ‘No Kings’ protest network behind fight against AI data centers and Flock cameras</title>
-      <link>https://www.foxnews.com/politics/no-kings-protest-network-fight-against-ai-data-centers-flock-cameras</link>
-      <guid isPermaLink="false">39715aa1890c72ab26bb41937b51c7a10e0cc05c</guid>
-      <pubDate>Thu, 03 Sep 2026 12:14:29 GMT</pubDate>
-      <description><![CDATA[Fox News Digital traces how pro-China socialist groups moved from anti-Trump, anti-Israel protests into technology messages that spread to conservatives and libertarians.]]></description>
+      <title>Fox News ‘Antisemitism Exposed’ Newsletter: Jewish AG's chilling message to voters</title>
+      <link>https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-jewish-ags-chilling-message-voters</link>
+      <guid isPermaLink="false">406445b1bbd788be409d6dc3a08ead462cd2aaa3</guid>
+      <pubDate>Thu, 03 Sep 2026 16:33:29 GMT</pubDate>
+      <description><![CDATA[Fox News' "Antisemitism Exposed" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Andy Burnham praises UK-EU ties in meeting with Emmanuel Macron</title>
+      <title>Florida woman, 70, opens fire inside Port Orange police department lobby, chief says</title>
+      <link>https://www.foxnews.com/us/florida-woman-70-opens-fire-port-orange-police-department-lobby-chief-says</link>
+      <guid isPermaLink="false">e3e68198ee080e632500d2299fec56cbef14bb55</guid>
+      <pubDate>Thu, 03 Sep 2026 16:28:45 GMT</pubDate>
+      <description><![CDATA[A 70-year-old woman allegedly opened fire inside the Port Orange Police Department lobby before an officer-involved shooting left her hospitalized nearby.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Badenoch accuses Burnham of kicking defence spending into the long grass</title>
+      <link>https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">89b61c238fb0dace4e081146f7a78cc83b32c1df</guid>
+      <pubDate>Thu, 03 Sep 2026 16:23:16 GMT</pubDate>
+      <description><![CDATA[Andy Burnham has committed to reaching the Nato target of 3.5% spending by 2035, but not 3% by 2030.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rep Ralph Norman affirms that he'll 'support' ex-rival Sen Darline Graham in election</title>
+      <link>https://www.foxnews.com/politics/rep-ralph-norman-affirms-support-ex-rival-sen-lindsey-graham-election</link>
+      <guid isPermaLink="false">cba94167534a67a3951d96ae6815430d9464241a</guid>
+      <pubDate>Thu, 03 Sep 2026 16:22:25 GMT</pubDate>
+      <description><![CDATA[Republican Rep. Ralph Norman affirmed that he will support former South Carolina special GOP U.S. Senate primary runoff rival Sen. Darline Graham in the general election.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Divers brave deadly 'Mount Everest of shipwrecks' as famed wreck breaks apart</title>
+      <link>https://www.foxnews.com/travel/divers-brave-deadly-mount-everest-shipwrecks-famed-wreck-breaks-apart</link>
+      <guid isPermaLink="false">fb23fba5f22920a148cdab54ed9dfc429d2e0ef5</guid>
+      <pubDate>Thu, 03 Sep 2026 16:20:29 GMT</pubDate>
+      <description><![CDATA[The Andrea Doria shipwreck, dubbed the Mount Everest of wreck diving, has claimed the lives of at least 18 scuba divers off the Nantucket Atlantic coast even as it remains a strong draw.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dianna Russini's relationship with Mike Vrabel was 'in clear violation' of standards, The Athletic review says</title>
+      <link>https://www.foxnews.com/outkick-sports/dianna-russini-relationship-mike-vrabel-clear-violation-standards-athletic-review</link>
+      <guid isPermaLink="false">caaa8ee2d2f75035926ef57ae24a39a584deec39</guid>
+      <pubDate>Thu, 03 Sep 2026 16:18:36 GMT</pubDate>
+      <description><![CDATA[The Athletic's standards review found Dianna Russini's relationship with Mike Vrabel violated company policy, raising questions about trust and disclosure.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Trump hints US would not back UK over Falkland Islands due to lack of Iran war support</title>
+      <link>https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f9c9052e0da7f42aaa919cad370b7d03a869dfde</guid>
+      <pubDate>Thu, 03 Sep 2026 16:16:49 GMT</pubDate>
+      <description><![CDATA[The US president says the UK was not "there to help me" in his ongoing war with Iran.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Judge in accused assassin Tyler Robinson's case explains why death penalty remains on table in written order</title>
+      <link>https://www.foxnews.com/us/judge-accused-assassin-tyler-robinson-case-explains-why-death-penalty-remains-table-written-order</link>
+      <guid isPermaLink="false">36d0e0dc6856dbfa4efb8f0d25125ea691425f16</guid>
+      <pubDate>Thu, 03 Sep 2026 16:13:36 GMT</pubDate>
+      <description><![CDATA[Judge Tony Graf Jr. ruled the death penalty remains on the table for Tyler Robinson, accused of killing Charlie Kirk at a Turning Point USA event.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Richard Gere celebrates 77th birthday with wife Alejandra Silva, 43, and young son in rare family photos</title>
+      <link>https://www.foxnews.com/entertainment/richard-gere-celebrates-77th-birthday-wife-alejandra-silva-43-young-son-rare-family-photos</link>
+      <guid isPermaLink="false">f84617e191a39f6baa6424ce985c1b7ea3781b7c</guid>
+      <pubDate>Thu, 03 Sep 2026 16:03:06 GMT</pubDate>
+      <description><![CDATA[Alejandra Silva posted rare photos of Richard Gere and their son James celebrating his 77th birthday as the family settles into life in Spain.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>‘This is real bad’: 911 call reveals frantic moments after autistic daughter, 5, vanished in South Carolina</title>
+      <link>https://www.foxnews.com/us/this-is-real-bad-911-call-reveals-frantic-moments-after-autistic-daughter-5-vanished-south-carolina</link>
+      <guid isPermaLink="false">ca3d7eab9e0fe2941f0b1886f9c254201c30d99e</guid>
+      <pubDate>Thu, 03 Sep 2026 15:56:00 GMT</pubDate>
+      <description><![CDATA[A 911 call captures John Hayes reporting Saylor Hayes missing near water at a South Carolina rental home before a massive search found her body nearby.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Burnham and Macron agree to scale up action on small boats in first meeting</title>
       <link>https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">f562afeec197977ef073f9028c6b314da6077fa9</guid>
-      <pubDate>Thu, 03 Sep 2026 11:51:36 GMT</pubDate>
-      <description><![CDATA[The pair are discussing small boats, defence and Ukraine in Burnham's first bilateral talks in Downing Street.]]></description>
+      <pubDate>Thu, 03 Sep 2026 15:46:49 GMT</pubDate>
+      <description><![CDATA[The leaders also discuss Ukraine and "the UK's drive to get closer to Europe", No 10 says.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Dolly Parton gets new star on Hollywood Walk of Fame after vandalism</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgypl1gyzro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6ba8e54171edb3a99322676ca2ff94fcfe9e06dc</guid>
-      <pubDate>Thu, 03 Sep 2026 11:47:51 GMT</pubDate>
-      <description><![CDATA[Fans laid flowers on the singer's star after her death, but vandals scratched her name off.]]></description>
+      <title>Trump $1 coin makes him first living president on US currency in a century</title>
+      <link>https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9b2e6ca20ddebd5ff3093b564451cd2f1c8a0347</guid>
+      <pubDate>Thu, 03 Sep 2026 15:35:47 GMT</pubDate>
+      <description><![CDATA[The US Mint special edition is stamped with a portrait of Trump alongside the words "LIBERTY" and "IN GOD WE TRUST"]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>India's Modi-Iran meeting comes amid US warnings of sanctions on Tehran's trading partners</title>
-      <link>https://www.foxnews.com/world/indias-modi-iran-meeting-comes-amid-us-warnings-sanctions-tehrans-trading-partners</link>
-      <guid isPermaLink="false">4c2d6fa811adcb28b5506be4d12c8a42f3eb333f</guid>
-      <pubDate>Thu, 03 Sep 2026 11:46:40 GMT</pubDate>
-      <description><![CDATA[Trump administration Iran sanctions threaten India's commercial and energy ties with Tehran, putting India-U.S. relations to the test over secondary sanctions.]]></description>
+      <title>Schools to close early for A66 crash funeral amid safety concerns</title>
+      <link>https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">72ba02a99e4495bd738201dbc6a565cd6b6b97b4</guid>
+      <pubDate>Thu, 03 Sep 2026 15:19:28 GMT</pubDate>
+      <description><![CDATA[The funeral of one of five young men killed in the crash with a police car is due to take place.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Palestinian teens killed during settler attack on West Bank village, officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4e4cfa70881f5085a3a5999825dff4735d67bb5a</guid>
+      <pubDate>Thu, 03 Sep 2026 15:05:57 GMT</pubDate>
+      <description><![CDATA[Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>How the brain of a fly may help explain human behaviour</title>
+      <link>https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">39275c62049697400c4f870aeead0ea3489c372f</guid>
+      <pubDate>Thu, 03 Sep 2026 15:01:41 GMT</pubDate>
+      <description><![CDATA[Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bryan Norcross: Last day for Edouard's rain in Texas while we watch Lowell and Hawaii for early next week</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-hurricane-hawaii-lowell-edouard-texas-september-3</link>
+      <guid isPermaLink="false">f9328da7ce2ce842bbf51444793a45f00023c88c</guid>
+      <pubDate>Thu, 03 Sep 2026 14:26:36 GMT</pubDate>
+      <description><![CDATA[In this case, the message is that there is higher-than-normal uncertainty on exactly where Hurricane Lowell will track as it passes the islands. In other words, how far offshore of Kauai and the far western island, Niihau, will it be?]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Feminist activist and journalist Gloria Steinem dies, aged 92</title>
-      <link>https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ca58672fbc860fb8b6c5a7b7f87f07bf3ea571ce</guid>
-      <pubDate>Thu, 03 Sep 2026 11:45:22 GMT</pubDate>
-      <description><![CDATA[Her foundation said she "passed away peacefully" at her home in New York City, "surrounded by many who loved her".]]></description>
+      <title>Anthony Joshua's driver attempted overtake before fatal crash, trial hears</title>
+      <link>https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b5cb4ea3e195c5cdc80805845dda415ddd9be704</guid>
+      <pubDate>Thu, 03 Sep 2026 13:54:49 GMT</pubDate>
+      <description><![CDATA[Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies</title>
-      <link>https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">055e5c2e898af66760dc951a3d70082211122ecc</guid>
-      <pubDate>Thu, 03 Sep 2026 11:35:52 GMT</pubDate>
-      <description><![CDATA[Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Liechtenstein MPs vote to legalise abortion despite threat of veto</title>
-      <link>https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">28173bbc1c0d45e7cb1389b15276bb3dc1a3f0b9</guid>
-      <pubDate>Thu, 03 Sep 2026 11:30:38 GMT</pubDate>
-      <description><![CDATA[Organisers of the citizens' initiative say they have popular support, even though the all-powerful monarch has said he will veto the legislation.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Viral video of jets buzzing DHL Stadium in Cape Town prompts aviation safety investigation</title>
-      <link>https://www.foxnews.com/outkick-sports/viral-video-jets-buzzing-dhl-stadium-cape-town-prompts-aviation-safety-investigation</link>
-      <guid isPermaLink="false">c601cdb0462190ce4a57736ce8122995e7ed6d39</guid>
-      <pubDate>Thu, 03 Sep 2026 11:29:10 GMT</pubDate>
-      <description><![CDATA[Viral video shows two Embraer E-Jets barely clearing DHL Stadium in South Africa before a Springboks vs. All Blacks rugby match in Cape Town.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dems demand DHS fund election security. And, journalist Gloria Steinem has died</title>
-      <link>https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem</link>
-      <guid isPermaLink="false">7b828d93a26e9eff6f80ef5b1d664956f6e76389</guid>
-      <pubDate>Thu, 03 Sep 2026 11:17:01 GMT</pubDate>
-      <description><![CDATA[Two Democrats are demanding that Homeland Security officials fund election security ahead of the midterms. And, trail-blazing journalist Gloria Steinem has died.]]></description>
+      <title>Households warned gas price spike could pile fresh pressure on energy bills</title>
+      <link>https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3bbe27daf999027decb60510874462413123f65e</guid>
+      <pubDate>Thu, 03 Sep 2026 13:26:54 GMT</pubDate>
+      <description><![CDATA[Experts warn low storage levels could push up gas prices further, leaving households with higher bills.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Judge tosses federal lawsuit against state, clearing path for boys in female sports and more top headlines</title>
-      <link>https://www.foxnews.com/us/judge-tosses-federal-lawsuit-against-state-clearing-path-boys-female-sports-more-top-headlines</link>
-      <guid isPermaLink="false">b9fb71d7319d54ad54cb4e459e34b636ef8e829a</guid>
-      <pubDate>Thu, 03 Sep 2026 11:16:16 GMT</pubDate>
-      <description><![CDATA[Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.]]></description>
+      <title>Vance's Antichrist comments are a 'common belief', his friend tells BBC</title>
+      <link>https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">135ba37aedc8c8e831edd927a7333fb113e0074e</guid>
+      <pubDate>Thu, 03 Sep 2026 13:07:02 GMT</pubDate>
+      <description><![CDATA[The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Gloria Steinem, trailblazing journalist and activist, dies at 92</title>
-      <link>https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies</link>
-      <guid isPermaLink="false">55dccbb4ea3cd2504ed7135a593cbb4610ed0f18</guid>
-      <pubDate>Thu, 03 Sep 2026 11:14:24 GMT</pubDate>
-      <description><![CDATA[At a time when women were largely limited to domestic roles, Steinem challenged gender stereotypes and championed feminist ideals like equality, sisterhood and reproductive freedom.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>2028 Dem hopeful's longtime ally exposed for deep ties to CCP officials: 'Good friends'</title>
-      <link>https://www.foxnews.com/politics/2028-dem-hopefuls-longtime-advisor-exposed-deep-ties-ccp-officials-good-friends</link>
-      <guid isPermaLink="false">951fda04fc2716f5b8e2de13a7bc6971913fe598</guid>
-      <pubDate>Thu, 03 Sep 2026 11:00:50 GMT</pubDate>
-      <description><![CDATA[Rep. Ro Khanna's, D-Calif. former senior advisor on foreign trade and economic development could be liability to a potential 2028 campaign due to his ties to CCP officials.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Popular diet slashes liver fat by 67% while reversing prediabetes in some people</title>
-      <link>https://www.foxnews.com/health/popular-diet-slashes-liver-fat-67-percent-reversing-prediabetes-people</link>
-      <guid isPermaLink="false">ac3b345583bdc02e9c11a904abf075ed694014e8</guid>
-      <pubDate>Thu, 03 Sep 2026 11:00:48 GMT</pubDate>
-      <description><![CDATA[A keto diet reduced liver fat by roughly 67% and reversed prediabetes in half of participants, but the study's small sample size is a caveat.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>GOP mail-in voting proposal could impact millions of Americans ahead of midterms</title>
-      <link>https://www.foxnews.com/politics/gop-mail-in-voting-proposal-could-impact-millions-americans-ahead-midterms</link>
-      <guid isPermaLink="false">a8f6eada3b777eefbd8b78516c5bad504dafb6f9</guid>
-      <pubDate>Thu, 03 Sep 2026 11:00:45 GMT</pubDate>
-      <description><![CDATA[President Donald Trump's allies unveil a bill requiring mail-in ballots be received by Election Day, citing Florida's system as proof it works.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Russia’s strikes near Moldova raise alarm over Putin’s plans for Europe’s eastern flank</title>
-      <link>https://www.foxnews.com/world/russias-strikes-near-moldova-raise-alarm-over-putins-plans-europes-eastern-flank</link>
-      <guid isPermaLink="false">5d92b2127e2091ab2d51739ea7df9a3ff3c2490a</guid>
-      <pubDate>Thu, 03 Sep 2026 11:00:33 GMT</pubDate>
-      <description><![CDATA[President Sandu's national security advisor, Stanislav Secrieru, says Russia's strikes on Ukrainian-Moldovan border infrastructure aim to sever vital grain export corridors to European markets.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Will the WNBA’s unserious, weekly sitcom destroy one of the greatest opportunities for women athletes?</title>
-      <link>https://www.foxnews.com/outkick-sports/wnbas-unserious-weekly-sitcom-destroy-one-greatest-opportunities-women-athletes</link>
-      <guid isPermaLink="false">088b25c94866dda00b632bf888d8fdc0cad219f3</guid>
-      <pubDate>Thu, 03 Sep 2026 11:00:14 GMT</pubDate>
-      <description><![CDATA[Maine state Rep. Laurel Libby takes aim at the WNBA over its response to Sophie Cunningham and the debate over women’s sports.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>America’s quiet socialist takeover is spreading from town halls to classrooms</title>
-      <link>https://www.foxnews.com/opinion/americas-quiet-socialist-takeover-spreading-town-halls-classrooms</link>
-      <guid isPermaLink="false">dbd20e3d41059e02aef1f77e2381fc604929dc78</guid>
-      <pubDate>Thu, 03 Sep 2026 11:00:06 GMT</pubDate>
-      <description><![CDATA[Low-turnout school board elections in 2026 could let DSA chapters reshape curriculum and budgets before communities realize the lasting consequences.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>An epic train chase is turning 100 — and Buster Keaton fans are celebrating</title>
-      <link>https://www.npr.org/2026/09/03/nx-s1-5921324/the-general-buster-keaton-anniversary</link>
-      <guid isPermaLink="false">cdad4e3890b50fd1e48d834b362380236e34a76b</guid>
-      <pubDate>Thu, 03 Sep 2026 11:00:00 GMT</pubDate>
-      <description><![CDATA[100 years ago, silent film star Buster Keaton filmed The General in Cottage Grove, Ore. Fans are gathering there to celebrate the making of an epic early film.]]></description>
-      <category>world</category>
+      <title>Labor Day Weekend outlook: Nasty storms threaten to wreak havoc on outdoor plans, holiday traffic</title>
+      <link>https://www.foxweather.com/weather-news/stormy-labor-day-weekend-weather-threatens-holiday</link>
+      <guid isPermaLink="false">fe0c86910d43925345100465886ae0d2e593a400</guid>
+      <pubDate>Thu, 03 Sep 2026 02:43:03 GMT</pubDate>
+      <description><![CDATA[Labor Day weekend is just days away, marking the unofficial end of summer, but the weather could put a damper on holiday plans as rain and thunderstorms are expected across parts of the U.S.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Stormy sendoff to summer expected as active weather threatens Labor Day weekend plans across the US</title>
@@ -452,6 +460,14 @@
       <guid isPermaLink="false">75b9b4706f51bd2f5c82d0fda22924be9524d724</guid>
       <pubDate>Wed, 02 Sep 2026 15:41:52 GMT</pubDate>
       <description><![CDATA[What's left of Tropical Storm Edouard is drenching East Texas. The storms winds have decreased, so Edouard is now classified as a tropical depression. On the radar, you can see that it still has an impressive structure so it can produce extreme rainfall.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Much-needed rain arrives as first fall storms soak Pacific Northwest, offering potential wildfire relief</title>
+      <link>https://www.foxweather.com/weather-news/first-fall-storm-pacific-northwest-rain-wildfires</link>
+      <guid isPermaLink="false">f0c6fd12dc72cd866c6977281fbc387163f3f3c2</guid>
+      <pubDate>Wed, 02 Sep 2026 15:34:29 GMT</pubDate>
+      <description><![CDATA[The first fall storms of the season have begun drenching the Pacific Northwest, just as meteorological fall gets underway, and could provide beneficial rain that would ease wildfires amid a record-setting wildfire season for the region.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -508,22 +524,6 @@
       <guid isPermaLink="false">0b9bdb2007edb8c3d6bb4c66134c63b2aa9a74e1</guid>
       <pubDate>Wed, 02 Sep 2026 10:28:30 GMT</pubDate>
       <description><![CDATA[Tropical Depression Edouard is swamping Southeast Texas with heavy rain and flash flooding and has left more than 59,000 customers without power as it slowly makes its way inland. A Flash Flood Emergency for life-threatening flooding was issued for parts of Hardin and Tyler counties early Wednesday, while some counties, including Polk County, issued a disaster declaration following severe weather impacts overnight.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Over 70,000 without power as Tropical Depression Edouard prompts Southeast Texas Flash Flood Emergency</title>
-      <link>https://www.foxweather.com/weather-news/tropical-depression-edouard-soaks-southeast-texas</link>
-      <guid isPermaLink="false">0b9bdb2007edb8c3d6bb4c66134c63b2aa9a74e1</guid>
-      <pubDate>Wed, 02 Sep 2026 10:28:30 GMT</pubDate>
-      <description><![CDATA[Tropical Depression Edouard is swamping Southeast Texas with heavy rain and flash flooding and has left more than 70,000 customers without power. A Flash Flood Emergency for life-threatening flooding was issued for parts of Hardin and Tyler counties early Wednesday.]]></description>
-      <category>southeast</category>
-    </item>
-    <item>
-      <title>Woman injured in suspected shark attack while swimming at popular summer vacation destination</title>
-      <link>https://www.foxweather.com/weather-news/suspected-shark-attack-marthas-vineyard</link>
-      <guid isPermaLink="false">03bdfcbb9c2456bb259c74fcf2efadf3290febda</guid>
-      <pubDate>Wed, 02 Sep 2026 02:40:04 GMT</pubDate>
-      <description><![CDATA[A woman suffered non-life-threatening leg injuries in a suspected shark encounter off Martha’s Vineyard, prompting a temporary swimming suspension.]]></description>
       <category>weather</category>
     </item>
   </channel>
