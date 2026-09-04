@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:20:32 GMT</lastBuildDate>
+    <item>
+      <title>Fake patient portal scam can steal your login and infect your PC</title>
+      <link>https://www.foxnews.com/tech/fake-patient-portal-scam-steal-login-infect-pc</link>
+      <guid isPermaLink="false">cbc9cd3938ad8a9c77b3e339204dc63e16d2def5</guid>
+      <pubDate>Fri, 04 Sep 2026 16:20:32 GMT</pubDate>
+      <description><![CDATA[MyChart phishing emails mimic real patient portal alerts with fake lab results and malware tricks that target Windows users across the country.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Track Hurricane Lowell: Path, forecast cone, spaghetti models, wind and more</title>
       <link>https://www.foxweather.com/weather-news/track-hurricane-lowell-path-cone-spaghetti-models-wind</link>
@@ -18,15 +26,15 @@
       <title>Anchorage Weather: Today - Mostly Cloudy then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 04 Sep 2026 14:43:33 GMT</pubDate>
-      <description><![CDATA[61°F. Wind NE 0 to 5 mph. A chance of rain after 1pm. Mostly cloudy, with a high near 61. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Fri, 04 Sep 2026 18:00:55 GMT</pubDate>
+      <description><![CDATA[61°F. Wind  0 mph. A chance of rain after 1pm. Mostly cloudy, with a high near 61. Northeast wind around 0 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 04 Sep 2026 14:43:33 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 18:00:55 GMT</pubDate>
       <description><![CDATA[53°F. Wind E 0 to 10 mph. Rain. Cloudy, with a low around 53. East wind 0 to 10 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +42,7 @@
       <title>Anchorage Weather: Saturday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 04 Sep 2026 14:43:33 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 18:00:55 GMT</pubDate>
       <description><![CDATA[62°F. Wind S 5 to 10 mph. Rain likely before 1pm. Mostly cloudy, with a high near 62. South wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +50,7 @@
       <title>Anchorage Weather: Saturday Night - Mostly Cloudy then Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 04 Sep 2026 14:43:33 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 18:00:55 GMT</pubDate>
       <description><![CDATA[49°F. Wind W 0 to 5 mph. A slight chance of rain after 4am. Mostly cloudy, with a low around 49. West wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,9 +58,25 @@
       <title>Anchorage Weather: Sunday - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 04 Sep 2026 14:43:33 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 18:00:55 GMT</pubDate>
       <description><![CDATA[59°F. Wind  0 mph. A chance of rain. Mostly cloudy, with a high near 59. Northeast wind around 0 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Developers eye Native nations, tribal communities for new data center projects</title>
+      <link>https://alaskabeacon.com/2026/09/04/repub/developers-eye-native-nations-tribal-communities-for-new-data-center-projects/</link>
+      <guid isPermaLink="false">2846e34e1d70c5b784ec7a3e1cd5484030824006</guid>
+      <pubDate>Fri, 04 Sep 2026 17:44:22 GMT</pubDate>
+      <description><![CDATA[Officials in Page, Arizona, a small city near the Glen Canyon Dam, passed a land sale agreement last fall that establishes a framework for future construction of a data center. The sale of the 500-acre parcel about a mile away from the Colorado River’s Horseshoe Bend — one of the most visited natural landmarks in the Glen Canyon […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>US Supreme Court again urged to permit Trump vote-by-mail restrictions</title>
+      <link>https://alaskabeacon.com/2026/09/04/repub/us-supreme-court-again-urged-to-permit-trump-vote-by-mail-restrictions/</link>
+      <guid isPermaLink="false">7273520da67e34b85b880c418534c9e4ab840686</guid>
+      <pubDate>Fri, 04 Sep 2026 17:31:00 GMT</pubDate>
+      <description><![CDATA[The Trump administration asked the U.S. Supreme Court on Thursday to overturn a lower court and allow it to enforce a U.S. Postal Service rule restricting mail-in voting. The trial judge, Indira Talwani of the U.S. District of Massachusetts, prejudged the rule before it was final when she issued a temporary restraining order last month […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>With Pretty Rocks bridge completed, full road use in Alaska’s Denali National Park set to resume</title>
@@ -263,76 +287,172 @@
       <category>local</category>
     </item>
     <item>
-      <title>Why the rushed Postal Service plan for mail-in voting has states in a panic</title>
-      <link>https://alaskabeacon.com/2026/09/02/repub/why-the-rushed-postal-service-plan-for-mail-in-voting-has-states-in-a-panic/</link>
-      <guid isPermaLink="false">92c8e5bd8f7e62028fa2975e51108f3043a545e2</guid>
-      <pubDate>Wed, 02 Sep 2026 22:57:11 GMT</pubDate>
-      <description><![CDATA[President Donald Trump’s executive order placing new restrictions on mail-in voting would assign state officials a Herculean task to reach compliance before the crucial midterm elections. The order directed the U.S. Postal Service to strictly regulate the envelope design of mail-in ballots and to collect voter data from each state through an online portal, among […]]]></description>
-      <category>local</category>
+      <title>Hurricane Marie to bring dangerous surf to California shores, fuel Southwest monsoon threat through Labor Day</title>
+      <link>https://www.foxweather.com/weather-news/two-hurricanes-swirling-off-us-coast-pacific-ocean-what-impacts-california</link>
+      <guid isPermaLink="false">6371a858641b5a24a90e51a7a91d44cf8a030c42</guid>
+      <pubDate>Fri, 04 Sep 2026 17:36:59 GMT</pubDate>
+      <description><![CDATA[Hurricane Marie will remain offshore but is expected to generate dangerous surf along the California coast while sending tropical moisture into the Southwest, increasing the threat of heavy rain and flash flooding through Labor Day weekend.]]></description>
+      <category>weather</category>
     </item>
     <item>
-      <title>Opinion: In Alaska, no fishery stands alone</title>
-      <link>https://mustreadalaska.com/opinion-in-alaska-no-fishery-stands-alone/</link>
-      <guid isPermaLink="false">dabe5d336055f3cd39ea382f25445f52b1cd76f1</guid>
-      <pubDate>Wed, 02 Sep 2026 22:00:27 GMT</pubDate>
-      <description><![CDATA[By Julie Sande, Commissioner of the Alaska Department of Commerce, Community, and Economic Development (DCCED) This article was originally published by Alaska DCCED and reprinted with permission. I grew up in the logging camps around Ketchikan, Alaska. In communities like those, an industry is never just a number in an economic report. It is the […] The post Opinion: In Alaska, no fishery stands alone appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Pelosi, Omar join Trump and Schiff as unlikely alliance pushes to onshore key industry</title>
+      <link>https://www.foxnews.com/politics/pelosi-omar-join-trump-schiff-unlikely-alliance-pushes-onshore-key-industry</link>
+      <guid isPermaLink="false">f1be5132c7d8191e4f450076bb49ea760d7417a7</guid>
+      <pubDate>Fri, 04 Sep 2026 17:35:13 GMT</pubDate>
+      <description><![CDATA[Adam Schiff, Nancy Pelosi and Ilhan Omar back Donald Trump's federal film tax incentive to bring movie production back to California and America.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Alaska schools set to receive $115M in war-driven oil revenue bonus, state announces</title>
-      <link>https://alaskabeacon.com/2026/09/02/alaska-schools-set-to-receive-115m-in-war-driven-oil-revenue-bonus-state-announces/</link>
-      <guid isPermaLink="false">97f29ef4218c44ca2be8409b28882c22294661e7</guid>
-      <pubDate>Wed, 02 Sep 2026 21:34:15 GMT</pubDate>
-      <description><![CDATA[The Alaska Department of Revenue announced on Monday that Alaska’s K-12 public schools will receive an additional $115 million in state funding this year, prompted by a boost in oil revenues driven by the U.S. war on Iran. Legislators earmarked the additional oil revenue for schools as part of the state budget approved by Gov. […]]]></description>
-      <category>local</category>
+      <title>Rabbinic group accuses Jewish entertainers of 'whitewashing antisemitism' in Mark Ruffalo defense</title>
+      <link>https://www.foxnews.com/media/rabbinic-group-accuses-jewish-entertainers-whitewashing-antisemitism-mark-ruffalo-defense</link>
+      <guid isPermaLink="false">3945fa14a148df60a725c7d4cb448f09d5d7d352</guid>
+      <pubDate>Fri, 04 Sep 2026 17:29:10 GMT</pubDate>
+      <description><![CDATA[The Coalition for Jewish Values accused over 170 Jewish entertainers of whitewashing antisemitism by defending Mark Ruffalo's merger criticism.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say</title>
+      <title>UN votes to adopt new world map to reflect Africa's true size</title>
+      <link>https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">019b2f5a178c682bef8371227bc3e4a74600ac99</guid>
+      <pubDate>Fri, 04 Sep 2026 17:26:40 GMT</pubDate>
+      <description><![CDATA[The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Argentine couple to return Nazi-looted painting to rightful owner</title>
+      <link>https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">537d21e4712827ae48bd6bfc9525a524c0cd38f9</guid>
+      <pubDate>Fri, 04 Sep 2026 17:14:21 GMT</pubDate>
+      <description><![CDATA[The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fetterman faces Dem revolt as bombshell report fuels push to oust him: 'Disgrace'</title>
+      <link>https://www.foxnews.com/politics/fetterman-faces-dem-revolt-bombshell-report-fuels-push-oust-him-disgrace</link>
+      <guid isPermaLink="false">2c3a362a37ceb6a50d0967f7ca97437a0f317fb0</guid>
+      <pubDate>Fri, 04 Sep 2026 17:11:04 GMT</pubDate>
+      <description><![CDATA[Sen. Jon Fetterman's leaked texts reveal he dismissed meetings with Children's Hospital of Philadelphia over Medicaid cuts and skipped a police funeral.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Whatever happened to the U.S. campaign to ban child marriage?</title>
+      <link>https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global</link>
+      <guid isPermaLink="false">61cafcf96030b1f5b31d07e9d4a31f16c0dacab9</guid>
+      <pubDate>Fri, 04 Sep 2026 17:01:24 GMT</pubDate>
+      <description><![CDATA[The global effort to end child marriage is in the news. In the U.S., there's a new bill before Congress (but it's controversial). And the U.N. is designating a day dedicated to ending the practice.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Here's what the NFL should put in the end zone instead of "End Racism"</title>
+      <link>https://www.foxnews.com/outkick-sports/nfl-end-zone-instead-end-racism</link>
+      <guid isPermaLink="false">1392acd8c74339f03a36c7395369a126f1636632</guid>
+      <pubDate>Fri, 04 Sep 2026 16:53:12 GMT</pubDate>
+      <description><![CDATA[The NFL's "End Racism" end zone messaging returns for 2026, but fatherlessness, abortion rates and hunger in the Black community need attention.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Miami opens its post-Carson Beck era against Stanford in a key college football week 1 matchup</title>
+      <link>https://www.foxnews.com/outkick-sports/miami-opens-post-carson-beck-era-against-stanford-key-college-football-week-1-matchup</link>
+      <guid isPermaLink="false">2606d99b9020bc645034c11e06285f7fda0f6e59</guid>
+      <pubDate>Fri, 04 Sep 2026 16:50:33 GMT</pubDate>
+      <description><![CDATA[Miami Hurricanes open their season with just eight returning starters and new quarterback Darian Mensah facing a Stanford team already warmed up.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash</title>
+      <link>https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2ba70186e00b33ce0523b8fc2170e2c6c420fdb4</guid>
+      <pubDate>Fri, 04 Sep 2026 16:50:00 GMT</pubDate>
+      <description><![CDATA[BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect</title>
+      <link>https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4217cb2605bd0c31df750c5e5a7007da58f364b9</guid>
+      <pubDate>Fri, 04 Sep 2026 16:49:15 GMT</pubDate>
+      <description><![CDATA[Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump's peace envoys to visit Moscow and Kyiv over weekend</title>
       <link>https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">af2f5b8966b4bb1d7ac7469a89ebc7e7df3b8a7f</guid>
-      <pubDate>Fri, 04 Sep 2026 14:27:10 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 16:30:50 GMT</pubDate>
       <description><![CDATA[Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Coke vs Pepsi: Why Americans are so fiercely loyal to their soda of choice</title>
-      <link>https://www.foxnews.com/food-drink/coke-vs-pepsi-why-americans-fiercely-loyal-soda-choice</link>
-      <guid isPermaLink="false">5913b27222ca4f5d9aebc0ca073d980869be2fee</guid>
-      <pubDate>Fri, 04 Sep 2026 14:25:58 GMT</pubDate>
-      <description><![CDATA[A report revealed Classic Coke was the top-selling soda in the U.S. in 2025, accounting for 18.5% of carbonated soft drink sales volume. Studies explain taste differences and brain science.]]></description>
+      <title>Canadian fan disses Trump's Lake America renaming at FIBA Women's World Cup with sign</title>
+      <link>https://www.foxnews.com/outkick-sports/canadian-fan-disses-trumps-lake-america-renaming-fiba-womens-world-cup-sign</link>
+      <guid isPermaLink="false">cbd75ecddfe9d793805f051c03f4d223e01e97a2</guid>
+      <pubDate>Fri, 04 Sep 2026 16:30:33 GMT</pubDate>
+      <description><![CDATA[A Canadian fan's sign at the FIBA Women's World Cup directly challenged President Donald Trump's executive order renaming Lake Ontario as Lake America.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Gavin Adcock's new song 'One Hell Of A Steal' has country music fans fired up with excitement</title>
-      <link>https://www.foxnews.com/outkick-culture/gavin-adcock-new-song-one-hell-steal-has-country-music-fans-fired-excitement</link>
-      <guid isPermaLink="false">0926f13293b0220a7cef7eec6a4549c959c6f676</guid>
-      <pubDate>Fri, 04 Sep 2026 14:17:10 GMT</pubDate>
-      <description><![CDATA[Gavin Adcock dropped "One Hell Of A Steal" ahead of his new album "The Day I Hang It Up," and country music fans are already calling it a banger.]]></description>
+      <title>Angel Reese vs. 7'3" doughy Chinese tower Zhang Ziyu was a battle for the ages at the FIBA World Cup</title>
+      <link>https://www.foxnews.com/outkick-sports/angel-reese-vs-73-doughy-chinese-tower-zhang-ziyu-battle-ages-fiba-world-cup</link>
+      <guid isPermaLink="false">7d10674ee607cc1deb5a2cf2c4a2185658325dfd</guid>
+      <pubDate>Fri, 04 Sep 2026 16:20:57 GMT</pubDate>
+      <description><![CDATA[Angel Reese's physical defense on 7'3" Zhang Ziyu revealed a potential blueprint for slowing China's giant in Team USA's dominant 94-61 victory.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Dennis Quaid says LA has to ‘get a little better’ as he embraces Nashville life</title>
-      <link>https://www.foxnews.com/entertainment/dennis-quaid-says-la-has-get-little-better-he-embraces-nashville-life</link>
-      <guid isPermaLink="false">bf3e84949cf429d4931d967ea677bce35b64d392</guid>
-      <pubDate>Fri, 04 Sep 2026 14:12:00 GMT</pubDate>
-      <description><![CDATA[Dennis Quaid reveals his daily life in Nashville after leaving Los Angeles, saying he'd choose Atlanta over LA if he were starting out in acting today.]]></description>
+      <title>Not a mistrial, yet. Clancy's lawyer asks for emergency appeal in her murder trial</title>
+      <link>https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial</link>
+      <guid isPermaLink="false">97975d7b12639a478f7a642312cca11a08c37480</guid>
+      <pubDate>Fri, 04 Sep 2026 16:20:30 GMT</pubDate>
+      <description><![CDATA[The judge was on the verge of declaring a mistrial in Lindsay Clancy's murder case. Then her defense attorney requested time to seek an emergency stay from the Supreme Judicial Court of Massachusetts.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Trapped Nepal workers pulled alive from tunnel 9 days after deadly flooding, raising hope for more rescues</title>
-      <link>https://www.foxnews.com/world/trapped-nepal-workers-pulled-alive-tunnel-9-days-after-deadly-flooding-raising-hope-more-rescues</link>
-      <guid isPermaLink="false">1803316246c2d8f3cdc5ca1ae67872d79afd5734</guid>
-      <pubDate>Fri, 04 Sep 2026 14:03:08 GMT</pubDate>
-      <description><![CDATA[Two workers were pulled alive from a Nepal hydropower tunnel nine days after catastrophic floods, and one rescued man says more people are trapped inside.]]></description>
+      <title>Gear up for fall with Labor Day deals on hunting, fishing, camping and outdoor living essentials</title>
+      <link>https://www.foxnews.com/outkick-culture/gear-fall-labor-day-deals-hunting-fishing-camping-outdoor-living-essentials</link>
+      <guid isPermaLink="false">2ad4381f48123535094006e6d80f90bf66141d91</guid>
+      <pubDate>Fri, 04 Sep 2026 16:16:22 GMT</pubDate>
+      <description><![CDATA[These Labor Day outdoor deals include discounts on Blackstone griddles, Hydro Flask water bottles, Muck hunting boots and other outdoor essentials.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Philippine vice president is ordered arrested for threats against the president</title>
-      <link>https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president</link>
-      <guid isPermaLink="false">d6ebab2db5d2594474e2e55c2c056c9744fb589c</guid>
-      <pubDate>Fri, 04 Sep 2026 13:42:10 GMT</pubDate>
-      <description><![CDATA[It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028.]]></description>
+      <title>Farage says his aides' donor comments were 'loose pub talk'</title>
+      <link>https://www.bbc.co.uk/news/articles/c3eqvyj5qg5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e84b3b95fb8243bec63044af911d22e728c69893</guid>
+      <pubDate>Fri, 04 Sep 2026 16:08:29 GMT</pubDate>
+      <description><![CDATA[Two senior Reform aides have stepped down from their roles following a Channel 4 News and Verbatim film about donations.]]></description>
       <category>world</category>
+    </item>
+    <item>
+      <title>Russia hits Ukrainian security headquarters in drone attack, Zelensky says</title>
+      <link>https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2812aaa9cbdb1d51475bcf65bd1761329b0d1097</guid>
+      <pubDate>Fri, 04 Sep 2026 16:02:32 GMT</pubDate>
+      <description><![CDATA[The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Mamdani faces growing 9/11 backlash as old post resurfaces ahead of Ground Zero ceremony: 'Is this real?'</title>
+      <link>https://www.foxnews.com/politics/mamdani-faces-growing-9-11-backlash-old-post-resurfaces-ahead-ground-zero-ceremony-is-real</link>
+      <guid isPermaLink="false">05f208da1a83b7991670ec56a182b3e95fb68436</guid>
+      <pubDate>Fri, 04 Sep 2026 16:00:30 GMT</pubDate>
+      <description><![CDATA[Zohran Mamdani faces backlash over a resurfaced 2023 post about 9/11 as critics and 9/11 families urge him not to attend Ground Zero's commemoration.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Pulling the SNAP lever + Why Gen Zers bet (invest?) differently</title>
+      <link>https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently</link>
+      <guid isPermaLink="false">2863f5695945c7280450ce8a740e094726c88a78</guid>
+      <pubDate>Fri, 04 Sep 2026 15:04:53 GMT</pubDate>
+      <description><![CDATA[Changing SNAP eligibility actually can change consumption habits.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bryan Norcross: Atlantic sleeps while Hurricane Lowell makes its closest approach to Hawaii early next week</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-atlantic-sleeps-while-hurricane-lowell-makes-its-closest-approach-hawaii-early-next-week</link>
+      <guid isPermaLink="false">167670c350bdc7bd2ae2c16f20790da003c60b32</guid>
+      <pubDate>Fri, 04 Sep 2026 14:52:37 GMT</pubDate>
+      <description><![CDATA[In the official record book, which goes back to 1851, 1907 and 1914 had no hurricanes. Obviously, there were also no satellites back then, so nobody thinks the record is necessarily complete.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Relentless severe storms target Midwest, Mid-Atlantic ahead of holiday weekend as 500K+ still without power</title>
@@ -341,118 +461,6 @@
       <pubDate>Fri, 04 Sep 2026 13:39:18 GMT</pubDate>
       <description><![CDATA[Severe thunderstorms are set to reignite Friday over more than 30 million people across parts of the Great Lakes to the Mid-Atlantic coast, largely part of the same corridor that was slammed by Thursday's storms that have left over 500,000 customers without power.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Former Trump Cabinet official had 'inappropriately close' relationship with bodyguard, IG finds</title>
-      <link>https://www.foxnews.com/politics/former-trump-cabinet-official-inappropriately-close-relationship-bodyguard-ig-finds</link>
-      <guid isPermaLink="false">7699475104e16345d6a0f6854ce81edf7694bee5</guid>
-      <pubDate>Fri, 04 Sep 2026 13:38:52 GMT</pubDate>
-      <description><![CDATA[Lori Chavez-DeRemer allegedly ordered a security agent to throw cash at a stripper during an Oregon trip, a Department of Labor OIG report says.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Myanmar military head visits Vietnam to normalize relations</title>
-      <link>https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations</link>
-      <guid isPermaLink="false">83eb23be6b8a679f65014910bdff1ecdfeebbf53</guid>
-      <pubDate>Fri, 04 Sep 2026 13:35:39 GMT</pubDate>
-      <description><![CDATA[His trip to Vietnam marks his third visit to an ASEAN member state as he seeks to restore Myanmar's standing in the bloc.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Influencer issues PSA to women when they can see their husbands during football season, Rutgers mess &amp; Dale Sr</title>
-      <link>https://www.foxnews.com/outkick-sports/influencer-issues-psa-women-when-they-can-see-husbands-during-football-season-rutgers-mess-dale-sr</link>
-      <guid isPermaLink="false">6819a1651c9d7427eabaa4bea57db4436af1912d</guid>
-      <pubDate>Fri, 04 Sep 2026 13:28:00 GMT</pubDate>
-      <description><![CDATA[Friday Screencaps recaps UMass stunning Rutgers after a reported $1.5 million payday, Lane Kiffin's Baton Rouge chaos, and Deion Sanders' big win.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Schools to close early for A66 crash funeral</title>
-      <link>https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">72ba02a99e4495bd738201dbc6a565cd6b6b97b4</guid>
-      <pubDate>Fri, 04 Sep 2026 13:25:07 GMT</pubDate>
-      <description><![CDATA[The funeral of one of five young men killed in the crash with a police car will take place on Friday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>University pays professor $600K after being punished for parodying land acknowledgments</title>
-      <link>https://www.foxnews.com/media/university-pays-professor-600k-punished-parodying-land-acknowledgments</link>
-      <guid isPermaLink="false">a83de32d231af9b3be5997bf7f2238882cc77d88</guid>
-      <pubDate>Fri, 04 Sep 2026 13:00:50 GMT</pubDate>
-      <description><![CDATA[Stuart Reges parodied the University of Washington's land acknowledgment on his syllabus, triggering censorship and a nearly yearlong investigation.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Body of world's youngest traditional king returns home to Uganda amid succession row</title>
-      <link>https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">da8eaee1dea6960f814af198cde970e9b2fc6218</guid>
-      <pubDate>Fri, 04 Sep 2026 13:00:44 GMT</pubDate>
-      <description><![CDATA[King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump is dismantling Iran’s war machine, but America still needs an endgame</title>
-      <link>https://www.foxnews.com/opinion/trump-dismantling-irans-war-machine-america-still-needs-endgame</link>
-      <guid isPermaLink="false">71a16fe158393e0ede62dca588ac567d9d6beb8c</guid>
-      <pubDate>Fri, 04 Sep 2026 13:00:02 GMT</pubDate>
-      <description><![CDATA[Iran exploited U.S. fears of escalation for decades, but Trump's military pressure campaign is finally making asymmetry work both directions.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Caitlin Clark not in Team USA's starting 5 for FIBA Women's Basketball World Cup opener vs China</title>
-      <link>https://www.foxnews.com/outkick-sports/caitlin-clark-not-team-usa-starting-5-fiba-womens-basketball-world-cup-opener-vs-china</link>
-      <guid isPermaLink="false">5f1fb726fbf7e48d35b12e9e2fe334e20fd10322</guid>
-      <pubDate>Fri, 04 Sep 2026 12:56:38 GMT</pubDate>
-      <description><![CDATA[Caitlin Clark began the FIBA Women's World Cup coming off the bench for Team USA, as Kara Lawson went with two veterans options, Chelsea Gray and Jackie Young, instead.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Gavin Newsom fires back at Trump after judge dismisses DOJ lawsuit over trans athletes in girls' sports</title>
-      <link>https://www.foxnews.com/outkick-sports/gavin-newsom-fires-back-trump-judge-dismisses-doj-lawsuit-trans-athletes-girls-sports</link>
-      <guid isPermaLink="false">0a68cd3c8470a79c090690b00e4a6461fcd8f994</guid>
-      <pubDate>Fri, 04 Sep 2026 12:44:40 GMT</pubDate>
-      <description><![CDATA[The Department of Justice says it will appeal after a federal judge dismissed its Title IX lawsuit against California's transgender sports policy.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC</title>
-      <link>https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">89282106da8b0d95e44aa341d5ee46dbb4e8d1ff</guid>
-      <pubDate>Fri, 04 Sep 2026 12:39:05 GMT</pubDate>
-      <description><![CDATA[Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says</title>
-      <link>https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f9841d4b31c537c50e487cda7fe6428532747941</guid>
-      <pubDate>Fri, 04 Sep 2026 11:54:51 GMT</pubDate>
-      <description><![CDATA[The comments come as Argentinian president Javier Milei says the "winds of change" favoured his country's claim on the British overseas territory.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers</title>
-      <link>https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4ad266db0df1733aa2d845f698310239c24fe38f</guid>
-      <pubDate>Fri, 04 Sep 2026 11:48:24 GMT</pubDate>
-      <description><![CDATA[Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high</title>
-      <link>https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro</link>
-      <guid isPermaLink="false">b3fa3cd8594a28c1e6f20a6c4b3aab1f406f32bc</guid>
-      <pubDate>Fri, 04 Sep 2026 11:29:11 GMT</pubDate>
-      <description><![CDATA[Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Russell Howard 'devastated' after his baby son died shortly after birth</title>
-      <link>https://www.bbc.co.uk/news/articles/cg491g7rnqqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">210187106bc851e52b70fece5763b5650d9e60f5</guid>
-      <pubDate>Fri, 04 Sep 2026 11:26:32 GMT</pubDate>
-      <description><![CDATA[The comedian says his son Felix died earlier this year shortly after his wife Cerys had given birth.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Major Hurricane Lowell poised for dramatic turn toward Hawaii, raising threat of intense wind, surf and rain</title>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">5e1eee9b3854e30cfbf17876fee95a82d48f941b</guid>
       <pubDate>Thu, 03 Sep 2026 00:27:04 GMT</pubDate>
       <description><![CDATA[Damage assessments continue for the Santa Rosa Islands just a few months after devastating wildfires destroyed some of the world's rarest plants.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Watch: Man struck by lightning in terrifying moment caught on camera in Staten Island</title>
-      <link>https://www.foxweather.com/weather-news/video-man-struck-lightning-walking-staten-island</link>
-      <guid isPermaLink="false">4a6a1e735f95f422ed74ca00ebc38ce570543702</guid>
-      <pubDate>Wed, 02 Sep 2026 21:41:43 GMT</pubDate>
-      <description><![CDATA[A startling incident unfolded in Staten Island, New York, this week when a man was suddenly struck by lightning while walking on a sidewalk.]]></description>
       <category>weather</category>
     </item>
   </channel>
