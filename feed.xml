@@ -15,18 +15,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Today - Light Rain</title>
+      <title>Anchorage Weather: Today - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 05 Sep 2026 14:27:06 GMT</pubDate>
-      <description><![CDATA[64°F. Wind S 10 mph. Rain before 4pm. Mostly cloudy, with a high near 64. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 80%.]]></description>
+      <pubDate>Sat, 05 Sep 2026 17:04:22 GMT</pubDate>
+      <description><![CDATA[64°F. Wind S 10 mph. A chance of rain before 4pm. Partly sunny, with a high near 64. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 05 Sep 2026 14:27:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 17:04:22 GMT</pubDate>
       <description><![CDATA[50°F. Wind W 0 to 10 mph. Partly cloudy, with a low around 50. West wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Sunday - Partly Sunny then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 05 Sep 2026 14:27:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 17:04:22 GMT</pubDate>
       <description><![CDATA[61°F. Wind N 0 to 5 mph. A chance of rain after 1pm. Partly sunny, with a high near 61. North wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Sunday Night - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 05 Sep 2026 14:27:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 17:04:22 GMT</pubDate>
       <description><![CDATA[50°F. Wind N 0 to 5 mph. Rain likely. Cloudy, with a low around 50. North wind 0 to 5 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +50,7 @@
       <title>Anchorage Weather: Labor Day - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 05 Sep 2026 14:27:06 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 17:04:22 GMT</pubDate>
       <description><![CDATA[60°F. Wind E 0 to 5 mph. Rain likely. Mostly cloudy, with a high near 60. East wind 0 to 5 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -287,155 +287,163 @@
       <category>local</category>
     </item>
     <item>
+      <title>US envoys in Moscow ahead of Ukraine talks</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">83f9a270e22c04aa4285151146ab7d582d8381a1</guid>
+      <pubDate>Sat, 05 Sep 2026 16:57:15 GMT</pubDate>
+      <description><![CDATA[President Trump says his envoys Steve Witkoff and Jared Kushner are "bringing with them a proposal to end the war".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump weighs in on Lindsay Clancy murder trial dubbed 'kangaroo court' by GOP leaders</title>
+      <link>https://www.foxnews.com/politics/trump-weighs-lindsay-clancy-murder-trial-dubbed-kangaroo-court-gop-leaders</link>
+      <guid isPermaLink="false">134568698b6a4b1a39c7d9bb07306fce0e635993</guid>
+      <pubDate>Sat, 05 Sep 2026 16:55:02 GMT</pubDate>
+      <description><![CDATA[Trump says Lindsay Clancy will pay "the price" after a mistrial was declared when the jury deadlocked 11-1 in the Massachusetts murder case.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US hits three Iranian oil tankers after saying its warships were targeted</title>
+      <link>https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">84a48662e571df0462955d7b96376857fcf3198e</guid>
+      <pubDate>Sat, 05 Sep 2026 16:53:43 GMT</pubDate>
+      <description><![CDATA[The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>AI robot pet could know your family too well</title>
+      <link>https://www.foxnews.com/tech/ai-robot-pet-could-know-your-family-too-well</link>
+      <guid isPermaLink="false">828b9dc5c8b1d0392bfddb5eb79ea28a90784e69</guid>
+      <pubDate>Sat, 05 Sep 2026 16:42:59 GMT</pubDate>
+      <description><![CDATA[The OlloNi SS1 AI robot pet uses a 4K camera and facial recognition to learn your family, but its removable Red Heart memory module raises questions.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Michigan State offensive lineman unleashes a fountain of puke during two-point conversion</title>
+      <link>https://www.foxnews.com/outkick-sports/michigan-state-offensive-lineman-unleashes-fountain-puke-two-point-conversion</link>
+      <guid isPermaLink="false">c5c13712a6ffcf9a73a182313285e636d52a8fe1</guid>
+      <pubDate>Sat, 05 Sep 2026 16:39:03 GMT</pubDate>
+      <description><![CDATA[Michigan State's Robert Wright Jr. unleashed a vomit-filled two-point conversion block in Pat Fitzgerald's debut win over Toledo Friday night.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Students divided as University of Michigan will hide first-semester grades for 2027 freshmen</title>
+      <link>https://www.foxnews.com/media/students-divided-university-michigan-hide-first-semester-grades-2027-freshmen</link>
+      <guid isPermaLink="false">87a95699868b992a093e21ef89d79f358c4aa296</guid>
+      <pubDate>Sat, 05 Sep 2026 16:35:37 GMT</pubDate>
+      <description><![CDATA[University of Michigan students clash over a pass/fail policy hiding first-semester freshman grades, debating mental health relief vs. study habits.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Texas opens season against Texas State as Arch Manning faces a make-or-break college football year</title>
+      <link>https://www.foxnews.com/outkick-sports/texas-opens-season-against-texas-state-arch-manning-faces-make-or-break-college-football-year</link>
+      <guid isPermaLink="false">dab867f4d52a53b2a0670b0fcd3ad203d5f6e81e</guid>
+      <pubDate>Sat, 05 Sep 2026 16:25:36 GMT</pubDate>
+      <description><![CDATA[Arch Manning enters a make-or-break season as Texas hosts Texas State in a lopsided Week 1 college football matchup with the under 59.5 play.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The centuries-old problem of mapping the world</title>
+      <link>https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">24fd29acb2ee72d4399177732d48add7a72e724b</guid>
+      <pubDate>Sat, 05 Sep 2026 16:14:24 GMT</pubDate>
+      <description><![CDATA[As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Abdul El-Sayed hits back at Israel questions, suggests his name and faith are behind press scrutiny</title>
+      <link>https://www.foxnews.com/media/abdul-el-sayed-erupts-over-repeated-israel-questions-suggests-his-name-faith-behind-press-scrutiny</link>
+      <guid isPermaLink="false">e419de7b377744dd257c3fed2da3bef6c8d71a90</guid>
+      <pubDate>Sat, 05 Sep 2026 16:11:25 GMT</pubDate>
+      <description><![CDATA[Michigan Democratic U.S. Senate candidate Abdul El-Sayed suggested reporters press him on the Israel-Hamas war because of his name and faith.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>9 warning signs of identity theft you should never ignore</title>
+      <link>https://www.foxnews.com/tech/9-warning-signs-identity-theft-never-ignore</link>
+      <guid isPermaLink="false">84d0e2e88ee50888d8631ac2100714bf6ef60cf3</guid>
+      <pubDate>Sat, 05 Sep 2026 16:07:27 GMT</pubDate>
+      <description><![CDATA[Nine identity theft warning signs range from unfamiliar credit inquiries to SIM swap attacks that can quietly drain your bank account funds.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>King and Queen join Highland games fans at Braemar Gathering</title>
+      <link>https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5da9a35c7c8dbfc9718f913fe06508318b1abd5d</guid>
+      <pubDate>Sat, 05 Sep 2026 16:06:00 GMT</pubDate>
+      <description><![CDATA[The King and Queen watched events including Highland dancing, caber tossing and pipe bands performing at the annual event in Royal Deeside.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Deprogrammed: Ex-OnlyFans manager finds Jesus and goes on a mission to save young women</title>
+      <link>https://www.foxnews.com/media/deprogrammed-ex-onlyfans-manager-finds-jesus-mission-save-young-women</link>
+      <guid isPermaLink="false">81be4044ea9ab787d6b03bfe8d0d7dd6355002ac</guid>
+      <pubDate>Sat, 05 Sep 2026 16:00:14 GMT</pubDate>
+      <description><![CDATA[Former OnlyFans manager Victoria Sinis says sexual liberation is "actually the thing that's crushing us" and shares how Christian faith set her free.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump pardons Jay-Z associate Emory Jones after federal drug conviction</title>
+      <link>https://www.foxnews.com/entertainment/trump-pardons-jay-z-associate-emory-jones-after-federal-drug-conviction</link>
+      <guid isPermaLink="false">1993a8befc37370cfe23826e88f124b0441010ae</guid>
+      <pubDate>Sat, 05 Sep 2026 15:39:52 GMT</pubDate>
+      <description><![CDATA[Alice Marie Johnson revealed Trump granted clemency to 30 individuals, including Emory Jones, a Roc Nation executive and Jay-Z's longtime associate.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bryan Norcross: Hurricane Lowell to slowly turn toward the western Hawaiian Islands this weekend</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-september-5-2026</link>
+      <guid isPermaLink="false">3494685563c029c03b47d27fab414ed6f539ecc7</guid>
+      <pubDate>Sat, 05 Sep 2026 15:31:55 GMT</pubDate>
+      <description><![CDATA[Hurricane Lowell is a strong Category 4 as it drifts into a hard right bank and a path in the general direction of the western end of the main Hawaiian Island chain.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Lady Frost eyes Major League Wrestling women's title, touts 'incredible roster'</title>
+      <link>https://www.foxnews.com/outkick-sports/lady-frost-eyes-major-league-wrestling-womens-title-touts-incredible-roster</link>
+      <guid isPermaLink="false">db2db19794d8eb98479d5975a107d34874327a0a</guid>
+      <pubDate>Sat, 05 Sep 2026 15:31:42 GMT</pubDate>
+      <description><![CDATA[Lady Frost declared herself the top contender for Shotzi's MLW Women's World Championship and says she'll do whatever it takes to claim the gold.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>At least two dead in blast at Bolivia military barracks</title>
+      <link>https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">07da5d49e7cbeca8884d1665feae01fbce6b182b</guid>
+      <pubDate>Sat, 05 Sep 2026 15:22:41 GMT</pubDate>
+      <description><![CDATA[Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US military hits 3 Iranian oil tankers after saying Navy warships were targeted</title>
+      <link>https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted</link>
+      <guid isPermaLink="false">64e915be2e1411a5e27195e1e10e4e79e5f841a4</guid>
+      <pubDate>Sat, 05 Sep 2026 15:05:08 GMT</pubDate>
+      <description><![CDATA[The strikes come a day after President Trump appeared to downplay the war with Iran as "small potatoes" during an exchange with reporters in the Oval Office.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Disruption at Port of Dover as masked 'stop the boats' protesters block roads</title>
+      <link>https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f48643fb31db38e8658d9efc6b370923bfcc0d9c</guid>
+      <pubDate>Sat, 05 Sep 2026 14:41:17 GMT</pubDate>
+      <description><![CDATA[The government says it condemns "the behaviour in Dover" and the hours-long disruption it caused.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover</title>
+      <link>https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b4eb9ba5da63a32d9e7e8eb09436040183902549</guid>
+      <pubDate>Sat, 05 Sep 2026 14:26:37 GMT</pubDate>
+      <description><![CDATA[The Reform leader also told the BBC's Laura Kuenssberg that his family are "begging" him to leave his job.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Well-connected Dem operative learns fate after FBI busts him in child sex abuse sting</title>
       <link>https://www.foxnews.com/politics/well-connected-dem-operative-learns-fate-after-fbi-child-sex-abuse-sting</link>
       <guid isPermaLink="false">caba47fb73c56ba60c1505b95ba8d5f4be606c85</guid>
       <pubDate>Sat, 05 Sep 2026 14:00:45 GMT</pubDate>
       <description><![CDATA[A former Virginia Democratic Party finance chair and 2024 DNC delegate was handed a decade behind bars for child sexual abuse material and other child sex abuse allegations.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Remnants of Henry VIII's long-lost castle found in unexpected location, researcher reveals</title>
-      <link>https://www.foxnews.com/travel/remnants-henry-viii-long-lost-castle-found-unexpected-location-researcher-reveals</link>
-      <guid isPermaLink="false">d165bbbf29277cee824bb2864c538e32003012ce</guid>
-      <pubDate>Sat, 05 Sep 2026 14:00:28 GMT</pubDate>
-      <description><![CDATA[Exclusive photos reveal pieces of King Henry VIII's lost Sandown Castle stonework traced to Dover Castle and Eastry Union Chapel across Kent, a researcher told Fox News Digital.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Box Office Comeback: How Summer 2026 offers a glimmer of hope for Hollywood in the post-COVID era</title>
-      <link>https://www.foxnews.com/media/box-office-comeback-summer-2026-offers-glimmer-hope-hollywood-post-covid-era</link>
-      <guid isPermaLink="false">c636a187f8e9c2ede20d99507dbade9def5b1ea8</guid>
-      <pubDate>Sat, 05 Sep 2026 14:00:09 GMT</pubDate>
-      <description><![CDATA[The summer box office has generated over $4.5 billion, with "Spider-Man: Brand New Day" and "The Odyssey" shattering records at movie theaters.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>What different world maps get right - and what they get wrong</title>
-      <link>https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">24fd29acb2ee72d4399177732d48add7a72e724b</guid>
-      <pubDate>Sat, 05 Sep 2026 13:46:02 GMT</pubDate>
-      <description><![CDATA[As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>PGA wife Jena Sims joins the Respect Summer fight against seasonal creep, Urlacher's son is a stud &amp; Luck</title>
-      <link>https://www.foxnews.com/outkick-sports/pga-wife-jena-sims-joins-respect-summer-fight-against-seasonal-creep-urlacher-son-stud-luck</link>
-      <guid isPermaLink="false">38e87fab96156e54c5bdbeeee69fc5e922132a07</guid>
-      <pubDate>Sat, 05 Sep 2026 13:32:40 GMT</pubDate>
-      <description><![CDATA[The first Saturday Screencaps of September arrives with eight college football noon kickoffs and a heat index approaching 110 in Tuscaloosa.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Wisconsin businesses say they 'dodged a bullet,' rejecting high taxes as democratic socialist lost primary</title>
-      <link>https://www.foxnews.com/media/wisconsin-businesses-say-dodged-bullet-rejecting-high-taxes-democratic-socialist-lost-primary</link>
-      <guid isPermaLink="false">cb3d7fa0bf6dd6cdd6f5d7cbb67c0c09b9472ff6</guid>
-      <pubDate>Sat, 05 Sep 2026 13:31:32 GMT</pubDate>
-      <description><![CDATA[WMC's Kurt Bauer says Wisconsin businesses "dodged a bullet" after Francesca Hong lost to David Crowley, but warns concerns remain on taxes.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Jaguar Land Rover confirms planned job cuts</title>
-      <link>https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">af691ebdddf7543f0ba4b58aac9fbb6e218f0909</guid>
-      <pubDate>Sat, 05 Sep 2026 13:22:17 GMT</pubDate>
-      <description><![CDATA[The firm says it needs to save about £1.7bn over the next two years.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Switch to a Google Pixel for free with these T-Mobile offers</title>
-      <link>https://www.foxnews.com/deals/t-mobile-google-pixel-deals</link>
-      <guid isPermaLink="false">3750627d6da946120f9817306d91a497348fd24f</guid>
-      <pubDate>Sat, 05 Sep 2026 13:15:51 GMT</pubDate>
-      <description><![CDATA[Get the Google Pixel 11, Pixel 11 Pro or Pixel 11 Pro XL on T-Mobile when you trade in a device or switch to a new line on select plans.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>LSU is ready to party: Lane Kiffin’s debut brings fireworks to Death Valley after revival-like buildup</title>
-      <link>https://www.foxnews.com/outkick-sports/lsu-ready-party-lane-kiffin-debut-brings-fireworks-death-valley-revival-like-buildup</link>
-      <guid isPermaLink="false">95290290821145d6717dc2184c558274eb9f3fef</guid>
-      <pubDate>Sat, 05 Sep 2026 13:01:51 GMT</pubDate>
-      <description><![CDATA[Lane Kiffin's LSU debut against Clemson has Death Valley buzzing with celebrities, tailgaters, and a Mardi Gras-like atmosphere in Baton Rouge.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The marriage warning sign that may be worse than fighting — and 4 ways to turn things around</title>
-      <link>https://www.foxnews.com/health/marriage-warning-sign-worse-fighting-4-ways-turn-things-around</link>
-      <guid isPermaLink="false">4db5665ddd9902a911d09a2d2cb9cdabe3998534</guid>
-      <pubDate>Sat, 05 Sep 2026 13:00:58 GMT</pubDate>
-      <description><![CDATA[From flirting and dating to spending quality time without phones, experts share how small daily gestures can reverse quiet quitting in a marriage.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Ex-Fetterman staffers promise more damaging details after blistering report: ‘Tip of the iceberg’</title>
-      <link>https://www.foxnews.com/politics/ex-fetterman-staffers-promise-more-damaging-details-after-brutal-report-tip-of-the-iceberg</link>
-      <guid isPermaLink="false">a85f1bfaeb406c3cab23710370f9db10db0058c7</guid>
-      <pubDate>Sat, 05 Sep 2026 13:00:07 GMT</pubDate>
-      <description><![CDATA[Former staffers for John Fetterman launched an X account promising damaging revelations well beyond the Wall Street Journal report.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Reform promises to increase tax-free personal allowance to £15,000</title>
-      <link>https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">999cf403e4399ec032c68e81b1ce1f1e6e313af6</guid>
-      <pubDate>Sat, 05 Sep 2026 12:59:02 GMT</pubDate>
-      <description><![CDATA[The party says the tax cut will be paid for by reducing public spending by £80bn.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Chris Mason: Reform UK winded by donations row as insiders call for shift in approach</title>
-      <link>https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e9457c13a248632d2f47a7dc2dc40100362bcfba</guid>
-      <pubDate>Sat, 05 Sep 2026 12:32:31 GMT</pubDate>
-      <description><![CDATA[Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>The Grand Tour's new presenters: 'I hope we prove the critics wrong'</title>
-      <link>https://www.bbc.co.uk/news/articles/c9865dyrjrwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9ef3011de412b635d3d35703f130f1be65883046</guid>
-      <pubDate>Sat, 05 Sep 2026 12:32:09 GMT</pubDate>
-      <description><![CDATA[A new trio has taken the wheel of the motoring TV show from Jeremy Clarkson, Richard Hammond and James May.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Opinion: A sculpture in perpetual motion, removed</title>
-      <link>https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed</link>
-      <guid isPermaLink="false">8ac5824e0f1aa6a164446b8322920b917954a1a9</guid>
-      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
-      <description><![CDATA["Blue," a statue that's been on the grounds of the Kennedy Center in Washington, D.C. for 7 years has been dismantled and removed.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump administration to dig at triumphal arch site despite no final federal approvals</title>
-      <link>https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals</link>
-      <guid isPermaLink="false">38b829b5207201da90c1cad5f0ddc900cc712393</guid>
-      <pubDate>Sat, 05 Sep 2026 11:43:24 GMT</pubDate>
-      <description><![CDATA[The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Whatever happened to the floating schools of Bangladesh?</title>
-      <link>https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh</link>
-      <guid isPermaLink="false">3e6f309a868e2920ba798072887cdbd74f10c685</guid>
-      <pubDate>Sat, 05 Sep 2026 11:26:09 GMT</pubDate>
-      <description><![CDATA[It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>U.S. envoys in Moscow in new push for peace between Russia and Ukraine</title>
-      <link>https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace</link>
-      <guid isPermaLink="false">0472115bd91e54f500c4114f533c1d1abc71d130</guid>
-      <pubDate>Sat, 05 Sep 2026 11:08:57 GMT</pubDate>
-      <description><![CDATA[U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US envoys arrive in Moscow ahead of Ukraine talks</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">83f9a270e22c04aa4285151146ab7d582d8381a1</guid>
-      <pubDate>Sat, 05 Sep 2026 11:07:08 GMT</pubDate>
-      <description><![CDATA[Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">698a30924731565d66a2c8e089a54295feb284ee</guid>
       <pubDate>Thu, 03 Sep 2026 21:32:20 GMT</pubDate>
       <description><![CDATA[Powerful Hurricane Lowell is forecast to turn sharply toward Hawaii, threatening dangerous surf, flooding, heavy rain and strong winds around Labor Day.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Will Labor Day weekend be a washout? Here’s where rain could spoil plans</title>
-      <link>https://www.foxweather.com/weather-news/rain-dampen-plans-labor-day-weekend-kalshi</link>
-      <guid isPermaLink="false">c6b0eadae5ea0f6e21a0fbc3e61cdcc171976c87</guid>
-      <pubDate>Thu, 03 Sep 2026 20:57:50 GMT</pubDate>
-      <description><![CDATA[The holiday weekend is here, and millions of Americans are bracing to enjoy the last bit of warm weather for Labor Day before fall's cooling effects begin.]]></description>
       <category>weather</category>
     </item>
   </channel>
