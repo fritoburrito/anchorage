@@ -5,12 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 02:37:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:52:11 GMT</lastBuildDate>
+    <item>
+      <title>Venus and Serena Williams' highly anticipated US Open return ends in heartbreaking loss</title>
+      <link>https://www.foxnews.com/outkick-sports/venus-serena-williams-highly-anticipated-us-open-return-ends-heartbreaking-loss</link>
+      <guid isPermaLink="false">71e544272a66c98fc655866a3c52c59c29e5d793</guid>
+      <pubDate>Sat, 05 Sep 2026 02:52:11 GMT</pubDate>
+      <description><![CDATA[Venus and Serena Williams returned to Arthur Ashe Stadium for a thrilling three-set US Open doubles match that kept fans on the edge of their seats.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Anchorage Weather: Tonight - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 05 Sep 2026 02:37:19 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 07:19:32 GMT</pubDate>
       <description><![CDATA[53°F. Wind E 0 to 10 mph. Rain. Cloudy, with a low around 53. East wind 0 to 10 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +26,7 @@
       <title>Anchorage Weather: Saturday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 05 Sep 2026 02:37:19 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 07:19:32 GMT</pubDate>
       <description><![CDATA[62°F. Wind S 10 mph. Rain likely before 1pm. Mostly cloudy, with a high near 62. South wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +34,7 @@
       <title>Anchorage Weather: Saturday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 05 Sep 2026 02:37:19 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 07:19:32 GMT</pubDate>
       <description><![CDATA[49°F. Wind W 0 to 10 mph. Mostly cloudy, with a low around 49. West wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +42,7 @@
       <title>Anchorage Weather: Sunday - Mostly Cloudy then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 05 Sep 2026 02:37:19 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 07:19:32 GMT</pubDate>
       <description><![CDATA[61°F. Wind  0 mph. A chance of rain after 1pm. Mostly cloudy, with a high near 61. North wind around 0 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +50,17 @@
       <title>Anchorage Weather: Sunday Night - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 05 Sep 2026 02:37:19 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 07:19:32 GMT</pubDate>
       <description><![CDATA[49°F. Wind NE 0 to 5 mph. A chance of rain. Cloudy, with a low around 49. Northeast wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Wrangell businesses look for ways to cash in on increased cruise traffic</title>
+      <link>https://www.juneauempire.com/2026/09/04/wrangell-businesses-look-for-ways-to-cash-in-on-increased-cruise-traffic/</link>
+      <guid isPermaLink="false">44634ce55e3d04ab599903bc90e8e41172b97be3</guid>
+      <pubDate>Sat, 05 Sep 2026 03:30:00 GMT</pubDate>
+      <description><![CDATA[From May to September, passengers from almost two dozen different cruise ships spill into Wrangell and recede like the ebb and flow of the tides. On days when the large vessels like the Queen Elizabeth arrive, it’s impossible not to notice. Cruisegoers walk through town, practically doubling the population of the community in minutes, before continuing on to the next port.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Former Bethel judge’s apparent resignation as top public defender remains unconfirmed</title>
@@ -279,12 +295,76 @@
       <category>local</category>
     </item>
     <item>
-      <title>Trump’s newest order on birthright citizenship blocked in federal court</title>
-      <link>https://alaskabeacon.com/2026/09/03/repub/trumps-newest-order-on-birthright-citizenship-blocked-in-federal-court/</link>
-      <guid isPermaLink="false">fc1d2e329d054e8925e720196a4a9d4d773febb5</guid>
-      <pubDate>Thu, 03 Sep 2026 17:05:26 GMT</pubDate>
-      <description><![CDATA[A federal judge in Maryland Wednesday blocked President Donald Trump’s second attempt to redefine birthright citizenship.  In a preliminary injunction, U.S. District Judge Deborah Boardman barred the Trump administration from carrying out the president’s executive order that would deny citizenship to babies born in the United States to parents deemed part of a designated terrorist […]]]></description>
-      <category>local</category>
+      <title>Lindsay Clancy murder trial has divided US on whether she's victim or criminal</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">38bd10b3742afb271e182cd1bb5220cd05ede9a7</guid>
+      <pubDate>Sat, 05 Sep 2026 06:37:46 GMT</pubDate>
+      <description><![CDATA[Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump's response is key as Argentina's Falklands demands get louder</title>
+      <link>https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fc404b940103d3c49315df72ace248226ad415ba</guid>
+      <pubDate>Sat, 05 Sep 2026 06:20:04 GMT</pubDate>
+      <description><![CDATA[With Argentina's President Milei promising "winds of change" over the Falklands, will Donald Trump shift his stance on British rule?]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>At least two dead in blast at Bolivia military barracks</title>
+      <link>https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">07da5d49e7cbeca8884d1665feae01fbce6b182b</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:05 GMT</pubDate>
+      <description><![CDATA[Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Cleveland police chief proud of force but being 'let down' by funding</title>
+      <link>https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">298df717500ad833f4b06eaf9ad501657a72975c</guid>
+      <pubDate>Sat, 05 Sep 2026 05:40:03 GMT</pubDate>
+      <description><![CDATA[Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Nigel on the ropes' and 'Tough first budget' says Healey</title>
+      <link>https://www.bbc.co.uk/news/articles/cgrvgejwgvlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">62f6f95330412e6d1b990f9a6c0a534f44735809</guid>
+      <pubDate>Sat, 05 Sep 2026 05:01:16 GMT</pubDate>
+      <description><![CDATA[The majority of the papers on Saturday focus on Reform UK following the party's annual conference.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Reform promises to increase tax-free personal allowance to £15,000</title>
+      <link>https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">999cf403e4399ec032c68e81b1ce1f1e6e313af6</guid>
+      <pubDate>Sat, 05 Sep 2026 05:00:45 GMT</pubDate>
+      <description><![CDATA[The party says the tax cut will be paid for by reducing public spending by £80bn.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump's peace envoys to visit Moscow and Kyiv over weekend</title>
+      <link>https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">af2f5b8966b4bb1d7ac7469a89ebc7e7df3b8a7f</guid>
+      <pubDate>Sat, 05 Sep 2026 04:28:21 GMT</pubDate>
+      <description><![CDATA[Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>LSU holds off on adding players with NFL ties as SEC lawsuit looms over program, Lane Kiffin</title>
+      <link>https://www.foxnews.com/outkick-sports/lsu-holds-off-adding-players-nfl-ties-sec-lawsuit-looms-program-lane-kiffin</link>
+      <guid isPermaLink="false">435a6c2f158a20ef5261faea04ae5b4ed97e1072</guid>
+      <pubDate>Sat, 05 Sep 2026 04:05:29 GMT</pubDate>
+      <description><![CDATA[Lane Kiffin's LSU Tigers held off adding former Ole Miss players to the roster Friday as the SEC's federal lawsuit and punishment threats intensified.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>All eyes were on USC to see if the Trojans could bounce back from nightmare tiny crowd at season opener</title>
+      <link>https://www.foxnews.com/outkick-sports/usc-trojans-bounce-back-nightmare-tiny-crowd-season-opener</link>
+      <guid isPermaLink="false">22047fb7c9b86fc709c82e5baab23d38c3f54724</guid>
+      <pubDate>Sat, 05 Sep 2026 03:30:19 GMT</pubDate>
+      <description><![CDATA[USC Trojans faced more scrutiny over sparse LA Coliseum crowds against Fresno State, but the stadium filled out by the second quarter on Friday.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Tate brothers charged with further trafficking and sex crimes in Romania</title>
@@ -343,6 +423,14 @@
       <category>world</category>
     </item>
     <item>
+      <title>Michael Owen doesn't tell his children he loves them - how big a deal is that?</title>
+      <link>https://www.bbc.co.uk/news/articles/cddvep5vj7mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a765d58c454a4b81eed46f2f000591202d06e5fc</guid>
+      <pubDate>Sat, 05 Sep 2026 00:19:32 GMT</pubDate>
+      <description><![CDATA[His comments sparked discussions around parenting, gender and culture, and just how important those three simple words are.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Timeline: When Hawaii will start feeling Hurricane Lowell's impacts</title>
       <link>https://www.foxweather.com/weather-news/timeline-when-hawaii-start-feeling-impacts-hurricane-lowell</link>
       <guid isPermaLink="false">f34e72f31d3f7eba6dea382b13311232c81468df</guid>
@@ -365,94 +453,6 @@
       <pubDate>Sat, 05 Sep 2026 00:05:10 GMT</pubDate>
       <description><![CDATA[Video from Ceuta shows migrants pulling a dolphin calf from the water and striking it with a stick as outraged residents tried to intervene on the beach.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>Politician Spencer Pratt calls out actor Ryan Reynolds for condemning 1980s nostalgia</title>
-      <link>https://www.foxnews.com/media/politician-spencer-pratt-calls-actor-ryan-reynolds-condemning-1980s-nostalgia</link>
-      <guid isPermaLink="false">183364e470e2e072c2eaa8b03b431d79e6e56226</guid>
-      <pubDate>Fri, 04 Sep 2026 23:57:12 GMT</pubDate>
-      <description><![CDATA[Spencer Pratt fires back at Ryan Reynolds over his "Mayday" premiere comments, contrasting the anti-hero generation with classic 1980s cinema heroes.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Wheel of Fortune' announcer Jim Thornton terminated after investigation</title>
-      <link>https://www.foxnews.com/entertainment/wheel-fortune-announcer-jim-thornton-terminated-after-investigation</link>
-      <guid isPermaLink="false">5c3db0e495f994cfa05cf9e9582890d0721fe314</guid>
-      <pubDate>Fri, 04 Sep 2026 23:18:31 GMT</pubDate>
-      <description><![CDATA[Jim Thornton's firing from "Wheel of Fortune" follows an investigation and allegations tied to an American Airlines flight incident in May.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Move over, South Beach: 3 quiet Florida beach alternatives to try this Labor Day weekend</title>
-      <link>https://www.foxnews.com/outkick-culture/move-over-south-beach-three-quiet-florida-beach-alternatives-labor-day-weekend</link>
-      <guid isPermaLink="false">5de3f6e813bd9088e62094c93c382d5f551c508a</guid>
-      <pubDate>Fri, 04 Sep 2026 23:15:10 GMT</pubDate>
-      <description><![CDATA[Skip South Beach, Clearwater Beach, and Daytona Beach this Labor Day weekend and try three hidden Florida beaches that locals have sworn by.]]></description>
-      <category>culture</category>
-    </item>
-    <item>
-      <title>Germany's far-right AfD bids for first taste of power in eastern vote</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d86a7d908263a42b012134ce1d0b88829118504c</guid>
-      <pubDate>Fri, 04 Sep 2026 23:07:23 GMT</pubDate>
-      <description><![CDATA[If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>WATCH: Illegal alien busted in battleground state after allegedly committing voter fraud</title>
-      <link>https://www.foxnews.com/politics/watch-illegal-alien-busted-battleground-state-allegedly-committing-voter-fraud</link>
-      <guid isPermaLink="false">c2fe9f8c384537d0ea97378f56e983bcd4d2e55b</guid>
-      <pubDate>Fri, 04 Sep 2026 22:56:03 GMT</pubDate>
-      <description><![CDATA[Exclusive footage obtained by Fox News shows HSI agents executing arrests as the Trump administration ramps up a nationwide crackdown on non-citizen voting ahead of the 2026 midterms.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Cathy Engelbert will be remembered as the commissioner who made the WNBA deeply political and divisive</title>
-      <link>https://www.foxnews.com/outkick-sports/cathy-engelbert-remembered-commissioner-made-wnba-deeply-political-divisive</link>
-      <guid isPermaLink="false">89539348304736dd19f4043b80d0998220d67ca3</guid>
-      <pubDate>Fri, 04 Sep 2026 22:50:04 GMT</pubDate>
-      <description><![CDATA[WNBA Commissioner Cathy Engelbert announced her retirement after 2026, but her seven-year tenure was defined by player clashes and political controversy.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Mysterious $150M superyacht docks in LA with hidden name and magical connection</title>
-      <link>https://www.foxnews.com/travel/mysterious-150m-superyacht-docks-la-hidden-name-magical-connection</link>
-      <guid isPermaLink="false">77dca97a9808ecc398bd66340f62c71dbb4b3cbc</guid>
-      <pubDate>Fri, 04 Sep 2026 22:48:39 GMT</pubDate>
-      <description><![CDATA[Author J.K. Rowling's $150 million superyacht Samsara is reportedly docked in a Los Angeles marina with its name covered, but locals quickly identified the 290-foot vessel.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Mistrial declared in Lindsay Clancy murder case, after jury deadlocks</title>
-      <link>https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ab7c596249805a35d8fd39ca11a693c78256cf36</guid>
-      <pubDate>Fri, 04 Sep 2026 22:48:38 GMT</pubDate>
-      <description><![CDATA[The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The U.N. backs a new world map showing Africa in its true relative size</title>
-      <link>https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote</link>
-      <guid isPermaLink="false">06695b9b5cd64e6b360e227941a0fc68080b9ef8</guid>
-      <pubDate>Fri, 04 Sep 2026 22:26:35 GMT</pubDate>
-      <description><![CDATA[The U.N. has backed a new map showing Africa in its true relative size, with the U.S. standing alone in opposition.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tennis star Aryna Sabalenka stops US Open match because of overwhelming marijuana stench</title>
-      <link>https://www.foxnews.com/outkick-sports/tennis-star-aryna-sabalenka-stops-us-open-match-overwhelming-marijuana-stench</link>
-      <guid isPermaLink="false">c17abcb340e29a7383bc0fe8311fd0ea98e59d22</guid>
-      <pubDate>Fri, 04 Sep 2026 21:50:13 GMT</pubDate>
-      <description><![CDATA[Aryna Sabalenka stopped her US Open match to complain about weed smoke, telling the umpire the smell was "so strong" during her third-round win.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>4 things investigators learned about the dysfunction at Trump's Labor Department</title>
-      <link>https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer</link>
-      <guid isPermaLink="false">32d1271b6f4d61c4ed45f28d49ac693989c3ac3f</guid>
-      <pubDate>Fri, 04 Sep 2026 21:47:19 GMT</pubDate>
-      <description><![CDATA[A report from Labor Department investigators found former Labor Secretary Lori Chavez-DeRemer violated her own department's policy prohibiting harassment. She resigned in April.]]></description>
-      <category>politics</category>
     </item>
     <item>
       <title>Hurricane Marie to bring dangerous surf to California shores, fuel Southwest monsoon threat through Labor Day</title>
