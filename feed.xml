@@ -15,26 +15,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon - Slight Chance Light Rain</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 06 Sep 2026 02:34:24 GMT</pubDate>
-      <description><![CDATA[64°F. Wind S 10 mph. A slight chance of rain before 4pm. Mostly sunny, with a high near 64. South wind around 10 mph. Chance of precipitation is 20%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 06 Sep 2026 02:34:24 GMT</pubDate>
-      <description><![CDATA[50°F. Wind N 0 to 10 mph. Partly cloudy, with a low around 50. North wind 0 to 10 mph.]]></description>
+      <pubDate>Sun, 06 Sep 2026 07:31:57 GMT</pubDate>
+      <description><![CDATA[50°F. Wind N 0 to 5 mph. Partly cloudy, with a low around 50. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Sunday - Mostly Cloudy then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 06 Sep 2026 02:34:24 GMT</pubDate>
+      <pubDate>Sun, 06 Sep 2026 07:31:57 GMT</pubDate>
       <description><![CDATA[61°F. Wind N 5 mph. A chance of rain after 1pm. Mostly cloudy, with a high near 61. North wind around 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +34,7 @@
       <title>Anchorage Weather: Sunday Night - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 06 Sep 2026 02:34:24 GMT</pubDate>
+      <pubDate>Sun, 06 Sep 2026 07:31:57 GMT</pubDate>
       <description><![CDATA[50°F. Wind N 5 mph. Rain likely. Cloudy, with a low around 50. North wind around 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
@@ -50,8 +42,16 @@
       <title>Anchorage Weather: Labor Day - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 06 Sep 2026 02:34:24 GMT</pubDate>
+      <pubDate>Sun, 06 Sep 2026 07:31:57 GMT</pubDate>
       <description><![CDATA[60°F. Wind NE 0 to 5 mph. A chance of rain. Mostly cloudy, with a high near 60. Northeast wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday Night - Chance Light Rain then Rain Showers</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 06 Sep 2026 07:31:57 GMT</pubDate>
+      <description><![CDATA[50°F. Wind SE 0 to 5 mph. A chance of rain before 10pm, then rain showers. Cloudy, with a low around 50. Southeast wind 0 to 5 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -295,6 +295,46 @@
       <category>local</category>
     </item>
     <item>
+      <title>Volcano eruption triggers flight suspensions at Indonesia's main airport</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">de3874786362918f227f775a74dec0bc15e2bb85</guid>
+      <pubDate>Sun, 06 Sep 2026 07:06:50 GMT</pubDate>
+      <description><![CDATA[More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Temperatures could climb to 28C in late burst of warmth</title>
+      <link>https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b7695890616d9ed0a8b549d48a0f89daed343949</guid>
+      <pubDate>Sun, 06 Sep 2026 04:08:41 GMT</pubDate>
+      <description><![CDATA[A summer-like day is in store for some on Sunday with above average temperatures, but the heat will be short-lived.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Michigan Wolverines fend off shocking upset bid from Western Michigan in early season thriller</title>
+      <link>https://www.foxnews.com/outkick-sports/michigan-wolverines-fend-off-shocking-upset-bid-western-michigan-early-season-thriller</link>
+      <guid isPermaLink="false">153ec321d6d4a3a2516f2c685eefa3fbe12a3670</guid>
+      <pubDate>Sun, 06 Sep 2026 03:28:10 GMT</pubDate>
+      <description><![CDATA[Michigan football nearly relived its Appalachian State nightmare as Western Michigan led 12-7 before Bryce Underwood's 46-yard Hail Mary saved the day.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>California pizza joint allegedly used as meth distribution hub as illegal immigrant charged</title>
+      <link>https://www.foxnews.com/us/california-pizza-joint-meth-den-illegal-immigrant</link>
+      <guid isPermaLink="false">437cd15a29147b89e9df7b5c4f8fd896f6a8a02b</guid>
+      <pubDate>Sun, 06 Sep 2026 03:14:52 GMT</pubDate>
+      <description><![CDATA[Kawal Preet Singh allegedly used a Round Table Pizza in Dinuba to distribute over 40 pounds of methamphetamine as part of an organized crime network.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US envoys set for Ukraine talks after meeting Putin in Russia</title>
+      <link>https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5ea7c78ca31e6d4444a7521861d0eb4136f03a7b</guid>
+      <pubDate>Sun, 06 Sep 2026 02:24:16 GMT</pubDate>
+      <description><![CDATA[It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>US envoys set for Ukraine talks after meeting Putin in Moscow</title>
       <link>https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">5ea7c78ca31e6d4444a7521861d0eb4136f03a7b</guid>
@@ -412,46 +452,6 @@
       <guid isPermaLink="false">84a48662e571df0462955d7b96376857fcf3198e</guid>
       <pubDate>Sat, 05 Sep 2026 22:44:07 GMT</pubDate>
       <description><![CDATA[The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>In-N-Out's popular burger style started with a customer request decades ago</title>
-      <link>https://www.foxnews.com/food-drink/in-n-out-popular-burger-style-started-customer-request-decades-ago</link>
-      <guid isPermaLink="false">3b64180c55d662fc00855a49b68fd670eaaef9c1</guid>
-      <pubDate>Sat, 05 Sep 2026 22:34:19 GMT</pubDate>
-      <description><![CDATA[In-N-Out's Animal Style burger traces back to the early 1960s when a customer spotted an associate's custom creation and asked for one just like it.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Somehow, the Miami Hurricanes have done it again with yet another Heisman-level quarterback</title>
-      <link>https://www.foxnews.com/outkick-sports/miami-hurricanes-done-heisman-level-quarterback</link>
-      <guid isPermaLink="false">52626b75a27f3dc95f216544be976826b8a5bdde</guid>
-      <pubDate>Sat, 05 Sep 2026 21:34:22 GMT</pubDate>
-      <description><![CDATA[Darian Mensah's dominant debut at Miami continues a stunning pattern as Mario Cristobal lands yet another elite transfer portal quarterback.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>EXCLUSIVE: FBI's fifth 'Most Wanted Fraudster' captured after alleged SNAP scam suspect arrested in India</title>
-      <link>https://www.foxnews.com/us/exclusive-fbis-fifth-most-wanted-fraudster-captured-alleged-snap-scam-suspect-arrested-india</link>
-      <guid isPermaLink="false">669f43d54a95fe8513b74af2cfcd434cb31059cf</guid>
-      <pubDate>Sat, 05 Sep 2026 21:31:35 GMT</pubDate>
-      <description><![CDATA[Manjit Singh Bedi was arrested in India after allegedly fleeing the U.S. to escape SNAP benefits fraud charges tied to a $600,000 EBT scheme.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Former Pentagon AI chief warns Flock cameras could create 'China-like surveillance state' in the US</title>
-      <link>https://www.foxnews.com/media/former-pentagon-ai-chief-warns-flock-cameras-could-create-china-like-surveillance-state-us</link>
-      <guid isPermaLink="false">e2a252de48ca64c4c8470f49ccda30b6a3a3d09a</guid>
-      <pubDate>Sat, 05 Sep 2026 21:30:31 GMT</pubDate>
-      <description><![CDATA[Former Pentagon AI Policy Director Mark Beall warns Flock cameras could create a "China-like surveillance state" without strict court oversight.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>TV presenter among 11 sentenced to death in Egypt drugs case</title>
-      <link>https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d31b4f8c9165c36dc7d8dc90245a9c33c96b655e</guid>
-      <pubDate>Sat, 05 Sep 2026 21:29:38 GMT</pubDate>
-      <description><![CDATA[Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.]]></description>
       <category>world</category>
     </item>
     <item>
