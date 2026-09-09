@@ -1,5 +1,25 @@
 [
   {
+    "title": "Severe storms, flooding threaten same areas slammed just a week ago across 1,000-mile stretch",
+    "link": "https://www.foxweather.com/weather-news/severe-storms-target-1000-mile-stretch-new-york-plains",
+    "description": "Another round of severe weather will develop Wednesday along a 1,000-mile stretch from Upstate New York to the Central Plains.",
+    "pubDate": "Wed, 09 Sep 2026 03:03:17 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Malibu declares emergency as coastal erosion forces evacuations, triggers sinkhole at celebrity property",
+    "link": "https://www.foxweather.com/weather-news/california-coast-battered-coastal-erosion-sinkhole-celebrity-driveway",
+    "description": "Powerful surf from Hurricane Marie battered California's coastline, accelerating coastal erosion that forced the evacuation of oceanfront homes in Long Beach, damaged infrastructure and triggered a sinkhole and gas leak at a Malibu property owned by actor Nicolas Cage.",
+    "pubDate": "Wed, 09 Sep 2026 02:37:16 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "California coastal erosion forces home evacuations, triggers sinkhole at celebrity's Malibu property",
     "link": "https://www.foxweather.com/weather-news/california-coast-battered-coastal-erosion-sinkhole-celebrity-driveway",
     "description": "Powerful surf from Hurricane Marie battered California's coastline, accelerating coastal erosion that forced the evacuation of oceanfront homes in Long Beach, damaged infrastructure and triggered a sinkhole and gas leak at a Malibu property owned by actor Nicolas Cage.",
@@ -300,6 +320,16 @@
     "rank": 100
   },
   {
+    "title": "Daylight reveals utter devastation as powerful Lowell makes rare direct hit on Hawaii",
+    "link": "https://www.foxweather.com/weather-news/hurricane-lowell-hawaii-kauai-rain-flood-surf-wind",
+    "description": "Powerful former Hurricane Lowell made a rare direct hit on Hawaii's western islands Monday night as rain and wind continue to blast the state, and thousands of customers are still without power on both Kaua'i and Oahu, the state's most populous island.",
+    "pubDate": "Mon, 07 Sep 2026 09:53:30 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "Daylight reveals utter devastation as powerful Hurricane Lowell makes rare direct hit on Hawaii",
     "link": "https://www.foxweather.com/weather-news/hurricane-lowell-hawaii-kauai-rain-flood-surf-wind",
     "description": "Powerful Category 1 Hurricane Lowell made a rare direct hit on Hawaii's western islands Monday night as rain and wind continue to blast the state, and thousands of customers are still without power on both Kaua'i and Oahu, the state's most populous island.",
@@ -370,34 +400,144 @@
     "rank": 100
   },
   {
-    "title": "Man Driving While at Four Times Legal Limit Arrested on Kenai Peninsula",
-    "link": "https://alaska-native-news.com/man-driving-while-at-four-times-legal-limit-arrested-on-kenai-peninsula/86118/",
-    "description": "On Thursday, just before 3 pm, Alaska Wildlife Troopers (AWT) observed a white pickup truck in the ditch near the intersection of Swanson River Road and Jacobson Avenue. Troopers contacted the driver, identified as 50-year-old Jason Daniels, and observed signs consistent with alcohol impairment. Daniels was asked to perform standardized field sobriety tests (SFSTs), which [\u2026]",
-    "pubDate": "Sun, 06 Sep 2026 20:01:34 GMT",
-    "category": "kenai",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Appeals court upholds order blocking IRS from sharing taxpayer data with ICE",
+    "link": "https://www.foxnews.com/politics/appeals-court-upholds-order-blocking-irs-sharing-taxpayer-data-ice",
+    "description": "A federal appeals court upheld an injunction blocking the IRS from sharing taxpayer information with ICE, ruling the policy violated tax confidentiality laws.",
+    "pubDate": "Wed, 09 Sep 2026 06:45:32 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Beloved Ohio high school coach dies after being struck by lightning while mowing the lawn",
-    "link": "https://www.foxweather.com/weather-news/beloved-high-school-coach-dies-struck-lightning-ohio",
-    "description": "A longtime high school coach has died in a freak accident after being struck by lightning while cutting his lawn on Friday. The man's death marks the 14th lightning fatality of the year in the U.S.",
-    "pubDate": "Sun, 06 Sep 2026 19:41:19 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Funeral for officer killed in crash to take place",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy3lyxd6zo?at_medium=RSS&at_campaign=rss",
+    "description": "PC Matthew Blades' family say he brought light and laughter into every room.",
+    "pubDate": "Wed, 09 Sep 2026 06:34:26 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
-    "title": "Several days of heavy rain and thunderstorms to persist across the Gulf Coast",
-    "link": "https://www.foxweather.com/weather-news/rain-thunderstorms-persist-southeast-gulf-coast",
-    "description": "The cold front moving across the Southeast this weekend is expected to stall near the Gulf Coast, fueling a prolonged period of heavy rain.",
-    "pubDate": "Sun, 06 Sep 2026 19:40:44 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+    "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+    "description": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+    "pubDate": "Wed, 09 Sep 2026 06:28:57 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "TSA brings back gate access for some people without plane tickets 25 years after 9/11",
+    "link": "https://www.npr.org/2026/09/09/g-s1-142480/tsa-gate-access-25-years-after-9-11",
+    "description": "The move is a start toward reviving a tradition that largely disappeared after the Sept. 11, 2001, attacks 25 years ago this week.",
+    "pubDate": "Wed, 09 Sep 2026 05:41:56 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "South Park creators rename show 'South America' in apparent dig at Trump",
+    "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
+    "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
+    "pubDate": "Wed, 09 Sep 2026 05:39:16 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+    "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+    "description": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.",
+    "pubDate": "Wed, 09 Sep 2026 05:20:45 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+    "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+    "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
+    "pubDate": "Wed, 09 Sep 2026 04:59:08 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Senator's daughter wins Democratic nod in closely watched race to replace outgoing Dem incumbent",
+    "link": "https://www.foxnews.com/politics/senators-daughter-wins-democratic-nod-closely-watched-race-replace-outgoing-dem",
+    "description": "Stefany Shaheen defeated Maura Sullivan and a crowded Democratic field in the NH primary to replace Chris Pappas, who is pursuing a Senate bid.",
+    "pubDate": "Wed, 09 Sep 2026 04:53:46 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Hong Kong's first leader after British handover dies",
+    "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+    "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.",
+    "pubDate": "Wed, 09 Sep 2026 04:24:30 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "State of play: Retiring Dem senator\u2019s daughter holds slight lead in closely watched race",
+    "link": "https://www.foxnews.com/politics/retiring-dem-senators-daughter-holds-slight-lead-closely-watched-race",
+    "description": "Stefany Shaheen and Maura Sullivan remain locked in a too-close-to-call New Hampshire primary as Chris Pappas vacates the seat for a Senate bid.",
+    "pubDate": "Wed, 09 Sep 2026 04:22:29 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Data shows Amazon jet\u2019s key braking systems did not deploy during deadly Miami crash: NTSB",
+    "link": "https://www.foxnews.com/us/data-shows-amazon-jets-key-braking-systems-did-not-deploy-deadly-miami-crash-ntsb",
+    "description": "The NTSB said the cargo jet\u2019s wheel brakes were applied, but its speed brakes and thrust reversers did not deploy, according to available data.",
+    "pubDate": "Wed, 09 Sep 2026 04:07:13 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "LSU leaves former pro-athletes off final roster, one night before SEC takes Lane Kiffin and Tigers to court",
+    "link": "https://www.foxnews.com/outkick-sports/lsu-leaves-former-pro-athletes-off-final-roster-one-night-before-sec-takes-lane-kiffin-tigers-court",
+    "description": "The LSU Tigers finalized their 105-player roster without former Ole Miss players Dae'Quan Wright and Zxavian Harris amid the ongoing SEC lawsuit.",
+    "pubDate": "Wed, 09 Sep 2026 03:01:20 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "LIV Golf files for bankruptcy after Saudi fund pulls support, leaving players owed millions in unpaid money",
+    "link": "https://www.foxnews.com/outkick-sports/liv-golf-files-bankruptcy-saudi-fund-pulls-support-leaving-players-owed-millions-unpaid-money",
+    "description": "LIV Golf filed for Chapter 11 bankruptcy in New Jersey after Saudi Arabia's Public Investment Fund halted funding to focus on domestic projects.",
+    "pubDate": "Wed, 09 Sep 2026 03:00:26 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
+    "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+    "description": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats.",
+    "pubDate": "Wed, 09 Sep 2026 02:59:38 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
     "title": "Aaron Judge held hitless in long-awaited return to New York Yankees lineup from rib fracture",
@@ -460,160 +600,20 @@
     "rank": 10
   },
   {
-    "title": "Wild US Open doubles match devolves into player box taunts, a cold net snub, utter chaos",
-    "link": "https://www.foxnews.com/outkick-sports/wild-us-open-doubles-match-devolves-player-box-taunts-cold-net-snub-utter-chaos",
-    "description": "Hsieh Su-wei and Chan Hao-ching's decade-long feud exploded at the US Open with mid-match taunts, an umpire confrontation, and a brutal handshake snub.",
-    "pubDate": "Wed, 09 Sep 2026 01:24:31 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Massive alligator attacks young swimmer in nature preserve despite posted warning",
-    "link": "https://www.foxnews.com/travel/massive-alligator-attacks-young-swimmer-nature-preserve-despite-posted-warning",
-    "description": "A 9-to-12-foot alligator bit a young swimmer at Weeki Wachee Preserve in a no-swimming zone in Florida, leaving the group stranded on a sandbar in the water.",
-    "pubDate": "Wed, 09 Sep 2026 01:16:09 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "US slaps import ban on Canadian alcohol and other goods",
-    "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-    "description": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
-    "pubDate": "Wed, 09 Sep 2026 01:09:15 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Wife of top ex-Biden advisor easily advances to House showdown in November",
-    "link": "https://www.foxnews.com/politics/wife-top-ex-biden-advisor-easily-advances-house-showdown-november",
-    "description": "Maggie Goodlander faced challenger Paige Beauchemin in the New Hampshire Democratic primary as the district braces for a reshaped political map.",
-    "pubDate": "Wed, 09 Sep 2026 00:44:29 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
-    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-    "description": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran.",
-    "pubDate": "Wed, 09 Sep 2026 00:41:53 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Ex-NFL star believes Mike McDaniel's 'best decision of his career' was joining Chargers with Justin Herbert",
-    "link": "https://www.foxnews.com/outkick-sports/ex-nfl-star-believes-mike-mcdaniels-best-decision-career-joining-chargers-justin-herbert",
-    "description": "Shawne Merriman said Mike McDaniel's explosive scheme could unlock a new gear for Justin Herbert and the Los Angeles Chargers' playoff hopes.",
-    "pubDate": "Wed, 09 Sep 2026 00:37:28 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Trump-backed candidate wins high-stakes GOP primary for New Hampshire battleground district",
-    "link": "https://www.foxnews.com/politics/trump-backed-candidate-wins-high-stakes-gop-primary-new-hampshire-battleground-district",
-    "description": "Donald Trump endorsed Anthony DiLorenzo defeated Novel Iron Works owner Hollie Noveletsky and state Rep. Brian Cole to clinch the GOP nomination for the Granite State's 1st Congressional District.",
-    "pubDate": "Wed, 09 Sep 2026 00:30:09 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Cold case takes grim turn after remains identified as runaway teen; homicide investigation underway",
-    "link": "https://www.foxnews.com/us/cold-case-takes-grim-turn-after-remains-identified-runaway-teen-homicide-investigation-underway",
-    "description": "Advanced DNA testing and genetic genealogy identified remains found near a North Carolina manufacturing facility as those of a Maryland teen who vanished in 1977.",
-    "pubDate": "Wed, 09 Sep 2026 00:23:01 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Very hot drinks may damage the food pipe and increase cancer risk",
-    "link": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
-    "description": "Steaming hot liquid can damage the cell lining on the way down to the stomach, experts say.",
-    "pubDate": "Tue, 08 Sep 2026 23:30:39 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-    "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-    "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
-    "pubDate": "Tue, 08 Sep 2026 23:27:23 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "The trail of clues that our planet might be heating faster than we realised",
-    "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
-    "description": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
-    "pubDate": "Tue, 08 Sep 2026 23:11:52 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
-    "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-    "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
-    "pubDate": "Tue, 08 Sep 2026 23:11:32 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Baker Mayfield and Buccaneers go from being at odds at start of camp to a monster contract to start season",
-    "link": "https://www.foxnews.com/outkick-sports/baker-mayfield-buccaneers-odds-start-camp-monster-contract-season",
-    "description": "Baker Mayfield's $165 million Buccaneers extension ties him with Joe Burrow and Josh Allen as the NFL's third-highest-paid quarterbacks overall.",
-    "pubDate": "Tue, 08 Sep 2026 22:33:56 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "MAC files appeal to FBS committee to overturn Western Michigan-Michigan game, declare Broncos as winners",
-    "link": "https://www.foxnews.com/outkick-sports/mac-files-appeal-fbs-committee-overturn-western-michigan-michigan-game-declare-broncos-winners",
-    "description": "The MAC filed a formal NCAA appeal claiming the Western Michigan Broncos should be recognized as winners after a replay protocol error at Michigan.",
-    "pubDate": "Tue, 08 Sep 2026 22:30:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: Tonight - Showers And Thunderstorms Likely then Mostly Cloudy",
+    "title": "Anchorage Weather: Tonight - Partly Cloudy then Patchy Fog",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "47\u00b0F. Wind S 0 to 5 mph. Showers and thunderstorms likely before 10pm. Mostly cloudy, with a low around 47. South wind 0 to 5 mph. Chance of precipitation is 70%.",
-    "pubDate": "Wed, 09 Sep 2026 02:44:48 GMT",
+    "description": "47\u00b0F. Wind S 5 mph. Patchy fog after 1am. Partly cloudy, with a low around 47. South wind around 5 mph.",
+    "pubDate": "Wed, 09 Sep 2026 07:47:54 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Wednesday - Mostly Sunny",
+    "title": "Anchorage Weather: Wednesday - Patchy Fog then Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "61\u00b0F. Wind SW 0 to 5 mph. Mostly sunny, with a high near 61. Southwest wind 0 to 5 mph.",
-    "pubDate": "Wed, 09 Sep 2026 02:44:48 GMT",
+    "description": "63\u00b0F. Wind SW 0 to 5 mph. Patchy fog before 10am. Mostly sunny, with a high near 63. Southwest wind 0 to 5 mph.",
+    "pubDate": "Wed, 09 Sep 2026 07:47:54 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -622,8 +622,8 @@
   {
     "title": "Anchorage Weather: Wednesday Night - Mostly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "44\u00b0F. Wind E 0 to 5 mph. Mostly cloudy, with a low around 44. East wind 0 to 5 mph.",
-    "pubDate": "Wed, 09 Sep 2026 02:44:48 GMT",
+    "description": "43\u00b0F. Wind SE 0 to 5 mph. Mostly cloudy, with a low around 43. Southeast wind 0 to 5 mph.",
+    "pubDate": "Wed, 09 Sep 2026 07:47:54 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -632,8 +632,8 @@
   {
     "title": "Anchorage Weather: Thursday - Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "62\u00b0F. Wind  0 mph. Partly sunny, with a high near 62. South wind around 0 mph.",
-    "pubDate": "Wed, 09 Sep 2026 02:44:48 GMT",
+    "description": "61\u00b0F. Wind S 0 to 5 mph. Partly sunny, with a high near 61. South wind 0 to 5 mph.",
+    "pubDate": "Wed, 09 Sep 2026 07:47:54 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -642,8 +642,8 @@
   {
     "title": "Anchorage Weather: Thursday Night - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "44\u00b0F. Wind  0 mph. Partly cloudy, with a low around 44. East wind around 0 mph.",
-    "pubDate": "Wed, 09 Sep 2026 02:44:48 GMT",
+    "description": "44\u00b0F. Wind SE 0 to 5 mph. Partly cloudy, with a low around 44. Southeast wind 0 to 5 mph.",
+    "pubDate": "Wed, 09 Sep 2026 07:47:54 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
