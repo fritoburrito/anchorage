@@ -5,20 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 02:40:10 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Partly Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 02:40:10 GMT</pubDate>
-      <description><![CDATA[61°F. Wind  0 mph. Partly sunny, with a high near 61. Wind around 0 mph.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Fri, 11 Sep 2026 07:42:13 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 02:40:10 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 07:42:13 GMT</pubDate>
       <description><![CDATA[42°F. Wind NE 0 to 5 mph. Partly cloudy, with a low around 42. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,25 +18,41 @@
       <title>Anchorage Weather: Friday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 02:40:10 GMT</pubDate>
-      <description><![CDATA[61°F. Wind S 0 to 5 mph. Sunny, with a high near 61. South wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 11 Sep 2026 07:42:13 GMT</pubDate>
+      <description><![CDATA[61°F. Wind SE 0 to 5 mph. Sunny, with a high near 61. Southeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Friday Night - Mostly Cloudy then Chance Light Rain</title>
+      <title>Anchorage Weather: Friday Night - Mostly Cloudy then Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 02:40:10 GMT</pubDate>
-      <description><![CDATA[51°F. Wind W 0 to 5 mph. A chance of rain after 1am. Mostly cloudy, with a low around 51. West wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Fri, 11 Sep 2026 07:42:13 GMT</pubDate>
+      <description><![CDATA[51°F. Wind N 0 to 5 mph. Rain likely after 4am. Mostly cloudy, with a low around 51. North wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday - Chance Light Rain</title>
+      <title>Anchorage Weather: Saturday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 02:40:10 GMT</pubDate>
-      <description><![CDATA[62°F. Wind  0 mph. A chance of rain before 4pm. Mostly cloudy, with a high near 62. North wind around 0 mph. Chance of precipitation is 50%.]]></description>
+      <pubDate>Fri, 11 Sep 2026 07:42:13 GMT</pubDate>
+      <description><![CDATA[62°F. Wind  0 mph. Rain likely before 1pm, then a slight chance of rain showers between 1pm and 4pm. Mostly cloudy, with a high near 62. North wind around 0 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Saturday Night - Partly Cloudy</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Fri, 11 Sep 2026 07:42:13 GMT</pubDate>
+      <description><![CDATA[48°F. Wind NW 0 to 5 mph. Partly cloudy, with a low around 48. Northwest wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Newscast – Thursday, Sept. 10, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17444967/newscast-thursday-sept-10-2026</link>
+      <guid isPermaLink="false">9c95c6963616ba7d7ff3976bf62739a27c7fc492</guid>
+      <pubDate>Fri, 11 Sep 2026 01:06:03 GMT</pubDate>
+      <description><![CDATA[In this newscast: Black bears feasted at Juneau's dump all summer after the company that owns it took down a portion of the wildlife fence for construction; A Lingít opera, nearly a decade in the making, is debuting in Juneau this Friday; More young people in Alaska died of suicide in 2025 than in any other year in the past decade; A University of Alaska Southeast student used music to present data collected from a watershed in Juneau.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Alaska gubernatorial candidates vow support for the seafood industry while revealing some splits</title>
@@ -287,12 +295,108 @@
       <category>local</category>
     </item>
     <item>
-      <title>Newscast – Wednesday, Sept. 9, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17443922/newscast-wednesday-sept-9-2026</link>
-      <guid isPermaLink="false">50dc84c3f0dee654ce90f2918f7de491ca575068</guid>
-      <pubDate>Thu, 10 Sep 2026 01:01:14 GMT</pubDate>
-      <description><![CDATA[In this newscast: The union representing support staff at the Juneau School District is scheduled to go to trial in February; The Skagway ferry terminal is on track to reopen on Thursday, nearly a month after state ferry service to the popular tourist destination stopped abruptly in mid-August; The Arctic Report Card has found a new group of supporters; Joel Jackson, longtime Haida and Lingít advocate and president of the Organized Village of Kake, died in August at age 70.]]></description>
-      <category>local</category>
+      <title>Why Houthi military gains in Yemen may further increase gas prices</title>
+      <link>https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices</link>
+      <guid isPermaLink="false">d4c934c3557d8a56a4c11f88cdb20335bc706ad5</guid>
+      <pubDate>Fri, 11 Sep 2026 07:32:27 GMT</pubDate>
+      <description><![CDATA[A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>UK economy grew faster than expected in July</title>
+      <link>https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f4bea1bbe107da658e7d94628d02dcf04c2cd542</guid>
+      <pubDate>Fri, 11 Sep 2026 07:22:37 GMT</pubDate>
+      <description><![CDATA[The economy expanded by 0.4%, official figures show, whereas economists had predicted no growth.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Princess Diana's 'revenge dress' goes up for auction</title>
+      <link>https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e4de6ed93979c65450d01d17413d0f57ac3c178f</guid>
+      <pubDate>Fri, 11 Sep 2026 06:54:46 GMT</pubDate>
+      <description><![CDATA[Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hong Kong court sentences 3 Tiananmen vigil organizers to prison</title>
+      <link>https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers</link>
+      <guid isPermaLink="false">ef49b8ead0de121a2c61c11180332f7faf0c7bd3</guid>
+      <pubDate>Fri, 11 Sep 2026 06:42:04 GMT</pubDate>
+      <description><![CDATA[The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Man jailed after threatening to kill son's teacher in French village</title>
+      <link>https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f388562125351cb0d069fa957b4ff830bed271cb</guid>
+      <pubDate>Fri, 11 Sep 2026 06:28:42 GMT</pubDate>
+      <description><![CDATA[The father had threatened to behead a female primary school teacher near Toulouse.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Legalised dying bill for England and Wales faces new vote in Commons</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f154ec95e944c3afb1654bfca6884c36007e5ece</guid>
+      <pubDate>Fri, 11 Sep 2026 06:12:23 GMT</pubDate>
+      <description><![CDATA[The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>As Trump dominates convention, some Republicans quietly ask who comes next</title>
+      <link>https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">bb62c7d1099ce7fd3df75334dbb99659b5297455</guid>
+      <pubDate>Fri, 11 Sep 2026 06:10:59 GMT</pubDate>
+      <description><![CDATA[The convention offered a stark reminder that the Trump era is heading toward its final chapter, the BBC's Washington correspondent Daniel Bush writes.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iran-backed Houthi rebels seize strategic Red Sea port in Yemen</title>
+      <link>https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port</link>
+      <guid isPermaLink="false">e34ce2d53e559e16b2e2b6f0ee8d311271a573e1</guid>
+      <pubDate>Fri, 11 Sep 2026 05:40:21 GMT</pubDate>
+      <description><![CDATA[The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rayner defends pause to local council overhaul</title>
+      <link>https://www.bbc.co.uk/news/articles/cwyz9jlqrj4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">76ff10bcccf6899cf9d198409cbee74f2de98e11</guid>
+      <pubDate>Fri, 11 Sep 2026 04:51:05 GMT</pubDate>
+      <description><![CDATA[The cabinet minister tells the BBC she wanted to ensure the plans could survive potential legal actions.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rams' disaster in Australia raises the question: Should the team have followed the 49ers there earlier?</title>
+      <link>https://www.foxnews.com/outkick-sports/rams-disaster-australia-raises-question-should-team-followed-49ers-earlier</link>
+      <guid isPermaLink="false">b6db811fdf30185b7e32c89b232dab6245853ee3</guid>
+      <pubDate>Fri, 11 Sep 2026 04:05:23 GMT</pubDate>
+      <description><![CDATA[Matthew Stafford and the Los Angeles Rams looked gassed in a 27-7 loss to the San Francisco 49ers in Melbourne as their travel strategy faces scrutiny.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>‘I’m coming home’: Last words haunt a 9/11 daughter 25 years later as she builds a legacy in his honor</title>
+      <link>https://www.foxnews.com/us/im-coming-home-last-words-haunt-911-daughter-25-years-later-builds-legacy-his-honor</link>
+      <guid isPermaLink="false">31aef1317890bee7b22443c40a187a4296457a98</guid>
+      <pubDate>Fri, 11 Sep 2026 04:00:47 GMT</pubDate>
+      <description><![CDATA[Kayla Fallon Smith lost her father in the 9/11 World Trade Center attacks at age 8 and now runs a nonprofit offering equine therapy to veterans.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>American Jessica Pegula falls to top-ranked Aryna Sabalenka in straight sets in US Open semifinal</title>
+      <link>https://www.foxnews.com/outkick-sports/american-jessica-pegula-falls-top-ranked-aryna-sabalenka-straight-sets-us-open-semifinal</link>
+      <guid isPermaLink="false">61aa2ba5fc055c18139769de6ca31ce9debb7853</guid>
+      <pubDate>Fri, 11 Sep 2026 03:10:31 GMT</pubDate>
+      <description><![CDATA[Aryna Sabalenka dominated Jessica Pegula with 29 winners to reach the U.S. Open final, where Coco Gauff or Elena Rybakina awaits Saturday night.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Anthropic blocks 'malicious use' of AI that could develop biological weapons</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">68c3fe310973ffe070f85bb499c6995990bcc98d</guid>
+      <pubDate>Fri, 11 Sep 2026 02:46:30 GMT</pubDate>
+      <description><![CDATA[The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Megan Rapinoe says women’s sports are facing ‘regression’ of ‘equal rights’ in new Kamala Harris interview</title>
@@ -356,110 +460,6 @@
       <guid isPermaLink="false">630a86f9c03ccdaaab51705b4db09172eeaee27f</guid>
       <pubDate>Fri, 11 Sep 2026 01:50:26 GMT</pubDate>
       <description><![CDATA[Sgt. Nekime Matu Oxendine is accused of fatally shooting Cumberland County Sheriff’s Capt. Adam Bean after a confrontation outside a woman’s home.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump tells Dallas crowd the Luka Dončić trade 'might go down as the worst in sports history'</title>
-      <link>https://www.foxnews.com/outkick-sports/trump-tells-dallas-crowd-luka-doncic-trade-might-go-down-worst-sports-history</link>
-      <guid isPermaLink="false">10ee631e299e6981b4dde8555c6a0a4428953743</guid>
-      <pubDate>Fri, 11 Sep 2026 01:36:19 GMT</pubDate>
-      <description><![CDATA[President Donald Trump roasted the Dallas Mavericks for trading Luka Dončić to the Los Angeles Lakers, joking they should 'redo' it if they could]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Restaurant chain once frequented by Kardashians files for bankruptcy after 36 years</title>
-      <link>https://www.foxnews.com/food-drink/restaurant-chain-once-frequented-kardashians-files-bankruptcy-after-36-years</link>
-      <guid isPermaLink="false">6f0a404ce8345275d0f5561c6b70d26c3fce70fa</guid>
-      <pubDate>Fri, 11 Sep 2026 01:36:05 GMT</pubDate>
-      <description><![CDATA[A 36-year-old Southern California brunch chain filed for Chapter 11 bankruptcy, owing over $1 million after rent disputes and construction woes forced multiple closures.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sold out Melbourne crowd stands for 25th anniversary commemoration of 9/11 at NFL's first Australia game</title>
-      <link>https://www.foxnews.com/outkick-sports/sold-out-melbourne-crowd-stands-25th-anniversary-commemoration-9-11-nfl-first-australia-game</link>
-      <guid isPermaLink="false">472430bd51465c8b374074357f32d6d2c2a9d04f</guid>
-      <pubDate>Fri, 11 Sep 2026 01:25:24 GMT</pubDate>
-      <description><![CDATA[The sold-out Melbourne Cricket Ground crowd stood for a sobering 9/11 tribute before the Los Angeles Rams faced the San Francisco 49ers in Australia.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Undercover video exposes Dem Senate nominee's plan to embrace socialists: 'Got to be together'</title>
-      <link>https://www.foxnews.com/politics/undercover-video-exposes-dem-senate-nominees-plan-embrace-socialists-got-to-be-together</link>
-      <guid isPermaLink="false">c57d3c79616cb66885424fc66f3d392cbc6779cb</guid>
-      <pubDate>Thu, 10 Sep 2026 23:30:09 GMT</pubDate>
-      <description><![CDATA[Roy Cooper's North Carolina Senate race heats up as the former governor rejects calls to repudiate Democratic Socialists of America's influence.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>WWE star Nattie explains in-ring character amid Ronda Rousey comparisons, would entertain MMA bout</title>
-      <link>https://www.foxnews.com/outkick-sports/wwe-star-nattie-explains-in-ring-character-amid-ronda-rousey-comparisons-would-entertain-mma-bout</link>
-      <guid isPermaLink="false">56d7b200e64b3eb9dea14b9806cfa58190acdaf3</guid>
-      <pubDate>Thu, 10 Sep 2026 23:27:20 GMT</pubDate>
-      <description><![CDATA[Nattie says her WWE character comes from Stu Hart's Dungeon, not Ronda Rousey, as she prepares for AAA Triplemania 34 in Las Vegas.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas</title>
-      <link>https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">858afc7f61c6ed5a6368ded02a0616f33b520748</guid>
-      <pubDate>Thu, 10 Sep 2026 23:22:11 GMT</pubDate>
-      <description><![CDATA[Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt</title>
-      <link>https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">31c872e75627f8bed56bd087ef65bee6604ee16e</guid>
-      <pubDate>Thu, 10 Sep 2026 23:21:00 GMT</pubDate>
-      <description><![CDATA[Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Falcons quarterback problems deepen as Tua Tagovailoa suffers oblique strain at practice</title>
-      <link>https://www.foxnews.com/outkick-sports/falcons-quarterback-problems-deepen-tua-tagovailoa-suffers-oblique-strain-practice</link>
-      <guid isPermaLink="false">92262c1696aa43ebc9f2300220604ab8bb9a3270</guid>
-      <pubDate>Thu, 10 Sep 2026 23:20:03 GMT</pubDate>
-      <description><![CDATA[Tua Tagovailoa's oblique strain at practice thrust Cooper Rush into first-team reps as the Atlanta Falcons face a potential Week 1 quarterback crisis.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bioweapon threat exposed as Anthropic sounds alarm on foreign actors plotting virus experiments</title>
-      <link>https://www.foxnews.com/politics/bioweapon-threat-exposed-anthropic-sounds-alarm-foreign-actors-plotting-virus-experiments</link>
-      <guid isPermaLink="false">5572a08face5c92e180604f99ccff745af0038cf</guid>
-      <pubDate>Thu, 10 Sep 2026 22:57:34 GMT</pubDate>
-      <description><![CDATA[Researchers outside the United States used Anthropic's Claude to plan gain-of-function experiments on bird flu, chikungunya and dangerous toxins.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Texas A&amp;M's Mike Elko describes fight between LSU, SEC over former NFL players as 'parenting'</title>
-      <link>https://www.foxnews.com/outkick-sports/texas-am-mike-elko-describes-fight-lsu-sec-former-nfl-players-parenting</link>
-      <guid isPermaLink="false">48a01a46754028c7c1ba83599b0eb815b8507c1c</guid>
-      <pubDate>Thu, 10 Sep 2026 22:50:46 GMT</pubDate>
-      <description><![CDATA[Mike Elko compared the SEC's clash with Lane Kiffin and the LSU Tigers to parenting, saying the school backed down once "dad raised his voice."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence</title>
-      <link>https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">080cb506fc9ea77ce21bf13b598df41a0e76794c</guid>
-      <pubDate>Thu, 10 Sep 2026 22:48:37 GMT</pubDate>
-      <description><![CDATA[The senator has also proposed a sort of sovereign wealth fund in which the US would take a 50% stake in AI companies.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Prosecutor Joseph diGenova resigns from DOJ role investigating Trump-Russia probes</title>
-      <link>https://www.foxnews.com/politics/prosecutor-joseph-digenova-resigns-from-doj-role-investigating-trump-russia-probes</link>
-      <guid isPermaLink="false">2e6e55799839123461ad0a6d0843401737bbca1a</guid>
-      <pubDate>Thu, 10 Sep 2026 22:46:19 GMT</pubDate>
-      <description><![CDATA[Joseph diGenova resigned from his Justice Department role investigating the alleged "Grand Conspiracy" surrounding the Trump-Russia investigations.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dolly Parton’s sister reveals ‘last thing’ country legend asked of her before death</title>
-      <link>https://www.foxnews.com/entertainment/dolly-partons-sister-reveals-last-thing-country-legend-asked-her-before-death</link>
-      <guid isPermaLink="false">a08bda9338acb24baa6579035c44e6402ec77efa</guid>
-      <pubDate>Thu, 10 Sep 2026 22:17:25 GMT</pubDate>
-      <description><![CDATA[Stella Parton said that prayer was the last thing her sister, Dolly Parton, asked for before her death from a brief battle with cancer.]]></description>
       <category>world</category>
     </item>
     <item>
