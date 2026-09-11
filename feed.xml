@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:42:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:31:14 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Tonight - Partly Cloudy</title>
+      <title>Anchorage Weather: Overnight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 07:42:13 GMT</pubDate>
-      <description><![CDATA[42°F. Wind NE 0 to 5 mph. Partly cloudy, with a low around 42. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 11 Sep 2026 12:31:14 GMT</pubDate>
+      <description><![CDATA[42°F. Wind  0 mph. Partly cloudy. Low around 42, with temperatures rising to around 48 overnight. Northeast wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 07:42:13 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 12:31:14 GMT</pubDate>
       <description><![CDATA[61°F. Wind SE 0 to 5 mph. Sunny, with a high near 61. Southeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,25 +26,33 @@
       <title>Anchorage Weather: Friday Night - Mostly Cloudy then Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 07:42:13 GMT</pubDate>
-      <description><![CDATA[51°F. Wind N 0 to 5 mph. Rain likely after 4am. Mostly cloudy, with a low around 51. North wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Fri, 11 Sep 2026 12:31:14 GMT</pubDate>
+      <description><![CDATA[52°F. Wind N 0 to 5 mph. Rain likely after 4am. Mostly cloudy, with a low around 52. North wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 07:42:13 GMT</pubDate>
-      <description><![CDATA[62°F. Wind  0 mph. Rain likely before 1pm, then a slight chance of rain showers between 1pm and 4pm. Mostly cloudy, with a high near 62. North wind around 0 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Fri, 11 Sep 2026 12:31:14 GMT</pubDate>
+      <description><![CDATA[61°F. Wind  0 mph. Rain likely before 1pm, then a slight chance of rain showers between 1pm and 4pm. Mostly cloudy, with a high near 61. North wind around 0 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 07:42:13 GMT</pubDate>
-      <description><![CDATA[48°F. Wind NW 0 to 5 mph. Partly cloudy, with a low around 48. Northwest wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 11 Sep 2026 12:31:14 GMT</pubDate>
+      <description><![CDATA[49°F. Wind NW 0 to 5 mph. Partly cloudy, with a low around 49. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>LETTER: Use Mendenhall Lake to buffer the flood</title>
+      <link>https://www.juneauempire.com/2026/09/11/letter-use-mendenhall-lake-to-buffer-the-flood/</link>
+      <guid isPermaLink="false">2716a00d35f6645b12edaf62f5861740c7e5df45</guid>
+      <pubDate>Fri, 11 Sep 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[From what I have read in the news, the 2026 glacial lake outburst flood (GLOF) may have been less severe for several reasons, including: the release from Suicide Basin was slower; the release under the glacier may have happened differently from previous years; the level of Mendenhall Lake was lower than in 2025 (due to less precipitation in the summer of 2026).]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Newscast – Thursday, Sept. 10, 2026</title>
@@ -271,156 +279,180 @@
       <category>local</category>
     </item>
     <item>
-      <title>Sharon Louise (Cole) Fromong</title>
-      <link>https://www.homernews.com/2026/09/10/sharon-louise-cole-fromong/</link>
-      <guid isPermaLink="false">55facea68b1b5582ba1287dac15fffb0b49b00a2</guid>
-      <pubDate>Thu, 10 Sep 2026 09:30:00 GMT</pubDate>
-      <description><![CDATA[March, 11, 1944 - August, 18, 2026]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>OPINION: A president at war with reality</title>
-      <link>https://www.homernews.com/2026/09/10/opinion-a-president-at-war-with-reality/</link>
-      <guid isPermaLink="false">a73c3bf45993ba52568378b5047a0fe5bc4e2ece</guid>
-      <pubDate>Thu, 10 Sep 2026 09:30:00 GMT</pubDate>
-      <description><![CDATA[Trump’s latest threat to the Fed tests the limits of power]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska gubernatorial candidates participate in first forum since a post-primary ballot shuffle</title>
-      <link>https://alaskabeacon.com/2026/09/09/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle/</link>
-      <guid isPermaLink="false">6e3b48c183e70ce8ec2d3fe9bd5955f972bd2a86</guid>
-      <pubDate>Thu, 10 Sep 2026 01:36:29 GMT</pubDate>
-      <description><![CDATA[Three of the four remaining Alaska gubernatorial candidates discussed subjects ranging from the hard numbers that quantify the state’s fiscal challenges to more esoteric topics like quality of life on Tuesday in their first face-to-face meeting since a post-primary shakeup changed the field. Former state Rep. Jonathan Kreiss-Tomkins, a Democrat, and former Anchorage Mayor Dave […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Why Houthi military gains in Yemen may further increase gas prices</title>
-      <link>https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices</link>
-      <guid isPermaLink="false">d4c934c3557d8a56a4c11f88cdb20335bc706ad5</guid>
-      <pubDate>Fri, 11 Sep 2026 07:32:27 GMT</pubDate>
-      <description><![CDATA[A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities]]></description>
+      <title>Powerhouse college football team throttles FCS team so violently, both coaches agreed to shorten the game</title>
+      <link>https://www.foxnews.com/outkick-sports/powerhouse-college-football-team-throttles-fcs-team-violently-both-coaches-agreed-shorten-game</link>
+      <guid isPermaLink="false">aec99a947a6ed683817e7e4f9f18be49e6be9970</guid>
+      <pubDate>Fri, 11 Sep 2026 12:05:16 GMT</pubDate>
+      <description><![CDATA[Darian Mensah threw three touchdowns with just one incompletion as the Miami Hurricanes demolished Florida A&M 77-7 in a historic rout game.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>UK economy grew faster than expected in July</title>
+      <title>Lost city where Jesus performed miracles has finally been identified, expert says</title>
+      <link>https://www.foxnews.com/travel/lost-city-where-jesus-performed-miracles-has-finally-been-identified-expert-says</link>
+      <guid isPermaLink="false">1b13e87a07b33fa1ffb53824959ae19943181cbb</guid>
+      <pubDate>Fri, 11 Sep 2026 12:00:52 GMT</pubDate>
+      <description><![CDATA[Bethsaida, the home of Apostle Peter and the setting of Jesus Christ's miracles, may finally be identified after a decade of archaeology work at El-Araj.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WWE star Dominik Mysterio reveals the vicious way he'd want to end his feud with legendary father</title>
+      <link>https://www.foxnews.com/outkick-sports/wwe-star-dominik-mysterio-reveals-vicious-way-end-feud-legendary-father</link>
+      <guid isPermaLink="false">50c131ef9364b6ae901c9d9b8c6d398d15bb52c2</guid>
+      <pubDate>Fri, 11 Sep 2026 12:00:23 GMT</pubDate>
+      <description><![CDATA[Dominik Mysterio reveals the one thing Rey Mysterio must do to end their bitter feud, including surrendering his iconic mask ahead of Triplemania 34.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Massachusetts' highest court publicly reprimands judge accused of enabling immigrant to escape ICE</title>
+      <link>https://www.foxnews.com/politics/massachusetts-highest-court-publicly-reprimands-judge-accused-enabling-immigrant-escape-ice</link>
+      <guid isPermaLink="false">02a0172adfed9785d889947346d9fad3758eb67a</guid>
+      <pubDate>Fri, 11 Sep 2026 11:59:39 GMT</pubDate>
+      <description><![CDATA[Judge Shelley Joseph was publicly rebuked after an illegal immigrant evaded Immigration and Customs Enforcement in her Massachusetts courtroom.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms</title>
+      <link>https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting</link>
+      <guid isPermaLink="false">ec7203ee5995ad78a518e11d67a5bffaae4e6a14</guid>
+      <pubDate>Fri, 11 Sep 2026 11:55:49 GMT</pubDate>
+      <description><![CDATA[NPR reflects on the events of 9/11 and the toll it left on the U.S. 25 years later. And, President Trump and Vice President Vance's convention speeches urge voters to back the GOP in the midterms.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>DR MARC SIEGEL: Twenty-five years after 9/11, the deadly health crisis is still claiming lives</title>
+      <link>https://www.foxnews.com/opinion/dr-marc-siegel-twenty-five-years-after-911-deadly-health-crisis-still-claiming-lives</link>
+      <guid isPermaLink="false">7e5f233f5fbb9095cf5e2aa8a4fb2295d24bab34</guid>
+      <pubDate>Fri, 11 Sep 2026 11:50:38 GMT</pubDate>
+      <description><![CDATA[A physician who helped empty Bellevue Hospital on 9/11 details how World Trade Center cancer cases have jumped 75% between 2023 and 2025 alone.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Israel says it has destroyed major underground Hezbollah base</title>
+      <link>https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b240f0515ee89498327601c36ede076a3c5b5415</guid>
+      <pubDate>Fri, 11 Sep 2026 11:34:07 GMT</pubDate>
+      <description><![CDATA[The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump set to honor 9/11 victims and first responders at Pentagon and more top headlines</title>
+      <link>https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines</link>
+      <guid isPermaLink="false">17ae2645579d6c7314e29dbe9624d916b0f4ae58</guid>
+      <pubDate>Fri, 11 Sep 2026 11:17:49 GMT</pubDate>
+      <description><![CDATA[Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>NFL allows stolen land acknowledgement disguised as a welcoming ceremony before Australia game</title>
+      <link>https://www.foxnews.com/outkick-sports/nfl-allows-stolen-land-acknowledgement-disguised-welcoming-ceremony-australia-game</link>
+      <guid isPermaLink="false">b07a415a75b5331fa64c1699247b93fae9ab7345</guid>
+      <pubDate>Fri, 11 Sep 2026 11:16:44 GMT</pubDate>
+      <description><![CDATA[Aunty Joy Murphy Wandin's leaf ritual and 60,000-year indigenous stolen land acknowledgement preceded the NFL's first Melbourne game at the MCG.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Polanski selected as Green Party candidate for Starmer's former seat</title>
+      <link>https://www.bbc.co.uk/news/articles/cqxvzpg82yvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8dce1912dbaf11f8aa9fa97658c61d6cd72c03d8</guid>
+      <pubDate>Fri, 11 Sep 2026 11:06:46 GMT</pubDate>
+      <description><![CDATA[The Green Party leader said the party is the "underdog" in Holborn and St Pancras but "can win".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>A generation cannot remember 9/11. We have a duty to make sure they learn</title>
+      <link>https://www.foxnews.com/opinion/generation-cannot-remember-9-11-duty-make-sure-they-learn</link>
+      <guid isPermaLink="false">b532eaafef75c9e932e76fc4380f9d5aa9b02b73</guid>
+      <pubDate>Fri, 11 Sep 2026 11:00:55 GMT</pubDate>
+      <description><![CDATA[The 9/11 Memorial & Museum is bringing student workshops, lesson plans and digital learning to ensure over 100 million post-9/11 Americans never forget.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Denis Leary says firefighters’ darkest days after 9/11 helped bring hit show ‘Rescue Me’ to life</title>
+      <link>https://www.foxnews.com/entertainment/denis-leary-firefighters-darkest-days-9-11-helped-bring-hit-show-rescue-me-life</link>
+      <guid isPermaLink="false">3bbe9c0f2d06b1528eac98c6f8c872893656fcde</guid>
+      <pubDate>Fri, 11 Sep 2026 11:00:54 GMT</pubDate>
+      <description><![CDATA[Denis Leary watched FDNY firefighters shift from crushing grief to laughter in minutes, a raw moment that shaped "Rescue Me" into a landmark drama.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WWE star Nattie zeroes in on AAA women's title shot at Triplemania 34</title>
+      <link>https://www.foxnews.com/outkick-sports/wwe-star-nattie-zeroes-aaa-womens-title-shot-triplemania-34</link>
+      <guid isPermaLink="false">241c24734aecb6ab9807bf4fa42d5cf9fcb778a0</guid>
+      <pubDate>Fri, 11 Sep 2026 11:00:51 GMT</pubDate>
+      <description><![CDATA[Nattie faces Roxanne Perez, Faby Apache and La Hiedra in a fatal four-way at Triplemania 34 for a shot at the AAA Reina de Reinas Championship.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Buddhist monk arrested in suspected $3m embezzlement scandal</title>
+      <link>https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4c03e94a08d157e1444f52118242b3f61513538d</guid>
+      <pubDate>Fri, 11 Sep 2026 10:50:04 GMT</pubDate>
+      <description><![CDATA[Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Weekend washout threatens East Coast as heavy rain, thunderstorms raise flash flood risk</title>
+      <link>https://www.foxweather.com/weather-news/severe-storms-bring-heavy-rain-thunderstorms-east-coast-weekend</link>
+      <guid isPermaLink="false">a469cd88c6f027a8bab675627d49abd6018b5e71</guid>
+      <pubDate>Fri, 11 Sep 2026 10:32:48 GMT</pubDate>
+      <description><![CDATA[Millions of Americans should expect a weekend of wet weather that could impact major cities up and down the East Coast.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>AI boom helps drive surprise UK growth in July</title>
       <link>https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">f4bea1bbe107da658e7d94628d02dcf04c2cd542</guid>
-      <pubDate>Fri, 11 Sep 2026 07:22:37 GMT</pubDate>
-      <description><![CDATA[The economy expanded by 0.4%, official figures show, whereas economists had predicted no growth.]]></description>
+      <pubDate>Fri, 11 Sep 2026 10:17:28 GMT</pubDate>
+      <description><![CDATA[The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Princess Diana's 'revenge dress' goes up for auction</title>
-      <link>https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e4de6ed93979c65450d01d17413d0f57ac3c178f</guid>
-      <pubDate>Fri, 11 Sep 2026 06:54:46 GMT</pubDate>
-      <description><![CDATA[Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.]]></description>
+      <title>US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods</title>
+      <link>https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon</link>
+      <guid isPermaLink="false">5cb0937b48c86dd4cacd5f8af0dbb51844a7b7fd</guid>
+      <pubDate>Fri, 11 Sep 2026 10:04:04 GMT</pubDate>
+      <description><![CDATA[Diesel prices in the U.S. has hit yet another record, soaring past $6 a gallon on average as Washington's war with Iran disrupts the world's flow of fuel]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Hong Kong court sentences 3 Tiananmen vigil organizers to prison</title>
-      <link>https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers</link>
-      <guid isPermaLink="false">ef49b8ead0de121a2c61c11180332f7faf0c7bd3</guid>
-      <pubDate>Fri, 11 Sep 2026 06:42:04 GMT</pubDate>
-      <description><![CDATA[The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city's eroding freedoms as Beijing clamps down on dissent.]]></description>
+      <title>Six Nigerians accused of romance scams to be extradited to the US</title>
+      <link>https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c4963078180b9c21c6662b9407ec5545c7a9c0b7</guid>
+      <pubDate>Fri, 11 Sep 2026 09:54:51 GMT</pubDate>
+      <description><![CDATA[The six will face wire fraud and money-laundry charges in the US, South African police say.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Man jailed after threatening to kill son's teacher in French village</title>
-      <link>https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f388562125351cb0d069fa957b4ff830bed271cb</guid>
-      <pubDate>Fri, 11 Sep 2026 06:28:42 GMT</pubDate>
-      <description><![CDATA[The father had threatened to behead a female primary school teacher near Toulouse.]]></description>
+      <title>Will you get $5,000 to do the news quiz? No. But will it be fun? Maybe</title>
+      <link>https://www.npr.org/2026/09/11/g-s1-142657/will-you-get-5-000-to-do-the-news-quiz-no-but-will-it-be-fun-maybe</link>
+      <guid isPermaLink="false">6b25223d89361eae8858540ebdb310a1b1270ab0</guid>
+      <pubDate>Fri, 11 Sep 2026 09:01:00 GMT</pubDate>
+      <description><![CDATA[Plus: donkeys, maps, art, iPhones and more!]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Legalised dying bill for England and Wales faces new vote in Commons</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f154ec95e944c3afb1654bfca6884c36007e5ece</guid>
-      <pubDate>Fri, 11 Sep 2026 06:12:23 GMT</pubDate>
-      <description><![CDATA[The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>As Trump dominates convention, some Republicans quietly ask who comes next</title>
-      <link>https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bb62c7d1099ce7fd3df75334dbb99659b5297455</guid>
-      <pubDate>Fri, 11 Sep 2026 06:10:59 GMT</pubDate>
-      <description><![CDATA[The convention offered a stark reminder that the Trump era is heading toward its final chapter, the BBC's Washington correspondent Daniel Bush writes.]]></description>
+      <title>On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve</title>
+      <link>https://www.npr.org/2026/09/11/nx-s1-5961366/9-11-memorial-events</link>
+      <guid isPermaLink="false">1c3dd14c6f239f802fd1ca426228c9373f2f4e70</guid>
+      <pubDate>Fri, 11 Sep 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[The U.S. marks the 25th anniversary of 9/11. Events will honor those lost, at a time when Americans are divided about the meaning and legacy of the terrorist attacks.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Iran-backed Houthi rebels seize strategic Red Sea port in Yemen</title>
-      <link>https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port</link>
-      <guid isPermaLink="false">e34ce2d53e559e16b2e2b6f0ee8d311271a573e1</guid>
-      <pubDate>Fri, 11 Sep 2026 05:40:21 GMT</pubDate>
-      <description><![CDATA[The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.]]></description>
+      <title>They cleaned up ground zero. Now many are hiding from ICE</title>
+      <link>https://www.npr.org/2026/09/11/nx-s1-5965553/ground-zero-sept-11-undocumented-immigrants</link>
+      <guid isPermaLink="false">9d815824c84b5c906d9da81ffec629053906e7a6</guid>
+      <pubDate>Fri, 11 Sep 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[After 9/11, thousands of rescue and cleanup crews went to work at ground zero. They were exposed to toxic debris and experienced psychological trauma. Today, many say they live in fear of deportation.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Rayner defends pause to local council overhaul</title>
-      <link>https://www.bbc.co.uk/news/articles/cwyz9jlqrj4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">76ff10bcccf6899cf9d198409cbee74f2de98e11</guid>
-      <pubDate>Fri, 11 Sep 2026 04:51:05 GMT</pubDate>
-      <description><![CDATA[The cabinet minister tells the BBC she wanted to ensure the plans could survive potential legal actions.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Rams' disaster in Australia raises the question: Should the team have followed the 49ers there earlier?</title>
-      <link>https://www.foxnews.com/outkick-sports/rams-disaster-australia-raises-question-should-team-followed-49ers-earlier</link>
-      <guid isPermaLink="false">b6db811fdf30185b7e32c89b232dab6245853ee3</guid>
-      <pubDate>Fri, 11 Sep 2026 04:05:23 GMT</pubDate>
-      <description><![CDATA[Matthew Stafford and the Los Angeles Rams looked gassed in a 27-7 loss to the San Francisco 49ers in Melbourne as their travel strategy faces scrutiny.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>‘I’m coming home’: Last words haunt a 9/11 daughter 25 years later as she builds a legacy in his honor</title>
-      <link>https://www.foxnews.com/us/im-coming-home-last-words-haunt-911-daughter-25-years-later-builds-legacy-his-honor</link>
-      <guid isPermaLink="false">31aef1317890bee7b22443c40a187a4296457a98</guid>
-      <pubDate>Fri, 11 Sep 2026 04:00:47 GMT</pubDate>
-      <description><![CDATA[Kayla Fallon Smith lost her father in the 9/11 World Trade Center attacks at age 8 and now runs a nonprofit offering equine therapy to veterans.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>American Jessica Pegula falls to top-ranked Aryna Sabalenka in straight sets in US Open semifinal</title>
-      <link>https://www.foxnews.com/outkick-sports/american-jessica-pegula-falls-top-ranked-aryna-sabalenka-straight-sets-us-open-semifinal</link>
-      <guid isPermaLink="false">61aa2ba5fc055c18139769de6ca31ce9debb7853</guid>
-      <pubDate>Fri, 11 Sep 2026 03:10:31 GMT</pubDate>
-      <description><![CDATA[Aryna Sabalenka dominated Jessica Pegula with 29 winners to reach the U.S. Open final, where Coco Gauff or Elena Rybakina awaits Saturday night.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Anthropic blocks 'malicious use' of AI that could develop biological weapons</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">68c3fe310973ffe070f85bb499c6995990bcc98d</guid>
-      <pubDate>Fri, 11 Sep 2026 02:46:30 GMT</pubDate>
-      <description><![CDATA[The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Megan Rapinoe says women’s sports are facing ‘regression’ of ‘equal rights’ in new Kamala Harris interview</title>
-      <link>https://www.foxnews.com/outkick-analysis/megan-rapinoe-says-womens-sports-are-facing-regression-of-equal-rights-in-new-kamala-harris-interview</link>
-      <guid isPermaLink="false">fce4b4db5c03187fc8592344e81d2bf24a56acfa</guid>
-      <pubDate>Fri, 11 Sep 2026 02:31:12 GMT</pubDate>
-      <description><![CDATA[Kamala Harris joined Megan Rapinoe for a new interview touching on women's sports, politics, and a puzzling tangent about "the boy next door."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Charlie Kirk supporters return to site of assassination 1 year later: ‘We are still standing’</title>
-      <link>https://www.foxnews.com/us/charlie-kirk-supporters-return-site-assassination-1-year-later-still-standing</link>
-      <guid isPermaLink="false">a758a027fe54046bc0d72444c2c1da38b7ca854e</guid>
-      <pubDate>Fri, 11 Sep 2026 02:20:47 GMT</pubDate>
-      <description><![CDATA[Turning Point USA returned to Utah Valley University to reclaim the space where Charlie Kirk was assassinated, unveiling a new statue in his honor.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Crowd erupts as Vance smacks down protester waving Mexican flag: 'Get your a-- over there'</title>
-      <link>https://www.foxnews.com/politics/crowd-erupts-vance-smacks-down-protester-waving-mexican-flag-get-your-over-there</link>
-      <guid isPermaLink="false">36cba933b183d438bb33594a5916c083dff2e32c</guid>
-      <pubDate>Fri, 11 Sep 2026 02:19:13 GMT</pubDate>
-      <description><![CDATA[JD Vance fired back at a protester waving Mexican and Palestinian flags on the GOP convention floor, offering to buy them a plane ticket to Mexico.]]></description>
-      <category>world</category>
+      <title>Taste of fall sweeps across the Midwest as severe storms, damaging winds and flooding threaten millions</title>
+      <link>https://www.foxweather.com/weather-news/fall-weather-arrives-across-northern-tier-triggering-severe-storms-damaging-winds-flash-flooding</link>
+      <guid isPermaLink="false">15c564e158f7d8fc6c8d19a8b1468dd7fca5c5b3</guid>
+      <pubDate>Fri, 11 Sep 2026 02:06:20 GMT</pubDate>
+      <description><![CDATA[As fall weather approaches, severe storms and flash flooding will impact the Upper Midwest and Northern Plains starting Friday, bringing damaging winds, large hail and heavy rainfall.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Taste of fall sweeps across the Northern Tier as severe storms, damaging winds and flooding threaten millions</title>
@@ -429,38 +461,6 @@
       <pubDate>Fri, 11 Sep 2026 02:06:20 GMT</pubDate>
       <description><![CDATA[As fall weather approaches, severe storms and flash flooding will impact the Northern Tier of the U.S. starting Friday, bringing damaging winds, large hail and heavy rainfall.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Clippers face federal criminal probe after NBA punishes team over Kawhi Leonard deals</title>
-      <link>https://www.foxnews.com/outkick-sports/clippers-face-federal-criminal-probe-nba-punishes-team-kawhi-leonard-deals</link>
-      <guid isPermaLink="false">baae0d2707e69a6d3cd6523e00275b434e4e29fc</guid>
-      <pubDate>Fri, 11 Sep 2026 02:00:24 GMT</pubDate>
-      <description><![CDATA[Federal prosecutors and a grand jury are now probing whether Steve Ballmer and the Los Angeles Clippers arranged secret deals to pay Kawhi Leonard.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Juror on Lindsay Clancy trial says 'we let down Lindsay' following mistrial</title>
-      <link>https://www.foxnews.com/us/juror-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial</link>
-      <guid isPermaLink="false">771cf4a060ed502d3f15dd4e3b8403571f11e7ff</guid>
-      <pubDate>Fri, 11 Sep 2026 01:53:32 GMT</pubDate>
-      <description><![CDATA[A Lindsay Clancy trial juror says the jury "let down Lindsay" after a lone holdout prevented a unanimous not guilty verdict in Massachusetts.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Top GOP senator reveals what Dem colleagues are fretting about behind closed doors</title>
-      <link>https://www.foxnews.com/politics/top-gop-senator-reveals-what-dem-colleagues-are-fretting-about-behind-closed-doors</link>
-      <guid isPermaLink="false">6fbfcddf2199d235d1d23c16b3665289c87951d5</guid>
-      <pubDate>Fri, 11 Sep 2026 01:52:37 GMT</pubDate>
-      <description><![CDATA[Senate Republican John Barrasso says Democratic senators privately admit the progressive wave led by Abdul El-Sayed and others is their future.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Patrol sergeant accused of murdering sheriff’s captain in yearslong romantic dispute over woman they dated</title>
-      <link>https://www.foxnews.com/us/patrol-sergeant-accused-murdering-sheriffs-captain-yearslong-romantic-dispute-woman-dated</link>
-      <guid isPermaLink="false">630a86f9c03ccdaaab51705b4db09172eeaee27f</guid>
-      <pubDate>Fri, 11 Sep 2026 01:50:26 GMT</pubDate>
-      <description><![CDATA[Sgt. Nekime Matu Oxendine is accused of fatally shooting Cumberland County Sheriff’s Capt. Adam Bean after a confrontation outside a woman’s home.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Bryan Norcross: Peak of hurricane season arrives with a whimper while Pacific tropical explosion continues</title>
@@ -511,19 +511,19 @@
       <category>weather</category>
     </item>
     <item>
+      <title>Tropical Storm Norbert poised to become Pacific's next hurricane, potentially heading toward Hawaii</title>
+      <link>https://www.foxweather.com/weather-news/tropical-storm-norbert-hurricane-pacific-el-nino-september-2026</link>
+      <guid isPermaLink="false">4ee7d07fe158a3bbc4c40f17ffd9f678c9ea1ee3</guid>
+      <pubDate>Thu, 10 Sep 2026 09:54:44 GMT</pubDate>
+      <description><![CDATA[Tropical Storm Norbert is strengthening slightly in the open Pacific after forming early Thursday, becoming the 16th named storm in the basin this season, which has already produced 3 major hurricanes (Category 3+).]]></description>
+      <category>weather</category>
+    </item>
+    <item>
       <title>Tropical Storm Norbert forms, poised to become next hurricane in the Pacific amid strengthening El Niño</title>
       <link>https://www.foxweather.com/weather-news/tropical-storm-norbert-hurricane-pacific-el-nino-september-2026</link>
       <guid isPermaLink="false">4ee7d07fe158a3bbc4c40f17ffd9f678c9ea1ee3</guid>
       <pubDate>Thu, 10 Sep 2026 09:54:44 GMT</pubDate>
       <description><![CDATA[Tropical Storm Norbert formed in the Eastern Pacific early Thursday, becoming the 15th named storm in the basin this season, which has already produced 3 major hurricanes (Category 3+), fueled by an El Niño that could reach historic strength later this year.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Fall cold front to bring cooler temperatures, rain and storms across northern US into mid-September</title>
-      <link>https://www.foxweather.com/weather-news/fall-cold-front-cooler-temperatures-rain-storms-northern-us</link>
-      <guid isPermaLink="false">2cea06cb03cc4205f4ffadad7aa8157ce02a4bda</guid>
-      <pubDate>Thu, 10 Sep 2026 02:32:23 GMT</pubDate>
-      <description><![CDATA[A fall-like cold front will push cooler temperatures, rain and thunderstorms across the northern U.S. into mid-September, while warmer-than-average conditions linger across the South.]]></description>
       <category>weather</category>
     </item>
   </channel>
