@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:51:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:24:01 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Today - Patchy Fog then Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 16:51:16 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 19:24:01 GMT</pubDate>
       <description><![CDATA[61°F. Wind S 0 to 5 mph. Patchy fog before 10am. Sunny, with a high near 61. South wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Tonight - Mostly Cloudy then Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 16:51:16 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 19:24:01 GMT</pubDate>
       <description><![CDATA[52°F. Wind N 0 to 5 mph. Rain likely after 4am. Mostly cloudy, with a low around 52. North wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Saturday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 16:51:16 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 19:24:01 GMT</pubDate>
       <description><![CDATA[61°F. Wind  0 mph. Rain likely before 1pm, then a slight chance of rain showers between 1pm and 4pm. Mostly cloudy, with a high near 61. North wind around 0 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Saturday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 16:51:16 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 19:24:01 GMT</pubDate>
       <description><![CDATA[49°F. Wind NW 0 to 5 mph. Partly cloudy, with a low around 49. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,8 +42,40 @@
       <title>Anchorage Weather: Sunday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 11 Sep 2026 16:51:16 GMT</pubDate>
+      <pubDate>Fri, 11 Sep 2026 19:24:01 GMT</pubDate>
       <description><![CDATA[61°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 61. North wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>How 9/11 changed the way America surveils its citizens</title>
+      <link>https://alaskabeacon.com/2026/09/11/repub/how-9-11-changed-the-way-america-surveils-its-citizens/</link>
+      <guid isPermaLink="false">114f541ea237db8062c7445be60d9e70e5319954</guid>
+      <pubDate>Fri, 11 Sep 2026 18:47:35 GMT</pubDate>
+      <description><![CDATA[Twenty-five years after 9/11, the surveillance infrastructure built and expanded in its aftermath has become part of a far larger digital ecosystem — producing tools that can collect and analyze information on a scale unimaginable in 2001. The terrorist attacks of Sept. 11, 2001, did more than reshape the nation’s approach to terrorism. They changed […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Two massive Alaskan brown bears fight over prime fishing spot at Lake Clark National Park</title>
+      <link>https://www.foxnews.com/outkick-culture/two-massive-alaskan-brown-bears-fight-prime-fishing-spot-lake-clark-national-park</link>
+      <guid isPermaLink="false">98daa5ae66c13fe78725a7692a944a257bb82ba6</guid>
+      <pubDate>Fri, 11 Sep 2026 18:19:32 GMT</pubDate>
+      <description><![CDATA[Video captures two massive Alaskan brown bears fighting over a prime fishing spot at Lake Clark National Park as a startled tour guide watches.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska Democratic Party files another legal challenge to disqualify House candidate</title>
+      <link>https://alaskabeacon.com/2026/09/11/alaska-democratic-party-files-another-legal-challenge-to-disqualify-house-candidate/</link>
+      <guid isPermaLink="false">6e10a4f7b53ec8286f43243e4e878e53c3938e30</guid>
+      <pubDate>Fri, 11 Sep 2026 17:38:56 GMT</pubDate>
+      <description><![CDATA[The Alaska Democratic Party filed a petition on Wednesday asking a state Superior Court judge to compel the Alaska Division of Elections to disqualify a candidate for the Alaska State House from the November ballot. That’s after Republican Lt. Gov. Nancy Dahlstrom reversed an Aug. 31 decision not to certify two Republican candidates for the […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Coast Guard rescues teen stranded for days on capsized fishing boat in frigid waters off remote Alaska island</title>
+      <link>https://www.foxweather.com/weather-news/coast-guard-rescues-teen-alaska-st-lawrence-fishing-boat</link>
+      <guid isPermaLink="false">c63e78f2f2494f1cd26dd404eda3b0dccaf54980</guid>
+      <pubDate>Fri, 11 Sep 2026 17:06:59 GMT</pubDate>
+      <description><![CDATA[The Coast Guard and Good Samaritans rescued a teen found sitting on top of a capsized fishing boat in the frigid waters off St. Lawrence Island, Alaska, near the U.S.-Russia maritime border.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -271,28 +303,124 @@
       <category>local</category>
     </item>
     <item>
-      <title>OPINION: Closing sales-tax loopholes is good for Juneau</title>
-      <link>https://www.juneauempire.com/2026/09/10/opinion-closing-sales-tax-loopholes-is-good-for-juneau/</link>
-      <guid isPermaLink="false">c7619a161bd62be4b3c866f5f9d693a691d8e7fb</guid>
-      <pubDate>Thu, 10 Sep 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[A significant vote in a recent CBJ Finance Committee meeting signaled long-overdue action that will make Juneau’s sales tax code fairer and more equitable – and bring in over $3 million to the city treasury.]]></description>
-      <category>local</category>
+      <title>'Never, ever forget' - America marks 25th anniversary of 9/11 attacks</title>
+      <link>https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4e69ee0025d129b722ba05af7137a84060360b8f</guid>
+      <pubDate>Fri, 11 Sep 2026 19:16:32 GMT</pubDate>
+      <description><![CDATA[In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Man seen with rifle causes lockdown at Juneau school</title>
-      <link>https://www.juneauempire.com/2026/09/10/man-seen-with-rifle-causes-lockdown-at-juneau-school/</link>
-      <guid isPermaLink="false">0517928b8eb7786b793120f50d879012212a97d9</guid>
-      <pubDate>Thu, 10 Sep 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[Man walked into woods near Dzantik’i Heeni Optional Programs building to hunt Wednesday morning]]></description>
-      <category>local</category>
+      <title>DAVID MARCUS: As Democrats protest in Dallas, conservatives are quiet and cautious</title>
+      <link>https://www.foxnews.com/opinion/david-marcus-democrats-protest-dallas-conservatives-quiet-cautious</link>
+      <guid isPermaLink="false">9526b5a0e720540e588a1271a60372088f95a256</guid>
+      <pubDate>Fri, 11 Sep 2026 19:06:02 GMT</pubDate>
+      <description><![CDATA[About 300 Democrats rallied at Dallas City Hall against Trump and the GOP, but quiet conservatives nearby tell a very different political story.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Chocolate cake perfect for any celebration</title>
-      <link>https://www.homernews.com/2026/09/10/chocolate-cake-perfect-for-any-celebration/</link>
-      <guid isPermaLink="false">212478fea7f1bff54774373e8ec27a5933544c11</guid>
-      <pubDate>Thu, 10 Sep 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Flourless chocolate cake will satisfy even the most extreme chocoholic]]></description>
-      <category>local</category>
+      <title>In photos: Remembering the Sept. 11 attacks, 25 years later</title>
+      <link>https://www.npr.org/sections/the-picture-show/2026/09/11/g-s1-142913/in-photos-remembering-the-sept-11-attacks-25-years-later</link>
+      <guid isPermaLink="false">83ca97259bdb83e0f74bae64af4464e2a1616aa5</guid>
+      <pubDate>Fri, 11 Sep 2026 19:05:00 GMT</pubDate>
+      <description><![CDATA[Around the U.S., ceremonies commemorate the 25th anniversary of the Sept. 11th terror attacks in New York and at the Pentagon.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>At Ground Zero, 9/11 families turn to Trump as Obama’s old decision resurfaces</title>
+      <link>https://www.foxnews.com/politics/ground-zero-9-11-families-turn-trump-obamas-old-decision-resurfaces</link>
+      <guid isPermaLink="false">640908e80f635dec9ec74b4779f5c29f0a7cac1e</guid>
+      <pubDate>Fri, 11 Sep 2026 19:01:18 GMT</pubDate>
+      <description><![CDATA[Terry Strada accused successive administrations of protecting Saudi Arabia and urged Trump to release unredacted 9/11 files on the 25th anniversary.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>bet365 Promo Code 2026: Bet $10, Get $365 in Bonus Bets</title>
+      <link>https://www.foxnews.com/outkick-betting/bet365-promo-code-2026-bet-10-get-365-bonus-bets</link>
+      <guid isPermaLink="false">5e090f53d41254a307b528e947f55dbbb1bc2548</guid>
+      <pubDate>Fri, 11 Sep 2026 18:55:07 GMT</pubDate>
+      <description><![CDATA[Claim the bet365 promo code for September 2026. Get Bet $10, Get $365 in Bonus Bets, see how to sign up, the full terms, and whether the offer is worth it.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Astros bullpen ERA of 4.11 could be the deciding factor as Tampa Bay Rays protect their postseason lead</title>
+      <link>https://www.foxnews.com/outkick-sports/astros-bullpen-era-4-11-deciding-factor-tampa-bay-rays-protect-postseason-lead</link>
+      <guid isPermaLink="false">09306699936f76a8119f329b709ac70d330af408</guid>
+      <pubDate>Fri, 11 Sep 2026 18:54:21 GMT</pubDate>
+      <description><![CDATA[The Houston Astros and Tampa Bay Rays clash in an NCAA College Football weekend baseball matchup as MVP candidates Yordan Alvarez and Junior Caminero duel.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nolan McLean takes the mound as Mets look to steal Subway Series win from the Yankees</title>
+      <link>https://www.foxnews.com/outkick-sports/nolan-mclean-takes-mound-mets-look-steal-subway-series-win-yankees</link>
+      <guid isPermaLink="false">70f49c0eda6a266815c203ebf8e4ea612cf0400c</guid>
+      <pubDate>Fri, 11 Sep 2026 18:35:57 GMT</pubDate>
+      <description><![CDATA[Nolan McLean takes the mound for the Mets against Carlos Rodon and the Yankees in a Major League Baseball Subway Series with playoff stakes.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kansas renews Border War rivalry with Missouri by calling Tigers 'evil,' invoking slavery imagery</title>
+      <link>https://www.foxnews.com/outkick-sports/kansas-renews-border-war-rivalry-missouri-calling-tigers-evil-invoking-slavery-imagery</link>
+      <guid isPermaLink="false">366e0dca67633408bbdba0e7fa0740aa984eecc3</guid>
+      <pubDate>Fri, 11 Sep 2026 18:19:24 GMT</pubDate>
+      <description><![CDATA[Kansas dropped a hype video calling Missouri evil over Civil War history ahead of Friday's Border Showdown, and critics say it went too far.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sophie Cunningham addresses perception that she is the 'sex symbol' of the WNBA</title>
+      <link>https://www.foxnews.com/outkick-sports/sophie-cunningham-addresses-perception-sex-symbol-wnba</link>
+      <guid isPermaLink="false">eb0dbe52da7f009a0d41172a16517eea093a0ef3</guid>
+      <pubDate>Fri, 11 Sep 2026 18:15:31 GMT</pubDate>
+      <description><![CDATA[Sophie Cunningham embraced the "sex symbol" label on Colin Cowherd's podcast, pushing back on critics who reduce her WNBA popularity to race.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Mamdani draws fury from 9/11 mourners over Ground Zero appearance: ‘Disrespectful’</title>
+      <link>https://www.foxnews.com/politics/mamdani-attendance-911-remembrance-draws-rebuke-mourners-disrespectful</link>
+      <guid isPermaLink="false">56fb7610da9387552986b642534bab9d7b3cd845</guid>
+      <pubDate>Fri, 11 Sep 2026 18:07:24 GMT</pubDate>
+      <description><![CDATA[Footage captured Zohran Mamdani greeting Rudolph Giuliani at Ground Zero as victims' families and first responders criticize his 9/11 attendance.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New video shows what led up to Patriots fan fighting multiple Seahawks fans at NFL opener</title>
+      <link>https://www.foxnews.com/outkick-sports/video-shows-patriots-fan-fighting-multiple-seahawks-fans-nfl-opener</link>
+      <guid isPermaLink="false">7466179fc82b570cf1f1e983fb1f091cc08c7642</guid>
+      <pubDate>Fri, 11 Sep 2026 17:55:44 GMT</pubDate>
+      <description><![CDATA[A massive brawl erupted at Lumen Field after a Patriots fan allegedly refused to move from wrong seats, leading to a multi-person fight Wednesday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Surrogate who refused abortion over heart defect takes custody battle to US Supreme Court</title>
+      <link>https://www.bbc.co.uk/news/articles/cgjq1q3nd52o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b696f6a4618d82f85070a50e8f96030d5e6b1f3d</guid>
+      <pubDate>Fri, 11 Sep 2026 17:55:06 GMT</pubDate>
+      <description><![CDATA[She fled to Texas where abortions are illegal and now wants custody of the four-week-old baby.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hong Kong's Tiananmen activists sentenced to up to seven years in prison</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b43c2e14cf730b7906677672202ae6f35142983b</guid>
+      <pubDate>Fri, 11 Sep 2026 17:32:44 GMT</pubDate>
+      <description><![CDATA[Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane</title>
+      <link>https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fefac175055ddfe2d9e6cc6188c34eef00ed297f</guid>
+      <pubDate>Fri, 11 Sep 2026 16:58:34 GMT</pubDate>
+      <description><![CDATA[The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>An extraordinary result - why did MPs reject assisted dying bill this time?</title>
+      <link>https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">cc34312b0aaba2c79b42a76bcb5adc23cf49599e</guid>
+      <pubDate>Fri, 11 Sep 2026 16:49:47 GMT</pubDate>
+      <description><![CDATA[Although supporters say they will try again, for now the momentum has fallen away from a change in the law.]]></description>
+      <category>politics</category>
     </item>
     <item>
       <title>Family of off-duty FDNY firefighter retraces steps as Tunnel to Towers mission continues on 9/11 anniversary</title>
@@ -324,134 +452,6 @@
       <guid isPermaLink="false">4d54eb985fe813005fbef732a83786024c11de78</guid>
       <pubDate>Fri, 11 Sep 2026 16:13:39 GMT</pubDate>
       <description><![CDATA[Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>9/11 widow Terry Strada accuses US of protecting Saudi Arabia 25 years after terror attacks, addresses Vance</title>
-      <link>https://www.foxnews.com/us/9-11-widow-terry-strada-accuses-us-protecting-saudi-arabia-25-years-after-terror-attacks-addresses-vance</link>
-      <guid isPermaLink="false">63d36b3de939a652b5ce11bd95955da5bbbd6573</guid>
-      <pubDate>Fri, 11 Sep 2026 16:07:29 GMT</pubDate>
-      <description><![CDATA[Terry Strada accused the U.S. government of protecting Saudi Arabia and urged JD Vance to carry her message of accountability back to Trump.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>AOC’s ‘modern-day lynchings’ claim torn to shreds online as Black hanging case findings tell a different story</title>
-      <link>https://www.foxnews.com/politics/aoc-modern-day-lynchings-claim-torn-shreds-online-black-hanging-case-findings-tell-different-story</link>
-      <guid isPermaLink="false">833e573bf1bef499f1862bdec3295cb36dc3bcff</guid>
-      <pubDate>Fri, 11 Sep 2026 16:04:23 GMT</pubDate>
-      <description><![CDATA[Alexandria Ocasio-Cortez and Ayanna Pressley demand DOJ and FBI investigate Black hanging deaths, alleging racial terror and modern-day lynchings.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Norway's Princess Astrid dies two days after attending brother King Harald's funeral</title>
-      <link>https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">03fde929c3676b0dba6c501f584b4f9c44595c78</guid>
-      <pubDate>Fri, 11 Sep 2026 16:00:59 GMT</pubDate>
-      <description><![CDATA[Princess Astrid "represented the Royal House in a warm and dutiful manner", the new king, Haakon VIII, said in a tribute to his aunt.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>9/11 sent them to war. 25 years later, veterans grapple with what followed</title>
-      <link>https://www.foxnews.com/politics/9-11-sent-them-war-25-years-later-veterans-grapple-what-followed</link>
-      <guid isPermaLink="false">c44d3d37f208d9c051b51d1c7545c3601ca39319</guid>
-      <pubDate>Fri, 11 Sep 2026 16:00:15 GMT</pubDate>
-      <description><![CDATA[John Byrnes was at Hunter College on 9/11 before securing Ground Zero. Now he and four other veterans wrestle with what the wars accomplished.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>MPs vote against fresh attempt to legalise assisted dying</title>
-      <link>https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">05ae26008ecd561bc61868c67019a0c3133427ef</guid>
-      <pubDate>Fri, 11 Sep 2026 15:54:46 GMT</pubDate>
-      <description><![CDATA[The proposed law sought to introduce one of the biggest societal changes in recent years.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Feels like yesterday': 9/11 victim's daughter says families still fighting for justice 25 years later</title>
-      <link>https://www.foxnews.com/politics/feels-like-yesterday-9-11-victims-daughter-says-families-fighting-justice-25-years-later</link>
-      <guid isPermaLink="false">60e45010b502a8f858137e6795b18cfd527d1608</guid>
-      <pubDate>Fri, 11 Sep 2026 15:52:51 GMT</pubDate>
-      <description><![CDATA[Angela Mistrulli and 9/11 families are pressing Congress at the Republican convention to fund the USVSST Fund before a critical Sept. 30 deadline.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sacked Grand Theft Auto worker claims Rockstar staff placed on 'watch list'</title>
-      <link>https://www.bbc.co.uk/news/articles/cjrx5xlz83jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0b6a3916aa1a6516b626c4f494eb3e93e27a029e</guid>
-      <pubDate>Fri, 11 Sep 2026 15:52:19 GMT</pubDate>
-      <description><![CDATA[The makers of Grand Theft Auto deny staff were sacked for union organising and were instead dismissed for sharing confidential information online.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Universities across America honor the victims of the 9/11 terrorist attacks with memorial stair climbs</title>
-      <link>https://www.foxnews.com/outkick-analysis/universities-across-america-honor-victims-9-11-terrorist-attacks-memorial-stair-climbs</link>
-      <guid isPermaLink="false">bf682fbe69996bc8bab80685a40a3193af6064b2</guid>
-      <pubDate>Fri, 11 Sep 2026 15:46:54 GMT</pubDate>
-      <description><![CDATA[Teams and universities held 9/11 memorial stair climbs, scaling 110 stories to honor the 343 firefighters and first responders lost at the Twin Towers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks</title>
-      <link>https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">cecae1d42b1a789e760fc0c3f343e2720490e73a</guid>
-      <pubDate>Fri, 11 Sep 2026 15:37:25 GMT</pubDate>
-      <description><![CDATA[O'Leary has said airline passengers "can't afford to fly with the high-fare rapists around Europe".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability</title>
-      <link>https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability</link>
-      <guid isPermaLink="false">117688ee29b4edb5e5aa35a73337e62f29072fb1</guid>
-      <pubDate>Fri, 11 Sep 2026 15:34:51 GMT</pubDate>
-      <description><![CDATA[The worst U.S. measles outbreak in decades is growing and flu season is imminent. Experts are fretting about federal health data reliability after the CDC questioned two Pennsylvania measles deaths.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp</title>
-      <link>https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">66b2322a10d10c93bd1086feba81975ec3adb053</guid>
-      <pubDate>Fri, 11 Sep 2026 15:32:44 GMT</pubDate>
-      <description><![CDATA[The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Grab a bucket: Nike continues to faceplant with hideous new NBA alternate jersey reveal</title>
-      <link>https://www.foxnews.com/outkick-sports/nike-faceplant-hideous-nba-alternate-jersey-reveal</link>
-      <guid isPermaLink="false">21e59c526fbeb7f4c2cd523c377484141835f172</guid>
-      <pubDate>Fri, 11 Sep 2026 15:24:39 GMT</pubDate>
-      <description><![CDATA[Nike's new "Spectre Edition" NBA alternate jerseys for eight of the league's oldest teams are getting torched across every corner of the internet.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Netflix drops new trailer for 'Below' starring Josh Hartnett as a fisherman fighting a sea creature</title>
-      <link>https://www.foxnews.com/outkick-culture/netflix-drops-new-trailer-below-starring-josh-hartnett-fisherman-fighting-sea-creature</link>
-      <guid isPermaLink="false">63402be801943d35570e90d2305ce2c3009be05b</guid>
-      <pubDate>Fri, 11 Sep 2026 15:19:20 GMT</pubDate>
-      <description><![CDATA[Netflix's new trailer for "Below" reveals Josh Hartnett battling a terrifying sea creature in Newfoundland alongside Charlie Heaton and Mackenzie Davis.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>UK government rejects 'kill switch' idea for dangerous AI</title>
-      <link>https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">68f64883254da837b4bdf31ac2a5a9899d678009</guid>
-      <pubDate>Fri, 11 Sep 2026 15:07:07 GMT</pubDate>
-      <description><![CDATA[The Cabinet Office, which leads on AI safety, says the UK "cannot simply turn AI off".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>‘Their souls are in that steel’: 9/11 beam makes emotional stop in Indianapolis before return to NYC</title>
-      <link>https://www.foxnews.com/politics/their-souls-are-in-that-steel-911-beam-makes-emotional-stop-indianapolis-before-return-nyc</link>
-      <guid isPermaLink="false">b74ea48291aae98a704f6edbad4556c032fc4e27</guid>
-      <pubDate>Fri, 11 Sep 2026 15:00:43 GMT</pubDate>
-      <description><![CDATA[A 16,900-pound steel beam from the World Trade Center's South Tower arrived at the Indiana War Memorial as part of Tunnel to Towers' nationwide tour.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kate visits cancer patients in hospital she helped fund with climb</title>
-      <link>https://www.bbc.co.uk/news/articles/ce8e6pkkd04o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5af898d1f91941b5a352312997379fbbd863d432</guid>
-      <pubDate>Fri, 11 Sep 2026 14:19:21 GMT</pubDate>
-      <description><![CDATA[The princess completed the Three Peaks Challenge in aid of the hospital where she was treated for cancer.]]></description>
       <category>world</category>
     </item>
     <item>
