@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 13:23:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 16:41:29 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Overnight - Chance Light Rain</title>
+      <title>Anchorage Weather: Today - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 12 Sep 2026 13:23:40 GMT</pubDate>
-      <description><![CDATA[51°F. Wind  0 mph. A chance of rain. Cloudy, with a low around 51. Northeast wind around 0 mph. Chance of precipitation is 50%.]]></description>
+      <pubDate>Sat, 12 Sep 2026 16:41:29 GMT</pubDate>
+      <description><![CDATA[62°F. Wind E 0 to 5 mph. A chance of rain before 1pm. Mostly cloudy, with a high near 62. East wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday - Chance Light Rain</title>
+      <title>Anchorage Weather: Tonight - Mostly Clear then Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 12 Sep 2026 13:23:40 GMT</pubDate>
-      <description><![CDATA[62°F. Wind E 0 to 5 mph. A chance of rain before 1pm. Mostly cloudy, with a high near 62. East wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Saturday Night - Mostly Clear then Patchy Fog</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 12 Sep 2026 13:23:40 GMT</pubDate>
+      <pubDate>Sat, 12 Sep 2026 16:41:29 GMT</pubDate>
       <description><![CDATA[46°F. Wind NW 0 to 5 mph. Patchy fog after 4am. Mostly clear, with a low around 46. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Sunday - Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 12 Sep 2026 13:23:40 GMT</pubDate>
+      <pubDate>Sat, 12 Sep 2026 16:41:29 GMT</pubDate>
       <description><![CDATA[64°F. Wind N 0 to 5 mph. Patchy fog before 1pm. Mostly sunny, with a high near 64. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +34,49 @@
       <title>Anchorage Weather: Sunday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 12 Sep 2026 13:23:40 GMT</pubDate>
+      <pubDate>Sat, 12 Sep 2026 16:41:29 GMT</pubDate>
       <description><![CDATA[47°F. Wind  0 mph. Partly cloudy, with a low around 47. North wind around 0 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday - Partly Sunny then Chance Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sat, 12 Sep 2026 16:41:29 GMT</pubDate>
+      <description><![CDATA[59°F. Wind  0 mph. A chance of rain after 1pm. Partly sunny, with a high near 59. North wind around 0 mph. Chance of precipitation is 30%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Homer cruise tax revenue more than doubles</title>
+      <link>https://www.homernews.com/2026/09/12/homer-cruise-tax-revenue-more-than-doubles/</link>
+      <guid isPermaLink="false">cb809e6980606f3fc4e68f2bf5d530ab4bcbc105</guid>
+      <pubDate>Sat, 12 Sep 2026 16:30:00 GMT</pubDate>
+      <description><![CDATA[Taxable passengers rose to 3,774 during 2025 cruise season]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Juneau candidates make pitch to voters at Sept. 16 forum</title>
+      <link>https://www.juneauempire.com/2026/09/12/juneau-candidates-make-pitch-to-voters-at-sept-16-forum/</link>
+      <guid isPermaLink="false">37aa0bef2cf8293d809633e632107a7cc83ab10c</guid>
+      <pubDate>Sat, 12 Sep 2026 16:30:00 GMT</pubDate>
+      <description><![CDATA[Assembly and school board hopefuls will answer questions ahead of voting]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Teen boy rescued after days adrift in Alaskan waters</title>
+      <link>https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">88cc79f7a338c49e71e61761711c8799ce10c882</guid>
+      <pubDate>Sat, 12 Sep 2026 15:03:14 GMT</pubDate>
+      <description><![CDATA[The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Juneau-based startup company selected as finalist for global competition</title>
+      <link>https://www.juneauempire.com/2026/09/12/juneau-based-startup-company-selected-as-finalist-for-global-competition/</link>
+      <guid isPermaLink="false">4925de04be9dbe07ca5825b4155f3c2573ca10bd</guid>
+      <pubDate>Sat, 12 Sep 2026 14:30:00 GMT</pubDate>
+      <description><![CDATA[Frost Methane Labs is one of 20 finalists in the Grow-NY competition]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Juneau’s Capital City Fire Rescue sees slight increase in fire, EMS incidents in August</title>
@@ -295,36 +327,124 @@
       <category>local</category>
     </item>
     <item>
-      <title>Suit challenges Trump administration move to allow some ICE presence at polling places</title>
-      <link>https://alaskabeacon.com/2026/09/10/repub/suit-challenges-trump-administration-move-to-allow-some-ice-presence-at-polling-places/</link>
-      <guid isPermaLink="false">76c7cc3c58edaa11f2fc619631048f1679d0a9fc</guid>
-      <pubDate>Thu, 10 Sep 2026 22:57:28 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — Latino advocacy groups and voting rights organizations Thursday filed a suit in federal court challenging the Trump administration’s policy of allowing U.S. Immigration and Customs Enforcement officers to enter polling locations in certain circumstances to conduct immigration enforcement during the 2026 midterm elections.  The suit in the District Court for the District of […]]]></description>
-      <category>local</category>
+      <title>Anthropic boss Dario Amodei calls for AI development to slow down</title>
+      <link>https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4a1f65fbb798046298bbb27d11c79786b4e4e86b</guid>
+      <pubDate>Sat, 12 Sep 2026 16:38:02 GMT</pubDate>
+      <description><![CDATA[Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Homer panel backs limits on short-term rentals</title>
-      <link>https://www.homernews.com/2026/09/10/homer-panel-backs-limits-on-short-term-rentals/</link>
-      <guid isPermaLink="false">41f5c145849d91f5a99559be8513be67400e922b</guid>
-      <pubDate>Thu, 10 Sep 2026 21:30:00 GMT</pubDate>
-      <description><![CDATA[Owner-occupancy rule and registration would reshape residential lodging]]></description>
-      <category>local</category>
+      <title>Nighttime bathroom trips could reveal hidden health issues — here's when to worry</title>
+      <link>https://www.foxnews.com/health/nighttime-bathroom-trips-reveal-hidden-health-issues-when-worry</link>
+      <guid isPermaLink="false">541377fee16c05a231f9e8ef6e307c128b4ff582</guid>
+      <pubDate>Sat, 12 Sep 2026 16:25:28 GMT</pubDate>
+      <description><![CDATA[Nocturia affects half of adults over 50, but experts say frequent nighttime urination could signal sleep apnea, diabetes or an enlarged prostate.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Juneau police arrest man after woman feared for her life in domestic assault</title>
-      <link>https://www.juneauempire.com/2026/09/10/juneau-police-arrest-man-after-woman-feared-for-her-life-in-domestic-assault/</link>
-      <guid isPermaLink="false">4e83eafe7a34fed1b8a0ed6a9f290410e76ff4a0</guid>
-      <pubDate>Thu, 10 Sep 2026 21:30:00 GMT</pubDate>
-      <description><![CDATA[Woman says she was struck several times with handgun and barrel of gun forced into her mouth]]></description>
-      <category>local</category>
+      <title>Sami Zayn captures Undisputed WWE Championship in chaotic 'Friday Night SmackDown' finale vs CM Punk</title>
+      <link>https://www.foxnews.com/outkick-sports/sami-zayn-captures-undisputed-wwe-championship-chaotic-friday-night-smackdown-finale-vs-cm-punk</link>
+      <guid isPermaLink="false">e574d7cdef3fcebf640c619862c4140104a30739</guid>
+      <pubDate>Sat, 12 Sep 2026 16:15:36 GMT</pubDate>
+      <description><![CDATA[Sami Zayn captured the Undisputed WWE Championship from CM Punk on "SmackDown" after Kevin Owens and Johnny Gargano caused wild ringside chaos.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Schools, libraries sound alarm over potential changes to federal internet program</title>
-      <link>https://alaskabeacon.com/2026/09/10/repub/schools-libraries-sound-alarm-over-potential-changes-to-federal-internet-program/</link>
-      <guid isPermaLink="false">97a72d7ed355d3ac0e90a9cb1295f65874b61078</guid>
-      <pubDate>Thu, 10 Sep 2026 20:30:52 GMT</pubDate>
-      <description><![CDATA[A multi-billion-dollar federal program that helps schools and libraries afford broadband internet is under review by the Trump administration, leaving education officials and advocates worried about potentially significant cuts. The E-Rate program provides about $3 billion annually for internet access and telecommunications to more than 100,000 schools and 11,000 libraries across the country. It is […]]]></description>
-      <category>local</category>
+      <title>Mackenzie Phillips shocks with 15-year celibacy confession as Sharon Stone, Teri Hatcher rethink romance</title>
+      <link>https://www.foxnews.com/entertainment/mackenzie-phillips-shocks-15-year-celibacy-confession-sharon-stone-teri-hatcher-rethink-romance</link>
+      <guid isPermaLink="false">781e472d72ea86624f539993b8593d2fb04ad5bc</guid>
+      <pubDate>Sat, 12 Sep 2026 16:00:32 GMT</pubDate>
+      <description><![CDATA[Mackenzie Phillips revealed on a podcast that she has been celibate for 15 years, joining Sharon Stone and Teri Hatcher in new Hollywood trend.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iowa supervisor slams ban on guaranteed income programs as state ‘waging ideological wars’</title>
+      <link>https://www.foxnews.com/media/iowa-supervisor-slams-ban-guaranteed-income-programs-state-waging-ideological-wars</link>
+      <guid isPermaLink="false">a6282c8e75f4badbab83ae587de89cd27210772b</guid>
+      <pubDate>Sat, 12 Sep 2026 16:00:18 GMT</pubDate>
+      <description><![CDATA[Mandi Remington says Iowa's state ban on guaranteed income programs blocks local governments from testing direct cash payments to fight poverty.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Los Perros del Mal send Los Psycho Circus to the dog house, win AAA trios titles at Triplemania 34</title>
+      <link>https://www.foxnews.com/outkick-sports/los-perros-del-mal-send-los-psycho-circus-dog-house-win-aaa-trios-titles-triplemania-34</link>
+      <guid isPermaLink="false">4a0ba410d9b2711c911866d81ee52b9867320447</guid>
+      <pubDate>Sat, 12 Sep 2026 15:53:04 GMT</pubDate>
+      <description><![CDATA[Los Perros del Mal captured the AAA World Trios Championship at Triplemania 34 after El Carnicero and Karmen Petrovic helped to turn the tide.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bill Maher rips Macklemore's Gaza stance, says celebrity 'moral confusion' is fueling antisemitism</title>
+      <link>https://www.foxnews.com/media/bill-maher-rips-macklemore-gaza-stance-says-celebrity-moral-confusion-fueling-antisemitism</link>
+      <guid isPermaLink="false">4633d907463c575053212f21ce5657f5138fa4d5</guid>
+      <pubDate>Sat, 12 Sep 2026 15:48:04 GMT</pubDate>
+      <description><![CDATA[Bill Maher targeted Macklemore on Rosh Hashanah for calling the Gaza war a genocide, arguing that the claim fuels a global rise in antisemitism.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Tragedy at sea leaves teen stranded on overturned boat for nearly 3 days in frigid waters</title>
+      <link>https://www.foxnews.com/travel/tragedy-sea-leaves-teen-stranded-overturned-boat-nearly-3-days-frigid-waters</link>
+      <guid isPermaLink="false">9ebc34f9d4f98ec04b66ad498268693d076cdb6a</guid>
+      <pubDate>Sat, 12 Sep 2026 15:45:27 GMT</pubDate>
+      <description><![CDATA[A 15-year-old boy survived for nearly three days atop an overturned fishing boat in the Bering Sea before a Coast Guard pilot spotted him at the right moment.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>WWE's Roxanne Perez earns No 1 contender spot for AAA Reina de Reinas Championship at Triplemania 34</title>
+      <link>https://www.foxnews.com/outkick-sports/wwe-roxanne-perez-earns-no-1-contender-spot-aaa-reina-reinas-championship-triplemania-34</link>
+      <guid isPermaLink="false">7b64d320974c677557a0acb6b6d07f04c55faa79</guid>
+      <pubDate>Sat, 12 Sep 2026 15:39:09 GMT</pubDate>
+      <description><![CDATA[Roxanne Perez outlasted Nattie, La Hiedra and Faby Apache at Triplemania 34 to become the No. 1 contender for the Reina de Reinas Championship.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Test your pop culture: From Hollywood to the Heartland</title>
+      <link>https://www.foxnews.com/entertainment/test-your-pop-culture-from-hollywood-heartland-23</link>
+      <guid isPermaLink="false">391c457a87ffaceda7f9f3fa3d1083abe788f839</guid>
+      <pubDate>Sat, 12 Sep 2026 15:30:36 GMT</pubDate>
+      <description><![CDATA[From a Hollywood legend's remarkable military service to controversial campaigns, celebrity home disasters and final summer swimsuit moments, see how closely you followed this week's entertainment headlines.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>From football Saturdays to routine weekdays, the music never stops at this UT house full of college musicians</title>
+      <link>https://www.foxnews.com/outkick-sports/football-saturdays-routine-weekdays-music-never-stops-ut-house-full-college-musicians</link>
+      <guid isPermaLink="false">aa59ef3ff5baa75f874becc43b074b25cf3a7e6b</guid>
+      <pubDate>Sat, 12 Sep 2026 15:29:43 GMT</pubDate>
+      <description><![CDATA[Anna Buendia's "Meet Me Here" program turns a University of Texas student house into a free jam session hub with live music every Sunday in Austin.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Death toll from Philippines ferry fire rises to 76, with more still missing</title>
+      <link>https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a2ba9af87a7df0348cf21a51324847a2402c2edf</guid>
+      <pubDate>Sat, 12 Sep 2026 15:09:55 GMT</pubDate>
+      <description><![CDATA[Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>French officials investigate if malicious act caused train derailment</title>
+      <link>https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">50eead3bd20c6a2f58a8af1cb1ccf42b8128bf4d</guid>
+      <pubDate>Sat, 12 Sep 2026 15:05:53 GMT</pubDate>
+      <description><![CDATA[Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bryan Norcross: No apparent tropical trouble as we look back at peak of the incredible season 100 years ago</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-sept-12-2026</link>
+      <guid isPermaLink="false">4df053e4d4972216fa0119016d8373a8282d4269</guid>
+      <pubDate>Sat, 12 Sep 2026 14:10:27 GMT</pubDate>
+      <description><![CDATA[FOX Weather Hurricane Specialist Bryan Norcross breaks down the current state of the Atlantic and Pacific tropics, and looks back at the incredible hurricane season 100 years ago.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Trump says united Ireland would be 'fantastic' during visit to Dublin</title>
+      <link>https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fd3d6f2dfd38a11f2eac884760d5c371d1ae571a</guid>
+      <pubDate>Sat, 12 Sep 2026 13:56:20 GMT</pubDate>
+      <description><![CDATA[Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will "stick to the Good Friday Agreement".]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Texas Longhorns seek revenge against top-ranked Ohio State after last season's seven-point loss</title>
@@ -364,126 +484,6 @@
       <guid isPermaLink="false">ba033ea2b627952e5cf437ee80d97db5f582d8c5</guid>
       <pubDate>Sat, 12 Sep 2026 13:00:49 GMT</pubDate>
       <description><![CDATA[Abdul El-Sayed appeared on an ISNA panel with Cenk Uygur and Zaid Shakir days before the 9/11 anniversary, raising new questions about his campaign.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Political fights can rip couples apart — therapist shares 3 ways to save a relationship</title>
-      <link>https://www.foxnews.com/health/political-fights-can-rip-couples-apart-therapist-shares-3-ways-save-relationship</link>
-      <guid isPermaLink="false">df09f8a6ba74ee01824353152b2fd920db1c8ae4</guid>
-      <pubDate>Sat, 12 Sep 2026 13:00:47 GMT</pubDate>
-      <description><![CDATA[A marriage therapist reveals three strategies for couples navigating the political divide, from setting boundaries to finding compromise.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The universe’s beautiful fine-tuning leaves atheism facing its biggest question</title>
-      <link>https://www.foxnews.com/opinion/universes-beautiful-fine-tuning-leaves-atheism-facing-biggest-question</link>
-      <guid isPermaLink="false">555c3df60d337d79998b60a32150d3c557db7940</guid>
-      <pubDate>Sat, 12 Sep 2026 13:00:47 GMT</pubDate>
-      <description><![CDATA[A Getty Museum visit with Leonardo da Vinci's art sparked a former atheist's journey into the anthropic principle and our fine-tuned universe.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Record heatwaves in France set to make champagne stronger</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ba0122bcfa24c3d60e969faab1734a50af574a7a</guid>
-      <pubDate>Sat, 12 Sep 2026 13:00:32 GMT</pubDate>
-      <description><![CDATA[Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>OutKick's Craig Carton reveals the real reason Nike stock is in the tank: 'They're failing miserably'</title>
-      <link>https://www.foxnews.com/outkick-sports/outkicks-craig-carton-reveals-real-reason-nike-stock-tank-theyre-failing-miserably</link>
-      <guid isPermaLink="false">112149b0c95d2753db47f50351a0c7bd100ff398</guid>
-      <pubDate>Sat, 12 Sep 2026 13:00:08 GMT</pubDate>
-      <description><![CDATA[Craig Carton traces Nike's downfall from its Colin Kaepernick partnership to the Dylan Mulvaney sports bra campaign that replaced Brandi Chastain.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Missouri coach explains why he tried to 'embarrass' rival Kansas in final seconds</title>
-      <link>https://www.foxnews.com/outkick-sports/missouri-coach-explains-why-he-tried-embarrass-rival-kansas-final-seconds</link>
-      <guid isPermaLink="false">cbb5f323d7ed14449746b4d01e1ff7ed9108d829</guid>
-      <pubDate>Sat, 12 Sep 2026 12:58:41 GMT</pubDate>
-      <description><![CDATA[The Border Showdown turned ugly after Kansas' Civil War hype video went viral, and Eli Drinkwitz says he intentionally tried to embarrass them.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Reform receives second £36m donation in two days as crypto investor matches record</title>
-      <link>https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">924e68c394664100d86c233cebca2d6a760c8ee3</guid>
-      <pubDate>Sat, 12 Sep 2026 12:58:18 GMT</pubDate>
-      <description><![CDATA[Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>A united Ireland would be 'fantastic' says Trump during Irish visit</title>
-      <link>https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">fd3d6f2dfd38a11f2eac884760d5c371d1ae571a</guid>
-      <pubDate>Sat, 12 Sep 2026 12:54:23 GMT</pubDate>
-      <description><![CDATA[Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations</title>
-      <link>https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e3e42ec726e8d712b6d298663b7089f9a90dbba8</guid>
-      <pubDate>Sat, 12 Sep 2026 12:51:24 GMT</pubDate>
-      <description><![CDATA[As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Lady Gaga and fiancé Michael Polansky welcome their first child together: report</title>
-      <link>https://www.foxnews.com/entertainment/lady-gaga-fiance-michael-polansky-welcome-first-child-together-report</link>
-      <guid isPermaLink="false">15b5373f2bfd257c3f53e0cdd1cbd908763a73b4</guid>
-      <pubDate>Sat, 12 Sep 2026 12:33:58 GMT</pubDate>
-      <description><![CDATA[Lady Gaga and fiancé Michael Polansky have reportedly welcomed their first child together, fulfilling the singer's long-expressed desire for motherhood.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>England survive scare to sweep Pakistan series</title>
-      <link>https://www.bbc.co.uk/sport/cricket/articles/c770z1j5l0ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7ff642940cc56525021c6dc512352eb660c243d7</guid>
-      <pubDate>Sat, 12 Sep 2026 12:20:38 GMT</pubDate>
-      <description><![CDATA[England survive an almighty scare to eventually win the third Test against Pakistan by eight wickets and complete a 3-0 clean sweep.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Yankee stadium security tackles field invader waving Palestinian flag during 9/11 anniversary game</title>
-      <link>https://www.foxnews.com/outkick-sports/yankee-stadium-security-tackle-field-invader-waving-palestinian-flag-during-911-anniversary-game</link>
-      <guid isPermaLink="false">bfc89bfeb84e87a6c05150bbc1d1287b741490a5</guid>
-      <pubDate>Sat, 12 Sep 2026 12:16:33 GMT</pubDate>
-      <description><![CDATA[A spectator carrying a Palestinian flag was tackled on the field during the Yankees-Mets 9/11 anniversary game in New York on Friday night.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Democrats are within striking distance in the Senate, but shouldn't celebrate yet</title>
-      <link>https://www.foxnews.com/opinion/democrats-within-striking-distance-senate-shouldnt-celebrate-yet</link>
-      <guid isPermaLink="false">41b2c4677339d3a50888216dd5914be43190382f</guid>
-      <pubDate>Sat, 12 Sep 2026 12:00:59 GMT</pubDate>
-      <description><![CDATA[Democrats are within striking distance of flipping the Senate, but razor-thin margins and candidate flaws in Texas, Michigan, and Maine loom large.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>OPINION: 25 years on, a nation still mourns</title>
-      <link>https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns</link>
-      <guid isPermaLink="false">a418618899971a29e0abe4e378ee929a1c6c5c47</guid>
-      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
-      <description><![CDATA[A moment to remember those lost in the 9/11 terrorist attacks 25 years ago yesterday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>A cancer survivor hoped to work — then she lost her Medicaid disability coverage</title>
-      <link>https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid</link>
-      <guid isPermaLink="false">95285e7e184f610f5705ff2f42b960aaad051ebb</guid>
-      <pubDate>Sat, 12 Sep 2026 11:00:00 GMT</pubDate>
-      <description><![CDATA[As state governments grapple with how to determine who's sick enough to be excused from new Medicaid work requirements, some families are already struggling with what illnesses guarantee health coverage because of a disability.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump meets Ireland's leaders before heading to his golf club in Doonbeg</title>
-      <link>https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders</link>
-      <guid isPermaLink="false">928d96c5325af75da0b4f76f2a47c1df1272d55c</guid>
-      <pubDate>Sat, 12 Sep 2026 10:55:14 GMT</pubDate>
-      <description><![CDATA[U.S. President Donald Trump has held talks in Dublin with Irish President Catherine Connolly and Ireland's Prime Minister Micheál Martin during a weekend visit centered on a major golf tournament.]]></description>
       <category>world</category>
     </item>
     <item>
