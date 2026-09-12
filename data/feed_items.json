@@ -1,5 +1,15 @@
 [
   {
+    "title": "Remains believed to be linked to Hurricane Helene victim discovered years after deadly storm",
+    "link": "https://www.foxweather.com/weather-news/human-remains-hurricane-helene-victim-found-tennessee",
+    "description": "Police in Tennessee have discovered human remains that they believe belong to a Hurricane Helene victim. The Washoe County Sheriff's Office said they are investigating a scene in the Jackson Island area after human remains were found by debris removal specialists.",
+    "pubDate": "Sat, 12 Sep 2026 23:10:22 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "Iowa band member dies after suffering heat-related emergency at football game, family says",
     "link": "https://www.foxweather.com/weather-news/iowa-band-member-dies-collapse-heat-football-game",
     "description": "An Iowa community is mourning the loss of a college band student after he collapsed due to the heat last weekend, his family announced. Derek Phillips experienced sudden cardiac arrest, and passed away days later after suffering brain damage, according to the Phillips family.",
@@ -390,14 +400,104 @@
     "rank": 100
   },
   {
-    "title": "Alaska Legislature will support state\u2019s bootlegging penalties in front of U.S. Supreme Court",
-    "link": "https://alaskabeacon.com/2026/09/10/alaska-legislature-will-support-states-bootlegging-penalties-in-front-of-u-s-supreme-court/",
-    "description": "The Alaska Legislature will join Gov. Mike Dunleavy\u2019s administration in seeking to defend the state\u2019s anti-bootlegging punishments in front of the U.S. Supreme Court. On Thursday, the joint House-Senate Legislative Council voted to hire an outside attorney to draft a friend-of-the-court letter \u2014 formally known as an amicus brief \u2014 in support of the state [\u2026]",
-    "pubDate": "Fri, 11 Sep 2026 00:45:16 GMT",
+    "title": "Student loan terms to be made clearer in England",
+    "link": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
+    "description": "Changes will spell out that governments can change rules and that career choices affect repayments.",
+    "pubDate": "Sat, 12 Sep 2026 23:20:29 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Rybakina wins US Open to inflict further pain on Sabalenka",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
+    "description": "Elena Rybakina demonstrates why she is the best women's player in the world by beating Aryna Sabalenka to win her first US Open title.",
+    "pubDate": "Sat, 12 Sep 2026 23:19:08 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Will the Thirlwall report change the debate about Lucy Letby?",
+    "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
+    "description": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.",
+    "pubDate": "Sat, 12 Sep 2026 23:15:54 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Diljit Dosanjh makes history under the famous Wembley arch",
+    "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
+    "description": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue.",
+    "pubDate": "Sat, 12 Sep 2026 23:06:08 GMT",
     "category": "politics",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Oklahoma State stuns Oregon, deals early season blow to Ducks' national title hopes",
+    "link": "https://www.foxnews.com/outkick-sports/oklahoma-state-stuns-oregon-deals-early-season-blow-ducks-national-title-hopes",
+    "description": "Drew Mestemaker threw for 317 yards and rushed for 109 as Oklahoma State ended a 21-game FBS losing skid with a massive college football upset.",
+    "pubDate": "Sat, 12 Sep 2026 22:30:04 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Country singer Brian 'Nashville' Duckworth, voice behind family band Taylor Made, dies at 56",
+    "link": "https://www.foxnews.com/entertainment/country-singer-brian-nashville-duckworth-voice-behind-family-band-taylor-made-dies-56",
+    "description": "Brian \"Nashville\" Duckworth performed with family band Taylor Made and scored a Billboard hit before his death at age 56 at his home on Sept. 7.",
+    "pubDate": "Sat, 12 Sep 2026 22:28:26 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+    "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+    "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+    "pubDate": "Sat, 12 Sep 2026 21:25:28 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+    "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+    "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Michigan exercises clock demons from week one win, vanquishes 11th ranked Oklahoma in Ann Arbor",
+    "link": "https://www.foxnews.com/outkick-sports/michigan-exercises-clock-demons-week-one-win-vanquishes-11th-ranked-oklahoma-ann-arbor",
+    "description": "Bryce Underwood rushed 18 times for 87 yards as Michigan's defense smothered Heisman contender John Mateer in a stunning upset in Ann Arbor.",
+    "pubDate": "Sat, 12 Sep 2026 21:10:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "More Americans are dining alone as solo restaurant reservations soar, data shows",
+    "link": "https://www.foxnews.com/food-drink/more-americans-dining-alone-solo-restaurant-reservations-soar-data-shows",
+    "description": "Solo restaurant reservations surged 22% year over year, according to Toast data, as dining alone sheds its stigma and reshapes the industry.",
+    "pubDate": "Sat, 12 Sep 2026 21:03:05 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "Former ESPN host hypocritically calls network a 'political lobbying firm' after Ted Cruz appearance",
@@ -437,6 +537,16 @@
     "category": "weather",
     "tag": "world",
     "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "From Portland to Buffalo, here are 5 of the best chicken wing destinations across America",
+    "link": "https://www.foxnews.com/food-drink/portland-buffalo-5-best-chicken-wing-destinations-across-america",
+    "description": "From award-winning sauces in Portland to a legendary Buffalo tavern, these five restaurants across the U.S. serve some of the best chicken wings in America.",
+    "pubDate": "Sat, 12 Sep 2026 20:37:20 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
     "rank": 10
   },
   {
@@ -490,130 +600,20 @@
     "rank": 10
   },
   {
-    "title": "Four Wisconsin cops injured after suspected drunk driver barrels toward crowd, sparks police chase",
-    "link": "https://www.foxnews.com/us/four-wisconsin-cops-injured-after-suspected-drunk-driver-barrels-toward-crowd-sparks-police-chase",
-    "description": "Four Wisconsin police officers were injured after a car drove toward a crowd at a Green Bay food truck disturbance, prompting an officer to fire.",
-    "pubDate": "Sat, 12 Sep 2026 20:13:07 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Pink hits back amid backlash for criticizing Macklemore's pro-Palestinian concert remarks",
-    "link": "https://www.foxnews.com/entertainment/pink-hits-back-backlash-criticizing-macklemore-pro-palestinian-concert-remarks",
-    "description": "Pink doubles down on criticism of Macklemore after his \"Free Palestine\" chants and anti-Israel song performance at a concert, sharing an emotional statement as a Jewish mom.",
-    "pubDate": "Sat, 12 Sep 2026 20:03:13 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "As Americans are crushed by affordability, mayors push cash handouts as the answer in growing trend",
-    "link": "https://www.foxnews.com/media/americans-crushed-affordability-organization-claims-cash-handouts-answer",
-    "description": "The Economic Securities Project argues cash assistance works best during life transitions as mayors scramble to replace expiring ARPA pandemic aid.",
-    "pubDate": "Sat, 12 Sep 2026 20:00:29 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Fire at nursing home in Chile kills 16 residents",
-    "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-    "description": "Ten people were evacuated from the home in Araucan\u00eda region in central Chile.",
-    "pubDate": "Sat, 12 Sep 2026 19:36:50 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Three arrests at Portsmouth protests including man, 76, suspected of concealing identity",
-    "link": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
-    "description": "Rival demonstrators march through Portsmouth as new police powers come into force.",
-    "pubDate": "Sat, 12 Sep 2026 18:43:01 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-    "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
-    "description": "Nazira Haji Zada, a lawful permanent resident, conceded to being an \"alien terrorist.\" It marks the first case in the Alien Terrorist Removal Court.",
-    "pubDate": "Sat, 12 Sep 2026 18:29:18 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Judge Judy preparing to end decades-long run as TV's toughest judge",
-    "link": "https://www.foxnews.com/entertainment/judge-judy-preparing-end-decades-long-run-tvs-toughest-judge",
-    "description": "Judge Judy Sheindlin reveals she's retiring from TV after \"Judy Justice\" ends in October, but her next move keeps her in the entertainment world.",
-    "pubDate": "Sat, 12 Sep 2026 18:15:13 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Dem handlers lash out when Ramaswamy staffer confronts their boss about debate: \u2018No pictures\u2019",
-    "link": "https://www.foxnews.com/politics/dem-handlers-lash-out-when-ramaswamy-staffer-confronts-boss-about-debate-no-pictures",
-    "description": "Video shows Amy Acton's campaign staff confronting a cameraman who asked why she refuses to debate Vivek Ramaswamy in the Ohio governor race.",
-    "pubDate": "Sat, 12 Sep 2026 17:57:10 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Intel chief warns of 'evolving' threats as terror groups now 'recruit their agents online'",
-    "link": "https://www.foxnews.com/media/intel-chief-warns-evolving-threats-terror-groups-recruit-agents-online",
-    "description": "Director of National Intelligence Jay Clayton warns terrorists now recruit online, citing an alleged ISIS bomb plot near New York City's Gracie Mansion.",
-    "pubDate": "Sat, 12 Sep 2026 17:55:44 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Bulgaria investigates fire at weapons site that owner calls sabotage",
-    "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
-    "description": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
-    "pubDate": "Sat, 12 Sep 2026 17:38:21 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Reform receives second \u00a336m donation in two days as crypto investor matches record",
-    "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
-    "description": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
-    "pubDate": "Sat, 12 Sep 2026 17:36:45 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: Today - Chance Light Rain",
+    "title": "Anchorage Weather: This Afternoon - Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "62\u00b0F. Wind E 0 to 5 mph. A chance of rain before 1pm. Mostly cloudy, with a high near 62. East wind 0 to 5 mph. Chance of precipitation is 40%.",
-    "pubDate": "Sat, 12 Sep 2026 21:09:16 GMT",
+    "description": "60\u00b0F. Wind NW 5 mph. Partly sunny, with a high near 60. Northwest wind around 5 mph.",
+    "pubDate": "Sat, 12 Sep 2026 23:40:10 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Tonight - Mostly Clear then Patchy Fog",
+    "title": "Anchorage Weather: Tonight - Partly Cloudy then Patchy Fog",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "46\u00b0F. Wind NW 0 to 5 mph. Patchy fog after 4am. Mostly clear, with a low around 46. Northwest wind 0 to 5 mph.",
-    "pubDate": "Sat, 12 Sep 2026 21:09:16 GMT",
+    "description": "46\u00b0F. Wind NW 0 to 5 mph. Patchy fog after 4am. Partly cloudy, with a low around 46. Northwest wind 0 to 5 mph.",
+    "pubDate": "Sat, 12 Sep 2026 23:40:10 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -622,8 +622,8 @@
   {
     "title": "Anchorage Weather: Sunday - Patchy Fog",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "64\u00b0F. Wind N 0 to 5 mph. Patchy fog before 1pm. Mostly sunny, with a high near 64. North wind 0 to 5 mph.",
-    "pubDate": "Sat, 12 Sep 2026 21:09:16 GMT",
+    "description": "62\u00b0F. Wind N 0 to 5 mph. Patchy fog before 1pm. Mostly sunny, with a high near 62. North wind 0 to 5 mph.",
+    "pubDate": "Sat, 12 Sep 2026 23:40:10 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -632,8 +632,8 @@
   {
     "title": "Anchorage Weather: Sunday Night - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "47\u00b0F. Wind  0 mph. Partly cloudy, with a low around 47. North wind around 0 mph.",
-    "pubDate": "Sat, 12 Sep 2026 21:09:16 GMT",
+    "description": "46\u00b0F. Wind  0 mph. Partly cloudy, with a low around 46. North wind around 0 mph.",
+    "pubDate": "Sat, 12 Sep 2026 23:40:10 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -642,8 +642,8 @@
   {
     "title": "Anchorage Weather: Monday - Partly Sunny then Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "59\u00b0F. Wind  0 mph. A chance of rain after 1pm. Partly sunny, with a high near 59. North wind around 0 mph. Chance of precipitation is 30%.",
-    "pubDate": "Sat, 12 Sep 2026 21:09:16 GMT",
+    "description": "58\u00b0F. Wind  0 mph. A chance of rain after 1pm. Partly sunny, with a high near 58. North wind around 0 mph. Chance of precipitation is 30%.",
+    "pubDate": "Sat, 12 Sep 2026 23:40:10 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
