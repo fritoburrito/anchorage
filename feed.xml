@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 03:55:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:05:41 GMT</lastBuildDate>
     <item>
-      <title>Indonesian passenger ship carrying 240 people loses contact in Java Sea, search underway</title>
-      <link>https://www.foxnews.com/world/indonesian-passenger-ship-carrying-240-people-loses-contact-java-sea-search-underway</link>
-      <guid isPermaLink="false">cc2e86b84521fc9a26ff81767b7679da32b93831</guid>
-      <pubDate>Sun, 13 Sep 2026 03:55:03 GMT</pubDate>
-      <description><![CDATA[The Virgo Transport 8 vanished crossing the Java Sea with 240 people aboard en route from Surabaya to Banjarmasin, triggering an urgent search.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight - Partly Cloudy then Patchy Fog</title>
+      <title>Anchorage Weather: Overnight - Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 07:56:08 GMT</pubDate>
-      <description><![CDATA[46°F. Wind  0 mph. Patchy fog after 4am. Partly cloudy, with a low around 46. North wind around 0 mph.]]></description>
+      <pubDate>Sun, 13 Sep 2026 13:05:41 GMT</pubDate>
+      <description><![CDATA[46°F. Wind  0 mph. Patchy fog after 4am. Partly cloudy, with a low around 46. Northeast wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Sunday - Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 07:56:08 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 13:05:41 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 0 to 5 mph. Patchy fog before 1pm. Mostly sunny, with a high near 62. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,25 +26,33 @@
       <title>Anchorage Weather: Sunday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 07:56:08 GMT</pubDate>
-      <description><![CDATA[46°F. Wind  0 mph. Partly cloudy, with a low around 46. North wind around 0 mph.]]></description>
+      <pubDate>Sun, 13 Sep 2026 13:05:41 GMT</pubDate>
+      <description><![CDATA[46°F. Wind  0 mph. Partly cloudy, with a low around 46. South wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Monday - Partly Sunny then Chance Light Rain</title>
+      <title>Anchorage Weather: Monday - Mostly Sunny then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 07:56:08 GMT</pubDate>
-      <description><![CDATA[58°F. Wind  0 mph. A chance of rain after 1pm. Partly sunny, with a high near 58. North wind around 0 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Sun, 13 Sep 2026 13:05:41 GMT</pubDate>
+      <description><![CDATA[58°F. Wind  0 mph. A chance of rain after 4pm. Mostly sunny, with a high near 58. South wind around 0 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Monday Night - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 07:56:08 GMT</pubDate>
-      <description><![CDATA[50°F. Wind S 0 to 5 mph. Rain. Cloudy, with a low around 50. South wind 0 to 5 mph. Chance of precipitation is 80%.]]></description>
+      <pubDate>Sun, 13 Sep 2026 13:05:41 GMT</pubDate>
+      <description><![CDATA[50°F. Wind  0 mph. Rain. Cloudy, with a low around 50. Southeast wind around 0 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Juneau schools could get nearly $5 million for HVAC upgrades</title>
+      <link>https://www.juneauempire.com/2026/09/13/juneau-schools-could-get-nearly-5-million-for-hvac-upgrades/</link>
+      <guid isPermaLink="false">d0d2d7cfccc825cd3e8a233b170fc5dbebcd2ecc</guid>
+      <pubDate>Sun, 13 Sep 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Required energy audits are complete at five district campuses]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Juneau school staffing gaps hit gifted, support programs</title>
@@ -295,20 +295,140 @@
       <category>local</category>
     </item>
     <item>
-      <title>Newscast – Thursday, Sept. 10, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17444967/newscast-thursday-sept-10-2026</link>
-      <guid isPermaLink="false">9c95c6963616ba7d7ff3976bf62739a27c7fc492</guid>
-      <pubDate>Fri, 11 Sep 2026 01:06:03 GMT</pubDate>
-      <description><![CDATA[In this newscast: Black bears feasted at Juneau's dump all summer after the company that owns it took down a portion of the wildlife fence for construction; A Lingít opera, nearly a decade in the making, is debuting in Juneau this Friday; More young people in Alaska died of suicide in 2025 than in any other year in the past decade; A University of Alaska Southeast student used music to present data collected from a watershed in Juneau.]]></description>
-      <category>local</category>
+      <title>‘Family Affair’ star Kathy Garver says failed remake ‘sucked,’ reveals what went wrong</title>
+      <link>https://www.foxnews.com/entertainment/family-affair-star-kathy-garver-failed-remake-sucked-reveals-what-went-wrong</link>
+      <guid isPermaLink="false">dda66e12be7d7332c01e4da842a885caa1a1c3e4</guid>
+      <pubDate>Sun, 13 Sep 2026 13:00:13 GMT</pubDate>
+      <description><![CDATA[Kathy Garver called the 2002 "Family Affair" remake terrible, saying Gary Cole and Tim Curry couldn't replicate the original cast's deep warmth.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Alaska gubernatorial candidates vow support for the seafood industry while revealing some splits</title>
-      <link>https://alaskabeacon.com/2026/09/10/alaska-gubernatorial-candidates-vow-support-for-the-seafood-industry-while-revealing-some-splits/</link>
-      <guid isPermaLink="false">0ba0df4f88eee6166de1133e659c7653d36afd03</guid>
-      <pubDate>Fri, 11 Sep 2026 01:00:50 GMT</pubDate>
-      <description><![CDATA[At a fisheries forum held Wednesday night in Kodiak, all four candidates remaining in Alaska’s gubernatorial race found plenty of common ground. Former state Rep. Jonathan Kreiss-Tomkins, a Democrat, and the three Republicans, former Anchorage Mayor Dave Bronson, former state Attorney General Treg Taylor and business owner and talk-show host Bernadette Wilson, described the seafood […]]]></description>
-      <category>local</category>
+      <title>‘Food divorce’ trend among couples could drive them apart, experts warn</title>
+      <link>https://www.foxnews.com/health/food-divorce-trend-couples-could-drive-them-apart-experts-warn</link>
+      <guid isPermaLink="false">e0b4dd220d686c62be4fe8e060681bae21fd4ca0</guid>
+      <pubDate>Sun, 13 Sep 2026 13:00:09 GMT</pubDate>
+      <description><![CDATA["Food divorce" has some couples eating separately, but experts warn the growing trend erodes relationship quality and emotional well-being over time.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hollywood producer spent 25 years praying for Tinseltown, says 'you can't hate them'</title>
+      <link>https://www.foxnews.com/media/hollywood-producer-spent-25-years-praying-tinseltown-says-you-cant-hate-them</link>
+      <guid isPermaLink="false">d7453f117b65a935d5293c6cd0a04cbc47fc500d</guid>
+      <pubDate>Sun, 13 Sep 2026 13:00:01 GMT</pubDate>
+      <description><![CDATA[Faith-based Hollywood Prayer Network celebrates 25 years of praying and creating community for entertainment’s storytellers.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Six dead, 130 missing after Indonesian ferry capsizes in Java Sea</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f1c6b50dde0f0da7d88c4f298f536b16015f54c5</guid>
+      <pubDate>Sun, 13 Sep 2026 12:56:39 GMT</pubDate>
+      <description><![CDATA[Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Dan Dakich says women might be the reason for Nike's downfall: 'They p----d them off'</title>
+      <link>https://www.foxnews.com/outkick-sports/dan-dakich-says-women-might-reason-nikes-downfall-they-p-d-them-off</link>
+      <guid isPermaLink="false">5563f2c1c854c33d6a2a3b182848d037e3c47c4f</guid>
+      <pubDate>Sun, 13 Sep 2026 12:45:20 GMT</pubDate>
+      <description><![CDATA[Dan Dakich says Nike's collapse stems from alienating women buyers and losing ground to Athleta and Lululemon in a booming competitive market.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Raiders favored at -3 over Miami Dolphins as Malik Willis and Kirk Cousins face off in NFL week one</title>
+      <link>https://www.foxnews.com/outkick-sports/raiders-favored-3-miami-dolphins-malik-willis-kirk-cousins-face-nfl-week-one</link>
+      <guid isPermaLink="false">c15f6e591f9ddbf56fb0d329c6aca07920102f7b</guid>
+      <pubDate>Sun, 13 Sep 2026 12:28:51 GMT</pubDate>
+      <description><![CDATA[The first full Red Zone schedule features the Miami Dolphins vs. Las Vegas Raiders, and in a home game, the Raiders at -3 look like the smart betting play.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>theScore Bet Promo Code: Get a $1000 Bet Reset Ahead of the Opening NFL Sunday of the 2026 Season</title>
+      <link>https://www.foxnews.com/outkick-betting/thescore-bet-promo-code-get-1000-bet-reset-ahead-opening-nfl-sunday-2026-season</link>
+      <guid isPermaLink="false">94aadbb23ddf3637e9232821120fcab772e68b2b</guid>
+      <pubDate>Sun, 13 Sep 2026 12:24:12 GMT</pubDate>
+      <description><![CDATA[New users can claim a $1,000 Bet Reset with theScore Bet promo for Week 1 of the 2026 NFL season, featuring 13 Sunday games including Bears-Panthers.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fanatics Promo Code FOXNEWS350: Get $1000 Bonus, Bet $20, Get $350 in Select States for the first NFL Sunday</title>
+      <link>https://www.foxnews.com/outkick-betting/fanatics-promo-code-foxnews350-get-1000-bonus-bet-20-get-350-select-states-first-nfl-sunday</link>
+      <guid isPermaLink="false">cd416623c57dcd07138dd6296865fd9deb8a2cd4</guid>
+      <pubDate>Sun, 13 Sep 2026 12:23:31 GMT</pubDate>
+      <description><![CDATA[Fanatics Sportsbook promo code FOXNEWS350 gives new users up to $1,000 in FanCash, with bet $20, get $350 offers in select states for NFL Sunday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Betr Promo Code FOXNEWS Unlocks $200 in Bonuses Ahead of the First NFL Sunday of the Season</title>
+      <link>https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlocks-200-bonuses-ahead-first-nfl-sunday-season</link>
+      <guid isPermaLink="false">adc5c2f78eef1d8712b55e1349ffe9a07a28db1b</guid>
+      <pubDate>Sun, 13 Sep 2026 12:22:04 GMT</pubDate>
+      <description><![CDATA[Betr promo code FOXNEWS gives new users $200 in bonus bets and two No Sweat Entries ahead of the first full Sunday of NFL Week 1 action]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Underdog Promo Code FOXNEWS Unlocks the Keep Your $1 Million Promo + $1000 Deposit Match on NFL Sunday</title>
+      <link>https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-keep-your-1-million-promo-1000-deposit-match-nfl-sunday</link>
+      <guid isPermaLink="false">9367c5d29d2a802426f9eb8e852abf9b947b725b</guid>
+      <pubDate>Sun, 13 Sep 2026 12:19:21 GMT</pubDate>
+      <description><![CDATA[Underdog promo code FOXNEWS gives new users a 50% deposit match up to $1,000, plus access to the Keep Your Million survival game for NFL Sunday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dabble Promo Code FOXNEWS Unlocks Play $5, Get $50 Promo For NFL Sunday</title>
+      <link>https://www.foxnews.com/outkick-betting/dabble-promo-code-foxnews-unlocks-play-5-get-50-promo-nfl-sunday</link>
+      <guid isPermaLink="false">affb614398af6e085ae46394fa19dad68fa63ddf</guid>
+      <pubDate>Sun, 13 Sep 2026 12:18:46 GMT</pubDate>
+      <description><![CDATA[Dabble promo code FOXNEWS lets new users play $5 and get $50 in bonuses for a full slate of NFL Sunday action, including this weekend's Cowboys-Giants.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Reform's £72m donations 'entirely in line with law', Jenrick says</title>
+      <link>https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">17783bc709994da64c8bfc0aebe812033fcd5230</guid>
+      <pubDate>Sun, 13 Sep 2026 12:05:43 GMT</pubDate>
+      <description><![CDATA[The government is trying to change the law on donations to UK political parties from British expats.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iran war reshapes Brics ties but also exposes divisions</title>
+      <link>https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2da8da4404563cde5e96b189ba58e9e9cbfc7e90</guid>
+      <pubDate>Sun, 13 Sep 2026 11:23:42 GMT</pubDate>
+      <description><![CDATA[Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC</title>
+      <link>https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">306185c011fe0f51db102af3d47f4d77fc5b8e76</guid>
+      <pubDate>Sun, 13 Sep 2026 11:16:06 GMT</pubDate>
+      <description><![CDATA[High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Can you imagine a universe without a new 'Star Trek' on the horizon?</title>
+      <link>https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary</link>
+      <guid isPermaLink="false">6b07c065602ed2cb5639e0fba782559b4f4f8bf3</guid>
+      <pubDate>Sun, 13 Sep 2026 11:00:00 GMT</pubDate>
+      <description><![CDATA[As Star Trek celebrates its 60th birthday, the long-running franchise is also grappling with the challenges of timing and technology. "Its audience is aging," says Strange New Worlds star Anson Mount.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Indonesian passenger ship overturns, sparking search for about 130 missing</title>
+      <link>https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns</link>
+      <guid isPermaLink="false">00dcc2e8e6ce90b3bfb7a6a456c84240a145261f</guid>
+      <pubDate>Sun, 13 Sep 2026 10:31:10 GMT</pubDate>
+      <description><![CDATA[Indonesian rescuers said about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>How a young woman became an ISIS bride — and then an informant, helping save others</title>
+      <link>https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis</link>
+      <guid isPermaLink="false">4be8bf01902526a3fbaa397634fc95c816b27271</guid>
+      <pubDate>Sun, 13 Sep 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[A young Canadian mother shares her memories of being an ISIS bride, and her harrowing escape from the extremist group.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>One dead, 102 rescued from Indonesian ferry that went missing in Java Sea</title>
@@ -332,134 +452,6 @@
       <guid isPermaLink="false">7af31bff2513867fc2ebbf203a395aa8ab837574</guid>
       <pubDate>Sun, 13 Sep 2026 07:28:22 GMT</pubDate>
       <description><![CDATA[Kaegan Jude Solet is sought as a person of interest after four people were found stabbed to death and a child critically wounded in Houma, Louisiana.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>PM's top security adviser says Europe faces hard winter to keep pressure on Putin</title>
-      <link>https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c821fbdaef86fc80a443656149dbd51a1a5f8dcb</guid>
-      <pubDate>Sun, 13 Sep 2026 06:21:12 GMT</pubDate>
-      <description><![CDATA[In rare public remarks, Jonathan Powell said now was not the time for European nations to take their "foot off the gas".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Arch Manning and Texas Longhorns erase 20-point deficit to stun Ohio State in shocking comeback for the ages</title>
-      <link>https://www.foxnews.com/outkick-sports/arch-manning-texas-longhorns-erase-20-point-deficit-stun-ohio-state-shocking-comeback-ages</link>
-      <guid isPermaLink="false">35d3635a16c5a8c505b863d4e6e19a9022efb65a</guid>
-      <pubDate>Sun, 13 Sep 2026 04:57:00 GMT</pubDate>
-      <description><![CDATA[Arch Manning and the Texas Longhorns erased a 23-3 deficit against Ohio State in a stunning fourth-quarter surge that silenced doubters on a wild day.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Florida woman accused of setting stranger on fire at gas station, leaving horrific burns</title>
-      <link>https://www.foxnews.com/us/florida-woman-accused-setting-stranger-fire-gas-station-leaving-horrific-burns</link>
-      <guid isPermaLink="false">bbd9a052e7e89c0e6bbde18300945e4286a0f4c0</guid>
-      <pubDate>Sun, 13 Sep 2026 03:19:38 GMT</pubDate>
-      <description><![CDATA[Video captured Eleanor Crawford allegedly igniting gasoline while a stranger pumped fuel at a St. Petersburg Mobil gas station, police said.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris</title>
-      <link>https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ad59eb6e9bc6037b66ad0b12dd79effd5ae8b9cc</guid>
-      <pubDate>Sun, 13 Sep 2026 02:41:51 GMT</pubDate>
-      <description><![CDATA[The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Knife-wielding man races at officer in packed seaside park before one deadly shot rings out: video</title>
-      <link>https://www.foxnews.com/us/knife-wielding-man-races-officer-packed-seaside-park-before-one-deadly-shot-rings-out-video</link>
-      <guid isPermaLink="false">8a1ffc4839e7998361459e6037adf3bbe3d23f77</guid>
-      <pubDate>Sun, 13 Sep 2026 02:41:37 GMT</pubDate>
-      <description><![CDATA[Santa Monica police bodycam video shows 44-year-old Michael Rodriguez charging an officer with a knife in Palisades Park before he was shot and killed by police.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Elena Rybakina ends Aryna Sabalenka's bid for third straight US Open title</title>
-      <link>https://www.foxnews.com/outkick-sports/elena-rybakina-ends-aryna-sabalenka-bid-third-straight-us-open-title</link>
-      <guid isPermaLink="false">87022795d6e9509d3ff1aec698a5c3085826c2e5</guid>
-      <pubDate>Sun, 13 Sep 2026 01:50:28 GMT</pubDate>
-      <description><![CDATA[Elena Rybakina claimed her first US Open title and the world No. 1 ranking by ending Aryna Sabalenka's 19-match winning streak at Flushing Meadows.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC</title>
-      <link>https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9e45ff75931a7d5d436fc25ba5e9a83c635fef44</guid>
-      <pubDate>Sun, 13 Sep 2026 01:15:04 GMT</pubDate>
-      <description><![CDATA[Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>They lost their jobs after posting about Charlie Kirk, but some have no regrets</title>
-      <link>https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8cc83cc7debbfb158420c53236c1c9099831c3ef</guid>
-      <pubDate>Sun, 13 Sep 2026 00:49:08 GMT</pubDate>
-      <description><![CDATA[Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Uninvited woman enters Kamala Harris' Malibu property prompting sheriff response: reports</title>
-      <link>https://www.foxnews.com/politics/uninvited-woman-enters-kamala-harris-malibu-property-prompting-sheriff-response</link>
-      <guid isPermaLink="false">c9ce99273f2156cd8270a43f0ac6ca0b5048f4da</guid>
-      <pubDate>Sun, 13 Sep 2026 00:42:46 GMT</pubDate>
-      <description><![CDATA[A woman twice showed up uninvited at Kamala Harris and Doug Emhoff's $8 million Malibu home, prompting security to call the sheriff late Friday evening.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Reacher' star Alan Ritchson and wife Catherine splitting up after 2 decades of marriage</title>
-      <link>https://www.foxnews.com/entertainment/reacher-star-alan-ritchson-wife-catherine-splitting-2-decades-marriage</link>
-      <guid isPermaLink="false">8b0ae8dcfc41f5b1321240808777d2be6ffe3e83</guid>
-      <pubDate>Sun, 13 Sep 2026 00:27:21 GMT</pubDate>
-      <description><![CDATA[Alan Ritchson and wife Catherine announced their split after 20 years of marriage, vowing to co-parent their three sons with grace and friendship.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Son of notorious Somali dictator reportedly living in Ohio decades after brutal regime's collapse</title>
-      <link>https://www.foxnews.com/us/son-notorious-somali-dictator-reportedly-living-ohio-decades-after-brutal-regimes-collapse</link>
-      <guid isPermaLink="false">b0f1993a6d5ffe4ccddf7fb04df7c8c5e34434c1</guid>
-      <pubDate>Sun, 13 Sep 2026 00:12:54 GMT</pubDate>
-      <description><![CDATA[Ayanle Siad Barre, son of Somalia's former dictator, has been living in Ohio's large Somali community, prompting calls for a U.S. investigation.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Celine Dion returns to the stage after battling rare illness</title>
-      <link>https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris</link>
-      <guid isPermaLink="false">6578bafed300410f1ccc5bdf32b92625454ff2b8</guid>
-      <pubDate>Sat, 12 Sep 2026 23:54:06 GMT</pubDate>
-      <description><![CDATA[The Canadian singer opened up her 16-show residency in Paris at the Plenitude Arena. The entire series is sold out.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Russians seek answers over hundreds missing after Ukraine's 2024 incursion</title>
-      <link>https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7cd64c2ba3e2f7da5ad00536c806ad0eeec5976e</guid>
-      <pubDate>Sat, 12 Sep 2026 23:51:05 GMT</pubDate>
-      <description><![CDATA[Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Drag Race co-creator fears for queer representation after BBC drops show</title>
-      <link>https://www.bbc.co.uk/news/articles/c86x4pd720xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3330f19df2819995489421845b4e64c06b18c4be</guid>
-      <pubDate>Sat, 12 Sep 2026 23:49:23 GMT</pubDate>
-      <description><![CDATA[The BBC is cutting the show because of financial pressures, sparking discussion about LGBTQ+ representation on TV.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Some dentists say more young people are grinding their teeth - are you one of them?</title>
-      <link>https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c79dd7272ff025fb0c96c3f16df795660fa68e6a</guid>
-      <pubDate>Sat, 12 Sep 2026 23:43:52 GMT</pubDate>
-      <description><![CDATA[Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again</title>
-      <link>https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ca9c1f7a86464e34d9f06b32feb677acb6457f0e</guid>
-      <pubDate>Sat, 12 Sep 2026 23:41:52 GMT</pubDate>
-      <description><![CDATA[The Harry Potter actor talks about taking on Broadway and his friendship with former co-stars]]></description>
       <category>world</category>
     </item>
     <item>
@@ -492,6 +484,14 @@
       <guid isPermaLink="false">e1f61e5b87ee1f4590b4d8e5d49955c2e651e1e7</guid>
       <pubDate>Fri, 11 Sep 2026 14:09:50 GMT</pubDate>
       <description><![CDATA[Since weather satellite data became the norm in the 60s, the latest date for our first hurricane in the Atlantic has been Sept. 11.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Flooding rain, thunderstorms threaten major East Coast cities as ongoing downpours drench Northeast</title>
+      <link>https://www.foxweather.com/weather-news/severe-storms-bring-heavy-rain-thunderstorms-east-coast-weekend</link>
+      <guid isPermaLink="false">a469cd88c6f027a8bab675627d49abd6018b5e71</guid>
+      <pubDate>Fri, 11 Sep 2026 10:32:48 GMT</pubDate>
+      <description><![CDATA[Millions of Americans are facing another day of wet weather, with rain and storms expected to impact communities from Washington, D.C. to Boston.]]></description>
       <category>weather</category>
     </item>
     <item>
