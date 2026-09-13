@@ -5,20 +5,28 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 02:47:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 03:55:03 GMT</lastBuildDate>
+    <item>
+      <title>Indonesian passenger ship carrying 240 people loses contact in Java Sea, search underway</title>
+      <link>https://www.foxnews.com/world/indonesian-passenger-ship-carrying-240-people-loses-contact-java-sea-search-underway</link>
+      <guid isPermaLink="false">cc2e86b84521fc9a26ff81767b7679da32b93831</guid>
+      <pubDate>Sun, 13 Sep 2026 03:55:03 GMT</pubDate>
+      <description><![CDATA[The Virgo Transport 8 vanished crossing the Java Sea with 240 people aboard en route from Surabaya to Banjarmasin, triggering an urgent search.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Anchorage Weather: Tonight - Partly Cloudy then Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 02:47:43 GMT</pubDate>
-      <description><![CDATA[46°F. Wind NW 0 to 5 mph. Patchy fog after 4am. Partly cloudy, with a low around 46. Northwest wind 0 to 5 mph.]]></description>
+      <pubDate>Sun, 13 Sep 2026 07:56:08 GMT</pubDate>
+      <description><![CDATA[46°F. Wind  0 mph. Patchy fog after 4am. Partly cloudy, with a low around 46. North wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Sunday - Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 02:47:43 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 07:56:08 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 0 to 5 mph. Patchy fog before 1pm. Mostly sunny, with a high near 62. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +34,7 @@
       <title>Anchorage Weather: Sunday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 02:47:43 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 07:56:08 GMT</pubDate>
       <description><![CDATA[46°F. Wind  0 mph. Partly cloudy, with a low around 46. North wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +42,7 @@
       <title>Anchorage Weather: Monday - Partly Sunny then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 02:47:43 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 07:56:08 GMT</pubDate>
       <description><![CDATA[58°F. Wind  0 mph. A chance of rain after 1pm. Partly sunny, with a high near 58. North wind around 0 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -42,8 +50,8 @@
       <title>Anchorage Weather: Monday Night - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 02:47:43 GMT</pubDate>
-      <description><![CDATA[50°F. Wind S 0 to 5 mph. Rain. Cloudy, with a low around 50. South wind 0 to 5 mph. Chance of precipitation is 90%.]]></description>
+      <pubDate>Sun, 13 Sep 2026 07:56:08 GMT</pubDate>
+      <description><![CDATA[50°F. Wind S 0 to 5 mph. Rain. Cloudy, with a low around 50. South wind 0 to 5 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -303,11 +311,67 @@
       <category>local</category>
     </item>
     <item>
+      <title>One dead, 102 rescued from Indonesian ferry that went missing in Java Sea</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f1c6b50dde0f0da7d88c4f298f536b16015f54c5</guid>
+      <pubDate>Sun, 13 Sep 2026 07:54:28 GMT</pubDate>
+      <description><![CDATA[The nation's search and rescue team said it lost contact with the Virgo Transport 8 in the early hours of Sunday morning.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Wisconsin GOP governor candidate swims from sinking plane after emergency lake landing</title>
+      <link>https://www.foxnews.com/politics/tom-tiffany-wisconsin-plane-crash-emergency-landing</link>
+      <guid isPermaLink="false">6890b5c7990f354ecfc9a84e234434482eeb3032</guid>
+      <pubDate>Sun, 13 Sep 2026 07:37:17 GMT</pubDate>
+      <description><![CDATA[Wisconsin Republican Tom Tiffany says he and the pilot swam from a sinking Bonanza after an emergency water landing in Lake Wausau Saturday night.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Man accused in brutal motel stabbing sought as person of interest in 4 deaths, child attack</title>
+      <link>https://www.foxnews.com/us/kaegan-solet-houma-louisiana-stabbing-person-of-interest</link>
+      <guid isPermaLink="false">7af31bff2513867fc2ebbf203a395aa8ab837574</guid>
+      <pubDate>Sun, 13 Sep 2026 07:28:22 GMT</pubDate>
+      <description><![CDATA[Kaegan Jude Solet is sought as a person of interest after four people were found stabbed to death and a child critically wounded in Houma, Louisiana.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>PM's top security adviser says Europe faces hard winter to keep pressure on Putin</title>
+      <link>https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c821fbdaef86fc80a443656149dbd51a1a5f8dcb</guid>
+      <pubDate>Sun, 13 Sep 2026 06:21:12 GMT</pubDate>
+      <description><![CDATA[In rare public remarks, Jonathan Powell said now was not the time for European nations to take their "foot off the gas".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Arch Manning and Texas Longhorns erase 20-point deficit to stun Ohio State in shocking comeback for the ages</title>
+      <link>https://www.foxnews.com/outkick-sports/arch-manning-texas-longhorns-erase-20-point-deficit-stun-ohio-state-shocking-comeback-ages</link>
+      <guid isPermaLink="false">35d3635a16c5a8c505b863d4e6e19a9022efb65a</guid>
+      <pubDate>Sun, 13 Sep 2026 04:57:00 GMT</pubDate>
+      <description><![CDATA[Arch Manning and the Texas Longhorns erased a 23-3 deficit against Ohio State in a stunning fourth-quarter surge that silenced doubters on a wild day.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Florida woman accused of setting stranger on fire at gas station, leaving horrific burns</title>
+      <link>https://www.foxnews.com/us/florida-woman-accused-setting-stranger-fire-gas-station-leaving-horrific-burns</link>
+      <guid isPermaLink="false">bbd9a052e7e89c0e6bbde18300945e4286a0f4c0</guid>
+      <pubDate>Sun, 13 Sep 2026 03:19:38 GMT</pubDate>
+      <description><![CDATA[Video captured Eleanor Crawford allegedly igniting gasoline while a stranger pumped fuel at a St. Petersburg Mobil gas station, police said.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris</title>
       <link>https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">ad59eb6e9bc6037b66ad0b12dd79effd5ae8b9cc</guid>
       <pubDate>Sun, 13 Sep 2026 02:41:51 GMT</pubDate>
       <description><![CDATA[The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Knife-wielding man races at officer in packed seaside park before one deadly shot rings out: video</title>
+      <link>https://www.foxnews.com/us/knife-wielding-man-races-officer-packed-seaside-park-before-one-deadly-shot-rings-out-video</link>
+      <guid isPermaLink="false">8a1ffc4839e7998361459e6037adf3bbe3d23f77</guid>
+      <pubDate>Sun, 13 Sep 2026 02:41:37 GMT</pubDate>
+      <description><![CDATA[Santa Monica police bodycam video shows 44-year-old Michael Rodriguez charging an officer with a knife in Palisades Park before he was shot and killed by police.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -367,6 +431,14 @@
       <category>world</category>
     </item>
     <item>
+      <title>Russians seek answers over hundreds missing after Ukraine's 2024 incursion</title>
+      <link>https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7cd64c2ba3e2f7da5ad00536c806ad0eeec5976e</guid>
+      <pubDate>Sat, 12 Sep 2026 23:51:05 GMT</pubDate>
+      <description><![CDATA[Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Drag Race co-creator fears for queer representation after BBC drops show</title>
       <link>https://www.bbc.co.uk/news/articles/c86x4pd720xo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">3330f19df2819995489421845b4e64c06b18c4be</guid>
@@ -383,43 +455,11 @@
       <category>world</category>
     </item>
     <item>
-      <title>US Coach Kara Lawson opens up on importance of winning World Cup final for country on 9/11 anniversary weekend</title>
-      <link>https://www.foxnews.com/outkick-sports/us-coach-kara-lawson-opens-importance-winning-world-cup-final-country-911-anniversary-weekend</link>
-      <guid isPermaLink="false">0551df615a429a0701f4f5948a9a12a7c95a6113</guid>
-      <pubDate>Sat, 12 Sep 2026 23:37:08 GMT</pubDate>
-      <description><![CDATA[Kara Lawson says a FIBA Women's World Cup title would carry special meaning after the 9/11 anniversary, hoping Team USA can unite the country.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dad dies after horrifying cruise ship accident while celebrating his son’s wedding</title>
-      <link>https://www.foxnews.com/travel/dad-dies-horrifying-cruise-ship-accident-while-celebrating-sons-wedding</link>
-      <guid isPermaLink="false">4d9b1b173da4101d6f30137530141bb2964194ec</guid>
-      <pubDate>Sat, 12 Sep 2026 23:32:56 GMT</pubDate>
-      <description><![CDATA[Pastor Steve Junker of Minnesota suffered a spinal cord injury and nearly drowned in a pool aboard the Sun Princess cruise ship while celebrating his son's wedding in Italy.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Student loan terms to be made clearer in England</title>
-      <link>https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0120d8080c22821c42cb27905fced5501d4b8db9</guid>
-      <pubDate>Sat, 12 Sep 2026 23:20:29 GMT</pubDate>
-      <description><![CDATA[Changes will spell out that governments can change rules and that career choices affect repayments.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Rybakina wins US Open to inflict further pain on Sabalenka</title>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">321aa38e0ba30c583e42a3c2843aef056034c096</guid>
-      <pubDate>Sat, 12 Sep 2026 23:19:08 GMT</pubDate>
-      <description><![CDATA[Elena Rybakina demonstrates why she is the best women's player in the world by beating Aryna Sabalenka to win her first US Open title.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Will the Thirlwall report change the debate about Lucy Letby?</title>
-      <link>https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8fe6336eb59c0403d9d3f6160f7cb05c8e9c519d</guid>
-      <pubDate>Sat, 12 Sep 2026 23:15:54 GMT</pubDate>
-      <description><![CDATA[The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.]]></description>
+      <title>Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again</title>
+      <link>https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ca9c1f7a86464e34d9f06b32feb677acb6457f0e</guid>
+      <pubDate>Sat, 12 Sep 2026 23:41:52 GMT</pubDate>
+      <description><![CDATA[The Harry Potter actor talks about taking on Broadway and his friendship with former co-stars]]></description>
       <category>world</category>
     </item>
     <item>
@@ -429,46 +469,6 @@
       <pubDate>Sat, 12 Sep 2026 23:10:22 GMT</pubDate>
       <description><![CDATA[Police in Tennessee have discovered human remains that they believe belong to a Hurricane Helene victim. The Washoe County Sheriff's Office said they are investigating a scene in the Jackson Island area after human remains were found by debris removal specialists.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Diljit Dosanjh makes history under the famous Wembley arch</title>
-      <link>https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bb97ca8cbaef6b7c68989c474f7582323ae57e46</guid>
-      <pubDate>Sat, 12 Sep 2026 23:06:08 GMT</pubDate>
-      <description><![CDATA[Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Oklahoma State stuns Oregon, deals early season blow to Ducks' national title hopes</title>
-      <link>https://www.foxnews.com/outkick-sports/oklahoma-state-stuns-oregon-deals-early-season-blow-ducks-national-title-hopes</link>
-      <guid isPermaLink="false">38128685ee519a0fc314edc091d042f7a78f4fd2</guid>
-      <pubDate>Sat, 12 Sep 2026 22:30:04 GMT</pubDate>
-      <description><![CDATA[Drew Mestemaker threw for 317 yards and rushed for 109 as Oklahoma State ended a 21-game FBS losing skid with a massive college football upset.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Country singer Brian 'Nashville' Duckworth, voice behind family band Taylor Made, dies at 56</title>
-      <link>https://www.foxnews.com/entertainment/country-singer-brian-nashville-duckworth-voice-behind-family-band-taylor-made-dies-56</link>
-      <guid isPermaLink="false">686997c870c5e82e8eea30ed3709599f47364867</guid>
-      <pubDate>Sat, 12 Sep 2026 22:28:26 GMT</pubDate>
-      <description><![CDATA[Brian "Nashville" Duckworth performed with family band Taylor Made and scored a Billboard hit before his death at age 56 at his home on Sept. 7.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Trump's comments on a united Ireland may have targeted audience across the Atlantic</title>
-      <link>https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">cd21a5daca06e5a7b21f110f5639f3a3f496806c</guid>
-      <pubDate>Sat, 12 Sep 2026 21:25:28 GMT</pubDate>
-      <description><![CDATA[Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Afghan woman deported from US in first use of 'alien terrorist' court</title>
-      <link>https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">28eca65c1ee82cae0a67ec70fa2d8390ca7a7175</guid>
-      <pubDate>Sat, 12 Sep 2026 21:19:11 GMT</pubDate>
-      <description><![CDATA[The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Iowa band member dies after suffering heat-related emergency at football game, family says</title>
