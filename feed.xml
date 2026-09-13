@@ -5,20 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 23:40:10 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Partly Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 12 Sep 2026 23:40:10 GMT</pubDate>
-      <description><![CDATA[60°F. Wind NW 5 mph. Partly sunny, with a high near 60. Northwest wind around 5 mph.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Sun, 13 Sep 2026 02:47:43 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Partly Cloudy then Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 12 Sep 2026 23:40:10 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 02:47:43 GMT</pubDate>
       <description><![CDATA[46°F. Wind NW 0 to 5 mph. Patchy fog after 4am. Partly cloudy, with a low around 46. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +18,7 @@
       <title>Anchorage Weather: Sunday - Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 12 Sep 2026 23:40:10 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 02:47:43 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 0 to 5 mph. Patchy fog before 1pm. Mostly sunny, with a high near 62. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Sunday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 12 Sep 2026 23:40:10 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 02:47:43 GMT</pubDate>
       <description><![CDATA[46°F. Wind  0 mph. Partly cloudy, with a low around 46. North wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,8 +34,16 @@
       <title>Anchorage Weather: Monday - Partly Sunny then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 12 Sep 2026 23:40:10 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 02:47:43 GMT</pubDate>
       <description><![CDATA[58°F. Wind  0 mph. A chance of rain after 1pm. Partly sunny, with a high near 58. North wind around 0 mph. Chance of precipitation is 30%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday Night - Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 13 Sep 2026 02:47:43 GMT</pubDate>
+      <description><![CDATA[50°F. Wind S 0 to 5 mph. Rain. Cloudy, with a low around 50. South wind 0 to 5 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -303,6 +303,102 @@
       <category>local</category>
     </item>
     <item>
+      <title>Critics celebrate Céline Dion's 'high-stakes' comeback show in Paris</title>
+      <link>https://www.bbc.co.uk/news/articles/cj3dzy3n84no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ad59eb6e9bc6037b66ad0b12dd79effd5ae8b9cc</guid>
+      <pubDate>Sun, 13 Sep 2026 02:41:51 GMT</pubDate>
+      <description><![CDATA[The iconic Canadian singer kicked off her long-awaited comeback show in Paris on Saturday, after a six-year hiatus due to health issues.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Elena Rybakina ends Aryna Sabalenka's bid for third straight US Open title</title>
+      <link>https://www.foxnews.com/outkick-sports/elena-rybakina-ends-aryna-sabalenka-bid-third-straight-us-open-title</link>
+      <guid isPermaLink="false">87022795d6e9509d3ff1aec698a5c3085826c2e5</guid>
+      <pubDate>Sun, 13 Sep 2026 01:50:28 GMT</pubDate>
+      <description><![CDATA[Elena Rybakina claimed her first US Open title and the world No. 1 ranking by ending Aryna Sabalenka's 19-match winning streak at Flushing Meadows.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC</title>
+      <link>https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9e45ff75931a7d5d436fc25ba5e9a83c635fef44</guid>
+      <pubDate>Sun, 13 Sep 2026 01:15:04 GMT</pubDate>
+      <description><![CDATA[Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>They lost their jobs after posting about Charlie Kirk, but some have no regrets</title>
+      <link>https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8cc83cc7debbfb158420c53236c1c9099831c3ef</guid>
+      <pubDate>Sun, 13 Sep 2026 00:49:08 GMT</pubDate>
+      <description><![CDATA[Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Uninvited woman enters Kamala Harris' Malibu property prompting sheriff response: reports</title>
+      <link>https://www.foxnews.com/politics/uninvited-woman-enters-kamala-harris-malibu-property-prompting-sheriff-response</link>
+      <guid isPermaLink="false">c9ce99273f2156cd8270a43f0ac6ca0b5048f4da</guid>
+      <pubDate>Sun, 13 Sep 2026 00:42:46 GMT</pubDate>
+      <description><![CDATA[A woman twice showed up uninvited at Kamala Harris and Doug Emhoff's $8 million Malibu home, prompting security to call the sheriff late Friday evening.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Reacher' star Alan Ritchson and wife Catherine splitting up after 2 decades of marriage</title>
+      <link>https://www.foxnews.com/entertainment/reacher-star-alan-ritchson-wife-catherine-splitting-2-decades-marriage</link>
+      <guid isPermaLink="false">8b0ae8dcfc41f5b1321240808777d2be6ffe3e83</guid>
+      <pubDate>Sun, 13 Sep 2026 00:27:21 GMT</pubDate>
+      <description><![CDATA[Alan Ritchson and wife Catherine announced their split after 20 years of marriage, vowing to co-parent their three sons with grace and friendship.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Son of notorious Somali dictator reportedly living in Ohio decades after brutal regime's collapse</title>
+      <link>https://www.foxnews.com/us/son-notorious-somali-dictator-reportedly-living-ohio-decades-after-brutal-regimes-collapse</link>
+      <guid isPermaLink="false">b0f1993a6d5ffe4ccddf7fb04df7c8c5e34434c1</guid>
+      <pubDate>Sun, 13 Sep 2026 00:12:54 GMT</pubDate>
+      <description><![CDATA[Ayanle Siad Barre, son of Somalia's former dictator, has been living in Ohio's large Somali community, prompting calls for a U.S. investigation.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Celine Dion returns to the stage after battling rare illness</title>
+      <link>https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris</link>
+      <guid isPermaLink="false">6578bafed300410f1ccc5bdf32b92625454ff2b8</guid>
+      <pubDate>Sat, 12 Sep 2026 23:54:06 GMT</pubDate>
+      <description><![CDATA[The Canadian singer opened up her 16-show residency in Paris at the Plenitude Arena. The entire series is sold out.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Drag Race co-creator fears for queer representation after BBC drops show</title>
+      <link>https://www.bbc.co.uk/news/articles/c86x4pd720xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3330f19df2819995489421845b4e64c06b18c4be</guid>
+      <pubDate>Sat, 12 Sep 2026 23:49:23 GMT</pubDate>
+      <description><![CDATA[The BBC is cutting the show because of financial pressures, sparking discussion about LGBTQ+ representation on TV.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Some dentists say more young people are grinding their teeth - are you one of them?</title>
+      <link>https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c79dd7272ff025fb0c96c3f16df795660fa68e6a</guid>
+      <pubDate>Sat, 12 Sep 2026 23:43:52 GMT</pubDate>
+      <description><![CDATA[Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US Coach Kara Lawson opens up on importance of winning World Cup final for country on 9/11 anniversary weekend</title>
+      <link>https://www.foxnews.com/outkick-sports/us-coach-kara-lawson-opens-importance-winning-world-cup-final-country-911-anniversary-weekend</link>
+      <guid isPermaLink="false">0551df615a429a0701f4f5948a9a12a7c95a6113</guid>
+      <pubDate>Sat, 12 Sep 2026 23:37:08 GMT</pubDate>
+      <description><![CDATA[Kara Lawson says a FIBA Women's World Cup title would carry special meaning after the 9/11 anniversary, hoping Team USA can unite the country.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dad dies after horrifying cruise ship accident while celebrating his son’s wedding</title>
+      <link>https://www.foxnews.com/travel/dad-dies-horrifying-cruise-ship-accident-while-celebrating-sons-wedding</link>
+      <guid isPermaLink="false">4d9b1b173da4101d6f30137530141bb2964194ec</guid>
+      <pubDate>Sat, 12 Sep 2026 23:32:56 GMT</pubDate>
+      <description><![CDATA[Pastor Steve Junker of Minnesota suffered a spinal cord injury and nearly drowned in a pool aboard the Sun Princess cruise ship while celebrating his son's wedding in Italy.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Student loan terms to be made clearer in England</title>
       <link>https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">0120d8080c22821c42cb27905fced5501d4b8db9</guid>
@@ -367,99 +463,11 @@
       <category>world</category>
     </item>
     <item>
-      <title>Anthropic boss Dario Amodei calls for AI development to slow down</title>
-      <link>https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4a1f65fbb798046298bbb27d11c79786b4e4e86b</guid>
-      <pubDate>Sat, 12 Sep 2026 21:16:47 GMT</pubDate>
-      <description><![CDATA[The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Michigan exercises clock demons from week one win, vanquishes 11th ranked Oklahoma in Ann Arbor</title>
-      <link>https://www.foxnews.com/outkick-sports/michigan-exercises-clock-demons-week-one-win-vanquishes-11th-ranked-oklahoma-ann-arbor</link>
-      <guid isPermaLink="false">1bd2967d6007428ddc4c9e015fb1107a2af3da59</guid>
-      <pubDate>Sat, 12 Sep 2026 21:10:09 GMT</pubDate>
-      <description><![CDATA[Bryce Underwood rushed 18 times for 87 yards as Michigan's defense smothered Heisman contender John Mateer in a stunning upset in Ann Arbor.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>More Americans are dining alone as solo restaurant reservations soar, data shows</title>
-      <link>https://www.foxnews.com/food-drink/more-americans-dining-alone-solo-restaurant-reservations-soar-data-shows</link>
-      <guid isPermaLink="false">c09f46e61a6d89155b72aa03b235b299d19f6ea3</guid>
-      <pubDate>Sat, 12 Sep 2026 21:03:05 GMT</pubDate>
-      <description><![CDATA[Solo restaurant reservations surged 22% year over year, according to Toast data, as dining alone sheds its stigma and reshapes the industry.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Former ESPN host hypocritically calls network a 'political lobbying firm' after Ted Cruz appearance</title>
-      <link>https://www.foxnews.com/outkick-sports/former-espn-host-hypocritically-calls-network-political-lobbying-firm-after-ted-cruz-appearance</link>
-      <guid isPermaLink="false">728648d7efc853fc43ae8e8682a1888a612cdb43</guid>
-      <pubDate>Sat, 12 Sep 2026 20:54:57 GMT</pubDate>
-      <description><![CDATA[Jemele Hill slammed ESPN for hosting Senator Ted Cruz on "College GameDay," but her own history of political commentary on the network reveals blatant hypocricy.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Team USA survives Spain scare with fourth-quarter surge to reach FIBA Women's World Cup final</title>
-      <link>https://www.foxnews.com/outkick-sports/team-usa-survives-spain-scare-fourth-quarter-surge-reach-fiba-womens-world-cup-final</link>
-      <guid isPermaLink="false">881bce9699b688f88010bdabb72b1a99a0060b74</guid>
-      <pubDate>Sat, 12 Sep 2026 20:49:06 GMT</pubDate>
-      <description><![CDATA[Team USA trailed Spain entering the fourth quarter before a dominant 18-8 closing run saved a dynasty dating back to 2006 in FIBA World Cup play.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Anthropic CEO calls on AI industry to slow down tech race, drawing support from Elon Musk, Sam Altman</title>
-      <link>https://www.foxnews.com/media/anthropic-ceo-calls-ai-industry-slow-down-tech-race-drawing-support-elon-musk-sam-altman</link>
-      <guid isPermaLink="false">3ef4487f29bf006d06af0e1fd7036ed8a32e7b8f</guid>
-      <pubDate>Sat, 12 Sep 2026 20:48:40 GMT</pubDate>
-      <description><![CDATA[Anthropic CEO Dario Amodei's slowdown plea drew Elon Musk's support, but whistleblowers warn voluntary rules fall short as Rep. Anna Paulina Luna demands a kill switch.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves</title>
-      <link>https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">23d5dd42aa06a172b091f5da5350c4060a747174</guid>
-      <pubDate>Sat, 12 Sep 2026 20:37:29 GMT</pubDate>
-      <description><![CDATA[Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of "skimpflation".]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>From Portland to Buffalo, here are 5 of the best chicken wing destinations across America</title>
-      <link>https://www.foxnews.com/food-drink/portland-buffalo-5-best-chicken-wing-destinations-across-america</link>
-      <guid isPermaLink="false">84338c7c1ad476b2175f48a9791bbab9dfc73226</guid>
-      <pubDate>Sat, 12 Sep 2026 20:37:20 GMT</pubDate>
-      <description><![CDATA[From award-winning sauces in Portland to a legendary Buffalo tavern, these five restaurants across the U.S. serve some of the best chicken wings in America.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>From Portland to Buffalo, these are 5 of the best chicken wing destinations across America</title>
-      <link>https://www.foxnews.com/food-drink/portland-buffalo-5-best-chicken-wing-destinations-across-america</link>
-      <guid isPermaLink="false">84338c7c1ad476b2175f48a9791bbab9dfc73226</guid>
-      <pubDate>Sat, 12 Sep 2026 20:37:20 GMT</pubDate>
-      <description><![CDATA[From award-winning sauces in Portland to a legendary Buffalo tavern, these five restaurants serve some of the best chicken wings in America.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat</title>
-      <link>https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">420d57a0ec272f065400f4e8273ead5eba221734</guid>
-      <pubDate>Sat, 12 Sep 2026 20:27:25 GMT</pubDate>
-      <description><![CDATA[Dayana Yastremska says her flat took a "direct hit" by a Russian missile in Odesa, and all that left was her Roland Garros towel.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>World-record bluefin tuna caught off the coast of San Diego on rod and reel by sport fisherman</title>
-      <link>https://www.foxnews.com/outkick-culture/world-record-bluefin-tuna-caught-coast-san-diego-rod-reel-sport-fisherman</link>
-      <guid isPermaLink="false">cf2db72f29dfbf9456bde1178b3192c2ca875e19</guid>
-      <pubDate>Sat, 12 Sep 2026 20:25:22 GMT</pubDate>
-      <description><![CDATA[A record 446-pound giant bluefin tuna was reeled in off San Diego on a rod and reel, and the massive catch is now being served as local sashimi.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Star from 'The Breakfast Club' looks unrecognizable with long beard and hair in rare public sighting</title>
-      <link>https://www.foxnews.com/entertainment/star-from-breakfast-club-looks-unrecognizable-long-beard-hair-rare-public-sighting</link>
-      <guid isPermaLink="false">059bb2c141252e63593c7b64e16f0c56b45fe067</guid>
-      <pubDate>Sat, 12 Sep 2026 20:24:16 GMT</pubDate>
-      <description><![CDATA[Judd Nelson was spotted riding a motorcycle in West Hollywood, sporting a long beard and long hair that left the Brat Pack star unrecognizable.]]></description>
+      <title>Afghan woman deported from US in first use of 'alien terrorist' court</title>
+      <link>https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">28eca65c1ee82cae0a67ec70fa2d8390ca7a7175</guid>
+      <pubDate>Sat, 12 Sep 2026 21:19:11 GMT</pubDate>
+      <description><![CDATA[The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -469,14 +477,6 @@
       <pubDate>Sat, 12 Sep 2026 20:23:21 GMT</pubDate>
       <description><![CDATA[An Iowa community is mourning the loss of a college band student after he collapsed due to the heat last weekend, his family announced. Derek Phillips experienced sudden cardiac arrest, and passed away days later after suffering brain damage, according to the Phillips family.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Kristin Cavallari rocks daring denim and lace look in sizzling new photos</title>
-      <link>https://www.foxnews.com/entertainment/kristin-cavallari-rocks-daring-denim-lace-look-sizzling-new-photos</link>
-      <guid isPermaLink="false">3aa502c6daf7b175ac3c489271fe534978c0adcb</guid>
-      <pubDate>Sat, 12 Sep 2026 20:19:14 GMT</pubDate>
-      <description><![CDATA[Kristin Cavallari modeled the Detour collection in a desert-set shoot fans compared to Britney Spears, marking a return to "old-school Uncommon James."]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Bryan Norcross: No apparent tropical trouble as we look back at peak of the incredible season 100 years ago</title>
