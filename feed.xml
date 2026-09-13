@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 13:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 17:11:47 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Overnight - Patchy Fog</title>
+      <title>Anchorage Weather: Today - Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 13:05:41 GMT</pubDate>
-      <description><![CDATA[46°F. Wind  0 mph. Patchy fog after 4am. Partly cloudy, with a low around 46. Northeast wind around 0 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Sunday - Patchy Fog</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 13:05:41 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 17:11:47 GMT</pubDate>
       <description><![CDATA[62°F. Wind N 0 to 5 mph. Patchy fog before 1pm. Mostly sunny, with a high near 62. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday Night - Partly Cloudy</title>
+      <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 13:05:41 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 17:11:47 GMT</pubDate>
       <description><![CDATA[46°F. Wind  0 mph. Partly cloudy, with a low around 46. South wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Monday - Mostly Sunny then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 13:05:41 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 17:11:47 GMT</pubDate>
       <description><![CDATA[58°F. Wind  0 mph. A chance of rain after 4pm. Mostly sunny, with a high near 58. South wind around 0 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +34,25 @@
       <title>Anchorage Weather: Monday Night - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 13:05:41 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 17:11:47 GMT</pubDate>
       <description><![CDATA[50°F. Wind  0 mph. Rain. Cloudy, with a low around 50. Southeast wind around 0 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Tuesday - Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 13 Sep 2026 17:11:47 GMT</pubDate>
+      <description><![CDATA[58°F. Wind SE 0 to 15 mph. Rain. Cloudy, with a high near 58. Southeast wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>LETTER: More enforcement needed on foreign-flagged boats</title>
+      <link>https://www.juneauempire.com/2026/09/13/letter-more-enforcement-needed-on-foreign-flagged-boats/</link>
+      <guid isPermaLink="false">714c7ae23b43b6fb581286f3fd7710821be78b3d</guid>
+      <pubDate>Sun, 13 Sep 2026 15:30:00 GMT</pubDate>
+      <description><![CDATA[The demand for Alaska’s wilderness is increasing, but foreign-flagged boats and un-permitted pirate operators are pushing out local companies. Recently, the Coast Guard stopped a foreign-built charter vessel that was running illegally, competing with local Alaskan companies. The charter was terminated, and the vessel was escorted back to Sitka. This is a good first step, but there are still many more illegally running vessels that are damaging legal U.S. businesses.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Juneau schools could get nearly $5 million for HVAC upgrades</title>
@@ -287,172 +295,180 @@
       <category>local</category>
     </item>
     <item>
-      <title>LETTER: Use Mendenhall Lake to buffer the flood</title>
-      <link>https://www.juneauempire.com/2026/09/11/letter-use-mendenhall-lake-to-buffer-the-flood/</link>
-      <guid isPermaLink="false">2716a00d35f6645b12edaf62f5861740c7e5df45</guid>
-      <pubDate>Fri, 11 Sep 2026 09:30:00 GMT</pubDate>
-      <description><![CDATA[From what I have read in the news, the 2026 glacial lake outburst flood (GLOF) may have been less severe for several reasons, including: the release from Suicide Basin was slower; the release under the glacier may have happened differently from previous years; the level of Mendenhall Lake was lower than in 2025 (due to less precipitation in the summer of 2026).]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>‘Family Affair’ star Kathy Garver says failed remake ‘sucked,’ reveals what went wrong</title>
-      <link>https://www.foxnews.com/entertainment/family-affair-star-kathy-garver-failed-remake-sucked-reveals-what-went-wrong</link>
-      <guid isPermaLink="false">dda66e12be7d7332c01e4da842a885caa1a1c3e4</guid>
-      <pubDate>Sun, 13 Sep 2026 13:00:13 GMT</pubDate>
-      <description><![CDATA[Kathy Garver called the 2002 "Family Affair" remake terrible, saying Gary Cole and Tim Curry couldn't replicate the original cast's deep warmth.]]></description>
+      <title>Trump team unloads on liberal journalist over Natalie Harp posts: ‘Sick, deluded freak’</title>
+      <link>https://www.foxnews.com/media/trump-team-unloads-liberal-journalist-natalie-harp-posts-sick-deluded-freak</link>
+      <guid isPermaLink="false">838ba4dc313e053dea2c1184a4e1e04e67560ce0</guid>
+      <pubDate>Sun, 13 Sep 2026 17:03:02 GMT</pubDate>
+      <description><![CDATA[The White House fired back at Aaron Rupar over his #TravelWithNatalie posts about aide Natalie Harp joining Trump on his Ireland trip.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>‘Food divorce’ trend among couples could drive them apart, experts warn</title>
-      <link>https://www.foxnews.com/health/food-divorce-trend-couples-could-drive-them-apart-experts-warn</link>
-      <guid isPermaLink="false">e0b4dd220d686c62be4fe8e060681bae21fd4ca0</guid>
-      <pubDate>Sun, 13 Sep 2026 13:00:09 GMT</pubDate>
-      <description><![CDATA["Food divorce" has some couples eating separately, but experts warn the growing trend erodes relationship quality and emotional well-being over time.]]></description>
+      <title>Popular GLP-1 weight-loss drugs linked to potentially deadly brain disorder</title>
+      <link>https://www.foxnews.com/health/popular-glp-1-weight-loss-drugs-linked-potentially-deadly-brain-disorder</link>
+      <guid isPermaLink="false">5e8aa6d9fd94e175aed46dee9990c3b3c6ee25b2</guid>
+      <pubDate>Sun, 13 Sep 2026 17:00:19 GMT</pubDate>
+      <description><![CDATA[A study linked 15 cases of Wernicke encephalopathy to GLP-1 drugs like Ozempic and Mounjaro, raising concerns about vitamin B1 deficiency risks.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Hollywood producer spent 25 years praying for Tinseltown, says 'you can't hate them'</title>
-      <link>https://www.foxnews.com/media/hollywood-producer-spent-25-years-praying-tinseltown-says-you-cant-hate-them</link>
-      <guid isPermaLink="false">d7453f117b65a935d5293c6cd0a04cbc47fc500d</guid>
-      <pubDate>Sun, 13 Sep 2026 13:00:01 GMT</pubDate>
-      <description><![CDATA[Faith-based Hollywood Prayer Network celebrates 25 years of praying and creating community for entertainment’s storytellers.]]></description>
+      <title>Trump doubles down on united Ireland comments on day two of visit</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">162a032f2fe57bf95e99d06ec34eff367c837eaf</guid>
+      <pubDate>Sun, 13 Sep 2026 16:57:58 GMT</pubDate>
+      <description><![CDATA[The US president was speaking at the Irish Open on Sunday and said "many people agree" with his comments.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Six dead, 130 missing after Indonesian ferry capsizes in Java Sea</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f1c6b50dde0f0da7d88c4f298f536b16015f54c5</guid>
-      <pubDate>Sun, 13 Sep 2026 12:56:39 GMT</pubDate>
-      <description><![CDATA[Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Dan Dakich says women might be the reason for Nike's downfall: 'They p----d them off'</title>
-      <link>https://www.foxnews.com/outkick-sports/dan-dakich-says-women-might-reason-nikes-downfall-they-p-d-them-off</link>
-      <guid isPermaLink="false">5563f2c1c854c33d6a2a3b182848d037e3c47c4f</guid>
-      <pubDate>Sun, 13 Sep 2026 12:45:20 GMT</pubDate>
-      <description><![CDATA[Dan Dakich says Nike's collapse stems from alienating women buyers and losing ground to Athleta and Lululemon in a booming competitive market.]]></description>
+      <title>Cruise passengers erupt over 'rude' luggage habit that sharply divides travelers</title>
+      <link>https://www.foxnews.com/travel/cruise-passengers-erupt-rude-luggage-habit-sharply-divides-travelers</link>
+      <guid isPermaLink="false">9134d3d6870a15f17868467c1ad37bb7d429591b</guid>
+      <pubDate>Sun, 13 Sep 2026 16:55:21 GMT</pubDate>
+      <description><![CDATA[Etiquette expert Diane Gottsman of Texas weighed in on the heated cruise elevator debate about travelers using rolling suitcases on packed disembarkation day mornings.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Raiders favored at -3 over Miami Dolphins as Malik Willis and Kirk Cousins face off in NFL week one</title>
-      <link>https://www.foxnews.com/outkick-sports/raiders-favored-3-miami-dolphins-malik-willis-kirk-cousins-face-nfl-week-one</link>
-      <guid isPermaLink="false">c15f6e591f9ddbf56fb0d329c6aca07920102f7b</guid>
-      <pubDate>Sun, 13 Sep 2026 12:28:51 GMT</pubDate>
-      <description><![CDATA[The first full Red Zone schedule features the Miami Dolphins vs. Las Vegas Raiders, and in a home game, the Raiders at -3 look like the smart betting play.]]></description>
+      <title>Police searching for six men over anti-migrant protest in Portsmouth</title>
+      <link>https://www.bbc.co.uk/news/articles/c158p587w4no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9fa4b6c9c6a4ccc6502a66e30fd945acd2f7f8b9</guid>
+      <pubDate>Sun, 13 Sep 2026 16:51:35 GMT</pubDate>
+      <description><![CDATA[Force releases images of individuals it wants to speak to after disorder at Eastney Marina on 6 September.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>theScore Bet Promo Code: Get a $1000 Bet Reset Ahead of the Opening NFL Sunday of the 2026 Season</title>
-      <link>https://www.foxnews.com/outkick-betting/thescore-bet-promo-code-get-1000-bet-reset-ahead-opening-nfl-sunday-2026-season</link>
-      <guid isPermaLink="false">94aadbb23ddf3637e9232821120fcab772e68b2b</guid>
-      <pubDate>Sun, 13 Sep 2026 12:24:12 GMT</pubDate>
-      <description><![CDATA[New users can claim a $1,000 Bet Reset with theScore Bet promo for Week 1 of the 2026 NFL season, featuring 13 Sunday games including Bears-Panthers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fanatics Promo Code FOXNEWS350: Get $1000 Bonus, Bet $20, Get $350 in Select States for the first NFL Sunday</title>
-      <link>https://www.foxnews.com/outkick-betting/fanatics-promo-code-foxnews350-get-1000-bonus-bet-20-get-350-select-states-first-nfl-sunday</link>
-      <guid isPermaLink="false">cd416623c57dcd07138dd6296865fd9deb8a2cd4</guid>
-      <pubDate>Sun, 13 Sep 2026 12:23:31 GMT</pubDate>
-      <description><![CDATA[Fanatics Sportsbook promo code FOXNEWS350 gives new users up to $1,000 in FanCash, with bet $20, get $350 offers in select states for NFL Sunday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Betr Promo Code FOXNEWS Unlocks $200 in Bonuses Ahead of the First NFL Sunday of the Season</title>
-      <link>https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlocks-200-bonuses-ahead-first-nfl-sunday-season</link>
-      <guid isPermaLink="false">adc5c2f78eef1d8712b55e1349ffe9a07a28db1b</guid>
-      <pubDate>Sun, 13 Sep 2026 12:22:04 GMT</pubDate>
-      <description><![CDATA[Betr promo code FOXNEWS gives new users $200 in bonus bets and two No Sweat Entries ahead of the first full Sunday of NFL Week 1 action]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Underdog Promo Code FOXNEWS Unlocks the Keep Your $1 Million Promo + $1000 Deposit Match on NFL Sunday</title>
-      <link>https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-keep-your-1-million-promo-1000-deposit-match-nfl-sunday</link>
-      <guid isPermaLink="false">9367c5d29d2a802426f9eb8e852abf9b947b725b</guid>
-      <pubDate>Sun, 13 Sep 2026 12:19:21 GMT</pubDate>
-      <description><![CDATA[Underdog promo code FOXNEWS gives new users a 50% deposit match up to $1,000, plus access to the Keep Your Million survival game for NFL Sunday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dabble Promo Code FOXNEWS Unlocks Play $5, Get $50 Promo For NFL Sunday</title>
-      <link>https://www.foxnews.com/outkick-betting/dabble-promo-code-foxnews-unlocks-play-5-get-50-promo-nfl-sunday</link>
-      <guid isPermaLink="false">affb614398af6e085ae46394fa19dad68fa63ddf</guid>
-      <pubDate>Sun, 13 Sep 2026 12:18:46 GMT</pubDate>
-      <description><![CDATA[Dabble promo code FOXNEWS lets new users play $5 and get $50 in bonuses for a full slate of NFL Sunday action, including this weekend's Cowboys-Giants.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Reform's £72m donations 'entirely in line with law', Jenrick says</title>
-      <link>https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">17783bc709994da64c8bfc0aebe812033fcd5230</guid>
-      <pubDate>Sun, 13 Sep 2026 12:05:43 GMT</pubDate>
-      <description><![CDATA[The government is trying to change the law on donations to UK political parties from British expats.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Iran war reshapes Brics ties but also exposes divisions</title>
-      <link>https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2da8da4404563cde5e96b189ba58e9e9cbfc7e90</guid>
-      <pubDate>Sun, 13 Sep 2026 11:23:42 GMT</pubDate>
-      <description><![CDATA[Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC</title>
-      <link>https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">306185c011fe0f51db102af3d47f4d77fc5b8e76</guid>
-      <pubDate>Sun, 13 Sep 2026 11:16:06 GMT</pubDate>
-      <description><![CDATA[High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Can you imagine a universe without a new 'Star Trek' on the horizon?</title>
-      <link>https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary</link>
-      <guid isPermaLink="false">6b07c065602ed2cb5639e0fba782559b4f4f8bf3</guid>
-      <pubDate>Sun, 13 Sep 2026 11:00:00 GMT</pubDate>
-      <description><![CDATA[As Star Trek celebrates its 60th birthday, the long-running franchise is also grappling with the challenges of timing and technology. "Its audience is aging," says Strange New Worlds star Anson Mount.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Indonesian passenger ship overturns, sparking search for about 130 missing</title>
-      <link>https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns</link>
-      <guid isPermaLink="false">00dcc2e8e6ce90b3bfb7a6a456c84240a145261f</guid>
-      <pubDate>Sun, 13 Sep 2026 10:31:10 GMT</pubDate>
-      <description><![CDATA[Indonesian rescuers said about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>How a young woman became an ISIS bride — and then an informant, helping save others</title>
-      <link>https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis</link>
-      <guid isPermaLink="false">4be8bf01902526a3fbaa397634fc95c816b27271</guid>
-      <pubDate>Sun, 13 Sep 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[A young Canadian mother shares her memories of being an ISIS bride, and her harrowing escape from the extremist group.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>One dead, 102 rescued from Indonesian ferry that went missing in Java Sea</title>
-      <link>https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f1c6b50dde0f0da7d88c4f298f536b16015f54c5</guid>
-      <pubDate>Sun, 13 Sep 2026 07:54:28 GMT</pubDate>
-      <description><![CDATA[The nation's search and rescue team said it lost contact with the Virgo Transport 8 in the early hours of Sunday morning.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Wisconsin GOP governor candidate swims from sinking plane after emergency lake landing</title>
-      <link>https://www.foxnews.com/politics/tom-tiffany-wisconsin-plane-crash-emergency-landing</link>
-      <guid isPermaLink="false">6890b5c7990f354ecfc9a84e234434482eeb3032</guid>
-      <pubDate>Sun, 13 Sep 2026 07:37:17 GMT</pubDate>
-      <description><![CDATA[Wisconsin Republican Tom Tiffany says he and the pilot swam from a sinking Bonanza after an emergency water landing in Lake Wausau Saturday night.]]></description>
+      <title>Election chaos in this red state just got even stranger for Republicans after Supreme Court ruling</title>
+      <link>https://www.foxnews.com/politics/election-chaos-red-state-stranger-republicans-supreme-court-ruling</link>
+      <guid isPermaLink="false">99fd6ab6fffd28bc378b629247ac617fa83b2fe0</guid>
+      <pubDate>Sun, 13 Sep 2026 16:34:12 GMT</pubDate>
+      <description><![CDATA[The Supreme Court blocked Missouri's new congressional map, forcing the state to use 2022 boundaries that favor Emanuel Cleaver's Kansas City district.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Man accused in brutal motel stabbing sought as person of interest in 4 deaths, child attack</title>
-      <link>https://www.foxnews.com/us/kaegan-solet-houma-louisiana-stabbing-person-of-interest</link>
-      <guid isPermaLink="false">7af31bff2513867fc2ebbf203a395aa8ab837574</guid>
-      <pubDate>Sun, 13 Sep 2026 07:28:22 GMT</pubDate>
-      <description><![CDATA[Kaegan Jude Solet is sought as a person of interest after four people were found stabbed to death and a child critically wounded in Houma, Louisiana.]]></description>
+      <title>Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through</title>
+      <link>https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5923a3a276c942b1718ebb7317bde86a30df4a2c</guid>
+      <pubDate>Sun, 13 Sep 2026 16:33:57 GMT</pubDate>
+      <description><![CDATA[The former UK PM said "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".]]></description>
       <category>world</category>
+    </item>
+    <item>
+      <title>Trump downplays AI risks after dire expert warnings and calls to slow development down</title>
+      <link>https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">685eb5ef4b7791fb825109badc797b47cd96f744</guid>
+      <pubDate>Sun, 13 Sep 2026 16:29:27 GMT</pubDate>
+      <description><![CDATA[The US President said "negative forces" were airing concerns about "things that won't happen".]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>FIBA Secretary General Andreas Zagklis speaks out on Caitlin Clark's impact on growth of World Cup</title>
+      <link>https://www.foxnews.com/outkick-sports/fiba-secretary-general-andreas-zagklis-speaks-caitlin-clark-impact-growth-world-cup</link>
+      <guid isPermaLink="false">07ed7a2e2fdd7275d10c738f403f098e96ba8c5a</guid>
+      <pubDate>Sun, 13 Sep 2026 16:27:34 GMT</pubDate>
+      <description><![CDATA[FIBA's secretary general says Caitlin Clark and women's basketball stars could surpass male players in popularity at the 2028 Los Angeles Olympics.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Viral video shows bystanders warning elderly man who has no clue he's being followed by a huge black bear</title>
+      <link>https://www.foxnews.com/outkick-culture/viral-video-shows-bystanders-warning-elderly-man-no-clue-hes-being-followed-huge-black-bear</link>
+      <guid isPermaLink="false">d67f3907da99888525eeed912be8f39c642a5ad7</guid>
+      <pubDate>Sun, 13 Sep 2026 16:18:42 GMT</pubDate>
+      <description><![CDATA[Video with over 35 million views captures a black bear silently following an elderly man down a British Columbia sidewalk before bystanders intervene.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Obama privately sounds alarm on ‘dangerous’ AI, urges Democrats to put issue at center of agenda</title>
+      <link>https://www.foxnews.com/media/obama-privately-sounds-alarm-dangerous-ai-urges-democrats-put-issue-center-agenda</link>
+      <guid isPermaLink="false">49fefff31a10ea12648448debe118721070c5f6b</guid>
+      <pubDate>Sun, 13 Sep 2026 16:15:33 GMT</pubDate>
+      <description><![CDATA[Barack Obama warned AI could become dangerous without greater oversight and urged Hakeem Jeffries to launch a very public conversation on it.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Female passenger undresses on American Airlines flight, engages in 'indecent acts,' crew reports</title>
+      <link>https://www.foxnews.com/us/female-passenger-undresses-american-airlines-flight-engages-indecent-acts-crew-reports</link>
+      <guid isPermaLink="false">66813fecbdb321c906be5e7ced481bd952d18f58</guid>
+      <pubDate>Sun, 13 Sep 2026 16:00:53 GMT</pubDate>
+      <description><![CDATA[A female passenger on American Airlines Flight 1779 reportedly undressed and performed indecent acts mid-flight, prompting law enforcement at Miami.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hits keep coming as Rams lose Myles Garrett for at least four games after looming knee surgery</title>
+      <link>https://www.foxnews.com/outkick-sports/hits-keep-coming-rams-lose-myles-garrett-least-four-games-looming-knee-surgery</link>
+      <guid isPermaLink="false">0e84ffdc971f59d1e942afcfb43ec9073d905a08</guid>
+      <pubDate>Sun, 13 Sep 2026 15:42:17 GMT</pubDate>
+      <description><![CDATA[Myles Garrett will undergo knee surgery and land on injured reserve, costing the Los Angeles Rams their prized acquisition for at least four games.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Reform confident it won't need to repay any of £72m under proposed new donor rules</title>
+      <link>https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">17783bc709994da64c8bfc0aebe812033fcd5230</guid>
+      <pubDate>Sun, 13 Sep 2026 15:40:38 GMT</pubDate>
+      <description><![CDATA[Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have "to return that money".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US congressman swims to safety after his plane is forced to land on a lake</title>
+      <link>https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d1504790ba9bac02dabf856fb10671ea9b581e90</guid>
+      <pubDate>Sun, 13 Sep 2026 15:30:43 GMT</pubDate>
+      <description><![CDATA[The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tim Scott fires back after ‘Morning Joe’ mocks fiery GOP speech, accuses program of hiding 'from the truth'</title>
+      <link>https://www.foxnews.com/media/tim-scott-fires-back-after-morning-joe-mocks-fiery-gop-speech-accuses-program-hiding-from-truth</link>
+      <guid isPermaLink="false">adc1b098a866be12a42928bf491e04feb884d88f</guid>
+      <pubDate>Sun, 13 Sep 2026 15:13:43 GMT</pubDate>
+      <description><![CDATA[Tim Scott fired back at Joe Scarborough and the "Morning Joe" panel after they mocked his fiery speech at the Republican midterm convention.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Andy Burnham among Great North Run finishers</title>
+      <link>https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e7d41ae66b1b03b0ae309aa44e5f348544e51e86</guid>
+      <pubDate>Sun, 13 Sep 2026 14:54:40 GMT</pubDate>
+      <description><![CDATA[This year's event sees 63,000 people take on the half marathon - including the prime minister.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists</title>
+      <link>https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">afcdebd2945353c4369d98b5d867dd6a22e99ad0</guid>
+      <pubDate>Sun, 13 Sep 2026 14:25:56 GMT</pubDate>
+      <description><![CDATA[Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Byran Norcross: A lemon to watch in the Atlantic and good news in the Pacific</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-sept-13-2026</link>
+      <guid isPermaLink="false">ce3f6ad5f4dad12fa91c8d55b2765ce9b5be0aa5</guid>
+      <pubDate>Sun, 13 Sep 2026 14:05:20 GMT</pubDate>
+      <description><![CDATA[FOX Weather Hurricane Specialist Bryan Norcross gives an update on a big storm on the way 100 years ago today, a lemon to watch in the Atlantic and the latest on the state of the Pacific tropics.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Legendary Canadian boxer George Chuvalo dies aged 89</title>
+      <link>https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2eab36a9d3d567a4ff6ce0a93763ad408a52b6ed</guid>
+      <pubDate>Sun, 13 Sep 2026 14:01:44 GMT</pubDate>
+      <description><![CDATA[The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Actor Tatyana Ali is advocating for Black and Indigenous maternal health</title>
+      <link>https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health</link>
+      <guid isPermaLink="false">13c60d95abd319872530eda3a8e5ff997eb12f0a</guid>
+      <pubDate>Sun, 13 Sep 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[Actor Tatyana Ali says her healing journey after a traumatic childbirth has inspired her advocacy for Black maternal health, including support for midwives, doulas and other birth workers.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>More heavy rain, severe storms target waterlogged Midwest as flash flood threat grows</title>
+      <link>https://www.foxweather.com/weather-news/heavy-rain-severe-storms-target-midwest-flash-flood-threat</link>
+      <guid isPermaLink="false">0b034f223c40d859728d10c22d91c6a5e0cd8447</guid>
+      <pubDate>Sun, 13 Sep 2026 13:09:47 GMT</pubDate>
+      <description><![CDATA[The soggy start to September continues across the Midwest this week, with periods of rain and strong to severe storms expected through Friday.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Remains believed to be linked to Hurricane Helene victim discovered years after deadly storm</title>
@@ -508,22 +524,6 @@
       <guid isPermaLink="false">a469cd88c6f027a8bab675627d49abd6018b5e71</guid>
       <pubDate>Fri, 11 Sep 2026 10:32:48 GMT</pubDate>
       <description><![CDATA[Millions of Americans should expect a weekend of wet weather that could impact major cities up and down the East Coast.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Taste of fall sweeps across the Midwest as severe storms, damaging winds and flooding threaten millions</title>
-      <link>https://www.foxweather.com/weather-news/fall-weather-arrives-across-northern-tier-triggering-severe-storms-damaging-winds-flash-flooding</link>
-      <guid isPermaLink="false">15c564e158f7d8fc6c8d19a8b1468dd7fca5c5b3</guid>
-      <pubDate>Fri, 11 Sep 2026 02:06:20 GMT</pubDate>
-      <description><![CDATA[As fall weather approaches, severe storms and flash flooding will impact the Upper Midwest and Northern Plains starting Friday, bringing damaging winds, large hail and heavy rainfall.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Taste of fall sweeps across the Northern Tier as severe storms, damaging winds and flooding threaten millions</title>
-      <link>https://www.foxweather.com/weather-news/fall-weather-arrives-across-northern-tier-triggering-severe-storms-damaging-winds-flash-flooding</link>
-      <guid isPermaLink="false">15c564e158f7d8fc6c8d19a8b1468dd7fca5c5b3</guid>
-      <pubDate>Fri, 11 Sep 2026 02:06:20 GMT</pubDate>
-      <description><![CDATA[As fall weather approaches, severe storms and flash flooding will impact the Northern Tier of the U.S. starting Friday, bringing damaging winds, large hail and heavy rainfall.]]></description>
       <category>weather</category>
     </item>
   </channel>
