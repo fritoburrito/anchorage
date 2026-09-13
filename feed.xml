@@ -5,46 +5,54 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 20:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 22:48:32 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Today - Patchy Fog</title>
+      <title>Anchorage Weather: This Afternoon - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 20:11:46 GMT</pubDate>
-      <description><![CDATA[62°F. Wind N 0 to 5 mph. Patchy fog before 1pm. Mostly sunny, with a high near 62. North wind 0 to 5 mph.]]></description>
+      <pubDate>Sun, 13 Sep 2026 22:48:32 GMT</pubDate>
+      <description><![CDATA[58°F. Wind NW 0 to 5 mph. Mostly sunny, with a high near 58. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight - Partly Cloudy</title>
+      <title>Anchorage Weather: Tonight - Partly Cloudy then Areas Of Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 20:11:46 GMT</pubDate>
-      <description><![CDATA[46°F. Wind  0 mph. Partly cloudy, with a low around 46. South wind around 0 mph.]]></description>
+      <pubDate>Sun, 13 Sep 2026 22:48:32 GMT</pubDate>
+      <description><![CDATA[46°F. Wind  0 mph. Areas of fog after 4am. Partly cloudy, with a low around 46. South wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Monday - Mostly Sunny then Chance Light Rain</title>
+      <title>Anchorage Weather: Monday - Areas Of Fog then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 20:11:46 GMT</pubDate>
-      <description><![CDATA[58°F. Wind  0 mph. A chance of rain after 4pm. Mostly sunny, with a high near 58. South wind around 0 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Sun, 13 Sep 2026 22:48:32 GMT</pubDate>
+      <description><![CDATA[59°F. Wind  0 mph. Areas of fog before 1pm, then a chance of rain. Mostly sunny, with a high near 59. South wind around 0 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Monday Night - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 20:11:46 GMT</pubDate>
-      <description><![CDATA[50°F. Wind  0 mph. Rain. Cloudy, with a low around 50. Southeast wind around 0 mph. Chance of precipitation is 80%.]]></description>
+      <pubDate>Sun, 13 Sep 2026 22:48:32 GMT</pubDate>
+      <description><![CDATA[49°F. Wind S 0 to 5 mph. Rain. Cloudy, with a low around 49. South wind 0 to 5 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tuesday - Rain</title>
+      <title>Anchorage Weather: Tuesday - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 13 Sep 2026 20:11:46 GMT</pubDate>
-      <description><![CDATA[58°F. Wind SE 0 to 15 mph. Rain. Cloudy, with a high near 58. Southeast wind 0 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.]]></description>
+      <pubDate>Sun, 13 Sep 2026 22:48:32 GMT</pubDate>
+      <description><![CDATA[59°F. Wind SE 0 to 15 mph. Rain. Cloudy, with a high near 59. Southeast wind 0 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Juneau’s Resurrection Lutheran Church to host centennial celebration</title>
+      <link>https://www.juneauempire.com/2026/09/13/juneaus-resurrection-lutheran-church-to-host-centennial-celebration/</link>
+      <guid isPermaLink="false">2849aa6f19f055a37d9983bf9ab9a29ab8f7e262</guid>
+      <pubDate>Sun, 13 Sep 2026 21:30:00 GMT</pubDate>
+      <description><![CDATA[The church will host a full weekend of events for the whole community]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>LETTER: More enforcement needed on foreign-flagged boats</title>
@@ -279,20 +287,132 @@
       <category>local</category>
     </item>
     <item>
-      <title>Ring of Fire region rattled by pair of earthquakes hours apart in Alaska, Southeast Asia</title>
-      <link>https://www.foxweather.com/weather-news/pacific-ring-fire-rattled-pair-earthquakes-alaska-near-timor-leste</link>
-      <guid isPermaLink="false">55dd64c0a88bc5866218522fceb7bbdf83c280ae</guid>
-      <pubDate>Fri, 11 Sep 2026 13:58:45 GMT</pubDate>
-      <description><![CDATA[The Pacific Ring of Fire region was rattled by two earthquakes on Friday. A magnitude 5.3 earthquake struck off the Aleutian chain, about 93 miles west-southwest of Adak, Alaska, and about an hour later, a magnitude 5.9 earthquake struck in Southeast Asia's Banda Sea.]]></description>
-      <category>local</category>
+      <title>Ben Shelton loses in US Open final to Zverev, but America has found its next big men's tennis star</title>
+      <link>https://www.foxnews.com/outkick-sports/ben-shelton-loses-us-open-final-zverev-america-found-next-big-mens-tennis-star</link>
+      <guid isPermaLink="false">55168a9eae37e82068f62781d66b237e2e056455</guid>
+      <pubDate>Sun, 13 Sep 2026 22:36:41 GMT</pubDate>
+      <description><![CDATA[Alexander Zverev beat Ben Shelton 6-3, 7-6, 5-7, 6-2 to win the US Open, but the 23-year-old American's fight showed why fans can't wait to watch him.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Wartime oil prices continue to benefit Alaska’s state treasury, new figures show</title>
-      <link>https://alaskabeacon.com/2026/09/11/wartime-oil-prices-continue-to-benefit-alaskas-state-treasury-new-figures-show/</link>
-      <guid isPermaLink="false">8c823a7661b3750ff2a8233ef542c6ed00ba964b</guid>
-      <pubDate>Fri, 11 Sep 2026 13:45:54 GMT</pubDate>
-      <description><![CDATA[The price of North Slope crude oil topped $100 per barrel on Wednesday, crossing that mark for the first time since June, according to figures published by the Alaska Department of Revenue. Though the rising cost of diesel, heating oil and gasoline is hitting individual Alaskans hard — nationally, the price of diesel topped $6 […]]]></description>
-      <category>local</category>
+      <title>Dolph Lundgren and wife Emma Krokdal enjoy date night at Arnold Schwarzenegger’s charity event</title>
+      <link>https://www.foxnews.com/entertainment/dolph-lundgren-wife-emma-krokdal-enjoy-date-night-arnold-schwarzenegger-charity-event</link>
+      <guid isPermaLink="false">f0585f35e2f2c809b72d1feda11dc05559586ea7</guid>
+      <pubDate>Sun, 13 Sep 2026 22:36:39 GMT</pubDate>
+      <description><![CDATA[Dolph Lundgren and wife Emma Krokdal stepped out for Arnold Schwarzenegger's charity fundraiser, where the "Rocky IV" star mixed cocktails for guests with his Hard Cut Vodka.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump warns against slowing down AI but he is not against some guardrails</title>
+      <link>https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown</link>
+      <guid isPermaLink="false">80fa1a031c680b4981f7a9c767026c046db9b3a5</guid>
+      <pubDate>Sun, 13 Sep 2026 22:32:39 GMT</pubDate>
+      <description><![CDATA[President Trump said there were "negative forces" predicting things that he says won't happen.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Swedish party blocs tied after Sunday vote, projections say</title>
+      <link>https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e2a8040159d3433768a28636cc1c0131859485e6</guid>
+      <pubDate>Sun, 13 Sep 2026 22:27:54 GMT</pubDate>
+      <description><![CDATA[A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>From first frost to scorching temperatures as New England feels fall while dozens of states bake</title>
+      <link>https://www.foxweather.com/weather-news/first-frost-scorching-temperatures-new-england-fall-heat</link>
+      <guid isPermaLink="false">8a5e73e1d05f6193ba53470e031c580b8232ea7f</guid>
+      <pubDate>Sun, 13 Sep 2026 22:21:19 GMT</pubDate>
+      <description><![CDATA[From frost-covered mountains in New England to triple-digit heat in the Southern Plains, the U.S. will experience a dramatic temperature tug-of-war this week as fall arrives in the Northeast while summer refuses to let go elsewhere.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Jeremiyah Love makes immediate statement with touchdown on first career drive for Cardinals</title>
+      <link>https://www.foxnews.com/outkick-sports/jeremiyah-love-makes-immediate-statement-touchdown-first-career-drive-cardinals</link>
+      <guid isPermaLink="false">0c00b67aefcd92594a98cdfdc23b3ebf545de6f5</guid>
+      <pubDate>Sun, 13 Sep 2026 22:19:34 GMT</pubDate>
+      <description><![CDATA[Jeremiyah Love's NFL debut featured a statement touchdown as the Arizona Cardinals opened their season against the Los Angeles Chargers at SoFi Stadium.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Josh Allen torches one of NFL's best defenses to make case it's time to move on from 2025 playoff loss</title>
+      <link>https://www.foxnews.com/outkick-sports/josh-allen-torches-one-nfl-best-defenses-make-case-time-move-2025-playoff-loss</link>
+      <guid isPermaLink="false">9a59f515ab3f2351036dabf8a80fa581996f9832</guid>
+      <pubDate>Sun, 13 Sep 2026 22:15:00 GMT</pubDate>
+      <description><![CDATA[Josh Allen passed for 334 yards, threw 2 TDs and ran for 2 others as the Buffalo Bills scored 36 points against an elite Houston Texans defense.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Trump unloads on AOC, Mamdani for laughing during sacred 9/11 ceremony at Ground Zero</title>
+      <link>https://www.foxnews.com/politics/trump-unloads-aoc-mamdani-laughing-during-sacred-9-11-ceremony-ground-zero</link>
+      <guid isPermaLink="false">bf0045bf119f920f1ee66ead7a788eeeba8015b9</guid>
+      <pubDate>Sun, 13 Sep 2026 21:54:35 GMT</pubDate>
+      <description><![CDATA[President Donald Trump called the moment "terrible" after video showed AOC and Zohran Mamdani appearing to laugh during the Ground Zero ceremony.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kyler Murray knocked out of Vikings debut after forearm to the helmet and blow to neck by two Packers</title>
+      <link>https://www.foxnews.com/outkick-sports/kyler-murray-knocked-out-vikings-debut-forearm-helmet-blow-neck-packers</link>
+      <guid isPermaLink="false">b6b2e1cb620c7abcd1f7f10dae98136729b9f0c0</guid>
+      <pubDate>Sun, 13 Sep 2026 21:48:39 GMT</pubDate>
+      <description><![CDATA[Kyler Murray left the Vikings' home opener after a brutal hit from Lukas Van Ness and Javon Bullard sent triggered the NFL concussion protocol.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Lions avoid franchise-worst collapse as defense stops Saints two-point conversion in OT</title>
+      <link>https://www.foxnews.com/outkick-sports/lions-avoid-franchise-worst-collapse-defense-stops-saints-two-point-conversion-ot</link>
+      <guid isPermaLink="false">4dcb09ea472ed15a2012d27e914beb9dd51ab009</guid>
+      <pubDate>Sun, 13 Sep 2026 21:34:55 GMT</pubDate>
+      <description><![CDATA[No Lions team had ever blown a 21-point lead, but Detroit was close to it after Tyler Shough found a rhythm in the second half in Week 1 of the NFL season.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hayden Panettiere's boyfriend Brian Hickerson involved in bloody bar altercation weeks after star's death</title>
+      <link>https://www.foxnews.com/entertainment/hayden-panettiere-boyfriend-brian-hickerson-bloody-bar-altercation-weeks-after-star-death</link>
+      <guid isPermaLink="false">01b7cc7ada286660edbae7a1791af01b26e8987f</guid>
+      <pubDate>Sun, 13 Sep 2026 21:34:06 GMT</pubDate>
+      <description><![CDATA[Video shows a handcuffed and bloody Brian Hickerson at Wild Wing Café in Greenville, South Carolina, just weeks after Hayden Panettiere's death.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Deep-fried food banned under new school dinner rules in England</title>
+      <link>https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ee3e0de697c0a804105dc5f485434ea607f2b6a1</guid>
+      <pubDate>Sun, 13 Sep 2026 21:30:29 GMT</pubDate>
+      <description><![CDATA[The government describes its new school food standards as "once-in-a-generation changes".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Culture shift' needed in how UK does business, PM urges</title>
+      <link>https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">efa39d33a7b7e59a1c9a57cfe6fc6d3e553aa5e7</guid>
+      <pubDate>Sun, 13 Sep 2026 21:30:21 GMT</pubDate>
+      <description><![CDATA[Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hasan Piker doubles down, defends his 'God-given right' to say how much he hates America</title>
+      <link>https://www.foxnews.com/media/hasan-piker-doubles-down-defends-god-given-right-say-how-much-he-hates-america</link>
+      <guid isPermaLink="false">4990c29072e72c126d0fd187920e78dd9f06fffc</guid>
+      <pubDate>Sun, 13 Sep 2026 21:29:59 GMT</pubDate>
+      <description><![CDATA[Hasan Piker defended his right to say he hates America on his Twitch livestream after an attack ad tied his rhetoric to Abdul El-Sayed's Michigan Senate race.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Mike Johnson rejects AI moratorium over China threat as conservative activist demands guardrails</title>
+      <link>https://www.foxnews.com/media/mike-johnson-rejects-ai-moratorium-over-china-threat-conservative-activist-demands-guardrails</link>
+      <guid isPermaLink="false">e5ff1d659092d7c8ee593f4d673db5361af3e6b2</guid>
+      <pubDate>Sun, 13 Sep 2026 21:06:48 GMT</pubDate>
+      <description><![CDATA[House Speaker Mike Johnson rejected an AI moratorium, warning China could overtake the U.S. as Anthropic, Elon Musk and Sam Altman push for a slowdown.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Refereeing body admits judgement error over Haaland derby winner</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">edf15534a2202e4ed4bc94bbf68470f4b95e093b</guid>
+      <pubDate>Sun, 13 Sep 2026 20:29:58 GMT</pubDate>
+      <description><![CDATA[The Premier League refereeing body Pro Ref admits an error of judgement in awarding Erling Haaland's winner in the Manchester derby.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Trump says Lindsay Clancy case is a ‘state situation' following attorney's pardon plea</title>
@@ -327,6 +447,14 @@
       <category>world</category>
     </item>
     <item>
+      <title>Tropical Storm Norbert won't be Pacific's next hurricane, Tropical Depression 15-E forms in East Pacific</title>
+      <link>https://www.foxweather.com/weather-news/pacific-tropics-norbert-odalys-el-nino-forecast</link>
+      <guid isPermaLink="false">00244ad3880bcfa1effbef8e458955d3a6b22044</guid>
+      <pubDate>Sun, 13 Sep 2026 19:49:32 GMT</pubDate>
+      <description><![CDATA[Tropical Storm Norbert is no longer going to be the Pacific's next hurricane, but Tropical Depression 15-E could be the next named storm in the next day or so.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
       <title>Tropical Storm Norbert won't be Pacific's next hurricane, but Invest 97E likely to become Odalys soon</title>
       <link>https://www.foxweather.com/weather-news/pacific-tropics-norbert-odalys-el-nino-forecast</link>
       <guid isPermaLink="false">00244ad3880bcfa1effbef8e458955d3a6b22044</guid>
@@ -340,126 +468,6 @@
       <guid isPermaLink="false">2d66c8e5a82808eda184e92e7abfbd791b6841cf</guid>
       <pubDate>Sun, 13 Sep 2026 19:43:56 GMT</pubDate>
       <description><![CDATA[Nick Saban urged a strength of schedule overhaul on "College GameDay" before Oregon's shocking upset and Texas' fourth quarter comeback over Ohio State.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump says he will remove all Irish whiskey tariffs as he ends two-day visit</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">162a032f2fe57bf95e99d06ec34eff367c837eaf</guid>
-      <pubDate>Sun, 13 Sep 2026 19:34:36 GMT</pubDate>
-      <description><![CDATA[Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Charlie Kirk statue defaced with red paint, Jesus crossed out days after 1-year mark of assassination</title>
-      <link>https://www.foxnews.com/us/charlie-kirk-statue-defaced-red-paint-jesus-crossed-out-days-after-1-year-mark-assassination</link>
-      <guid isPermaLink="false">ede883927dabfa03f76eb6bff6ec10fdb0ffc302</guid>
-      <pubDate>Sun, 13 Sep 2026 19:28:17 GMT</pubDate>
-      <description><![CDATA[Red paint was smeared across the Charlie Kirk statue at Turning Point USA's Phoenix headquarters, with a Christian tribute defaced days after unveiling.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Saints defense has touchdown taken away against Lions after Jared Goff fumble is stunningly overturned</title>
-      <link>https://www.foxnews.com/outkick-sports/saints-defense-touchdown-taken-away-lions-jared-goff-fumble-stunningly-overturned</link>
-      <guid isPermaLink="false">88c1aa745762d102ec23d3d8b5cf007ee98bc4e2</guid>
-      <pubDate>Sun, 13 Sep 2026 19:21:07 GMT</pubDate>
-      <description><![CDATA[Chase Young forced what looked like a Jared Goff fumble, but officials ruled it an incomplete pass, wiping a New Orleans Saints defensive touchdown.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station</title>
-      <link>https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5923a3a276c942b1718ebb7317bde86a30df4a2c</guid>
-      <pubDate>Sun, 13 Sep 2026 19:14:21 GMT</pubDate>
-      <description><![CDATA[The former UK PM said "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Meghan Markle shares intimate first glimpse of life in UK since surprising move</title>
-      <link>https://www.foxnews.com/entertainment/meghan-markle-shares-intimate-first-glimpse-life-uk-surprising-move</link>
-      <guid isPermaLink="false">cc99520f8895b96da5c9da84a7c64623024f4ffc</guid>
-      <pubDate>Sun, 13 Sep 2026 19:11:41 GMT</pubDate>
-      <description><![CDATA[Meghan Markle's Instagram video shows Prince Archie and Princess Lilibet enjoying the English countryside weeks after the family's UK return.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>USC fans trade punches with one another in the stands because winning sometimes isn't enough</title>
-      <link>https://www.foxnews.com/outkick-sports/usc-fans-trade-punches-stands-winning-sometimes-isnt-enough</link>
-      <guid isPermaLink="false">046f1b3712325287beea7b71c8e7a5c01d628d5f</guid>
-      <pubDate>Sun, 13 Sep 2026 19:05:16 GMT</pubDate>
-      <description><![CDATA[USC fans packed the Coliseum after a sparse San Jose State opener, but a wild brawl erupted in the stands during the Louisiana-Lafayette win.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kyrsten Sinema questions whether moderates still have a place in the Democratic Party</title>
-      <link>https://www.foxnews.com/media/kyrsten-sinema-questions-whether-moderates-still-have-place-democratic-party</link>
-      <guid isPermaLink="false">3c8bff9df477b05fe4863ac6b53b8b166731b66c</guid>
-      <pubDate>Sun, 13 Sep 2026 19:02:52 GMT</pubDate>
-      <description><![CDATA[Kyrsten Sinema says Democratic Party leaders made "clear" they didn't want her there, raising questions about whether moderates still have a place.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump downplays warnings of AI risks, citing rivalry with China</title>
-      <link>https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">685eb5ef4b7791fb825109badc797b47cd96f744</guid>
-      <pubDate>Sun, 13 Sep 2026 18:49:37 GMT</pubDate>
-      <description><![CDATA[The US President said "negative forces" were airing concerns about "things that won't happen".]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Trump downplays warnings of AI risks as he cites rivalry with China</title>
-      <link>https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">685eb5ef4b7791fb825109badc797b47cd96f744</guid>
-      <pubDate>Sun, 13 Sep 2026 18:49:37 GMT</pubDate>
-      <description><![CDATA[The US President said "negative forces" were airing concerns about "things that won't happen".]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Questions mount over what an AI 'slowdown' would look like</title>
-      <link>https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7a3b9fe623417106b442692c40c86f513a9c1041</guid>
-      <pubDate>Sun, 13 Sep 2026 18:20:22 GMT</pubDate>
-      <description><![CDATA[While pacing AI development might sound like a quick fix, it is far from an easy solution.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Will record donations to Reform go down as a moment of political change?</title>
-      <link>https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">49b9544fd47f0d48e874b8be7d5928888ac6a4ed</guid>
-      <pubDate>Sun, 13 Sep 2026 17:51:19 GMT</pubDate>
-      <description><![CDATA[Andy Burnham is likely to face fresh pressure to further change the rules on party donations, writes Jack Fenwick.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Wisconsin congressman survives emergency plane landing, swims to safety</title>
-      <link>https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety</link>
-      <guid isPermaLink="false">4385a856b9c8acb4f76a2490efd5af1f439523c0</guid>
-      <pubDate>Sun, 13 Sep 2026 17:45:33 GMT</pubDate>
-      <description><![CDATA[Wisconsin Congressman Tom Tiffany escaped a sinking plane and swam to shallow water after an emergency landing in a lake. Tiffany and the pilot called 911 from on top of the plane.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Meghan shares glimpse of family life after Sussexes return to UK</title>
-      <link>https://www.bbc.co.uk/news/articles/c62ml4lp6jlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c3411c270cd164aa92d77d75c61608fe5d45f4e8</guid>
-      <pubDate>Sun, 13 Sep 2026 17:22:22 GMT</pubDate>
-      <description><![CDATA[It's the first time the Duchess of Sussex had posted her family on her Instagram grid since they return to the UK last month.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump team unloads on liberal journalist over Natalie Harp posts: ‘Sick, deluded freak’</title>
-      <link>https://www.foxnews.com/media/trump-team-unloads-liberal-journalist-natalie-harp-posts-sick-deluded-freak</link>
-      <guid isPermaLink="false">838ba4dc313e053dea2c1184a4e1e04e67560ce0</guid>
-      <pubDate>Sun, 13 Sep 2026 17:03:02 GMT</pubDate>
-      <description><![CDATA[The White House fired back at Aaron Rupar over his #TravelWithNatalie posts about aide Natalie Harp joining Trump on his Ireland trip.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Popular GLP-1 weight-loss drugs linked to potentially deadly brain disorder</title>
-      <link>https://www.foxnews.com/health/popular-glp-1-weight-loss-drugs-linked-potentially-deadly-brain-disorder</link>
-      <guid isPermaLink="false">5e8aa6d9fd94e175aed46dee9990c3b3c6ee25b2</guid>
-      <pubDate>Sun, 13 Sep 2026 17:00:19 GMT</pubDate>
-      <description><![CDATA[A study linked 15 cases of Wernicke encephalopathy to GLP-1 drugs like Ozempic and Mounjaro, raising concerns about vitamin B1 deficiency risks.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">e1f61e5b87ee1f4590b4d8e5d49955c2e651e1e7</guid>
       <pubDate>Fri, 11 Sep 2026 14:09:50 GMT</pubDate>
       <description><![CDATA[Since weather satellite data became the norm in the 60s, the latest date for our first hurricane in the Atlantic has been Sept. 11.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Flooding rain and thunderstorms drench major East Coast cities in the Northeast</title>
-      <link>https://www.foxweather.com/weather-news/severe-storms-bring-heavy-rain-thunderstorms-east-coast-weekend</link>
-      <guid isPermaLink="false">a469cd88c6f027a8bab675627d49abd6018b5e71</guid>
-      <pubDate>Fri, 11 Sep 2026 10:32:48 GMT</pubDate>
-      <description><![CDATA[Flooding rain impacted millions of Americans from Washington, D.C. to Boston, causing travel chaos and waterlogged roads through the Northeast on Sunday.]]></description>
       <category>weather</category>
     </item>
   </channel>
