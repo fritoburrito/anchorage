@@ -5,7 +5,23 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:43:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:23:14 GMT</lastBuildDate>
+    <item>
+      <title>What weapon could the US have put into space?</title>
+      <link>https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1e5e15ecd6e26f8b17c3dd0a05b590b7bdce67d0</guid>
+      <pubDate>Tue, 15 Sep 2026 14:23:14 GMT</pubDate>
+      <description><![CDATA[The announcement by the US points to a developing field of modern warfare in the Earth's orbit.]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Multiday washout targets Florida as heavy downpours, thunderstorms linger through weekend</title>
+      <link>https://www.foxweather.com/weather-news/weeklong-storms-drench-florida-heavy-rain-thunderstorms</link>
+      <guid isPermaLink="false">43a8906962a453dee3f6553a092ace514184e550</guid>
+      <pubDate>Mon, 14 Sep 2026 18:43:54 GMT</pubDate>
+      <description><![CDATA[Another stormy week has kicked off across the Sunshine State as tropical moisture surges into the region. This follows a soggy weekend that triggered numerous flood alerts, including in areas that had been unusually dry.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Florida faces weeklong washout as rounds of heavy rain, thunderstorms linger through weekend</title>
       <link>https://www.foxweather.com/weather-news/weeklong-storms-drench-florida-heavy-rain-thunderstorms</link>
@@ -15,44 +31,76 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight - Light Rain Likely</title>
+      <title>Anchorage Weather: Today - Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 15 Sep 2026 05:43:06 GMT</pubDate>
-      <description><![CDATA[49°F. Wind  0 mph. Rain likely after 7pm. Mostly cloudy, with a low around 49. North wind around 0 mph. Chance of precipitation is 60%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tuesday - Rain</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 15 Sep 2026 05:43:06 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 15:25:26 GMT</pubDate>
       <description><![CDATA[59°F. Wind E 0 to 20 mph. Rain. Cloudy, with a high near 59. East wind 0 to 20 mph, with gusts as high as 30 mph. Chance of precipitation is 100%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tuesday Night - Rain then Chance Rain Showers</title>
+      <title>Anchorage Weather: Tonight - Rain then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 15 Sep 2026 05:43:06 GMT</pubDate>
-      <description><![CDATA[46°F. Wind S 15 to 20 mph. Rain before 7pm, then a chance of rain showers between 7pm and 1am. Mostly cloudy, with a low around 46. South wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 80%.]]></description>
+      <pubDate>Tue, 15 Sep 2026 15:25:26 GMT</pubDate>
+      <description><![CDATA[46°F. Wind S 15 to 20 mph. Rain before 7pm, then rain showers likely between 7pm and 10pm. Mostly cloudy, with a low around 46. South wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 100%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Wednesday - Mostly Sunny</title>
+      <title>Anchorage Weather: Wednesday - Slight Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 15 Sep 2026 05:43:06 GMT</pubDate>
-      <description><![CDATA[59°F. Wind S 15 to 20 mph. Mostly sunny, with a high near 59. South wind 15 to 20 mph, with gusts as high as 35 mph.]]></description>
+      <pubDate>Tue, 15 Sep 2026 15:25:26 GMT</pubDate>
+      <description><![CDATA[59°F. Wind S 15 to 20 mph. A slight chance of rain showers between 7am and 1pm. Mostly sunny, with a high near 59. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Wednesday Night - Slight Chance Rain Showers</title>
+      <title>Anchorage Weather: Wednesday Night - Mostly Cloudy then Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 15 Sep 2026 05:43:06 GMT</pubDate>
-      <description><![CDATA[42°F. Wind S 10 to 15 mph. A slight chance of rain showers after 10pm. Partly cloudy, with a low around 42. South wind 10 to 15 mph, with gusts as high as 25 mph.]]></description>
+      <pubDate>Tue, 15 Sep 2026 15:25:26 GMT</pubDate>
+      <description><![CDATA[42°F. Wind S 15 to 20 mph. A chance of rain showers after 1am. Mostly cloudy, with a low around 42. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Thursday - Chance Rain Showers</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Tue, 15 Sep 2026 15:25:26 GMT</pubDate>
+      <description><![CDATA[56°F. Wind S 5 to 15 mph. A chance of rain showers. Mostly cloudy, with a high near 56. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Arctic climate report set for publication despite loss of federal support</title>
+      <link>https://alaskabeacon.com/2026/09/15/arctic-climate-report-set-for-publication-despite-loss-of-federal-support/</link>
+      <guid isPermaLink="false">e932a7372e2871b71c26c17c553afe131dbc18be</guid>
+      <pubDate>Tue, 15 Sep 2026 13:45:20 GMT</pubDate>
+      <description><![CDATA[The Arctic Report Card, the annual peer-reviewed analysis of climate in the circumpolar region, will continue even without federal government support, scientists announced. The American Geophysical Union, an organization representing tens of thousands of Earth and space scientists, announced last week that it has taken over as manager of the Arctic Report Card after the […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>University of Alaska Southeast marine lab discharge permit advances toward state renewal</title>
+      <link>https://www.juneauempire.com/2026/09/15/university-of-alaska-southeast-marine-lab-discharge-permit-advances-toward-state-renewal/</link>
+      <guid isPermaLink="false">62141675050c87b56c543c51d8be1df1a3e5d81c</guid>
+      <pubDate>Tue, 15 Sep 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Marine lab permit would allow 100,800 gallons daily to return to Auke Bay]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>LETTER: Look at the record, not the rhetoric</title>
+      <link>https://www.juneauempire.com/2026/09/15/letter-look-at-the-record-not-the-rhetoric/</link>
+      <guid isPermaLink="false">9d20f5477571b7ecde8bab7d8efd5a8bd5fe1364</guid>
+      <pubDate>Tue, 15 Sep 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Mary Peltola has described herself as a Democrat who supports Alaska resource development. One relevant part of her record is how she handled Alaska’s Right to Produce Act, H.R. 6285.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>OPINION: Small potatoes, eighteen graves</title>
+      <link>https://www.homernews.com/2026/09/15/opinion-small-potatoes-eighteen-graves/</link>
+      <guid isPermaLink="false">4d2c41657d4d5cfa87cf8740d567386dca5d485b</guid>
+      <pubDate>Tue, 15 Sep 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[Trump says the Iran war is no big deal. Congress should ask what another month of fighting will accomplish]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Leading candidates in Alaska US House race endorse bycatch limits in fisheries debate</title>
@@ -223,155 +271,163 @@
       <category>local</category>
     </item>
     <item>
-      <title>Juneau schools could get nearly $5 million for HVAC upgrades</title>
-      <link>https://www.juneauempire.com/2026/09/13/juneau-schools-could-get-nearly-5-million-for-hvac-upgrades/</link>
-      <guid isPermaLink="false">d0d2d7cfccc825cd3e8a233b170fc5dbebcd2ecc</guid>
-      <pubDate>Sun, 13 Sep 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Required energy audits are complete at five district campuses]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Juneau school staffing gaps hit gifted, support programs</title>
-      <link>https://www.juneauempire.com/2026/09/12/juneau-school-staffing-gaps-hit-gifted-support-programs/</link>
-      <guid isPermaLink="false">2e7d6206c5cb34b0f612aa5f2d0cda90c84403f3</guid>
-      <pubDate>Sat, 12 Sep 2026 19:30:00 GMT</pubDate>
-      <description><![CDATA[District has 10 paraeducator opening as recruitment continues]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Superstars and broken records: 2026 Emmy highlights</title>
-      <link>https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d9b6e3a9b0158d688a744acfcbaece66d5dfeccc</guid>
-      <pubDate>Tue, 15 Sep 2026 05:14:24 GMT</pubDate>
-      <description><![CDATA[The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles.]]></description>
+      <title>Iran's regime came for teenage twins. Their fate offers a glimpse of Tehran's widening death campaign</title>
+      <link>https://www.foxnews.com/world/irans-regime-came-teenage-twins-fate-offers-glimpse-tehrans-widening-death-campaign</link>
+      <guid isPermaLink="false">a0063676361bb76f9186cedda1a42807c5f0bdbc</guid>
+      <pubDate>Tue, 15 Sep 2026 15:17:18 GMT</pubDate>
+      <description><![CDATA[Iranian twins Taraneh and Romina Rahimi face execution and decades in prison after joining protests, as Iran's death penalty surge draws global alarm.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Ukraine's postal workers deliver lifeline under Russian fire</title>
-      <link>https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9e7024bf93e4a30a5ac1cc029b749a9b7a2d81ad</guid>
-      <pubDate>Tue, 15 Sep 2026 05:01:46 GMT</pubDate>
-      <description><![CDATA[The state post service delivers pensions, medicine and letters to people just miles from the front.]]></description>
+      <title>Smithsonian move reignites 'woke,' 'Marxist' criticism as Latino museum avoids congressional approval</title>
+      <link>https://www.foxnews.com/politics/smithsonian-move-reignites-woke-marxist-criticism-latino-museum-avoids-congressional-approval</link>
+      <guid isPermaLink="false">9fcc6e5f62ec14afb2b57dc2fbb43fa785a23331</guid>
+      <pubDate>Tue, 15 Sep 2026 15:16:20 GMT</pubDate>
+      <description><![CDATA[Mike Gonzalez's Heritage Foundation report alleges the National Museum of the American Latino promotes Marxist messaging and anti-Western ideology.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Surrogate who refused abortion asks SCOTUS to intervene as baby could be moved out of Texas</title>
-      <link>https://www.foxnews.com/politics/surrogate-refused-abortion-asks-scotus-intervene-baby-moved-out-texas</link>
-      <guid isPermaLink="false">876eda7ef89aae65cf3767dffa04a61233648c37</guid>
-      <pubDate>Tue, 15 Sep 2026 04:49:32 GMT</pubDate>
-      <description><![CDATA[Surrogate McKenna West asked the Supreme Court for an emergency administrative stay, fearing the newborn could be moved from Texas to California.]]></description>
+      <title>Nick Reiner returns to court for alleged murders of Rob, Michele Reiner</title>
+      <link>https://www.foxnews.com/entertainment/nick-reiner-returns-court-alleged-murders-rob-michele-reiner</link>
+      <guid isPermaLink="false">4e1d0dda8963728f4b307feabaf731a35b0da1f6</guid>
+      <pubDate>Tue, 15 Sep 2026 15:15:21 GMT</pubDate>
+      <description><![CDATA[Nick Reiner returns to court Tuesday as proceedings continue in the case involving the alleged killings of his parents, Rob and Michele Reiner.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Dolly Parton, Rob Reiner receive emotional tributes during 2026 Emmy Awards</title>
-      <link>https://www.foxnews.com/entertainment/dolly-parton-rob-reiner-receive-emotional-tributes-2026-emmy-awards</link>
-      <guid isPermaLink="false">af5a4a566d57ba035852b4743f0a74a981f7ed56</guid>
-      <pubDate>Tue, 15 Sep 2026 03:53:53 GMT</pubDate>
-      <description><![CDATA[Sally Field delivered an emotional tribute to Dolly Parton at the 2026 Emmy Awards, calling her "Steel Magnolias" co-star an angel on earth.]]></description>
+      <title>Former England footballer Raheem Sterling admits dangerous driving on motorway before crash</title>
+      <link>https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">08ebff8f0a3301f08fc1b06d467fb4c58ebcbf65</guid>
+      <pubDate>Tue, 15 Sep 2026 15:14:03 GMT</pubDate>
+      <description><![CDATA[The former England winger crashed a Lamborghini into motorway barriers in May.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Welsh actor Matthew Rhys makes Emmy Awards history with double win</title>
-      <link>https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">29d9f1db42e064dc7ad275bf1a29d3fd9af3722f</guid>
-      <pubDate>Tue, 15 Sep 2026 03:50:06 GMT</pubDate>
-      <description><![CDATA[He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.]]></description>
+      <title>Taylor Swift steals Emmys spotlight, watches husband Travis Kelce's Chiefs game with Tom Cruise</title>
+      <link>https://www.foxnews.com/entertainment/taylor-swift-steals-emmys-spotlight-watches-husband-travis-kelces-chiefs-game-tom-cruise</link>
+      <guid isPermaLink="false">90d9aaa3c4e51494c543d7436c27999899aea4fb</guid>
+      <pubDate>Tue, 15 Sep 2026 15:08:25 GMT</pubDate>
+      <description><![CDATA[Taylor Swift skipped the 2026 Emmys to watch husband Travis Kelce with Tom Cruise, but still stole the show in a hilarious "SVU" spoof with host Mariska Hargitay.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards</title>
-      <link>https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bb8c8562aa23aadb391ae92a470cedfe399dfd48</guid>
-      <pubDate>Tue, 15 Sep 2026 03:47:27 GMT</pubDate>
-      <description><![CDATA[The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI "kill switch" may need to be mandatory.]]></description>
+      <title>British woman abducted in Malawi, police say</title>
+      <link>https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0057ebf99cc003364a9088094d697866b8703a64</guid>
+      <pubDate>Tue, 15 Sep 2026 15:03:27 GMT</pubDate>
+      <description><![CDATA[The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Chiefs' new stud Kenneth Walker runs wild, Bo Nix melts down as Kansas City obliterates Broncos in MNF blowout</title>
-      <link>https://www.foxnews.com/outkick-sports/chiefs-kenneth-walker-runs-wild-bo-nix-melts-down-kansas-city-obliterates-broncos-mnf-blowout</link>
-      <guid isPermaLink="false">2f68405f415d5a02b40e7c69f07fa5e0a8932195</guid>
-      <pubDate>Tue, 15 Sep 2026 03:37:06 GMT</pubDate>
-      <description><![CDATA[Kenneth Walker's 173-yard clinic stole the show as the Kansas City Chiefs flattened the Denver Broncos 31-10 in the AFC West's Monday Night opener.]]></description>
+      <title>Newsom roasted online for 'staged' fly-fishing interview with CNN anchor where he dropped major 2028 hint</title>
+      <link>https://www.foxnews.com/politics/newsom-roasted-online-staged-fly-fishing-interview-cnn-anchor-dropped-major-2028-hint</link>
+      <guid isPermaLink="false">2bac511295040c6da5ef69c6686069d4aec273fc</guid>
+      <pubDate>Tue, 15 Sep 2026 14:54:54 GMT</pubDate>
+      <description><![CDATA[California Gov. Gavin Newsom's fly-fishing interview with Jake Tapper in Montana sparked social media mockery, with users calling the CNN outing staged.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>China tightens travel restrictions for citizens</title>
-      <link>https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8ae390170ded70d64ef3e0a2b02bafa4987fd491</guid>
-      <pubDate>Tue, 15 Sep 2026 03:25:41 GMT</pubDate>
-      <description><![CDATA[Observers say the new rules will further tighten the Chinese government's control over its citizens.]]></description>
+      <title>'How can you fight during a love song?' Riley Green defuses crowd fight at New Mexico show</title>
+      <link>https://www.foxnews.com/outkick/how-can-you-fight-during-love-song-riley-green-defuses-crowd-fight-new-mexico-show</link>
+      <guid isPermaLink="false">8ffb961ae622d2642d307c5d582204927e094fb1</guid>
+      <pubDate>Tue, 15 Sep 2026 14:48:44 GMT</pubDate>
+      <description><![CDATA[Riley Green paused his Albuquerque concert to calmly break up a crowd fight during a love song, then cracked jokes about the whole situation.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Michael J. Fox receives standing ovation at 2026 Emmys for Parkinson's disease advocacy work</title>
-      <link>https://www.foxnews.com/entertainment/michael-j-fox-standing-ovation-2026-emmys-parkinsons-disease-advocacy</link>
-      <guid isPermaLink="false">f962dc4a4793ee7d22ec650819d7690199b28789</guid>
-      <pubDate>Tue, 15 Sep 2026 03:04:51 GMT</pubDate>
-      <description><![CDATA[Michael J. Fox received a standing ovation at the 2026 Emmys alongside wife Tracy Pollan, revealing his foundation is "close" to a Parkinson's cure.]]></description>
+      <title>Two dead after car hits group of pedestrians</title>
+      <link>https://www.bbc.co.uk/news/articles/cv8e35rzy486o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d81fb02b2da3f2198617b79977743cc1fcc10186</guid>
+      <pubDate>Tue, 15 Sep 2026 14:47:59 GMT</pubDate>
+      <description><![CDATA[A vehicle hit four people before colliding with two cars on White Rose Way in Doncaster, police say.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>AI regulation faces political deadlock as calls grow for Congress to act</title>
-      <link>https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">060bedb0d8a734a5b193699db96b3c209370d93a</guid>
-      <pubDate>Tue, 15 Sep 2026 02:50:36 GMT</pubDate>
-      <description><![CDATA[With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.]]></description>
+      <title>Newt Gingrich reflects on what sets Trump apart from other leaders at GOP midterm convention</title>
+      <link>https://www.foxnews.com/media/newt-gingrich-reflects-sets-trump-apart-other-leaders-gop-midterm-convention</link>
+      <guid isPermaLink="false">96272497b1f7cba3e8945fbb1171b3cad5cd371d</guid>
+      <pubDate>Tue, 15 Sep 2026 14:36:29 GMT</pubDate>
+      <description><![CDATA[Newt Gingrich says Trump "has no boundaries" and is "not editable" in a Hannity podcast conversation taped at the Republican midterm convention.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Georgia mayor, 23, ousted 10 months after making history as state’s youngest mayor</title>
-      <link>https://www.foxnews.com/us/georgia-mayor-23-ousted-10-months-after-making-history-states-youngest-mayor</link>
-      <guid isPermaLink="false">7ea317bc878c830d0c41e41cad2ef9e94b6fad0e</guid>
-      <pubDate>Tue, 15 Sep 2026 02:11:33 GMT</pubDate>
-      <description><![CDATA[Jayden Williams, 23, was removed by the Stockbridge City Council after allegations involving public funds and communications with an 18-year-old student.]]></description>
+      <title>Ash from Mount Etna grounds flights at Sicily airport</title>
+      <link>https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5c029426b89929f15eaf7a05e62089589a7246fe</guid>
+      <pubDate>Tue, 15 Sep 2026 14:35:04 GMT</pubDate>
+      <description><![CDATA[All flights are suspended from one of Italy's busiest airports until Tuesday night.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Lucy Letby public inquiry findings set to be published</title>
-      <link>https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">01c425d4cd4581cb2dc3e2bc075beaada1cd01f3</guid>
-      <pubDate>Tue, 15 Sep 2026 01:54:35 GMT</pubDate>
-      <description><![CDATA[The Thirlwall Inquiry has been investigating how concerns about killer nurse Letby were handled - and whether any babies might have lived if action was taken earlier.]]></description>
+      <title>Lindsay Clancy judge indefinitely impounds juror names, citing safety and 'divisive' attention</title>
+      <link>https://www.foxnews.com/us/lindsay-clancy-judge-indefinitely-impounds-juror-names-citing-safety-divisive-attention</link>
+      <guid isPermaLink="false">74305104ed02f7ab8db565f19bdcfb399c80d4bf</guid>
+      <pubDate>Tue, 15 Sep 2026 14:28:58 GMT</pubDate>
+      <description><![CDATA[Judge William Sullivan sealed juror names in the Lindsay Clancy mistrial case, citing safety concerns and unauthorized identification of jurors.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>US confirms for first time it has deployed space weapons</title>
-      <link>https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1951289603d2c2cb62ab49b22c221e755dfcd7f0</guid>
-      <pubDate>Tue, 15 Sep 2026 01:52:02 GMT</pubDate>
-      <description><![CDATA[The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.]]></description>
+      <title>Satellite image reveals major damage that shut crucial oil pipeline</title>
+      <link>https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">53e6bbc1b890ec9e8e032ebef8a4b0410ee9202d</guid>
+      <pubDate>Tue, 15 Sep 2026 14:21:14 GMT</pubDate>
+      <description><![CDATA[Experts tell BBC Verify the pipeline's closure could cut oil supplies by as much as 3.6 million barrels per day.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Dozens missing after passenger ferry sinks as rescuers scour South Pacific coastline</title>
-      <link>https://www.foxnews.com/travel/dozens-missing-passenger-ferry-sinks-rescuers-scour-south-pacific-coastline</link>
-      <guid isPermaLink="false">54885973ab20fb15717ec880ba0ac7b4fb46eb10</guid>
-      <pubDate>Tue, 15 Sep 2026 01:21:59 GMT</pubDate>
-      <description><![CDATA[The MV Matui sank in the South Pacific between Ambae and Santo islands with 47 people aboard as officials cite ignored marine warnings and possible overloading.]]></description>
+      <title>Army veteran paratrooper who deployed to Iraq, Afghanistan before helping rescue Fox News reporter dead at 50</title>
+      <link>https://www.foxnews.com/us/army-veteran-paratrooper-deployed-iraq-afghanistan-helping-rescue-fox-news-reporter-dead-50</link>
+      <guid isPermaLink="false">4893cd7d828f93e1d0858e6ce44a73b534da7671</guid>
+      <pubDate>Tue, 15 Sep 2026 14:09:54 GMT</pubDate>
+      <description><![CDATA[Sean Michael Lee's cancer was linked to burn pits in Iraq and Afghanistan, ending a life devoted to rescuing thousands from war zones and disasters.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Europe’s left courts Muslim voters as anti-Israel politics reshape continent</title>
+      <link>https://www.foxnews.com/world/europes-left-courts-muslim-voters-anti-israel-politics-reshape-continent</link>
+      <guid isPermaLink="false">b1b6cfa6daa13e6f7e79be72f76899e0c00f3a64</guid>
+      <pubDate>Tue, 15 Sep 2026 14:08:48 GMT</pubDate>
+      <description><![CDATA[Europe’s far left is finding common ground with Islamist-linked networks on anti-Israel politics, creating a growing challenge for Jewish communities and voters.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bryan Norcross: Middle-of-the-Atlantic development possible and looking back 100 years ago today</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-sept-15-2026</link>
+      <guid isPermaLink="false">a2d7b051b08dde1fee3f7af26a74fb2d8a153e53</guid>
+      <pubDate>Tue, 15 Sep 2026 13:48:06 GMT</pubDate>
+      <description><![CDATA[FOX Weather Hurricane Specialist Bryan Norcross gives an update on the Atlantic and Pacific tropics, along with a look back at the historic 1926 Great Miami Hurricane.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Patrick Mahomes answers troubling questions about his serious knee injury on first drive of the Chiefs season</title>
-      <link>https://www.foxnews.com/outkick-sports/patrick-mahomes-answers-troubling-questions-serious-knee-injury-first-drive-chiefs-season</link>
-      <guid isPermaLink="false">a1ac7a1c1323e9cc96105fcef458b405e3550028</guid>
-      <pubDate>Tue, 15 Sep 2026 01:19:25 GMT</pubDate>
-      <description><![CDATA[Patrick Mahomes scored on a zig-zagging 15-yard touchdown run on the Kansas City Chiefs' first offensive drive of the 2026 NFL season opener.]]></description>
+      <title>Canada is a 'safe harbour' for global finance, Carney says</title>
+      <link>https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">327c785d75e1f64c26d43cfb2b26cc563a206147</guid>
+      <pubDate>Tue, 15 Sep 2026 13:43:01 GMT</pubDate>
+      <description><![CDATA[The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Gov Hochul's plan to opt New York into federal school choice program draws union opposition</title>
-      <link>https://www.foxnews.com/media/gov-hochuls-plan-opt-new-york-federal-school-choice-program-draws-union-opposition</link>
-      <guid isPermaLink="false">ee0a2f1d8ca5a6de9b0cb95c7b712ea309b7459e</guid>
-      <pubDate>Tue, 15 Sep 2026 01:18:04 GMT</pubDate>
-      <description><![CDATA[Teach Coalition CEO Sydney Altfield says teachers unions are spreading misconceptions about Gov. Kathy Hochul's tax credit scholarship plan for New York.]]></description>
+      <title>Suspected sabotage causes major Netherlands rail disruption</title>
+      <link>https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">aee33949b0ea08ae96bacacf8cf56daa8e84fff5</guid>
+      <pubDate>Tue, 15 Sep 2026 13:33:16 GMT</pubDate>
+      <description><![CDATA[Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Supreme Court blocks Trump's plan to restrict mail-in ballots</title>
-      <link>https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ca9a582da53c123769a8d1b69c10dcd4f9c7dc25</guid>
-      <pubDate>Tue, 15 Sep 2026 01:15:15 GMT</pubDate>
-      <description><![CDATA[The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots.]]></description>
+      <title>Political donors could face tougher residency rules</title>
+      <link>https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b8a1db5f4ef37ebad32ea6f2ba88f36bccdb4edc</guid>
+      <pubDate>Tue, 15 Sep 2026 13:25:48 GMT</pubDate>
+      <description><![CDATA[It comes after Reform received donations totalling £72m from two British crypto-billionaires who have both recently lived abroad.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Two sailors missing after tanker attacked in Strait of Hormuz, Oman says</title>
+      <link>https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2469d74a55e29580ac96996ba009193a0d68a240</guid>
+      <pubDate>Tue, 15 Sep 2026 13:05:36 GMT</pubDate>
+      <description><![CDATA[Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -380,30 +436,6 @@
       <guid isPermaLink="false">4978ac948604efe787ae516c14043dee3097347c</guid>
       <pubDate>Tue, 15 Sep 2026 01:06:26 GMT</pubDate>
       <description><![CDATA[For the first time, scientists combined the power of NASA’s Hubble and James Webb Space Telescopes in search of far-flung bodies deep in our solar system.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>NFL legend Drew Brees reportedly almost pulled off a shocking comeback for Broncos' AFC title game</title>
-      <link>https://www.foxnews.com/outkick-sports/nfl-legend-drew-brees-reportedly-almost-pulled-off-shocking-comeback-broncos-afc-title-game</link>
-      <guid isPermaLink="false">6f4198a06085e40103e411b631dd05a0a6ff0475</guid>
-      <pubDate>Tue, 15 Sep 2026 00:57:35 GMT</pubDate>
-      <description><![CDATA[Drew Brees nearly came out of retirement to start for the Denver Broncos in last season's AFC Championship Game after Bo Nix broke his ankle.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>UK breakup push escalates amid historic pact after Trump backs reunification of Ireland</title>
-      <link>https://www.foxnews.com/world/uk-breakup-push-escalates-historic-pact-trump-backs-reunification-ireland</link>
-      <guid isPermaLink="false">753c0c2f6aef2c84f80c64db0494a50f07f4076d</guid>
-      <pubDate>Tue, 15 Sep 2026 00:41:19 GMT</pubDate>
-      <description><![CDATA[Scotland, Wales and Northern Ireland leaders signed a historic joint declaration in Cardiff, warning that Westminster's time is coming to an end.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>UK set to turn cooler as unsettled weather continues</title>
-      <link>https://www.bbc.co.uk/weather/articles/c98r630jejdyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a0072667ecdcd47191aa30f6fc72776f21f0c42f</guid>
-      <pubDate>Tue, 15 Sep 2026 00:24:53 GMT</pubDate>
-      <description><![CDATA[As temperatures drop through the week and it starts to feel more autumnal, is it now time to put the summer clothes away?]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -439,6 +471,14 @@
       <category>weather</category>
     </item>
     <item>
+      <title>Odds increase for possible tropical development in the Atlantic as likely 'Super' El Niño continues to brew</title>
+      <link>https://www.foxweather.com/weather-news/atlantic-area-to-watch-tropics-el-nino-forecast</link>
+      <guid isPermaLink="false">e51c61ce4f5e6e3f14cf806fe0c44308d14ef2cc</guid>
+      <pubDate>Mon, 14 Sep 2026 15:02:36 GMT</pubDate>
+      <description><![CDATA[After days of quiet in the Atlantic, the National Hurricane Center has highlighted a new area to watch. Unlike the typical tropical disturbances that emerge off the coast of Africa this time of year, this area is located in the subtropical Atlantic.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
       <title>New area to watch emerges in Atlantic amid historically quiet season overtaken by hostile El Niño conditions</title>
       <link>https://www.foxweather.com/weather-news/atlantic-area-to-watch-tropics-el-nino-forecast</link>
       <guid isPermaLink="false">e51c61ce4f5e6e3f14cf806fe0c44308d14ef2cc</guid>
@@ -452,6 +492,14 @@
       <guid isPermaLink="false">8a5e73e1d05f6193ba53470e031c580b8232ea7f</guid>
       <pubDate>Sun, 13 Sep 2026 22:21:19 GMT</pubDate>
       <description><![CDATA[From frost-covered mountains in New England to triple-digit heat in the Southern Plains, the U.S. will experience a dramatic temperature tug-of-war this week as fall arrives in the Northeast while summer refuses to let go elsewhere.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Remnants of Norbert could briefly soak Hawaii as dry air brings brief lull in hyperactive Pacific season</title>
+      <link>https://www.foxweather.com/weather-news/pacific-tropics-norbert-odalys-el-nino-forecast</link>
+      <guid isPermaLink="false">00244ad3880bcfa1effbef8e458955d3a6b22044</guid>
+      <pubDate>Sun, 13 Sep 2026 19:49:32 GMT</pubDate>
+      <description><![CDATA[Hawaii will get a reprieve from a rare spate of tropical activity as Tropical Depression Norbert weakened into a remnant area of low pressure before reaching the vicinity of the islands.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -476,54 +524,6 @@
       <guid isPermaLink="false">00244ad3880bcfa1effbef8e458955d3a6b22044</guid>
       <pubDate>Sun, 13 Sep 2026 19:49:32 GMT</pubDate>
       <description><![CDATA[Tropical Storm Norbert is no longer going to be the Pacific's next hurricane, but Invest 97E could be the next named storm in the next day or so.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Bryan Norcross: A lemon to watch in the Atlantic and good news in the Pacific</title>
-      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-sept-13-2026</link>
-      <guid isPermaLink="false">ce3f6ad5f4dad12fa91c8d55b2765ce9b5be0aa5</guid>
-      <pubDate>Sun, 13 Sep 2026 14:05:20 GMT</pubDate>
-      <description><![CDATA[FOX Weather Hurricane Specialist Bryan Norcross gives an update on a big storm on the way 100 years ago today, a lemon to watch in the Atlantic and the latest on the state of the Pacific tropics.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Byran Norcross: A lemon to watch in the Atlantic and good news in the Pacific</title>
-      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-sept-13-2026</link>
-      <guid isPermaLink="false">ce3f6ad5f4dad12fa91c8d55b2765ce9b5be0aa5</guid>
-      <pubDate>Sun, 13 Sep 2026 14:05:20 GMT</pubDate>
-      <description><![CDATA[FOX Weather Hurricane Specialist Bryan Norcross gives an update on a big storm on the way 100 years ago today, a lemon to watch in the Atlantic and the latest on the state of the Pacific tropics.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Elevated flash flood threat persists across the Midwest as rain, severe storms take aim at multiple states</title>
-      <link>https://www.foxweather.com/weather-news/heavy-rain-severe-storms-target-midwest-flash-flood-threat</link>
-      <guid isPermaLink="false">0b034f223c40d859728d10c22d91c6a5e0cd8447</guid>
-      <pubDate>Sun, 13 Sep 2026 13:09:47 GMT</pubDate>
-      <description><![CDATA[The soggy start to September continues across the Midwest this week, with periods of rain and strong to severe storms expected through Friday.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>More heavy rain, severe storms target waterlogged Midwest as flash flood threat grows</title>
-      <link>https://www.foxweather.com/weather-news/heavy-rain-severe-storms-target-midwest-flash-flood-threat</link>
-      <guid isPermaLink="false">0b034f223c40d859728d10c22d91c6a5e0cd8447</guid>
-      <pubDate>Sun, 13 Sep 2026 13:09:47 GMT</pubDate>
-      <description><![CDATA[The soggy start to September continues across the Midwest this week, with periods of rain and strong to severe storms expected through Friday.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Remains believed to be linked to Hurricane Helene victim discovered years after deadly storm</title>
-      <link>https://www.foxweather.com/weather-news/human-remains-hurricane-helene-victim-found-tennessee</link>
-      <guid isPermaLink="false">ed0c932124953aad37d50fc889be462f3e21785a</guid>
-      <pubDate>Sat, 12 Sep 2026 23:10:22 GMT</pubDate>
-      <description><![CDATA[Police in Tennessee have discovered human remains that they believe belong to a Hurricane Helene victim. The Washoe County Sheriff's Office said they are investigating a scene in the Jackson Island area after human remains were found by debris removal specialists.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Iowa band member dies after suffering heat-related emergency at football game, family says</title>
-      <link>https://www.foxweather.com/weather-news/iowa-band-member-dies-collapse-heat-football-game</link>
-      <guid isPermaLink="false">5bcf0aab5fcae16233fd43cedd635667505b4e51</guid>
-      <pubDate>Sat, 12 Sep 2026 20:23:21 GMT</pubDate>
-      <description><![CDATA[An Iowa community is mourning the loss of a college band student after he collapsed due to the heat last weekend, his family announced. Derek Phillips experienced sudden cardiac arrest, and passed away days later after suffering brain damage, according to the Phillips family.]]></description>
       <category>weather</category>
     </item>
   </channel>
