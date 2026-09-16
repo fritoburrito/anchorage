@@ -5,46 +5,54 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 05:52:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:44:23 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Tonight - Rain Showers Likely then Mostly Cloudy</title>
+      <title>Anchorage Weather: Overnight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 16 Sep 2026 05:52:34 GMT</pubDate>
-      <description><![CDATA[46°F. Wind S 15 to 20 mph. Rain showers likely before 10pm. Mostly cloudy, with a low around 46. South wind 15 to 20 mph, with gusts as high as 40 mph. Chance of precipitation is 70%.]]></description>
+      <pubDate>Wed, 16 Sep 2026 10:44:23 GMT</pubDate>
+      <description><![CDATA[46°F. Wind S 20 mph. Partly cloudy, with a low around 46. South wind around 20 mph, with gusts as high as 40 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Wednesday - Slight Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 16 Sep 2026 05:52:34 GMT</pubDate>
-      <description><![CDATA[58°F. Wind S 15 to 20 mph. A slight chance of rain showers between 7am and 1pm. Partly sunny, with a high near 58. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 20%.]]></description>
+      <pubDate>Wed, 16 Sep 2026 10:44:23 GMT</pubDate>
+      <description><![CDATA[58°F. Wind S 15 to 20 mph. A slight chance of rain showers between 7am and 1pm. Partly sunny, with a high near 58. South wind 15 to 20 mph, with gusts as high as 40 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Wednesday Night - Mostly Cloudy then Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 16 Sep 2026 05:52:34 GMT</pubDate>
-      <description><![CDATA[44°F. Wind S 15 to 20 mph. A chance of rain showers after 1am. Mostly cloudy, with a low around 44. South wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Wed, 16 Sep 2026 10:44:23 GMT</pubDate>
+      <description><![CDATA[44°F. Wind S 10 to 15 mph. A chance of rain showers after 1am. Mostly cloudy, with a low around 44. South wind 10 to 15 mph, with gusts as high as 40 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Thursday - Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 16 Sep 2026 05:52:34 GMT</pubDate>
-      <description><![CDATA[57°F. Wind SE 5 to 15 mph. A chance of rain showers. Mostly cloudy, with a high near 57. Southeast wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%.]]></description>
+      <pubDate>Wed, 16 Sep 2026 10:44:23 GMT</pubDate>
+      <description><![CDATA[57°F. Wind SE 5 to 10 mph. A chance of rain showers. Mostly cloudy, with a high near 57. Southeast wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Thursday Night - Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 16 Sep 2026 05:52:34 GMT</pubDate>
+      <pubDate>Wed, 16 Sep 2026 10:44:23 GMT</pubDate>
       <description><![CDATA[43°F. Wind SE 5 mph. A chance of rain showers. Mostly cloudy, with a low around 43. Southeast wind around 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Petrol and diesel price rises push UK inflation higher</title>
+      <link>https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">44204e0be68017eaa42adce24d0357fa28c220ca</guid>
+      <pubDate>Wed, 16 Sep 2026 10:33:42 GMT</pubDate>
+      <description><![CDATA[Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Newscast – Tuesday, Sept. 15, 2026</title>
@@ -279,60 +287,156 @@
       <category>local</category>
     </item>
     <item>
-      <title>Search continues for boy, 3, missing at playground</title>
-      <link>https://www.bbc.co.uk/news/articles/cr5yev2v1x29o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">cc70f474b06365eb248bafe7e495f9a8784750ee</guid>
-      <pubDate>Wed, 16 Sep 2026 05:32:07 GMT</pubDate>
-      <description><![CDATA[Police carry out door-to-door inquiries in Brantham and a helicopter is seen circling the area.]]></description>
+      <title>At least 20 killed after war-damaged Gaza building collapses</title>
+      <link>https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">765ce480adcdb812566ebfb3569342cebc67b46a</guid>
+      <pubDate>Wed, 16 Sep 2026 10:40:36 GMT</pubDate>
+      <description><![CDATA[Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Three dead after LA news helicopter crashes while covering deadly bus collision</title>
+      <title>At least 20 killed and dozens missing after war-damaged Gaza building collapses</title>
+      <link>https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">765ce480adcdb812566ebfb3569342cebc67b46a</guid>
+      <pubDate>Wed, 16 Sep 2026 10:40:36 GMT</pubDate>
+      <description><![CDATA[Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Coffee lovers have a new No. 1 city and it's not Portland or Seattle</title>
+      <link>https://www.foxnews.com/food-drink/coffee-lovers-have-new-no-1-city-its-not-portland-seattle</link>
+      <guid isPermaLink="false">bef12212ff460ac887d782e238332d5899d758bf</guid>
+      <pubDate>Wed, 16 Sep 2026 10:30:17 GMT</pubDate>
+      <description><![CDATA[Orlando topped WalletHub's ranking of best coffee cities in the US, beating Portland and Seattle thanks to affordable shops and free Wi-Fi access.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>EU chief opens door for Canada to become 'associate member'</title>
+      <link>https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">418e8514211b05cb9906c3fa7e87a2639cc29da8</guid>
+      <pubDate>Wed, 16 Sep 2026 10:28:45 GMT</pubDate>
+      <description><![CDATA[Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Texans' Azeez Al-Shaair to be fined once again by NFL for wearing Pro-Palestinian personal message on eyeblack</title>
+      <link>https://www.foxnews.com/outkick-sports/texans-azeez-al-shaair-fined-nfl-wearing-pro-palestinian-personal-message-eyeblack</link>
+      <guid isPermaLink="false">969683a1159041612249d9e1dd18213aedf433e6</guid>
+      <pubDate>Wed, 16 Sep 2026 10:11:44 GMT</pubDate>
+      <description><![CDATA[Azeez Al-Shaair faces an $11,492 NFL fine for writing Hind Rajab's name on his eyeblack during the Houston Texans' opener against the Buffalo Bills.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Watch: Will Ed Sheeran cancel his tour as support acts quit?</title>
+      <link>https://www.bbc.co.uk/news/videos/ck7v40jjv367o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">29978227d2172c2070f4c68f20e8df930aa6d0c0</guid>
+      <pubDate>Wed, 16 Sep 2026 10:10:41 GMT</pubDate>
+      <description><![CDATA[Sheeran's backing band and all of his support acts pulled out of his US tour, so what happens now?]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Macklemore ban by Robert Kraft draws fire from AOC and CAIR who advocate for free speech only when convenient</title>
+      <link>https://www.foxnews.com/outkick-sports/macklemore-ban-robert-kraft-draws-fire-aoc-cair-advocate-free-speech-convenient</link>
+      <guid isPermaLink="false">bfb7b26b3ada9c9e1d1985a0c2be8121fb0c51de</guid>
+      <pubDate>Wed, 16 Sep 2026 10:05:36 GMT</pubDate>
+      <description><![CDATA[Robert Kraft's decision to ban Macklemore from Gillette Stadium drew sharp criticism from AOC, who called it a threat to free speech rights.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Prince Harry, Meghan Markle’s school-run problems shouldn’t 'come as a surprise,’ royal expert says</title>
+      <link>https://www.foxnews.com/entertainment/prince-harry-meghan-markles-school-run-problems-shouldnt-come-surprise-royal-expert-says</link>
+      <guid isPermaLink="false">0c4081209e8cc1bc5663dadc93349a99cde37f1c</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:56 GMT</pubDate>
+      <description><![CDATA[Prince Harry and Meghan Markle switched Archie and Lili's school after just two days, but royal experts say the traffic issues were entirely predictable.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Charlie Kirk's family alleges UVU knew of rooftop security risk before his assassination: legal filing</title>
+      <link>https://www.foxnews.com/us/charlie-kirk-family-alleges-uvu-knew-rooftop-security-risk-before-assassination-legal-filing</link>
+      <guid isPermaLink="false">246da91e895bb224f9c1eb26d70cffc286303c3c</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:35 GMT</pubDate>
+      <description><![CDATA[Charlie Kirk's family alleges Utah Valley University failed to secure rooftops and ignored warnings before the Turning Point USA founder's fatal shooting.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Norway faces backlash over 'deeply racist' proposal to jail citizens for West Bank business</title>
+      <link>https://www.foxnews.com/world/norway-faces-backlash-over-deeply-racist-proposal-jail-citizens-west-bank-business</link>
+      <guid isPermaLink="false">d187f53b95ccc98c5c28db9b3a8e817e17dd2a0d</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:19 GMT</pubDate>
+      <description><![CDATA[Critics say Norway's proposed trade ban on Israeli settlements in Judea and Samaria effectively singles out Jews, calling the possible legislation racist.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Senators question Trump's picks for top health positions, including surgeon general</title>
+      <link>https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general</link>
+      <guid isPermaLink="false">69ae56234b18deb51f522ecd0361c2be46a35810</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[On Wednesday, the Senate committee on health holds a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump's third attempt to nominate a surgeon general.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison</title>
+      <link>https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes</link>
+      <guid isPermaLink="false">760693fae8fa5f5c4cba9ef304b3471af5112976</guid>
+      <pubDate>Wed, 16 Sep 2026 09:57:03 GMT</pubDate>
+      <description><![CDATA[A European Union-backed court convicted former Kosovo President Hashim Thaci of war crimes committed during his country's war for independence from Serbia and sentenced him to 25 years in prison.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Journalist and pilot among three killed after news helicopter crashes in LA</title>
       <link>https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">d01c93a6b3ecd4d9021f95c8891c84dfc53aa2a4</guid>
-      <pubDate>Wed, 16 Sep 2026 05:14:19 GMT</pubDate>
+      <pubDate>Wed, 16 Sep 2026 09:49:48 GMT</pubDate>
       <description><![CDATA[The NBCLA news helicopter was flying near the scene of a fatal bus crash.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Texas Senate candidate Talarico said US was 'backsliding' on democracy in resurfaced clip</title>
-      <link>https://www.foxnews.com/politics/texas-senate-candidate-talarico-said-us-backsliding-democracy-resurfaced-clip</link>
-      <guid isPermaLink="false">1c1585ea6b60e35311b7f08c1829ac4360b0f216</guid>
-      <pubDate>Wed, 16 Sep 2026 04:49:06 GMT</pubDate>
-      <description><![CDATA[James Talarico said Americans should look to Western Europe for democratic inspiration in a resurfaced clip that drew a blunt response from Elon Musk.]]></description>
+      <title>Village votes to leave UK over asylum housing plan in symbolic referendum</title>
+      <link>https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ce3d3e243e9435358f07d88f22d2ef3892de1397</guid>
+      <pubDate>Wed, 16 Sep 2026 09:37:40 GMT</pubDate>
+      <description><![CDATA[Piddington residents vote over proposals to house up to 1,256 male asylum seekers nearby.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Support acts quit Ed Sheeran tour after Macklemore dropped over pro-Palestine comments</title>
+      <link>https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9c657c0b5de7e098064204c7423b736a210355ad</guid>
+      <pubDate>Wed, 16 Sep 2026 09:36:54 GMT</pubDate>
+      <description><![CDATA[The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>El-Sayed grilled on Piker, Israel and socialist ties after Mike Rogers skips Senate debate</title>
+      <link>https://www.foxnews.com/politics/el-sayed-pressed-piker-israel-socialist-ties-after-gops-rogers-skips-senate-debate</link>
+      <guid isPermaLink="false">a117a1163805853f26a651282c310fec689ce751</guid>
+      <pubDate>Wed, 16 Sep 2026 09:30:51 GMT</pubDate>
+      <description><![CDATA[Abdul El-Sayed faced pointed questions on Hasan Piker's rhetoric, Israel and CAIR donations after his GOP opponent Mike Rogers skipped the Detroit debate.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>7 Republicans rebel against Trump, vote with Dems to rein in Iran war powers</title>
-      <link>https://www.foxnews.com/politics/republicans-rebel-against-trump-vote-dems-rein-iran-war-powers</link>
-      <guid isPermaLink="false">83d76c3c4cdc49bc894b6d3fa8c86c65d4dc0963</guid>
-      <pubDate>Wed, 16 Sep 2026 04:19:51 GMT</pubDate>
-      <description><![CDATA[House Republicans joined Democrats to pass a war powers resolution reining in Trump's military engagement in Iran beyond the 60-day threshold.]]></description>
+      <title>Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it</title>
+      <link>https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack</link>
+      <guid isPermaLink="false">af65616e51347ab71f167aa1b2f9e3e0daef2e04</guid>
+      <pubDate>Wed, 16 Sep 2026 09:04:27 GMT</pubDate>
+      <description><![CDATA[Saudi Arabia accused Yemen's Iran-backed Houthi rebels overnight of trying to attack Islam's holiest city, prompting condemnation from countries in the region but no sign of military support.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>NBC news helicopter crashes and kills at least 3 in LA neighborhood</title>
-      <link>https://www.npr.org/2026/09/16/nx-s1-5970477/helicopter-crash-los-angeles</link>
-      <guid isPermaLink="false">95523182d9cf680723496c0b867f2263b32f7495</guid>
-      <pubDate>Wed, 16 Sep 2026 04:06:00 GMT</pubDate>
-      <description><![CDATA[A local NBC news helicopter crashed in a Los Angeles neighborhood on Tuesday, killing at least three people while reporters were covering the nearby crash of an SUV and a city bus, officials said.]]></description>
-      <category>world</category>
+      <title>NEWT GINGRICH: Republicans can win the 2026 midterms — if they follow the plan</title>
+      <link>https://www.foxnews.com/opinion/newt-gingrich-republicans-win-2026-midterms-follow-plan</link>
+      <guid isPermaLink="false">e24d830717b4039600c7af5e76d5d6ea5166a74e</guid>
+      <pubDate>Wed, 16 Sep 2026 09:00:33 GMT</pubDate>
+      <description><![CDATA[A five-part strategic framework outlines how Republicans can expand the House majority, win Senate races and build a broader coalition for 2026.]]></description>
+      <category>politics</category>
     </item>
     <item>
-      <title>3 dead, 1 hospitalized after news helicopter crashes in Los Angeles commercial area</title>
-      <link>https://www.foxnews.com/us/3-dead-1-hospitalized-news-helicopter-crashes-los-angeles-commercial-area</link>
-      <guid isPermaLink="false">fff007247bbe8a7296dfa6b7ca24456d37d504f7</guid>
-      <pubDate>Wed, 16 Sep 2026 03:51:40 GMT</pubDate>
-      <description><![CDATA[Three people are dead and one person is hospitalized after a news helicopter crashed between two commercial buildings in the Chatsworth area of Los Angeles, authorities said.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Judge blocks DHS from acting against a man over a harsh email to an ICE official</title>
-      <link>https://www.npr.org/2026/09/15/nx-s1-5970459/ice-dhs-david-streever-free-speech</link>
-      <guid isPermaLink="false">050d4ca0539fd3363f93075fa9d472ffd0eefd12</guid>
-      <pubDate>Wed, 16 Sep 2026 03:03:47 GMT</pubDate>
-      <description><![CDATA[ICE agents turned up at David Streever's home over a harsh email he sent to an ICE official. Now a court order prevents the federal government from making additional threats against him.]]></description>
-      <category>world</category>
+      <title>We spent decades preparing for another 9/11. Another attack may look totally different</title>
+      <link>https://www.foxnews.com/opinion/spent-decades-preparing-another-9-11-attack-may-look-totally-different</link>
+      <guid isPermaLink="false">1693f4b97e6b9f0ebab996a03d0729c5944ebf78</guid>
+      <pubDate>Wed, 16 Sep 2026 09:00:13 GMT</pubDate>
+      <description><![CDATA[The United States faces a growing GPS vulnerability as adversaries develop spoofing and jamming capabilities that could cost $1 billion per day.]]></description>
+      <category>politics</category>
     </item>
     <item>
       <title>How 2 satellites use precise ocean measurements to reveal what could fuel hurricanes during El Niño</title>
@@ -341,110 +445,6 @@
       <pubDate>Wed, 16 Sep 2026 02:56:01 GMT</pubDate>
       <description><![CDATA[NASA’s Sentinel-6 satellites are tracking ocean conditions during El Niño by measuring sea-surface height, wave size, and wind speed—data that helps scientists understand storm development and improve hurricane forecasts.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Stephen A. Smith calls out NBA star Kawhi Leonard for letting Clippers take the fall for salary cap scandal</title>
-      <link>https://www.foxnews.com/outkick-sports/stephen-a-smith-calls-out-nba-star-kawhi-leonard-letting-clippers-take-fall-salary-cap-scandal</link>
-      <guid isPermaLink="false">b01a36c7e7a70ab583edbbc31829dc370c14e506</guid>
-      <pubDate>Wed, 16 Sep 2026 02:46:22 GMT</pubDate>
-      <description><![CDATA[ESPN's Stephen A. Smith called Kawhi Leonard "a gangster" for escaping with a $700,000 fine while the LA Clippers face historic NBA penalties.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sally Field remembers shopping at Walmart with Dolly Parton: ‘Can you imagine all of us?’</title>
-      <link>https://www.foxnews.com/entertainment/sally-field-remembers-shopping-walmart-dolly-parton-can-you-imagine-all-us</link>
-      <guid isPermaLink="false">0c80c42c1604c77361dbce23a1545b34873352be</guid>
-      <pubDate>Wed, 16 Sep 2026 02:22:13 GMT</pubDate>
-      <description><![CDATA[Sally Field recalled her Walmart shopping trips with Dolly Parton and the lasting bond they forged on the set of "Steel Magnolias" decades ago.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Mayors could be given powers to oversee water companies</title>
-      <link>https://www.bbc.co.uk/news/articles/cmgrvdxzzk8eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9931ca1d7ce218f4e213084ee083f697679665fb</guid>
-      <pubDate>Wed, 16 Sep 2026 02:09:22 GMT</pubDate>
-      <description><![CDATA[The idea is to create nine new regional bodies responsible for planning, setting objectives and holding water companies to account.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fourth Florida resident dies after contracting flesh-eating bacteria linked to oysters</title>
-      <link>https://www.foxnews.com/us/fourth-florida-resident-dies-after-contracting-flesh-eating-bacteria-linked-oysters</link>
-      <guid isPermaLink="false">8dbe3b2c61985bcf0bef751a415c7e35117210bd</guid>
-      <pubDate>Wed, 16 Sep 2026 02:00:44 GMT</pubDate>
-      <description><![CDATA[Florida reports fourth Vibrio vulnificus death in 2026 as health officials warn about raw oysters, contaminated water and severe infections.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sophie Cunningham says she's talked with NBA Commissioner Adam Silver amid search for WNBA's next commissioner</title>
-      <link>https://www.foxnews.com/outkick-sports/sophie-cunningham-talked-nba-commissioner-adam-silver-search-wnbas-next-commissioner</link>
-      <guid isPermaLink="false">e34d57756ebf9b479dce6b9e0bf004f201602d17</guid>
-      <pubDate>Wed, 16 Sep 2026 01:52:03 GMT</pubDate>
-      <description><![CDATA[Sophie Cunningham says she's spoken with Adam Silver multiple times about the WNBA commissioner search and wants a leader who puts players first.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Justin Herbert did not seem too pleased with the Chargers after disastrous loss to Arizona Cardinals</title>
-      <link>https://www.foxnews.com/outkick/justin-herbert-not-pleased-chargers-disastrous-loss-arizona-cardinals</link>
-      <guid isPermaLink="false">ec84cd621e8635d8d372384163dda5bc4124ab3b</guid>
-      <pubDate>Wed, 16 Sep 2026 01:38:38 GMT</pubDate>
-      <description><![CDATA[Justin Herbert's terse postgame answers and alarming sack totals raised new concerns after the Los Angeles Chargers' lopsided loss to Arizona.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Washington Democrat claims majority of recent DHS arrestees posed 'no threat to public safety'</title>
-      <link>https://www.foxnews.com/politics/washington-democrat-claims-majority-recent-dhs-arrestees-posed-no-threat-public-safety</link>
-      <guid isPermaLink="false">dc68667ffc239e94ffc71fcd6926a53a5d51d34c</guid>
-      <pubDate>Wed, 16 Sep 2026 01:38:01 GMT</pubDate>
-      <description><![CDATA[The Washington Democrat claimed that, for the first time this summer, the majority of people arrested by DHS "pose absolutely no threat to public safety."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>All support acts on Ed Sheeran's US tour quit after Macklemore dropped</title>
-      <link>https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9c657c0b5de7e098064204c7423b736a210355ad</guid>
-      <pubDate>Wed, 16 Sep 2026 01:29:20 GMT</pubDate>
-      <description><![CDATA[The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Injured climber crawls ‘through the night’ to safety after falling 500 feet down California mountain</title>
-      <link>https://www.foxnews.com/us/injured-climber-crawls-through-night-safety-falling-500-feet-down-california-mountain</link>
-      <guid isPermaLink="false">e2ae8817b1e84b166677da385b2f5963977cc8d5</guid>
-      <pubDate>Wed, 16 Sep 2026 01:23:12 GMT</pubDate>
-      <description><![CDATA[Mount Shasta rescue crews finds San Jose man in a remote cabin after a glissading accident at Shasta-Trinity National Forest.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>OpenAI boss says world 'right to be afraid' but 'should trust' AI firms</title>
-      <link>https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b17f30d549013a242e782639f64d1394cfc18655</guid>
-      <pubDate>Wed, 16 Sep 2026 00:59:20 GMT</pubDate>
-      <description><![CDATA[Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Turkish habit of stashing gold "under the pillow' hurts economy, government says</title>
-      <link>https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy</link>
-      <guid isPermaLink="false">261c23cf121821d1d53e2c5e9b7bea3185069651</guid>
-      <pubDate>Wed, 16 Sep 2026 00:55:41 GMT</pubDate>
-      <description><![CDATA[For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ryan Day hints at day of reckoning, vows to make 'hard decisions' after Ohio State's late-game Texas breakdown</title>
-      <link>https://www.foxnews.com/outkick-sports/ryan-day-hints-day-reckoning-vows-make-hard-decisions-after-ohio-state-late-game-texas-breakdown</link>
-      <guid isPermaLink="false">8e95dbb6bc24cd45b927926423411fa0c351e5db</guid>
-      <pubDate>Wed, 16 Sep 2026 00:52:22 GMT</pubDate>
-      <description><![CDATA[Ryan Day says Ohio State's stunning 20-point fourth-quarter collapse at Texas is forcing hard decisions as Big Ten football play looms ahead.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Lawmakers throw out 'Trojan horse' activists they say are engaged in American subversion</title>
-      <link>https://www.foxnews.com/politics/lawmakers-throw-out-trojan-horse-activists-engaged-american-subversion</link>
-      <guid isPermaLink="false">b13aa5e21b5fe542d110f76b11d34c2c8203ed57</guid>
-      <pubDate>Wed, 16 Sep 2026 00:50:51 GMT</pubDate>
-      <description><![CDATA[Medea Benjamin and CodePink agitators were escorted out of the Capitol Hill hearing examining Neville Roy Singham's $278 million far-left network.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Toxic red tide detected along Texas coastline — here’s how it can affect your health</title>
