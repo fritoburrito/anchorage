@@ -1,5 +1,35 @@
 [
   {
+    "title": "Sigoowu Ye Park temporarily closed after bike riders damage playground",
+    "link": "https://www.juneauempire.com/2026/09/16/sigoowu-ye-park-temporarily-closed-after-bike-riders-damage-playground/",
+    "description": "Juneau city staff will install chicane rails to prevent the use of bikes in the park",
+    "pubDate": "Wed, 16 Sep 2026 17:02:00 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
+    "title": "Invest 98L designated in open Atlantic as brewing 'Super' El Ni\u00f1o continues to strengthen",
+    "link": "https://www.foxweather.com/weather-news/invest-98l-atlantic-amid-quietest-hurricane-season-record",
+    "description": "The National Hurricane Center (NHC) has designated an area to watch for tropical development in the open Atlantic as Invest 98L. This comes as the Atlantic hurricane season is off to its quietest start on record, dating to the beginning of the satellite era (1960).",
+    "pubDate": "Wed, 16 Sep 2026 16:14:04 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Past secretaries, union leader call for probe into Education Department slashing",
+    "link": "https://alaskabeacon.com/2026/09/16/repub/past-secretaries-union-leader-call-for-probe-into-education-department-slashing/",
+    "description": "WASHINGTON \u2014 Three former U.S. Education Department secretaries and the union representing agency workers on Tuesday\u00a0urged the department\u2019s top watchdog to investigate the cost and impact of mass firings last year.\u00a0 Former U.S. Education Secretaries Arne Duncan and John B. King Jr., who led the department during the Obama administration, and Miguel Cardona of the [\u2026]",
+    "pubDate": "Wed, 16 Sep 2026 15:45:02 GMT",
+    "category": "alaska",
+    "tag": "alaska",
+    "source": "Alaska Beacon",
+    "rank": 100
+  },
+  {
     "title": "Bryan Norcross: 100 Years ago this morning a monster hurricane was two days out from Miami",
     "link": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-september-16-2026",
     "description": "The weather map had the South Florida newspapers flummoxed. A 40-mph tropical storm had been drifting offshore of Miami. Its fringes produced gusty winds along the coast and about 2 inches of rain. Meanwhile, a monster hurricane was north of Puerto Rico and on a track aimed at South Florida. But nobody yet understood the threat.",
@@ -137,6 +167,16 @@
     "category": "alaska",
     "tag": "alaska",
     "source": "Alaska Beacon",
+    "rank": 100
+  },
+  {
+    "title": "3 killed as tropical disturbance fuels most active, dangerous monsoon day in the Four Corners this year",
+    "link": "https://www.foxweather.com/weather-news/rare-tropical-disturbance-gulf-of-california-southwest-flood-threat",
+    "description": "Heavy rain is impacting communities in the Southwest U.S. as a tropical disturbance enhances monsoon-fueled floods in the region.",
+    "pubDate": "Tue, 15 Sep 2026 20:59:03 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
     "rank": 100
   },
   {
@@ -360,44 +400,184 @@
     "rank": 100
   },
   {
-    "title": "US Supreme Court blocks Trump rule limiting mail voting, sides with Dem states",
-    "link": "https://alaskabeacon.com/2026/09/14/repub/us-supreme-court-blocks-trump-rule-limiting-mail-voting-sides-with-dem-states/",
-    "description": "The U.S. Supreme Court on Monday kept in place a lower court\u2019s order blocking President Donald Trump\u2019s embattled plan to place new restrictions on mail ballots for this year\u2019s midterm elections. The unsigned, one-paragraph\u00a0order upheld a Massachusetts federal court\u2019s injunction on a U.S. Postal Service rule until after Nov. 3 and did not decide whether [\u2026]",
-    "pubDate": "Tue, 15 Sep 2026 01:09:27 GMT",
+    "title": "Reporter's Notebook: House control could hinge on whether the old political rules still apply",
+    "link": "https://www.foxnews.com/politics/reporters-notebook-house-control-hinge-whether-old-political-rules-still-apply",
+    "description": "Trump's mid-thirties approval and high gas prices favor Democrats, but redistricting and turnout questions could keep House races razor-tight.",
+    "pubDate": "Wed, 16 Sep 2026 19:09:14 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Ex-Dem insider drops bombshell on where Harris ranked in secret poll for Biden replacements",
+    "link": "https://www.foxnews.com/politics/ex-dem-insider-drops-bombshell-where-harris-ranked-secret-poll-biden-replacements",
+    "description": "Lindy Li says Democratic internal polling showed Kamala Harris ranked dead last among potential Biden replacements, behind Pete Buttigieg and others.",
+    "pubDate": "Wed, 16 Sep 2026 19:07:44 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Jordon Hudson dusts herself off and resumes her WAG duties, Belichick vs Sydney Sweeney & 'Gainesville Ripper'",
+    "link": "https://www.foxnews.com/outkick-sports/jordon-hudson-dusts-herself-resumes-wag-duties-belichick-vs-sydney-sweeney-gainesville-ripper",
+    "description": "Jordon Hudson resurfaces at UNC football after months of silence, while AI golf announcer \"Duff\" has a brutal debut and Junior Caminero stuns.",
+    "pubDate": "Wed, 16 Sep 2026 19:01:19 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Russian spies orchestrated $40K murder plot in nation\u2019s capital, US alleges",
+    "link": "https://www.foxnews.com/politics/russian-spies-orchestrated-40k-murder-plot-nations-capital-us-alleges",
+    "description": "Five Russian intelligence operatives allegedly offered $40,000 to a U.S.-based recruit to kill a Kremlin critic believed to live in Washington, D.C.",
+    "pubDate": "Wed, 16 Sep 2026 18:56:42 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "3 stabbed at New York college; 2 suspects in custody",
+    "link": "https://www.foxnews.com/us/3-stabbed-new-york-college-2-suspects-custody",
+    "description": "Three people were stabbed at SUNY Westchester Community College in Valhalla, north of New York City, as two suspects were taken into custody.",
+    "pubDate": "Wed, 16 Sep 2026 18:53:33 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Body found in search for missing three-year-old Noah Woods",
+    "link": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&at_campaign=rss",
+    "description": "Police divers discover child's body in a pond after Noah went missing from a playground on Tuesday.",
+    "pubDate": "Wed, 16 Sep 2026 18:50:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "White House Chief of Staff Susie Wiles announces she is cancer free",
+    "link": "https://www.foxnews.com/politics/white-house-chief-staff-susie-wiles-announces-she-cancer-free",
+    "description": "The White House chief of staff revealed her pathology results from the Mayo Clinic came back clear, six months after her breast cancer diagnosis.",
+    "pubDate": "Wed, 16 Sep 2026 18:43:50 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Happily married Florida mom charged after arrest exposes alleged love triangle involving her son",
+    "link": "https://www.foxnews.com/outkick-culture/happily-married-florida-mom-charged-arrest-exposes-alleged-love-triangle-involving-son",
+    "description": "A domestic violence call in Polk County, Florida, unraveled a secret love triangle after Shane Clemens told deputies he'd been sleeping with his mother.",
+    "pubDate": "Wed, 16 Sep 2026 18:39:23 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Photos show widespread damage at US sites from Iranian attacks",
+    "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+    "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+    "pubDate": "Wed, 16 Sep 2026 18:36:16 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Colbert confesses he's healthier away from late night, compares hosting to drinking a 'cup of poison'",
+    "link": "https://www.foxnews.com/media/colbert-confesses-healthier-away-late-night-compares-hosting-drinking-cup-poison",
+    "description": "Stephen Colbert agreed with Jimmy Kimmel Tuesday that he seemed happier and healthier in his post-late-night career, comparing hosting to drinking a cup of poison.",
+    "pubDate": "Wed, 16 Sep 2026 18:31:40 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Nigerian woman in Massachusetts charged after alleged illegal voting in federal elections",
+    "link": "https://www.foxnews.com/us/nigerian-woman-massachusetts-charged-alleged-illegal-voting-federal-elections",
+    "description": "Gladys Adaeze Okafor allegedly falsified her citizenship on United States voter registration cards in Massachusetts to illegally cast ballots.",
+    "pubDate": "Wed, 16 Sep 2026 18:29:36 GMT",
     "category": "politics",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "James Webb and Hubble Space Telescopes discover tiny new worlds deep in our solar system",
-    "link": "https://www.foxweather.com/weather-news/james-webb-hubble-space-telescopes-discover-new-worlds-solar-system",
-    "description": "For the first time, scientists combined the power of NASA\u2019s Hubble and James Webb Space Telescopes in search of far-flung bodies deep in our solar system.",
-    "pubDate": "Tue, 15 Sep 2026 01:06:26 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Tax breaks helping fuel Trump's latest tech push just landed in Dems' crosshairs",
+    "link": "https://www.foxnews.com/politics/tax-breaks-fueling-trumps-latest-tech-boom-landed-democrats-crosshairs",
+    "description": "House Democrats target bonus depreciation and opportunity zone tax breaks for AI data centers, arguing Big Tech shouldn't get taxpayer subsidies.",
+    "pubDate": "Wed, 16 Sep 2026 18:27:49 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Newscast \u2013 Monday, Sept. 14, 2026",
-    "link": "https://feeds.ktoo.org/link/20427/17462081/newscast-monday-sept-14-2026",
-    "description": "In this newscast: Emergency responders battled a fire today at Whittier's new cruise ship terminal that damaged at least one boat. No injured have been reported; The deadline to submit a public comment on a proposed plan to repeal the Roadless Rule has been extended; The Sitka Assembly is moving forward with a plan to tackle the community's childcare shortage, which includes a half percent sales tax increase; Almost the entire village of Kipnuk was displaced by ex-typhoon Halong. Close to a year later, hundreds of its residents remain scattered across the state, but some families returned to visit their home and practice subsistence",
-    "pubDate": "Tue, 15 Sep 2026 00:59:49 GMT",
-    "category": "southeast",
-    "tag": "alaska",
-    "source": "KTOO",
-    "rank": 100
+    "title": "Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book",
+    "link": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&at_campaign=rss",
+    "description": "Buckingham Palace has pushed back against the claim, saying grief can \"colour memory\" of events.",
+    "pubDate": "Wed, 16 Sep 2026 17:47:17 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
-    "title": "Does Glenfarne actually need a pipeline?",
-    "link": "https://alaskabeacon.com/2026/09/14/does-glenfarne-actually-need-a-pipeline/",
-    "description": "Everyone debating the Alaska LNG project assumes the developer wants what it says it wants: to build an 800-mile natural gas pipeline. But look at Glenfarne\u2019s deeds instead of its words, and a different possibility emerges. Glenfarne may actually be waiting to see if things work out with the pipeline because it now has an [\u2026]",
-    "pubDate": "Tue, 15 Sep 2026 00:00:52 GMT",
-    "category": "alaska",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "Congress is under pressure to act on AI \u2014 here's what that could look like",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
+    "description": "Lawmakers are expressing broader willingness to regulate AI development, but the path forward may not be a quick one.",
+    "pubDate": "Wed, 16 Sep 2026 17:32:44 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "DOJ charges Russian agents with plotting attacks, including in US",
+    "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+    "description": "The indictment says the defendants belong to a network that \"is one arm of the Russian Federation's apparatus used to carry out external attacks\" worldwide.",
+    "pubDate": "Wed, 16 Sep 2026 17:19:49 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "A tumultuous congressional primary season closes with record departures and defeats",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
+    "description": "Already, close to 100 lawmakers who started this Congress will not be around for the next one, according to an NPR analysis, driven by record-setting retirements and primary defeats.",
+    "pubDate": "Wed, 16 Sep 2026 17:05:41 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
+    "description": "The New Yorker 's Dexter Filkins says while Trump's son-in-law is a U.S. special envoy negotiating peace, he's also working on private business deals, raising billions in some of the same countries.",
+    "pubDate": "Wed, 16 Sep 2026 16:14:19 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
+    "link": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
+    "description": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof.",
+    "pubDate": "Wed, 16 Sep 2026 15:33:19 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
     "title": "\u2018Worse than Watergate\u2019 New FBI files detail agent\u2019s push to join Trump probe, investigate Elon Musk",
@@ -420,190 +600,10 @@
     "rank": 10
   },
   {
-    "title": "'Putney pusher' suspect found dead at home",
-    "link": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&at_campaign=rss",
-    "description": "Nicholas Brandram was a suspect in the incident where a woman was shoved into the path of a bus nine years ago.",
-    "pubDate": "Wed, 16 Sep 2026 15:07:10 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "5 states could be the biggest losers in Trump's trade war with Canada, expert warns",
-    "link": "https://www.foxnews.com/politics/5-states-biggest-losers-trumps-trade-war-canada-expert-warns",
-    "description": "President Donald Trump's trade war with Canada exposes $2.3 billion in Ohio exports to retaliatory tariffs ahead of the critical midterm elections.",
-    "pubDate": "Wed, 16 Sep 2026 15:04:22 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Dem fundraising giant ActBlue accused of fraudulent donation 'cover-up' in explosive report",
-    "link": "https://www.foxnews.com/politics/dem-fundraising-giant-actblue-accused-fraudulent-donation-cover-up-explosive-report",
-    "description": "ActBlue allegedly weakened fraud prevention twice in 2024, with internal memos showing supervisors green-lighting donations despite red flags.",
-    "pubDate": "Wed, 16 Sep 2026 15:00:30 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
-    "link": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
-    "description": "Neuroscientists have made a major advance in modeling the human brain in mice, offering a new way to study conditions like cerebral palsy. Ethicists ask if it changes how these mice should be treated.",
-    "pubDate": "Wed, 16 Sep 2026 15:00:16 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Injured Louisiana boy hailed a 'superhero' for seeking help during deadly stabbing rampage",
-    "link": "https://www.foxnews.com/us/injured-louisiana-boy-hailed-superhero-seeking-help-deadly-stabbing-rampage",
-    "description": "A 6-year-old Houma, Louisiana, boy fled to a neighbor's door after a mass stabbing that killed four Verret family members before passing out inside.",
-    "pubDate": "Wed, 16 Sep 2026 14:59:11 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "'God has been so good to me': Ella Langley reacts to incredible nine CMA Awards nominations",
-    "link": "https://www.foxnews.com/outkick/god-good-ella-langley-reacts-incredible-nine-cma-awards-nominations",
-    "description": "Ella Langley praised God during a New Jersey concert after tying the record for most CMA Awards nominations by a female artist with nine nods.",
-    "pubDate": "Wed, 16 Sep 2026 14:57:17 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Eight German state premiers back Merz amid speculation over future",
-    "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-    "description": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
-    "pubDate": "Wed, 16 Sep 2026 14:50:26 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "WWE legend Rey Mysterio shares his thoughts on celebrities and pro athletes entering pro wrestling space",
-    "link": "https://www.foxnews.com/outkick-sports/wwe-legend-rey-mysterio-shares-thoughts-celebrities-pro-athletes-entering-pro-wrestling-space",
-    "description": "Rey Mysterio says WWE celebrity crossovers with Jason Kelce and Bad Bunny are fun, revealing how stars realize wrestling is real in the ring.",
-    "pubDate": "Wed, 16 Sep 2026 14:37:29 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Schools in England get extra \u00a3500m in bid to avoid teachers' pay strike",
-    "link": "https://www.bbc.co.uk/news/articles/c6lyqe9j1gy5o?at_medium=RSS&at_campaign=rss",
-    "description": "The offer of extra money by the government reduces the prospect of strike action by the largest teaching union.",
-    "pubDate": "Wed, 16 Sep 2026 14:32:22 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-    "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-    "description": "Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".",
-    "pubDate": "Wed, 16 Sep 2026 14:16:14 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Jim Jordan subpoenas blue state DAs accused of 'preferential treatment' for illegal immigrant criminals",
-    "link": "https://www.foxnews.com/politics/jim-jordan-subpoenas-blue-state-das-accused-preferential-treatment-illegal-immigrant-criminals",
-    "description": "Jim Jordan issued subpoenas to district attorneys in Fairfax County and Boulder County, accusing both of giving preferential treatment to criminal aliens.",
-    "pubDate": "Wed, 16 Sep 2026 14:00:47 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Trump DHS hits 16 straight months with 0 releases at the border",
-    "link": "https://www.foxnews.com/politics/trump-dhs-hits-16-straight-months-0-releases-border",
-    "description": "President Donald Trump's border policies hit 16 consecutive months of zero releases as apprehensions dropped 94% from Biden-era averages.",
-    "pubDate": "Wed, 16 Sep 2026 14:00:39 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Ex-officer jailed over 'toxic' WhatsApp culture",
-    "link": "https://www.bbc.co.uk/news/articles/c3ew98pd1755o?at_medium=RSS&at_campaign=rss",
-    "description": "Former officer who asked for a suspect's sex video to show \"the lads from footy\" is jailed for four years.",
-    "pubDate": "Wed, 16 Sep 2026 13:58:54 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "US limits visas for South African officials over alleged anti-white discrimination",
-    "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
-    "description": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
-    "pubDate": "Wed, 16 Sep 2026 13:57:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "CCTV shows last sighting of Noah Woods",
-    "link": "https://www.bbc.co.uk/news/videos/cw1mv721kedlo?at_medium=RSS&at_campaign=rss",
-    "description": "Suffolk Police released CCTV of the last confirmed sighting of Noah in the park in Brantham at 14:37 BST on Tuesday.",
-    "pubDate": "Wed, 16 Sep 2026 13:53:26 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "How are rising prices affecting you? NPR wants to know",
-    "link": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
-    "description": "Inflation, gasoline prices and the cost of living are top of mind in the election season. How are higher costs shaping the way you live? NPR wants to hear.",
-    "pubDate": "Wed, 16 Sep 2026 13:40:12 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Russia seizes Ukrainian POWs, then it demands favors from their relatives",
-    "link": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives",
-    "description": "Russia is believed to be holding thousands of Ukrainian POWs. Russia is also tormenting the families of these prisoners by contacting their relatives on social media and demanding they help Russia.",
-    "pubDate": "Wed, 16 Sep 2026 13:33:53 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-    "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-    "description": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
-    "pubDate": "Wed, 16 Sep 2026 13:28:46 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Today - Slight Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "58\u00b0F. Wind S 15 to 20 mph. A slight chance of rain showers before 1pm. Partly sunny, with a high near 58. South wind 15 to 20 mph, with gusts as high as 40 mph.",
-    "pubDate": "Wed, 16 Sep 2026 15:18:13 GMT",
+    "pubDate": "Wed, 16 Sep 2026 19:20:08 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Tonight - Mostly Cloudy then Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "44\u00b0F. Wind S 10 to 15 mph. A chance of rain showers after 1am. Mostly cloudy, with a low around 44. South wind 10 to 15 mph, with gusts as high as 40 mph. Chance of precipitation is 50%.",
-    "pubDate": "Wed, 16 Sep 2026 15:18:13 GMT",
+    "pubDate": "Wed, 16 Sep 2026 19:20:08 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Thursday - Rain Showers Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "57\u00b0F. Wind SE 5 to 10 mph. Rain showers likely. Mostly cloudy, with a high near 57. Southeast wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 60%.",
-    "pubDate": "Wed, 16 Sep 2026 15:18:13 GMT",
+    "pubDate": "Wed, 16 Sep 2026 19:20:08 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +633,7 @@
     "title": "Anchorage Weather: Thursday Night - Rain Showers Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "43\u00b0F. Wind SE 5 mph. Rain showers likely. Mostly cloudy, with a low around 43. Southeast wind around 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Wed, 16 Sep 2026 15:18:13 GMT",
+    "pubDate": "Wed, 16 Sep 2026 19:20:08 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Friday - Rain Showers Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind NE 0 to 5 mph. Rain showers likely. Cloudy, with a high near 54. Northeast wind 0 to 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Wed, 16 Sep 2026 15:18:13 GMT",
+    "pubDate": "Wed, 16 Sep 2026 19:20:08 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
