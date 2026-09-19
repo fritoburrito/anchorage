@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 14:43:46 GMT</lastBuildDate>
+    <item>
+      <title>Smoke seen near Riyadh airport after air raid alerts in Saudi capital</title>
+      <link>https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">dbf103d247c131997d1116316e4e0f78288cc383</guid>
+      <pubDate>Sat, 19 Sep 2026 14:43:46 GMT</pubDate>
+      <description><![CDATA[The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Invest 99L rapidly organizing, likely to become Atlantic's sixth named storm today amid strengthening El Niño</title>
       <link>https://www.foxweather.com/weather-news/el-nino-atlantic-hurricane-season-invest-99l</link>
@@ -15,26 +23,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Overnight - Chance Rain Showers</title>
+      <title>Anchorage Weather: Today - Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 19 Sep 2026 14:08:10 GMT</pubDate>
-      <description><![CDATA[45°F. Wind S 10 mph. A chance of rain showers and patchy fog. Mostly cloudy, with a low around 45. South wind around 10 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Sat, 19 Sep 2026 17:42:52 GMT</pubDate>
+      <description><![CDATA[54°F. Wind NE 0 to 10 mph. Rain showers likely and patchy fog. Mostly cloudy, with a high near 54. Northeast wind 0 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday - Rain Showers Likely</title>
+      <title>Anchorage Weather: Tonight - Rain Showers Likely then Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 19 Sep 2026 14:08:10 GMT</pubDate>
-      <description><![CDATA[54°F. Wind NE 0 to 10 mph. A chance of rain showers and patchy fog before 7am, then rain showers likely and patchy fog. Mostly cloudy, with a high near 54. Northeast wind 0 to 10 mph. Chance of precipitation is 70%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Saturday Night - Rain Showers Likely then Slight Chance Light Rain</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 19 Sep 2026 14:08:10 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 17:42:52 GMT</pubDate>
       <description><![CDATA[44°F. Wind N 5 to 10 mph. Rain showers likely before 1am, then a slight chance of rain. Cloudy, with a low around 44. North wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Sunday - Slight Chance Light Rain then Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 19 Sep 2026 14:08:10 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 17:42:52 GMT</pubDate>
       <description><![CDATA[55°F. Wind N 0 to 5 mph. A slight chance of rain before 10am, then a chance of rain showers. Cloudy, with a high near 55. North wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -50,8 +50,16 @@
       <title>Anchorage Weather: Sunday Night - Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 19 Sep 2026 14:08:10 GMT</pubDate>
+      <pubDate>Sat, 19 Sep 2026 17:42:52 GMT</pubDate>
       <description><![CDATA[43°F. Wind SW 0 to 10 mph. Rain showers. Cloudy, with a low around 43. Southwest wind 0 to 10 mph. Chance of precipitation is 80%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday - Rain Showers</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sat, 19 Sep 2026 17:42:52 GMT</pubDate>
+      <description><![CDATA[52°F. Wind E 0 to 5 mph. Rain showers before 4pm. Cloudy, with a high near 52. East wind 0 to 5 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -263,12 +271,124 @@
       <category>local</category>
     </item>
     <item>
-      <title>Opinion: Use their own weapon to beat them</title>
-      <link>https://mustreadalaska.com/opinion-use-their-own-weapon-to-beat-them/</link>
-      <guid isPermaLink="false">19ea4f97adf8125f36fa0fd19e14e121750d6fad</guid>
-      <pubDate>Thu, 17 Sep 2026 17:55:21 GMT</pubDate>
-      <description><![CDATA[By Rep. Kevin McCabe (R-Big Lake) This article was first published on the author’s personal Substack, September 13, 2026, under the title “Seven Instructions. Two in Bold. Zero Warnings.” I pulled up my own sample ballot this week. House District 30. There are seven instructions at the top. That is all of it. Seven instructions […] The post Opinion: Use their own weapon to beat them appeared first on Must Read Alaska .]]></description>
+      <title>Underdog Promo Code FOXNEWS Unlocks $1000 Deposit Match Before UFC 331</title>
+      <link>https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-1000-deposit-match-before-ufc-331</link>
+      <guid isPermaLink="false">55d323b24137a5d50ef536651b8d2550caaf828a</guid>
+      <pubDate>Sat, 19 Sep 2026 17:29:15 GMT</pubDate>
+      <description><![CDATA[New users can use Underdog Promo Code FOXNEWS to claim a $1,000 deposit match before UFC 331. Bet on Joshua Van vs. Alexandre Pantoja, Arman Tsarukyan vs. Mauricio Ruffy, and the rest of the card.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fanatics Sportsbook Promo Code FOXNEWS350 Unlocks Bet $20, Get $350 Offer for UFC 331</title>
+      <link>https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-unlocks-bet-20-get-350-offer-ufc-331</link>
+      <guid isPermaLink="false">4f4e6eeb9680e4e794e1d8f8fed935c50b1d468b</guid>
+      <pubDate>Sat, 19 Sep 2026 17:11:24 GMT</pubDate>
+      <description><![CDATA[Claim the Fanatics Sportsbook promo code FOXNEWS350 to bet $20 and get $350 in FanCash for UFC 331. New users can take advantage of the offer while betting on Joshua Van vs. Alexandre Pantoja.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bet365 Bonus Code: Bet $10, Get $365 on UFC 331, Van vs Pantoja</title>
+      <link>https://www.foxnews.com/outkick-betting/bet365-bonus-code-bet-10-get-365-ufc-331-van-vs-pantoja</link>
+      <guid isPermaLink="false">542b315157592a410fad2a2aad084bc7c34c340d</guid>
+      <pubDate>Sat, 19 Sep 2026 16:52:18 GMT</pubDate>
+      <description><![CDATA[Watch Joshua Van vs. Alexandre Pantoja at UFC 331 and claim the Bet365 bonus code offer. New users can bet $10 and get $365 in bonus bets ahead of the flyweight title fight.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Major seaside hotel fire treated as suspicious</title>
+      <link>https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0755888c8d3e6f4b67715b90783c8dc289b51258</guid>
+      <pubDate>Sat, 19 Sep 2026 16:43:21 GMT</pubDate>
+      <description><![CDATA[About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Pat McAfee might have made an illegal immigration joke on 'College GameDay,' liberals lose their minds</title>
+      <link>https://www.foxnews.com/outkick-sports/pat-mcafee-illegal-immigration-joke-college-gameday-liberals-lose-minds</link>
+      <guid isPermaLink="false">7326b8580aaaa44cc4613febf024e36dc5e6edac</guid>
+      <pubDate>Sat, 19 Sep 2026 16:41:11 GMT</pubDate>
+      <description><![CDATA[Pat McAfee's fiery military comments during ESPN 'College GameDay' at Ole Miss sparked intense backlash online ahead of the LSU football showdown.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Carrot Top hospitalized, forced to cancel weekend performances</title>
+      <link>https://www.foxnews.com/entertainment/carrot-top-hospitalized-forced-cancel-weekend-performances</link>
+      <guid isPermaLink="false">e09944ae5345616ea381e1035a2b240d6ff46e89</guid>
+      <pubDate>Sat, 19 Sep 2026 16:32:41 GMT</pubDate>
+      <description><![CDATA[Carrot Top was hospitalized in Las Vegas, forcing cancellations of his residency shows. His rep says the comedian is recovering and asks for privacy.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Miami QB Darian Mensah continues to set records, but could soft schedule cost him a Heisman?</title>
+      <link>https://www.foxnews.com/outkick-sports/miami-qb-darian-mensah-continues-set-records-soft-schedule-cost-heisman</link>
+      <guid isPermaLink="false">e6b51af1b1309766a6647b722ef1d3acb1d11879</guid>
+      <pubDate>Sat, 19 Sep 2026 16:26:10 GMT</pubDate>
+      <description><![CDATA[Darian Mensah set an ACC record with 24 straight completions, but the Miami Hurricanes' soft schedule could hurt his Heisman finalist chances.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bill Maher hammers Macklemore over Gaza remarks, highlights rapper's controversial 'Jew' costume from 2014</title>
+      <link>https://www.foxnews.com/media/bill-maher-hammers-macklemore-over-gaza-remarks-highlights-rappers-controversial-jew-costume-from-2014</link>
+      <guid isPermaLink="false">6f1e0a1c4113284e8e3f93fcf9d8bcc4b33b365b</guid>
+      <pubDate>Sat, 19 Sep 2026 16:16:38 GMT</pubDate>
+      <description><![CDATA[Bill Maher revived Macklemore's 2014 prosthetic nose controversy on "Real Time" while mocking AOC's response to the Ed Sheeran tour fallout.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>History-making Miss USA reveals how she got swimsuit-ready while raising 2 young kids</title>
+      <link>https://www.foxnews.com/entertainment/history-making-miss-usa-reveals-swimsuit-ready-raising-2-young-kids</link>
+      <guid isPermaLink="false">2079dfee01fe955caed23a541325a2e4a9157951</guid>
+      <pubDate>Sat, 19 Sep 2026 16:00:47 GMT</pubDate>
+      <description><![CDATA[Justus Kelley reveals how she prepped for the Miss USA pageant during nap times and bath routines while caring for her two young foster children.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Costco brings back a fan-favorite food court treat after years off the menu</title>
+      <link>https://www.foxnews.com/food-drink/costco-brings-back-fan-favorite-food-court-treat-years-off-menu</link>
+      <guid isPermaLink="false">dde9404f67d9163051866f714b5a7318e83f9b24</guid>
+      <pubDate>Sat, 19 Sep 2026 15:48:32 GMT</pubDate>
+      <description><![CDATA[Costco's twisted churro is back in U.S. food courts for a limited time at $1.49, but fans are already demanding it stay permanently on the menu.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Test your pop culture: From Hollywood to the Heartland</title>
+      <link>https://www.foxnews.com/entertainment/test-your-pop-culture-from-hollywood-heartland-24</link>
+      <guid isPermaLink="false">69bb2750d5445b9fc4d628fa67fcee7aa046bf06</guid>
+      <pubDate>Sat, 19 Sep 2026 15:30:56 GMT</pubDate>
+      <description><![CDATA[From a country star contemplating life beyond music to a Hollywood reunion nearly 40 years in the making, see how closely you followed this week's biggest entertainment moments.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>CNN, MS NOW, Politico reporters denied access to White House following Trump ban</title>
+      <link>https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban</link>
+      <guid isPermaLink="false">53ddb503dad0110bd368c2a680f30f377aa98aaa</guid>
+      <pubDate>Sat, 19 Sep 2026 15:26:31 GMT</pubDate>
+      <description><![CDATA[Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting "FICTION and LIES."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Journalists report being denied White House access after Trump bans some outlets</title>
+      <link>https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d6f8469153166a8ec4b9751ea29a72f8d5513e69</guid>
+      <pubDate>Sat, 19 Sep 2026 15:19:39 GMT</pubDate>
+      <description><![CDATA[CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tropical Depression Six forms in the Atlantic, expected to strengthen to Tropical Storm Fay by Sunday</title>
+      <link>https://www.foxweather.com/weather-news/tropical-depression-six-forms-atlantic-el-nino-september-2026</link>
+      <guid isPermaLink="false">ebf42a157550d9b7616a1fbc1a3787c094962fc6</guid>
+      <pubDate>Sat, 19 Sep 2026 15:08:12 GMT</pubDate>
+      <description><![CDATA[Tropical Depression Six has formed in the Atlantic Ocean, southwest from the Azores, packing winds of 35 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Davey says Lib Dems are 'firewall against Farage' as conference begins</title>
+      <link>https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0154ea03e8a2df1fb1f81fe9e1570877dd882c60</guid>
+      <pubDate>Sat, 19 Sep 2026 15:00:32 GMT</pubDate>
+      <description><![CDATA[Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.]]></description>
+      <category>politics</category>
     </item>
     <item>
       <title>Heidi Klum officially kicks off Oktoberfest with annual tapping of the keg, Lane Kiffin memes &amp; bad highways</title>
@@ -276,6 +396,14 @@
       <guid isPermaLink="false">bf097757e6e466233c19374eb12f92537eec633c</guid>
       <pubDate>Sat, 19 Sep 2026 13:43:57 GMT</pubDate>
       <description><![CDATA[Saturday Screencaps covers Heidi Klum's Oktoberfest keg tapping, an LSU pick, highway rants, and whether joining a country club is worth it.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Google's Gemini AI hacked three companies in security test</title>
+      <link>https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9eee1724b36d55796bc13fe322f4c741899c4130</guid>
+      <pubDate>Sat, 19 Sep 2026 13:39:32 GMT</pubDate>
+      <description><![CDATA[The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -303,140 +431,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Deprogrammed: Former DSA insider reveals ‘frightening’ socialist agenda drove him from ‘extreme’ ideology</title>
-      <link>https://www.foxnews.com/media/deprogrammed-former-dsa-insider-reveals-frightening-socialist-agenda-drove-him-extreme-ideology</link>
-      <guid isPermaLink="false">6d35134319c57237fc4660367270989540678216</guid>
-      <pubDate>Sat, 19 Sep 2026 13:00:48 GMT</pubDate>
-      <description><![CDATA[Jake Altman, a former DSA executive board member, reveals how the Democratic Socialists of America silenced dissent and defended the Maduro regime.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Women turn to testosterone for low sex drive as doctors confront treatment ‘experimentation’</title>
-      <link>https://www.foxnews.com/health/women-turn-testosterone-low-sex-drive-doctors-confront-treatment-experimentation</link>
-      <guid isPermaLink="false">17514be00bf5720a4eeb76169e3afe82d51b9b5d</guid>
-      <pubDate>Sat, 19 Sep 2026 13:00:42 GMT</pubDate>
-      <description><![CDATA[Dr. Kudzai Dombo reveals the insurance denials and dosing guesswork women face seeking testosterone therapy as FDA regulators weigh new access.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Lawyer says 250-foot Trump arch disrupts historic sightlines cherished by veterans seeking burial at Arlington</title>
-      <link>https://www.foxnews.com/politics/lawyer-says-250-foot-trump-arch-disrupts-historic-sightlines-cherished-veterans-seeking-burial-arlington</link>
-      <guid isPermaLink="false">a16e6aad07a2fc1a82eec4f680b9d54f21a17008</guid>
-      <pubDate>Sat, 19 Sep 2026 13:00:42 GMT</pubDate>
-      <description><![CDATA[Three Vietnam veterans are suing to block Trump's Great Triumphal Arch, saying it would destroy iconic views near Arlington National Cemetery.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NEWT GINGRICH: Xi is coming to Washington. He should bring one unexpected guest</title>
-      <link>https://www.foxnews.com/opinion/newt-gingrich-xi-coming-washington-should-bring-unexpected-guest</link>
-      <guid isPermaLink="false">e5df28db4d14215c51c1159601a2d717be925b17</guid>
-      <pubDate>Sat, 19 Sep 2026 13:00:17 GMT</pubDate>
-      <description><![CDATA[Jimmy Lai's release could reset U.S.-China relations as Xi Jinping prepares to meet Trump in Washington with a business delegation next week.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Missouri woman federally indicted over chilling death threats sent to Austin Metcalf's family</title>
-      <link>https://www.foxnews.com/us/missouri-woman-federally-indicted-chilling-death-threats-austin-metcalf-family</link>
-      <guid isPermaLink="false">4396ad028d75768aeeaaead9350eadc81a49284a</guid>
-      <pubDate>Sat, 19 Sep 2026 12:14:57 GMT</pubDate>
-      <description><![CDATA[Sharifa Nicole Henderson faces federal indictment after allegedly sending death threats to Austin Metcalf's family following Karmelo Anthony's conviction.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Beloved restaurant chain dwindles from 850 locations to 87, but expert sees 'a lot of life left'</title>
-      <link>https://www.foxnews.com/food-drink/beloved-restaurant-chain-known-ice-cream-now-operates-handful-states</link>
-      <guid isPermaLink="false">fe6fbbc4ace861db1fa188a253b743ad9e0540e9</guid>
-      <pubDate>Sat, 19 Sep 2026 12:00:34 GMT</pubDate>
-      <description><![CDATA[Friendly's once operated 850 restaurants, but 90% have closed. A Wharton marketing professor says nostalgia could fuel the ice cream chain's comeback.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Opinion: Remembering Annie Dillard, nature writer</title>
-      <link>https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer</link>
-      <guid isPermaLink="false">b185fa72c881894a9e1f9a99164f35d16dcf75be</guid>
-      <pubDate>Sat, 19 Sep 2026 12:00:00 GMT</pubDate>
-      <description><![CDATA[With her 1974 book, "Pilgrim at Tinker Creek," Annie Dillard became the youngest woman to win the Pulitzer Prize. We take a moment to remember her and her work.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Shark attack prompts rare kill order in Western Australia as victim named</title>
-      <link>https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">dda46dc247996b8502f332f5c89889e0e2aad0bf</guid>
-      <pubDate>Sat, 19 Sep 2026 11:50:22 GMT</pubDate>
-      <description><![CDATA[Greg O'Neill "loved the ocean", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US and Denmark reach deal over Greenland after Trump annexation threats</title>
-      <link>https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7ffe8b5c7454717b27e9b6b2b894bdddf791a2ef</guid>
-      <pubDate>Sat, 19 Sep 2026 11:36:55 GMT</pubDate>
-      <description><![CDATA[Denmark and Greenland have welcomed the deal, which Trump claims will give the US "permanent control over security and all other needs" in the Danish territory.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ancient teeth pose a mystery: What made those strange grooves?</title>
-      <link>https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs</link>
-      <guid isPermaLink="false">34681e23f427797d3d116ae1a4b9356930033785</guid>
-      <pubDate>Sat, 19 Sep 2026 11:21:56 GMT</pubDate>
-      <description><![CDATA[New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Michael Marra announced as new Scottish Labour leader</title>
-      <link>https://www.bbc.co.uk/news/articles/cvrl64773g58o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b243d8a39e6b4892643f72dc10a7df960fbb1f4c</guid>
-      <pubDate>Sat, 19 Sep 2026 10:59:55 GMT</pubDate>
-      <description><![CDATA[Anas Sarwar's replacement has been announced as the MSP for the North East region.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>From 'fusty' to fashionable - is it cool to wear M&amp;S clothes now?</title>
-      <link>https://www.bbc.co.uk/news/articles/cje3rk4p39zwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6321cf22c2640a754e4d0db30e559bb0fc0d1369</guid>
-      <pubDate>Sat, 19 Sep 2026 10:52:33 GMT</pubDate>
-      <description><![CDATA[The retailer hosted its first-ever London Fashion Week show this week, celebrating 100 years of producing clothing.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Millions without power as Cuba hit by latest major blackout</title>
-      <link>https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">07a60ae54a52a28aa5978daab840a831b3d67a29</guid>
-      <pubDate>Sat, 19 Sep 2026 10:27:37 GMT</pubDate>
-      <description><![CDATA[Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Clancy holdout juror taps former Trump lawyer to fight back as he’s ‘dragged through the mud’: attorney</title>
-      <link>https://www.foxnews.com/us/clancy-holdout-juror-taps-former-trump-lawyer-fight-back-hes-dragged-through-mud-attorney</link>
-      <guid isPermaLink="false">db10c3225c6632bd26d38927a7111b57521a49be</guid>
-      <pubDate>Sat, 19 Sep 2026 10:00:42 GMT</pubDate>
-      <description><![CDATA[Michael P. Desronvil, the lone holdout juror in the Lindsay Clancy mistrial, has retained Edward Paltzik, a lawyer known for representing Trump.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bitter row over Diana book brings back unhappy times for royals</title>
-      <link>https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">965022c8673f83b42f0d7777d22da2e5b06aa54a</guid>
-      <pubDate>Sat, 19 Sep 2026 09:37:35 GMT</pubDate>
-      <description><![CDATA[Many of the Royal Family's current troubles can be traced back to the aftermath of the then-Princess of Wales' death.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Long-lasting coastal storm targets millions across the Northeast, ushering in the changing of the seasons</title>
       <link>https://www.foxweather.com/weather-news/northeast-coastal-storm-beach-erosion-summer-fall-september-2026</link>
       <guid isPermaLink="false">15c57ded1f56786977953879fadac77910343aa6</guid>
       <pubDate>Sat, 19 Sep 2026 09:35:09 GMT</pubDate>
       <description><![CDATA[A potential storm system could develop off the Mid-Atlantic coast next week, bringing rain, gusty winds, rough surf and much cooler temperatures to parts of the Northeast. Forecast uncertainty remains regarding the system’s exact track and intensity.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Deadly shark attack prompts rare kill order in Western Australia</title>
-      <link>https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">dda46dc247996b8502f332f5c89889e0e2aad0bf</guid>
-      <pubDate>Sat, 19 Sep 2026 09:19:12 GMT</pubDate>
-      <description><![CDATA[Police boats and helicopters are patrolling Perth's beaches as authorities continue their search for the swimmer's body, and the shark that attacked him.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>El Niño continues to fuel tropical activity in the Pacific with 3 systems on track for development</title>
