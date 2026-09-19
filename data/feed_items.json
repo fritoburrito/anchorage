@@ -1,5 +1,35 @@
 [
   {
+    "title": "Kenai Peninsula school district\u2019s AK STAR scores set new academic baseline",
+    "link": "https://www.homernews.com/2026/09/19/kenai-peninsula-school-districts-ak-star-scores-set-new-academic-baseline/",
+    "description": "Board seeks five-point gains in English and math proficiency by 2027",
+    "pubDate": "Sat, 19 Sep 2026 12:30:00 GMT",
+    "category": "kenai",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
+    "title": "LIVING AND GROWING: Our final destination",
+    "link": "https://www.juneauempire.com/2026/09/19/living-and-growing-our-final-destination/",
+    "description": "\u201cBut as it is written: \u2018What eye has not seen, and ear has not heard, and what has not entered the human heart, what God has prepared for those who love him.\u201d 1 Corinthians 2:9",
+    "pubDate": "Sat, 19 Sep 2026 12:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
+    "title": "I Went to the Woods: Date night in the alpine",
+    "link": "https://www.juneauempire.com/2026/09/19/i-went-to-the-woods-date-night-in-the-alpine/",
+    "description": "My summer exercise had been the constant movement of varying, hauling, holding, sawing, drilling, pounding, cutting and whatever else needed to be done at the cabin build site. None of that prepares you for an alpine hunt. Lunges, squats and rucking can keep things tight and ready, but only the mountain prepares you for the mountain.",
+    "pubDate": "Sat, 19 Sep 2026 12:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
     "title": "Long-lasting coastal storm targets millions across the Northeast, ushering in the changing of the seasons",
     "link": "https://www.foxweather.com/weather-news/northeast-coastal-storm-beach-erosion-summer-fall-september-2026",
     "description": "A potential storm system could develop off the Mid-Atlantic coast next week, bringing rain, gusty winds, rough surf and much cooler temperatures to parts of the Northeast. Forecast uncertainty remains regarding the system\u2019s exact track and intensity.",
@@ -190,6 +220,16 @@
     "rank": 100
   },
   {
+    "title": "Invest 99L rapidly organizing, likely to become Atlantic's sixth named storm today amid strengthening El Ni\u00f1o",
+    "link": "https://www.foxweather.com/weather-news/el-nino-atlantic-hurricane-season-invest-99l",
+    "description": "The National Hurricane Center (NHC) is monitoring a new area to watch for tropical development in the open Atlantic that is highly likely to continue developing, amid a record-slow start to hurricane season.",
+    "pubDate": "Fri, 18 Sep 2026 12:53:31 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "Invest 99L rapidly organizing in Atlantic, could become a tropical depression amid strengthening El Ni\u00f1o",
     "link": "https://www.foxweather.com/weather-news/el-nino-atlantic-hurricane-season-invest-99l",
     "description": "The National Hurricane Center (NHC) is monitoring a new area to watch for tropical development in the open Atlantic that is now being given medium odds of development, amid a record-slow start to hurricane season.",
@@ -360,44 +400,174 @@
     "rank": 100
   },
   {
-    "title": "Body of lost hiker recovered at Olympic National Park after weeks-long search",
-    "link": "https://www.foxweather.com/weather-news/body-lost-hiker-recovered-olympic-national-park",
-    "description": "Tragic news has struck the community of Olympic National Park after officials recovered the body of a missing hiker, concluding a two-week search effort.",
-    "pubDate": "Thu, 17 Sep 2026 17:33:20 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Heidi Klum officially kicks off Oktoberfest with annual tapping of the keg, Lane Kiffin memes & bad highways",
+    "link": "https://www.foxnews.com/outkick-sports/heidi-klum-officially-kicks-off-oktoberfest-annual-tapping-keg-lane-kiffin-memes-bad-highways",
+    "description": "Saturday Screencaps covers Heidi Klum's Oktoberfest keg tapping, an LSU pick, highway rants, and whether joining a country club is worth it.",
+    "pubDate": "Sat, 19 Sep 2026 13:43:57 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Alaska ranks 2nd in nation for per-user Medicare ambulance spending",
-    "link": "https://www.homernews.com/2026/09/17/alaska-ranks-2nd-in-nation-for-per-user-medicare-ambulance-spending/",
-    "description": "Spending from 2015 to 2024 rose 63.8%, from $14 million to $23 million",
-    "pubDate": "Thu, 17 Sep 2026 17:04:00 GMT",
-    "category": "local",
-    "tag": "alaska",
-    "source": "Homer News",
-    "rank": 100
+    "title": "'Resident Evil' Review: Director Zach Cregger delivers infectious reboot to gory video game franchise",
+    "link": "https://www.foxnews.com/opinion/resident-evil-review-director-zach-cregger-delivers-infectious-reboot-gory-video-game-franchise",
+    "description": "Fox News Digital reviews Sony Pictures' \"Resident Evil\" starring Austin Abrams, Paul Walter Hauser, Kali Reis and Zach Cherry. Directed by Zach Cregger.",
+    "pubDate": "Sat, 19 Sep 2026 13:30:35 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Bryan Norcross: Hints of a system forming in the Atlantic & the Great Miami Hurricane arrives 100 years ago",
-    "link": "https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-september-17-2026",
-    "description": "The area of low pressure east of Bermuda \u2013 tagged Invest 98L by the National Hurricane Center \u2013 is better organized, but the message from the various computer forecast models continues to be mixed on whether it will develop.",
-    "pubDate": "Thu, 17 Sep 2026 16:13:22 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Former ESPN anchor smears Caitlin Clark fans with sweeping, false accusations of racism | Matt Calkins",
+    "link": "https://www.foxnews.com/outkick-sports/former-espn-anchor-smears-caitlin-clark-fans-sweeping-false-accusations-racism",
+    "description": "Cari Champion called Caitlin Clark an \"avatar\" for hate and her fans MAGA on podcasts with Jemele Hill and Bakari Sellers, sparking fierce debate.",
+    "pubDate": "Sat, 19 Sep 2026 13:28:58 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Renewed flash flood threat targets Northeast as weekend downpours expected to drench major I-95 cities",
-    "link": "https://www.foxweather.com/weather-news/northeast-flash-flood-threat-weekend-rain",
-    "description": "Just one week after highly impactful flash floods, rain is returning to the Northeast this weekend. The heaviest downpours are expected to arrive on Sunday, bringing a Level 1 out of 4 flash flood threat to major cities along the Interstate 95 Corridor, including New York City, Boston and Washington, D.C.",
-    "pubDate": "Thu, 17 Sep 2026 13:55:07 GMT",
+    "title": "Philly serial killer probe could expose larger network behind apparent 'snuff' films, expert says",
+    "link": "https://www.foxnews.com/us/philly-serial-killer-probe-expose-larger-network-apparent-snuff-films-expert-says",
+    "description": "Forensic psychologist Dr. Kris Mohandie warns the Philadelphia missing women investigation could involve 'snuff' films distributed to underground networks.",
+    "pubDate": "Sat, 19 Sep 2026 13:00:59 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Deprogrammed: Former DSA insider reveals \u2018frightening\u2019 socialist agenda drove him from \u2018extreme\u2019 ideology",
+    "link": "https://www.foxnews.com/media/deprogrammed-former-dsa-insider-reveals-frightening-socialist-agenda-drove-him-extreme-ideology",
+    "description": "Jake Altman, a former DSA executive board member, reveals how the Democratic Socialists of America silenced dissent and defended the Maduro regime.",
+    "pubDate": "Sat, 19 Sep 2026 13:00:48 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Women turn to testosterone for low sex drive as doctors confront treatment \u2018experimentation\u2019",
+    "link": "https://www.foxnews.com/health/women-turn-testosterone-low-sex-drive-doctors-confront-treatment-experimentation",
+    "description": "Dr. Kudzai Dombo reveals the insurance denials and dosing guesswork women face seeking testosterone therapy as FDA regulators weigh new access.",
+    "pubDate": "Sat, 19 Sep 2026 13:00:42 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Lawyer says 250-foot Trump arch disrupts historic sightlines cherished by veterans seeking burial at Arlington",
+    "link": "https://www.foxnews.com/politics/lawyer-says-250-foot-trump-arch-disrupts-historic-sightlines-cherished-veterans-seeking-burial-arlington",
+    "description": "Three Vietnam veterans are suing to block Trump's Great Triumphal Arch, saying it would destroy iconic views near Arlington National Cemetery.",
+    "pubDate": "Sat, 19 Sep 2026 13:00:42 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "NEWT GINGRICH: Xi is coming to Washington. He should bring one unexpected guest",
+    "link": "https://www.foxnews.com/opinion/newt-gingrich-xi-coming-washington-should-bring-unexpected-guest",
+    "description": "Jimmy Lai's release could reset U.S.-China relations as Xi Jinping prepares to meet Trump in Washington with a business delegation next week.",
+    "pubDate": "Sat, 19 Sep 2026 13:00:17 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Missouri woman federally indicted over chilling death threats sent to Austin Metcalf's family",
+    "link": "https://www.foxnews.com/us/missouri-woman-federally-indicted-chilling-death-threats-austin-metcalf-family",
+    "description": "Sharifa Nicole Henderson faces federal indictment after allegedly sending death threats to Austin Metcalf's family following Karmelo Anthony's conviction.",
+    "pubDate": "Sat, 19 Sep 2026 12:14:57 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Beloved restaurant chain dwindles from 850 locations to 87, but expert sees 'a lot of life left'",
+    "link": "https://www.foxnews.com/food-drink/beloved-restaurant-chain-known-ice-cream-now-operates-handful-states",
+    "description": "Friendly's once operated 850 restaurants, but 90% have closed. A Wharton marketing professor says nostalgia could fuel the ice cream chain's comeback.",
+    "pubDate": "Sat, 19 Sep 2026 12:00:34 GMT",
     "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Opinion: Remembering Annie Dillard, nature writer",
+    "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
+    "description": "With her 1974 book, \"Pilgrim at Tinker Creek,\" Annie Dillard became the youngest woman to win the Pulitzer Prize. We take a moment to remember her and her work.",
+    "pubDate": "Sat, 19 Sep 2026 12:00:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+    "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+    "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+    "pubDate": "Sat, 19 Sep 2026 11:50:22 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+    "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+    "description": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
+    "pubDate": "Sat, 19 Sep 2026 11:36:55 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Ancient teeth pose a mystery: What made those strange grooves?",
+    "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
+    "description": "New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents.",
+    "pubDate": "Sat, 19 Sep 2026 11:21:56 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Michael Marra announced as new Scottish Labour leader",
+    "link": "https://www.bbc.co.uk/news/articles/cvrl64773g58o?at_medium=RSS&at_campaign=rss",
+    "description": "Anas Sarwar's replacement has been announced as the MSP for the North East region.",
+    "pubDate": "Sat, 19 Sep 2026 10:59:55 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "From 'fusty' to fashionable - is it cool to wear M&S clothes now?",
+    "link": "https://www.bbc.co.uk/news/articles/cje3rk4p39zwo?at_medium=RSS&at_campaign=rss",
+    "description": "The retailer hosted its first-ever London Fashion Week show this week, celebrating 100 years of producing clothing.",
+    "pubDate": "Sat, 19 Sep 2026 10:52:33 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Millions without power as Cuba hit by latest major blackout",
+    "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+    "description": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+    "pubDate": "Sat, 19 Sep 2026 10:27:37 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
     "title": "Clancy holdout juror taps former Trump lawyer to fight back as he\u2019s \u2018dragged through the mud\u2019: attorney",
@@ -430,180 +600,10 @@
     "rank": 10
   },
   {
-    "title": "An Alaska storm scattered artifacts. Archaeologists are racing to save what's left",
-    "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
-    "description": "Last year, remnants of a typhoon damaged homes, infrastructure and an archaeological dig site. Now, archaeologists are trying to get as many objects out as possible before the next storm.",
-    "pubDate": "Sat, 19 Sep 2026 09:01:00 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Dem\u2019s data center attack in critical Senate race hits snag when money trail surfaces: 'Jekyll-and-Hyde'",
-    "link": "https://www.foxnews.com/politics/dems-data-center-attack-critical-senate-race-hits-snag-money-trail-surfaces-jekyll-hyde",
-    "description": "Former Democratic Sen. Sherrod Brown accepted $20,000 from Google's PAC while running ads attacking a Google data center in Lancaster, Ohio.",
-    "pubDate": "Sat, 19 Sep 2026 09:00:58 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Kirk family has powerful evidence \u2014 but Utah law could derail wrongful death case: experts",
-    "link": "https://www.foxnews.com/politics/kirk-family-powerful-evidence-utah-law-could-derail-wrongful-death-case",
-    "description": "Utah's broad government immunity statute could block the Charlie Kirk wrongful death lawsuit against Utah Valley University over alleged security failures.",
-    "pubDate": "Sat, 19 Sep 2026 09:00:53 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
-    "link": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
-    "description": "The Federal Reserve just raised interest rates this week for the first time this year. So how does it actually work? And what does it mean for the economy \u2014 and the rest of us? Here are some answers.",
-    "pubDate": "Sat, 19 Sep 2026 09:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-    "link": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
-    "description": "Russia's parliamentary election for the first time is being held in Ukraine's regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago.",
-    "pubDate": "Sat, 19 Sep 2026 06:39:57 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Trump says he is banning CNN and Politico from White House",
-    "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-    "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-    "pubDate": "Sat, 19 Sep 2026 05:36:36 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "As Europe warms, Italy sees West Nile virus spread",
-    "link": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
-    "description": "Italian health authorities see evidence that rising temperatures and longer warm seasons are helping mosquitoes spread West Nile virus across a wider area, during more months of the year.",
-    "pubDate": "Sat, 19 Sep 2026 05:13:18 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "U.S. and Denmark reach deal to build U.S. military presence in Greenland",
-    "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-    "description": "President Trump says he has a deal with Denmark to bolster the U.S. military presence in Greenland. The announcement comes after months of threatening to take the island by force from the NATO ally.",
-    "pubDate": "Sat, 19 Sep 2026 04:44:46 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "US and Denmark reach deal to build US military presence in Greenland",
-    "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-    "description": "President Donald Trump says he has a deal with Denmark to bolster the U.S. military presence in Greenland. The announcement comes after months of threatening to take the island by force from the NATO ally.",
-    "pubDate": "Sat, 19 Sep 2026 04:44:46 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Google's Gemini AI hacked three companies in security test",
-    "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-    "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-    "pubDate": "Sat, 19 Sep 2026 04:27:11 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-    "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-    "description": "Residents later received the all-clear after explosions were reported in the capital.",
-    "pubDate": "Sat, 19 Sep 2026 04:20:47 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Parents could lose benefits or face prison for child's crimes, minister says",
-    "link": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
-    "description": "The reforms to Parenting Orders could also see parents losing benefits, Jake Richards MP told the Times.",
-    "pubDate": "Sat, 19 Sep 2026 03:22:26 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Caitlin Clark returns after FIBA title as Kelsey Mitchell sets WNBA scoring mark in Fever victory over Tempo",
-    "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-returns-fiba-title-kelsey-mitchell-sets-wnba-scoring-mark-fever-victory-tempo",
-    "description": "Kelsey Mitchell broke the WNBA season scoring record with 33 points while Caitlin Clark posted 28 points and 14 assists in Indiana Fever's win.",
-    "pubDate": "Sat, 19 Sep 2026 03:20:28 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Mountain lion caught on camera evading capture in San Francisco before being tranquilized, released",
-    "link": "https://www.foxnews.com/lifestyle/mountain-lion-caught-camera-evading-capture-san-francisco-tranquilized-released",
-    "description": "A mountain lion was tranquilized in San Francisco's Sunset District after evading capture for hours. It was later released back into the wild.",
-    "pubDate": "Sat, 19 Sep 2026 02:29:52 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Sorority alumnae take legal fight to federal court after being 'given a brother' instead of sisterhood",
-    "link": "https://www.foxnews.com/media/sorority-alumnae-legal-fight-federal-court-given-brother-instead-sisterhood",
-    "description": "Allie Coghan says Kappa Kappa Gamma \"promised a sisterhood\" but admitted a transgender woman without a proper membership vote or bylaw amendment.",
-    "pubDate": "Sat, 19 Sep 2026 00:40:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Cuba plunges into total blackout as electrical grid collapses again, US Embassy warns",
-    "link": "https://www.foxnews.com/world/cuba-plunges-total-blackout-electrical-grid-collapses-us-embassy-warns",
-    "description": "Cuba's entire electrical grid collapsed Friday, triggering a nationwide blackout with cellphone and internet outages reported across the island.",
-    "pubDate": "Sat, 19 Sep 2026 00:38:10 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Yankees star Aaron Judge heads back to injured list weeks after returning from broken rib",
-    "link": "https://www.foxnews.com/outkick-sports/yankees-star-aaron-judge-heads-back-injured-list-weeks-after-returning-broken-rib",
-    "description": "Aaron Judge heads to the New York Yankees injured list with a right calf strain that could sideline the three-time AL MVP for the rest of the season.",
-    "pubDate": "Sat, 19 Sep 2026 00:13:58 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Overnight - Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "45\u00b0F. Wind SW 5 to 10 mph. A chance of rain showers. Cloudy, with a low around 45. Southwest wind 5 to 10 mph. Chance of precipitation is 50%.",
-    "pubDate": "Sat, 19 Sep 2026 10:11:54 GMT",
+    "description": "45\u00b0F. Wind S 10 mph. A chance of rain showers and patchy fog. Mostly cloudy, with a low around 45. South wind around 10 mph. Chance of precipitation is 40%.",
+    "pubDate": "Sat, 19 Sep 2026 14:08:10 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -612,28 +612,28 @@
   {
     "title": "Anchorage Weather: Saturday - Rain Showers Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "54\u00b0F. Wind N 5 to 10 mph. Rain showers likely. Cloudy, with a high near 54. North wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sat, 19 Sep 2026 10:11:54 GMT",
+    "description": "54\u00b0F. Wind NE 0 to 10 mph. A chance of rain showers and patchy fog before 7am, then rain showers likely and patchy fog. Mostly cloudy, with a high near 54. Northeast wind 0 to 10 mph. Chance of precipitation is 70%.",
+    "pubDate": "Sat, 19 Sep 2026 14:08:10 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Saturday Night - Rain Showers Likely then Chance Light Rain",
+    "title": "Anchorage Weather: Saturday Night - Rain Showers Likely then Slight Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "43\u00b0F. Wind N 5 to 10 mph. Rain showers likely before 1am, then a chance of rain. Cloudy, with a low around 43. North wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sat, 19 Sep 2026 10:11:54 GMT",
+    "description": "44\u00b0F. Wind N 5 to 10 mph. Rain showers likely before 1am, then a slight chance of rain. Cloudy, with a low around 44. North wind 5 to 10 mph. Chance of precipitation is 70%.",
+    "pubDate": "Sat, 19 Sep 2026 14:08:10 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Sunday - Chance Light Rain then Chance Rain Showers",
+    "title": "Anchorage Weather: Sunday - Slight Chance Light Rain then Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "54\u00b0F. Wind N 0 to 5 mph. A chance of rain before 10am, then a chance of rain showers. Cloudy, with a high near 54. North wind 0 to 5 mph. Chance of precipitation is 30%.",
-    "pubDate": "Sat, 19 Sep 2026 10:11:54 GMT",
+    "description": "55\u00b0F. Wind N 0 to 5 mph. A slight chance of rain before 10am, then a chance of rain showers. Cloudy, with a high near 55. North wind 0 to 5 mph. Chance of precipitation is 30%.",
+    "pubDate": "Sat, 19 Sep 2026 14:08:10 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -642,8 +642,8 @@
   {
     "title": "Anchorage Weather: Sunday Night - Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "38\u00b0F. Wind NW 0 to 5 mph. Rain showers. Cloudy, with a low around 38. Northwest wind 0 to 5 mph. Chance of precipitation is 80%.",
-    "pubDate": "Sat, 19 Sep 2026 10:11:54 GMT",
+    "description": "43\u00b0F. Wind SW 0 to 10 mph. Rain showers. Cloudy, with a low around 43. Southwest wind 0 to 10 mph. Chance of precipitation is 80%.",
+    "pubDate": "Sat, 19 Sep 2026 14:08:10 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
