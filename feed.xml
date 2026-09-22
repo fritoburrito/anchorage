@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 23:36:24 GMT</lastBuildDate>
+    <item>
+      <title>Nor'easter live tracker: Future radar, winds, storm surge, rain and alerts</title>
+      <link>https://www.foxweather.com/weather-news/track-noreaster-future-radar-winds-waves-rain-alerts</link>
+      <guid isPermaLink="false">431cbf41d579909376cd26ac667b67b47fd9959f</guid>
+      <pubDate>Mon, 21 Sep 2026 23:36:24 GMT</pubDate>
+      <description><![CDATA[A brewing nor'easter has the potential to cause significant impacts as it batters the East Coast this week. Here is what you need to know.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Timeline: Here's where and when major US cities will see impacts from the developing nor'easter</title>
       <link>https://www.foxweather.com/weather-news/timeline-where-when-major-us-cities-impacts-noreaster</link>
@@ -39,18 +47,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Today - Rain Showers</title>
+      <title>Anchorage Weather: This Afternoon - Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 21 Sep 2026 21:37:00 GMT</pubDate>
-      <description><![CDATA[53°F. Wind N 0 to 5 mph. Rain showers. Cloudy, with a high near 53. North wind 0 to 5 mph. Chance of precipitation is 80%.]]></description>
+      <pubDate>Tue, 22 Sep 2026 00:31:49 GMT</pubDate>
+      <description><![CDATA[53°F. Wind W 5 mph. Rain showers. Mostly cloudy, with a high near 53. West wind around 5 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Rain Showers then Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 21 Sep 2026 21:37:00 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 00:31:49 GMT</pubDate>
       <description><![CDATA[39°F. Wind SE 0 to 5 mph. Rain showers before 10pm, then patchy fog. Mostly cloudy, with a low around 39. Southeast wind 0 to 5 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -58,7 +66,7 @@
       <title>Anchorage Weather: Tuesday - Patchy Fog then Slight Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 21 Sep 2026 21:37:00 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 00:31:49 GMT</pubDate>
       <description><![CDATA[53°F. Wind N 5 mph. Patchy fog before 10am, then a slight chance of rain showers. Mostly sunny, with a high near 53. North wind around 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -66,7 +74,7 @@
       <title>Anchorage Weather: Tuesday Night - Slight Chance Rain Showers then Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 21 Sep 2026 21:37:00 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 00:31:49 GMT</pubDate>
       <description><![CDATA[35°F. Wind NW 0 to 5 mph. A slight chance of rain showers before 7pm, then patchy fog. Partly cloudy, with a low around 35. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -74,9 +82,17 @@
       <title>Anchorage Weather: Wednesday - Patchy Fog then Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 21 Sep 2026 21:37:00 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 00:31:49 GMT</pubDate>
       <description><![CDATA[52°F. Wind N 0 to 5 mph. Patchy fog before 10am. Mostly sunny, with a high near 52. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Trump administration says developers, loggers can kill endangered species</title>
+      <link>https://alaskabeacon.com/2026/09/21/repub/trump-administration-says-developers-loggers-can-kill-endangered-species/</link>
+      <guid isPermaLink="false">5d6f3f58dc3291afa585e522d62153854a3b9ba5</guid>
+      <pubDate>Mon, 21 Sep 2026 22:19:03 GMT</pubDate>
+      <description><![CDATA[The Trump administration’s top wildlife official issued a directive last week that expands a recent rollback of endangered species protections much further than the feds had told the public. Individuals and industries may kill endangered animals in the course of logging projects, developments and other activities, it said — so long as the activity’s purpose […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Voters begin casting their ballots in Juneau municipal election</title>
@@ -199,36 +215,124 @@
       <category>local</category>
     </item>
     <item>
-      <title>Newscast – Friday, Sept. 18, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17466525/newscast-friday-sept-18-2026</link>
-      <guid isPermaLink="false">573b4a83f9b5faa731f6e1d09fd4a8a1dc334404</guid>
-      <pubDate>Sat, 19 Sep 2026 02:05:36 GMT</pubDate>
-      <description><![CDATA[In this newscast: A 26-year-old Juneau motorcyclist died yesterday afternoon after colliding with a U.S. Postal Service vehicle while traveling on Douglas Island; Eaglecrest Ski Area's new general manager Julie Piper talks about her plans for the upcoming season; Bear experts held a mini fair in Petersburg last weekend to educate attendees on the best practices for living with bears.]]></description>
-      <category>local</category>
+      <title>CNN, MS NOW and Politico file lawsuit against Trump's White House ban</title>
+      <link>https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ea16baaac9071cf126f063496ad6eb94f7f190f8</guid>
+      <pubDate>Tue, 22 Sep 2026 00:16:06 GMT</pubDate>
+      <description><![CDATA[Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Ambler Metals’ Arctic Project advances with Notice of Intent published by Army Corps</title>
-      <link>https://mustreadalaska.com/ambler-metals-arctic-project-advances-with-notice-of-intent-published-by-army-corps/</link>
-      <guid isPermaLink="false">9f47894df9b3b530ee839d513306f3cbc4d7b722</guid>
-      <pubDate>Sat, 19 Sep 2026 01:42:59 GMT</pubDate>
-      <description><![CDATA[Press release provided by Ambler Metals. Today, September 18, 2026, the U.S. Army Corps of Engineers’ (Army Corps) published the Notice of Intent (NOI) for the Arctic Project in Northwest Alaska, officially launching the public scoping phase of the National Environmental Policy Act (NEPA) environmental review. This milestone follows the Arctic Project’s designation as a […] The post Ambler Metals’ Arctic Project advances with Notice of Intent published by Army Corps appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>El Niño just broke a historic temperature record — and it’s still intensifying</title>
+      <link>https://www.foxweather.com/weather-news/el-nino-breaks-historic-temperature-record-intensifying</link>
+      <guid isPermaLink="false">fb8d9f86d2c753dfff604a9c9e6a0518cd4d80ce</guid>
+      <pubDate>Tue, 22 Sep 2026 00:12:44 GMT</pubDate>
+      <description><![CDATA[El Niño water temperatures surpassed a historic benchmark Sunday as the climate pattern continues to intensify ahead of the upcoming winter.]]></description>
+      <category>weather</category>
     </item>
     <item>
-      <title>Construction of King Cove Road underway despite antagonizing by radical environmentalists</title>
-      <link>https://mustreadalaska.com/construction-of-king-cove-road-underway-despite-antagonizing-by-radical-environmentalists/</link>
-      <guid isPermaLink="false">7930b40e9e3f8e3204e46f1bc72e3ee009291937</guid>
-      <pubDate>Sat, 19 Sep 2026 00:53:00 GMT</pubDate>
-      <description><![CDATA[After environmentalists convinced U.S. District Judge Sharon L. Gleason to vacate the land exchange facilitating the construction of the King Cove road through the Izembek Wilderness, environmentalists then tried to block the construction of the first 2.8 miles of road that does not go through Izembek. The first 2.8 miles is being built on private […] The post Construction of King Cove Road underway despite antagonizing by radical environmentalists appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Chris Murphy calls for 'regulating the internet' so people won't fall for a 'demagogue like Donald Trump'</title>
+      <link>https://www.foxnews.com/media/chris-murphy-calls-regulating-internet-people-wont-fall-demagogue-like-donald-trump</link>
+      <guid isPermaLink="false">24a1e48d96781611a8ddb61cc75d1a54eb3ca473</guid>
+      <pubDate>Mon, 21 Sep 2026 23:52:54 GMT</pubDate>
+      <description><![CDATA[Sen. Chris Murphy claimed regulating the internet could prevent Americans from falling for leaders like President Donald Trump by tackling loneliness.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Where do Alaska’s four governor candidates stand on data centers?</title>
-      <link>https://alaskabeacon.com/2026/09/18/where-do-alaskas-four-governor-candidates-stand-on-data-centers/</link>
-      <guid isPermaLink="false">a7a6f4efdc6b44bb545b62a42ed7cbc176ff41dc</guid>
-      <pubDate>Sat, 19 Sep 2026 00:44:21 GMT</pubDate>
-      <description><![CDATA[On the day that his campaign announced it had accepted hundreds of thousands of dollars in donations from employees of a California-based artificial intelligence company, Democratic governor candidate Jonathan Kreiss-Tomkins said that if elected, he will seek to temporarily ban new computing data centers in Alaska. As Americans grow frustrated with artificial intelligence software and […]]]></description>
-      <category>local</category>
+      <title>How much rest should flight attendants get? New proposal ignites fight in the skies</title>
+      <link>https://www.foxnews.com/travel/how-much-rest-should-flight-attendants-get-proposal-ignites-fight-skies</link>
+      <guid isPermaLink="false">b5e227f95af34ca8144dd504f643b37dd3b490ba</guid>
+      <pubDate>Mon, 21 Sep 2026 23:49:00 GMT</pubDate>
+      <description><![CDATA[A new FAA proposal would override state meal and rest break laws for flight attendants, but major airline unions say it lacks federal guarantees. An aviation industry expert weighed in.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Paris Hilton heartbroken over Presley Gerber’s death at 27 as she remembers his ‘gentle heart’</title>
+      <link>https://www.foxnews.com/entertainment/paris-hilton-heartbroken-presley-gerber-death-27-remembers-gentle-heart</link>
+      <guid isPermaLink="false">6294d0ee30f4c44841fdf3162980965b4463da74</guid>
+      <pubDate>Mon, 21 Sep 2026 23:45:36 GMT</pubDate>
+      <description><![CDATA[Paris Hilton, Brooklyn Beckham and Brody Jenner led tributes to Presley Gerber, remembering Cindy Crawford's son as a kind and gentle soul.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Martha's Rule rolled out at every A&amp;E department in England</title>
+      <link>https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">521e1377c61508ce9544b4e72dd3b3bf0ebaf7dc</guid>
+      <pubDate>Mon, 21 Sep 2026 23:38:57 GMT</pubDate>
+      <description><![CDATA[The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'My army dream was ended by childhood eye surgery'</title>
+      <link>https://www.bbc.co.uk/news/articles/cvg7k5nv4kpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9b698f03ae08fc894bfa920a16eccc9a41bea4a8</guid>
+      <pubDate>Mon, 21 Sep 2026 23:19:10 GMT</pubDate>
+      <description><![CDATA[Some 114,000 Army application were rejected on medical grounds in the past five years, Freedom of Information figures show.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Eagles fan-favorite Zach Ertz returns to Philly amid injury concerns on offense</title>
+      <link>https://www.foxnews.com/outkick-sports/eagles-fan-favorite-zach-ertz-returns-philly-injury-concerns-offense</link>
+      <guid isPermaLink="false">dd1ab5694fff35035e32e4e7fb7cf4aade98508e</guid>
+      <pubDate>Mon, 21 Sep 2026 23:18:39 GMT</pubDate>
+      <description><![CDATA[Zach Ertz returns to the Philadelphia Eagles after Dallas Goedert's MCL sprain, sitting just 11 catches from the franchise's all-time receptions record.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Puka Nacua officially out for Monday Night Football as Rams suffer major offensive blow</title>
+      <link>https://www.foxnews.com/outkick-sports/puka-nacua-officially-out-monday-night-football-rams-suffer-major-offensive-blow</link>
+      <guid isPermaLink="false">c67c9bd79bcc7ea8a93b93425989f92b9724d693</guid>
+      <pubDate>Mon, 21 Sep 2026 23:08:14 GMT</pubDate>
+      <description><![CDATA[Puka Nacua's hip and groin injury leaves the Rams without their top target as Aaron Donald makes his season debut against the New York Giants.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Vet prescription fees capped under rule changes</title>
+      <link>https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">183f1681dd551d69a5494ca52c68e8ff841f60de</guid>
+      <pubDate>Mon, 21 Sep 2026 23:01:18 GMT</pubDate>
+      <description><![CDATA[Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trumpeter Dr Jesse McGuire belts national anthem after instrument malfunctions in unforgettable MLB moment</title>
+      <link>https://www.foxnews.com/outkick-sports/trumpeter-dr-jesse-mcguire-belts-national-anthem-instrument-malfunctions-unforgettable-mlb-moment</link>
+      <guid isPermaLink="false">37f85d7e34e67f47f9da212d4c32944c32a33cf8</guid>
+      <pubDate>Mon, 21 Sep 2026 22:52:39 GMT</pubDate>
+      <description><![CDATA[The Arizona Diamondbacks' 2001 World Series anniversary featured a trumpet malfunction that turned into an unforgettable national anthem moment.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>National Park Service director calls Yellowstone's wild bison recovery an 'incredible conservation story'</title>
+      <link>https://www.foxnews.com/outkick-culture/national-park-service-director-calls-yellowstones-wild-bison-recovery-incredible-conservation-story</link>
+      <guid isPermaLink="false">4f1ba621037a0413f902a25419c2e9b7a5463834</guid>
+      <pubDate>Mon, 21 Sep 2026 22:38:34 GMT</pubDate>
+      <description><![CDATA[Over 600 Yellowstone bison have been transferred to 29 tribes across 13 states since 2019 through a landmark conservation program partnership.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Chiefs coach suggests Taylor Swift has sparked Travis Kelce's performance in first two weeks of season</title>
+      <link>https://www.foxnews.com/outkick-sports/chiefs-coach-suggests-taylor-swift-sparked-travis-kelce-performance-first-two-weeks-season</link>
+      <guid isPermaLink="false">01e4106853621806e2546f91ae34418113a2f5d3</guid>
+      <pubDate>Mon, 21 Sep 2026 22:36:36 GMT</pubDate>
+      <description><![CDATA[Andy Reid says Taylor Swift likely "kicks him in the butt" as Travis Kelce's offseason work fueled his 101-yard, one-touchdown performance.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fury erupts over Mamdani parade invite as old Columbus insult resurfaces: ‘Are you kidding me?’</title>
+      <link>https://www.foxnews.com/politics/fury-erupts-over-mamdani-parade-invite-old-columbus-insult-resurfaces-are-you-kidding-me</link>
+      <guid isPermaLink="false">704eacb0cd1988593007d807480b20e5da8d954c</guid>
+      <pubDate>Mon, 21 Sep 2026 22:17:59 GMT</pubDate>
+      <description><![CDATA[Zohran Mamdani's Columbus Day Parade invitation sparks fury among Italian Americans over his 2020 post flipping off a Christopher Columbus statue.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'The View' host Sunny Hostin claims her children experienced racism at private schools</title>
+      <link>https://www.foxnews.com/media/the-view-host-sunny-hostin-claims-children-experienced-racism-private-schools</link>
+      <guid isPermaLink="false">1c5f361de7e145dc9c1bf3f0b8e4125b94efe082</guid>
+      <pubDate>Mon, 21 Sep 2026 21:38:37 GMT</pubDate>
+      <description><![CDATA["The View" co-host Sunny Hostin said her kids faced racism at "predominantly White" private schools, sharing her story alongside Nikole Hannah-Jones' regret over her child's education.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>UK to provide Saudi Arabia with 'defensive' military support, says Burnham</title>
@@ -279,92 +383,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Jerry Jones issues 'dangerous' warning after Cowboys topple Commanders behind Dak Prescott's historic day</title>
-      <link>https://www.foxnews.com/outkick-sports/jerry-jones-issues-dangerous-warning-cowboys-topple-commanders-dak-prescott-historic-day</link>
-      <guid isPermaLink="false">04211cee817c9392b58c93f6ed1045aacaa5f3a4</guid>
-      <pubDate>Mon, 21 Sep 2026 21:02:22 GMT</pubDate>
-      <description><![CDATA[Jerry Jones delivered a bold warning after the Dallas Cowboys' 37-20 win over the Washington Commanders as Dak Prescott made franchise history.]]></description>
+      <title>Historically quiet Atlantic hurricane season shatters century-old record amid brewing Super El Niño</title>
+      <link>https://www.foxweather.com/weather-news/historically-quiet-atlantic-hurricane-season-super-el-nino</link>
+      <guid isPermaLink="false">6456b9ac9e307d7543c3107a8013bbaf1cdd45e6</guid>
+      <pubDate>Mon, 21 Sep 2026 19:00:00 GMT</pubDate>
+      <description><![CDATA[The Atlantic Basin hasn't seen a single hurricane at this point in the season for the first time in 112 years, the last "year without a hurricane." Hostile El Niño-driven winds have suppressed the Atlantic season, with just five named storms and no hurricanes thus far.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Cindy Crawford’s son Presley Gerber said he was ‘terrified’ in raw addiction post months before death at 27</title>
-      <link>https://www.foxnews.com/entertainment/cindy-crawford-son-presley-gerber-terrified-raw-addiction-post-months-before-death-27</link>
-      <guid isPermaLink="false">465c1fc8d9d676613d79ff4b04256855cbf697b3</guid>
-      <pubDate>Mon, 21 Sep 2026 21:01:34 GMT</pubDate>
-      <description><![CDATA[Presley Gerber shared video of his ibogaine psychedelic treatment in Mexico months before his unexpected death at a rehab facility at age 27.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Justin Herbert, Madison Beer grilled by NFL legend Michael Irvin after embarrassing Chargers loss</title>
-      <link>https://www.foxnews.com/outkick-sports/justin-herbert-madison-beer-grilled-nfl-legend-michael-irvin-embarrassing-chargers-loss</link>
-      <guid isPermaLink="false">dc1c171fadd3c215c9367bec85971df92a33b391</guid>
-      <pubDate>Mon, 21 Sep 2026 20:53:38 GMT</pubDate>
-      <description><![CDATA[Michael Irvin roasted Justin Herbert for driving girlfriend Madison Beer to the airport but failing to drive the Chargers' offense to score.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Craig Carton roasts Bears' Caleb Williams for emotional reaction to hamstring injury against Vikings</title>
-      <link>https://www.foxnews.com/outkick-sports/craig-carton-roasts-bears-caleb-williams-emotional-reaction-hamstring-injury-vikings</link>
-      <guid isPermaLink="false">c13c337301370f3186648472a57165bea30e60d0</guid>
-      <pubDate>Mon, 21 Sep 2026 20:38:57 GMT</pubDate>
-      <description><![CDATA[Craig Carton ripped Caleb Williams for his emotional reaction to a hamstring injury, saying the Bears quarterback "acted like his career ended."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Family sounds alarm after 83-year-old grandma dies under Canada's assisted-death program</title>
-      <link>https://www.foxnews.com/media/family-sounds-alarm-83-year-old-woman-dies-canadas-assisted-death-program</link>
-      <guid isPermaLink="false">5f7c078f71a6ee588ba75adb0b04f4e3071e30d9</guid>
-      <pubDate>Mon, 21 Sep 2026 20:37:07 GMT</pubDate>
-      <description><![CDATA[Brigitte Stegemann's granddaughter alleges the 83-year-old became distraught and said she "made a mistake" days before her MAiD procedure in Ontario.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Millions urged to evacuate as powerful Typhoon Dujuan hits Japan</title>
-      <link>https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">228f64a4d4bc88938e0eff232a72a0ddf3ae7815</guid>
-      <pubDate>Mon, 21 Sep 2026 20:26:41 GMT</pubDate>
-      <description><![CDATA[The country's meteorological agency had warned of an "imminent threat to life," but this has now been downgraded.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Prime Big Deal Days is back — Amazon's two-day sale starts Oct. 6</title>
-      <link>https://www.foxnews.com/deals/amazon-october-prime-day-2026-dates</link>
-      <guid isPermaLink="false">c561e2e499988ec385a09e71b0dd9a85d658e218</guid>
-      <pubDate>Mon, 21 Sep 2026 20:26:12 GMT</pubDate>
-      <description><![CDATA[October Prime Day is back. Find the 2026 dates, shopping tips and early deals worth watching ahead of the two-day sale.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Watch: Police raid organised crime targets in Teesside</title>
-      <link>https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">93205c6b6a89031001075bb28f9336e517c199dc</guid>
-      <pubDate>Mon, 21 Sep 2026 20:21:29 GMT</pubDate>
-      <description><![CDATA[Cleveland Police carried out one of their biggest raids in years, following the A66 crash that left two officers dead.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Infantino says he is open to Fifa reform</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">35f5b380d0f5f275779f361dbccd87ee6df61ba4</guid>
-      <pubDate>Mon, 21 Sep 2026 19:50:57 GMT</pubDate>
-      <description><![CDATA[Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>What the equinox 'henge' effect tells us about U.S. cities</title>
-      <link>https://www.npr.org/2026/09/21/nx-s1-5973179/equinox-henge-sunrise-sunset</link>
-      <guid isPermaLink="false">ca71a3962b401a82eaa2ec3d67107e81d2766411</guid>
-      <pubDate>Mon, 21 Sep 2026 19:50:13 GMT</pubDate>
-      <description><![CDATA[The fall equinox, which arrives Tuesday in the U.S., brings shorter days, and chances to witness alignment between Earth and the sun. It's a modern version of ancient observances of a celestial shift.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Death of Cindy Crawford's son Presley Gerber being investigated as suspected overdose</title>
-      <link>https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">435dbdabc9572d1042e923932b9d12068af84aa2</guid>
-      <pubDate>Mon, 21 Sep 2026 19:01:36 GMT</pubDate>
-      <description><![CDATA[His family asked for privacy during a "very difficult and painful time" following the model's death.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Historically quiet Atlantic hurricane season approaches century-old record amid brewing Super El Niño</title>
@@ -373,30 +397,6 @@
       <pubDate>Mon, 21 Sep 2026 19:00:00 GMT</pubDate>
       <description><![CDATA[The Atlantic Basin hasn't seen a single hurricane at this point in the season for the first time in 112 years, the last "year without a hurricane." Hostile El Niño-driven winds have suppressed the Atlantic season, with just five named storms and no hurricanes thus far.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Aviation regulators turn to AI to help manage the nation's airspace</title>
-      <link>https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace</link>
-      <guid isPermaLink="false">d5d04dcdad166dce56184f83b8303adf533402fc</guid>
-      <pubDate>Mon, 21 Sep 2026 17:37:56 GMT</pubDate>
-      <description><![CDATA[The Federal Aviation Administration launched an ambitious $875-million-dollar push to make the U.S. airspace more efficient. But critics say it won't solve bigger problems with air traffic control.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Paramount settles lawsuit with US states, helping clear way for $110bn merger with Warner Bros</title>
-      <link>https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5c613a75961ab7a17ec59f46be413557d98c2a9b</guid>
-      <pubDate>Mon, 21 Sep 2026 17:36:52 GMT</pubDate>
-      <description><![CDATA[Paramount has reached a settlement with the US states in a lawsuit challenging its $110bn merger with Warner Bros]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dabble Promo Code FOXNEWS: Play $5, Get $50 on Rams vs Giants on Monday Night Football</title>
-      <link>https://www.foxnews.com/outkick-betting/dabble-promo-code-foxnews-play-5-get-50-rams-vs-giants-monday-night-football</link>
-      <guid isPermaLink="false">029b885e42a28c0504b90c482f24ca0b50b326c2</guid>
-      <pubDate>Mon, 21 Sep 2026 17:31:06 GMT</pubDate>
-      <description><![CDATA[Dabble is offering new users $50 when wagering $5 and using promo code FOXNEWS ahead of Monday night's matchup between the Los Angeles Rams and New York Giants.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Polo now a Category 1 hurricane, expected to strengthen and fuel Southwest flood threat amid active Pacific</title>
