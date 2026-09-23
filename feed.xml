@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 23:43:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:20:18 GMT</lastBuildDate>
+    <item>
+      <title>Flood Watches issued as Tropical Depression Fifteen-E redevelops, threatens Hawaii with rare direct landfall</title>
+      <link>https://www.foxweather.com/weather-news/flood-watches-issued-tropical-depression-fifteen-e-redevelops-threatens-hawaii-rare-direct-landfall</link>
+      <guid isPermaLink="false">da9a49263d3d4b844ebe19c72af2b0cec4c08f82</guid>
+      <pubDate>Wed, 23 Sep 2026 11:20:18 GMT</pubDate>
+      <description><![CDATA[The tropical traffic jam in the Pacific is marching on, with the remnants of Tropical Depression Fifteen-E redeveloping near the Hawaiian Islands.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Outer Banks first in line for developing nor’easter as dangerous impacts begin Wednesday</title>
       <link>https://www.foxweather.com/weather-news/north-carolina-outer-banks-dangerous-noreaster-impacts</link>
@@ -31,26 +39,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Timeline: Here's where and when major US cities will see impacts from the developing nor'easter</title>
-      <link>https://www.foxweather.com/weather-news/timeline-where-when-major-us-cities-impacts-noreaster</link>
-      <guid isPermaLink="false">95a294ac886b2b02ed683e4f4dddea3d31725ee7</guid>
-      <pubDate>Mon, 21 Sep 2026 17:14:28 GMT</pubDate>
-      <description><![CDATA[As fall finally arrives across the U.S., parts of the East Coast will be hit by gusty winds and rain due to a nor'easter storm. The FOX Forecast Center breaks down where and when to expect impacts.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight - Mostly Clear then Patchy Fog</title>
+      <title>Anchorage Weather: Overnight - Patchy Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 23 Sep 2026 07:13:33 GMT</pubDate>
-      <description><![CDATA[36°F. Wind N 0 to 5 mph. Patchy fog after 1am. Mostly clear, with a low around 36. North wind 0 to 5 mph.]]></description>
+      <pubDate>Wed, 23 Sep 2026 13:16:46 GMT</pubDate>
+      <description><![CDATA[36°F. Wind N 5 mph. Patchy fog. Mostly clear, with a low around 36. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Wednesday - Patchy Fog then Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 23 Sep 2026 07:13:33 GMT</pubDate>
+      <pubDate>Wed, 23 Sep 2026 13:16:46 GMT</pubDate>
       <description><![CDATA[52°F. Wind NW 0 to 5 mph. Patchy fog before 10am. Sunny, with a high near 52. Northwest wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,7 +58,7 @@
       <title>Anchorage Weather: Wednesday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 23 Sep 2026 07:13:33 GMT</pubDate>
+      <pubDate>Wed, 23 Sep 2026 13:16:46 GMT</pubDate>
       <description><![CDATA[35°F. Wind  0 mph. Mostly clear, with a low around 35. Southeast wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
@@ -66,7 +66,7 @@
       <title>Anchorage Weather: Thursday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 23 Sep 2026 07:13:33 GMT</pubDate>
+      <pubDate>Wed, 23 Sep 2026 13:16:46 GMT</pubDate>
       <description><![CDATA[54°F. Wind NE 0 to 5 mph. Sunny, with a high near 54. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -74,9 +74,33 @@
       <title>Anchorage Weather: Thursday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 23 Sep 2026 07:13:33 GMT</pubDate>
-      <description><![CDATA[42°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 42. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Wed, 23 Sep 2026 13:16:46 GMT</pubDate>
+      <description><![CDATA[42°F. Wind NE 5 mph. Mostly cloudy, with a low around 42. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico</title>
+      <link>https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">966d88a00af426c46e7e41989a672c819e96eeaa</guid>
+      <pubDate>Wed, 23 Sep 2026 12:24:02 GMT</pubDate>
+      <description><![CDATA[The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>OPINION: Time wasted: The most unproductive government</title>
+      <link>https://www.homernews.com/2026/09/23/opinion-time-wasted-the-most-unproductive-government/</link>
+      <guid isPermaLink="false">ccdcbee0d2fd28f19a3fd03f7323490bbb500767</guid>
+      <pubDate>Wed, 23 Sep 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[Trump keeps busy. Congress keeps leaving. Taxpayers keep paying]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Capital City Fire Rescue welcomes new airport truck</title>
+      <link>https://www.juneauempire.com/2026/09/23/capital-city-fire-rescue-welcomes-new-airport-truck/</link>
+      <guid isPermaLink="false">2dd8b852711b8aaebdf23fe828f13c4bd6cecbf4</guid>
+      <pubDate>Wed, 23 Sep 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[The vehicle is designed for rapid response, rescue, and fire suppression during airport emergencies]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Gov. Dunleavy lifts freeze on state government hiring, new regulations and worker travel</title>
@@ -271,139 +295,155 @@
       <category>local</category>
     </item>
     <item>
-      <title>CNN, MS Now, Politico sue Trump over White House ban</title>
-      <link>https://alaskabeacon.com/2026/09/21/repub/cnn-ms-now-politico-sue-trump-over-white-house-ban/</link>
-      <guid isPermaLink="false">2c277f6ae00908484306f699c8308da5daa21723</guid>
-      <pubDate>Mon, 21 Sep 2026 18:58:33 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — The three news organizations that President Donald Trump has barred from entering the White House filed a lawsuit against the administration on Monday. CNN, MS Now and Politico wrote in a joint statement the suit is intended “to protect our First Amendment rights and defend the principle that the government does not decide what […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Three Alaska gubernatorial candidates endorse plan to restrict Permanent Fund spending</title>
-      <link>https://alaskabeacon.com/2026/09/21/three-alaska-gubernatorial-candidates-endorse-plan-to-restrict-permanent-fund-spending/</link>
-      <guid isPermaLink="false">ef4880642a851c79210f03f06179700acffa5ee8</guid>
-      <pubDate>Mon, 21 Sep 2026 18:00:32 GMT</pubDate>
-      <description><![CDATA[In a candidate forum Thursday, three of the four candidates to be Alaska’s next governor voiced support for a long-debated plan to restructure the Alaska Permanent Fund in order to permanently cap the amount of money that can be spent from it without a statewide vote. “You’ve got to protect the Permanent Fund. You simply […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Death notice: Calvin Irving Oden Randall</title>
-      <link>https://www.juneauempire.com/2026/09/21/death-notice-calvin-irving-oden-randall/</link>
-      <guid isPermaLink="false">ee5dcf71d6998b93d424cb4ce571be46a12cf086</guid>
-      <pubDate>Mon, 21 Sep 2026 17:30:00 GMT</pubDate>
-      <description><![CDATA[Calvin Irving Oden Randall died on May 6, 2026. He was 55.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>UK to step up fight against Russian disinformation and push global AI standards, PM says</title>
-      <link>https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">fc07afdadd5a8b88fd681d1d6b656bbababaf575</guid>
-      <pubDate>Wed, 23 Sep 2026 07:07:20 GMT</pubDate>
-      <description><![CDATA[The UK could act as "an honest broker" on AI and other global challenges, the prime minister tells world leaders at the UN.]]></description>
+      <title>UK warned over ballooning debt costs and slower growth ahead of Budget</title>
+      <link>https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b63bcf5811e0f6e142282b12a520769f3cc51971</guid>
+      <pubDate>Wed, 23 Sep 2026 13:12:16 GMT</pubDate>
+      <description><![CDATA[Higher energy prices due to the conflict in the Middle East and climate change could hit growth.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Eleven killed in mass shooting at house in South Africa</title>
-      <link>https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">08b26904d9b7b1b56f867f6506dd738469eff704</guid>
-      <pubDate>Wed, 23 Sep 2026 07:02:52 GMT</pubDate>
-      <description><![CDATA[One of those killed is believed to be a pregnant woman, police said.]]></description>
+      <title>Two pilots injured after RAF aircraft crash</title>
+      <link>https://www.bbc.co.uk/news/articles/cq62k1947l7po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">61144ab2280c15630e91e27d1b17765e843683db</guid>
+      <pubDate>Wed, 23 Sep 2026 13:06:52 GMT</pubDate>
+      <description><![CDATA[Emergency services are responding to an incident on Anglesey, after reports of a crash involving an aircraft.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Massachusetts lesbian bar ignites fury after easing mask rules for one night a week</title>
-      <link>https://www.foxnews.com/us/massachusetts-lesbian-bar-ignites-fury-after-easing-mask-rules-for-one-night-a-week</link>
-      <guid isPermaLink="false">5a6015dccd1221cf58f82849dbb2b1b1fda7a18b</guid>
-      <pubDate>Wed, 23 Sep 2026 06:59:37 GMT</pubDate>
-      <description><![CDATA[Last Ditch Bar in Greenfield, Massachusetts, faces a boycott and accusations of ableism after lifting its mask mandate on Saturdays to stay afloat.]]></description>
+      <title>'Lioness' star weighs in on what drove Taylor Sheridan's unexpected decision for her character</title>
+      <link>https://www.foxnews.com/entertainment/lioness-star-weighs-what-drove-taylor-sheridans-unexpected-decision-her-character</link>
+      <guid isPermaLink="false">8496781264efa4af097b4b899b00442d8b972e51</guid>
+      <pubDate>Wed, 23 Sep 2026 13:00:08 GMT</pubDate>
+      <description><![CDATA[Elizaveta Neretin reacts to Taylor Sheridan's outcome for her "Lioness" character Oleksandra Balakin in the season 3 finale.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Mamdani fires back at Netanyahu, calls Israeli leader 'architect of horrific genocide' ahead of UN visit</title>
-      <link>https://www.foxnews.com/politics/mamdani-fires-back-netanyahu-calls-israeli-leader-architect-horrific-genocide-ahead-un-visit</link>
-      <guid isPermaLink="false">2d0cf54caebdde650e38dcff6fcdccf958280b48</guid>
-      <pubDate>Wed, 23 Sep 2026 06:59:30 GMT</pubDate>
-      <description><![CDATA[NYC Mayor Zohran Mamdani fired back at Benjamin Netanyahu's accusations of supporting Hamas by citing the ICC arrest warrant for alleged war crimes.]]></description>
+      <title>New Jersey police pull out 3-foot python from woman's car grille, bodycam video shows</title>
+      <link>https://www.foxnews.com/us/new-jersey-police-pull-3-foot-python-womans-car-grille-bodycam-video-shows</link>
+      <guid isPermaLink="false">b5b69716c03131d3f1fa7227c1e8e05108a6a772</guid>
+      <pubDate>Wed, 23 Sep 2026 12:55:40 GMT</pubDate>
+      <description><![CDATA[Body camera footage shows New Jersey police dismantling a car's front bumper to free a 3-foot ball python wedged inside the vehicle's grille.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing</title>
-      <link>https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">906bb703f08ffa46a351265c7e2186d1a2b2b2c2</guid>
-      <pubDate>Wed, 23 Sep 2026 06:47:49 GMT</pubDate>
-      <description><![CDATA[The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.]]></description>
+      <title>Boston Globe op-ed says violence against transgender people is 'going down' despite activist claims</title>
+      <link>https://www.foxnews.com/media/boston-globe-op-ed-concedes-violence-against-transgender-people-going-down-despite-activist-claims</link>
+      <guid isPermaLink="false">0daf7193d93abc2721112ce39eafbd64ff72a693</guid>
+      <pubDate>Wed, 23 Sep 2026 12:55:30 GMT</pubDate>
+      <description><![CDATA[A Boston Globe opinion piece cited data from the Advocates for Trans Equality and the Human Rights Campaign showing a significant drop in violent transgender deaths.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Farmers offering on-site vacation rentals to combat rising costs</title>
-      <link>https://www.foxnews.com/travel/farmers-offering-on-site-vacation-rentals-combat-rising-costs</link>
-      <guid isPermaLink="false">75c848102195b3fd5c1f657fd1d87f47acdd1a68</guid>
-      <pubDate>Wed, 23 Sep 2026 06:25:01 GMT</pubDate>
-      <description><![CDATA[As farmers face rising operation costs, many are looking for additional ways to bring in more money and some are offering overnight stays on their properties in effort to do that.]]></description>
+      <title>UK to review Chagos Islands deal over lack of US support, Streeting tells BBC</title>
+      <link>https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5f7d19784edf4cfc07f9f6a4967306ffe8a47691</guid>
+      <pubDate>Wed, 23 Sep 2026 12:52:53 GMT</pubDate>
+      <description><![CDATA[Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was "terrible".]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Category 5 Hurricane Polo is 'one of the strongest storms ever'</title>
-      <link>https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo</link>
-      <guid isPermaLink="false">e580170f3cdf40a248693f1df7ab084b91dcbe11</guid>
-      <pubDate>Wed, 23 Sep 2026 06:13:35 GMT</pubDate>
-      <description><![CDATA[Hurricane Polo has grown into one of the most powerful Pacific cyclones in decades, and it was expected to skirt Mexico's southwestern coast as a Category 5 storm.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>US and Iran hold first talks since June after Trump's 'annihilation' threat</title>
-      <link>https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">934a7d1633738ce1efffdef9b41ce6a6bed42eb3</guid>
-      <pubDate>Wed, 23 Sep 2026 06:12:56 GMT</pubDate>
-      <description><![CDATA[The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.]]></description>
+      <title>WWE legend Kurt Angle provides 'crazy' detail about iconic 'milk-o-mania' moment</title>
+      <link>https://www.foxnews.com/outkick-sports/wwe-legend-kurt-angle-provides-crazy-detail-iconic-milk-o-mania-moment</link>
+      <guid isPermaLink="false">91a99799eb307029a9d21c713be52f9cafdd189e</guid>
+      <pubDate>Wed, 23 Sep 2026 12:36:47 GMT</pubDate>
+      <description><![CDATA[Kurt Angle revealed the iconic Attitude Era milk truck segment on "Monday Night Raw" didn't actually use real milk, exposing a key WWE secret.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims</title>
-      <link>https://www.npr.org/2026/09/23/g-s1-144623/trump-affordable-care-act</link>
-      <guid isPermaLink="false">d9b1bbb2318bdcd61c210ee7baff75b3220f00f7</guid>
-      <pubDate>Wed, 23 Sep 2026 05:26:31 GMT</pubDate>
-      <description><![CDATA[White House officials allege these individuals were fraudulently enrolled in the program or do not exist. Vice President Vance said the move would save $2.2 billion.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>'My eyelids became infected - I was scared to sleep'</title>
-      <link>https://www.bbc.co.uk/news/videos/cjp306113l0wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6dd4b86f7766b446902f1fd71cab30978f14326d</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:32 GMT</pubDate>
-      <description><![CDATA[Three women describe what happened when they travelled abroad for cheap "bleph" eyelid surgery.]]></description>
+      <title>Pro-life leader sounds alarm after doctor gets 6 months for forcing abortion pills on girlfriend</title>
+      <link>https://www.foxnews.com/politics/pro-life-leader-sounds-alarm-doctor-gets-6-months-forcing-abortion-pills-girlfriend</link>
+      <guid isPermaLink="false">e97138ddaafdf5f48c780fa32a01457f59bbda9d</guid>
+      <pubDate>Wed, 23 Sep 2026 12:32:38 GMT</pubDate>
+      <description><![CDATA[Marjorie Dannenfelser slams the six-month sentence for Hassan-James Abbas, who forced crushed abortion pills into his pregnant girlfriend's mouth.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery</title>
-      <link>https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9324e6400df45d666b071f694dce5e821edf0514</guid>
-      <pubDate>Wed, 23 Sep 2026 05:00:25 GMT</pubDate>
-      <description><![CDATA[A concerning number of patients are reporting problems from treatment abroad, say doctors.]]></description>
+      <title>Dramatic eviction of woman aged 87 highlights Spain's housing shortage</title>
+      <link>https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1d689b235b1737644fa28a2e793e26f514c75565</guid>
+      <pubDate>Wed, 23 Sep 2026 12:31:31 GMT</pubDate>
+      <description><![CDATA[The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Florida AG accuses teacher of labeling student a 'misogynist' over 'conservative views': 'She should be fired'</title>
-      <link>https://www.foxnews.com/politics/florida-ag-accuses-teacher-labeling-student-misogynist-conservative-views-fired</link>
-      <guid isPermaLink="false">67ee51977be427d51481f3716f3177100fe3b107</guid>
-      <pubDate>Wed, 23 Sep 2026 04:49:33 GMT</pubDate>
-      <description><![CDATA[Florida Attorney General James Uthmeier alleges a Pine View School teacher bullied a conservative eighth grader and labeled him a "misogynist."]]></description>
+      <title>How the 'Squatter Hunter' is fighting home takeovers with tech</title>
+      <link>https://www.foxnews.com/tech/squatter-hunter-fighting-home-takeovers-tech</link>
+      <guid isPermaLink="false">37014c8a25543cad3335c21fcbd9cdfcbe7185fb</guid>
+      <pubDate>Wed, 23 Sep 2026 12:28:10 GMT</pubDate>
+      <description><![CDATA[Flash Shelton reveals how home security cameras and alarm systems can stop squatters before they claim tenant rights in your vacant property.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Chris Mason: From inside the room, how Burnham survived first Trump meeting</title>
-      <link>https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">14205aa37b1d8f140e39c4298fa739ebba548bad</guid>
-      <pubDate>Wed, 23 Sep 2026 04:32:59 GMT</pubDate>
-      <description><![CDATA[Burnham seemed nervous at first, knowing how explosive these encounters with Trump can be, writes BBC political editor Chris Mason.]]></description>
+      <title>Dolly Parton's manager accuses her nephew of 'threats and intimidation'</title>
+      <link>https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ba9c3661c5d783decb6cac751a64c1779d937cf4</guid>
+      <pubDate>Wed, 23 Sep 2026 12:22:53 GMT</pubDate>
+      <description><![CDATA[Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Texas man charged with capital murder after 5-year-old killed in roadway shooting</title>
-      <link>https://www.foxnews.com/us/texas-man-charged-capital-murder-5-year-old-killed-roadway-shooting</link>
-      <guid isPermaLink="false">2b6cb4c3027081fd016e0dbb128173eb89b5ec12</guid>
-      <pubDate>Wed, 23 Sep 2026 03:21:23 GMT</pubDate>
-      <description><![CDATA[Jeremy Porter was charged with capital murder after police said he killed 5-year-old Zah'Layah Walter in a roadway shooting in northwest Harris County.]]></description>
+      <title>FCC chair blasts House Democrats 'extreme position' on gender ideology in kids' programming in fiery letter</title>
+      <link>https://www.foxnews.com/media/fcc-chair-blasts-house-democrats-extreme-position-gender-ideology-kids-programming-fiery-letter</link>
+      <guid isPermaLink="false">cd48b4b2f9efa9810519fb600ceb919090f71ebc</guid>
+      <pubDate>Wed, 23 Sep 2026 12:15:50 GMT</pubDate>
+      <description><![CDATA[FCC Chairman Brendan Carr fired back at House Democrats who opposed the agency's push to reform children's TV ratings over content pushing gender ideology.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Arch Manning officially goes through the PR spin cycle and the finished product sounds awful</title>
+      <link>https://www.foxnews.com/outkick-sports/arch-manning-officially-goes-through-pr-spin-cycle-finished-product-sounds-awful</link>
+      <guid isPermaLink="false">324764773eee6219973401e5abfd429c43806961</guid>
+      <pubDate>Wed, 23 Sep 2026 12:08:31 GMT</pubDate>
+      <description><![CDATA[Arch Manning's weekly presser featured 19 questions answered in just 56 seconds after backlash over his reaction to an AI video of Steve Sarkisian.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>OpenAI gives cyber defence tools to Ukraine</title>
+      <link>https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">504b1f32a4a3b53d1390b6cf9ed470a4d58b715c</guid>
+      <pubDate>Wed, 23 Sep 2026 12:01:37 GMT</pubDate>
+      <description><![CDATA[Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Lost in translation: Israel, Huckabee blast Macron over Hamas comments as France clarifies wording</title>
+      <link>https://www.foxnews.com/politics/lost-translation-israel-huckabee-blast-macron-over-hamas-comments-france-clarifies-wording</link>
+      <guid isPermaLink="false">ac74bab3f63da2c10aa29191f5c43cb72fc6c268</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:42 GMT</pubDate>
+      <description><![CDATA[President Donald Trump vowed Iran will never have a nuclear weapon as United Nations leaders accused Israel of war crimes and forced displacement.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Mystery surrounds German soldiers found near mud-covered WWII motorcycle in Danube</title>
+      <link>https://www.foxnews.com/travel/mystery-surrounds-german-soldiers-found-mud-covered-wwii-motorcycle-danube</link>
+      <guid isPermaLink="false">e79e142d1db73072fde243eaea2de7f02b64f810</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:20 GMT</pubDate>
+      <description><![CDATA[A Wehrmacht motorcycle and the remains of two German soldiers have emerged from the Danube River in Budapest more than 80 years after World War II ended.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Is Nepal's flood a harbinger of what's to come in the Himalayas?</title>
+      <link>https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower</link>
+      <guid isPermaLink="false">86779ae9d443e67d0147e3fbe7ea692a37b44742</guid>
+      <pubDate>Wed, 23 Sep 2026 11:48:00 GMT</pubDate>
+      <description><![CDATA[Building dams and hydropower plants in the Himalayas holds great promise for providing electricity. In the wake of the Nepal disaster, experts are asking about the risks of such construction.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Police examine video of anti-migrant activist slashing dinghy with knife</title>
+      <link>https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">401837c81cc34a07801e0a8eedddeab3b9834c93</guid>
+      <pubDate>Wed, 23 Sep 2026 11:47:17 GMT</pubDate>
+      <description><![CDATA[Daniel Thomas, known to his supporters as Danny Tommo, livestreamed a video of the alleged incident.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC</title>
+      <link>https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">afdbac57395c0f9dafe11f960f64eb54062d97b0</guid>
+      <pubDate>Wed, 23 Sep 2026 11:42:52 GMT</pubDate>
+      <description><![CDATA[There are fears of a return to war in the northern region as tensions between the government and TPLF escalate.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -415,12 +455,12 @@
       <category>weather</category>
     </item>
     <item>
-      <title>College basketball TV analyst and former Duke assistant Chris Spatola, Coach K's son-in-law, dies at 47</title>
-      <link>https://www.foxnews.com/outkick-sports/college-basketball-tv-analyst-former-duke-assistant-chris-spatola-coach-k-son-in-law-dies-47</link>
-      <guid isPermaLink="false">9c5d3d25c938e9296ef5a606010ee795da42650e</guid>
-      <pubDate>Wed, 23 Sep 2026 02:56:48 GMT</pubDate>
-      <description><![CDATA[Chris Spatola - starting guard for the Army Black Knights and later coached under Mike Krzyzewski at Duke before joining ESPN's broadcast team has passed.]]></description>
-      <category>world</category>
+      <title>Powerful nor'easter threatens millions along East Coast with intense coastal flooding, life-threatening surf</title>
+      <link>https://www.foxweather.com/weather-news/powerful-noreaster-east-coast-millions-multiday-threat</link>
+      <guid isPermaLink="false">c82684b0e3ba7691f7806a623f56d68dc2835133</guid>
+      <pubDate>Wed, 23 Sep 2026 02:55:25 GMT</pubDate>
+      <description><![CDATA[The East Coast is already seeing impacts from the first nor'easter of the fall, bringing coastal flooding, strong winds and pounding surf to millions from New England to the Carolinas over several days.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Powerful nor’easter threatens millions along East Coast with days of wind, flooding and pounding surf</title>
@@ -429,46 +469,6 @@
       <pubDate>Wed, 23 Sep 2026 02:55:25 GMT</pubDate>
       <description><![CDATA[The East Coast is already seeing impacts from the first nor'easter of the fall, bringing coastal flooding, strong winds and pounding surf to millions from New England to the Carolinas over several days.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>'Extremely dangerous' Hurricane Polo intensifies to rare category 5 storm</title>
-      <link>https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">966d88a00af426c46e7e41989a672c819e96eeaa</guid>
-      <pubDate>Wed, 23 Sep 2026 02:54:56 GMT</pubDate>
-      <description><![CDATA[The storm's sudden intensification off the coast of Mexico is "truly remarkable", the US hurricane monitoring agency said.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Caitlin Clark, Indiana Fever drop statement win on top-seeded Lynx in final home game</title>
-      <link>https://www.foxnews.com/outkick-sports/caitlin-clark-indiana-fever-drop-statement-win-top-seeded-lynx-final-home-game</link>
-      <guid isPermaLink="false">210519cfdd3979aadba4b6ad55bdf8b9d12a6a86</guid>
-      <pubDate>Wed, 23 Sep 2026 02:24:09 GMT</pubDate>
-      <description><![CDATA[Caitlin Clark flirted with a triple-double as the Indiana Fever handed the league-best Minnesota Lynx their largest deficit of the season so far.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ella Langley says 'Choosin' Texas' success is 'changing my life' after her song breaks Mariah Carey's record</title>
-      <link>https://www.foxnews.com/entertainment/ella-langley-says-choosin-texas-success-changing-my-life-after-her-song-breaks-mariah-careys-record</link>
-      <guid isPermaLink="false">39f0446de9680a60952ceb9c4787441cf9bf0f6d</guid>
-      <pubDate>Wed, 23 Sep 2026 01:55:30 GMT</pubDate>
-      <description><![CDATA[Ella Langley celebrated a career-defining milestone after “Choosin’ Texas" spent its 23rd week at No. 1 on the Billboard Hot 100.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Harris keeps 2028 door open as she hits midterm campaign trail, warns ‘28 won’t matter’ without 2026</title>
-      <link>https://www.foxnews.com/politics/harris-keeps-2028-door-open-hits-midterm-campaign-trail-warns-28-wont-matter-without-2026</link>
-      <guid isPermaLink="false">54acd3fe8ab9c74230c5ff43bc7510c7deca7198</guid>
-      <pubDate>Wed, 23 Sep 2026 01:53:09 GMT</pubDate>
-      <description><![CDATA[Kamala Harris told Detroit voters she has not decided on a 2028 presidential run, stressing that the 2026 midterm elections must come first.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Lukashenko reveals bizarre argument he and Putin have over who is the ‘bigger dictator’</title>
-      <link>https://www.foxnews.com/world/lukashenko-reveals-bizarre-argument-putin-bigger-dictator</link>
-      <guid isPermaLink="false">f3c5d34f85df8c2a6c93113d1c6d6ef4f3c19354</guid>
-      <pubDate>Wed, 23 Sep 2026 01:50:20 GMT</pubDate>
-      <description><![CDATA[Belarusian President Alexander Lukashenko told a youth forum that he and Vladimir Putin regularly argue over who is the bigger dictator.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Full moon could worsen nor’easter flooding along East Coast — here are 5 places to watch</title>
