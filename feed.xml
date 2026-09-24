@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 01:20:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:58:51 GMT</lastBuildDate>
+    <item>
+      <title>Small boat migrant arrivals reach 781 in one day, breaking 2026 record</title>
+      <link>https://www.bbc.co.uk/news/articles/cwz0z597m471o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4fd5c025dc3d564e20ddd52a094fdbfd1711059c</guid>
+      <pubDate>Thu, 24 Sep 2026 14:58:51 GMT</pubDate>
+      <description><![CDATA[A total of 781 migrants arrive on Wednesday, but the yearly total is below the same point in 2025.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Europe’s scorching summer could give champagne a stronger kick</title>
       <link>https://www.foxweather.com/weather-news/heat-taking-toll-making-champagne-stronger-france</link>
@@ -31,42 +39,26 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Outer Banks first in line for developing nor’easter as dangerous impacts begin Wednesday</title>
-      <link>https://www.foxweather.com/weather-news/north-carolina-outer-banks-dangerous-noreaster-impacts</link>
-      <guid isPermaLink="false">832a9845d39e48c5f6e0651f19f60459db7fbf06</guid>
-      <pubDate>Tue, 22 Sep 2026 23:43:36 GMT</pubDate>
-      <description><![CDATA[The Outer Banks are bracing for the first nor’easter of the season, with strong winds, heavy rain, dangerous surf, coastal flooding and beach erosion expected along the coast.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Overnight - Mostly Clear</title>
+      <title>Anchorage Weather: Today - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 24 Sep 2026 10:59:24 GMT</pubDate>
-      <description><![CDATA[35°F. Wind  0 mph. Mostly clear, with a low around 35. East wind around 0 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Thursday - Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 24 Sep 2026 10:59:24 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 15:46:21 GMT</pubDate>
       <description><![CDATA[54°F. Wind NE 0 to 5 mph. Sunny, with a high near 54. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Thursday Night - Mostly Cloudy</title>
+      <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 24 Sep 2026 10:59:24 GMT</pubDate>
-      <description><![CDATA[43°F. Wind NE 5 mph. Mostly cloudy, with a low around 43. Northeast wind around 5 mph.]]></description>
+      <pubDate>Thu, 24 Sep 2026 15:46:21 GMT</pubDate>
+      <description><![CDATA[43°F. Wind NE 5 mph. Partly cloudy, with a low around 43. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 24 Sep 2026 10:59:24 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 15:46:21 GMT</pubDate>
       <description><![CDATA[55°F. Wind NE 5 mph. A chance of rain after 10am. Mostly cloudy, with a high near 55. Northeast wind around 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -74,9 +66,89 @@
       <title>Anchorage Weather: Friday Night - Chance Light Rain then Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 24 Sep 2026 10:59:24 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 15:46:21 GMT</pubDate>
       <description><![CDATA[43°F. Wind E 5 to 10 mph. A chance of rain before 10pm, then a chance of rain showers. Mostly cloudy, with a low around 43. East wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Saturday - Rain Showers Likely then Chance Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Thu, 24 Sep 2026 15:46:21 GMT</pubDate>
+      <description><![CDATA[53°F. Wind E 5 to 15 mph. Rain showers likely before 4pm, then a chance of rain. Mostly cloudy, with a high near 53. East wind 5 to 15 mph. Chance of precipitation is 60%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Juneau Assembly explores borough-wide funding for flood protection</title>
+      <link>https://www.juneauempire.com/2026/09/24/juneau-assembly-explores-borough-wide-funding-for-flood-protection/</link>
+      <guid isPermaLink="false">4c88beea6c80dce8adfef7a9609340c6a3b9cef1</guid>
+      <pubDate>Thu, 24 Sep 2026 14:30:00 GMT</pubDate>
+      <description><![CDATA[City manager Katie Koester provided an update on long-term funding considerations]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>This Day in Alaska History-September 24th, 1918</title>
+      <link>https://alaska-native-news.com/september-24th-1918/44790/</link>
+      <guid isPermaLink="false">323065d82acf1de530b8fd094f6ad75d2e391826</guid>
+      <pubDate>Thu, 24 Sep 2026 14:00:11 GMT</pubDate>
+      <description><![CDATA[President Woodrow Wilson established the Katmai National Monument by proclamation on September 24th, 1918 He did so in order to protect the “Valley of Ten Thousand Smokes” as well as the surrounding area for its scenic value and as scientific value for future generations. That initial proclamation set aside over one million acres. The terrain […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>A focus on maintenance and administrative fixes would improve tribal water service, report says</title>
+      <link>https://alaskabeacon.com/2026/09/24/a-focus-on-maintenance-and-administrative-fixes-would-improve-tribal-water-service-report-says/</link>
+      <guid isPermaLink="false">910ed9f8d24f33740ed3e2229937fd04d87a425f</guid>
+      <pubDate>Thu, 24 Sep 2026 13:45:09 GMT</pubDate>
+      <description><![CDATA[The federal government’s programs for tribal water services are hampered by a lack of follow-up to support operation and maintenance, along with overly specific qualification rules and other administrative hurdles, a new federal report says. The report, issued Wednesday by the Government Accountability Office, makes a dozen recommendations for legislative and administrative actions that it […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer food pantry’s anniversary auction raises more than $22K</title>
+      <link>https://www.homernews.com/2026/09/24/homer-food-pantrys-anniversary-auction-raises-more-than-22k/</link>
+      <guid isPermaLink="false">768d8538cb02bd4f86d7e4f43c55b250afb710cc</guid>
+      <pubDate>Thu, 24 Sep 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Aug. 26 event at Porcupine Theater celebrated 35 years of community service]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Hot pockets bring creativity to after-school snacks</title>
+      <link>https://www.homernews.com/2026/09/24/hot-pockets-bring-creativity-to-after-school-snacks/</link>
+      <guid isPermaLink="false">a34ca1394ecac9b89b3b90b97b5764adc7deb456</guid>
+      <pubDate>Thu, 24 Sep 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Pepperoni and ham and egg are classic fillings but your imagination can dream up others all your own]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Life in the Wilderness: The Henry Lucas Story — Part 7</title>
+      <link>https://www.homernews.com/2026/09/24/life-in-the-wilderness-the-henry-lucas-story-part-7/</link>
+      <guid isPermaLink="false">c667b8e814b33aa41f5f81c49adba8ad4dcb7529</guid>
+      <pubDate>Thu, 24 Sep 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[AUTHOR’S NOTE: Even when he wasn’t guiding for weeks at a time in the Kenai Mountains south of his Skilak Lake home, Henry Lucas, despite decades of experience in the wilderness, courted danger simply by doing what he loved to do.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer Spit evacuation concerns remain a decade after tsunami study</title>
+      <link>https://www.homernews.com/2026/09/24/homer-spit-evacuation-concerns-remain-a-decade-after-tsunami-study/</link>
+      <guid isPermaLink="false">1301a476489e0dbf085a5e9725b012335c471b70</guid>
+      <pubDate>Thu, 24 Sep 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Vertical refuge merits another look as local waves may arrive in minutes]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer Pet of the Week: Buzby</title>
+      <link>https://www.homernews.com/2026/09/24/homer-pet-of-the-week-buzby/</link>
+      <guid isPermaLink="false">c550c2eb8a57177ee2206b6166f3dd7d4e7dc82c</guid>
+      <pubDate>Thu, 24 Sep 2026 11:30:00 GMT</pubDate>
+      <description><![CDATA[Buzby is affectionate and curious, and loves attention from his human friends]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Augustine geothermal project advances toward exploratory drilling</title>
+      <link>https://www.homernews.com/2026/09/24/augustine-geothermal-project-advances-toward-exploratory-drilling/</link>
+      <guid isPermaLink="false">ca3a45670ecd32afe6e958df2ae551fa9252cedd</guid>
+      <pubDate>Thu, 24 Sep 2026 11:30:00 GMT</pubDate>
+      <description><![CDATA[Federal selection would support testing beneath volcano’s south flank]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Letters to the editor</title>
@@ -255,195 +327,155 @@
       <category>local</category>
     </item>
     <item>
-      <title>Gov. Dunleavy lifts freeze on state government hiring, new regulations and worker travel</title>
-      <link>https://alaskabeacon.com/2026/09/22/gov-dunleavy-lifts-freeze-on-state-government-hiring-new-regulations-and-worker-travel/</link>
-      <guid isPermaLink="false">e821fc18fa50e326ac00a124892dfd6499ad7dcd</guid>
-      <pubDate>Wed, 23 Sep 2026 02:00:10 GMT</pubDate>
-      <description><![CDATA[Gov. Mike Dunleavy on Monday lifted a statewide executive branch hiring freeze, removing restrictions on managers who had been required since May 2025 to obtain special permission before hiring new state employees. The governor’s decision was revealed without fanfare in a new administrative order that took effect Monday. This week’s order also repealed a freeze […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Newscast – Tuesday, Sept. 22, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17470636/newscast-tuesday-sept-22-2026</link>
-      <guid isPermaLink="false">2fc7879475372ff501a24532670a69337076c453</guid>
-      <pubDate>Wed, 23 Sep 2026 01:00:51 GMT</pubDate>
-      <description><![CDATA[In this newscast: Southeast Alaska's largest tribal government might see a change in leadership this week; Prop A asks Juneau voters to renew a 3% temporary tax for bread-and-butter city services; Juneau might vote on a glacial outburst flood tax next year; Ketchikan's borough assembly has officially and publicly condemned a planning commissioner who made discriminatory comments against a local tribe; It's Fat Bear Week. Starting today, you can vote for your favorite brown bears of Katmai National Park and Preserve]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Opinion: Wilson, please reconsider your strategy</title>
-      <link>https://mustreadalaska.com/opinion-wilson-please-reconsider-your-strategy/</link>
-      <guid isPermaLink="false">e4f574b826d665ddd686475f9ce175eaf50cb058</guid>
-      <pubDate>Tue, 22 Sep 2026 23:59:42 GMT</pubDate>
-      <description><![CDATA[Yogi Berra once said during a drill at his baseball team’s spring training camp, “pair ‘em up in threes!” This could be the mantra needed to win in Alaska’s current Ranked Choice Voting (RCV) quagmire. On September 18, the day that the first round of ballots went out for military and overseas voters, Republican […] The post Opinion: Wilson, please reconsider your strategy appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Armed staff program not under consideration for Juneau schools</title>
-      <link>https://www.juneauempire.com/2026/09/22/armed-staff-program-not-under-consideration-for-juneau-schools/</link>
-      <guid isPermaLink="false">d14cf98cb5af3b3265d13091d0850d973a59e2ff</guid>
-      <pubDate>Tue, 22 Sep 2026 23:30:00 GMT</pubDate>
-      <description><![CDATA[District cites police presence, liability, and training after Mat-Su move]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Needy couples got cash and a spending plan. Results were good -- and bad</title>
-      <link>https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence</link>
-      <guid isPermaLink="false">835ebce4fd1b7a4adf791ac88d808d616af9ec20</guid>
-      <pubDate>Thu, 24 Sep 2026 10:43:25 GMT</pubDate>
-      <description><![CDATA[In Liberia, joint financial planning boosted cash aid's benefits. It also had an unexpected consequence for some families.]]></description>
+      <title>Rogue OpenAI agent 'infiltrated' Australian government website in world first</title>
+      <link>https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a23f76d1ffbb88c3e28441d6354dc7a41ca30516</guid>
+      <pubDate>Thu, 24 Sep 2026 15:42:07 GMT</pubDate>
+      <description><![CDATA[Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>RAF pilots who ejected moments before crash expected to make full recovery</title>
-      <link>https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6e052f64a16fb26e8feb1824b2f236787111a318</guid>
-      <pubDate>Thu, 24 Sep 2026 10:36:04 GMT</pubDate>
-      <description><![CDATA[The Hawk T2 aircraft had been flying out of the RAF Valley station when it plummeted to the ground.]]></description>
+      <title>Ethiopia's army says it has repelled attacks in first comment on fresh fighting</title>
+      <link>https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c7f63c921a715b44ff88e50dd15dd77818e35e87</guid>
+      <pubDate>Thu, 24 Sep 2026 15:37:45 GMT</pubDate>
+      <description><![CDATA[The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Judge temporarily overturns Trump's White House media ban</title>
-      <link>https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ed03354ef0074248b16c422f5c358eebac99628d</guid>
-      <pubDate>Thu, 24 Sep 2026 10:29:35 GMT</pubDate>
-      <description><![CDATA[A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW.]]></description>
+      <title>White House 'repeatedly violated' court order to restore press access, say media outlets</title>
+      <link>https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3f96308a9884a04d9d91d19f3ec35df07d817874</guid>
+      <pubDate>Thu, 24 Sep 2026 15:31:54 GMT</pubDate>
+      <description><![CDATA[Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Tories would stop long-term jobless using benefits to buy alcohol and cigarettes</title>
-      <link>https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">cb92b63f363ed9df1946f05f3d7adba093aa049b</guid>
-      <pubDate>Thu, 24 Sep 2026 10:25:58 GMT</pubDate>
-      <description><![CDATA[The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.]]></description>
+      <title>Susan Collins defies blue-state headwinds in crucial Senate battle as new poll reveals striking split</title>
+      <link>https://www.foxnews.com/politics/susan-collins-defies-blue-state-headwinds-crucial-senate-battle-new-poll-reveals-striking-split</link>
+      <guid isPermaLink="false">a9bd4494b523adb04c71f5e2738eb98c5aea89dd</guid>
+      <pubDate>Thu, 24 Sep 2026 15:31:52 GMT</pubDate>
+      <description><![CDATA[Republican Sen. Susan Collins leads Democrat Troy Jackson 49%-46% in a new Maine Senate poll, but her edge falls within the margin of error.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>American businesses aren’t allowed to build. It’s time Congress helped them</title>
+      <link>https://www.foxnews.com/opinion/american-businesses-arent-allowed-build-time-congress-helped-them</link>
+      <guid isPermaLink="false">3a6cdccbf5fa69c8918e0b8ce9cea6202fddd138</guid>
+      <pubDate>Thu, 24 Sep 2026 15:20:55 GMT</pubDate>
+      <description><![CDATA[Permitting delays average over two years and cost millions, crushing small manufacturers and defense startups before they can begin production.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Senators press President Trump to release home heating oil reserves amid soaring prices</title>
-      <link>https://www.foxnews.com/politics/senators-press-president-trump-release-home-heating-oil-reserves-amid-soaring-prices</link>
-      <guid isPermaLink="false">d76c5f71f37080c17866fe1c284f9967cf218bfe</guid>
-      <pubDate>Thu, 24 Sep 2026 10:17:02 GMT</pubDate>
-      <description><![CDATA[Maine's U.S. Sens. Susan Collins and Angus King, Jr., called upon President Donald Trump to release home heating oil reserves to drive prices down.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump's Board of Peace unveils $2.45bn Gaza recovery plan</title>
-      <link>https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1c5e2ce6d622aace7164a87ca273dbae0138bc6b</guid>
-      <pubDate>Thu, 24 Sep 2026 10:11:15 GMT</pubDate>
-      <description><![CDATA[The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>America's beef supply shrinks as cattle farmer warns 'the numbers are just not here anymore'</title>
-      <link>https://www.foxnews.com/food-drink/americas-beef-supply-shrinks-cattle-farmer-warns-the-numbers-just-not-here-anymore</link>
-      <guid isPermaLink="false">f43adc7d23ecc4224479218dd21b3d4d8f576b96</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:58 GMT</pubDate>
-      <description><![CDATA[U.S. beef production fell roughly 800 million pounds in early 2026 as cattle slaughter numbers declined, pushing farmers like Will Harris toward change.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Major pro-life group threatens to sue Trump FDA over abortion pill's alleged environmental risks</title>
-      <link>https://www.foxnews.com/politics/major-pro-life-group-threatens-sue-trump-fda-abortion-pill-alleged-environmental-risks</link>
-      <guid isPermaLink="false">f441d731b2caca6c78785b50d77d64343234c2e5</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:54 GMT</pubDate>
-      <description><![CDATA[Students for Life of America threatens to sue the Food and Drug Administration, alleging it skipped Endangered Species Act reviews for mifepristone.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Our son’s miracle is a testament to prayer and Fulton Sheen’s intercession</title>
-      <link>https://www.foxnews.com/opinion/son-miracle-testament-prayer-fulton-sheen-intercession</link>
-      <guid isPermaLink="false">d6b71438c97d7665861f1536b568b6a6b8a7f74a</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:49 GMT</pubDate>
-      <description><![CDATA[When Sheen is beatified on September 24, James, accompanied by my husband, me and our other seven children, will carry and present the first-class relic at the ceremony]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dem Senate hopeful dished out thousands to radical staffer who glorified Hamas: 'Freedom fighters'</title>
-      <link>https://www.foxnews.com/politics/dem-senate-hopeful-dished-out-thousands-radical-staffer-glorified-hamas-freedom-fighters</link>
-      <guid isPermaLink="false">7f7b45a2c1aff9c4a0b7e7564775c36ace75793e</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:45 GMT</pubDate>
-      <description><![CDATA[Sara Mahmoud's posts wishing Zionists would "die" surfaced after she was hired to manage social media for DSA-backed Senate candidate Angie Nixon.]]></description>
+      <title>Riley Green thought he'd 'frame houses for the rest of my life' before becoming a country music star</title>
+      <link>https://www.foxnews.com/outkick-culture/riley-green-thought-hed-frame-houses-rest-life-becoming-country-music-star</link>
+      <guid isPermaLink="false">a16956a1de7109b6efd5b3854ad6320fc444e04c</guid>
+      <pubDate>Thu, 24 Sep 2026 15:02:09 GMT</pubDate>
+      <description><![CDATA[Riley Green revealed in a Billboard interview that he left Jacksonville State University for construction work, not to chase country music stardom.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Rand Paul: Politicians should stay out of college sports and let athletes compete freely</title>
-      <link>https://www.foxnews.com/outkick-sports/rand-paul-politicians-stay-out-college-sports-let-athletes-compete-freely</link>
-      <guid isPermaLink="false">fc08749d758995c8d56ab0dc00713afd9158436d</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:45 GMT</pubDate>
-      <description><![CDATA[Sen. Rand Paul argues that politicians, not the NCAA, should decide college sports rules, athlete compensation, transfers and conference membership.]]></description>
+      <title>Female athletes, women's sports advocates speak on Capitol Hill as trans athlete issue hovers over midterms</title>
+      <link>https://www.foxnews.com/outkick-sports/female-athletes-womens-sports-advocates-speak-capitol-hill-trans-athlete-issue-hovers-midterms</link>
+      <guid isPermaLink="false">0f9c17995d0ca88920b3061c7abb9fa85acaac1b</guid>
+      <pubDate>Thu, 24 Sep 2026 15:01:37 GMT</pubDate>
+      <description><![CDATA[Female athletes descended on Capitol Hill Wednesday to testify how biological males in women's sports threatened their safety and locker room privacy.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Trump-Xi reunion comes with unfinished business — and a bigger battle looming</title>
-      <link>https://www.foxnews.com/politics/trump-xi-reunion-unfinished-business-bigger-battle-looming</link>
-      <guid isPermaLink="false">2052356165bef1a5e1e49dc6124e100d2549e3bc</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:42 GMT</pubDate>
-      <description><![CDATA[President Donald Trump hosts Xi Jinping to test whether China delivered on rare earths, AI and trade promises from their May breakthrough deal.]]></description>
+      <title>David Charvet admits he walked away from Hollywood after 'Baywatch' to focus on fatherhood</title>
+      <link>https://www.foxnews.com/entertainment/david-charvet-admits-walked-away-hollywood-baywatch-focus-fatherhood</link>
+      <guid isPermaLink="false">a603c7071c63a39618f694230e24cd0ab941e196</guid>
+      <pubDate>Thu, 24 Sep 2026 15:00:59 GMT</pubDate>
+      <description><![CDATA[David Charvet reveals why he left Hollywood over a decade ago and how "Special Forces: World's Toughest Test" let him prove something to his kids.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Daughter of Chinese Uyghur prisoner makes emotional plea to Trump during spotlight Xi summit</title>
-      <link>https://www.foxnews.com/politics/daughter-chinese-uyghur-prisoner-emotional-plea-trump-spotlight-xi-summit</link>
-      <guid isPermaLink="false">7c69d4f4cca2f0e22ed1112f1c6d63840e17cfce</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:30 GMT</pubDate>
-      <description><![CDATA[Ziba Murat hopes Trump will raise her mother Dr. Gulshar Abbas' case with Xi Jinping during the summit after eight years of imprisonment in China.]]></description>
+      <title>The economic squeeze is pushing up poverty rates for older adults</title>
+      <link>https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability</link>
+      <guid isPermaLink="false">852015c5554c6ae8b9535ab1412d9276264defaa</guid>
+      <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
+      <description><![CDATA[Despite lower poverty overall, the rate for seniors has been steadily rising in recent years. A new AARP survey sheds light on how those over 50 are struggling in the crucial time before retirement.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Melania Trump’s home-country leader rips UN ‘double standards’ as Trump promise is revealed</title>
-      <link>https://www.foxnews.com/world/melania-trumps-home-country-leader-rips-un-double-standards-trump-promise-revealed</link>
-      <guid isPermaLink="false">4ab33dd377ff05fe973895fc3706fcf9e83f098f</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:21 GMT</pubDate>
-      <description><![CDATA[Janez Janša accused the United Nations of double standards on Gaza and Ukraine, and revealed Trump promised to visit Melania Trump's homeland.]]></description>
+      <title>Penguins forward Andrei Kuzmenko's father killed in bear attack on remote Russia fishing trip</title>
+      <link>https://www.foxnews.com/outkick-sports/penguins-forward-andrei-kuzmenko-father-killed-bear-attack-remote-russia-fishing-trip</link>
+      <guid isPermaLink="false">514421d8a5009644e4853ff72f56ea4599117758</guid>
+      <pubDate>Thu, 24 Sep 2026 14:50:57 GMT</pubDate>
+      <description><![CDATA[Andrei Kuzmenko's father, a longtime hockey coach, was fatally attacked by a bear while fishing in a restricted area of Russia's Republic of Tuva.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Bishop Barron warns communism ‘making a comeback’ in America ahead of Fulton Sheen beatification</title>
-      <link>https://www.foxnews.com/politics/bishop-barron-warns-communism-making-comeback-america-ahead-fulton-sheen-beatification</link>
-      <guid isPermaLink="false">b0607d57840681be6fcc520e3c436c48a7c2a6ed</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:10 GMT</pubDate>
-      <description><![CDATA[Bishop Robert Barron warns communism is making a comeback in America ahead of Archbishop Fulton Sheen's beatification ceremony in St. Louis.]]></description>
+      <title>Biden-appointed judge hands Letitia James setback in latest Trump legal clash</title>
+      <link>https://www.foxnews.com/politics/biden-appointed-judge-hands-letitia-james-setback-latest-trump-legal-clash</link>
+      <guid isPermaLink="false">5e9efe7ca55a7a86ff84b568a68af78fbc7e7347</guid>
+      <pubDate>Thu, 24 Sep 2026 14:41:18 GMT</pubDate>
+      <description><![CDATA[New York Attorney General Letitia James and 18 states lost their legal challenge after a federal judge dismissed the DOGE Treasury lawsuit as moot.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found</title>
-      <link>https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2e11772e1fa1fdd82334cb640f2e728697746338</guid>
-      <pubDate>Thu, 24 Sep 2026 09:56:54 GMT</pubDate>
-      <description><![CDATA[The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.]]></description>
+      <title>Florida deputies taser sword-wielding burglary suspect, video shows</title>
+      <link>https://www.foxnews.com/us/florida-deputies-taser-sword-wielding-burglary-suspect-video-shows</link>
+      <guid isPermaLink="false">fb33b289da16a780311cecbdbdaf799987812380</guid>
+      <pubDate>Thu, 24 Sep 2026 14:40:36 GMT</pubDate>
+      <description><![CDATA[Bodycam video captured the tense moment deputies in Florida tasered sword-wielding suspect Josiah Smith after he allegedly refused commands.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Under Trump, NIH funding disruptions have evolved. Here's what the numbers show</title>
-      <link>https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts</link>
-      <guid isPermaLink="false">b7be0abd6af0615917077add4709b95361f34c93</guid>
-      <pubDate>Thu, 24 Sep 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump's administration. These six graphics show how those changes have affected U.S. biomedical research.]]></description>
+      <title>105-year-old investigated for crimes at Nazi PoW camp in Germany</title>
+      <link>https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">de7f4df274bca00dae6809c95225bb1c31202482</guid>
+      <pubDate>Thu, 24 Sep 2026 14:37:34 GMT</pubDate>
+      <description><![CDATA[The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>The Education Dept. hasn't been dismantled. It's become more inefficient, staff say</title>
-      <link>https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going</link>
-      <guid isPermaLink="false">4613c6df04b8770902aa90cc1bd27be7db98bf7b</guid>
-      <pubDate>Thu, 24 Sep 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Education staff are being scattered across several other federal agencies. Despite the Trump administration's claims, employees say it's adding bureaucracy and making it harder to serve students.]]></description>
+      <title>German prosecutors investigate 105-year-old for crimes at Nazi PoW camp</title>
+      <link>https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">de7f4df274bca00dae6809c95225bb1c31202482</guid>
+      <pubDate>Thu, 24 Sep 2026 14:37:34 GMT</pubDate>
+      <description><![CDATA[The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>eBay bans airbag sales as concerns about faulty or counterfeit parts rise</title>
-      <link>https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts</link>
-      <guid isPermaLink="false">fae98b657810eaf70a0ef2104679ec7b8acfcb02</guid>
-      <pubDate>Thu, 24 Sep 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[eBay became the latest online retailer to ban the sale of airbags and many of their components. Aftermarket parts can be risky if they turn out to be fake or defective.]]></description>
+      <title>UAP whistleblower makes stunning claim about secrets behind government’s recovered craft</title>
+      <link>https://www.foxnews.com/media/uap-whistleblower-stunning-claim-secrets-government-recovered-craft</link>
+      <guid isPermaLink="false">4e514daf3977d11269af0464b39ce4913a724db4</guid>
+      <pubDate>Thu, 24 Sep 2026 14:28:23 GMT</pubDate>
+      <description><![CDATA[Dylan Borland alleges the U.S. government possesses recovered craft, making the striking claim on Sean Hannity's podcast alongside Ben Hansen.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>States threaten action against company earning millions off disabled vets</title>
-      <link>https://www.npr.org/2026/09/24/nx-s1-5978816/va-mortgages-trajector-bankruptcy-investigations</link>
-      <guid isPermaLink="false">dd9e705d7830e75fcfcf5d91c6237996a17929ac</guid>
-      <pubDate>Thu, 24 Sep 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[The investigations by attorneys general follow a recent bankruptcy filing in the face of civil lawsuits, falling revenues, and impending debt payments.]]></description>
+      <title>Indiana Fever vs Minnesota Lynx season finale carries playoff seeding stakes for Caitlin Clark's team</title>
+      <link>https://www.foxnews.com/outkick-betting/indiana-fever-vs-minnesota-lynx-season-finale-carries-playoff-seeding-stakes-caitlin-clarks-team</link>
+      <guid isPermaLink="false">4f29d2a3ea32e63f690ccdb433c9a8a9a5c73060</guid>
+      <pubDate>Thu, 24 Sep 2026 14:24:03 GMT</pubDate>
+      <description><![CDATA[Kelsey Mitchell set the WNBA single-season scoring record with 1,076 points as the Indiana Fever face the Minnesota Lynx in the regular season finale.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?</title>
+      <link>https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4ea6410dce1e1b39ed478a9ab2981d52be988000</guid>
+      <pubDate>Thu, 24 Sep 2026 14:08:38 GMT</pubDate>
+      <description><![CDATA[News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump rolls out the red carpet for Xi as high-stakes summit begins</title>
+      <link>https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins</link>
+      <guid isPermaLink="false">4c2c4f998cdf0103f3a8387eda8cc811aea99705</guid>
+      <pubDate>Thu, 24 Sep 2026 12:43:15 GMT</pubDate>
+      <description><![CDATA[On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says</title>
+      <link>https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6e052f64a16fb26e8feb1824b2f236787111a318</guid>
+      <pubDate>Thu, 24 Sep 2026 12:29:39 GMT</pubDate>
+      <description><![CDATA[Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -452,6 +484,14 @@
       <guid isPermaLink="false">ffad08cc9a1a414cd14b051bbe3129d0570ed2ec</guid>
       <pubDate>Wed, 23 Sep 2026 23:47:46 GMT</pubDate>
       <description><![CDATA[A brewing nor’easter is expected to bring rain, strong winds, coastal flooding and rough surf to the East Coast this weekend. Prediction markets point to Boston, New York City, Philadelphia and other Northeast cities as the most likely locations to see measurable rainfall.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Tropical Storm Nolo expected to become major hurricane as it churns in the Pacific, targeting Hawaii</title>
+      <link>https://www.foxweather.com/weather-news/nolo-threatens-rare-direct-landfall-hawaii-major-hurricane</link>
+      <guid isPermaLink="false">50c3e457aef9f6dcb6c20b86c646ce5c8c31f6a0</guid>
+      <pubDate>Wed, 23 Sep 2026 21:03:20 GMT</pubDate>
+      <description><![CDATA[As an active week of severe weather unfolds across the U.S., Tropical Storm Nolo could strengthen into a major hurricane and make a rare direct landfall in the Hawaiian Islands.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -484,46 +524,6 @@
       <guid isPermaLink="false">da9a49263d3d4b844ebe19c72af2b0cec4c08f82</guid>
       <pubDate>Wed, 23 Sep 2026 11:20:18 GMT</pubDate>
       <description><![CDATA[Tropical Depression Fifteen-E redeveloped near the Hawaiian Islands and is now forecast to approach the Big Island, potentially as a major hurricane, bringing torrential rain and life-threatening flooding this weekend.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Hurricane Polo explodes into one of Pacific’s strongest hurricanes ever</title>
-      <link>https://www.foxweather.com/weather-news/hurricane-polo-explodes-one-pacifics-strongest-hurricanes-ever</link>
-      <guid isPermaLink="false">737ec47a58a156185fa3c323b035483a89f935fe</guid>
-      <pubDate>Wed, 23 Sep 2026 03:19:50 GMT</pubDate>
-      <description><![CDATA[Hurricane Polo rapidly intensified into a Category 5 storm with winds reaching 180 mph, ranking among the strongest hurricanes ever recorded in the Pacific.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Coastal flooding, dangerous surf begins to batter Mid-Atlantic as powerful nor'easter brews off East Coast</title>
-      <link>https://www.foxweather.com/weather-news/powerful-noreaster-east-coast-millions-multiday-threat</link>
-      <guid isPermaLink="false">c82684b0e3ba7691f7806a623f56d68dc2835133</guid>
-      <pubDate>Wed, 23 Sep 2026 02:55:25 GMT</pubDate>
-      <description><![CDATA[The East Coast is already seeing impacts from the first nor'easter of the fall, bringing coastal flooding, strong winds and pounding surf to millions from New England to the Carolinas over several days.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Powerful nor'easter threatens millions along East Coast with intense coastal flooding, life-threatening surf</title>
-      <link>https://www.foxweather.com/weather-news/powerful-noreaster-east-coast-millions-multiday-threat</link>
-      <guid isPermaLink="false">c82684b0e3ba7691f7806a623f56d68dc2835133</guid>
-      <pubDate>Wed, 23 Sep 2026 02:55:25 GMT</pubDate>
-      <description><![CDATA[The East Coast is already seeing impacts from the first nor'easter of the fall, bringing coastal flooding, strong winds and pounding surf to millions from New England to the Carolinas over several days.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Powerful nor’easter threatens millions along East Coast with days of wind, flooding and pounding surf</title>
-      <link>https://www.foxweather.com/weather-news/powerful-noreaster-east-coast-millions-multiday-threat</link>
-      <guid isPermaLink="false">c82684b0e3ba7691f7806a623f56d68dc2835133</guid>
-      <pubDate>Wed, 23 Sep 2026 02:55:25 GMT</pubDate>
-      <description><![CDATA[The East Coast is already seeing impacts from the first nor'easter of the fall, bringing coastal flooding, strong winds and pounding surf to millions from New England to the Carolinas over several days.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Full moon could worsen nor’easter flooding along East Coast — here are 5 places to watch</title>
-      <link>https://www.foxweather.com/weather-news/full-moon-worsen-coastal-flooding-noreaster-east-coast</link>
-      <guid isPermaLink="false">b9cbccf096fdcb326d59e47923e113130dcd4389</guid>
-      <pubDate>Wed, 23 Sep 2026 01:22:06 GMT</pubDate>
-      <description><![CDATA[Saturday’s full moon will produce higher-than-normal tides just as a strengthening nor’easter brings pounding surf, powerful winds, heavy rain and coastal flooding from the Mid-Atlantic to New England.]]></description>
       <category>weather</category>
     </item>
   </channel>
