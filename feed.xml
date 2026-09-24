@@ -5,15 +5,7 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 14:58:51 GMT</lastBuildDate>
-    <item>
-      <title>Small boat migrant arrivals reach 781 in one day, breaking 2026 record</title>
-      <link>https://www.bbc.co.uk/news/articles/cwz0z597m471o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4fd5c025dc3d564e20ddd52a094fdbfd1711059c</guid>
-      <pubDate>Thu, 24 Sep 2026 14:58:51 GMT</pubDate>
-      <description><![CDATA[A total of 781 migrants arrive on Wednesday, but the yearly total is below the same point in 2025.]]></description>
-      <category>breaking</category>
-    </item>
+    <lastBuildDate>Thu, 24 Sep 2026 01:20:42 GMT</lastBuildDate>
     <item>
       <title>Europe’s scorching summer could give champagne a stronger kick</title>
       <link>https://www.foxweather.com/weather-news/heat-taking-toll-making-champagne-stronger-france</link>
@@ -23,26 +15,10 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Bryan Norcross: Another Hawaii hurricane threat developing and a new disturbance moves off the African Coast</title>
-      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-september-23-2026</link>
-      <guid isPermaLink="false">8dcfa9cb38470900634767f8e663999c57abb439</guid>
-      <pubDate>Wed, 23 Sep 2026 15:03:08 GMT</pubDate>
-      <description><![CDATA[A robust disturbance that just crossed the African coast into the Atlantic could develop into a tropical depression or tropical storm. But it's expected to make a quick turn to the north.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Flood Watches issued as Tropical Depression Fifteen-E redevelops, threatens Hawaii with rare direct landfall</title>
-      <link>https://www.foxweather.com/weather-news/flood-watches-issued-tropical-depression-fifteen-e-redevelops-threatens-hawaii-rare-direct-landfall</link>
-      <guid isPermaLink="false">da9a49263d3d4b844ebe19c72af2b0cec4c08f82</guid>
-      <pubDate>Wed, 23 Sep 2026 11:20:18 GMT</pubDate>
-      <description><![CDATA[The tropical traffic jam in the Pacific is marching on, with the remnants of Tropical Depression Fifteen-E redeveloping near the Hawaiian Islands.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Today - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 24 Sep 2026 15:46:21 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 19:45:02 GMT</pubDate>
       <description><![CDATA[54°F. Wind NE 0 to 5 mph. Sunny, with a high near 54. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +26,7 @@
       <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 24 Sep 2026 15:46:21 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 19:45:02 GMT</pubDate>
       <description><![CDATA[43°F. Wind NE 5 mph. Partly cloudy, with a low around 43. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,7 +34,7 @@
       <title>Anchorage Weather: Friday - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 24 Sep 2026 15:46:21 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 19:45:02 GMT</pubDate>
       <description><![CDATA[55°F. Wind NE 5 mph. A chance of rain after 10am. Mostly cloudy, with a high near 55. Northeast wind around 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -66,7 +42,7 @@
       <title>Anchorage Weather: Friday Night - Chance Light Rain then Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 24 Sep 2026 15:46:21 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 19:45:02 GMT</pubDate>
       <description><![CDATA[43°F. Wind E 5 to 10 mph. A chance of rain before 10pm, then a chance of rain showers. Mostly cloudy, with a low around 43. East wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -74,9 +50,33 @@
       <title>Anchorage Weather: Saturday - Rain Showers Likely then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 24 Sep 2026 15:46:21 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 19:45:02 GMT</pubDate>
       <description><![CDATA[53°F. Wind E 5 to 15 mph. Rain showers likely before 4pm, then a chance of rain. Mostly cloudy, with a high near 53. East wind 5 to 15 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Kenai Peninsula highway costs climb as state opens 2027-30 plan</title>
+      <link>https://www.homernews.com/2026/09/24/kenai-peninsula-highway-costs-climb-as-state-opens-2027-30-plan/</link>
+      <guid isPermaLink="false">87d49a8212f43c50dee595f2522f952aa9fc1bac</guid>
+      <pubDate>Thu, 24 Sep 2026 19:30:00 GMT</pubDate>
+      <description><![CDATA[Sterling corridor carries $126.5M in work scheduled beyond 2027 in state plan]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Millions of dollars of waste found in Trump administration push for immigration detention</title>
+      <link>https://alaskabeacon.com/2026/09/24/repub/millions-of-dollars-of-waste-found-in-trump-administration-push-for-immigration-detention/</link>
+      <guid isPermaLink="false">49228bb372736f7995176a19485b60590cce266b</guid>
+      <pubDate>Thu, 24 Sep 2026 19:13:07 GMT</pubDate>
+      <description><![CDATA[Government investigators Thursday released a report that found the Department of Homeland Security wasted more than $20 million in federal funding in its rapid expansion of immigration detention, including warehouse purchases strongly opposed in numerous U.S. communities.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Angry outbursts, slurs and firings: Tumult rocks Alaska Senate campaign</title>
+      <link>https://www.juneauempire.com/2026/09/24/angry-outbursts-slurs-and-firings-tumult-rocks-alaska-senate-campaign/</link>
+      <guid isPermaLink="false">9c65c1232fae7e2b565e820252a3925571855850</guid>
+      <pubDate>Thu, 24 Sep 2026 16:30:00 GMT</pubDate>
+      <description><![CDATA[National Democrats cheered when Mary Peltola, the former Alaska congresswoman, declared in January that she would run for the Senate.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Juneau Assembly explores borough-wide funding for flood protection</title>
@@ -84,6 +84,46 @@
       <guid isPermaLink="false">4c88beea6c80dce8adfef7a9609340c6a3b9cef1</guid>
       <pubDate>Thu, 24 Sep 2026 14:30:00 GMT</pubDate>
       <description><![CDATA[City manager Katie Koester provided an update on long-term funding considerations]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Washington man sentenced for distributing fentanyl resulting in two fatal overdoses</title>
+      <link>https://alaska-native-news.com/washington-man-sentenced-for-distributing-fentanyl-resulting-in-two-fatal-overdoses/86386/</link>
+      <guid isPermaLink="false">5c3117585c17696ca6ddc64dbbd0b8a79d2e183f</guid>
+      <pubDate>Thu, 24 Sep 2026 14:05:56 GMT</pubDate>
+      <description><![CDATA[JUNEAU, Alaska – A Washington man was sentenced yesterday to 25 years in prison for conspiracy to distribute and possess with the intent to distribute fentanyl and distribution of fentanyl resulting in death. According to court documents and evidence presented at trial, between January 1 and January 13, 2023, Jacob Cotton, 35, of Spokane, Washington, […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Acting Attorney General Cori Mills Announces that Payless Used Car Sales Will Pay Over Half a Million Dollars in Restitution to Its Customers for Hidden Document Fees</title>
+      <link>https://alaska-native-news.com/acting-attorney-general-cori-mills-announces-that-payless-used-car-sales-will-pay-over-half-a-million-dollars-in-restitution-to-its-customers-for-hidden-document-fees/86389/</link>
+      <guid isPermaLink="false">faa7076069002e5bdbe64583df3526578e039684</guid>
+      <pubDate>Thu, 24 Sep 2026 14:04:22 GMT</pubDate>
+      <description><![CDATA[(Anchorage, AK) – Acting Attorney General Mills announced a settlement with Payless Used Car Sales, LLC (Payless) over document fees it did not include in the prices it advertised for its cars on its website. Under Alaska law, motor vehicle dealers must include all dealer fees in the advertised price of their vehicles. Under this […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Planned Burn starting this weekend in the White Mountains National Recreation Area</title>
+      <link>https://alaska-native-news.com/planned-burn-starting-this-weekend-in-the-white-mountains-national-recreation-area/86392/</link>
+      <guid isPermaLink="false">4168bb291f621dfe9452da267d14735bcc0f60b9</guid>
+      <pubDate>Thu, 24 Sep 2026 14:03:42 GMT</pubDate>
+      <description><![CDATA[Smoke may be visible September 25 through September 29 FAIRBANKS, Alaska — The U.S. Wildland Fire Service will conduct a planned burn of woody debris piles in the BLM’s White Mountains National Recreation Area beginning this week. The burns—which address piles of unsalvageable black spruce built in response to a 2025 wildfire—help reduce the risk […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Senator Sullivan Calls for Moratorium on U.S. Diesel Exports</title>
+      <link>https://alaska-native-news.com/senator-sullivan-calls-for-moratorium-on-u-s-diesel-exports/86395/</link>
+      <guid isPermaLink="false">e2c69c86d54777f230c2adbb151ff81bac7ff65a</guid>
+      <pubDate>Thu, 24 Sep 2026 14:02:04 GMT</pubDate>
+      <description><![CDATA[With Alaskans feeling the pain at the pump, Sullivan says “American fuel should stay home with American families” ANCHORAGE, AK — Tuesday, U.S. Senator Dan Sullivan (R-Alaska) called for a temporary moratorium on U.S. exports of diesel until the conflict with Iran is resolved to prioritize Alaskan families, truckers, and fishermen over foreign fuel buyers. […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Critics Warn Trump-Backed Diesel Export Ban Could Further Drive US Economy Into the Ground</title>
+      <link>https://alaska-native-news.com/critics-warn-trump-backed-diesel-export-ban-could-further-drive-us-economy-into-the-ground/86397/</link>
+      <guid isPermaLink="false">c427ed21262f13ee5ca40901bea458ac4b69e000</guid>
+      <pubDate>Thu, 24 Sep 2026 14:01:50 GMT</pubDate>
+      <description><![CDATA[“The proposed diesel export ban is a short-sighted ‘America First’ response to a global crisis his reckless war helped create.” In an effort to blunt price hikes from his war with Iran, President Donald Trump is reportedly preparing a 90-day ban on diesel exports from the United States. The cost of diesel—which is used to […]]]></description>
       <category>local</category>
     </item>
     <item>
@@ -156,6 +196,14 @@
       <guid isPermaLink="false">b6a120d4727842a0851654840c81763bed1232c5</guid>
       <pubDate>Thu, 24 Sep 2026 10:30:00 GMT</pubDate>
       <description><![CDATA[Voters responsible for state of the country]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>In D.C., senator votes for Trump’s tariffs — in Alaska, he avoids the topic</title>
+      <link>https://www.juneauempire.com/2026/09/24/in-d-c-senator-votes-for-trumps-tariffs-in-alaska-he-avoids-the-topic/</link>
+      <guid isPermaLink="false">7bb0361b90528ed7d80bfe74ecffb48ef234c260</guid>
+      <pubDate>Thu, 24 Sep 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[In Washington, Sen. Dan Sullivan has offered reliable support for President Donald Trump’s tariffs, even as they have roiled the economy and angered consumers. But back home in Alaska, as he campaigns for reelection, he has stayed largely silent on the issue.]]></description>
       <category>local</category>
     </item>
     <item>
@@ -263,220 +311,172 @@
       <category>local</category>
     </item>
     <item>
-      <title>Alaska Air National Guard Airmen Rescue Four Hunters in Two Missions North of the Arctic Circle</title>
-      <link>https://alaska-native-news.com/alaska-air-national-guard-airmen-rescue-four-hunters-in-two-missions-north-of-the-arctic-circle/86373/</link>
-      <guid isPermaLink="false">bd7cf256910ab3427f9b082226ce36cd044bd67f</guid>
-      <pubDate>Wed, 23 Sep 2026 14:05:21 GMT</pubDate>
-      <description><![CDATA[JOINT BASE ELMENDORF-RICHARDSON, Alaska – Alaska Air National Guard Airmen of the 176th Wing rescued four hunters in two missions during a single sortie on Sept. 18 in Arctic Alaska. The Alaska Rescue Coordination Center at JBER opened the first mission in response to a request from the Alaska State Troopers to rescue two hunters stranded on […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Kelp Farms and Marine Life Co-Exist in Southeast Alaska</title>
-      <link>https://alaska-native-news.com/kelp-farms-and-marine-life-co-exist-in-southeast-alaska/86375/</link>
-      <guid isPermaLink="false">2c314fd4965b1984a0c0b66a082c580f96289420</guid>
-      <pubDate>Wed, 23 Sep 2026 14:04:02 GMT</pubDate>
-      <description><![CDATA[Scientists teamed up to investigate how kelp farms may provide novel habitat for fish and invertebrate species. Marine aquaculture, or mariculture, provides economic opportunities for coastal communities in Alaska through farming shellfish and seaweed. NOAA Fisheries continues to support Alaska’s growing aquaculture industry through policy and permitting—providing access to resources and research. A recent study […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Julian Miranda, of Fairbanks, Sentenced to 30 Years for Sexual Assaulting Two Women in 2012</title>
-      <link>https://alaska-native-news.com/julian-miranda-of-fairbanks-sentenced-to-30-years-for-sexual-assaulting-two-women-in-2012/86380/</link>
-      <guid isPermaLink="false">352d25bdeeb9aaacb354c2d1f8f91177820a912b</guid>
-      <pubDate>Wed, 23 Sep 2026 14:03:03 GMT</pubDate>
-      <description><![CDATA[(Fairbanks, AK) – On Sept. 17, 2026, Superior Court Judge Brent Bennett sentenced 36-year-old Julian Miranda for two counts of Sexual Assault in the First Degree for sexually assaulting two Fairbanks women in 2012. On March 4, 2026 a Fairbanks jury found Miranda guilty of both crimes. Fairbanks Superior Court Judge Bennett presided over the […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Vance Fraud Task Force Condemned as ‘Smokescreen’ for Booting 700,000 More People Off Healthcare</title>
-      <link>https://alaska-native-news.com/vance-fraud-task-force-condemned-as-smokescreen-for-booting-700000-more-people-off-healthcare/86371/</link>
-      <guid isPermaLink="false">a1ad9008eaf2358c9b1e7710110695a7af67b402</guid>
-      <pubDate>Wed, 23 Sep 2026 14:02:19 GMT</pubDate>
-      <description><![CDATA[“This so-called task force is nothing more than a bullshit distraction.” The Trump administration is planning to boot more than 700,000 people from their Affordable Care Act coverage as part of a purported initiative to root out fraud in the program—an effort that campaigners said is nothing more than a pretext to kick more people […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>‘Do I Drive Them Into Hell?’ Trump Again Threatens to ‘Annihilate’ Iran in Genocidal UN Speech</title>
-      <link>https://alaska-native-news.com/do-i-drive-them-into-hell-trump-again-threatens-to-annihilate-iran-in-genocidal-un-speech/86368/</link>
-      <guid isPermaLink="false">6391ff2b6bb7d5842a28fa70b54b1e183a469e43</guid>
-      <pubDate>Wed, 23 Sep 2026 14:01:50 GMT</pubDate>
-      <description><![CDATA[“Trump doesn’t know how to end the war he started with Iran,” said one critic. “He’s so desperate that he’s threatening war crimes in front of the entire United Nations.” In a rambling, lie-laden speech Tuesday to world leaders gathered at the United Nations General Assembly in New York, US President Donald Trump again threatened […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>This Day in Alaska History-September 23rd, 1928</title>
-      <link>https://alaska-native-news.com/september-23rd-1928/44774/</link>
-      <guid isPermaLink="false">b927fdd4e3198916a1717eb4bed3d765d31058bc</guid>
-      <pubDate>Wed, 23 Sep 2026 14:00:13 GMT</pubDate>
-      <description><![CDATA[Erik Lindbolm, one of the three Swedes who struck it rich and spurred the Nome Gold Rush, would pass away at his residence in the Claremont Hotel in Oakland, which he owned, on September 23rd, 1928, 30 years and one day after the discovery in Alaska that made him famous. Lindbolm had purchased the Claremont […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>OPINION: Time wasted: The most unproductive government</title>
-      <link>https://www.homernews.com/2026/09/23/opinion-time-wasted-the-most-unproductive-government/</link>
-      <guid isPermaLink="false">ccdcbee0d2fd28f19a3fd03f7323490bbb500767</guid>
-      <pubDate>Wed, 23 Sep 2026 09:30:00 GMT</pubDate>
-      <description><![CDATA[Trump keeps busy. Congress keeps leaving. Taxpayers keep paying]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Capital City Fire Rescue welcomes new airport truck</title>
-      <link>https://www.juneauempire.com/2026/09/23/capital-city-fire-rescue-welcomes-new-airport-truck/</link>
-      <guid isPermaLink="false">2dd8b852711b8aaebdf23fe828f13c4bd6cecbf4</guid>
-      <pubDate>Wed, 23 Sep 2026 09:30:00 GMT</pubDate>
-      <description><![CDATA[The vehicle is designed for rapid response, rescue, and fire suppression during airport emergencies]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Rogue OpenAI agent 'infiltrated' Australian government website in world first</title>
-      <link>https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a23f76d1ffbb88c3e28441d6354dc7a41ca30516</guid>
-      <pubDate>Thu, 24 Sep 2026 15:42:07 GMT</pubDate>
-      <description><![CDATA[Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.]]></description>
+      <title>Trump FDA pick repeatedly sidesteps Sanders' universal healthcare demands in heated clash</title>
+      <link>https://www.foxnews.com/politics/trump-fda-pick-repeatedly-sidesteps-sanders-universal-healthcare-demands-heated-clash</link>
+      <guid isPermaLink="false">fbd7616582ac16abaaca73fc9e6363ff24d4e5e6</guid>
+      <pubDate>Thu, 24 Sep 2026 19:36:54 GMT</pubDate>
+      <description><![CDATA[Bernie Sanders pressed Trump FDA nominee Dr. Heidi Overton on whether healthcare is a human right, growing frustrated as she declined a yes-or-no answer.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Ethiopia's army says it has repelled attacks in first comment on fresh fighting</title>
-      <link>https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c7f63c921a715b44ff88e50dd15dd77818e35e87</guid>
-      <pubDate>Thu, 24 Sep 2026 15:37:45 GMT</pubDate>
-      <description><![CDATA[The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.]]></description>
+      <title>Italy ministers agree to ban burqa and niqab in school and cap foreigners in class</title>
+      <link>https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">53834aa412fa15c738615246165788fde05ac9bc</guid>
+      <pubDate>Thu, 24 Sep 2026 19:32:59 GMT</pubDate>
+      <description><![CDATA[Prime Minister Giorgia Meloni described the measures as "common-sense tools that do not divide but really help to integrate".]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>White House 'repeatedly violated' court order to restore press access, say media outlets</title>
+      <title>Lindsey Vonn hard launches new relationship in her bikini, Tinder date ghosted abroad &amp; dating after marriage</title>
+      <link>https://www.foxnews.com/outkick-sports/lindsey-vonn-hard-launches-new-relationship-bikini-tinder-date-ghosted-abroad-dating-after-marriage</link>
+      <guid isPermaLink="false">e861453537bb964231ab2d8539c5196568487519</guid>
+      <pubDate>Thu, 24 Sep 2026 19:22:30 GMT</pubDate>
+      <description><![CDATA[Lindsey Vonn's bikini summer recap revealed her romance with French skier Matthieu Bailet, kicking off this Thursday of September's True Romance.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Donald Trump adds political stakes, anticipation and potential sideline chaos to Texas-Tennessee showdown</title>
+      <link>https://www.foxnews.com/outkick-sports/donald-trump-adds-political-stakes-anticipation-potential-sideline-chaos-texas-tennessee-showdown</link>
+      <guid isPermaLink="false">88c5a812679248e3d435973255b077c951f023fb</guid>
+      <pubDate>Thu, 24 Sep 2026 19:20:19 GMT</pubDate>
+      <description><![CDATA[Trump's visit to Neyland Stadium forces Steve Sarkisian, Josh Heupel to plan for communication cuts as Secret Service scrambles coach-to-player headsets.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Priest killed and four injured in knife attack at Polish abbey</title>
+      <link>https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">241f7b81bddbf36cdc9d386d519636df3485f9c9</guid>
+      <pubDate>Thu, 24 Sep 2026 19:18:12 GMT</pubDate>
+      <description><![CDATA[A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'We are living a constant nightmare,' mother of poison seller victim tells hearing</title>
+      <link>https://www.bbc.co.uk/news/articles/cm20ldvx9xlxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3d78f839060f5f4f2ca8b0f7bc35ea32a0f7f2ff</guid>
+      <pubDate>Thu, 24 Sep 2026 19:16:05 GMT</pubDate>
+      <description><![CDATA[Tanya Whitaker broke down before she spoke of how her son Samuel's death had devastated her family.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Backlash erupts over Hasan Piker’s upcoming speaking engagement at Cornell</title>
+      <link>https://www.foxnews.com/media/backlash-erupts-hasan-piker-speaking-engagement-cornell</link>
+      <guid isPermaLink="false">759494e48dd71aa04ead736c7b395c30c76ca024</guid>
+      <pubDate>Thu, 24 Sep 2026 19:10:31 GMT</pubDate>
+      <description><![CDATA[Hasan Piker's Cornell University event drew sharp backlash from Hillel group on campus, which called his rhetoric "repulsive" and antisemitic ahead of his arrival.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Four civilians killed in Pakistani strikes in Afghanistan, Taliban says</title>
+      <link>https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">77450ecec8c08c5ae1aad64938141e19df43717b</guid>
+      <pubDate>Thu, 24 Sep 2026 19:02:36 GMT</pubDate>
+      <description><![CDATA[Pakistan says it struck 10 targets, adding the strikes were "strictly limited to identified military objectives".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Is everyone bricking their phone to stop doomscrolling?</title>
+      <link>https://www.foxnews.com/tech/everyone-bricking-phone-stop-doomscrolling</link>
+      <guid isPermaLink="false">eaec63f7dcb7c610b5491a7e23bb130d33ea5c39</guid>
+      <pubDate>Thu, 24 Sep 2026 19:00:52 GMT</pubDate>
+      <description><![CDATA[The $59 Brick device promises to help curb phone addiction, but free iPhone and Android tools may already do the job. Here's what to try first.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Foreign leader on Putin’s doorstep sounds alarm over Iran fueling Moscow’s war machine</title>
+      <link>https://www.foxnews.com/world/foreign-leader-putins-doorstep-sounds-alarm-iran-fueling-moscows-war-machine</link>
+      <guid isPermaLink="false">288e65dae97b95cd11bf5ad86cd389f66b5cf431</guid>
+      <pubDate>Thu, 24 Sep 2026 19:00:36 GMT</pubDate>
+      <description><![CDATA[Latvian President Edgars Rinkēvičs says Iran's drone tech helped Russia wage war in Ukraine as Latvia prepares to join a Strait of Hormuz coalition.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>EXCLUSIVE: DHS Secretary Mullin slams sanctuary politicians as attacks on ICE officers skyrocket</title>
+      <link>https://www.foxnews.com/politics/exclusive-dhs-secretary-mullin-slams-sanctuary-politicians-attacks-ice-officers-skyrocket</link>
+      <guid isPermaLink="false">44b5e40bd26281bede663418d74fd99b07e7fcd7</guid>
+      <pubDate>Thu, 24 Sep 2026 18:54:54 GMT</pubDate>
+      <description><![CDATA[Assaults against ICE officers surged 1,649% since Trump took office, and DHS Secretary Markwayne Mullin blames sanctuary politicians and anti-ICE riots.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dems shamed as DHS brings ICE shooting receipts after politician called ICE officers ‘liars with masks’</title>
+      <link>https://www.foxnews.com/politics/dems-shamed-dhs-brings-ice-shooting-receipts-politician-called-ice-officers-liars-masks</link>
+      <guid isPermaLink="false">57ebdf77cdf78373a32f9c7ca8e60f85b61cc484</guid>
+      <pubDate>Thu, 24 Sep 2026 18:50:43 GMT</pubDate>
+      <description><![CDATA[The Department of Homeland Security accused Democrats and media of spreading lies about the ICE shooting in Austin as protests erupted citywide.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>4 GOP senators rebel against Trump on Iran war, vote with Dems to rein in authority</title>
+      <link>https://www.foxnews.com/politics/4-gop-senators-rebel-against-trump-iran-war-vote-dems-rein-authority</link>
+      <guid isPermaLink="false">203eb666556bc81c01aac2c9163ea7869fb74cb7</guid>
+      <pubDate>Thu, 24 Sep 2026 18:41:18 GMT</pubDate>
+      <description><![CDATA[President Donald Trump dismissed midterm fears as Republicans defeated a Democratic war powers resolution despite surging gas and diesel prices.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The deals we’re shopping before October Prime Day</title>
+      <link>https://www.foxnews.com/deals/deals-were-shopping-before-october-prime-day</link>
+      <guid isPermaLink="false">c7716fe969694b2a06993fa29a3c25de17e01e17</guid>
+      <pubDate>Thu, 24 Sep 2026 18:36:54 GMT</pubDate>
+      <description><![CDATA[Shop the best deals this week ahead of October Prime Day, including savings on Samsonite luggage, Apple AirTags, tech, home essentials and more.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Watch: UN delegates walk out of Netanyahu speech</title>
+      <link>https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">eeb4f1993e5ad8655aa749fd3e4b58f996d3ecc0</guid>
+      <pubDate>Thu, 24 Sep 2026 18:29:29 GMT</pubDate>
+      <description><![CDATA[The Israeli delegation could be be seen cheering in support during Netanyahu's speech.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Why Australia chose the world's biggest political stage to reveal OpenAI hack</title>
+      <link>https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9f9515000c2cfa78a268a748aceabbb82c4c1a29</guid>
+      <pubDate>Thu, 24 Sep 2026 18:06:40 GMT</pubDate>
+      <description><![CDATA[Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sex offender bailed to flat overlooking playground</title>
+      <link>https://www.bbc.co.uk/news/articles/c62kw7pqjw0zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0a29b6bd9d0b1294954ecc238966336ba311d510</guid>
+      <pubDate>Thu, 24 Sep 2026 17:57:52 GMT</pubDate>
+      <description><![CDATA[Victims of Zapher Dogen were living close to the 32-year-old, who admitted multiple offences.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout</title>
+      <link>https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">488b8024a1dbc0c708b215d3a0e3388b862d3f3d</guid>
+      <pubDate>Thu, 24 Sep 2026 17:55:44 GMT</pubDate>
+      <description><![CDATA[Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>RFK Jr.'s ethics filing reveals book deals worth millions of dollars</title>
+      <link>https://www.npr.org/2026/09/24/nx-s1-5979867/rfk-ethics-book-deals</link>
+      <guid isPermaLink="false">587cbef5480b9a3694869eb7ee0890a56219b512</guid>
+      <pubDate>Thu, 24 Sep 2026 17:51:40 GMT</pubDate>
+      <description><![CDATA[Health Secretary Robert F. Kennedy Jr.'s annual financial disclosure reveals he has received two lucrative book advances and free flights from a friend while in office.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>White House restores access to media outlets banned by Trump after judge's order</title>
       <link>https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">3f96308a9884a04d9d91d19f3ec35df07d817874</guid>
-      <pubDate>Thu, 24 Sep 2026 15:31:54 GMT</pubDate>
-      <description><![CDATA[Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.]]></description>
+      <pubDate>Thu, 24 Sep 2026 17:49:20 GMT</pubDate>
+      <description><![CDATA[CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Susan Collins defies blue-state headwinds in crucial Senate battle as new poll reveals striking split</title>
-      <link>https://www.foxnews.com/politics/susan-collins-defies-blue-state-headwinds-crucial-senate-battle-new-poll-reveals-striking-split</link>
-      <guid isPermaLink="false">a9bd4494b523adb04c71f5e2738eb98c5aea89dd</guid>
-      <pubDate>Thu, 24 Sep 2026 15:31:52 GMT</pubDate>
-      <description><![CDATA[Republican Sen. Susan Collins leads Democrat Troy Jackson 49%-46% in a new Maine Senate poll, but her edge falls within the margin of error.]]></description>
+      <title>Bryan Norcross: Out-of-season nor’easter threatens East Coast as Nolo eyes Hawaii, Polo nears Baja California</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-september-24-2026</link>
+      <guid isPermaLink="false">15a47c578368851c8f6f78262e1c8fc58da709b4</guid>
+      <pubDate>Thu, 24 Sep 2026 16:22:12 GMT</pubDate>
+      <description><![CDATA[Category 5 Hurricane Polo continues on track offshore of southwestern Mexico. Outer rain bands are impacting the coastal mountains and dangerous flooding is possible. But most of the strong winds are staying offshore, for now.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>American businesses aren’t allowed to build. It’s time Congress helped them</title>
-      <link>https://www.foxnews.com/opinion/american-businesses-arent-allowed-build-time-congress-helped-them</link>
-      <guid isPermaLink="false">3a6cdccbf5fa69c8918e0b8ce9cea6202fddd138</guid>
-      <pubDate>Thu, 24 Sep 2026 15:20:55 GMT</pubDate>
-      <description><![CDATA[Permitting delays average over two years and cost millions, crushing small manufacturers and defense startups before they can begin production.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Riley Green thought he'd 'frame houses for the rest of my life' before becoming a country music star</title>
-      <link>https://www.foxnews.com/outkick-culture/riley-green-thought-hed-frame-houses-rest-life-becoming-country-music-star</link>
-      <guid isPermaLink="false">a16956a1de7109b6efd5b3854ad6320fc444e04c</guid>
-      <pubDate>Thu, 24 Sep 2026 15:02:09 GMT</pubDate>
-      <description><![CDATA[Riley Green revealed in a Billboard interview that he left Jacksonville State University for construction work, not to chase country music stardom.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Female athletes, women's sports advocates speak on Capitol Hill as trans athlete issue hovers over midterms</title>
-      <link>https://www.foxnews.com/outkick-sports/female-athletes-womens-sports-advocates-speak-capitol-hill-trans-athlete-issue-hovers-midterms</link>
-      <guid isPermaLink="false">0f9c17995d0ca88920b3061c7abb9fa85acaac1b</guid>
-      <pubDate>Thu, 24 Sep 2026 15:01:37 GMT</pubDate>
-      <description><![CDATA[Female athletes descended on Capitol Hill Wednesday to testify how biological males in women's sports threatened their safety and locker room privacy.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>David Charvet admits he walked away from Hollywood after 'Baywatch' to focus on fatherhood</title>
-      <link>https://www.foxnews.com/entertainment/david-charvet-admits-walked-away-hollywood-baywatch-focus-fatherhood</link>
-      <guid isPermaLink="false">a603c7071c63a39618f694230e24cd0ab941e196</guid>
-      <pubDate>Thu, 24 Sep 2026 15:00:59 GMT</pubDate>
-      <description><![CDATA[David Charvet reveals why he left Hollywood over a decade ago and how "Special Forces: World's Toughest Test" let him prove something to his kids.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The economic squeeze is pushing up poverty rates for older adults</title>
-      <link>https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability</link>
-      <guid isPermaLink="false">852015c5554c6ae8b9535ab1412d9276264defaa</guid>
-      <pubDate>Thu, 24 Sep 2026 15:00:00 GMT</pubDate>
-      <description><![CDATA[Despite lower poverty overall, the rate for seniors has been steadily rising in recent years. A new AARP survey sheds light on how those over 50 are struggling in the crucial time before retirement.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Penguins forward Andrei Kuzmenko's father killed in bear attack on remote Russia fishing trip</title>
-      <link>https://www.foxnews.com/outkick-sports/penguins-forward-andrei-kuzmenko-father-killed-bear-attack-remote-russia-fishing-trip</link>
-      <guid isPermaLink="false">514421d8a5009644e4853ff72f56ea4599117758</guid>
-      <pubDate>Thu, 24 Sep 2026 14:50:57 GMT</pubDate>
-      <description><![CDATA[Andrei Kuzmenko's father, a longtime hockey coach, was fatally attacked by a bear while fishing in a restricted area of Russia's Republic of Tuva.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Biden-appointed judge hands Letitia James setback in latest Trump legal clash</title>
-      <link>https://www.foxnews.com/politics/biden-appointed-judge-hands-letitia-james-setback-latest-trump-legal-clash</link>
-      <guid isPermaLink="false">5e9efe7ca55a7a86ff84b568a68af78fbc7e7347</guid>
-      <pubDate>Thu, 24 Sep 2026 14:41:18 GMT</pubDate>
-      <description><![CDATA[New York Attorney General Letitia James and 18 states lost their legal challenge after a federal judge dismissed the DOGE Treasury lawsuit as moot.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Florida deputies taser sword-wielding burglary suspect, video shows</title>
-      <link>https://www.foxnews.com/us/florida-deputies-taser-sword-wielding-burglary-suspect-video-shows</link>
-      <guid isPermaLink="false">fb33b289da16a780311cecbdbdaf799987812380</guid>
-      <pubDate>Thu, 24 Sep 2026 14:40:36 GMT</pubDate>
-      <description><![CDATA[Bodycam video captured the tense moment deputies in Florida tasered sword-wielding suspect Josiah Smith after he allegedly refused commands.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>105-year-old investigated for crimes at Nazi PoW camp in Germany</title>
-      <link>https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">de7f4df274bca00dae6809c95225bb1c31202482</guid>
-      <pubDate>Thu, 24 Sep 2026 14:37:34 GMT</pubDate>
-      <description><![CDATA[The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>German prosecutors investigate 105-year-old for crimes at Nazi PoW camp</title>
-      <link>https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">de7f4df274bca00dae6809c95225bb1c31202482</guid>
-      <pubDate>Thu, 24 Sep 2026 14:37:34 GMT</pubDate>
-      <description><![CDATA[The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>UAP whistleblower makes stunning claim about secrets behind government’s recovered craft</title>
-      <link>https://www.foxnews.com/media/uap-whistleblower-stunning-claim-secrets-government-recovered-craft</link>
-      <guid isPermaLink="false">4e514daf3977d11269af0464b39ce4913a724db4</guid>
-      <pubDate>Thu, 24 Sep 2026 14:28:23 GMT</pubDate>
-      <description><![CDATA[Dylan Borland alleges the U.S. government possesses recovered craft, making the striking claim on Sean Hannity's podcast alongside Ben Hansen.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Indiana Fever vs Minnesota Lynx season finale carries playoff seeding stakes for Caitlin Clark's team</title>
-      <link>https://www.foxnews.com/outkick-betting/indiana-fever-vs-minnesota-lynx-season-finale-carries-playoff-seeding-stakes-caitlin-clarks-team</link>
-      <guid isPermaLink="false">4f29d2a3ea32e63f690ccdb433c9a8a9a5c73060</guid>
-      <pubDate>Thu, 24 Sep 2026 14:24:03 GMT</pubDate>
-      <description><![CDATA[Kelsey Mitchell set the WNBA single-season scoring record with 1,076 points as the Indiana Fever face the Minnesota Lynx in the regular season finale.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?</title>
-      <link>https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4ea6410dce1e1b39ed478a9ab2981d52be988000</guid>
-      <pubDate>Thu, 24 Sep 2026 14:08:38 GMT</pubDate>
-      <description><![CDATA[News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump rolls out the red carpet for Xi as high-stakes summit begins</title>
-      <link>https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins</link>
-      <guid isPermaLink="false">4c2c4f998cdf0103f3a8387eda8cc811aea99705</guid>
-      <pubDate>Thu, 24 Sep 2026 12:43:15 GMT</pubDate>
-      <description><![CDATA[On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Crashed RAF jet steered to 'avoid built-up areas' before pilots ejected, commander says</title>
-      <link>https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6e052f64a16fb26e8feb1824b2f236787111a318</guid>
-      <pubDate>Thu, 24 Sep 2026 12:29:39 GMT</pubDate>
-      <description><![CDATA[Gp Capt Gez Currie said the pilots are in hospital, and their families are with them.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Nor’easter to bring rain and coastal impacts to the East Coast this weekend</title>
@@ -511,7 +511,7 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Tropical development odds rise as brewing 'Super' El Niño drives Atlantic hurricane season to near record-low</title>
+      <title>Fay restrengthens into Tropical Storm as brewing 'Super' El Niño continues to dominate the Atlantic</title>
       <link>https://www.foxweather.com/weather-news/tropics-atlantic-invest-90l-super-el-nino-2026</link>
       <guid isPermaLink="false">49f0a3ecbb49eedcccfecf7934fa058b517dae29</guid>
       <pubDate>Wed, 23 Sep 2026 15:24:52 GMT</pubDate>
@@ -519,11 +519,11 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Tropical Depression Fifteen-E redevelops, could make rare landfall on Hawaii as a major hurricane</title>
-      <link>https://www.foxweather.com/weather-news/flood-watches-issued-tropical-depression-fifteen-e-redevelops-threatens-hawaii-rare-direct-landfall</link>
-      <guid isPermaLink="false">da9a49263d3d4b844ebe19c72af2b0cec4c08f82</guid>
-      <pubDate>Wed, 23 Sep 2026 11:20:18 GMT</pubDate>
-      <description><![CDATA[Tropical Depression Fifteen-E redeveloped near the Hawaiian Islands and is now forecast to approach the Big Island, potentially as a major hurricane, bringing torrential rain and life-threatening flooding this weekend.]]></description>
+      <title>Tropical development odds rise as brewing 'Super' El Niño drives Atlantic hurricane season to near record-low</title>
+      <link>https://www.foxweather.com/weather-news/tropics-atlantic-invest-90l-super-el-nino-2026</link>
+      <guid isPermaLink="false">49f0a3ecbb49eedcccfecf7934fa058b517dae29</guid>
+      <pubDate>Wed, 23 Sep 2026 15:24:52 GMT</pubDate>
+      <description><![CDATA[The National Hurricane Center (NHC) is monitoring an area to watch for tropical development just off the coast of West Africa amid the slowest start to an Atlantic hurricane season in the satellite era (since 1966) as hostile El Niño-driven winds have dominated much of the basin.]]></description>
       <category>weather</category>
     </item>
   </channel>
