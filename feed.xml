@@ -5,20 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:23:21 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 26 Sep 2026 00:23:21 GMT</pubDate>
-      <description><![CDATA[55°F. Wind N 5 to 10 mph. Cloudy, with a high near 55. North wind 5 to 10 mph.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Sat, 26 Sep 2026 05:47:05 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 26 Sep 2026 00:23:21 GMT</pubDate>
+      <pubDate>Sat, 26 Sep 2026 05:47:05 GMT</pubDate>
       <description><![CDATA[45°F. Wind E 5 to 10 mph. Cloudy, with a low around 45. East wind 5 to 10 mph, with gusts as high as 20 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +18,7 @@
       <title>Anchorage Weather: Saturday - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 26 Sep 2026 00:23:21 GMT</pubDate>
+      <pubDate>Sat, 26 Sep 2026 05:47:05 GMT</pubDate>
       <description><![CDATA[54°F. Wind E 5 to 10 mph. Mostly cloudy, with a high near 54. East wind 5 to 10 mph, with gusts as high as 20 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Saturday Night - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 26 Sep 2026 00:23:21 GMT</pubDate>
+      <pubDate>Sat, 26 Sep 2026 05:47:05 GMT</pubDate>
       <description><![CDATA[44°F. Wind NE 5 mph. Rain likely between 7pm and 4am, then a chance of rain showers. Mostly cloudy, with a low around 44. Northeast wind around 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +34,33 @@
       <title>Anchorage Weather: Sunday - Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 26 Sep 2026 00:23:21 GMT</pubDate>
+      <pubDate>Sat, 26 Sep 2026 05:47:05 GMT</pubDate>
       <description><![CDATA[52°F. Wind NE 5 mph. A chance of rain showers. Mostly cloudy, with a high near 52. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Sunday Night - Chance Rain Showers</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sat, 26 Sep 2026 05:47:05 GMT</pubDate>
+      <description><![CDATA[40°F. Wind NE 0 to 5 mph. A chance of rain showers. Cloudy, with a low around 40. Northeast wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Capital City Fire Rescue welcomes new battalion chiefs</title>
+      <link>https://www.juneauempire.com/2026/09/25/capital-city-fire-rescue-welcomes-new-battalion-chiefs/</link>
+      <guid isPermaLink="false">6504c4feff060e4cbf90c5db3d63e12a4a417dc6</guid>
+      <pubDate>Sat, 26 Sep 2026 02:30:00 GMT</pubDate>
+      <description><![CDATA[Veteran firefighters Jeff Smetzler and John Adams take on leadership roles with CCFR]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Friday, Sept. 29, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17473952/newscast-friday-sept-29-2026</link>
+      <guid isPermaLink="false">6ad159946f9c1965957bfeaaf7fd17d025da57b4</guid>
+      <pubDate>Sat, 26 Sep 2026 01:01:40 GMT</pubDate>
+      <description><![CDATA[In this newscast: The deadline for incarcerated people to request a by-mail ballot for this year's general election is fast approaching; Proposition B in Juneau's municipal election asks voters to reverse a tax cut passed last year; The childcare strain on Bartlett Regional Hospital workers in Juneau may be slightly eased after a Juneau nonprofit received grant funding under the Rural Health Transformation Program; Tensions are growing among a small handful of luxury yacht operators in Southeast Alaska.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>A New York Times article claimed hostility by Mary Peltola. Will it affect Alaska’s Senate race?</title>
@@ -279,20 +295,76 @@
       <category>local</category>
     </item>
     <item>
-      <title>Critics Warn Trump-Backed Diesel Export Ban Could Further Drive US Economy Into the Ground</title>
-      <link>https://alaska-native-news.com/critics-warn-trump-backed-diesel-export-ban-could-further-drive-us-economy-into-the-ground/86397/</link>
-      <guid isPermaLink="false">c427ed21262f13ee5ca40901bea458ac4b69e000</guid>
-      <pubDate>Thu, 24 Sep 2026 14:01:50 GMT</pubDate>
-      <description><![CDATA[“The proposed diesel export ban is a short-sighted ‘America First’ response to a global crisis his reckless war helped create.” In an effort to blunt price hikes from his war with Iran, President Donald Trump is reportedly preparing a 90-day ban on diesel exports from the United States. The cost of diesel—which is used to […]]]></description>
-      <category>local</category>
+      <title>White House bars CNN from travelling with Trump on Air Force One</title>
+      <link>https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">87ad03b9a8d585750878d0fbd62fbbedd348ad45</guid>
+      <pubDate>Sat, 26 Sep 2026 05:09:09 GMT</pubDate>
+      <description><![CDATA[CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>This Day in Alaska History-September 24th, 1918</title>
-      <link>https://alaska-native-news.com/september-24th-1918/44790/</link>
-      <guid isPermaLink="false">323065d82acf1de530b8fd094f6ad75d2e391826</guid>
-      <pubDate>Thu, 24 Sep 2026 14:00:11 GMT</pubDate>
-      <description><![CDATA[President Woodrow Wilson established the Katmai National Monument by proclamation on September 24th, 1918 He did so in order to protect the “Valley of Ten Thousand Smokes” as well as the surrounding area for its scenic value and as scientific value for future generations. That initial proclamation set aside over one million acres. The terrain […]]]></description>
-      <category>local</category>
+      <title>Burnham not doing enough to boost growth, says Starmer ally</title>
+      <link>https://www.bbc.co.uk/news/articles/c9zrzzmez7j5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">627810e9bffe6e0f974e70617fdc1c4214cd5287</guid>
+      <pubDate>Sat, 26 Sep 2026 05:07:48 GMT</pubDate>
+      <description><![CDATA[Ex-Business Secretary Peter Kyle calls for more urgency on the economy, as Labour members head to the party's annual conference.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction</title>
+      <link>https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one</link>
+      <guid isPermaLink="false">17ee95b6e0d2daa00a5bbeee7b036522b6b3ea24</guid>
+      <pubDate>Sat, 26 Sep 2026 04:42:17 GMT</pubDate>
+      <description><![CDATA[The White House has signaled that CNN will be left off Air Force One for President Donald Trump's Saturday trip in the latest media restriction in an ongoing dispute with First Amendment implications.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Reigning champion Indiana Hoosiers survive major scare from Northwestern in Big Ten opener</title>
+      <link>https://www.foxnews.com/outkick-sports/reigning-champion-indiana-hoosiers-survive-major-scare-northwestern-big-ten-opener</link>
+      <guid isPermaLink="false">c966a4875aaf3db47243ccc1c1b95112ac7799cf</guid>
+      <pubDate>Sat, 26 Sep 2026 04:19:02 GMT</pubDate>
+      <description><![CDATA[The National Champion Indiana Hoosiers barely survived Northwestern as penalties and Turbo Richard's injury nearly derailed their Big Ten opener.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Phillies shut out by Rays in opener of final regular-season series, pushing playoff hopes to the brink</title>
+      <link>https://www.foxnews.com/outkick-sports/phillies-shut-out-rays-opener-final-regular-season-series-pushing-playoff-hopes-brink</link>
+      <guid isPermaLink="false">01617b6dbc97d4ce7ece381bd2c796ebd9012151</guid>
+      <pubDate>Sat, 26 Sep 2026 03:15:28 GMT</pubDate>
+      <description><![CDATA[Don Mattingly insists the Phillies aren't wilting, but 13 losses in 21 games and just two runs in 27 innings tell a different story down the stretch.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>OpenAI bots meddled with multiple US government agency sites</title>
+      <link>https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d22a199399a36e3b5d0afa26f4a239e212aff95b</guid>
+      <pubDate>Sat, 26 Sep 2026 02:50:56 GMT</pubDate>
+      <description><![CDATA[OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Doctor reveals '10-year rule' for evaluating brain fog and dementia symptoms</title>
+      <link>https://www.foxnews.com/health/doctor-reveals-10-year-rule-evaluating-brain-fog-dementia-symptoms</link>
+      <guid isPermaLink="false">dbbbc142de178d69b1af4043478fd02b414d47ba</guid>
+      <pubDate>Sat, 26 Sep 2026 02:10:03 GMT</pubDate>
+      <description><![CDATA[A UCLA neurology professor's 10-year self-assessment helps women determine if memory loss stems from estrogen changes during perimenopause or dementia.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Lynx coach Cheryl Reeve voices support for the trans community again after regular season finale vs Fever</title>
+      <link>https://www.foxnews.com/outkick-sports/lynx-coach-cheryl-reeve-voices-support-trans-community-regular-season-finale-vs-fever</link>
+      <guid isPermaLink="false">cd2550ccaa575b54d5f46f2690e34f06533374bb</guid>
+      <pubDate>Sat, 26 Sep 2026 01:15:37 GMT</pubDate>
+      <description><![CDATA[Cheryl Reeve says her "Trans Kids Belong" shirt sparked an outpouring of messages from transgender families during a season defined by debate.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fulton Sheen became a TV sensation preaching faith, morality and warnings Michael Knowles says still resonate</title>
+      <link>https://www.foxnews.com/politics/fulton-sheen-tv-sensation-preaching-faith-morality-warnings-michael-knowles-says-still-resonate</link>
+      <guid isPermaLink="false">f91d36c10ae05e3ca05e0e2f2716cf6ba08cbf93</guid>
+      <pubDate>Sat, 26 Sep 2026 00:43:36 GMT</pubDate>
+      <description><![CDATA[Conservative commentator says famous Catholic archbishop would be branded a "far-right extremist" today without changing his message on faith and communism.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>WATCH: Former Dem Lt Gov reveals why he resigned after sexual harassment probe rocked state</title>
@@ -325,6 +397,14 @@
       <pubDate>Fri, 25 Sep 2026 23:56:11 GMT</pubDate>
       <description><![CDATA[Bill Burr suggested the Luigi Mangione murder case should prompt healthcare executives to examine their policies rather than simply hiring security.]]></description>
       <category>politics</category>
+    </item>
+    <item>
+      <title>St Paul police chief sues mayor, alleging she called herself a 'MILF,' sexually harassed him and retaliated</title>
+      <link>https://www.foxnews.com/politics/st-paul-police-chief-sues-mayor-alleging-called-herself-milf-sexually-harassed-retaliation</link>
+      <guid isPermaLink="false">e101764d88c65482d817d792b09c088523fb28f0</guid>
+      <pubDate>Fri, 25 Sep 2026 23:53:07 GMT</pubDate>
+      <description><![CDATA[Axel Henry's 73-page lawsuit accuses St. Paul Mayor Kaohly Her of explicit sexual comments, unwanted physical contact and a retaliation campaign.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>St Paul police chief sues mayor, alleging she called herself as 'MILF' and sexually harassed him, retaliation</title>
@@ -373,86 +453,6 @@
       <pubDate>Fri, 25 Sep 2026 23:05:40 GMT</pubDate>
       <description><![CDATA[Current and former agents speak to the BBC about the devastating impact of the FBI hack.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>Fox News Entertainment newsletter: William won't repeat Charles’ jealousy; Harry's push sparks ‘contradiction’</title>
-      <link>https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-contradiction</link>
-      <guid isPermaLink="false">dafd7141eeba46cd619b15c95f43e1ff3d149b81</guid>
-      <pubDate>Fri, 25 Sep 2026 23:03:40 GMT</pubDate>
-      <description><![CDATA[The Fox News Entertainment Newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Massachusetts Communist Party chapter attacks Boston Globe over lesbian bar story</title>
-      <link>https://www.foxnews.com/media/massachusetts-communist-party-chapter-attacks-boston-globe-over-lesbian-bar-story</link>
-      <guid isPermaLink="false">c7ecd91f28479c3e698efc5efb95214357929c83</guid>
-      <pubDate>Fri, 25 Sep 2026 22:50:24 GMT</pubDate>
-      <description><![CDATA[A Communist Party chapter accused The Boston Globe of courting far-right outrage with its reporting on a Greenfield, Massachusetts, lesbian bar's mask policy change.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Family of paralyzed Marine vet allegedly shot by migrant speaks out as health issue could delay testimony</title>
-      <link>https://www.foxnews.com/us/family-paralyzed-marine-vet-allegedly-shot-migrant-speaks-health-issue-could-delay-testimony</link>
-      <guid isPermaLink="false">9f2f961b32cde957d7da1fe077cb217d401c02ef</guid>
-      <pubDate>Fri, 25 Sep 2026 22:37:32 GMT</pubDate>
-      <description><![CDATA[Jimmy Friesenhahn, a Marine veteran paralyzed in a San Antonio shooting, faces a health crisis before trial, his family told Fox News Digital.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Olympic champion Nancy Hogshead honored for advocacy as she pushes WNBA on female eligibility rules</title>
-      <link>https://www.foxnews.com/outkick-sports/olympic-champion-nancy-hogshead-honored-advocacy-pushes-wnba-female-eligibility-rules</link>
-      <guid isPermaLink="false">39b6a7db51c46d12e708c1c12c501f099216fe29</guid>
-      <pubDate>Fri, 25 Sep 2026 22:30:04 GMT</pubDate>
-      <description><![CDATA[Nancy Hogshead wore an XX-XY Athletics shirt to the ceremony as 520 Olympians and Paralympians back her petition for female-only WNBA eligibility.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Supreme Court blocks Trump-backed Missouri congressional map</title>
-      <link>https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri</link>
-      <guid isPermaLink="false">49e2b13417aeb0fab7d12f8beb57bea424db8468</guid>
-      <pubDate>Fri, 25 Sep 2026 22:06:16 GMT</pubDate>
-      <description><![CDATA[The ruling is a defeat for Republicans seeking to give their party an edge in the midterm elections for control of the House. It means voters will face a different map than the one used in the primary elections.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>UK Prime Minister says football fans 'singled out' by alcohol ban not imposed on rugby matches</title>
-      <link>https://www.foxnews.com/outkick-sports/uk-prime-minister-says-football-fans-singled-out-alcohol-ban-not-imposed-rugby-matches</link>
-      <guid isPermaLink="false">48f139ebbf3f8c60deae7f6b785888aefe27f6b0</guid>
-      <pubDate>Fri, 25 Sep 2026 21:30:38 GMT</pubDate>
-      <description><![CDATA[Andy Burnham called the alcohol ban at men's football stadiums "discrimination," suggesting a trial could be explored for fans in the stands.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Florida GOP nominee blasts 20-year Dem incumbent as a 'socialist' rubber-stamp with 'precious little to show'</title>
-      <link>https://www.foxnews.com/politics/florida-gop-nominee-blasts-20-year-dem-incumbent-socialist-rubber-stamp-precious-little-show</link>
-      <guid isPermaLink="false">24d70350b605d0614e53434dfa4f3065d03e4d9e</guid>
-      <pubDate>Fri, 25 Sep 2026 21:26:56 GMT</pubDate>
-      <description><![CDATA[Former Florida legislator Mike Beltran seeks to oust 10-term incumbent Kathy Castor in 14th district, arguing she has been ineffective and out of touch with constituents.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Black woman found hanging from tree was dead before body was 'staged', police say</title>
-      <link>https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">65139d1215e7b4e17a30e3e582013ccf229e94e0</guid>
-      <pubDate>Fri, 25 Sep 2026 21:16:59 GMT</pubDate>
-      <description><![CDATA[Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Black woman found hanging from tree was dead before body was 'staged', US media reports</title>
-      <link>https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">65139d1215e7b4e17a30e3e582013ccf229e94e0</guid>
-      <pubDate>Fri, 25 Sep 2026 21:16:59 GMT</pubDate>
-      <description><![CDATA[Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Carville says the GOP is better than Democrats at one key skill the 2028 Dem nominee will need</title>
-      <link>https://www.foxnews.com/media/carville-gop-better-democrats-key-skill-2028-dem-nominee-need</link>
-      <guid isPermaLink="false">a008ff2d96b05cca2501b8c25c2d7a5bffee00e2</guid>
-      <pubDate>Fri, 25 Sep 2026 21:02:08 GMT</pubDate>
-      <description><![CDATA[James Carville says Democrats lack a consistent negative and positive narrative, warning the party's 2028 nominee must master political messaging to win.]]></description>
-      <category>weather</category>
     </item>
     <item>
       <title>Tropical Storm Gonzalo to soak Cabo Verde before weakening amid historically quiet Atlantic hurricane season</title>

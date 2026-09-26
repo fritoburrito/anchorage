@@ -1,5 +1,25 @@
 [
   {
+    "title": "Capital City Fire Rescue welcomes new battalion chiefs",
+    "link": "https://www.juneauempire.com/2026/09/25/capital-city-fire-rescue-welcomes-new-battalion-chiefs/",
+    "description": "Veteran firefighters Jeff Smetzler and John Adams take on leadership roles with CCFR",
+    "pubDate": "Sat, 26 Sep 2026 02:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
+    "title": "Newscast \u2013 Friday, Sept. 29, 2026",
+    "link": "https://feeds.ktoo.org/link/20427/17473952/newscast-friday-sept-29-2026",
+    "description": "In this newscast: The deadline for incarcerated people to request a by-mail ballot for this year's general election is fast approaching; Proposition B in Juneau's municipal election asks voters to reverse a tax cut passed last year; The childcare strain on Bartlett Regional Hospital workers in Juneau may be slightly eased after a Juneau nonprofit received grant funding under the Rural Health Transformation Program; Tensions are growing among a small handful of luxury yacht operators in Southeast Alaska.",
+    "pubDate": "Sat, 26 Sep 2026 01:01:40 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "KTOO",
+    "rank": 100
+  },
+  {
     "title": "A New York Times article claimed hostility by Mary Peltola. Will it affect Alaska\u2019s Senate race?",
     "link": "https://alaskabeacon.com/2026/09/25/a-new-york-times-article-claimed-hostility-by-mary-peltola-will-it-affect-alaskas-senate-race/",
     "description": "Alaska observers say it is too early to say how reports of bad behavior by Democratic U.S. Senate candidate Mary Peltola might affect the state\u2019s closely watched election, and some supporters suggested this week that she may be subject to a double standard because of her gender. \u201cWhile it\u2019s surprising news, I think there\u2019s a [\u2026]",
@@ -380,24 +400,94 @@
     "rank": 100
   },
   {
-    "title": "Critics Warn Trump-Backed Diesel Export Ban Could Further Drive US Economy Into the Ground",
-    "link": "https://alaska-native-news.com/critics-warn-trump-backed-diesel-export-ban-could-further-drive-us-economy-into-the-ground/86397/",
-    "description": "\u201cThe proposed diesel export ban is a short-sighted \u2018America First\u2019 response to a global crisis his reckless war helped create.\u201d In an effort to blunt price hikes from his war with Iran, President Donald Trump is reportedly preparing a 90-day ban on diesel exports from the United States. The cost of diesel\u2014which is used to [\u2026]",
-    "pubDate": "Thu, 24 Sep 2026 14:01:50 GMT",
-    "category": "culture",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "White House bars CNN from travelling with Trump on Air Force One",
+    "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+    "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+    "pubDate": "Sat, 26 Sep 2026 05:09:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
-    "title": "This Day in Alaska History-September 24th, 1918",
-    "link": "https://alaska-native-news.com/september-24th-1918/44790/",
-    "description": "President Woodrow Wilson established the Katmai National Monument by proclamation on September 24th, 1918 He did so in order to protect the \u201cValley of Ten Thousand Smokes\u201d as well as the surrounding area for its scenic value and as scientific value for future generations. That initial proclamation set aside over one million acres. The terrain [\u2026]",
-    "pubDate": "Thu, 24 Sep 2026 14:00:11 GMT",
-    "category": "culture",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Burnham not doing enough to boost growth, says Starmer ally",
+    "link": "https://www.bbc.co.uk/news/articles/c9zrzzmez7j5o?at_medium=RSS&at_campaign=rss",
+    "description": "Ex-Business Secretary Peter Kyle calls for more urgency on the economy, as Labour members head to the party's annual conference.",
+    "pubDate": "Sat, 26 Sep 2026 05:07:48 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
+    "link": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
+    "description": "The White House has signaled that CNN will be left off Air Force One for President Donald Trump's Saturday trip in the latest media restriction in an ongoing dispute with First Amendment implications.",
+    "pubDate": "Sat, 26 Sep 2026 04:42:17 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Reigning champion Indiana Hoosiers survive major scare from Northwestern in Big Ten opener",
+    "link": "https://www.foxnews.com/outkick-sports/reigning-champion-indiana-hoosiers-survive-major-scare-northwestern-big-ten-opener",
+    "description": "The National Champion Indiana Hoosiers barely survived Northwestern as penalties and Turbo Richard's injury nearly derailed their Big Ten opener.",
+    "pubDate": "Sat, 26 Sep 2026 04:19:02 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Phillies shut out by Rays in opener of final regular-season series, pushing playoff hopes to the brink",
+    "link": "https://www.foxnews.com/outkick-sports/phillies-shut-out-rays-opener-final-regular-season-series-pushing-playoff-hopes-brink",
+    "description": "Don Mattingly insists the Phillies aren't wilting, but 13 losses in 21 games and just two runs in 27 innings tell a different story down the stretch.",
+    "pubDate": "Sat, 26 Sep 2026 03:15:28 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "OpenAI bots meddled with multiple US government agency sites",
+    "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+    "description": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+    "pubDate": "Sat, 26 Sep 2026 02:50:56 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Doctor reveals '10-year rule' for evaluating brain fog and dementia symptoms",
+    "link": "https://www.foxnews.com/health/doctor-reveals-10-year-rule-evaluating-brain-fog-dementia-symptoms",
+    "description": "A UCLA neurology professor's 10-year self-assessment helps women determine if memory loss stems from estrogen changes during perimenopause or dementia.",
+    "pubDate": "Sat, 26 Sep 2026 02:10:03 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Lynx coach Cheryl Reeve voices support for the trans community again after regular season finale vs Fever",
+    "link": "https://www.foxnews.com/outkick-sports/lynx-coach-cheryl-reeve-voices-support-trans-community-regular-season-finale-vs-fever",
+    "description": "Cheryl Reeve says her \"Trans Kids Belong\" shirt sparked an outpouring of messages from transgender families during a season defined by debate.",
+    "pubDate": "Sat, 26 Sep 2026 01:15:37 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Fulton Sheen became a TV sensation preaching faith, morality and warnings Michael Knowles says still resonate",
+    "link": "https://www.foxnews.com/politics/fulton-sheen-tv-sensation-preaching-faith-morality-warnings-michael-knowles-says-still-resonate",
+    "description": "Conservative commentator says famous Catholic archbishop would be branded a \"far-right extremist\" today without changing his message on faith and communism.",
+    "pubDate": "Sat, 26 Sep 2026 00:43:36 GMT",
+    "category": "weather",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "WATCH: Former Dem Lt Gov reveals why he resigned after sexual harassment probe rocked state",
@@ -435,6 +525,16 @@
     "description": "Bill Burr suggested the Luigi Mangione murder case should prompt healthcare executives to examine their policies rather than simply hiring security.",
     "pubDate": "Fri, 25 Sep 2026 23:56:11 GMT",
     "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "St Paul police chief sues mayor, alleging she called herself a 'MILF,' sexually harassed him and retaliated",
+    "link": "https://www.foxnews.com/politics/st-paul-police-chief-sues-mayor-alleging-called-herself-milf-sexually-harassed-retaliation",
+    "description": "Axel Henry's 73-page lawsuit accuses St. Paul Mayor Kaohly Her of explicit sexual comments, unwanted physical contact and a retaliation campaign.",
+    "pubDate": "Fri, 25 Sep 2026 23:53:07 GMT",
+    "category": "world",
     "tag": "world",
     "source": "FOX World News",
     "rank": 10
@@ -500,120 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Fox News Entertainment newsletter: William won't repeat Charles\u2019 jealousy; Harry's push sparks \u2018contradiction\u2019",
-    "link": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-contradiction",
-    "description": "The Fox News Entertainment Newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.",
-    "pubDate": "Fri, 25 Sep 2026 23:03:40 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Massachusetts Communist Party chapter attacks Boston Globe over lesbian bar story",
-    "link": "https://www.foxnews.com/media/massachusetts-communist-party-chapter-attacks-boston-globe-over-lesbian-bar-story",
-    "description": "A Communist Party chapter accused The Boston Globe of courting far-right outrage with its reporting on a Greenfield, Massachusetts, lesbian bar's mask policy change.",
-    "pubDate": "Fri, 25 Sep 2026 22:50:24 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Family of paralyzed Marine vet allegedly shot by migrant speaks out as health issue could delay testimony",
-    "link": "https://www.foxnews.com/us/family-paralyzed-marine-vet-allegedly-shot-migrant-speaks-health-issue-could-delay-testimony",
-    "description": "Jimmy Friesenhahn, a Marine veteran paralyzed in a San Antonio shooting, faces a health crisis before trial, his family told Fox News Digital.",
-    "pubDate": "Fri, 25 Sep 2026 22:37:32 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Olympic champion Nancy Hogshead honored for advocacy as she pushes WNBA on female eligibility rules",
-    "link": "https://www.foxnews.com/outkick-sports/olympic-champion-nancy-hogshead-honored-advocacy-pushes-wnba-female-eligibility-rules",
-    "description": "Nancy Hogshead wore an XX-XY Athletics shirt to the ceremony as 520 Olympians and Paralympians back her petition for female-only WNBA eligibility.",
-    "pubDate": "Fri, 25 Sep 2026 22:30:04 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Supreme Court blocks Trump-backed Missouri congressional map",
-    "link": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
-    "description": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterm elections for control of the House. It means voters will face a different map than the one used in the primary elections.",
-    "pubDate": "Fri, 25 Sep 2026 22:06:16 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "UK Prime Minister says football fans 'singled out' by alcohol ban not imposed on rugby matches",
-    "link": "https://www.foxnews.com/outkick-sports/uk-prime-minister-says-football-fans-singled-out-alcohol-ban-not-imposed-rugby-matches",
-    "description": "Andy Burnham called the alcohol ban at men's football stadiums \"discrimination,\" suggesting a trial could be explored for fans in the stands.",
-    "pubDate": "Fri, 25 Sep 2026 21:30:38 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Florida GOP nominee blasts 20-year Dem incumbent as a 'socialist' rubber-stamp with 'precious little to show'",
-    "link": "https://www.foxnews.com/politics/florida-gop-nominee-blasts-20-year-dem-incumbent-socialist-rubber-stamp-precious-little-show",
-    "description": "Former Florida legislator Mike Beltran seeks to oust 10-term incumbent Kathy Castor in 14th district, arguing she has been ineffective and out of touch with constituents.",
-    "pubDate": "Fri, 25 Sep 2026 21:26:56 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-    "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-    "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-    "pubDate": "Fri, 25 Sep 2026 21:16:59 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Black woman found hanging from tree was dead before body was 'staged', US media reports",
-    "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-    "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-    "pubDate": "Fri, 25 Sep 2026 21:16:59 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Carville says the GOP is better than Democrats at one key skill the 2028 Dem nominee will need",
-    "link": "https://www.foxnews.com/media/carville-gop-better-democrats-key-skill-2028-dem-nominee-need",
-    "description": "James Carville says Democrats lack a consistent negative and positive narrative, warning the party's 2028 nominee must master political messaging to win.",
-    "pubDate": "Fri, 25 Sep 2026 21:02:08 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon - Cloudy",
-    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "55\u00b0F. Wind N 5 to 10 mph. Cloudy, with a high near 55. North wind 5 to 10 mph.",
-    "pubDate": "Sat, 26 Sep 2026 00:23:21 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "National Weather Service Anchorage",
-    "rank": 0
-  },
-  {
     "title": "Anchorage Weather: Tonight - Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "45\u00b0F. Wind E 5 to 10 mph. Cloudy, with a low around 45. East wind 5 to 10 mph, with gusts as high as 20 mph.",
-    "pubDate": "Sat, 26 Sep 2026 00:23:21 GMT",
+    "pubDate": "Sat, 26 Sep 2026 05:47:05 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +613,7 @@
     "title": "Anchorage Weather: Saturday - Mostly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "54\u00b0F. Wind E 5 to 10 mph. Mostly cloudy, with a high near 54. East wind 5 to 10 mph, with gusts as high as 20 mph.",
-    "pubDate": "Sat, 26 Sep 2026 00:23:21 GMT",
+    "pubDate": "Sat, 26 Sep 2026 05:47:05 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +623,7 @@
     "title": "Anchorage Weather: Saturday Night - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "44\u00b0F. Wind NE 5 mph. Rain likely between 7pm and 4am, then a chance of rain showers. Mostly cloudy, with a low around 44. Northeast wind around 5 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sat, 26 Sep 2026 00:23:21 GMT",
+    "pubDate": "Sat, 26 Sep 2026 05:47:05 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +633,17 @@
     "title": "Anchorage Weather: Sunday - Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "52\u00b0F. Wind NE 5 mph. A chance of rain showers. Mostly cloudy, with a high near 52. Northeast wind around 5 mph.",
-    "pubDate": "Sat, 26 Sep 2026 00:23:21 GMT",
+    "pubDate": "Sat, 26 Sep 2026 05:47:05 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "National Weather Service Anchorage",
+    "rank": 0
+  },
+  {
+    "title": "Anchorage Weather: Sunday Night - Chance Rain Showers",
+    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+    "description": "40\u00b0F. Wind NE 0 to 5 mph. A chance of rain showers. Cloudy, with a low around 40. Northeast wind 0 to 5 mph. Chance of precipitation is 60%.",
+    "pubDate": "Sat, 26 Sep 2026 05:47:05 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
