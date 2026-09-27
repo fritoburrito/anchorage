@@ -5,45 +5,45 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 21:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:08:29 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: This Afternoon - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 26 Sep 2026 21:45:38 GMT</pubDate>
+      <pubDate>Sun, 27 Sep 2026 00:08:29 GMT</pubDate>
+      <description><![CDATA[55°F. Wind N 5 mph. Partly sunny, with a high near 55. North wind around 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Tonight - Rain Showers Likely</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 27 Sep 2026 00:08:29 GMT</pubDate>
+      <description><![CDATA[42°F. Wind N 5 mph. Rain showers likely after 10pm. Mostly cloudy, with a low around 42. North wind around 5 mph. Chance of precipitation is 60%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Sunday - Isolated Rain Showers then Mostly Cloudy</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 27 Sep 2026 00:08:29 GMT</pubDate>
+      <description><![CDATA[53°F. Wind N 5 mph. Isolated rain showers before 7am. Mostly cloudy, with a high near 53. North wind around 5 mph. Chance of precipitation is 20%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Sunday Night - Mostly Cloudy</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 27 Sep 2026 00:08:29 GMT</pubDate>
+      <description><![CDATA[41°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 41. Northeast wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday - Partly Sunny</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 27 Sep 2026 00:08:29 GMT</pubDate>
       <description><![CDATA[52°F. Wind NE 0 to 5 mph. Partly sunny, with a high near 52. Northeast wind 0 to 5 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight - Light Rain Likely</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 26 Sep 2026 21:45:38 GMT</pubDate>
-      <description><![CDATA[44°F. Wind NE 5 mph. Rain likely between 7pm and 4am, then isolated rain showers. Mostly cloudy, with a low around 44. Northeast wind around 5 mph. Chance of precipitation is 60%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Sunday - Isolated Rain Showers</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 26 Sep 2026 21:45:38 GMT</pubDate>
-      <description><![CDATA[53°F. Wind NE 0 to 5 mph. Isolated rain showers. Mostly cloudy, with a high near 53. Northeast wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Sunday Night - Chance Rain Showers</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 26 Sep 2026 21:45:38 GMT</pubDate>
-      <description><![CDATA[40°F. Wind N 0 to 5 mph. A chance of rain showers. Cloudy, with a low around 40. North wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Monday - Scattered Rain Showers</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 26 Sep 2026 21:45:38 GMT</pubDate>
-      <description><![CDATA[50°F. Wind N 5 mph. Scattered rain showers. Mostly cloudy, with a high near 50. North wind around 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -319,6 +319,126 @@
       <category>local</category>
     </item>
     <item>
+      <title>Court of Appeal overturns ban on Drumcree parade</title>
+      <link>https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0d6b06bffec9a6e4f7d4aa729464a16788c9ceae</guid>
+      <pubDate>Sat, 26 Sep 2026 23:42:11 GMT</pubDate>
+      <description><![CDATA[Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Enes Freedom rips Cheryl Reeve for saying women's sports advocates 'don’t want transgender people to exist'</title>
+      <link>https://www.foxnews.com/outkick-sports/enes-freedom-rips-cheryl-reeve-for-saying-womens-sports-advocates-dont-want-transgender-people-to-exist</link>
+      <guid isPermaLink="false">f11e5ca8a099e614a95995d1e9c81c7b46644a1f</guid>
+      <pubDate>Sat, 26 Sep 2026 23:32:55 GMT</pubDate>
+      <description><![CDATA[Enes Kanter Freedom called on Cheryl Reeve to step down after the Lynx coach said the transgender athletes debate targets trans people's existence.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Pope Leo draws staggering 800,000 faithful to heart of Paris for massive outdoor Mass</title>
+      <link>https://www.foxnews.com/world/pope-leo-draws-staggering-800000-faithful-heart-paris-massive-outdoor-mass</link>
+      <guid isPermaLink="false">7c689ea4368fdc2abd88a27e39a77023732ca6db</guid>
+      <pubDate>Sat, 26 Sep 2026 23:25:29 GMT</pubDate>
+      <description><![CDATA[Pope Leo XIV drew an estimated 800,000 to Place de la Concorde for a historic open-air Mass, urging French Catholics to share their faith openly.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ben Affleck admits his teenager roasted his dating history while at dinner</title>
+      <link>https://www.foxnews.com/entertainment/ben-affleck-admits-teenager-roasted-dating-history-dinner</link>
+      <guid isPermaLink="false">5da188eab587dd1017073f8c0b2f0e2060e82a6f</guid>
+      <pubDate>Sat, 26 Sep 2026 23:09:23 GMT</pubDate>
+      <description><![CDATA[Ben Affleck revealed on "Jimmy Kimmel Live!" that his 17-year-old roasted his relationship history at dinner, proving he's not the cool dad.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too</title>
+      <link>https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">310ab98e9db80f345362028c45f7fe64de2a040f</guid>
+      <pubDate>Sat, 26 Sep 2026 23:04:08 GMT</pubDate>
+      <description><![CDATA[Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop</title>
+      <link>https://www.bbc.co.uk/news/articles/cqn4knlj9v81o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">904892a1d87cd4d499d4c50c86d1f6deb1e74384</guid>
+      <pubDate>Sat, 26 Sep 2026 23:03:39 GMT</pubDate>
+      <description><![CDATA[UPFs are linked to a range of health problems. But no-one seems to be able to agree why.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?</title>
+      <link>https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ba161600ce873bab8f2c57e7d7f15d18ab80fabc</guid>
+      <pubDate>Sat, 26 Sep 2026 23:01:47 GMT</pubDate>
+      <description><![CDATA[The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Faisal Islam: The two big calls the chancellor has to make ahead of the Budget</title>
+      <link>https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">60a11c0db8595fea3772cf91ae6272e038e8c337</guid>
+      <pubDate>Sat, 26 Sep 2026 23:00:42 GMT</pubDate>
+      <description><![CDATA[He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nor’easter batters East Coast with flooding and dangerous surf — here’s where impacts are the worst</title>
+      <link>https://www.foxweather.com/weather-news/east-coast-communities-noreaster-worst-impacts</link>
+      <guid isPermaLink="false">a7b5617624805c426804759574015bc515fdf026</guid>
+      <pubDate>Sat, 26 Sep 2026 22:53:05 GMT</pubDate>
+      <description><![CDATA[The first nor’easter of the fall has arrived and is packing a punch for over 40 million Americans this weekend, bringing dangerous storm conditions to the East Coast.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Civilian detained after 'violently engaging' security personnel at Florida Air Force base: report</title>
+      <link>https://www.foxnews.com/us/civilian-detained-violently-engaging-security-personnel-florida-air-force-base</link>
+      <guid isPermaLink="false">cd654cc45ecef8dc4f547c974e2b6be1819399e3</guid>
+      <pubDate>Sat, 26 Sep 2026 22:50:34 GMT</pubDate>
+      <description><![CDATA[A civilian reportedly breached MacDill Air Force Base's perimeter and violently engaged security personnel, prompting the closure of the Dale Mabry Gate.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Texas dropped some celebrations against Tennessee that were about as unhinged as they come</title>
+      <link>https://www.foxnews.com/outkick-sports/texas-dropped-celebrations-tennessee-unhinged</link>
+      <guid isPermaLink="false">7024c47e1552b1a4504287f00dfcbef949df72ae</guid>
+      <pubDate>Sat, 26 Sep 2026 22:43:58 GMT</pubDate>
+      <description><![CDATA[Colin Simmons and Raleek Brown drew penalties and viral attention with bizarre below-the-belt celebrations during the Texas Longhorns' game at Tennessee.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump rejects Iran deal to reopen Strait of Hormuz in seven days</title>
+      <link>https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3808196cf27c416a948bfcee2cc7d687dda8d73e</guid>
+      <pubDate>Sat, 26 Sep 2026 22:15:59 GMT</pubDate>
+      <description><![CDATA[Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the "definitive views" of mediators.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nor'easter brings flooding as New York and New Jersey declare emergency</title>
+      <link>https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8e8dd43e1318e33ff13f2fc3bc37e848352d3a29</guid>
+      <pubDate>Sat, 26 Sep 2026 22:04:26 GMT</pubDate>
+      <description><![CDATA[Tens of millions of people from Maine to Virginia are in the path of the powerful storm.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Young people in China are fangirling over a professor who gets their anxiety</title>
+      <link>https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1fbc0bac96dcca086d5cb37a50c6d612cacab091</guid>
+      <pubDate>Sat, 26 Sep 2026 22:02:18 GMT</pubDate>
+      <description><![CDATA[China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Costco membership offers hidden savings beyond groceries: 5 perks to know</title>
+      <link>https://www.foxnews.com/food-drink/costco-membership-offers-hidden-savings-beyond-groceries-5-perks-know</link>
+      <guid isPermaLink="false">f495f4d4f55b6dfa89a2044a85da9b9741696969</guid>
+      <pubDate>Sat, 26 Sep 2026 21:45:44 GMT</pubDate>
+      <description><![CDATA[Costco executive membership perks extend far beyond bulk groceries, with hidden savings on gas, travel packages, gift cards and tire maintenance.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Arch Manning does interview with Holly Rowe after controversy over AI slapping video comment</title>
       <link>https://www.foxnews.com/outkick-sports/arch-manning-interview-holly-rowe-controversy-ai-slapping-video-comment</link>
       <guid isPermaLink="false">3a4367aca78a970cc5052d238a5ed5969195af9f</guid>
@@ -367,118 +487,6 @@
       <category>world</category>
     </item>
     <item>
-      <title>Shaun Cassidy says teen idol fame trapped him before he made drastic career move at 21</title>
-      <link>https://www.foxnews.com/entertainment/shaun-cassidy-teen-idol-fame-trapped-him-drastic-career-move-21</link>
-      <guid isPermaLink="false">9dd96a79e79196db19808da378f8bc56e725d59a</guid>
-      <pubDate>Sat, 26 Sep 2026 20:42:07 GMT</pubDate>
-      <description><![CDATA[Shaun Cassidy quit touring after his Astrodome show at 21, saying celebrity left him feeling like a prisoner and comparing it to Elvis' isolation.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Maher blasts ‘intolerant left’ after Massachusetts lesbian bar faces fury for tweaking COVID-era mask policy</title>
-      <link>https://www.foxnews.com/media/maher-blasts-tolerant-left-after-massachusetts-lesbian-bar-faces-fury-tweaking-covid-era-mask-policy</link>
-      <guid isPermaLink="false">d1077983af55413a8984478a8c25f2c4502d8ebb</guid>
-      <pubDate>Sat, 26 Sep 2026 20:32:09 GMT</pubDate>
-      <description><![CDATA[Comedian Bill Maher highlighted the struggling Last Ditch Bar, where lifting a COVID-era mask mandate one night a week sparked firebomb threats.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'</title>
-      <link>https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz</link>
-      <guid isPermaLink="false">0efa634cfa7dade89eafa2d0bc887f4090fad3e7</guid>
-      <pubDate>Sat, 26 Sep 2026 20:08:28 GMT</pubDate>
-      <description><![CDATA[President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ohio State's Jeremiah Smith is now the Heisman favorite following historic performance</title>
-      <link>https://www.foxnews.com/outkick-sports/ohio-state-jeremiah-smith-heisman-favorite-historic-performance</link>
-      <guid isPermaLink="false">489e357ecb96bdac9dab3148b9c72afc2ad790e5</guid>
-      <pubDate>Sat, 26 Sep 2026 19:59:10 GMT</pubDate>
-      <description><![CDATA[Jeremiah Smith tied Ohio State's single-game touchdown record with 4 TDs and 217 receiving yards against the Fighting Illini in a dominant win.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>No. 1 Texas escapes Tennessee with thrilling SEC victory as President Trump watches on from Neyland Stadium</title>
-      <link>https://www.foxnews.com/outkick-sports/texas-defense-rocks-tennessee-freshman-qb-strong-sec-victory-trump-attendance</link>
-      <guid isPermaLink="false">f40714e92bddf2a74776258f87e6a7b6ae460c63</guid>
-      <pubDate>Sat, 26 Sep 2026 19:53:25 GMT</pubDate>
-      <description><![CDATA[Texas silenced Neyland Stadium, as Colin Simmons recorded five sacks and Raleek Brown scored twice to beat Tennessee with President Donald Trump watching.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Startups bring innovation to defense industrial base</title>
-      <link>https://www.foxnews.com/tech/startups-bring-innovation-defense-industrial-base</link>
-      <guid isPermaLink="false">9b2eb31e971f9a75b92dd0f85c4b0e44850c30cc</guid>
-      <pubDate>Sat, 26 Sep 2026 19:52:27 GMT</pubDate>
-      <description><![CDATA[Startups are helping modernize America’s defense industry with new technology and innovative ideas as the War Department diversifies its inventory.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Vicious bear mauls couple until their French bulldog intervenes with tragic consequences</title>
-      <link>https://www.foxnews.com/travel/vicious-bear-mauls-couple-french-bulldog-intervenes-tragic-consequences</link>
-      <guid isPermaLink="false">46df6b72350d204849e9c2680437e65a1b7e64e6</guid>
-      <pubDate>Sat, 26 Sep 2026 19:35:22 GMT</pubDate>
-      <description><![CDATA[A black bear mauled a Northern California couple at their Trinity County home, and their French bulldog Cassie died reportedly trying to protect them from the attack.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Burnham announces scheme to help first-time buyers on to housing ladder</title>
-      <link>https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a8d7ccef371104fe24fa0ab4bf527701d26833b0</guid>
-      <pubDate>Sat, 26 Sep 2026 18:50:02 GMT</pubDate>
-      <description><![CDATA[The prime minister says he wants people without support from the "bank of mum and dad" to receive help.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump's home county hits pause on data centers over environment and electric bill concerns</title>
-      <link>https://www.foxnews.com/politics/trumps-home-county-hits-pause-data-centers-environment-electric-bill-concerns</link>
-      <guid isPermaLink="false">0d6c40552593227184ef893deb42fc2591aad7c7</guid>
-      <pubDate>Sat, 26 Sep 2026 17:58:21 GMT</pubDate>
-      <description><![CDATA[Palm Beach County passed a one-year moratorium on data centers amid concerns over environmental impact, noise pollution, and rising electric bills.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency</title>
-      <link>https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8e8dd43e1318e33ff13f2fc3bc37e848352d3a29</guid>
-      <pubDate>Sat, 26 Sep 2026 17:47:09 GMT</pubDate>
-      <description><![CDATA[Tens of millions of people from Maine to Virginia are in the path of the powerful storm.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Your favorite grocery and snack items may have disappeared from store shelves in 2026</title>
-      <link>https://www.foxnews.com/food-drink/favorite-grocery-snack-items-may-have-disappeared-store-shelves-2026</link>
-      <guid isPermaLink="false">130dc6aa5459e5fb37789c56dafded5ac4fa598a</guid>
-      <pubDate>Sat, 26 Sep 2026 17:43:27 GMT</pubDate>
-      <description><![CDATA[Minute Maid frozen juice, Blue Bell Butter Crunch and Cheetos Pizza Puffs are among beloved grocery products reportedly vanishing from shelves in 2026.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Cruz says winning AI race against China is 'single most important economic question' for America</title>
-      <link>https://www.foxnews.com/politics/cruz-winning-ai-race-against-china-single-most-important-economic-question-america</link>
-      <guid isPermaLink="false">bf4c4b9110298877ab766d35e84d3ad52a35e54e</guid>
-      <pubDate>Sat, 26 Sep 2026 17:14:16 GMT</pubDate>
-      <description><![CDATA[Ted Cruz claims China and "effective altruism" backers are waging a deliberate influence campaign to shape AI policy and data center debates.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>OpenAI says its models engaged with US government websites in misbehavior disclosure</title>
-      <link>https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior</link>
-      <guid isPermaLink="false">96c7d053ceec40a5792b984f0036be59168cb3f2</guid>
-      <pubDate>Sat, 26 Sep 2026 17:10:04 GMT</pubDate>
-      <description><![CDATA[The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Burnham announces scheme to help first-time buyers onto housing ladder</title>
-      <link>https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a8d7ccef371104fe24fa0ab4bf527701d26833b0</guid>
-      <pubDate>Sat, 26 Sep 2026 17:09:40 GMT</pubDate>
-      <description><![CDATA[The prime minister says he wants people without support from the "bank of mum and dad" to receive help.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Bryan Norcross: Major nor'easter impacts increase as Hurricane Nolo is closest to Hawaii, Polo heads to Mexico</title>
       <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-september-26-2026</link>
       <guid isPermaLink="false">6b2a1691c0a2158f7801b09f25f7be5c425667e9</guid>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">f76882768ff408616c81983155e14e6a6c0a97fa</guid>
       <pubDate>Fri, 25 Sep 2026 10:45:39 GMT</pubDate>
       <description><![CDATA[Hurricane Nolo is forecast to strengthen into a major hurricane and make an exceptionally close pass near Hawaii, bringing the threat of torrential rain, catastrophic flooding, mudslides and damaging winds to the Big Island.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Hurricane Polo to slam Mexico as monster Cat 5 storm, fuel major flood threat across the Southwest next week</title>
-      <link>https://www.foxweather.com/weather-news/historic-hurricane-polo-takes-aim-mexico-threatens-renewed-flooding-across-southwest</link>
-      <guid isPermaLink="false">ae8b4a21a0b5b856606b9630dc389603f4a3905e</guid>
-      <pubDate>Fri, 25 Sep 2026 01:25:31 GMT</pubDate>
-      <description><![CDATA[Hurricane Polo continues to be a Category 5 storm as it spins through the East Pacific, forecast to make landfall in Mexico and fuel a renewed flooding threat across the Southwestern U.S. next week.]]></description>
       <category>weather</category>
     </item>
   </channel>
