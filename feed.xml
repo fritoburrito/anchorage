@@ -5,45 +5,53 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 06:06:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:08:10 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Tonight - Rain Showers Likely</title>
+      <title>Ten NHS staff removed over Noah Woods data breach</title>
+      <link>https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">73672104beb027bec86c46c55ef555840664f726</guid>
+      <pubDate>Sun, 27 Sep 2026 11:08:10 GMT</pubDate>
+      <description><![CDATA[East Suffolk and North Essex NHS Foundation Trust says it has launched an "urgent" investigation.]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Overnight - Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 06:06:39 GMT</pubDate>
-      <description><![CDATA[42°F. Wind N 5 mph. Rain showers likely after 10pm. Mostly cloudy, with a low around 42. North wind around 5 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Sun, 27 Sep 2026 12:39:52 GMT</pubDate>
+      <description><![CDATA[42°F. Wind N 5 mph. Rain showers likely. Mostly cloudy, with a low around 42. North wind around 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday - Isolated Rain Showers then Mostly Cloudy</title>
+      <title>Anchorage Weather: Sunday - Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 06:06:39 GMT</pubDate>
-      <description><![CDATA[53°F. Wind N 5 mph. Isolated rain showers before 7am. Mostly cloudy, with a high near 53. North wind around 5 mph. Chance of precipitation is 20%.]]></description>
+      <pubDate>Sun, 27 Sep 2026 12:39:52 GMT</pubDate>
+      <description><![CDATA[53°F. Wind N 5 mph. A chance of rain showers. Partly sunny, with a high near 53. North wind around 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday Night - Mostly Cloudy</title>
+      <title>Anchorage Weather: Sunday Night - Chance Rain Showers then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 06:06:39 GMT</pubDate>
-      <description><![CDATA[41°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 41. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Sun, 27 Sep 2026 12:39:52 GMT</pubDate>
+      <description><![CDATA[39°F. Wind N 0 to 5 mph. A chance of rain showers before 10pm. Mostly cloudy, with a low around 39. North wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Monday - Partly Sunny</title>
+      <title>Anchorage Weather: Monday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 06:06:39 GMT</pubDate>
-      <description><![CDATA[52°F. Wind NE 0 to 5 mph. Partly sunny, with a high near 52. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Sun, 27 Sep 2026 12:39:52 GMT</pubDate>
+      <description><![CDATA[53°F. Wind  0 mph. Mostly sunny, with a high near 53. North wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Monday Night - Mostly Cloudy</title>
+      <title>Anchorage Weather: Monday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 06:06:39 GMT</pubDate>
-      <description><![CDATA[37°F. Wind SE 0 to 5 mph. Mostly cloudy, with a low around 37. Southeast wind 0 to 5 mph.]]></description>
+      <pubDate>Sun, 27 Sep 2026 12:39:52 GMT</pubDate>
+      <description><![CDATA[38°F. Wind S 0 to 5 mph. Partly cloudy, with a low around 38. South wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -311,163 +319,155 @@
       <category>local</category>
     </item>
     <item>
-      <title>Investigation launched as NHS trust apologises for Noah Woods data breach</title>
-      <link>https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">73672104beb027bec86c46c55ef555840664f726</guid>
-      <pubDate>Sun, 27 Sep 2026 05:58:08 GMT</pubDate>
-      <description><![CDATA[East Suffolk and North Essex NHS Foundation Trust has apologised to the family for "extra anguish" caused.]]></description>
+      <title>Nor'easter brings flooding as New York and New Jersey declare emergency</title>
+      <link>https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8e8dd43e1318e33ff13f2fc3bc37e848352d3a29</guid>
+      <pubDate>Sun, 27 Sep 2026 12:34:26 GMT</pubDate>
+      <description><![CDATA[Tens of millions of people from Maine to Virginia are in the path of the powerful storm.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Four American tourists among 6 killed after explosion levels building near Athens’ Acropolis</title>
+      <link>https://www.foxnews.com/world/four-american-tourists-among-6-killed-after-explosion-levels-building-near-athens-acropolis</link>
+      <guid isPermaLink="false">9068a19eceedec2ac4c3fe76c433210738f9f2d7</guid>
+      <pubDate>Sun, 27 Sep 2026 12:32:40 GMT</pubDate>
+      <description><![CDATA[A suspected gas leak caused an explosions that leveled a residential building in Athens' Plaka district near the Acropolis, killing four American tourists and two residents.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Burnham announces scheme to help first-time buyers on to housing ladder</title>
-      <link>https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a8d7ccef371104fe24fa0ab4bf527701d26833b0</guid>
-      <pubDate>Sun, 27 Sep 2026 05:00:42 GMT</pubDate>
-      <description><![CDATA[The prime minister says he wants people without support from the "bank of mum and dad" to receive help.]]></description>
+      <title>Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on NFL Week 3, Ravens-Cowboys, Rams-Broncos</title>
+      <link>https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-nfl-week-3-ravens-cowboys-rams-broncos</link>
+      <guid isPermaLink="false">b49e3158149867d7239b43e77b30823af218eefd</guid>
+      <pubDate>Sun, 27 Sep 2026 12:28:41 GMT</pubDate>
+      <description><![CDATA[Use Fanatics Sportsbook promo code FOXNEWS350 to bet $20 and get $350 in bonus bets during NFL Week 3, including Ravens-Cowboys and Rams-Broncos.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Florida man, 76, with suspended license allegedly admits to driving under the influence of rum, cocaine</title>
-      <link>https://www.foxnews.com/us/florida-man-76-suspended-license-allegedly-admits-driving-under-influence-rum-cocaine</link>
-      <guid isPermaLink="false">b4ce2303c1ca0ae6e3e5c35d917570fc77dbda4b</guid>
-      <pubDate>Sun, 27 Sep 2026 04:46:44 GMT</pubDate>
-      <description><![CDATA[Charles Ducking, 76, allegedly showed deputies his rum cup and admitted to doing cocaine minutes before a traffic stop in Polk County, Florida.]]></description>
+      <title>Burnham proposes NHS-style social care system for England</title>
+      <link>https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0f3f07af609574cfb776ef18e1b4c301dfa0ced0</guid>
+      <pubDate>Sun, 27 Sep 2026 12:27:02 GMT</pubDate>
+      <description><![CDATA[The prime minister told the BBC that social care in England is "as unfair as American healthcare".]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Bangkok roads submerged as flood disaster declared</title>
-      <link>https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">87c1ee75463307c836ff09e8b52b181fb31a6c31</guid>
-      <pubDate>Sun, 27 Sep 2026 04:45:08 GMT</pubDate>
-      <description><![CDATA[Authorities said the heavy rains have subsided but the flooding is not yet over.]]></description>
+      <title>Underdog Promo Code FOXNEWS: Get a $1k Deposit Match + Keep Your Million Promo For NFL Week 3</title>
+      <link>https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-get-1k-deposit-match-keep-your-million-promo-nfl-week-3</link>
+      <guid isPermaLink="false">e64351eee20cc4f35b264073ed1b729aacbc39d0</guid>
+      <pubDate>Sun, 27 Sep 2026 12:11:02 GMT</pubDate>
+      <description><![CDATA[Use Underdog promo code FOXNEWS to get a $1,000 deposit match and keep your Million offer for NFL Week 3. See how the promotion works.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama</title>
-      <link>https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0d6b06bffec9a6e4f7d4aa729464a16788c9ceae</guid>
-      <pubDate>Sun, 27 Sep 2026 04:15:40 GMT</pubDate>
-      <description><![CDATA[The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead on Sunday after a series of legal challenges.]]></description>
+      <title>Bet365 Bonus Code: $200 in Bonus Bets When You Win or Lose on NFL Sunday</title>
+      <link>https://www.foxnews.com/outkick-betting/bet365-bonus-code-200-in-bonus-bets-when-you-win-or-lose-on-nfl-sunday</link>
+      <guid isPermaLink="false">0e74188978b294ed5d9e84708e900d6c869d0951</guid>
+      <pubDate>Sun, 27 Sep 2026 12:08:30 GMT</pubDate>
+      <description><![CDATA[Get the bet365 bonus code and claim $200 in bonus bets when you win or lose a qualifying $10 wager on the Week 3 NFL Sunday slate.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Hank Brown's last-second touchdown pass lifts Iowa to 20-19 win over Michigan in Big Ten</title>
-      <link>https://www.foxnews.com/outkick-sports/hank-browns-last-second-touchdown-pass-lifts-iowa-20-19-win-michigan-big-ten</link>
-      <guid isPermaLink="false">559faf13f09f6540cd6734ed7f2800bdf1806eae</guid>
-      <pubDate>Sun, 27 Sep 2026 02:50:28 GMT</pubDate>
-      <description><![CDATA[Hank Brown's 16-yard scoring strike to Reece Vander Zee with 2 seconds left gave the Iowa Hawkeyes a dramatic 20-19 Big Ten win over Michigan.]]></description>
+      <title>Popular food could boost heart health, but the amount you need to eat may surprise you</title>
+      <link>https://www.foxnews.com/food-drink/popular-food-could-boost-heart-health-amount-you-need-eat-may-surprise-you</link>
+      <guid isPermaLink="false">c030656763aa3d5a9f2ac5e9b71d829dbe6c1406</guid>
+      <pubDate>Sun, 27 Sep 2026 12:00:22 GMT</pubDate>
+      <description><![CDATA[A major meta-analysis of 87 trials reveals that 60 to 100 grams of whole grains daily may lower cholesterol, blood pressure and blood sugar levels.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Four killed in helicopter crash near Montreal</title>
-      <link>https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">dc48422dcce487ef971dda91935a25e77796e982</guid>
-      <pubDate>Sun, 27 Sep 2026 02:43:10 GMT</pubDate>
-      <description><![CDATA[The victims of the crash have not yet been identified, Quebec provincial police told the BBC.]]></description>
+      <title>Florida sex offender accused of babysitting-ad trap as police investigate potential interstate predator</title>
+      <link>https://www.foxnews.com/us/florida-sex-offender-accused-babysitting-ad-trap-police-investigate-potential-interstate-predator</link>
+      <guid isPermaLink="false">e6c1f02a1240461dd0baee450b995d12708ed596</guid>
+      <pubDate>Sun, 27 Sep 2026 12:00:08 GMT</pubDate>
+      <description><![CDATA[Julius Hunter allegedly lured a teen to a fake $300 babysitting job on Craigslist before a hours-long sexual assault at a Clarkston apartment.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal</title>
-      <link>https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f453a8e0ddb5f28b4208e337cf5fa24be1692e95</guid>
-      <pubDate>Sun, 27 Sep 2026 02:16:52 GMT</pubDate>
-      <description><![CDATA[The US president earlier said that Tehran only made the proposal to open the strait within seven days because "they're losing so badly".]]></description>
+      <title>Playing 'La Bamba' for an hour? Must be a Mexican fandango!</title>
+      <link>https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango</link>
+      <guid isPermaLink="false">9f14608cc2882b51faa9ca20ad214d3638ad68be</guid>
+      <pubDate>Sun, 27 Sep 2026 12:00:00 GMT</pubDate>
+      <description><![CDATA[A 300-year-old Mexican musical tradition is finding new life around the world — one sweaty, joyous, all-night fandango at a time.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Israeli UN envoy's Starlink video reaches millions, with nearly 40% of Instagram viewers in Iran</title>
-      <link>https://www.foxnews.com/world/israeli-un-envoy-starlink-video-reaches-millions-nearly-40-percent-instagram-viewers-iran</link>
-      <guid isPermaLink="false">a738798fdcb19888a2be9acdb81ea05c2c05359a</guid>
-      <pubDate>Sun, 27 Sep 2026 02:04:33 GMT</pubDate>
-      <description><![CDATA[Danny Danon's viral Starlink video drew 9 million views, with nearly 40% of Instagram viewers in Iran, his office says, prompting a counter-campaign.]]></description>
+      <title>Rob Gronkowski says Caleb Williams' viral injury reaction was about 'passion' – not pain</title>
+      <link>https://www.foxnews.com/outkick-sports/rob-gronkowski-says-caleb-williams-viral-injury-reaction-passion-not-pain</link>
+      <guid isPermaLink="false">633a5741bc58fb66ae961fcdc0ea700a9477f71c</guid>
+      <pubDate>Sun, 27 Sep 2026 11:58:28 GMT</pubDate>
+      <description><![CDATA[Rob Gronkowski said Caleb Williams' viral hamstring injury reaction was driven by "passion," instead of the pain, drawing on his own 11-year NFL career.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Oregon Ducks QB Dante Moore carted off the field after a vicious hit to the head against USC</title>
-      <link>https://www.foxnews.com/outkick-sports/oregon-ducks-qb-dante-moore-carted-off-field-vicious-hit-head-usc</link>
-      <guid isPermaLink="false">76684966671a268ff0c1471e60bffbfa9e8c560c</guid>
-      <pubDate>Sun, 27 Sep 2026 01:50:53 GMT</pubDate>
-      <description><![CDATA[Dante Moore was carted off the field after a brutal hit during the Oregon Ducks vs. USC Trojans game, with the targeting penalty ejecting the defender.]]></description>
+      <title>Photos: These shepherds climb down a mountain to go to night school</title>
+      <link>https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho</link>
+      <guid isPermaLink="false">3d515067f5a3c1adc23f3a52473ba28bc5dcec66</guid>
+      <pubDate>Sun, 27 Sep 2026 11:53:42 GMT</pubDate>
+      <description><![CDATA[Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Hiker falls up to 1,000 feet to his death day after another body found on same mountain</title>
-      <link>https://www.foxnews.com/us/hiker-falls-1000-feet-death-day-after-another-body-found-same-mountain</link>
-      <guid isPermaLink="false">762114aae26bad4efb03dd3da682a3e5fc014cd2</guid>
-      <pubDate>Sun, 27 Sep 2026 01:47:22 GMT</pubDate>
-      <description><![CDATA[Gary Idleburg fell 800 to 1,000 feet from a Sauk Mountain switchback trail in Skagit County, marking the second hiker death there in two days.]]></description>
+      <title>College football week 4 contenders, pretenders: Texas survives, Michigan's karma and coaches are sweating</title>
+      <link>https://www.foxnews.com/outkick-sports/college-football-week-4-contenders-pretenders-texas-survives-michigans-karma-coaches-sweating</link>
+      <guid isPermaLink="false">4d8a8ddd422cfcd387c74a79662f86b0a2e725da</guid>
+      <pubDate>Sun, 27 Sep 2026 11:42:28 GMT</pubDate>
+      <description><![CDATA[Iowa stunned Michigan on a last-second touchdown, and LSU's Lane Kiffin sent Texas A&M fans into panic mode on a wild college football Saturday.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Florida drops impressive offensive performance to pull off massive win over No. 4 Ole Miss</title>
-      <link>https://www.foxnews.com/outkick-sports/florida-drops-impressive-offensive-performance-pull-off-massive-win-no-4-ole-miss</link>
-      <guid isPermaLink="false">02b62f5727ff24922610c8c2c7b90ddba5b756c7</guid>
-      <pubDate>Sun, 27 Sep 2026 00:04:51 GMT</pubDate>
-      <description><![CDATA[The Florida Gators stunned No. 4 Ole Miss in the Swamp with a dominant ground game as two running backs each rushed for over 100 yards in the win.]]></description>
+      <title>UK police arrest 'explosive' suspects near US airbase, key to Iran war</title>
+      <link>https://www.foxnews.com/world/uk-police-arrest-explosive-suspects-near-us-airbase-key-iran-war</link>
+      <guid isPermaLink="false">2bddf4294cc0117692ec4e7be6223b13a156d46b</guid>
+      <pubDate>Sun, 27 Sep 2026 11:40:54 GMT</pubDate>
+      <description><![CDATA[Multiple suspects were arrested under the Explosives Act near RAF Fairford, prompting evacuations as explosive ordnance disposal teams examined vehicles.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Court of Appeal overturns ban on Drumcree parade</title>
-      <link>https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0d6b06bffec9a6e4f7d4aa729464a16788c9ceae</guid>
-      <pubDate>Sat, 26 Sep 2026 23:42:11 GMT</pubDate>
-      <description><![CDATA[Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road]]></description>
+      <title>'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit</title>
+      <link>https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">007fe3baf6f8ebaa67964f5822d50f7eda09c54a</guid>
+      <pubDate>Sun, 27 Sep 2026 11:38:03 GMT</pubDate>
+      <description><![CDATA[Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Enes Freedom rips Cheryl Reeve for saying women's sports advocates 'don’t want transgender people to exist'</title>
-      <link>https://www.foxnews.com/outkick-sports/enes-freedom-rips-cheryl-reeve-for-saying-womens-sports-advocates-dont-want-transgender-people-to-exist</link>
-      <guid isPermaLink="false">f11e5ca8a099e614a95995d1e9c81c7b46644a1f</guid>
-      <pubDate>Sat, 26 Sep 2026 23:32:55 GMT</pubDate>
-      <description><![CDATA[Enes Kanter Freedom called on Cheryl Reeve to step down after the Lynx coach said the transgender athletes debate targets trans people's existence.]]></description>
+      <title>Pope says 'scourge' of abuse must be rooted out as he visits Lourdes</title>
+      <link>https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">007fe3baf6f8ebaa67964f5822d50f7eda09c54a</guid>
+      <pubDate>Sun, 27 Sep 2026 11:38:03 GMT</pubDate>
+      <description><![CDATA[Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Pope Leo draws staggering 800,000 faithful to heart of Paris for massive outdoor Mass</title>
-      <link>https://www.foxnews.com/world/pope-leo-draws-staggering-800000-faithful-heart-paris-massive-outdoor-mass</link>
-      <guid isPermaLink="false">7c689ea4368fdc2abd88a27e39a77023732ca6db</guid>
-      <pubDate>Sat, 26 Sep 2026 23:25:29 GMT</pubDate>
-      <description><![CDATA[Pope Leo XIV drew an estimated 800,000 to Place de la Concorde for a historic open-air Mass, urging French Catholics to share their faith openly.]]></description>
+      <title>Knicks star Jalen Brunson shows some solid comedy chops in as 'SNL' season opening host</title>
+      <link>https://www.foxnews.com/outkick-sports/knicks-star-jalen-brunson-shows-solid-comedy-chops-snl-season-opening-host</link>
+      <guid isPermaLink="false">86dbf2d451d5ebedf8efd0b340458b6ab6cb9037</guid>
+      <pubDate>Sun, 27 Sep 2026 11:30:37 GMT</pubDate>
+      <description><![CDATA[Jalen Brunson brought his Knicks teammates Josh Hart, Mikal Bridges, OG Anunoby, and Karl-Anthony Towns along for his "SNL" hosting monologue.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Ben Affleck admits his teenager roasted his dating history while at dinner</title>
-      <link>https://www.foxnews.com/entertainment/ben-affleck-admits-teenager-roasted-dating-history-dinner</link>
-      <guid isPermaLink="false">5da188eab587dd1017073f8c0b2f0e2060e82a6f</guid>
-      <pubDate>Sat, 26 Sep 2026 23:09:23 GMT</pubDate>
-      <description><![CDATA[Ben Affleck revealed on "Jimmy Kimmel Live!" that his 17-year-old roasted his relationship history at dinner, proving he's not the cool dad.]]></description>
+      <title>From professor to patient: One man's journey on the frontier of lung cancer treatment</title>
+      <link>https://www.npr.org/2026/09/27/nx-s1-5981264/lung-cancer-treatment-mrna-affordability</link>
+      <guid isPermaLink="false">af048b2ad82bfdbef37f718ebcd9c93cdada7a89</guid>
+      <pubDate>Sun, 27 Sep 2026 11:00:00 GMT</pubDate>
+      <description><![CDATA[Lung cancer is still the top cancer killer, but new developments are shifting what the future might hold for patients.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too</title>
-      <link>https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">310ab98e9db80f345362028c45f7fe64de2a040f</guid>
-      <pubDate>Sat, 26 Sep 2026 23:04:08 GMT</pubDate>
-      <description><![CDATA[Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.]]></description>
+      <title>Multiple arrests on suspicion of explosives offenses near U.K. base used by U.S. forces</title>
+      <link>https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces</link>
+      <guid isPermaLink="false">f54eb9bb7245a7ab683e261ce3a1f57f3beb272f</guid>
+      <pubDate>Sun, 27 Sep 2026 10:49:36 GMT</pubDate>
+      <description><![CDATA[Police evacuated homes Sunday near an air base in England used by the U.S. and arrested several men over suspected explosives offenses.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop</title>
-      <link>https://www.bbc.co.uk/news/articles/cqn4knlj9v81o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">904892a1d87cd4d499d4c50c86d1f6deb1e74384</guid>
-      <pubDate>Sat, 26 Sep 2026 23:03:39 GMT</pubDate>
-      <description><![CDATA[UPFs are linked to a range of health problems. But no-one seems to be able to agree why.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?</title>
-      <link>https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ba161600ce873bab8f2c57e7d7f15d18ab80fabc</guid>
-      <pubDate>Sat, 26 Sep 2026 23:01:47 GMT</pubDate>
-      <description><![CDATA[The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Faisal Islam: The two big calls the chancellor has to make ahead of the Budget</title>
-      <link>https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">60a11c0db8595fea3772cf91ae6272e038e8c337</guid>
-      <pubDate>Sat, 26 Sep 2026 23:00:42 GMT</pubDate>
-      <description><![CDATA[He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.]]></description>
+      <title>Two mass shootings in South Africa leave 27 dead</title>
+      <link>https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fa9c2e8e5738dffc9cef784bfbcbc5de682065f8</guid>
+      <pubDate>Sun, 27 Sep 2026 10:00:36 GMT</pubDate>
+      <description><![CDATA[The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.]]></description>
       <category>world</category>
     </item>
     <item>
