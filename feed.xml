@@ -5,20 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 00:08:29 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Partly Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 00:08:29 GMT</pubDate>
-      <description><![CDATA[55°F. Wind N 5 mph. Partly sunny, with a high near 55. North wind around 5 mph.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Sun, 27 Sep 2026 06:06:39 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 00:08:29 GMT</pubDate>
+      <pubDate>Sun, 27 Sep 2026 06:06:39 GMT</pubDate>
       <description><![CDATA[42°F. Wind N 5 mph. Rain showers likely after 10pm. Mostly cloudy, with a low around 42. North wind around 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +18,7 @@
       <title>Anchorage Weather: Sunday - Isolated Rain Showers then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 00:08:29 GMT</pubDate>
+      <pubDate>Sun, 27 Sep 2026 06:06:39 GMT</pubDate>
       <description><![CDATA[53°F. Wind N 5 mph. Isolated rain showers before 7am. Mostly cloudy, with a high near 53. North wind around 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Sunday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 00:08:29 GMT</pubDate>
+      <pubDate>Sun, 27 Sep 2026 06:06:39 GMT</pubDate>
       <description><![CDATA[41°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 41. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +34,25 @@
       <title>Anchorage Weather: Monday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 00:08:29 GMT</pubDate>
+      <pubDate>Sun, 27 Sep 2026 06:06:39 GMT</pubDate>
       <description><![CDATA[52°F. Wind NE 0 to 5 mph. Partly sunny, with a high near 52. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday Night - Mostly Cloudy</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 27 Sep 2026 06:06:39 GMT</pubDate>
+      <description><![CDATA[37°F. Wind SE 0 to 5 mph. Mostly cloudy, with a low around 37. Southeast wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Murkowski Takes Multiple Actions to Protect Ukrainians in the United States</title>
+      <link>https://alaska-native-news.com/murkowski-takes-multiple-actions-to-protect-ukrainians-in-the-united-states/86433/</link>
+      <guid isPermaLink="false">c53d69cb26ba85e2c488927de3fd67f13abb0fe4</guid>
+      <pubDate>Sun, 27 Sep 2026 00:08:38 GMT</pubDate>
+      <description><![CDATA[Washington, DC—U.S. Senator Lisa Murkowski (R-AK) has joined a series of bipartisan efforts this week to protect Ukrainians who sought refuge in the United States following Russia’s invasion of Ukraine. The measures include legislation to provide a pathway to permanent residency, as well as a push for the administration to extend Temporary Protected Status (TPS) […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Juneau homeowners await word on buyout of flood-threatened properties</title>
@@ -303,20 +311,100 @@
       <category>local</category>
     </item>
     <item>
-      <title>Kenai Peninsula flu rate triples ahead of traditional season</title>
-      <link>https://www.homernews.com/2026/09/24/kenai-peninsula-flu-rate-triples-ahead-of-traditional-season/</link>
-      <guid isPermaLink="false">6618ac99a8d9748d05e7e9723e676619c3c5de34</guid>
-      <pubDate>Fri, 25 Sep 2026 05:30:00 GMT</pubDate>
-      <description><![CDATA[State data show lab-confirmed infections rising as Alaska enters new season]]></description>
-      <category>local</category>
+      <title>Investigation launched as NHS trust apologises for Noah Woods data breach</title>
+      <link>https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">73672104beb027bec86c46c55ef555840664f726</guid>
+      <pubDate>Sun, 27 Sep 2026 05:58:08 GMT</pubDate>
+      <description><![CDATA[East Suffolk and North Essex NHS Foundation Trust has apologised to the family for "extra anguish" caused.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Different race, same checkbook: billionaire who backed Mamdani also backs Bill Hill</title>
-      <link>https://mustreadalaska.com/different-race-same-checkbook-billionaire-who-backed-mamdani-also-backs-bill-hill/</link>
-      <guid isPermaLink="false">e835517a95fb4b990d2a22c7fd769a28ac70d457</guid>
-      <pubDate>Fri, 25 Sep 2026 02:14:40 GMT</pubDate>
-      <description><![CDATA[A mailer circulating in Alaska claims independent House candidate Bill Hill “rails against billionaires while taking money from the top funder of socialist mayor Zohran Mamdani’s Super PAC.” Reports and FEC receipts reveal the same California billionaire who gifted a quarter million dollars to the Super PAC that backed Mamdani also donated the maximum legal […] The post Different race, same checkbook: billionaire who backed Mamdani also backs Bill Hill appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Burnham announces scheme to help first-time buyers on to housing ladder</title>
+      <link>https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a8d7ccef371104fe24fa0ab4bf527701d26833b0</guid>
+      <pubDate>Sun, 27 Sep 2026 05:00:42 GMT</pubDate>
+      <description><![CDATA[The prime minister says he wants people without support from the "bank of mum and dad" to receive help.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Florida man, 76, with suspended license allegedly admits to driving under the influence of rum, cocaine</title>
+      <link>https://www.foxnews.com/us/florida-man-76-suspended-license-allegedly-admits-driving-under-influence-rum-cocaine</link>
+      <guid isPermaLink="false">b4ce2303c1ca0ae6e3e5c35d917570fc77dbda4b</guid>
+      <pubDate>Sun, 27 Sep 2026 04:46:44 GMT</pubDate>
+      <description><![CDATA[Charles Ducking, 76, allegedly showed deputies his rum cup and admitted to doing cocaine minutes before a traffic stop in Polk County, Florida.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bangkok roads submerged as flood disaster declared</title>
+      <link>https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">87c1ee75463307c836ff09e8b52b181fb31a6c31</guid>
+      <pubDate>Sun, 27 Sep 2026 04:45:08 GMT</pubDate>
+      <description><![CDATA[Authorities said the heavy rains have subsided but the flooding is not yet over.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama</title>
+      <link>https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0d6b06bffec9a6e4f7d4aa729464a16788c9ceae</guid>
+      <pubDate>Sun, 27 Sep 2026 04:15:40 GMT</pubDate>
+      <description><![CDATA[The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead on Sunday after a series of legal challenges.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hank Brown's last-second touchdown pass lifts Iowa to 20-19 win over Michigan in Big Ten</title>
+      <link>https://www.foxnews.com/outkick-sports/hank-browns-last-second-touchdown-pass-lifts-iowa-20-19-win-michigan-big-ten</link>
+      <guid isPermaLink="false">559faf13f09f6540cd6734ed7f2800bdf1806eae</guid>
+      <pubDate>Sun, 27 Sep 2026 02:50:28 GMT</pubDate>
+      <description><![CDATA[Hank Brown's 16-yard scoring strike to Reece Vander Zee with 2 seconds left gave the Iowa Hawkeyes a dramatic 20-19 Big Ten win over Michigan.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Four killed in helicopter crash near Montreal</title>
+      <link>https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">dc48422dcce487ef971dda91935a25e77796e982</guid>
+      <pubDate>Sun, 27 Sep 2026 02:43:10 GMT</pubDate>
+      <description><![CDATA[The victims of the crash have not yet been identified, Quebec provincial police told the BBC.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal</title>
+      <link>https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f453a8e0ddb5f28b4208e337cf5fa24be1692e95</guid>
+      <pubDate>Sun, 27 Sep 2026 02:16:52 GMT</pubDate>
+      <description><![CDATA[The US president earlier said that Tehran only made the proposal to open the strait within seven days because "they're losing so badly".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Israeli UN envoy's Starlink video reaches millions, with nearly 40% of Instagram viewers in Iran</title>
+      <link>https://www.foxnews.com/world/israeli-un-envoy-starlink-video-reaches-millions-nearly-40-percent-instagram-viewers-iran</link>
+      <guid isPermaLink="false">a738798fdcb19888a2be9acdb81ea05c2c05359a</guid>
+      <pubDate>Sun, 27 Sep 2026 02:04:33 GMT</pubDate>
+      <description><![CDATA[Danny Danon's viral Starlink video drew 9 million views, with nearly 40% of Instagram viewers in Iran, his office says, prompting a counter-campaign.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Oregon Ducks QB Dante Moore carted off the field after a vicious hit to the head against USC</title>
+      <link>https://www.foxnews.com/outkick-sports/oregon-ducks-qb-dante-moore-carted-off-field-vicious-hit-head-usc</link>
+      <guid isPermaLink="false">76684966671a268ff0c1471e60bffbfa9e8c560c</guid>
+      <pubDate>Sun, 27 Sep 2026 01:50:53 GMT</pubDate>
+      <description><![CDATA[Dante Moore was carted off the field after a brutal hit during the Oregon Ducks vs. USC Trojans game, with the targeting penalty ejecting the defender.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hiker falls up to 1,000 feet to his death day after another body found on same mountain</title>
+      <link>https://www.foxnews.com/us/hiker-falls-1000-feet-death-day-after-another-body-found-same-mountain</link>
+      <guid isPermaLink="false">762114aae26bad4efb03dd3da682a3e5fc014cd2</guid>
+      <pubDate>Sun, 27 Sep 2026 01:47:22 GMT</pubDate>
+      <description><![CDATA[Gary Idleburg fell 800 to 1,000 feet from a Sauk Mountain switchback trail in Skagit County, marking the second hiker death there in two days.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Florida drops impressive offensive performance to pull off massive win over No. 4 Ole Miss</title>
+      <link>https://www.foxnews.com/outkick-sports/florida-drops-impressive-offensive-performance-pull-off-massive-win-no-4-ole-miss</link>
+      <guid isPermaLink="false">02b62f5727ff24922610c8c2c7b90ddba5b756c7</guid>
+      <pubDate>Sun, 27 Sep 2026 00:04:51 GMT</pubDate>
+      <description><![CDATA[The Florida Gators stunned No. 4 Ole Miss in the Swamp with a dominant ground game as two running backs each rushed for over 100 yards in the win.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Court of Appeal overturns ban on Drumcree parade</title>
@@ -391,102 +479,6 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Civilian detained after 'violently engaging' security personnel at Florida Air Force base: report</title>
-      <link>https://www.foxnews.com/us/civilian-detained-violently-engaging-security-personnel-florida-air-force-base</link>
-      <guid isPermaLink="false">cd654cc45ecef8dc4f547c974e2b6be1819399e3</guid>
-      <pubDate>Sat, 26 Sep 2026 22:50:34 GMT</pubDate>
-      <description><![CDATA[A civilian reportedly breached MacDill Air Force Base's perimeter and violently engaged security personnel, prompting the closure of the Dale Mabry Gate.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Texas dropped some celebrations against Tennessee that were about as unhinged as they come</title>
-      <link>https://www.foxnews.com/outkick-sports/texas-dropped-celebrations-tennessee-unhinged</link>
-      <guid isPermaLink="false">7024c47e1552b1a4504287f00dfcbef949df72ae</guid>
-      <pubDate>Sat, 26 Sep 2026 22:43:58 GMT</pubDate>
-      <description><![CDATA[Colin Simmons and Raleek Brown drew penalties and viral attention with bizarre below-the-belt celebrations during the Texas Longhorns' game at Tennessee.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump rejects Iran deal to reopen Strait of Hormuz in seven days</title>
-      <link>https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3808196cf27c416a948bfcee2cc7d687dda8d73e</guid>
-      <pubDate>Sat, 26 Sep 2026 22:15:59 GMT</pubDate>
-      <description><![CDATA[Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the "definitive views" of mediators.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nor'easter brings flooding as New York and New Jersey declare emergency</title>
-      <link>https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8e8dd43e1318e33ff13f2fc3bc37e848352d3a29</guid>
-      <pubDate>Sat, 26 Sep 2026 22:04:26 GMT</pubDate>
-      <description><![CDATA[Tens of millions of people from Maine to Virginia are in the path of the powerful storm.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Young people in China are fangirling over a professor who gets their anxiety</title>
-      <link>https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1fbc0bac96dcca086d5cb37a50c6d612cacab091</guid>
-      <pubDate>Sat, 26 Sep 2026 22:02:18 GMT</pubDate>
-      <description><![CDATA[China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Costco membership offers hidden savings beyond groceries: 5 perks to know</title>
-      <link>https://www.foxnews.com/food-drink/costco-membership-offers-hidden-savings-beyond-groceries-5-perks-know</link>
-      <guid isPermaLink="false">f495f4d4f55b6dfa89a2044a85da9b9741696969</guid>
-      <pubDate>Sat, 26 Sep 2026 21:45:44 GMT</pubDate>
-      <description><![CDATA[Costco executive membership perks extend far beyond bulk groceries, with hidden savings on gas, travel packages, gift cards and tire maintenance.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Arch Manning does interview with Holly Rowe after controversy over AI slapping video comment</title>
-      <link>https://www.foxnews.com/outkick-sports/arch-manning-interview-holly-rowe-controversy-ai-slapping-video-comment</link>
-      <guid isPermaLink="false">3a4367aca78a970cc5052d238a5ed5969195af9f</guid>
-      <pubDate>Sat, 26 Sep 2026 21:37:56 GMT</pubDate>
-      <description><![CDATA[Arch Manning and Holly Rowe shared a cordial postgame interview after Texas' 20-17 win over Tennessee, weeks after the AI video controversy.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Arch Manning revels in cigar smoke: Texas leaves Neyland with win—and a warning for college football</title>
-      <link>https://www.foxnews.com/outkick-sports/arch-manning-revels-cigar-smoke-texas-leaves-neyland-win-warning-college-football</link>
-      <guid isPermaLink="false">92de6884d4ace968b92ec035b974b0bb3ff5ee7c</guid>
-      <pubDate>Sat, 26 Sep 2026 21:15:25 GMT</pubDate>
-      <description><![CDATA[Steve Sarkisian refused to apologize for how the Texas Longhorns won at Tennessee, noting they still have seven ranked opponents left to play.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Trump gave Xi Jinping a warm welcome. What did the talks accomplish?</title>
-      <link>https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish</link>
-      <guid isPermaLink="false">2297c92b3271c4e920ca49282492878e17541d11</guid>
-      <pubDate>Sat, 26 Sep 2026 21:13:54 GMT</pubDate>
-      <description><![CDATA[From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Mother of woman found hanging in tree shocked as police say body was staged</title>
-      <link>https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">dc5707e6ec241494320cd6f2d762458f050cca84</guid>
-      <pubDate>Sat, 26 Sep 2026 21:13:13 GMT</pubDate>
-      <description><![CDATA[Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Maren Morris flaunts bikini body in photodump from her girls trip to Bali</title>
-      <link>https://www.foxnews.com/entertainment/maren-morris-flaunts-bikini-body-photodump-wellness-trip-bali</link>
-      <guid isPermaLink="false">00d197b091890e7879e2ce2b6df5019643409b75</guid>
-      <pubDate>Sat, 26 Sep 2026 20:48:09 GMT</pubDate>
-      <description><![CDATA[Maren Morris shared stunning bikini photos and group meditation snaps from her Bali healing retreat, telling fans she's "not healed but healing."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tigers legend Justin Verlander leaves mound in tears after daughter surprises him during final career start</title>
-      <link>https://www.foxnews.com/outkick-sports/tigers-legend-justin-verlander-leaves-mound-tears-daughter-surprises-final-career-start</link>
-      <guid isPermaLink="false">010ff825f26ed274997554cd3a5e9ae7dadf3569</guid>
-      <pubDate>Sat, 26 Sep 2026 20:46:05 GMT</pubDate>
-      <description><![CDATA[A.J. Hinch sent Genevieve Verlander sprinting to the mound to pull her dad from his final career start, sparking an emotional scene at Comerica Park.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Bryan Norcross: Major nor'easter impacts increase as Hurricane Nolo is closest to Hawaii, Polo heads to Mexico</title>
       <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-tropical-update-september-26-2026</link>
       <guid isPermaLink="false">6b2a1691c0a2158f7801b09f25f7be5c425667e9</guid>
@@ -508,6 +500,14 @@
       <guid isPermaLink="false">28675bab8f10baeae4e33d68bb5c0c6799dab0e1</guid>
       <pubDate>Fri, 25 Sep 2026 18:44:15 GMT</pubDate>
       <description><![CDATA[It's going to be a busy weekend in weather, as a nor'easter impacts the East Coast of the U.S., Hurricane Nolo charges at Hawaii and Hurricane Polo makes landfall in Mexico, bringing a surge of moisture to the Southwest U.S. next week.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Hurricane Nolo brings dangerous flooding to Hawaii after being downgraded to Category 1 storm</title>
+      <link>https://www.foxweather.com/weather-news/hurricane-nolo-hawaii-catastrophic-flooding-rain-september-2026</link>
+      <guid isPermaLink="false">f76882768ff408616c81983155e14e6a6c0a97fa</guid>
+      <pubDate>Fri, 25 Sep 2026 10:45:39 GMT</pubDate>
+      <description><![CDATA[Hurricane Nolo is bringing rounds of heavy rain and dangerous surf to Hawaii after making its closest approach to the island chain on Saturday.]]></description>
       <category>weather</category>
     </item>
     <item>
