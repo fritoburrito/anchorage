@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 20:29:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 23:30:46 GMT</lastBuildDate>
+    <item>
+      <title>Police hunt sexually violent predator who vanished after GPS 'tamper mode' alert</title>
+      <link>https://www.foxnews.com/us/police-hunt-sexually-violent-predator-who-vanished-after-gps-tamper-mode-alert</link>
+      <guid isPermaLink="false">7fbdf4a765430d0d0081765b4d3492a4abe959d9</guid>
+      <pubDate>Sun, 27 Sep 2026 23:30:46 GMT</pubDate>
+      <description><![CDATA[Merle Wakefield had been on conditional release since November 2024 with GPS monitoring. Now the convicted sex offender is missing in San Diego County.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Atlantic goes more than 300 days without a hurricane as historic drought nears milestone</title>
       <link>https://www.foxweather.com/weather-news/atlantic-hurricane-drought-near-historic-milestone</link>
@@ -15,18 +23,10 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon - Chance Rain Showers</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 23:34:25 GMT</pubDate>
-      <description><![CDATA[53°F. Wind N 5 mph. A chance of rain showers. Partly sunny, with a high near 53. North wind around 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight - Chance Rain Showers then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 23:34:25 GMT</pubDate>
+      <pubDate>Mon, 28 Sep 2026 03:15:12 GMT</pubDate>
       <description><![CDATA[39°F. Wind NW 0 to 5 mph. A chance of rain showers before 10pm. Mostly cloudy, with a low around 39. Northwest wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Monday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 23:34:25 GMT</pubDate>
+      <pubDate>Mon, 28 Sep 2026 03:15:12 GMT</pubDate>
       <description><![CDATA[53°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 53. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,16 +42,24 @@
       <title>Anchorage Weather: Monday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 23:34:25 GMT</pubDate>
-      <description><![CDATA[38°F. Wind S 0 to 5 mph. Partly cloudy, with a low around 38. South wind 0 to 5 mph.]]></description>
+      <pubDate>Mon, 28 Sep 2026 03:15:12 GMT</pubDate>
+      <description><![CDATA[38°F. Wind S 0 to 5 mph. Partly cloudy, with a low around 38. South wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tuesday - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 27 Sep 2026 23:34:25 GMT</pubDate>
+      <pubDate>Mon, 28 Sep 2026 03:15:12 GMT</pubDate>
       <description><![CDATA[50°F. Wind E 0 to 5 mph. Mostly cloudy, with a high near 50. East wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Tuesday Night - Isolated Rain Showers</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Mon, 28 Sep 2026 03:15:12 GMT</pubDate>
+      <description><![CDATA[36°F. Wind NE 0 to 5 mph. Isolated rain showers after 7pm. Mostly cloudy, with a low around 36. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -303,12 +311,124 @@
       <category>local</category>
     </item>
     <item>
-      <title>Senate Democrats Block Sullivan’s Bycatch Reduction Act</title>
-      <link>https://alaska-native-news.com/senate-democrats-block-sullivans-bycatch-reduction-act/86414/</link>
-      <guid isPermaLink="false">c4990f285f4b1bc50ec85049e7800834d9e38a60</guid>
-      <pubDate>Fri, 25 Sep 2026 14:02:24 GMT</pubDate>
-      <description><![CDATA[WASHINGTON—U.S. Senator Dan Sullivan (R-Alaska), a member of the Senate Commerce, Science, and Transportation Committee, today attempted to pass the Bycatch Reduction Act on the Senate floor, but the legislation was blocked by Senate Democrats. Authored by Sen. Sullivan, the comprehensive legislation would reduce bycatch, protect seafloor habitat, and strengthen transparency and accountability in federal fisheries management. […]]]></description>
-      <category>local</category>
+      <title>Protesters disperse after blocking contentious Orange Order parade</title>
+      <link>https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c939cba77aa4679816284fdf3f74ef532707d7cd</guid>
+      <pubDate>Mon, 28 Sep 2026 02:04:30 GMT</pubDate>
+      <description><![CDATA[Northern Ireland Secretary Sir Chris Bryant, who returned from the Labour Party conference for talks, urged both sides of the dispute to "double down on compromise".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Late September warmth before wind and rain returns this week</title>
+      <link>https://www.bbc.co.uk/weather/articles/c8wyzzyxed3zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b4ab96fa6a57687f95516d5021271495bb55d321</guid>
+      <pubDate>Mon, 28 Sep 2026 01:46:35 GMT</pubDate>
+      <description><![CDATA[Temperatures remain above the average at the start of the week but wetter conditions are on the way for some]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Benjamin Satterley, pro wrestling star known as Pac, dead at 40</title>
+      <link>https://www.foxnews.com/outkick-sports/benjamin-satterley-pro-wrestling-star-known-pac-dead-40</link>
+      <guid isPermaLink="false">7c08fe160586876e2029ec256a70a25c605a9609</guid>
+      <pubDate>Mon, 28 Sep 2026 01:29:18 GMT</pubDate>
+      <description><![CDATA[Benjamin Satterley, known as Pac, challenged for the AEW National Championship at All Out just one day before his death was announced at age 40.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Attorney for lone holdout juror in Lindsay Clancy mistrial pushes back on claims of refusing the law</title>
+      <link>https://www.foxnews.com/us/attorney-lone-holdout-juror-lindsay-clancy-mistrial-pushes-back-claims-refusing-law</link>
+      <guid isPermaLink="false">6b31f784efaa90e8f963e844851def590d16aeba</guid>
+      <pubDate>Mon, 28 Sep 2026 01:19:42 GMT</pubDate>
+      <description><![CDATA[Lindsay Clancy's holdout juror had "zero doubt" about his position, his attorney tells Kayleigh McEnany, citing "a mountain of evidence" for conviction.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Taylor Swift and Charli XCX among stars to light up VMAs red carpet</title>
+      <link>https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8ca46fa5319cab60d3d937b5fd243f25b3696df9</guid>
+      <pubDate>Mon, 28 Sep 2026 01:16:18 GMT</pubDate>
+      <description><![CDATA[Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Houston Astros secure the most embarrassing kind of Major League Baseball history with AL West win</title>
+      <link>https://www.foxnews.com/outkick-sports/houston-astros-secure-most-embarrassing-kind-major-league-baseball-history-al-west-win</link>
+      <guid isPermaLink="false">3801690dc212d261ec5f6f931436446df6058894</guid>
+      <pubDate>Mon, 28 Sep 2026 00:44:18 GMT</pubDate>
+      <description><![CDATA[The Houston Astros clinched the AL West at 81-81, becoming the worst division-winning team in Major League Baseball history over a full season.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Foiled terror plot at bomber base signals wider threat to US military installations: expert</title>
+      <link>https://www.foxnews.com/world/foiled-terror-plot-key-bomber-base-signals-wider-threat-us-military-installations-expert</link>
+      <guid isPermaLink="false">596f8a016e531f35a772527ece5d87945bac4f8f</guid>
+      <pubDate>Mon, 28 Sep 2026 00:34:26 GMT</pubDate>
+      <description><![CDATA[Five men arrested near RAF Fairford may have planned a complex, coordinated VBIED attack on U.S. strategic bombers, a former intelligence official says.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nantucket shipwreck uncovered by Nor'easter</title>
+      <link>https://www.npr.org/2026/09/27/nx-s1-5982785/nantucket-shipwreck-uncovered-by-noreaster</link>
+      <guid isPermaLink="false">e0a33ad8fc1f619393c770eafcb6df07027c1868</guid>
+      <pubDate>Mon, 28 Sep 2026 00:30:26 GMT</pubDate>
+      <description><![CDATA[The local newspaper in Nantucket got a tip: 'I found what I believe to be a shipwreck uncovered by the storm.']]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Angels reach historic 100-loss low with season-closing defeat against Mariners as new era looms</title>
+      <link>https://www.foxnews.com/outkick-sports/angels-reach-historic-100-loss-low-season-closing-defeat-against-mariners-new-era-looms</link>
+      <guid isPermaLink="false">573d010adb0595d9906742a59438288899b03b9e</guid>
+      <pubDate>Mon, 28 Sep 2026 00:22:59 GMT</pubDate>
+      <description><![CDATA[Mike Trout watched from the dugout as the Los Angeles Angels fell 7-3 to the Mariners, crossing the 100-loss mark for the first time in 65 years.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Strong jolt shakes Dominican Republic as magnitude 4.8 earthquake strikes</title>
+      <link>https://www.foxweather.com/weather-news/magnitude-4-8-earthquake-rattles-dominican-republic</link>
+      <guid isPermaLink="false">e0c2be2692ab3df9d063fec7ed11c332a43f4b6f</guid>
+      <pubDate>Mon, 28 Sep 2026 00:13:14 GMT</pubDate>
+      <description><![CDATA[Residents across the Dominican Republic were rattled by a magnitude 4.8 earthquake Sunday evening.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Trevor Lawrence fantasy owners are beside themselves after inexplicable decision in fourth quarter blowout</title>
+      <link>https://www.foxnews.com/outkick-sports/trevor-lawrence-fantasy-owners-beside-themselves-inexplicable-decision-fourth-quarter-blowout</link>
+      <guid isPermaLink="false">4dacc5644b4560ae97150c54faf50ad4033fcef5</guid>
+      <pubDate>Mon, 28 Sep 2026 00:01:44 GMT</pubDate>
+      <description><![CDATA[Trevor Lawrence's baffling slide at the one-yard line in the Jacksonville Jaguars' 35-6 rout of the Patriots sent fantasy football owners reeling.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kathy Griffin says Ed Sheeran should have told Robert Kraft to 'go f--- yourself' over Macklemore</title>
+      <link>https://www.foxnews.com/media/kathy-griffin-says-ed-sheeran-should-told-robert-kraft-go-f-yourself-macklemore</link>
+      <guid isPermaLink="false">5ddb5c1ee7f6686459f585a822b7a21801f08943</guid>
+      <pubDate>Sun, 27 Sep 2026 23:54:47 GMT</pubDate>
+      <description><![CDATA[Kathy Griffin said Ed Sheeran should have told Robert Kraft to back off after Macklemore was barred from Gillette Stadium over his "Free Palestine" chants.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Baker Mayfield leaves game after writhing in pain on turf in Tampa Bay when thumb on throwing hand injured</title>
+      <link>https://www.foxnews.com/outkick-sports/baker-mayfield-leaves-game-writhing-pain-turf-tampa-bay-thumb-throwing-hand-injured</link>
+      <guid isPermaLink="false">f76ea690a5bc09e00e6d6e8fb63ec053187a99f2</guid>
+      <pubDate>Sun, 27 Sep 2026 23:42:12 GMT</pubDate>
+      <description><![CDATA[Baker Mayfield left screaming in pain after his thumb bent gruesomely on a fourth-down interception, sending him to the locker room for X-rays.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>One dead as nor'easter storm pummels New York and New Jersey</title>
+      <link>https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8e8dd43e1318e33ff13f2fc3bc37e848352d3a29</guid>
+      <pubDate>Sun, 27 Sep 2026 23:37:26 GMT</pubDate>
+      <description><![CDATA[Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Team USA captain thanks Trump after massive Presidents Cup comeback: ‘He gets all the credit’</title>
+      <link>https://www.foxnews.com/outkick-sports/team-usa-captain-thanks-trump-massive-presidents-cup-comeback-gets-all-credit</link>
+      <guid isPermaLink="false">86ef9c08ce0121ef965c747b76eb21283ae2671f</guid>
+      <pubDate>Sun, 27 Sep 2026 23:32:51 GMT</pubDate>
+      <description><![CDATA[Trump told captain Brandt Snedeker he'd bring energy to the Presidents Cup, and the U.S. rallied from a three-point deficit in Sunday singles.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Deshaun Watson goes from Cleveland villain to hero in Browns upset win, as home crowd turns jeers to cheers</title>
@@ -348,126 +468,6 @@
       <guid isPermaLink="false">43c798d8de425f40c13fa6ec5543176e2d843cc7</guid>
       <pubDate>Sun, 27 Sep 2026 23:01:47 GMT</pubDate>
       <description><![CDATA[The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Florida Gators, Mississippi State soar, USC tumbles in latest inexplicable AP Top 25 Poll</title>
-      <link>https://www.foxnews.com/outkick-sports/florida-gators-mississippi-state-soar-usc-tumbles-latest-inexplicable-ap-top-25-poll</link>
-      <guid isPermaLink="false">5787479d8921cf1830dd0e077642bd564dd0986a</guid>
-      <pubDate>Sun, 27 Sep 2026 22:56:02 GMT</pubDate>
-      <description><![CDATA[The Florida Gators surged 13 spots to No. 8 in the AP Top 25 poll after demolishing Ole Miss, while Missouri's puzzling ranking fuels SEC bias debate.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>VMAs red carpet: Vote on your favorite star looks</title>
-      <link>https://www.foxnews.com/entertainment/vmas-red-carpet-vote-your-favorite-star-looks</link>
-      <guid isPermaLink="false">ae55848527338787aad8e568bbe33eaeaf5044e1</guid>
-      <pubDate>Sun, 27 Sep 2026 22:51:30 GMT</pubDate>
-      <description><![CDATA[Music stars and more hit the VMAs red carpet in standout styles. See all the looks and vote for your favorite fashion moment.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Scientists discover two new species of sea spiders along Canadian coastline</title>
-      <link>https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species</link>
-      <guid isPermaLink="false">204ac8ab960a2303a8c3a73da5c6a51668176217</guid>
-      <pubDate>Sun, 27 Sep 2026 22:31:16 GMT</pubDate>
-      <description><![CDATA[So far, scientists have identified more than 1,300 species of sea spiders.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Top NFL Draft prospect receives indefinite suspension after outburst in loss to Alabama</title>
-      <link>https://www.foxnews.com/outkick-sports/top-nfl-draft-prospect-receives-indefinite-suspension-after-outburst-loss-alabama</link>
-      <guid isPermaLink="false">7e74a477f4bc3ec6fe3f8c498502d956decfbb07</guid>
-      <pubDate>Sun, 27 Sep 2026 22:31:03 GMT</pubDate>
-      <description><![CDATA[Dylan Stewart's indefinite suspension goes beyond the punch that got him ejected, says South Carolina's Shane Beamer, raising questions about the top prospect's future.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Republic of Ireland 'raised awareness worldwide' in Israel game</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">610f4670ea214a1824c21da8c4c3235975354232</guid>
-      <pubDate>Sun, 27 Sep 2026 22:20:17 GMT</pubDate>
-      <description><![CDATA[Republic of Ireland head coach Heimir Hallgrimsson says his players "raised awareness worldwide" after they chose not to engage in pre-match formalities with Israel.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Home Improvement' star says Patricia Richardson got 'tired' of fighting for sitcom</title>
-      <link>https://www.foxnews.com/entertainment/home-improvement-star-says-patricia-richardson-got-tired-fighting-sitcom</link>
-      <guid isPermaLink="false">620285f5283b0fb7350c44acc8175e66fda79757</guid>
-      <pubDate>Sun, 27 Sep 2026 22:01:55 GMT</pubDate>
-      <description><![CDATA[Taran Noah Smith reveals Patricia Richardson fought to keep "Home Improvement" realistic as new writers pushed scripts in a different direction.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Susie Wiles reveals brutal toll of fighting cancer while running Trump’s White House</title>
-      <link>https://www.foxnews.com/politics/susie-wiles-reveals-brutal-toll-fighting-cancer-while-running-trumps-white-house</link>
-      <guid isPermaLink="false">65f82364f0bfccad31d1827b5aeeeecb21ec599c</guid>
-      <pubDate>Sun, 27 Sep 2026 21:54:55 GMT</pubDate>
-      <description><![CDATA[Susie Wiles reveals what it was like to undergo chemotherapy while leading the White House staff, saying some days just getting out of bed was a test.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Patriots' Drake Maye 'looking myself in the mirror' as game has completely collapsed since AFC Championship</title>
-      <link>https://www.foxnews.com/outkick-sports/patriots-drake-maye-looking-myself-mirror-game-completely-collapsed-afc-championship</link>
-      <guid isPermaLink="false">7ddec67b8992d9cb6a99ce091bcdc004756792e1</guid>
-      <pubDate>Sun, 27 Sep 2026 21:40:24 GMT</pubDate>
-      <description><![CDATA[Drake Maye's three turnovers, raising his season total to seven, prompted Mike Vrabel to pull his quarterback as the Patriots fell 35-6 to the Jaguars.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dabble Promo Code FOXNEWS: Play $5, Get $50 on Rams vs Broncos</title>
-      <link>https://www.foxnews.com/outkick-betting/dabble-promo-code-foxnews-play-5-get-50-rams-vs-broncos</link>
-      <guid isPermaLink="false">aa37bd26d1cd4a0b01456ce6447d0ba8942bffb1</guid>
-      <pubDate>Sun, 27 Sep 2026 21:33:34 GMT</pubDate>
-      <description><![CDATA[Use Dabble promo code FOXNEWS to play $5 and get $50 in bonus bets for Rams vs. Broncos on Sunday Night Football. Terms apply.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Inside Yemen's front-line city as Houthis battle for control</title>
-      <link>https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">70b346dbdb24fc31ca8c5eda75b6e9a1f1f0b743</guid>
-      <pubDate>Sun, 27 Sep 2026 21:16:31 GMT</pubDate>
-      <description><![CDATA[In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Watch: BBC reports from the front-line of an escalating war in Yemen</title>
-      <link>https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f097de012794dbfbb94a377f213de857c35e7dba</guid>
-      <pubDate>Sun, 27 Sep 2026 21:00:06 GMT</pubDate>
-      <description><![CDATA[In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Popular pantry product can't legally be called peanut butter — here's why</title>
-      <link>https://www.foxnews.com/food-drink/popular-pantry-product-cant-legally-called-peanut-butter-heres-why</link>
-      <guid isPermaLink="false">59970fca63307dbdfd519b2f38461c7e5ba8fd79</guid>
-      <pubDate>Sun, 27 Sep 2026 20:25:36 GMT</pubDate>
-      <description><![CDATA[Skippy must add the word "spread" to its natural peanut butter label due to FDA rules requiring at least 90% peanut content in every single jar.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Five arrested as counter-terror police investigate major incident near RAF Fairford</title>
-      <link>https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5577272f105a883ad68ae3a84eebb59a5aee5fbd</guid>
-      <pubDate>Sun, 27 Sep 2026 20:10:51 GMT</pubDate>
-      <description><![CDATA[The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Embattled Serbian president resigns, paving way for early elections</title>
-      <link>https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">dd7f9186901b17b815b1b6d327bc79b936f8a1e0</guid>
-      <pubDate>Sun, 27 Sep 2026 20:04:21 GMT</pubDate>
-      <description><![CDATA[Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Woman found dead with unexplained trauma in Central Park as NYPD searches for answers</title>
-      <link>https://www.foxnews.com/us/woman-found-dead-unexplained-trauma-central-park-nypd-searches-answers</link>
-      <guid isPermaLink="false">54cec8071607397564a148872ec9a503106c1f08</guid>
-      <pubDate>Sun, 27 Sep 2026 19:58:08 GMT</pubDate>
-      <description><![CDATA[NYPD is investigating after first responders found an unidentified woman dead with body trauma in New York City's Central Park on Sunday morning.]]></description>
       <category>world</category>
     </item>
     <item>
