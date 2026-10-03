@@ -1,5 +1,15 @@
 [
   {
+    "title": "Newscast \u2013 Friday, Oct. 2, 2026",
+    "link": "https://feeds.ktoo.org/link/20427/17484449/newscast-friday-oct-2-2026",
+    "description": "In this newscast: Two environmental conservation groups and a Southeast Alaska tribe have filed a motion to stop a timber sale that's part of a logging project east of Ketchikan; Independent expenditure groups are pouring tens of millions of dollars into Alaska's races for governor and Congress; The federal government announced its intent to rescind a key environmental conservation law that protects much of the Tongass National Forest; Researchers at the University of Alaska Southeast are trying to detect toxic algal blooms that could hurt Alaska's shellfish industry.",
+    "pubDate": "Sat, 03 Oct 2026 01:10:54 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "KTOO",
+    "rank": 100
+  },
+  {
     "title": "Navy warship named for Alaska statesman Ted Stevens",
     "link": "https://alaskabeacon.com/2026/10/02/navy-warship-named-for-alaska-statesman-ted-stevens/",
     "description": "Before he was known to Alaskans as \u201cUncle Ted,\u201d Ted Stevens was a decorated war hero, making dangerous missions behind enemy lines as part of the Flying Tigers, a group of American pilots who fought the Japanese in the China-Burma-India theater of World War II. Stevens represented Alaska as one of the longest-serving U.S. senators [\u2026]",
@@ -390,14 +400,144 @@
     "rank": 100
   },
   {
-    "title": "Homer Harbor expansion plans detail scope of proposed dredging",
-    "link": "https://www.homernews.com/2026/10/01/homer-harbor-expansion-plans-detail-scope-of-proposed-dredging/",
-    "description": "State review opens new comment period on water quality and construction",
-    "pubDate": "Thu, 01 Oct 2026 13:30:00 GMT",
-    "category": "kenai",
-    "tag": "alaska",
-    "source": "Homer News",
-    "rank": 100
+    "title": "Russia strikes second major bridge in Kyiv, mayor says",
+    "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+    "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+    "pubDate": "Sat, 03 Oct 2026 07:25:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Golden State Valkyries erase 16-point deficit, stun Dallas Wings to reach WNBA semifinals",
+    "link": "https://www.foxnews.com/outkick-sports/golden-state-valkyries-erase-16-point-deficit-stun-dallas-wings-reach-wnba-semifinals",
+    "description": "Gabby Williams hit a go-ahead 17-footer and the Golden State Valkyries rallied from 16 down to stun the Dallas Wings 77-73 in a wild Game 3.",
+    "pubDate": "Sat, 03 Oct 2026 05:11:49 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+    "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+    "pubDate": "Sat, 03 Oct 2026 04:38:31 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Woman deceived ex-partner that she had given birth to his babies, judge rules",
+    "link": "https://www.bbc.co.uk/news/articles/cq073egz324zo?at_medium=RSS&at_campaign=rss",
+    "description": "The man paid his ex-partner around \u00a330,000 over two years believing she had given birth to his children.",
+    "pubDate": "Sat, 03 Oct 2026 04:07:58 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Northwestern Wildcats christen new Ryan Field with impressive win over Penn State Nittany Lions",
+    "link": "https://www.foxnews.com/outkick-sports/northwestern-wildcats-christen-new-ryan-field-impressive-win-penn-state-nittany-lions",
+    "description": "Northwestern christened the new $875 million Ryan Field with a dominant 34-13 win over Penn State, racking up 413 rushing yards in the Big Ten clash.",
+    "pubDate": "Sat, 03 Oct 2026 04:02:17 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Suppliers pile pressure on government over energy bills",
+    "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+    "description": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
+    "pubDate": "Sat, 03 Oct 2026 03:47:32 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Brazil's big political rematch: What to know",
+    "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
+    "description": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Fl\u00e1vio, in a high-stakes rematch.",
+    "pubDate": "Sat, 03 Oct 2026 02:57:07 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Three college students face federal charges over alleged threats against Trump ahead of campus rally",
+    "link": "https://www.foxnews.com/politics/three-college-students-face-federal-charges-alleged-threats-trump-campus-rally",
+    "description": "Three University of South Alabama students face federal charges over alleged social media threats against President Donald Trump ahead of his rally on campus in Mobile.",
+    "pubDate": "Sat, 03 Oct 2026 02:49:17 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
+    "link": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
+    "description": "\u201cI\u2019ve heard about it many, many, many times\u201d says one doctor who treats motion sickness.",
+    "pubDate": "Sat, 03 Oct 2026 02:36:19 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Spoiler alert! Is social media ruining big gig surprises?",
+    "link": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss",
+    "description": "Big moments from headline acts are shared online long before many fans see their favourite artists.",
+    "pubDate": "Sat, 03 Oct 2026 02:26:42 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Rams lose Aaron Donald to back soreness for Eagles game, Sean McVay says he\u2019s protecting star 'from himself'",
+    "link": "https://www.foxnews.com/outkick-sports/rams-lose-aaron-donald-back-soreness-eagles-game-sean-mcvay-says-hes-protecting-star-from-himself",
+    "description": "Aaron Donald is ruled out with back soreness against the Eagles, but Sean McVay confirmed Puka Nacua will return from his hip injury Sunday.",
+    "pubDate": "Sat, 03 Oct 2026 02:17:55 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Airport X-ray exposes dangerous weapon illegally concealed in passenger's carry-on",
+    "link": "https://www.foxnews.com/travel/airport-x-ray-exposes-dangerous-weapon-illegally-concealed-passengers-carry-on",
+    "description": "TSA officers at New York's Watertown International Airport found a spent M18 smoke grenade inside a traveler's carry-on bag \u2014 and the person had a strange excuse.",
+    "pubDate": "Sat, 03 Oct 2026 02:10:16 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Fox News Campus Radicals Newsletter: Christianity rejected, socialist streamer speaks, violence glorified",
+    "link": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-christianity-rejected-far-left-phenom-visits-campus-violence-glorified",
+    "description": "Stay up to date with the Fox News Campus Radicals newsletter.",
+    "pubDate": "Sat, 03 Oct 2026 01:46:31 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Why thousands of couples are choosing Scotland to say 'I do'",
+    "link": "https://www.bbc.co.uk/news/articles/c3y0zdj8jlxeo?at_medium=RSS&at_campaign=rss",
+    "description": "A quarter of all marriages in Scotland involve couples who don't live here but see it as the ultimate wedding destination.",
+    "pubDate": "Sat, 03 Oct 2026 01:43:20 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
     "title": "FBI's first cyber fugitive on Ten Most Wanted list returns to US after capture in Venezuela",
@@ -460,160 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Mamdani says it was 'strange' getting called out by Netanyahu after calling for his arrest",
-    "link": "https://www.foxnews.com/media/mamdani-strange-called-out-netanyahu-calling-arrest",
-    "description": "New York City Mayor Zohran Mamdani told Theo Von he was stunned when Israeli Prime Minister Benjamin Netanyahu called him out by name during a United Nations General Assembly address.",
-    "pubDate": "Fri, 02 Oct 2026 23:45:17 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-    "link": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
-    "description": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
-    "pubDate": "Fri, 02 Oct 2026 23:31:37 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Women given shorts at Oktoberfest to prevent upskirting",
-    "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-    "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
-    "pubDate": "Fri, 02 Oct 2026 23:16:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
-    "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
-    "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
-    "pubDate": "Fri, 02 Oct 2026 23:06:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "EXCLUSIVE: Michael McDonald\u2019s long-lost son reveals stunning moment he discovered famous father after 58 years",
-    "link": "https://www.foxnews.com/entertainment/michael-mcdonalds-long-lost-son-reveals-stunning-moment-discovered-famous-father-58-years",
-    "description": "A St. Louis man adopted through Catholic Charities nearly 60 years ago learned his biological father is Doobie Brothers singer Michael McDonald.",
-    "pubDate": "Fri, 02 Oct 2026 23:00:13 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "WNBA playoffs preview: Golden State Valkyries look to close out Dallas Wings in Game 3",
-    "link": "https://www.foxnews.com/outkick-betting/wnba-playoffs-preview-golden-state-valkyries-close-dallas-wings-game-3",
-    "description": "Arike Ogunbowale's 45-point explosion in Game 2 has the Dallas Wings on the verge of upsetting the Golden State Valkyries in the WNBA Playoffs.",
-    "pubDate": "Fri, 02 Oct 2026 22:31:48 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Inside explosive Cornell rape allegations: 7 men accused, conflicting accounts and a political firestorm",
-    "link": "https://www.foxnews.com/us/inside-explosive-cornell-rape-allegations-7-men-accused-conflicting-accounts-political-firestorm",
-    "description": "Seven former Cornell University Chi Phi brothers face a lawsuit alleging they drugged and raped a woman, and Gov. Kathy Hochul appointed a prosecutor.",
-    "pubDate": "Fri, 02 Oct 2026 22:22:28 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Jared Kushner scolds CNN over 'deeply misleading\u2019 report, says key info buried behind paywall",
-    "link": "https://www.foxnews.com/media/jared-kushner-scolds-cnn-deeply-misleading-report-says-key-info-buried-paywall",
-    "description": "Jared Kushner fired back at CNN over a report linking his firm Affinity Partners to Israeli defense investments, calling the story misleading.",
-    "pubDate": "Fri, 02 Oct 2026 22:21:48 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Miami Heat tease release of new 'Vice City' jerseys on the night before 'Grand Theft Auto VI' release",
-    "link": "https://www.foxnews.com/outkick-sports/miami-heat-tease-release-new-vice-city-jerseys-night-before-grand-theft-auto-vi-release",
-    "description": "\"Grand Theft Auto VI\" gets an unprecedented sports tie-in as the Miami Heat debut reimagined \"Vice City\" jerseys against the Milwaukee Bucks.",
-    "pubDate": "Fri, 02 Oct 2026 22:10:17 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "'Piano Man' Billy Joel's prized motorcycle collection hits the auction block",
-    "link": "https://www.foxnews.com/entertainment/piano-man-billy-joels-prized-motorcycle-collection-hits-auction-block",
-    "description": "Billy Joel's prized motorcycle collection of over 70 lots hits the auction block at Retromobile New York, featuring Ducati, Triumph and more.",
-    "pubDate": "Fri, 02 Oct 2026 22:00:17 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "With Tony Romo out at CBS, Troy Aikman and Greg Olsen suddenly become logical replacements",
-    "link": "https://www.foxnews.com/outkick-sports/tony-romo-out-cbs-troy-aikman-greg-olsen-logical-replacements",
-    "description": "Tony Romo's CBS Sports departure opens a high-stakes race for Jim Nantz's booth, with Troy Aikman and Greg Olsen both set to hit free agency.",
-    "pubDate": "Fri, 02 Oct 2026 22:00:08 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
-    "link": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
-    "description": "Democratic lawmakers, veterans and concerned citizens gathered in Memorial Circle to protest the arch Trump wants to build there. Their hopes lie primarily in a lawsuit and next month's midterms.",
-    "pubDate": "Fri, 02 Oct 2026 21:44:07 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Death row inmate unconscious on ventilator after botched execution for teen\u2019s killing: attorneys",
-    "link": "https://www.foxnews.com/us/death-row-inmate-unconscious-ventilator-botched-execution-teens-killing-attorneys",
-    "description": "Christa Pike remains unconscious on a ventilator after Tennessee's botched lethal injection as attorneys file to preserve execution evidence.",
-    "pubDate": "Fri, 02 Oct 2026 21:43:27 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Men charged over alleged plot to target Manchester Jewish community",
-    "link": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss",
-    "description": "The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur.",
-    "pubDate": "Fri, 02 Oct 2026 21:38:05 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon - Sunny",
+    "title": "Anchorage Weather: Tonight - Clear",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "42\u00b0F. Wind NE 5 mph. Sunny, with a high near 42. Northeast wind around 5 mph.",
-    "pubDate": "Sat, 03 Oct 2026 01:40:41 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "National Weather Service Anchorage",
-    "rank": 0
-  },
-  {
-    "title": "Anchorage Weather: Tonight - Mostly Clear",
-    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "29\u00b0F. Wind NE 5 mph. Mostly clear, with a low around 29. Northeast wind around 5 mph.",
-    "pubDate": "Sat, 03 Oct 2026 01:40:41 GMT",
+    "description": "29\u00b0F. Wind NE 10 mph. Clear, with a low around 29. Northeast wind around 10 mph.",
+    "pubDate": "Sat, 03 Oct 2026 07:30:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -622,18 +612,18 @@
   {
     "title": "Anchorage Weather: Saturday - Chance Rain And Snow",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "44\u00b0F. Wind N 5 to 15 mph. A chance of rain and snow after 10am. Partly sunny, with a high near 44. North wind 5 to 15 mph. Chance of precipitation is 40%.",
-    "pubDate": "Sat, 03 Oct 2026 01:40:41 GMT",
+    "description": "44\u00b0F. Wind N 10 to 15 mph. A chance of rain and snow after 10am. Partly sunny, with a high near 44. North wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.",
+    "pubDate": "Sat, 03 Oct 2026 07:30:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Saturday Night - Light Rain Likely",
+    "title": "Anchorage Weather: Saturday Night - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "34\u00b0F. Wind N 10 to 15 mph. Rain likely before 4am. Cloudy, with a low around 34. North wind 10 to 15 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sat, 03 Oct 2026 01:40:41 GMT",
+    "description": "34\u00b0F. Wind N 10 to 15 mph. A chance of rain before 4am. Cloudy, with a low around 34. North wind 10 to 15 mph. Chance of precipitation is 40%.",
+    "pubDate": "Sat, 03 Oct 2026 07:30:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -642,8 +632,18 @@
   {
     "title": "Anchorage Weather: Sunday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "44\u00b0F. Wind N 5 to 10 mph. Rain likely after 10am. Cloudy, with a high near 44. North wind 5 to 10 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sat, 03 Oct 2026 01:40:41 GMT",
+    "description": "44\u00b0F. Wind N 5 to 15 mph. Rain likely after 10am. Cloudy, with a high near 44. North wind 5 to 15 mph. Chance of precipitation is 70%.",
+    "pubDate": "Sat, 03 Oct 2026 07:30:16 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "National Weather Service Anchorage",
+    "rank": 0
+  },
+  {
+    "title": "Anchorage Weather: Sunday Night - Light Rain Likely",
+    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+    "description": "37\u00b0F. Wind NE 5 mph. Rain likely. Cloudy, with a low around 37. Northeast wind around 5 mph. Chance of precipitation is 70%.",
+    "pubDate": "Sat, 03 Oct 2026 07:30:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
