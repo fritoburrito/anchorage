@@ -5,46 +5,94 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 09:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:10:31 GMT</lastBuildDate>
+    <item>
+      <title>Anchorage Weather: Today - Scattered Rain Showers</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Wed, 07 Oct 2026 17:10:31 GMT</pubDate>
+      <description><![CDATA[46°F. Wind NE 0 to 5 mph. Scattered rain showers. Mostly cloudy, with a high near 46. Northeast wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
     <item>
       <title>Anchorage Weather: Tonight - Scattered Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 07 Oct 2026 09:41:11 GMT</pubDate>
-      <description><![CDATA[40°F. Wind  0 mph. Scattered rain showers. Mostly cloudy, with a low around 40. East wind around 0 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Wed, 07 Oct 2026 17:10:31 GMT</pubDate>
+      <description><![CDATA[35°F. Wind N 5 mph. Scattered rain showers before 1am, then patchy fog. Mostly cloudy, with a low around 35. North wind around 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Wednesday - Scattered Rain Showers</title>
+      <title>Anchorage Weather: Thursday - Patchy Fog then Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 07 Oct 2026 09:41:11 GMT</pubDate>
-      <description><![CDATA[46°F. Wind E 0 to 5 mph. Scattered rain showers. Mostly cloudy, with a high near 46. East wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Wednesday Night - Scattered Rain Showers then Mostly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 07 Oct 2026 09:41:11 GMT</pubDate>
-      <description><![CDATA[35°F. Wind NE 5 mph. Scattered rain showers before 10pm. Mostly cloudy, with a low around 35. Northeast wind around 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Thursday - Partly Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 07 Oct 2026 09:41:11 GMT</pubDate>
-      <description><![CDATA[44°F. Wind NE 0 to 5 mph. Partly sunny, with a high near 44. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Wed, 07 Oct 2026 17:10:31 GMT</pubDate>
+      <description><![CDATA[44°F. Wind SE 0 to 5 mph. Patchy fog before 10am. Partly sunny, with a high near 44. Southeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Thursday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 07 Oct 2026 09:41:11 GMT</pubDate>
-      <description><![CDATA[33°F. Wind NE 0 to 5 mph. Partly cloudy, with a low around 33. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Wed, 07 Oct 2026 17:10:31 GMT</pubDate>
+      <description><![CDATA[34°F. Wind E 0 to 5 mph. Partly cloudy, with a low around 34. East wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday - Partly Sunny then Slight Chance Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Wed, 07 Oct 2026 17:10:31 GMT</pubDate>
+      <description><![CDATA[46°F. Wind SE 0 to 5 mph. A slight chance of rain after 4pm. Partly sunny, with a high near 46. Southeast wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Juneau Arts &amp; Humanities Council appoints new director of operations</title>
+      <link>https://www.juneauempire.com/2026/10/07/juneau-arts-humanities-council-appoints-new-director-of-operations/</link>
+      <guid isPermaLink="false">1e3e803f709bc81dcb712db917e3e629e7b6cf93</guid>
+      <pubDate>Wed, 07 Oct 2026 16:30:00 GMT</pubDate>
+      <description><![CDATA[Kathleen Harper has been promoted after being with the organization since 2018]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>LETTER: Senator’s support of president is inexcusable</title>
+      <link>https://www.juneauempire.com/2026/10/07/letter-senators-support-of-president-is-inexcusable/</link>
+      <guid isPermaLink="false">0c5feef3b3b9502e9ff33580dbef26a7295d7519</guid>
+      <pubDate>Wed, 07 Oct 2026 15:30:00 GMT</pubDate>
+      <description><![CDATA[“Korean officials confirm no deal exists to invest in Alaska natural gas pipeline,” Alaska Beacon, James Brooks]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Where do Alaska’s gubernatorial candidates stand on the gas pipeline and energy?</title>
+      <link>https://alaskabeacon.com/2026/10/07/where-do-alaskas-gubernatorial-candidates-stand-on-the-gas-pipeline-and-energy/</link>
+      <guid isPermaLink="false">73f8583df38496adad3e8a5d0045d1f74da1107c</guid>
+      <pubDate>Wed, 07 Oct 2026 13:45:06 GMT</pubDate>
+      <description><![CDATA[All four of the candidates in Alaska’s gubernatorial election this year support construction of a trans-Alaska natural gas pipeline and increased, state-backed drilling for natural gas in Cook Inlet. But in a pair of forums held Sept. 21 and Oct. 2 in Anchorage, the four differed on a variety of other topics pertaining to the […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Preliminary geotechnical work begins at Auke Bay Ferry Terminal</title>
+      <link>https://www.juneauempire.com/2026/10/07/preliminary-geotechnical-work-begins-at-auke-bay-ferry-terminal/</link>
+      <guid isPermaLink="false">701cee93da438f59c23dbed937707934004028f8</guid>
+      <pubDate>Wed, 07 Oct 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Project will include 6 new berthing dolphins, 6 new catwalks, 2 catwalk access platforms and 2 gangways]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Juneau revises bid notice for $12M Aurora Harbor float project</title>
+      <link>https://www.juneauempire.com/2026/10/07/juneau-revises-bid-notice-for-12m-aurora-harbor-float-project/</link>
+      <guid isPermaLink="false">1fc0eb746f3a2e173f92e3a08610733e8e321805</guid>
+      <pubDate>Wed, 07 Oct 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Construction includes vehicle bridge, electric cranes and expanded dock access]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Preliminary results show Juneau voters support seasonal sales tax</title>
+      <link>https://www.juneauempire.com/2026/10/07/preliminary-results-show-juneau-voters-support-seasonal-sales-tax/</link>
+      <guid isPermaLink="false">7dbe4a9100130c3e2c1d7f01ef4544992d1a7caf</guid>
+      <pubDate>Wed, 07 Oct 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Paul Kelly and Joyce Niven lead races for Assembly, while David Noon tops ballot for school board]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Juneau hotel scares up top spot on Alaska’s haunted places list</title>
@@ -207,84 +255,180 @@
       <category>local</category>
     </item>
     <item>
-      <title>Feds approve $150 million for second power link between Interior and Southcentral Alaska</title>
-      <link>https://alaskabeacon.com/2026/10/05/feds-approve-150-million-for-second-power-link-between-interior-and-southcentral-alaska/</link>
-      <guid isPermaLink="false">1f4bb28a559736f430996a880c40fb3949ba7e53</guid>
-      <pubDate>Tue, 06 Oct 2026 00:52:31 GMT</pubDate>
-      <description><![CDATA[The U.S. Department of Energy said on Monday that it has approved $150 million to partially fund a second electrical intertie between Southcentral Alaska and the Interior. When built, the Beluga-Healy Transmission Project would result in a redundant power link between Fairbanks and Anchorage, increasing the ability of power companies to use the cheapest electricity […]]]></description>
-      <category>local</category>
+      <title>Notorious gangland enforcer Paul Ferris dies aged 62</title>
+      <link>https://www.bbc.co.uk/news/articles/cwx28l8dp2lxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">55fcfd41e76bda9d7d30666678ee9baedae98e30</guid>
+      <pubDate>Wed, 07 Oct 2026 16:57:00 GMT</pubDate>
+      <description><![CDATA[The criminal-turned-author is believed to have died on Tuesday night after a short illness.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>After Democrats boost JKT, national Republicans send $1.6 million to Alaska for governor’s race</title>
-      <link>https://alaskabeacon.com/2026/10/05/after-democrats-boost-jkt-national-republicans-send-1-6-million-to-alaska-for-governors-race/</link>
-      <guid isPermaLink="false">e0e5024ac6bef9b4742ade16ab3aad240a73b448</guid>
-      <pubDate>Mon, 05 Oct 2026 22:33:56 GMT</pubDate>
-      <description><![CDATA[A national Republican organization has put $1.6 million into the Alaska governor’s race — going toe-to-toe with Democratic money that’s also flooded into the state in recent days.]]></description>
-      <category>local</category>
+      <title>Tennessee Sports Betting — Best Sportsbooks and Apps | Outkick</title>
+      <link>https://www.foxnews.com/outkick-betting/tennessee-sports-betting</link>
+      <guid isPermaLink="false">35e2305ebc9d3bf9fa82e9807744de09ebc37e98</guid>
+      <pubDate>Wed, 07 Oct 2026 16:56:04 GMT</pubDate>
+      <description><![CDATA[Compare the best Tennessee sports betting apps, see which sportsbooks are legal in Tennessee, and find current welcome offers. Updated Oct. 7, 2026.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Police seize $275K in drugs during raid on Juneau home</title>
-      <link>https://www.juneauempire.com/2026/10/05/police-seize-275k-in-drugs-during-raid-on-juneau-home/</link>
-      <guid isPermaLink="false">ffbcfe6cdc9149ced4ec0bdb891d360d37834253</guid>
-      <pubDate>Mon, 05 Oct 2026 21:45:00 GMT</pubDate>
-      <description><![CDATA[Michael Courtney Wilbon, 34, of Arizona and Quavone Cortanas Jenkins, 35, of Michigan were arrested]]></description>
-      <category>local</category>
+      <title>How Defense Secretary Pete Hegseth has brought the culture wars to the military</title>
+      <link>https://www.npr.org/2026/10/07/nx-s1-5992775/how-defense-secretary-pete-hegseth-has-brought-the-culture-wars-to-the-military</link>
+      <guid isPermaLink="false">afaacb2ed3bb5c17c2119eb31cb1d08e122afbff</guid>
+      <pubDate>Wed, 07 Oct 2026 16:55:19 GMT</pubDate>
+      <description><![CDATA[The New York Times reporter Greg Jaffe says Hegseth has disproportionately blocked promotions of Black and women senior officers, and he's also been purging the military of transgender people.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Alaska’s grid gets $418m update with new transmission line connecting Beluga and Healy</title>
-      <link>https://mustreadalaska.com/alaskas-grid-get-418m-update-with-new-transmission-line-connecting-beluga-and-healy/</link>
-      <guid isPermaLink="false">23dc779218490701419f0cff477382b6463ceeb5</guid>
-      <pubDate>Mon, 05 Oct 2026 21:33:19 GMT</pubDate>
-      <description><![CDATA[Today, October 5, 2026, the U.S. Department of Energy announced its intent to deploy Defense Production Act (DPA) funding to develop a second high-voltage connection between Southcentral and Interior Alaska, strengthening grid infrastructure essential to national defense. The Alaska Energy Authority’s Beluga-Healy Transmission Project combines up to $150 million in DPA funding with $268 million […] The post Alaska’s grid gets $418m update with new transmission line connecting Beluga and Healy appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Canada suspends plans to expand assisted dying to people with mental illness</title>
+      <link>https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b7557525e2cd5d4e95ad862abe8f77aedc3961fa</guid>
+      <pubDate>Wed, 07 Oct 2026 16:54:17 GMT</pubDate>
+      <description><![CDATA[People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>OPINION: Celebrating a deal Korea says never happened</title>
-      <link>https://www.homernews.com/2026/10/05/opinion-celebrating-a-deal-korea-says-never-happened/</link>
-      <guid isPermaLink="false">862e92547ef87dedff941b760757dfeb1fd1feab</guid>
-      <pubDate>Mon, 05 Oct 2026 21:30:00 GMT</pubDate>
-      <description><![CDATA[Trump announced a gasline windfall. Seoul announced a review. Dan Sullivan celebrated]]></description>
+      <title>Christen Goff drops 'game day archives' to remind everyone that the Lions quarterback is going to be just fine</title>
+      <link>https://www.foxnews.com/outkick-sports/christen-goff-drops-game-day-archives-remind-everyone-lions-quarterback-going-be-fine</link>
+      <guid isPermaLink="false">fd57d91dc76cf6b83a1a265deafea1b5b3aec168</guid>
+      <pubDate>Wed, 07 Oct 2026 16:50:19 GMT</pubDate>
+      <description><![CDATA[Christen Goff skipped Victory Monday after the Detroit Lions' loss to the Carolina Panthers but delivered a Tuesday Instagram post with a clear message.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Michigan Sports Betting — Best Sportsbooks and Apps | Outkick</title>
+      <link>https://www.foxnews.com/outkick-betting/michigan-sports-betting</link>
+      <guid isPermaLink="false">625fc342939c016a6fb416e00a7be363c69986c3</guid>
+      <pubDate>Wed, 07 Oct 2026 16:48:50 GMT</pubDate>
+      <description><![CDATA[Compare the best Michigan sports betting apps, see which sportsbooks are legal in Michigan, and find current welcome offers. Updated Oct. 7, 2026.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bassmaster pro Cooper Gallant says bass fishing is actually more fun without LiveScope sonar</title>
+      <link>https://www.foxnews.com/outkick-sports/bassmaster-pro-cooper-gallant-says-bass-fishing-more-fun-without-livescope-sonar</link>
+      <guid isPermaLink="false">36f0975918d128361e5930eeeafdc59fe6b7befd</guid>
+      <pubDate>Wed, 07 Oct 2026 16:47:09 GMT</pubDate>
+      <description><![CDATA[Cooper Gallant uses Garmin LiveScope at the highest level of bass fishing but admits the sport might be more fun without forward-facing sonar.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New Jersey Sports Betting — Best Sportsbooks and Apps | Outkick</title>
+      <link>https://www.foxnews.com/outkick-betting/new-jersey-sports-betting</link>
+      <guid isPermaLink="false">224a31937b9762c895af18bcb622feab5c1a624e</guid>
+      <pubDate>Wed, 07 Oct 2026 16:45:32 GMT</pubDate>
+      <description><![CDATA[Compare the best New Jersey sports betting apps, see which sportsbooks are legal in New Jersey, and find current welcome offers. Updated Sept. 27, 2026.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Boots sold in £7bn deal to Canadian billionaire family</title>
+      <link>https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">71e21d7f25b01f9e2cb2130e6329ab6d9c7e42cb</guid>
+      <pubDate>Wed, 07 Oct 2026 16:43:51 GMT</pubDate>
+      <description><![CDATA[The sale of the High Street chain was announced on Wednesday.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>France halts use of stun grenades after boy's hand blown off in student protests</title>
+      <link>https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5681324bf629783fb1834ca3cdc1aceda98f7f72</guid>
+      <pubDate>Wed, 07 Oct 2026 16:41:57 GMT</pubDate>
+      <description><![CDATA[The step comes after several groups complained of police using disproportionate force towards teenagers.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Chris Mason: Tories united behind Badenoch - but party still needs to win over voters</title>
+      <link>https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">175cb3337115c3c42df9f63b1973b77f84bbf9f6</guid>
+      <pubDate>Wed, 07 Oct 2026 16:31:06 GMT</pubDate>
+      <description><![CDATA[Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>She got Trump's $500 check for health insurance. To her, it's a 'political stunt'</title>
+      <link>https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms</link>
+      <guid isPermaLink="false">c559e5aabd94a3bc3fe7db2c3dacedfcabf8ceae</guid>
+      <pubDate>Wed, 07 Oct 2026 16:15:26 GMT</pubDate>
+      <description><![CDATA[As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely illegal.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Southampton manager to stay in role after being given suspended ban over Spygate scandal</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/cqj9knmvm2ryo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">642daa8b632bb14f6e8243d411f86637f0532843</guid>
+      <pubDate>Wed, 07 Oct 2026 16:11:15 GMT</pubDate>
+      <description><![CDATA[Tonda Eckert is free to continue as Southampton manager after being given a suspended ban for his role in Spygate.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Family tribute to 'kind and loving' GP found dead at home</title>
+      <link>https://www.bbc.co.uk/news/articles/cmewexlqyj2zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">05cc8193cc09c0707aa4ab85ae561ab0e729f47f</guid>
+      <pubDate>Wed, 07 Oct 2026 16:10:36 GMT</pubDate>
+      <description><![CDATA[Hannah Cain's family say they have been "devastated" by her death on Sunday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nolan Wells' friends sue Terrell Owens for defamation after he demanded their arrests</title>
+      <link>https://www.foxnews.com/us/nolan-wells-friends-sue-terrell-owens-defamation-demanded-arrests</link>
+      <guid isPermaLink="false">1e2068936d54992f83df0ca18f216fcfaf280fc7</guid>
+      <pubDate>Wed, 07 Oct 2026 16:10:35 GMT</pubDate>
+      <description><![CDATA[Three friends of Nolan Wells filed a defamation lawsuit against Terrell Owens over his X post demanding their arrest after the student's death.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Imperiled House Democrat gets ripped by left and right after flip-flop on transgender sports</title>
+      <link>https://www.foxnews.com/politics/imperiled-house-democrat-gets-ripped-left-right-after-flip-flop-transgender-sports</link>
+      <guid isPermaLink="false">1fe08fcf6cea95acab54e92df351cca54a117e86</guid>
+      <pubDate>Wed, 07 Oct 2026 16:10:30 GMT</pubDate>
+      <description><![CDATA[Marcy Kaptur faces attacks from both Republicans and progressives over her campaign ads opposing transgender youth in girls sports and schools.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New Hampshire fishermen smash state record by snagging insane 1,116-pound bluefin tuna</title>
+      <link>https://www.foxnews.com/outkick-sports/new-hampshire-fishermen-smash-state-record-snagging-insane-1116-pound-bluefin-tuna</link>
+      <guid isPermaLink="false">adef9771ec067a249c8d7eb9d089d0fb621c78e2</guid>
+      <pubDate>Wed, 07 Oct 2026 16:08:31 GMT</pubDate>
+      <description><![CDATA[A 1,116-lb bluefin tuna caught off New Hampshire dwarfs the recent San Diego record catch. Photos from Captain Savage's boat are jaw-dropping.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sports radio legend piles onto Jets' woes after bizarre social media post: 'Can screw up a one-car funeral'</title>
+      <link>https://www.foxnews.com/outkick-sports/sports-radio-legend-piles-jets-woes-bizarre-social-media-post-screw-one-car-funeral</link>
+      <guid isPermaLink="false">9ae38b40e596b100235819caa7b073a5cf8b0e09</guid>
+      <pubDate>Wed, 07 Oct 2026 16:08:06 GMT</pubDate>
+      <description><![CDATA[Mike Francesa couldn't believe the New York Jets' bizarre social media post hyping Braelon Allen during their Week 4 loss was actually real.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Best Sports Betting Apps and Sites 2026: Top Sportsbooks Reviewed</title>
+      <link>https://www.foxnews.com/outkick-betting/best-betting-apps</link>
+      <guid isPermaLink="false">d98004f72371ffedd72e25a7be94eca96508fa81</guid>
+      <pubDate>Wed, 07 Oct 2026 16:07:21 GMT</pubDate>
+      <description><![CDATA[Compare the best sports betting apps and sites for 2026. See reviews, welcome offers, and features to pick the right sportsbook, whether you bet on mobile or desktop.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Israelis demand accountability over 7 October failures three years after attacks</title>
+      <link>https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ab1cc787d87fb344b0078010967a939f51395c47</guid>
+      <pubDate>Wed, 07 Oct 2026 16:00:18 GMT</pubDate>
+      <description><![CDATA[Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bryan Norcross: Isaias to be a significant hurricane threat for the northern Gulf Coast</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-october-7-2026</link>
+      <guid isPermaLink="false">832f14f08387f47f3c714a7274416d2e675e1a90</guid>
+      <pubDate>Wed, 07 Oct 2026 14:21:37 GMT</pubDate>
+      <description><![CDATA[The disturbance we've been watching in the southwestern Gulf quickly wrapped up into Tropical Storm Isaias early today. The forecast from the National Hurricane Center and the consensus of the various computer model forecasts is that the storm will impact the northern Gulf Coast as a significant hurricane late Friday or early Saturday.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>New rescue vehicles to be introduced at Capital City Fire Rescue open house</title>
-      <link>https://www.juneauempire.com/2026/10/05/new-rescue-vehicles-to-be-introduced-at-capital-city-fire-rescue-open-house/</link>
-      <guid isPermaLink="false">bfdfd0e35e3e161f0a271adfdb21e49fb0679569</guid>
-      <pubDate>Mon, 05 Oct 2026 21:30:00 GMT</pubDate>
-      <description><![CDATA[Department will welcome a new Airport Rescue Fire Fighting truck and new wetland rescue vehicle]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Plethora of presentations on medicine, education, and more at Alaskans 4 Personal Freedom conference</title>
-      <link>https://mustreadalaska.com/plethora-of-presentations-on-medicine-education-and-more-at-alaskans-4-personal-freedom-conference/</link>
-      <guid isPermaLink="false">91e53d0b12aaa696027304fb90e07a3680d71633</guid>
-      <pubDate>Mon, 05 Oct 2026 21:17:43 GMT</pubDate>
-      <description><![CDATA[Alaskans 4 Personal Freedom held their annual freedom conference on Saturday, October 3, titled “Beyond the Narrative.” The theme for the all-day conference was “the truth begins where the script ends.” It featured expert presentations on hyperbaric oxygen therapy, food as medicine, DEI and AI in education, vaccines, water purification, and more. Candidate for Governor […] The post Plethora of presentations on medicine, education, and more at Alaskans 4 Personal Freedom conference appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>We’re making a tough call on an upcoming U.S. House debate</title>
-      <link>https://alaskabeacon.com/2026/10/05/were-making-a-tough-call-on-an-upcoming-u-s-house-debate/</link>
-      <guid isPermaLink="false">7142c8a40aa0683d3fd083042232be16d20ec75a</guid>
-      <pubDate>Mon, 05 Oct 2026 20:49:22 GMT</pubDate>
-      <description><![CDATA[Over the past few weeks, the four of us here at the Beacon have been wrestling with a pretty tough decision, and we’d like to get your feedback. A few months ago, Jeff Landfield of the Alaska Landmine asked us if we’d be willing to help with an AARP-sponsored candidate debate. The Beacon would co-host […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Ex-Obama spy chief prepped for anti-Trump trial by Biden-era special counsel's team, new records reveal</title>
-      <link>https://www.foxnews.com/politics/ex-obama-spy-chief-prepped-anti-trump-trial-biden-era-special-counsels-team-records-reveal</link>
-      <guid isPermaLink="false">c8c9c6f223738890ad9a1c0c37ccd52cecf1598f</guid>
-      <pubDate>Wed, 07 Oct 2026 09:30:39 GMT</pubDate>
-      <description><![CDATA[Declassified FBI memo reveals Jack Smith's team met with Trump-critic and former CIA director John Brennan to discuss Trump's case, despite Smith telling GOP lawmakers he had never met Brennan before.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Congress killed the penny — now it's coming for the 13-cent nickel</title>
-      <link>https://www.foxnews.com/politics/congress-killed-penny-now-its-coming-13-cent-nickel</link>
-      <guid isPermaLink="false">78d6d28148c8063b95102b34e4defe26d0517854</guid>
-      <pubDate>Wed, 07 Oct 2026 09:30:34 GMT</pubDate>
-      <description><![CDATA[The Common Cents Act already targets the penny, but lawmakers now want the Treasury Department to find cheaper ways to produce the nickel coin.]]></description>
-      <category>world</category>
+      <title>Hurricane and Storm Surge Watches issued from Mississippi to Big Bend of Florida as Isaias strengthens</title>
+      <link>https://www.foxweather.com/weather-news/tropical-storm-isaias-gulf-coast-landfalling-atlantic-hurricane</link>
+      <guid isPermaLink="false">cc613f7997de6bbdd5cbf5f9666d1704b6f3d55b</guid>
+      <pubDate>Wed, 07 Oct 2026 09:21:39 GMT</pubDate>
+      <description><![CDATA[The first Hurricane and Storm Surge Watches have been issued for the northern Gulf Coast as Tropical Storm Isaias continues to strengthen in the southern Gulf and is forecast to rapidly intensify into a dangerous Category 2 hurricane. Florida Governor Ron DeSantis has declared a state of emergency ahead of the storm.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Tropical Storm Isaias forms in the Gulf and could be the first landfalling Atlantic hurricane of the season</title>
@@ -295,148 +439,12 @@
       <category>weather</category>
     </item>
     <item>
-      <title>A blue wave in governors' mansions could hurt families more than a blue Congress</title>
-      <link>https://www.foxnews.com/opinion/blue-wave-governors-mansions-hurt-families-more-than-blue-congress</link>
-      <guid isPermaLink="false">0f38f8883b33e87e1396f1290cd8f474d093b79e</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:57 GMT</pubDate>
-      <description><![CDATA[Republicans risk losing their governor majority for the first time since 2011, with five toss-up races and Democratic momentum in key states.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Eco-warriors want to turn up the heat on your wallet to fund their climate agenda</title>
-      <link>https://www.foxnews.com/opinion/eco-warriors-turn-up-heat-wallet-fund-climate-agenda</link>
-      <guid isPermaLink="false">96e123b1c8abc4c89ec248accef6ef317916efd6</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:52 GMT</pubDate>
-      <description><![CDATA[Climate lawfare could raise household energy costs by nearly $1,500 per year as lawsuits, climate superfund laws and legislation target energy companies.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'I am Omer': Former Hamas hostage reflects on surviving 505 harrowing days in captivity</title>
-      <link>https://www.foxnews.com/media/i-am-omer-former-hamas-hostage-reflects-surviving-505-harrowing-days-captivity</link>
-      <guid isPermaLink="false">d2f5425727bfdaa72ed96b21a12348cd1070030d</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:26 GMT</pubDate>
-      <description><![CDATA[Omer Shem Tov revealed the 505 days he spent as a Hamas hostage in Gaza, from total darkness in a tiny cage to refusing orders under threat of death.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Here's the latest sticker shock: Borrowing for a mortgage -- or a car</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5991910/interest-rates-economy-inflation-bonds</link>
-      <guid isPermaLink="false">b30d222570f9c8e8b843982ca691ab2fe1b60cc8</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[It's not just mortgages being at their highest level in almost three years — but the cost of loans for cars and higher education are among the borrowing costs affected, too.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Over 1,000 children are buried at juvenile detention centers nationwide</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5986124/over-1-000-children-are-buried-at-juvenile-detention-centers-nationwide</link>
-      <guid isPermaLink="false">135efc868072271ffb2426c2dbf52fd2276bec21</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Researchers uncovered the graves of more than 1,000 children next to juvenile detention facilities in 29 states. At one Maryland gravesite, 230 Black boys are buried.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Carpetbagger allegation, misplaced valor make Nevada's safe red House seat competitive</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5984671/nevada-midterm-election-valor-carpetbagger-reno</link>
-      <guid isPermaLink="false">71c36f13df82991e67d4578a242c7140bb673402</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>BTS frontman RM is showing his art collection. Fans are flocking to see it</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5986317/bts-rm-sfmoma-korean-art-san-francisco</link>
-      <guid isPermaLink="false">e284beb71df25296a5639b2f84b7bfccc209f121</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[The pop superstar is showing art from his personal collection for the first time. The San Francisco Museum of Modern Art is packed with fans.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>An early flu season means it might be time to think about a flu shot</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5992940/early-flu-season-vaccine</link>
-      <guid isPermaLink="false">189891d1bb80deae0b8712d0cbf277a220faf624</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Flu season typically starts in October or November. But it looks like the flu started to pick up in September this year.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Medicare for All' message attracts midterm voters buckling under medical bills</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5992772/medicare-for-all-midterm-voters-medical-bills-affordability</link>
-      <guid isPermaLink="false">0ef1ca1bb43f917b56fa85ebf0c16ac30a81de87</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks</title>
-      <link>https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning</link>
-      <guid isPermaLink="false">0cc0e28873016460823acf303dbab56397ebbf7a</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>5 things civil rights data says about public schools</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5988314/civil-rights-data-public-schools-trump</link>
-      <guid isPermaLink="false">d87bf264e73b99cfe5676bcd6e3eb8965441cd68</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[The federal Civil Rights Data Collection, for the first time in decades, tells us about the teacher workforce and reminds us racial disparities are still stark in American public schools.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Deep in Appalachia, a rail-to-trail project builds bipartisan support for a bridge</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5980349/rail-trail-bridge-ohio-river</link>
-      <guid isPermaLink="false">91d21ddfd15274bb9370f441ef3426184aca7deb</guid>
-      <pubDate>Wed, 07 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[The Trump administration has been hostile to federal spending on bicycle and pedestrian infrastructure. But there's bipartisan support for a multiuse trail that would connect Ohio and West Virginia.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>DR MARC SIEGEL: I went looking for miracles after Oct. 7. I found angels hiding in plain sight</title>
-      <link>https://www.foxnews.com/opinion/dr-marc-siegel-looking-miracles-oct-7-found-angels-hiding-plain-sight</link>
-      <guid isPermaLink="false">39ef93f65ad37b962035bf0188d1ae1b42e01bf7</guid>
-      <pubDate>Wed, 07 Oct 2026 08:55:27 GMT</pubDate>
-      <description><![CDATA[An Israeli medic's wrong test answer about combat gauze became the miracle that saved a soldier after shrapnel severed his femoral artery in Khan Yunis. Angels are among us.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Morning news brief</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5988272/morning-news-brief</link>
-      <guid isPermaLink="false">757c087692be0d8fa23f8d99210a2c93bfdaa315</guid>
-      <pubDate>Wed, 07 Oct 2026 08:44:52 GMT</pubDate>
-      <description><![CDATA[The investigation continues into whether Iran is linked it an incident at a U.K. air base, thousands join student-led protest in France, former German spy chief to face charges including espionage.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Children under 10 should not be given obesity drugs, World Health Organization warns</title>
-      <link>https://www.bbc.co.uk/news/articles/crvg904yw397o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d8e8aaa1156a693ee994b6a425998deb1d3404e2</guid>
-      <pubDate>Wed, 07 Oct 2026 08:07:54 GMT</pubDate>
-      <description><![CDATA[Care should focus on healthy eating and exercise, not medicines such as weight-loss injections, says the World Health Organization]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Jaguar unveils new electric car after 'woke' ridicule</title>
-      <link>https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d11a3b730c7e07f3b517116a579e219df422b007</guid>
-      <pubDate>Wed, 07 Oct 2026 07:57:10 GMT</pubDate>
-      <description><![CDATA[Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.]]></description>
+      <title>Timeline: Where Tropical Storm Isaias is headed and when it could become a hurricane</title>
+      <link>https://www.foxweather.com/weather-news/timeline-isaias-where-headed-evolve-throughout-week</link>
+      <guid isPermaLink="false">fcdd1b975c3562058cd45d94409a7f92fdce7e0c</guid>
+      <pubDate>Wed, 07 Oct 2026 02:12:52 GMT</pubDate>
+      <description><![CDATA[Tropical Storm Isaias formed in the Atlantic on Wednesday morning amid the quietest start to an Atlantic hurricane season since 1966, with no hurricanes having formed so far this year.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>India's opposition leader dragged onto bus as police break up protest</title>
-      <link>https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">349146704d27933bbe0b1f5ceee8dad73abcf5a1</guid>
-      <pubDate>Wed, 07 Oct 2026 07:45:47 GMT</pubDate>
-      <description><![CDATA[Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Federal judge blocks Trump administration fines of up to $1.8M for migrants</title>
-      <link>https://www.foxnews.com/politics/federal-judge-blocks-trump-administration-fines-up-1-8m-migrants</link>
-      <guid isPermaLink="false">4d6057c8f027ae0019b38928bc74925b452a719a</guid>
-      <pubDate>Wed, 07 Oct 2026 06:44:11 GMT</pubDate>
-      <description><![CDATA[A federal judge blocked the Trump administration's migrant fines of up to $1.8 million, ruling DHS unlawfully imposed civil penalties for ignoring final deportation orders.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Timeline: Where Tropical Depression Nine is headed and when it could become a hurricane</title>
@@ -444,6 +452,14 @@
       <guid isPermaLink="false">fcdd1b975c3562058cd45d94409a7f92fdce7e0c</guid>
       <pubDate>Wed, 07 Oct 2026 02:12:52 GMT</pubDate>
       <description><![CDATA[Tropical Depression Nine is expected to strengthen into a hurricane as it tracks toward the Gulf Coast. Here's the latest timeline and forecast.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Tropical Storm Isaias churns in Gulf as oil rigs prepare for potentially dangerous conditions</title>
+      <link>https://www.foxweather.com/weather-news/gulf-oil-rigs-alert-tropical-activity-intensifies</link>
+      <guid isPermaLink="false">6655b25a065a58235222c7cf90116827e46ce38a</guid>
+      <pubDate>Wed, 07 Oct 2026 00:39:38 GMT</pubDate>
+      <description><![CDATA[Numerous oil and gas companies are monitoring offshore operations in the Gulf of America as Tropical Storm Isaias develops.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -508,22 +524,6 @@
       <guid isPermaLink="false">36a8a96a9b596d43e0cfa81efbdade0c3c75072f</guid>
       <pubDate>Tue, 06 Oct 2026 10:27:25 GMT</pubDate>
       <description><![CDATA[A tropical depression is likely to form in the southern Gulf this week amid the quietest start to an Atlantic hurricane season since the start of the satellite era. The National Hurricane Center is giving Invest 92L high odds of becoming at least a tropical depression over the next two days.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Northern Florida beach towns facing a coastal flood threat as relentless rain soaks region throughout the week</title>
-      <link>https://www.foxweather.com/weather-news/florida-faces-flood-threat-relentless-rain-end-week</link>
-      <guid isPermaLink="false">d9b1ba18a4b5e85351eebee8fd4a5900f103f9e1</guid>
-      <pubDate>Tue, 06 Oct 2026 00:29:12 GMT</pubDate>
-      <description><![CDATA[The stretch of wet weather in Florida isn’t letting up anytime soon, with several inches of rainfall expected across the state through the end of the week.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Florida faces flood threat as relentless rain targets state through the end of the week</title>
-      <link>https://www.foxweather.com/weather-news/florida-faces-flood-threat-relentless-rain-end-week</link>
-      <guid isPermaLink="false">d9b1ba18a4b5e85351eebee8fd4a5900f103f9e1</guid>
-      <pubDate>Tue, 06 Oct 2026 00:29:12 GMT</pubDate>
-      <description><![CDATA[The stretch of wet weather in Florida isn’t letting up anytime soon, with several inches of rainfall expected across the state through the end of the week.]]></description>
       <category>weather</category>
     </item>
   </channel>
