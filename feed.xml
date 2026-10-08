@@ -15,18 +15,10 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon - Scattered Rain Showers</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 07 Oct 2026 22:34:12 GMT</pubDate>
-      <description><![CDATA[46°F. Wind N 0 to 5 mph. Scattered rain showers. Mostly cloudy, with a high near 46. North wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight - Scattered Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 07 Oct 2026 22:34:12 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:25:00 GMT</pubDate>
       <description><![CDATA[35°F. Wind N 5 mph. Scattered rain showers before 1am, then patchy fog. Mostly cloudy, with a low around 35. North wind around 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Thursday - Patchy Fog then Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 07 Oct 2026 22:34:12 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:25:00 GMT</pubDate>
       <description><![CDATA[44°F. Wind SE 0 to 5 mph. Patchy fog before 10am. Partly sunny, with a high near 44. Southeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +34,7 @@
       <title>Anchorage Weather: Thursday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 07 Oct 2026 22:34:12 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:25:00 GMT</pubDate>
       <description><![CDATA[34°F. Wind E 0 to 5 mph. Partly cloudy, with a low around 34. East wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,9 +42,49 @@
       <title>Anchorage Weather: Friday - Partly Sunny then Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 07 Oct 2026 22:34:12 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:25:00 GMT</pubDate>
       <description><![CDATA[46°F. Wind SE 0 to 5 mph. A slight chance of rain after 4pm. Partly sunny, with a high near 46. Southeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday Night - Chance Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Thu, 08 Oct 2026 02:25:00 GMT</pubDate>
+      <description><![CDATA[39°F. Wind SE 5 to 10 mph. A chance of rain. Mostly cloudy, with a low around 39. Southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Newscast: Wednesday, Oct. 7, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17491782/newscast-wednesday-oct-7-2026</link>
+      <guid isPermaLink="false">18448fc3c489fd037e6f74fea0509dd6222caf18</guid>
+      <pubDate>Thu, 08 Oct 2026 00:55:37 GMT</pubDate>
+      <description><![CDATA[In this newscast: The preliminary results for Juneau’s 2026 municipal election are in. They show that residents want to implement a new seasonal sales tax in Juneau next year and are split on two other tax-related propositions in the capital city; The USS Ted Stevens arrived in downtown Juneau Wednesday. The 510-foot-long missile destroyer’s visit comes after its commissioning ceremony in Whittier on Saturday; Controversial surveillance cameras that were designed to share data with law enforcement have recently sprung up in Anchorage this month. At least one there has already been cut down. And a map where people can report these cameras shows several in downtown Juneau; October is Filipino American History Month – a time to reflect on the history of Filipinos in Alaska and across the country. It can also be very personal. KTOO’s Mike Lane visited with Kaye Roldan, head of the cultural committee for Filipino Community, Inc., about the month, her own family history and growing up in Juneau; With a month left before Election Day, Democratic gubernatorial candidate Jonathan Kreiss-Tomkins has a big lead in fundraising. That’s according to campaign finance reports filed Monday that cover the period from Aug. 9 through Friday.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer rejects Airbnb tax collection plan amid concerns over cost</title>
+      <link>https://www.homernews.com/2026/10/07/homer-rejects-airbnb-tax-collection-plan-amid-concerns-over-cost/</link>
+      <guid isPermaLink="false">7e9ed2ecf2d81b29292b5174a03a0ed278b02d8e</guid>
+      <pubDate>Thu, 08 Oct 2026 00:30:00 GMT</pubDate>
+      <description><![CDATA[Unanimous vote leaves hosts reporting to borough as rental review continues]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Trump auto-enrolls 10s of millions in child investment accounts</title>
+      <link>https://alaskabeacon.com/2026/10/07/repub/trump-auto-enrolls-10s-of-millions-in-child-investment-accounts/</link>
+      <guid isPermaLink="false">43a6f4b55ff3e6c476d4fc76a1b2e28a4ae9cd94</guid>
+      <pubDate>Wed, 07 Oct 2026 23:30:51 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — Every child in the United States with a valid Social Security number is now enrolled in a tax-advantaged investment account, titled a “Trump Account,” President Donald Trump announced Wednesday. Parents must claim the accounts by downloading a Trump Account mobile app. Children born from 2025 through 2028 will automatically receive a one-time deposit […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska gubernatorial candidate settles campaign finance complaint with state regulators</title>
+      <link>https://alaskabeacon.com/2026/10/07/alaska-gubernatorial-candidate-settles-campaign-finance-complaint-with-state-regulators/</link>
+      <guid isPermaLink="false">3f23540c3f1f51d9b7a9df5b0303b3f22c7c3b0a</guid>
+      <pubDate>Wed, 07 Oct 2026 22:58:45 GMT</pubDate>
+      <description><![CDATA[Alaska gubernatorial candidate Treg Taylor has agreed to pay a fine and update his campaign disclosure reports as part of a settlement with state regulators to resolve a campaign finance disclosure complaint. The complaint challenged Taylor’s failure to disclose details of more than $187,000 in expenditures to a handful of campaign consulting businesses. Commissioners with […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>You shouldn’t need a law degree to hunt moose in Alaska</title>
@@ -239,28 +271,124 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Vote by the record: JD Vance speaks at Fairbanks rally for Sullivan and Begich</title>
-      <link>https://mustreadalaska.com/vote-by-the-record-jd-vance-speaks-at-fairbanks-rally-for-sullivan-and-begich/</link>
-      <guid isPermaLink="false">d40615ffdb5214222f5b2efea8335101eba7d9e6</guid>
-      <pubDate>Tue, 06 Oct 2026 22:38:56 GMT</pubDate>
-      <description><![CDATA[On Monday, October 5, Vice President JD Vance spoke at a rally in Fairbanks, encouraging Alaskans to re-elect Senator Dan S. Sullivan and Rep. Nick Begich. He focused on Sullivan’s work advancing policy on energy, military, and fishing, contrasting Sullivan’s record with Peltola’s failure to get bills across the line or even show up to […] The post Vote by the record: JD Vance speaks at Fairbanks rally for Sullivan and Begich appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>AI chip boom pushes Samsung profits to record $80bn</title>
+      <link>https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">55dfc7be6ae6a07961a78a7a85330ce420d20302</guid>
+      <pubDate>Thu, 08 Oct 2026 01:59:54 GMT</pubDate>
+      <description><![CDATA[The tech giant is also expected to get a boost from its latest folding devices that were launched in August.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>State fishing loan program could see higher interest rates next summer</title>
-      <link>https://www.juneauempire.com/2026/10/06/state-fishing-loan-program-could-see-higher-interest-rates-next-summer/</link>
-      <guid isPermaLink="false">86eb8f526f412899a45de2c4f3968705f60bac23</guid>
-      <pubDate>Tue, 06 Oct 2026 22:30:00 GMT</pubDate>
-      <description><![CDATA[Running your own commercial fishing operation may offer more freedom, but that freedom comes at a premium.]]></description>
-      <category>local</category>
+      <title>Will Tropical Storm Isaias cancel weekend events in the Southeast? Here's what to know</title>
+      <link>https://www.foxweather.com/weather-news/isaias-hurricane-weekend-events-southeast-gulf-coast</link>
+      <guid isPermaLink="false">e6f4b042439cf2065d2aa215493c6f86ec47f48b</guid>
+      <pubDate>Thu, 08 Oct 2026 01:46:52 GMT</pubDate>
+      <description><![CDATA[Events all over the Gulf Coast from Tallahassee to Nashville could be impacted by Tropical Storm Isaias, which is forecast to become a hurricane.]]></description>
+      <category>weather</category>
     </item>
     <item>
-      <title>Trump drops longtime aversion to mail-in voting with GOP trailing in polls</title>
-      <link>https://alaskabeacon.com/2026/10/06/repub/trump-drops-longtime-aversion-to-mail-in-voting-with-gop-trailing-in-polls/</link>
-      <guid isPermaLink="false">3cae14f2c0671d43f5757cd562660912f4a0cdce</guid>
-      <pubDate>Tue, 06 Oct 2026 21:05:49 GMT</pubDate>
-      <description><![CDATA[President Donald Trump wants to sharply curtail mail ballots. He’s called them “inherently corrupt” and baselessly condemned them as a major source of fraud. But with Republicans falling behind in the polls, the president is now urging his supporters to vote in the midterm elections any way they can, including by mail. The White House […]]]></description>
-      <category>local</category>
+      <title>Ken Paxton calls out James Talarico's 11-day absence at Trump rally, prompting response from campaign</title>
+      <link>https://www.foxnews.com/politics/ken-paxton-calls-james-talarico-11-day-absence-trump-rally-prompting-response-campaign</link>
+      <guid isPermaLink="false">c562360b2a01d77494c645d4fc85b3ef94e55631</guid>
+      <pubDate>Thu, 08 Oct 2026 01:35:13 GMT</pubDate>
+      <description><![CDATA[Ken Paxton led a "Where is Talarico?" chant at Trump's San Antonio rally, but James Talarico's campaign says the Democrat has been sick with the flu.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Los Angeles Dodgers are back in the NLCS for third straight season after win over Atlanta Braves</title>
+      <link>https://www.foxnews.com/outkick-sports/los-angeles-dodgers-back-nlcs-third-straight-season-4-1-win-atlanta-braves</link>
+      <guid isPermaLink="false">aa19b93dce772e37ea5a44174bf7dc9d0cb9130a</guid>
+      <pubDate>Thu, 08 Oct 2026 01:27:31 GMT</pubDate>
+      <description><![CDATA[Josue De Paula and Kyle Tucker drew pivotal walks before Andy Pages laced a go-ahead single as the Dodgers broke through the Braves bullpen.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>FIRST ON FOX: US Coast Guard recruits largest class in nearly 40 years, beats goals for third straight year</title>
+      <link>https://www.foxnews.com/us/us-coast-guard-recruits-largest-class-nearly-40-years-beats-goals-third-straight-year</link>
+      <guid isPermaLink="false">8c42f3caf959f2da41c46de687023a03edb003e0</guid>
+      <pubDate>Thu, 08 Oct 2026 00:58:34 GMT</pubDate>
+      <description><![CDATA[The Coast Guard enlisted 5,445 active-duty members in fiscal year 2026, its largest class in nearly four decades as Force Design aims to add 15,000.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>ESPN star Stephen A. Smith's Lane Johnson, Eagles rant triggers immediate video apology</title>
+      <link>https://www.foxnews.com/outkick-sports/espn-star-stephen-a-smith-lane-johnson-eagles-rant-triggers-immediate-video-apology</link>
+      <guid isPermaLink="false">8cb043b245e1c58be615ef8e6729a88320b5ee17</guid>
+      <pubDate>Thu, 08 Oct 2026 00:51:11 GMT</pubDate>
+      <description><![CDATA[Stephen A. Smith faced immediate backlash after questioning Lane Johnson's mid-season retirement and mocking the Eagles tackle's mental health timing.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>GOP Senate hopeful sounds alarm after alleged Mall of America terror plot thwarted</title>
+      <link>https://www.foxnews.com/politics/gop-senate-hopeful-sounds-alarm-alleged-mall-america-terror-plot-thwarted</link>
+      <guid isPermaLink="false">5d91586fd464221ab85cc0db1b29f787e81e0532</guid>
+      <pubDate>Thu, 08 Oct 2026 00:30:25 GMT</pubDate>
+      <description><![CDATA[Michele Tafoya says Minnesotans "feel under a level of threat" after the FBI arrested an 18-year-old over an alleged ISIS-inspired Mall of America plot.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>'Glad to see it': Super Bowl champion Bruce Arians rips out-of-control NFL refs after two suspensions</title>
+      <link>https://www.foxnews.com/outkick-sports/glad-see-super-bowl-champion-bruce-arians-rips-out-of-control-nfl-refs-after-two-suspensions</link>
+      <guid isPermaLink="false">368130e95447628e35dcb9943a3b68ca94a3b880</guid>
+      <pubDate>Thu, 08 Oct 2026 00:19:56 GMT</pubDate>
+      <description><![CDATA[Super Bowl-winning coach Bruce Arians said he's surprised by NFL suspensions of Jeff Seeman and Adrian Hill but welcomes new official accountability.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iowa city council meeting erupts after former member opens meeting with satanic prayer and 'Hail Satan'</title>
+      <link>https://www.foxnews.com/media/iowa-city-council-meeting-erupts-after-former-member-opens-meeting-satanic-prayer-hail-satan</link>
+      <guid isPermaLink="false">ec84e3c5a5f03fb16314b50bce38c272a286ec24</guid>
+      <pubDate>Thu, 08 Oct 2026 00:06:51 GMT</pubDate>
+      <description><![CDATA[A former Ottumwa City Council member opened a meeting with a satanic prayer ending in "Hail Satan," prompting a pastor to call the controversial incident a "curse."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Cleveland Guardians stay alive in ALDS, deny White Sox clinch at home</title>
+      <link>https://www.foxnews.com/outkick-sports/cleveland-guardians-stay-alive-alds-deny-white-sox-clinch-home</link>
+      <guid isPermaLink="false">009adc62db67515826bfbc23efe756bc3dab9be1</guid>
+      <pubDate>Thu, 08 Oct 2026 00:04:55 GMT</pubDate>
+      <description><![CDATA[Kyle Teel's early double gave Chicago the lead, but Cleveland's 11-hit explosion in ALDS Game 3 denied the White Sox a series-clinching moment.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Critical House race that could decide control of Congress hits home stretch as GOP rep warns what's at stake</title>
+      <link>https://www.foxnews.com/politics/critical-house-race-decide-control-congress-hits-home-stretch-gop-rep-warns-whats-stake</link>
+      <guid isPermaLink="false">12b0b652897495d2dccbfb142403a5d0ffcad86e</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:22 GMT</pubDate>
+      <description><![CDATA[Mariannette Miller-Meeks accuses Christina Bohannan of aligning with the Democratic Socialists of America on open borders and defunding police.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Don't wait — this Barefoot Dreams blanket is still 53% off for Amazon Prime Big Deal Days</title>
+      <link>https://www.foxnews.com/deals/barefoot-dreams-throw-blanket-amazon-deal</link>
+      <guid isPermaLink="false">147618b48ce61801d968589e3d702c2264c9e6ad</guid>
+      <pubDate>Wed, 07 Oct 2026 23:58:33 GMT</pubDate>
+      <description><![CDATA[Prep for winter weather with this luxuriously soft Barefoot Dreams throw blanket — it has a spot on Oprah's Favorite Things and it's more than half off for Prime Day.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>We spent thousands on a Tui river cruise but ended up on coach trips</title>
+      <link>https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ae1bf8978a92b0eaf814a7f0aee9f8f2264095d4</guid>
+      <pubDate>Wed, 07 Oct 2026 23:05:17 GMT</pubDate>
+      <description><![CDATA[Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Burnham to hold security talks with German chancellor in Berlin</title>
+      <link>https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d49a8fb195683fdd8a11988e8295a0563b37168f</guid>
+      <pubDate>Wed, 07 Oct 2026 23:01:31 GMT</pubDate>
+      <description><![CDATA[Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hedgehog among four chosen animals to feature on new banknotes</title>
+      <link>https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">39f96942b2a2c74c8d5e83e0b6e0a031287f4a66</guid>
+      <pubDate>Wed, 07 Oct 2026 23:01:30 GMT</pubDate>
+      <description><![CDATA[The decision comes after nearly half a million people cast their votes from a shortlist of 18 creatures.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Former Venezuelan President Nicolás Maduro expected to face more charges this week</title>
@@ -311,124 +439,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Christa Pike 'angry and confused' after failed execution, lawyers say</title>
-      <link>https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">278dcd50cfcb8186cc5b6acfca59a88498a0cf10</guid>
-      <pubDate>Wed, 07 Oct 2026 21:51:21 GMT</pubDate>
-      <description><![CDATA[Lawyers say the convicted killer was surprised to have survived and remained "shackled" to her hospital bed.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Spanish pensioner whose eviction sparked nationwide protests dies, union says</title>
-      <link>https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">852aba6fb865f208197f6df95a09185448e48479</guid>
-      <pubDate>Wed, 07 Oct 2026 21:40:24 GMT</pubDate>
-      <description><![CDATA[Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Drink up, boys! NFL reverses course after meeting with NFLPA to allow all drinking celebrations without fines</title>
-      <link>https://www.foxnews.com/outkick-sports/drink-up-boys-nfl-reverses-course-meeting-nflpa-allow-all-drinking-celebrations-without-fines</link>
-      <guid isPermaLink="false">c5ed98ed415bece8bceec80c4303dcac2b3d73b7</guid>
-      <pubDate>Wed, 07 Oct 2026 21:39:01 GMT</pubDate>
-      <description><![CDATA[The NFL and NFL Players Association now allow drinking celebrations after rescinding fines for Kyle Juszczyk and Jake Ferguson's touchdown moves.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>DNC lawsuit accuses Trump administration of diverting $20M in federal funds for 'propaganda' ads</title>
-      <link>https://www.foxnews.com/politics/dnc-lawsuit-accuses-trump-admin-diverting-20m-federal-funds-propaganda-ads</link>
-      <guid isPermaLink="false">e5f7355b91142f47839724447b75fb6ac826afea</guid>
-      <pubDate>Wed, 07 Oct 2026 21:29:42 GMT</pubDate>
-      <description><![CDATA[The Democratic National Committee alleges the Trump administration directed $20 million in taxpayer funds toward ads designed to boost Republicans ahead of 2026 midterms.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Popular US airport called out as 'most stressful' in America for travelers</title>
-      <link>https://www.foxnews.com/travel/popular-us-airport-called-out-most-stressful-america-travelers</link>
-      <guid isPermaLink="false">405786a1fd3f146cded0e8baf28a2d20c7702c92</guid>
-      <pubDate>Wed, 07 Oct 2026 21:26:46 GMT</pubDate>
-      <description><![CDATA[Dallas/Fort Worth International Airport tops a new ranking of the "most stressful" U.S. airports, according to an analysis, with nearly 28% of all flights delayed in 2025.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Valerie Bertinelli hits back at trolls who say she's 'obsessed' with late ex Eddie Van Halen</title>
-      <link>https://www.foxnews.com/entertainment/valerie-bertinelli-hits-back-trolls-who-say-shes-obsessed-late-ex-eddie-van-halen</link>
-      <guid isPermaLink="false">d46ad890da25b7b3020c766d292b0a7669c0f074</guid>
-      <pubDate>Wed, 07 Oct 2026 21:22:54 GMT</pubDate>
-      <description><![CDATA[Valerie Bertinelli fired back at trolls who called her "obsessed" with late ex-husband Eddie Van Halen, after she paid tribute to him online.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Patriots' Drake Maye says he's 'a little bit skeptical' US landed on moon, NASA responds</title>
-      <link>https://www.foxnews.com/outkick-sports/patriots-drake-maye-skeptical-us-landed-moon-nasa-responds</link>
-      <guid isPermaLink="false">af159dcd0439a1272616498675cbfcef74e0f701</guid>
-      <pubDate>Wed, 07 Oct 2026 21:22:13 GMT</pubDate>
-      <description><![CDATA[Drake Maye shared his moon landing skepticism on WEEI after the Buffalo Bills win, prompting NASA Administrator Jared Isaacman to fire back.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>100-shot Somali gang gun battle rocks Minnesota as sheriff warns 'we're in trouble'</title>
-      <link>https://www.foxnews.com/politics/100-shot-somali-gang-gun-battle-rocks-minnesota-sheriff-warns-trouble</link>
-      <guid isPermaLink="false">247419ce67b99b7af4a50f0a774513dd6746661e</guid>
-      <pubDate>Wed, 07 Oct 2026 21:21:18 GMT</pubDate>
-      <description><![CDATA[CCTV captured a gunfight that left 97 casings in Bloomington as Somali gang violence across Minnesota's Twin Cities draws national attention.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>What is the pneumonic plague?</title>
-      <link>https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death</link>
-      <guid isPermaLink="false">b2143a750c30bb38af06e88faf561ab25bc37ca5</guid>
-      <pubDate>Wed, 07 Oct 2026 21:06:31 GMT</pubDate>
-      <description><![CDATA[The ancient disease of plague is back in the headlines after the death this month of a Russian lab worker.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Millions in the Southeast brace for days of severe weather as Gulf system looms</title>
       <link>https://www.foxweather.com/weather-news/millions-southeast-brace-rain-severe-weather-kalshi</link>
       <guid isPermaLink="false">84d8e331094a267163164f1e801e2b359bca66bd</guid>
       <pubDate>Wed, 07 Oct 2026 20:32:17 GMT</pubDate>
       <description><![CDATA[Millions of people in the Southeast U.S. are bracing for days of severe weather as future Hurricane Isaias brews in the Gulf, with some precipitation impacts beginning Wednesday.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Chinese runner dropped by sponsor after riding bike during marathon</title>
-      <link>https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">211d07ee70f526f54f5211f38d69b5b26a2e199a</guid>
-      <pubDate>Wed, 07 Oct 2026 20:29:31 GMT</pubDate>
-      <description><![CDATA[Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Israelis mourn 7 October attack victims three years after deadly Hamas raid</title>
-      <link>https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">515b2afcafd91fd94f821a1a12d7e94223c63394</guid>
-      <pubDate>Wed, 07 Oct 2026 20:27:03 GMT</pubDate>
-      <description><![CDATA[Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>This surprising mammal fossil is giving scientists something to chew on</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest</link>
-      <guid isPermaLink="false">affd0f5182879340099545e11ead3e75a1aa614c</guid>
-      <pubDate>Wed, 07 Oct 2026 19:59:16 GMT</pubDate>
-      <description><![CDATA[It's likely you've already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs still reigned.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Judge orders that Christa Pike execution evidence be preserved</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved</link>
-      <guid isPermaLink="false">8e1e5eea4337ee585f279e1791d35fc8237fe484</guid>
-      <pubDate>Wed, 07 Oct 2026 19:53:10 GMT</pubDate>
-      <description><![CDATA[A week after the failed execution, Pike is awake but is said to be angry and confused. Her lawyers said Wednesday's hearing was about "transparency."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump approved the military's 1st firing squad execution since WWII. Why now?</title>
-      <link>https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood</link>
-      <guid isPermaLink="false">0c686ef412332d645871b204ee4f4bbcbcd2f972</guid>
-      <pubDate>Wed, 07 Oct 2026 19:08:48 GMT</pubDate>
-      <description><![CDATA[The Pentagon says Nidal Hasan will be executed by firing squad in December at Fort Hood, where he killed 13 people in 2009. The announcement came days after a botched lethal injection in Tennessee.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Storm preparations ramp up across Southeast as future Hurricane Isaias barrels toward to US</title>
@@ -444,6 +460,14 @@
       <guid isPermaLink="false">832f14f08387f47f3c714a7274416d2e675e1a90</guid>
       <pubDate>Wed, 07 Oct 2026 14:21:37 GMT</pubDate>
       <description><![CDATA[The disturbance we've been watching in the southwestern Gulf quickly wrapped up into Tropical Storm Isaias early today. The forecast from the National Hurricane Center and the consensus of the various computer model forecasts is that the storm will impact the northern Gulf Coast as a significant hurricane late Friday or early Saturday.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Evacuations ongoing, states of emergency declared ahead of future Hurricane Isaias’ dangerous landfall</title>
+      <link>https://www.foxweather.com/weather-news/tropical-storm-isaias-gulf-coast-landfalling-atlantic-hurricane</link>
+      <guid isPermaLink="false">cc613f7997de6bbdd5cbf5f9666d1704b6f3d55b</guid>
+      <pubDate>Wed, 07 Oct 2026 09:21:39 GMT</pubDate>
+      <description><![CDATA[The first Hurricane and Storm Surge Watches have been issued for the northern Gulf Coast as Tropical Storm Isaias continues to strengthen in the southern Gulf and is forecast to rapidly intensify into a dangerous Category 2 hurricane. Florida Governor Ron DeSantis has declared a state of emergency ahead of the storm.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -500,30 +524,6 @@
       <guid isPermaLink="false">c295d4c6bfd580eb4fbde4c3ba042555aba70bfa</guid>
       <pubDate>Tue, 06 Oct 2026 23:35:47 GMT</pubDate>
       <description><![CDATA[Miami could see more rain this month as a slow-moving front keeps showers and thunderstorms in the forecast across Florida.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Future Hurricane Isaias tracker: Storm path, forecast cone, spaghetti models, wind and flood threat</title>
-      <link>https://www.foxweather.com/weather-news/future-hurricane-isaias-live-tracker-forecast-wind-flood-threat</link>
-      <guid isPermaLink="false">8c68cf6a9a6d93c63b2e13fc43d691d057e5c351</guid>
-      <pubDate>Tue, 06 Oct 2026 22:57:28 GMT</pubDate>
-      <description><![CDATA[Tropical Depression Nine is forecast to strengthen into Hurricane Isaias before making a dangerous U.S. landfall this weekend, bringing the threat of heavy rain, flooding and tropical storm impacts to the Gulf Coast.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Future Hurricane Isaias could revive a name tied to a deadly tornado legacy</title>
-      <link>https://www.foxweather.com/weather-news/future-hurricane-isaias-could-revive-deadly-tornado-legacy</link>
-      <guid isPermaLink="false">d7765f3e64b1624f69f50f06d16f251181f2b1d8</guid>
-      <pubDate>Tue, 06 Oct 2026 22:15:24 GMT</pubDate>
-      <description><![CDATA[More tropical trouble is brewing in the Gulf of America a Tropical Depression Nine is set to become the next named storm, Isaias.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Tropical Depression Nine forms in the Atlantic on track to be first dangerous hurricane of the season</title>
-      <link>https://www.foxweather.com/weather-news/tropical-depression-nine-forms-atlantic-track-become-isaias-hurricane</link>
-      <guid isPermaLink="false">b3d458aaab6c0f8a9daf2195030add1ec783962c</guid>
-      <pubDate>Tue, 06 Oct 2026 20:44:13 GMT</pubDate>
-      <description><![CDATA[Tropical Depression Nine formed in the Gulf and is forecast to become the Atlantic's first hurricane of the season, posing a dangerous landfall threat to the U.S.]]></description>
       <category>weather</category>
     </item>
   </channel>
