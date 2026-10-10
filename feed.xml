@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 21:25:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:27:03 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: This Afternoon - Partly Sunny</title>
+      <title>Anchorage Weather: This Afternoon - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 09 Oct 2026 21:25:46 GMT</pubDate>
-      <description><![CDATA[46°F. Wind SE 0 to 5 mph. Partly sunny, with a high near 46. Southeast wind 0 to 5 mph.]]></description>
+      <pubDate>Sat, 10 Oct 2026 01:27:03 GMT</pubDate>
+      <description><![CDATA[46°F. Wind SE 5 mph. Mostly cloudy, with a high near 46. Southeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 09 Oct 2026 21:25:46 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 01:27:03 GMT</pubDate>
       <description><![CDATA[41°F. Wind SE 5 to 15 mph. Rain after 7pm. Cloudy, with a low around 41. Southeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Saturday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 09 Oct 2026 21:25:46 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 01:27:03 GMT</pubDate>
       <description><![CDATA[47°F. Wind SE 15 to 20 mph. Rain likely. Cloudy, with a high near 47. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Saturday Night - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 09 Oct 2026 21:25:46 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 01:27:03 GMT</pubDate>
       <description><![CDATA[38°F. Wind E 5 to 15 mph. Rain. Cloudy, with a low around 38. East wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +42,41 @@
       <title>Anchorage Weather: Sunday - Light Rain then Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 09 Oct 2026 21:25:46 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 01:27:03 GMT</pubDate>
       <description><![CDATA[46°F. Wind S 5 to 10 mph. Rain before 10am, then a chance of rain showers. Mostly cloudy, with a high near 46. South wind 5 to 10 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>State report shows heating fuel prices are at a record high in rural Alaska</title>
+      <link>https://alaskabeacon.com/2026/10/09/state-report-shows-heating-fuel-prices-are-at-a-record-high-in-rural-alaska/</link>
+      <guid isPermaLink="false">9bfb5633bdc6ecdb6402c4538116665a8ec9421b</guid>
+      <pubDate>Sat, 10 Oct 2026 01:15:26 GMT</pubDate>
+      <description><![CDATA[The average price of a gallon of heating fuel — No. 1 diesel — in rural Alaska reached a record $7.97 per gallon in August, according to the latest biannual survey conducted by the Alaska Division of Community and Regional Affairs. The rural average, based on a survey of 100 communities taken between July 15 […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Juneau man honored with prestigious St. Thérèse Award</title>
+      <link>https://www.juneauempire.com/2026/10/09/juneau-man-honored-with-prestigious-st-thrse-award/</link>
+      <guid isPermaLink="false">517ceecd5a677374bccc81331ad249f4081e4446</guid>
+      <pubDate>Sat, 10 Oct 2026 00:30:00 GMT</pubDate>
+      <description><![CDATA[Jim Wilcox was recognized for his lifetime of outstanding dedication, hospitality, and stewardship]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Two Alaska governor candidates advocate lower minimum wage, rollback of sick leave law</title>
+      <link>https://alaskabeacon.com/2026/10/09/two-alaska-governor-candidates-advocate-lower-minimum-wage-rollback-of-sick-leave-law/</link>
+      <guid isPermaLink="false">139fc85ee6d0a58b1919da2133f48ee5be649518</guid>
+      <pubDate>Fri, 09 Oct 2026 23:52:00 GMT</pubDate>
+      <description><![CDATA[If elected, Republican governor candidates Dave Bronson and Bernadette Wilson said they would seek to roll back Alaska’s mandatory sick leave law and eliminate a minimum wage increase approved by voters in 2024. The two spoke at a forum hosted Wednesday in Juneau by the Juneau Chamber of Commerce, which is in favor of rolling […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>2 Juneau non-profits recieve grant awards from Alaska Mental Health Trust Authority</title>
+      <link>https://www.juneauempire.com/2026/10/09/2-juneau-non-profits-recieve-grant-awards-from-alaska-mental-health-trust-authority/</link>
+      <guid isPermaLink="false">db9f7ff4c30a53b190063c7c051b2ddc529c01cf</guid>
+      <pubDate>Fri, 09 Oct 2026 22:30:00 GMT</pubDate>
+      <description><![CDATA[The Kin Support Program Haa – Yaitxu Saiani and National Alliance on Mental Illness Juneau received trust funding]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Juneau Seawalk extension set to begin construction in April 2027</title>
@@ -84,6 +116,46 @@
       <guid isPermaLink="false">81b535701035a8afba128d103ca30bbac1c5d1b2</guid>
       <pubDate>Fri, 09 Oct 2026 17:51:00 GMT</pubDate>
       <description><![CDATA[State forecasts point to staffing pressures as drivers weigh repair costs]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska Army National Guard aviators rescue two stranded boaters north of the Arctic Circle</title>
+      <link>https://alaska-native-news.com/alaska-army-national-guard-aviators-rescue-two-stranded-boaters-north-of-the-arctic-circle/86600/</link>
+      <guid isPermaLink="false">7b7652078cfb4f0748f4d90e8eb89c508a75dcc1</guid>
+      <pubDate>Fri, 09 Oct 2026 14:05:34 GMT</pubDate>
+      <description><![CDATA[JOINT BASE ELMENDORF-RICHARDSON – Alaska Army National Guard aviators with the 1-168th General Support Aviation Battalion rescued two overdue boaters whose vessel became stuck in icy water about 7 miles north of the Arctic Circle, Oct. 6. The Alaska Rescue Coordination Center opened a mission in response to a request for assistance from the Alaska […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska’s orange rivers more metallic than acid mine drainage</title>
+      <link>https://alaska-native-news.com/alaskas-orange-rivers-more-metallic-than-acid-mine-drainage/86602/</link>
+      <guid isPermaLink="false">f04ff03fa7aae183fe646460032940a6d6578b09</guid>
+      <pubDate>Fri, 09 Oct 2026 14:04:42 GMT</pubDate>
+      <description><![CDATA[Thawing Permafrost Sends Plumes of Rusty, Metal-Rich Water Far Downstream The bright orange plumes of water scientists first noticed billowing across a river in Alaska’s Brooks Range in 2018 were even more acidic and metallic than water leached from metal mines, despite their pristine surroundings. That is according to a new study from the University […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Understanding Shakespeare’s message on death</title>
+      <link>https://alaska-native-news.com/understanding-shakespeares-message-on-death/86607/</link>
+      <guid isPermaLink="false">efe11490f992148e38d16221b4cf33feea6e4047</guid>
+      <pubDate>Fri, 09 Oct 2026 14:03:56 GMT</pubDate>
+      <description><![CDATA[Students who have read, watched or performed any of the works of William Shakespeare know how frequently death factors into the plot. Tragedies like Romeo and Juliet, Othello and Hamlet end with deaths of the titular characters — and many others, as well. Toby Widdicombe, Ph.D., professor of English, recently published a book exploring Shakespeare’s […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>‘What They Say When They’re Scared’: Vance Offers ‘Brain-Dead’ Definition of Socialism</title>
+      <link>https://alaska-native-news.com/what-they-say-when-theyre-scared-vance-offers-brain-dead-definition-of-socialism/86611/</link>
+      <guid isPermaLink="false">854dc8299c0f20f79524c9cc2f6d81458a8fc6db</guid>
+      <pubDate>Fri, 09 Oct 2026 14:02:38 GMT</pubDate>
+      <description><![CDATA[“JD is the most irritating of Trump’s acolytes because he spouts absurd MAGA bullshit, knowing full well how stupid it is,” said one critic. As Republicans struggle to convince Americans to vote for the party whose policies have made workers’ lives more difficult and expensive, they’ve increasingly invoked the tried-and-true bogeyman of socialism—a word for […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>‘He Thinks Working People Are a Joke’: Ken Paxton Floats Social Security Cuts in Leaked Audio</title>
+      <link>https://alaska-native-news.com/he-thinks-working-people-are-a-joke-ken-paxton-floats-social-security-cuts-in-leaked-audio/86608/</link>
+      <guid isPermaLink="false">75ad20d73f1760567b158bc82714a985ff1761bf</guid>
+      <pubDate>Fri, 09 Oct 2026 14:01:57 GMT</pubDate>
+      <description><![CDATA[“This is a sick man who thinks it’s a joke to push over a million Texans into poverty by stealing their hard-earned benefits.” Ken Paxton, the Republican Party’s nominee for the US Senate in Texas, expressed a willingness to cut programs such as Social Security in a leaked recording published by The Texas Tribune on […]]]></description>
       <category>local</category>
     </item>
     <item>
@@ -231,68 +303,140 @@
       <category>local</category>
     </item>
     <item>
-      <title>172 Billionaire Families Have Spent Record $1.7 Billion on 2026 Midterms So Far: Analysis</title>
-      <link>https://alaska-native-news.com/172-billionaire-families-have-spent-record-1-7-billion-on-2026-midterms-so-far-analysis/86591/</link>
-      <guid isPermaLink="false">bccb5cd33a723035d0139994457d28815a14db0d</guid>
-      <pubDate>Thu, 08 Oct 2026 14:01:25 GMT</pubDate>
-      <description><![CDATA[“With each passing election since the Citizens United decision, billionaires have systematically bought up our democracy.” An analysis released Wednesday shows that 172 billionaire families in the United States have collectively spent more than $1.7 billion on the 2026 elections—a record-shattering sum for a midterm cycle. The analysis by the Americans for Tax Fairness (ATF) […]]]></description>
-      <category>local</category>
+      <title>Gov Kathy Hochul signs New York onto Trump's school choice program despite teachers union opposition</title>
+      <link>https://www.foxnews.com/media/gov-kathy-hochul-signs-new-york-trump-school-choice-program-despite-teachers-union-opposition</link>
+      <guid isPermaLink="false">731bd19d97570e9061a4a921a8d58f16333004f4</guid>
+      <pubDate>Sat, 10 Oct 2026 01:03:12 GMT</pubDate>
+      <description><![CDATA[New York Gov. Kathy Hochul joined President Donald Trump's Education Freedom Tax Credit despite fierce opposition from teachers unions and a petition to reject it.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>This Day in Alaska History-October 8th, 1914</title>
-      <link>https://alaska-native-news.com/october-8th-1914/45069/</link>
-      <guid isPermaLink="false">b1ba2f5c8dbe79c438eaa311b3f90c4497802ada</guid>
-      <pubDate>Thu, 08 Oct 2026 14:00:42 GMT</pubDate>
-      <description><![CDATA[William Egan was born in Valdez to a mining family on October 8th, 1914. From his meager beginnings in Valdez, he would become one of Alaska’s most famous people. By age 10, Bill worked in a local cannery following his father’s death in an avalanche to help his mother care for the family. His interest […]]]></description>
-      <category>local</category>
+      <title>Lions head coach pays tribute to Mike Ditka after learning of his death from a press conference question</title>
+      <link>https://www.foxnews.com/outkick-sports/lions-head-coach-pays-tribute-mike-ditka-after-learning-his-death-press-conference-question</link>
+      <guid isPermaLink="false">1e8df9833627c8665526c9e6c75675f34e31bea1</guid>
+      <pubDate>Sat, 10 Oct 2026 00:56:46 GMT</pubDate>
+      <description><![CDATA[Dan Campbell shared an unforgettable pre-draft story about sitting alone with Mike Ditka in a room full of cigar smoke ahead of the 1999 NFL Draft.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Most candidates for Alaska governor pledge to live in Juneau if elected</title>
-      <link>https://alaskabeacon.com/2026/10/08/most-candidates-for-alaska-governor-pledge-to-live-in-juneau-if-elected/</link>
-      <guid isPermaLink="false">e66b11954072b4e63885432e9a060ea6d2f9d01a</guid>
-      <pubDate>Thu, 08 Oct 2026 13:38:49 GMT</pubDate>
-      <description><![CDATA[Three of the four Alaska candidates for governor told a Juneau crowd they would live and maintain the seat of government in the state’s Southeast Alaska capital city at a forum in Juneau on Wednesday. The candidates’ commitment signals the potential for a significant shift. Gov. Mike Dunleavy, who has served for eight years and […]]]></description>
-      <category>local</category>
+      <title>Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin</title>
+      <link>https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2b3762f9568b90ea41eb73768f062956be7c26be</guid>
+      <pubDate>Sat, 10 Oct 2026 00:45:51 GMT</pubDate>
+      <description><![CDATA[Ukraine's president sharply criticised the move, calling it an "investment in war that must be ended, not prolonged".]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Homer considers easing trapping ban amid feral rabbit complaints</title>
-      <link>https://www.homernews.com/2026/10/08/homer-considers-easing-trapping-ban-amid-feral-rabbit-complaints/</link>
-      <guid isPermaLink="false">70de7ca1a1ebe91ca61496b377c3e3f4954b389b</guid>
-      <pubDate>Thu, 08 Oct 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[Proposal would let residents capture pests but leaves disposal questions open]]></description>
-      <category>local</category>
+      <title>James Talarico resurfaces after extended absence as his campaign pushes back</title>
+      <link>https://www.foxnews.com/politics/james-talarico-resurfaces-after-12-day-absence-sparked-campaign-trail-attacks</link>
+      <guid isPermaLink="false">66e6cbcc17c72bf0945b5b059596ef33656c9d12</guid>
+      <pubDate>Sat, 10 Oct 2026 00:41:11 GMT</pubDate>
+      <description><![CDATA[James Talarico resurfaces at Austin City Limits after a 12-day absence that drew sharp attacks from Trump and Ken Paxton on the campaign trail.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Pumpkin and sausage soup brings warmth to the season</title>
-      <link>https://www.homernews.com/2026/10/08/pumpkin-and-sausage-soup-brings-warmth-to-the-season/</link>
-      <guid isPermaLink="false">401d94f21abd61500dea9514206f1627f866adb6</guid>
-      <pubDate>Thu, 08 Oct 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Fresh-roasted pumpkin is low-calorie, high-fiber, and rich in essential vitamins and minerals]]></description>
-      <category>local</category>
+      <title>Super Bowl LXI gets Pat McAfee treatment as ESPN adds alternate broadcast</title>
+      <link>https://www.foxnews.com/outkick-sports/super-bowl-lxi-gets-pat-mcafee-treatment-espn-adds-alternate-broadcast</link>
+      <guid isPermaLink="false">b31d1ed8d9b9144a63f16bbf87a6468d2809a77b</guid>
+      <pubDate>Sat, 10 Oct 2026 00:25:24 GMT</pubDate>
+      <description><![CDATA[Pat McAfee announced his own alternate Super Bowl LXI broadcast on ESPN, bringing his signature "Field Pass" style to the NFL's biggest stage.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>The Forgotten First Schoolteacher in Kasilof — Part 1</title>
-      <link>https://www.homernews.com/2026/10/08/the-forgotten-first-schoolteacher-in-kasilof-part-1/</link>
-      <guid isPermaLink="false">d067cbe5dbab2ea128396705cae7fbaad707c6f3</guid>
-      <pubDate>Thu, 08 Oct 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[AUTHOR’S NOTE: On Sept. 25, 2025, Brent Johnson, one of the most authoritative voices on the history of the Kasilof and Cohoe areas on the Kenai Peninsula, sent me screenshots from two 1929 Illinois newspaper articles. He appended to the attachments this note: “Prior to seeing these newspaper articles, I was pretty confident that Enid McLane was Kasilof’s first teacher and that the first school year was 1932-33. The school building McLane used was owned by Abram Erickson near the [Gust] Ness homestead on the Cohoe side of the [Kasilof] river.” But if the exceedingly brief 1929 newspaper excerpts were correct, Brent found himself suddenly left with questions he hadn’t pondered before — about the location of a Kasilof school prior to 1932, about the number of students in that school, and, most importantly, about the identity of the teacher mentioned in one of the articles. That one-sentence article, from the Lake County (Illinois) Register on May 8, 1929, read: “Mrs. Neil Brown Sr. is teaching in Kasilof, Alaska, where the Brown family moved from Deerfield last year.”]]></description>
-      <category>local</category>
+      <title>Former Obama advisor tells divided Maine Democrats to 'get over your s---' and win the race</title>
+      <link>https://www.foxnews.com/media/former-obama-advisor-tells-divided-maine-democrats-get-over-your-s-win-race</link>
+      <guid isPermaLink="false">95dce7f140262b35cee09bd3d77bced71ac9c45f</guid>
+      <pubDate>Sat, 10 Oct 2026 00:19:27 GMT</pubDate>
+      <description><![CDATA[Former Obama strategists urge Maine Democrats to unite behind Troy Jackson, warning internal party feuds could cost them a critical Senate seat.]]></description>
+      <category>weather</category>
     </item>
     <item>
-      <title>Letters to the editor</title>
-      <link>https://www.homernews.com/2026/10/08/letters-to-the-editor-434/</link>
-      <guid isPermaLink="false">670b48150e851bf17630454b47b381faee189487</guid>
-      <pubDate>Thu, 08 Oct 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Support makes school barbecue possible]]></description>
-      <category>local</category>
+      <title>Trump gives raw reaction after finding out about Mike Ditka's death: 'A tough cookie'</title>
+      <link>https://www.foxnews.com/outkick-sports/trump-raw-reaction-mike-ditka-death-tough-cookie</link>
+      <guid isPermaLink="false">83b1ce2134afbbbbd6ca8968d3966f69385a92e4</guid>
+      <pubDate>Sat, 10 Oct 2026 00:13:38 GMT</pubDate>
+      <description><![CDATA[Trump called Mike Ditka "a tough cookie" and "a winner" after learning of the Hall of Fame Chicago Bears coach's death on the South Lawn Friday.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Homer Pet of the Week: Steve</title>
-      <link>https://www.homernews.com/2026/10/08/homer-pet-of-the-week-steve/</link>
-      <guid isPermaLink="false">45a841ecc8463a126a9fe370d224516045cd7f1d</guid>
-      <pubDate>Thu, 08 Oct 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Steve loves to spend time with you and he will sing you the blues if you leave him wanting more pets]]></description>
-      <category>local</category>
+      <title>Hollywood feeling more hopeful amid a push for film tax credits and Paramount staying put, filmmaker says</title>
+      <link>https://www.foxnews.com/media/hollywood-feeling-more-hopeful-amid-push-film-tax-credits-paramount-staying-put-filmmaker-says</link>
+      <guid isPermaLink="false">2242552d18a5d0928eafe07c884c783341f3214b</guid>
+      <pubDate>Fri, 09 Oct 2026 23:26:03 GMT</pubDate>
+      <description><![CDATA[California expands its film and television tax credits and launches a post-production incentive as Hollywood fights to keep jobs in Los Angeles.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Texas legend has sky-high hopes for Longhorns ahead of Red River Rivalry game vs Oklahoma</title>
+      <link>https://www.foxnews.com/outkick-sports/texas-legend-sky-high-hopes-longhorns-red-river-rivalry-game-oklahoma</link>
+      <guid isPermaLink="false">dbf9c4c1456e68fecb97f408f1e82c7e9f980c2e</guid>
+      <pubDate>Fri, 09 Oct 2026 23:05:15 GMT</pubDate>
+      <description><![CDATA[Colt McCoy calls the Texas Longhorns' current roster arguably the most talented ever as they enter the Red River Rivalry ranked No. 1 at 4-0.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest</title>
+      <link>https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9165d624ff9af2fd53f9e61a3b2fcfe2352cc7ba</guid>
+      <pubDate>Fri, 09 Oct 2026 23:02:07 GMT</pubDate>
+      <description><![CDATA[Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Weekend showers and sunshine for UK ahead of warmer temperatures next week</title>
+      <link>https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9bad1b7fa3d1fdfaef1168583efee150c406abc7</guid>
+      <pubDate>Fri, 09 Oct 2026 23:00:53 GMT</pubDate>
+      <description><![CDATA[With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up</title>
+      <link>https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b007a84865651efa151d4418feabc02811a5cf68</guid>
+      <pubDate>Fri, 09 Oct 2026 22:51:57 GMT</pubDate>
+      <description><![CDATA[Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>At least one person isn't concerned about Cam Skattebo getting injured, and his name is Cam Skattebo</title>
+      <link>https://www.foxnews.com/outkick-sports/least-one-person-isnt-concerned-cam-skattebo-getting-injured-his-name-cam-skattebo</link>
+      <guid isPermaLink="false">6876dbffe56a0c28bf19f2b11d15171e9dc761f8</guid>
+      <pubDate>Fri, 09 Oct 2026 22:51:17 GMT</pubDate>
+      <description><![CDATA[New York Giants running back Cam Skattebo was limited in practice with a shoulder injury but told coaches he's ready for the Washington Commanders.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices</title>
+      <link>https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f9d9678cd800da73a9ec0180138df9d7f0c68504</guid>
+      <pubDate>Fri, 09 Oct 2026 22:30:22 GMT</pubDate>
+      <description><![CDATA[The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Daniel Lurie argues progressivism led San Francisco astray on public safety, drug crisis</title>
+      <link>https://www.foxnews.com/media/daniel-lurie-argues-progressivism-led-san-francisco-astray-public-safety-drug-crisis</link>
+      <guid isPermaLink="false">f7aa574a8d518fd3b54949938086522fe411c038</guid>
+      <pubDate>Fri, 09 Oct 2026 22:25:44 GMT</pubDate>
+      <description><![CDATA[Daniel Lurie says San Francisco got "entrapped in our progressive values" and got to a point where the city wasn't taking stock of its problems.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kalshi taps former FBI agent to fight against money laundering</title>
+      <link>https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering</link>
+      <guid isPermaLink="false">995f1408e57c76463a3e9092191ba0811142cce3</guid>
+      <pubDate>Fri, 09 Oct 2026 22:23:11 GMT</pubDate>
+      <description><![CDATA[The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fired OpenAI employees question the company's commitment to safety</title>
+      <link>https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings</link>
+      <guid isPermaLink="false">fe65d2e5ab8e20ae87df60561d8cfc4919e97d24</guid>
+      <pubDate>Fri, 09 Oct 2026 21:28:09 GMT</pubDate>
+      <description><![CDATA[The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms</title>
@@ -316,142 +460,6 @@
       <guid isPermaLink="false">acad353fdce37797091699f387aad67aef432b16</guid>
       <pubDate>Fri, 09 Oct 2026 21:13:12 GMT</pubDate>
       <description><![CDATA[Tampa Bay Buccaneers coach Todd Bowles took a helmet to the stomach during celebrations and went down to a knee while grimacing in pain.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Texas think tank accuses Houston parent coalition of using 'socialist' tactics to push radical agenda</title>
-      <link>https://www.foxnews.com/us/texas-think-tank-accuses-houston-parent-coalition-using-socialist-tactics-push-radical-agenda</link>
-      <guid isPermaLink="false">fb34bcc1a7feecf24492585e16a3cbf3af2bef94</guid>
-      <pubDate>Fri, 09 Oct 2026 21:12:44 GMT</pubDate>
-      <description><![CDATA[The Texas Public Policy Foundation accuses a Houston education coalition of using socialist-aligned tactics to push radical policies in HISD schools.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Attorney for alleged victim of trans athlete sexual assault says SCOTUS fight can help set Title IX precedent</title>
-      <link>https://www.foxnews.com/outkick-sports/attorney-alleged-victim-trans-athlete-sexual-assault-scotus-fight-help-set-title-ix-precedent</link>
-      <guid isPermaLink="false">983c7111f4bdb3fd3e281c434be2b8fd76c5a7b5</guid>
-      <pubDate>Fri, 09 Oct 2026 21:09:36 GMT</pubDate>
-      <description><![CDATA[Kallie Keeler's Supreme Court wrestling case could force 23 states to restrict transgender athletes in girls' sports under Title IX, her lawyer says.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Michael Douglas says Kirk Douglas gave him $10,000 at 21 and told him he was on his own</title>
-      <link>https://www.foxnews.com/entertainment/michael-douglas-kirk-douglas-gave-10000-21-told-own</link>
-      <guid isPermaLink="false">5a748860a95dbe7c0e22925b53522ab6f01cdc79</guid>
-      <pubDate>Fri, 09 Oct 2026 21:08:19 GMT</pubDate>
-      <description><![CDATA[Michael Douglas reveals on "Jimmy Kimmel Live" how Kirk Douglas handed him $10,000 at age 21 and told him he was on his own in his new memoir.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Commentator Katie Zacharia picked as new White House press secretary</title>
-      <link>https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e436fd9be3886c6eed75943859ef8368887697a5</guid>
-      <pubDate>Fri, 09 Oct 2026 21:08:04 GMT</pubDate>
-      <description><![CDATA[The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'SNL' writer's missing sister case leads homicide detectives to Joshua Tree months after family's murder claim</title>
-      <link>https://www.foxnews.com/us/snl-writers-missing-sister-case-leads-homicide-detectives-joshua-tree-months-after-familys-murder-claim</link>
-      <guid isPermaLink="false">0eac7c2ed129546d91b527e2697498be01590995</guid>
-      <pubDate>Fri, 09 Oct 2026 21:07:51 GMT</pubDate>
-      <description><![CDATA[LAPD homicide detectives searched Joshua Tree for evidence in the disappearance of Christina Downer, sister of "Saturday Night Live" writer Jimmy Fowlie.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Three men found guilty of murdering two Australian surfer brothers and US friend</title>
-      <link>https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c3ee09490263268fadcabc8247fd3f58f20761af</guid>
-      <pubDate>Fri, 09 Oct 2026 21:04:59 GMT</pubDate>
-      <description><![CDATA[The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Costco slashes price of popular holiday treat after shoppers balked at last year's hike</title>
-      <link>https://www.foxnews.com/food-drink/costco-slashes-price-popular-holiday-treat-after-shoppers-balked-last-years-hike</link>
-      <guid isPermaLink="false">3cff4d714a6968004596bd39def0c2dae2aa1114</guid>
-      <pubDate>Fri, 09 Oct 2026 21:04:46 GMT</pubDate>
-      <description><![CDATA[Costco's Kirkland Signature Peppermint Bark is back for $12.99 after last year's controversial $16.99 price hike sparked shopper backlash online.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bill Maher warns Democrats still haven't 'renounced their crazy,' says it could spell trouble in 2028</title>
-      <link>https://www.foxnews.com/media/bill-maher-warns-democrats-havent-renounced-crazy-could-spell-trouble-2028</link>
-      <guid isPermaLink="false">cbb55c36e1fab273b83aada1bd6d457674547c1b</guid>
-      <pubDate>Fri, 09 Oct 2026 21:01:19 GMT</pubDate>
-      <description><![CDATA[Comedian Bill Maher warned the Democratic Party hasn't "renounced their crazy" and says the far left could misinterpret midterm wins as backing communism.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Ex-NHLer Viktor Stalberg tells wild story about being traded in Russia — then not — by legendary coach</title>
-      <link>https://www.foxnews.com/outkick-sports/ex-nhler-viktor-stalberg-wild-story-traded-russia-legendary-coach</link>
-      <guid isPermaLink="false">b6bcdd945360253259274630fdc6fa70df5f9a31</guid>
-      <pubDate>Fri, 09 Oct 2026 21:00:45 GMT</pubDate>
-      <description><![CDATA[Viktor Stalberg reveals how Bob Hartley wanted him gone from Avangard Omsk, but the KHL club's owner stepped in with a blunt override of the coach.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Betr Promo Code FOXNEWS: Get $200 in Bonuses Ahead of Any NHL Game</title>
-      <link>https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonuses-ahead-any-nhl-game</link>
-      <guid isPermaLink="false">aff3fad8ba8a755683fc84962a6f25d149cf8d5e</guid>
-      <pubDate>Fri, 09 Oct 2026 20:50:27 GMT</pubDate>
-      <description><![CDATA[Betr promo code FOXNEWS gives new users $200 in bonus bets to wager on Rangers vs Capitals or any of tonight’s four NHL games.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>JD Vance casts doubt on firing squad execution and says he will not watch it</title>
-      <link>https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a382270f159b32232fda0603071f853f40903947</guid>
-      <pubDate>Fri, 09 Oct 2026 20:42:11 GMT</pubDate>
-      <description><![CDATA[The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>BetMGM Bonus Code FOXNEWS: Get up to $1500 in Bonuses for Washington vs Iowa</title>
-      <link>https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-get-up-1500-bonuses-washington-vs-iowa</link>
-      <guid isPermaLink="false">f0123bd02c7d340a574176bd9457356201af474c</guid>
-      <pubDate>Fri, 09 Oct 2026 20:41:44 GMT</pubDate>
-      <description><![CDATA[BetMGM bonus code FOXNEWS lets new users wager on Washington vs Iowa and get up to $1,500 back in bonus bets if their first bet loses.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NI secretary to ban the Drumcree parade</title>
-      <link>https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c36d4d254323f8a1e7f8d1339983d56e5bdac206</guid>
-      <pubDate>Fri, 09 Oct 2026 20:38:31 GMT</pubDate>
-      <description><![CDATA[The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Powerful magnitude 7.7 earthquake hits Panama, damaging buildings</title>
-      <link>https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">43c553fc6e2c19a2fa3bc32c7f6574a6fadff1cf</guid>
-      <pubDate>Fri, 09 Oct 2026 19:39:52 GMT</pubDate>
-      <description><![CDATA[Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>The U.S. last held a public execution in the 1930s. The Pentagon wants to change that</title>
-      <link>https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter</link>
-      <guid isPermaLink="false">728cfa4e8ac17f3de1c8e550f0a353c58de4827d</guid>
-      <pubDate>Fri, 09 Oct 2026 18:55:38 GMT</pubDate>
-      <description><![CDATA[The Pentagon says it will livestream the firing squad execution of Nidal Hasan at Fort Hood, the site of his 2009 mass shooting. That would be the first public execution in the U.S. since the 1930s.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US unveils sanctions on ICC in move court condemns as 'assault on rule of law'</title>
-      <link>https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4a93d4d6cca3ccc5700e0b915feda89997c86807</guid>
-      <pubDate>Fri, 09 Oct 2026 18:40:10 GMT</pubDate>
-      <description><![CDATA[Several member states of the international tribunal, including the UK, say they "strongly disagree" with the sanctions.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>U.S. working to reverse an Egyptian man's third-country deportation to Africa</title>
-      <link>https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse</link>
-      <guid isPermaLink="false">630bc1f4b34da2f46d126b8782df2eb289ace57d</guid>
-      <pubDate>Fri, 09 Oct 2026 17:49:28 GMT</pubDate>
-      <description><![CDATA[The Trump administration's effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -517,14 +525,6 @@
       <pubDate>Thu, 08 Oct 2026 15:53:54 GMT</pubDate>
       <description><![CDATA[Tropical Storm Rachel is forecast to bring some trouble to the West in the form of flooding rains, strong winds and even a snowstorm in the Northwest.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Bryan Norcross: Dangerous impacts from Hurricane Isaias to spread from the northern Gulf across the Southeast</title>
-      <link>https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-october-8-2026</link>
-      <guid isPermaLink="false">b1be3f118eb6c7edb0a7ab77a4c9cd3900f9a020</guid>
-      <pubDate>Thu, 08 Oct 2026 13:51:46 GMT</pubDate>
-      <description><![CDATA[Isaias has rapidly intensified into a hurricane over the southern Gulf in a similar area where Milton spun up two years ago. On the current schedule, landfall will occur late on Friday or very early Saturday. The center looks most likely to cross the coast in Alabama or the western Florida Panhandle.]]></description>
-      <category>southeast</category>
     </item>
   </channel>
 </rss>
