@@ -1,5 +1,25 @@
 [
   {
+    "title": "Isaias slams Florida Panhandle, but the worst may not be over as dangerous impacts spread inland",
+    "link": "https://www.foxweather.com/weather-news/hurricane-isaias-florida-panhandle-dangerous-impacts-ongoing",
+    "description": "Isaias has made landfall along Florida\u2019s Gulf Coast, unleashing life-threatening storm surge, hurricane-force winds and torrential rain. The danger is far from over, as the storm\u2019s impacts spread inland across the Southeast and beyond.",
+    "pubDate": "Sat, 10 Oct 2026 03:31:11 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Post-tropical Isaias still packs a dangerous punch as destructive winds, flooding threaten millions",
+    "link": "https://www.foxweather.com/weather-news/hurricane-isaias-landfall-destructive-winds-life-threatening-flooding",
+    "description": "Isaias made landfall Friday as a dangerous Category 2 storm, lashing the northern Gulf Coast with destructive winds and life-threatening storm surge.",
+    "pubDate": "Sat, 10 Oct 2026 02:17:36 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "State report shows heating fuel prices are at a record high in rural Alaska",
     "link": "https://alaskabeacon.com/2026/10/09/state-report-shows-heating-fuel-prices-are-at-a-record-high-in-rural-alaska/",
     "description": "The average price of a gallon of heating fuel \u2014 No. 1 diesel \u2014 in rural Alaska reached a record $7.97 per gallon in August, according to the latest biannual survey conducted by the Alaska Division of Community and Regional Affairs. The rural average, based on a survey of 100 communities taken between July 15 [\u2026]",
@@ -7,6 +27,16 @@
     "category": "culture",
     "tag": "alaska",
     "source": "Alaska Beacon",
+    "rank": 100
+  },
+  {
+    "title": "Newscast \u2013 Friday, Oct. 9, 2026",
+    "link": "https://feeds.ktoo.org/link/20427/17493189/newscast-friday-oct-9-2026",
+    "description": "A man who barricaded himself with a knife in an office building in downtown Juneau voluntarily surrendered to Juneau Police today; A Juneau educator is helping Alaska Native kids and elders research family histories touched by colonial residential schools; Juneau wrapped up a record-breaking cruise ship tourism season this week; Alaska's four candidates for governor debated about working across party lines at the Debate for the State on Thursday night",
+    "pubDate": "Sat, 10 Oct 2026 00:53:45 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "KTOO",
     "rank": 100
   },
   {
@@ -370,34 +400,104 @@
     "rank": 100
   },
   {
-    "title": "New interactive Alaska tsunami hazard map helps communities prepare",
-    "link": "https://alaska-native-news.com/new-interactive-alaska-tsunami-hazard-map-helps-communities-prepare/86582/",
-    "description": "A new and interactive tsunami hazards tool created by the Alaska Earthquake Center brings evacuation information, hazard maps and other community-specific resources into a single online location. Alaska has 6,700 miles of coastline, including its islands, and much of it is vulnerable to a devastating tsunami. The tsunami hazard tool aims to help the public [\u2026]",
-    "pubDate": "Thu, 08 Oct 2026 14:04:24 GMT",
-    "category": "culture",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
-  },
-  {
-    "title": "Time capsule: The secret life of a red fox family",
-    "link": "https://alaska-native-news.com/time-capsule-the-secret-life-of-a-red-fox-family/86585/",
-    "description": "Note: At the start of every walk, my dogs try to sneak away to \u201cfox town,\u201d a fox den on the other side of the pond near my cabin, and we often see the adult foxes trotting through the neighborhood. Hearing one of them bark the other evening, I was reminded of this March 26, [\u2026]",
-    "pubDate": "Thu, 08 Oct 2026 14:03:17 GMT",
-    "category": "culture",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
-  },
-  {
-    "title": "Coast Guard, 176th Wing conduct long-range medevac 58 miles south of Adak",
-    "link": "https://alaska-native-news.com/coast-guard-176th-wing-conduct-long-range-medevac-58-miles-south-of-adak/86587/",
-    "description": "JUNEAU \u2013 The U.S. Coast Guard and the Alaska Air National Guard\u2019s 176th Wing conducted a complex, long-range medevac of a 58-year-old man from a container ship approximately 58 miles south of Adak, Wednesday. Coast Guard Arctic District watchstanders received a medevac request at approximately 6 a.m. Tuesday from the crew of the 991-foot Japanese-flagged container [\u2026]",
-    "pubDate": "Thu, 08 Oct 2026 14:02:00 GMT",
+    "title": "Hurricane Isaias downgraded after making landfall in Florida",
+    "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+    "description": "Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone.",
+    "pubDate": "Sat, 10 Oct 2026 06:54:16 GMT",
     "category": "southeast",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
+    "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+    "description": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
+    "pubDate": "Sat, 10 Oct 2026 05:48:54 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "What happens when you grow up not knowing your family medical history?",
+    "link": "https://www.bbc.co.uk/news/articles/cq1mvdmd1y7vo?at_medium=RSS&at_campaign=rss",
+    "description": "People who have been adopted or are in care sometimes struggle to access family medical history which could be crucial to their own health.",
+    "pubDate": "Sat, 10 Oct 2026 05:00:22 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+    "description": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+    "pubDate": "Sat, 10 Oct 2026 04:51:57 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+    "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+    "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+    "pubDate": "Sat, 10 Oct 2026 04:34:55 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+    "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+    "description": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
+    "pubDate": "Sat, 10 Oct 2026 04:07:11 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Trump rallies New York crowd for Republican Bruce Blakeman's bid to replace Gov. Kathy Hochul",
+    "link": "https://www.foxnews.com/politics/trump-rallies-new-york-crowd-republican-bruce-blakemans-bid-replace-gov-kathy-hochul",
+    "description": "President Donald Trump rallied Syracuse supporters behind Bruce Blakeman's bid to unseat Gov. Kathy Hochul, promising tax cuts and cheaper energy for New York families.",
+    "pubDate": "Sat, 10 Oct 2026 02:42:49 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "An NYC Curse: Rangers top goalie dragged off ice as New York sports nightmare deepens",
+    "link": "https://www.foxnews.com/outkick-sports/nyc-curse-rangers-top-goalie-dragged-off-ice-new-york-sports-nightmare-deepens",
+    "description": "Igor Shesterkin jammed his right leg against the post during a net-mouth scramble and had to be helped off the ice by New York Rangers teammates.",
+    "pubDate": "Sat, 10 Oct 2026 02:15:42 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "US country music star Ella Langley cancels show due to 'security threat'",
+    "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+    "description": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
+    "pubDate": "Sat, 10 Oct 2026 02:02:54 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Trump brings Mike Tyson on stage at Syracuse rally, jokes that he is Bruce Blakeman's personal security",
+    "link": "https://www.foxnews.com/outkick-sports/trump-brings-mike-tyson-stage-syracuse-rally-jokes-bruce-blakeman-personal-security",
+    "description": "Trump brought Mike Tyson on Air Force One to a Syracuse rally for Bruce Blakeman, the Republican running to unseat New York Gov. Kathy Hochul.",
+    "pubDate": "Sat, 10 Oct 2026 01:45:43 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "Gov Kathy Hochul signs New York onto Trump's school choice program despite teachers union opposition",
@@ -480,6 +580,16 @@
     "rank": 10
   },
   {
+    "title": "'Everyone hates the police' \u2013 what France's school protests reveal about a divided nation",
+    "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+    "description": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
+    "pubDate": "Fri, 09 Oct 2026 23:24:33 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
     "title": "Texas legend has sky-high hopes for Longhorns ahead of Red River Rivalry game vs Oklahoma",
     "link": "https://www.foxnews.com/outkick-sports/texas-legend-sky-high-hopes-longhorns-red-river-rivalry-game-oklahoma",
     "description": "Colt McCoy calls the Texas Longhorns' current roster arguably the most talented ever as they enter the Red River Rivalry ranked No. 1 at 4-0.",
@@ -490,130 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Thousands of security personnel deployed as Delhi braces for \u2018cockroach\u2019 protest",
-    "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-    "description": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
-    "pubDate": "Fri, 09 Oct 2026 23:02:07 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
-    "link": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss",
-    "description": "With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.",
-    "pubDate": "Fri, 09 Oct 2026 23:00:53 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
-    "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss",
-    "description": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.",
-    "pubDate": "Fri, 09 Oct 2026 22:51:57 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "At least one person isn't concerned about Cam Skattebo getting injured, and his name is Cam Skattebo",
-    "link": "https://www.foxnews.com/outkick-sports/least-one-person-isnt-concerned-cam-skattebo-getting-injured-his-name-cam-skattebo",
-    "description": "New York Giants running back Cam Skattebo was limited in practice with a shoulder injury but told coaches he's ready for the Washington Commanders.",
-    "pubDate": "Fri, 09 Oct 2026 22:51:17 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-    "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-    "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-    "pubDate": "Fri, 09 Oct 2026 22:30:22 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Daniel Lurie argues progressivism led San Francisco astray on public safety, drug crisis",
-    "link": "https://www.foxnews.com/media/daniel-lurie-argues-progressivism-led-san-francisco-astray-public-safety-drug-crisis",
-    "description": "Daniel Lurie says San Francisco got \"entrapped in our progressive values\" and got to a point where the city wasn't taking stock of its problems.",
-    "pubDate": "Fri, 09 Oct 2026 22:25:44 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Kalshi taps former FBI agent to fight against money laundering",
-    "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
-    "description": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
-    "pubDate": "Fri, 09 Oct 2026 22:23:11 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Fired OpenAI employees question the company's commitment to safety",
-    "link": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
-    "description": "The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.",
-    "pubDate": "Fri, 09 Oct 2026 21:28:09 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
-    "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-    "description": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
-    "pubDate": "Fri, 09 Oct 2026 21:24:13 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-    "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-    "pubDate": "Fri, 09 Oct 2026 21:16:49 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Buccaneers coach Todd Bowles suffers health scare after taking helmet to the stomach during celebration",
-    "link": "https://www.foxnews.com/outkick-sports/buccaneers-coach-todd-bowles-suffers-health-scare-helmet-stomach-celebration",
-    "description": "Tampa Bay Buccaneers coach Todd Bowles took a helmet to the stomach during celebrations and went down to a knee while grimacing in pain.",
-    "pubDate": "Fri, 09 Oct 2026 21:13:12 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon - Mostly Cloudy",
+    "title": "Anchorage Weather: Overnight - Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "46\u00b0F. Wind SE 5 mph. Mostly cloudy, with a high near 46. Southeast wind around 5 mph.",
-    "pubDate": "Sat, 10 Oct 2026 01:27:03 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "National Weather Service Anchorage",
-    "rank": 0
-  },
-  {
-    "title": "Anchorage Weather: Tonight - Light Rain",
-    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "41\u00b0F. Wind SE 5 to 15 mph. Rain after 7pm. Cloudy, with a low around 41. Southeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%.",
-    "pubDate": "Sat, 10 Oct 2026 01:27:03 GMT",
+    "description": "41\u00b0F. Wind SE 10 to 15 mph. Rain. Cloudy, with a low around 41. Southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%.",
+    "pubDate": "Sat, 10 Oct 2026 08:00:33 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +613,7 @@
     "title": "Anchorage Weather: Saturday - Light Rain Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "47\u00b0F. Wind SE 15 to 20 mph. Rain likely. Cloudy, with a high near 47. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%.",
-    "pubDate": "Sat, 10 Oct 2026 01:27:03 GMT",
+    "pubDate": "Sat, 10 Oct 2026 08:00:33 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +623,7 @@
     "title": "Anchorage Weather: Saturday Night - Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "38\u00b0F. Wind E 5 to 15 mph. Rain. Cloudy, with a low around 38. East wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%.",
-    "pubDate": "Sat, 10 Oct 2026 01:27:03 GMT",
+    "pubDate": "Sat, 10 Oct 2026 08:00:33 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +633,17 @@
     "title": "Anchorage Weather: Sunday - Light Rain then Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "46\u00b0F. Wind S 5 to 10 mph. Rain before 10am, then a chance of rain showers. Mostly cloudy, with a high near 46. South wind 5 to 10 mph. Chance of precipitation is 80%.",
-    "pubDate": "Sat, 10 Oct 2026 01:27:03 GMT",
+    "pubDate": "Sat, 10 Oct 2026 08:00:33 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "National Weather Service Anchorage",
+    "rank": 0
+  },
+  {
+    "title": "Anchorage Weather: Sunday Night - Chance Rain Showers",
+    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+    "description": "35\u00b0F. Wind SE 5 mph. A chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 5 mph. Chance of precipitation is 50%.",
+    "pubDate": "Sat, 10 Oct 2026 08:00:33 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",

@@ -5,28 +5,28 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 01:27:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:53:45 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: This Afternoon - Mostly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 10 Oct 2026 01:27:03 GMT</pubDate>
-      <description><![CDATA[46°F. Wind SE 5 mph. Mostly cloudy, with a high near 46. Southeast wind around 5 mph.]]></description>
-      <category>weather</category>
+      <title>Newscast – Friday, Oct. 9, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17493189/newscast-friday-oct-9-2026</link>
+      <guid isPermaLink="false">dc81cad3ef7dd9320b11b6bc8bb126c74a58f4fe</guid>
+      <pubDate>Sat, 10 Oct 2026 00:53:45 GMT</pubDate>
+      <description><![CDATA[A man who barricaded himself with a knife in an office building in downtown Juneau voluntarily surrendered to Juneau Police today; A Juneau educator is helping Alaska Native kids and elders research family histories touched by colonial residential schools; Juneau wrapped up a record-breaking cruise ship tourism season this week; Alaska's four candidates for governor debated about working across party lines at the Debate for the State on Thursday night]]></description>
+      <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight - Light Rain</title>
+      <title>Anchorage Weather: Overnight - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 10 Oct 2026 01:27:03 GMT</pubDate>
-      <description><![CDATA[41°F. Wind SE 5 to 15 mph. Rain after 7pm. Cloudy, with a low around 41. Southeast wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%.]]></description>
+      <pubDate>Sat, 10 Oct 2026 08:00:33 GMT</pubDate>
+      <description><![CDATA[41°F. Wind SE 10 to 15 mph. Rain. Cloudy, with a low around 41. Southeast wind 10 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 10 Oct 2026 01:27:03 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 08:00:33 GMT</pubDate>
       <description><![CDATA[47°F. Wind SE 15 to 20 mph. Rain likely. Cloudy, with a high near 47. Southeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +34,7 @@
       <title>Anchorage Weather: Saturday Night - Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 10 Oct 2026 01:27:03 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 08:00:33 GMT</pubDate>
       <description><![CDATA[38°F. Wind E 5 to 15 mph. Rain. Cloudy, with a low around 38. East wind 5 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
@@ -42,8 +42,16 @@
       <title>Anchorage Weather: Sunday - Light Rain then Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 10 Oct 2026 01:27:03 GMT</pubDate>
+      <pubDate>Sat, 10 Oct 2026 08:00:33 GMT</pubDate>
       <description><![CDATA[46°F. Wind S 5 to 10 mph. Rain before 10am, then a chance of rain showers. Mostly cloudy, with a high near 46. South wind 5 to 10 mph. Chance of precipitation is 80%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Sunday Night - Chance Rain Showers</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:33 GMT</pubDate>
+      <description><![CDATA[35°F. Wind SE 5 mph. A chance of rain showers. Mostly cloudy, with a low around 35. Southeast wind around 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -279,28 +287,100 @@
       <category>local</category>
     </item>
     <item>
-      <title>New interactive Alaska tsunami hazard map helps communities prepare</title>
-      <link>https://alaska-native-news.com/new-interactive-alaska-tsunami-hazard-map-helps-communities-prepare/86582/</link>
-      <guid isPermaLink="false">be2c32c6258a4cb2fea4716e8227c40a082aaee9</guid>
-      <pubDate>Thu, 08 Oct 2026 14:04:24 GMT</pubDate>
-      <description><![CDATA[A new and interactive tsunami hazards tool created by the Alaska Earthquake Center brings evacuation information, hazard maps and other community-specific resources into a single online location. Alaska has 6,700 miles of coastline, including its islands, and much of it is vulnerable to a devastating tsunami. The tsunami hazard tool aims to help the public […]]]></description>
-      <category>local</category>
+      <title>Hurricane Isaias downgraded after making landfall in Florida</title>
+      <link>https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">50c38b06fc650a09498aa0bc734afb80c1bb4ff5</guid>
+      <pubDate>Sat, 10 Oct 2026 06:54:16 GMT</pubDate>
+      <description><![CDATA[Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone.]]></description>
+      <category>southeast</category>
     </item>
     <item>
-      <title>Time capsule: The secret life of a red fox family</title>
-      <link>https://alaska-native-news.com/time-capsule-the-secret-life-of-a-red-fox-family/86585/</link>
-      <guid isPermaLink="false">3d346ddfc83543d6536fcea048fe85be133cea33</guid>
-      <pubDate>Thu, 08 Oct 2026 14:03:17 GMT</pubDate>
-      <description><![CDATA[Note: At the start of every walk, my dogs try to sneak away to “fox town,” a fox den on the other side of the pond near my cabin, and we often see the adult foxes trotting through the neighborhood. Hearing one of them bark the other evening, I was reminded of this March 26, […]]]></description>
-      <category>local</category>
+      <title>Public executions in the US stopped nearly a century ago - why are they resuming now?</title>
+      <link>https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d04c1567476d9d81703a519e3e0fc42e0ca201d1</guid>
+      <pubDate>Sat, 10 Oct 2026 05:48:54 GMT</pubDate>
+      <description><![CDATA[The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Coast Guard, 176th Wing conduct long-range medevac 58 miles south of Adak</title>
-      <link>https://alaska-native-news.com/coast-guard-176th-wing-conduct-long-range-medevac-58-miles-south-of-adak/86587/</link>
-      <guid isPermaLink="false">abeded5a12bd4a920bfe5ad2bd4603aa7deb6ee1</guid>
-      <pubDate>Thu, 08 Oct 2026 14:02:00 GMT</pubDate>
-      <description><![CDATA[JUNEAU – The U.S. Coast Guard and the Alaska Air National Guard’s 176th Wing conducted a complex, long-range medevac of a 58-year-old man from a container ship approximately 58 miles south of Adak, Wednesday. Coast Guard Arctic District watchstanders received a medevac request at approximately 6 a.m. Tuesday from the crew of the 991-foot Japanese-flagged container […]]]></description>
-      <category>local</category>
+      <title>What happens when you grow up not knowing your family medical history?</title>
+      <link>https://www.bbc.co.uk/news/articles/cq1mvdmd1y7vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">dd9416eff8eb189c10c1f763dbe90a5df9013159</guid>
+      <pubDate>Sat, 10 Oct 2026 05:00:22 GMT</pubDate>
+      <description><![CDATA[People who have been adopted or are in care sometimes struggle to access family medical history which could be crucial to their own health.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nord Stream trial: How German police followed the evidence - to Ukraine</title>
+      <link>https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">83517855766b8c7c81c7318866456bdf79800b09</guid>
+      <pubDate>Sat, 10 Oct 2026 04:51:57 GMT</pubDate>
+      <description><![CDATA[After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says</title>
+      <link>https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f94a21ce9616568f1a65dfcb6b5ef03df05b957f</guid>
+      <pubDate>Sat, 10 Oct 2026 04:34:55 GMT</pubDate>
+      <description><![CDATA[The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Stain on the country': Trump criticises Norway over Nobel Peace Prize</title>
+      <link>https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">86a510043ce8ad7144407837d58c3077bdbb9d85</guid>
+      <pubDate>Sat, 10 Oct 2026 04:07:11 GMT</pubDate>
+      <description><![CDATA[The US president told a rally he had "never heard of" the winner, former International Criminal Court judge Navi Pillay.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Isaias slams Florida Panhandle, but the worst may not be over as dangerous impacts spread inland</title>
+      <link>https://www.foxweather.com/weather-news/hurricane-isaias-florida-panhandle-dangerous-impacts-ongoing</link>
+      <guid isPermaLink="false">c06d7453d2a34cecd4ab2b11cbcaa2c1953cc355</guid>
+      <pubDate>Sat, 10 Oct 2026 03:31:11 GMT</pubDate>
+      <description><![CDATA[Isaias has made landfall along Florida’s Gulf Coast, unleashing life-threatening storm surge, hurricane-force winds and torrential rain. The danger is far from over, as the storm’s impacts spread inland across the Southeast and beyond.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Trump rallies New York crowd for Republican Bruce Blakeman's bid to replace Gov. Kathy Hochul</title>
+      <link>https://www.foxnews.com/politics/trump-rallies-new-york-crowd-republican-bruce-blakemans-bid-replace-gov-kathy-hochul</link>
+      <guid isPermaLink="false">3b987b583c532698ac0d55871c5eab8499323a27</guid>
+      <pubDate>Sat, 10 Oct 2026 02:42:49 GMT</pubDate>
+      <description><![CDATA[President Donald Trump rallied Syracuse supporters behind Bruce Blakeman's bid to unseat Gov. Kathy Hochul, promising tax cuts and cheaper energy for New York families.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Post-tropical Isaias still packs a dangerous punch as destructive winds, flooding threaten millions</title>
+      <link>https://www.foxweather.com/weather-news/hurricane-isaias-landfall-destructive-winds-life-threatening-flooding</link>
+      <guid isPermaLink="false">820550b64849e207435a8ee90703af03fcf3f653</guid>
+      <pubDate>Sat, 10 Oct 2026 02:17:36 GMT</pubDate>
+      <description><![CDATA[Isaias made landfall Friday as a dangerous Category 2 storm, lashing the northern Gulf Coast with destructive winds and life-threatening storm surge.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>An NYC Curse: Rangers top goalie dragged off ice as New York sports nightmare deepens</title>
+      <link>https://www.foxnews.com/outkick-sports/nyc-curse-rangers-top-goalie-dragged-off-ice-new-york-sports-nightmare-deepens</link>
+      <guid isPermaLink="false">5254b9e769dc852ae719a24ea7692c2695f6ffb2</guid>
+      <pubDate>Sat, 10 Oct 2026 02:15:42 GMT</pubDate>
+      <description><![CDATA[Igor Shesterkin jammed his right leg against the post during a net-mouth scramble and had to be helped off the ice by New York Rangers teammates.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US country music star Ella Langley cancels show due to 'security threat'</title>
+      <link>https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f7f468c11c804ea1f99a9019065aa9b0fd624e37</guid>
+      <pubDate>Sat, 10 Oct 2026 02:02:54 GMT</pubDate>
+      <description><![CDATA[Police say they checked the concert venue in Tulsa, Oklahoma but "could not find any threat".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump brings Mike Tyson on stage at Syracuse rally, jokes that he is Bruce Blakeman's personal security</title>
+      <link>https://www.foxnews.com/outkick-sports/trump-brings-mike-tyson-stage-syracuse-rally-jokes-bruce-blakeman-personal-security</link>
+      <guid isPermaLink="false">734fa7f9becba64060d85e4d6417234db1aa2496</guid>
+      <pubDate>Sat, 10 Oct 2026 01:45:43 GMT</pubDate>
+      <description><![CDATA[Trump brought Mike Tyson on Air Force One to a Syracuse rally for Bruce Blakeman, the Republican running to unseat New York Gov. Kathy Hochul.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Gov Kathy Hochul signs New York onto Trump's school choice program despite teachers union opposition</title>
@@ -367,99 +447,19 @@
       <category>world</category>
     </item>
     <item>
+      <title>'Everyone hates the police' – what France's school protests reveal about a divided nation</title>
+      <link>https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">822a4b508605a35a1ace60102d9ef5dd1db2ba34</guid>
+      <pubDate>Fri, 09 Oct 2026 23:24:33 GMT</pubDate>
+      <description><![CDATA[Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Texas legend has sky-high hopes for Longhorns ahead of Red River Rivalry game vs Oklahoma</title>
       <link>https://www.foxnews.com/outkick-sports/texas-legend-sky-high-hopes-longhorns-red-river-rivalry-game-oklahoma</link>
       <guid isPermaLink="false">dbf9c4c1456e68fecb97f408f1e82c7e9f980c2e</guid>
       <pubDate>Fri, 09 Oct 2026 23:05:15 GMT</pubDate>
       <description><![CDATA[Colt McCoy calls the Texas Longhorns' current roster arguably the most talented ever as they enter the Red River Rivalry ranked No. 1 at 4-0.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest</title>
-      <link>https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9165d624ff9af2fd53f9e61a3b2fcfe2352cc7ba</guid>
-      <pubDate>Fri, 09 Oct 2026 23:02:07 GMT</pubDate>
-      <description><![CDATA[Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Weekend showers and sunshine for UK ahead of warmer temperatures next week</title>
-      <link>https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9bad1b7fa3d1fdfaef1168583efee150c406abc7</guid>
-      <pubDate>Fri, 09 Oct 2026 23:00:53 GMT</pubDate>
-      <description><![CDATA[With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up</title>
-      <link>https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b007a84865651efa151d4418feabc02811a5cf68</guid>
-      <pubDate>Fri, 09 Oct 2026 22:51:57 GMT</pubDate>
-      <description><![CDATA[Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>At least one person isn't concerned about Cam Skattebo getting injured, and his name is Cam Skattebo</title>
-      <link>https://www.foxnews.com/outkick-sports/least-one-person-isnt-concerned-cam-skattebo-getting-injured-his-name-cam-skattebo</link>
-      <guid isPermaLink="false">6876dbffe56a0c28bf19f2b11d15171e9dc761f8</guid>
-      <pubDate>Fri, 09 Oct 2026 22:51:17 GMT</pubDate>
-      <description><![CDATA[New York Giants running back Cam Skattebo was limited in practice with a shoulder injury but told coaches he's ready for the Washington Commanders.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices</title>
-      <link>https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f9d9678cd800da73a9ec0180138df9d7f0c68504</guid>
-      <pubDate>Fri, 09 Oct 2026 22:30:22 GMT</pubDate>
-      <description><![CDATA[The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Daniel Lurie argues progressivism led San Francisco astray on public safety, drug crisis</title>
-      <link>https://www.foxnews.com/media/daniel-lurie-argues-progressivism-led-san-francisco-astray-public-safety-drug-crisis</link>
-      <guid isPermaLink="false">f7aa574a8d518fd3b54949938086522fe411c038</guid>
-      <pubDate>Fri, 09 Oct 2026 22:25:44 GMT</pubDate>
-      <description><![CDATA[Daniel Lurie says San Francisco got "entrapped in our progressive values" and got to a point where the city wasn't taking stock of its problems.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kalshi taps former FBI agent to fight against money laundering</title>
-      <link>https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering</link>
-      <guid isPermaLink="false">995f1408e57c76463a3e9092191ba0811142cce3</guid>
-      <pubDate>Fri, 09 Oct 2026 22:23:11 GMT</pubDate>
-      <description><![CDATA[The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fired OpenAI employees question the company's commitment to safety</title>
-      <link>https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings</link>
-      <guid isPermaLink="false">fe65d2e5ab8e20ae87df60561d8cfc4919e97d24</guid>
-      <pubDate>Fri, 09 Oct 2026 21:28:09 GMT</pubDate>
-      <description><![CDATA[The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms</title>
-      <link>https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms</link>
-      <guid isPermaLink="false">8c1e4d4a574719cd21a49620bb56313e6886a1d3</guid>
-      <pubDate>Fri, 09 Oct 2026 21:24:13 GMT</pubDate>
-      <description><![CDATA[Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'</title>
-      <link>https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2b3762f9568b90ea41eb73768f062956be7c26be</guid>
-      <pubDate>Fri, 09 Oct 2026 21:16:49 GMT</pubDate>
-      <description><![CDATA[Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Buccaneers coach Todd Bowles suffers health scare after taking helmet to the stomach during celebration</title>
-      <link>https://www.foxnews.com/outkick-sports/buccaneers-coach-todd-bowles-suffers-health-scare-helmet-stomach-celebration</link>
-      <guid isPermaLink="false">acad353fdce37797091699f387aad67aef432b16</guid>
-      <pubDate>Fri, 09 Oct 2026 21:13:12 GMT</pubDate>
-      <description><![CDATA[Tampa Bay Buccaneers coach Todd Bowles took a helmet to the stomach during celebrations and went down to a knee while grimacing in pain.]]></description>
       <category>world</category>
     </item>
     <item>
