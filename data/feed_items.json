@@ -1,5 +1,45 @@
 [
   {
+    "title": "Capital City Fire Rescue logged over 570 calls in September",
+    "link": "https://www.juneauempire.com/2026/10/11/capital-city-fire-rescue-logged-over-570-calls-in-september/",
+    "description": "EMS and rescue incidents made up 81% of the responses",
+    "pubDate": "Sun, 11 Oct 2026 09:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
+    "title": "Mapping Hurricane Isaias' deadly path: How the violent Category 2 storm unfolded across Florida and Gulf Coast",
+    "link": "https://www.foxweather.com/weather-news/deadly-isaias-start-finish-trail-destruction-gulf-coast",
+    "description": "Hurricane Isaias made landfall near Destin, Florida, as a Category 2 storm. Follow the latest recap of the deadly hurricane\u2019s impacts, including damaging winds, flooding, deaths and ongoing threats across the Southeast.",
+    "pubDate": "Sun, 11 Oct 2026 03:49:03 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Isaias marches up East Coast, slamming millions with downpours after deadly path of destruction in Southeast",
+    "link": "https://www.foxweather.com/weather-news/isaias-remnants-sweep-east-washout-northeast-mid-atlantic",
+    "description": "As the remnants of Hurricane Isaias move farther inland Sunday, millions of people across the Northeast and Mid-Atlantic are bracing for a soggy end to the weekend, with heavy rain, flooding and even severe thunderstorms possible.",
+    "pubDate": "Sun, 11 Oct 2026 03:36:32 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Post-Tropical Cyclone Rachel fuels major West Coast flood threat with months of rain possible in hours",
+    "link": "https://www.foxweather.com/weather-news/rachel-west-coast-rain-flooding-wind-california-southwest",
+    "description": "The Southwest is expecting rare impacts from Post-Tropical Cyclone Rachel, which is forecast to make landfall in Mexico just south of the U.S. late Saturday night.",
+    "pubDate": "Sat, 10 Oct 2026 21:34:10 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "Tropical Storm Rachel fuels major West Coast flood threat with months of rain possible in hours",
     "link": "https://www.foxweather.com/weather-news/rachel-west-coast-rain-flooding-wind-california-southwest",
     "description": "The Southwest is expecting rare impacts from Tropical Storm Rachel, which is forecast to make landfall in Mexico just south of the U.S. late Saturday night.",
@@ -360,44 +400,184 @@
     "rank": 100
   },
   {
-    "title": "LETTER: Alaska\u2019s current election law the best choice",
-    "link": "https://www.juneauempire.com/2026/10/09/letter-alaskas-current-election-law-the-best-choice/",
-    "description": "The League of Women Voters of Alaska (LWVAK) is a non-partisan, grassroots, statewide volunteer organization. Our mission is: empowering voters, defending democracy. We never support or oppose political candidates, but we do take positions on statewide issues, including ballot initiatives, after extensive research and analysis.",
-    "pubDate": "Fri, 09 Oct 2026 11:30:00 GMT",
+    "title": "American Culture Quiz: Test yourself on brisket battles and Hollywood history",
+    "link": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-brisket-battles-hollywood-history",
+    "description": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of brisket battles, Hollywood history and more.",
+    "pubDate": "Sun, 11 Oct 2026 10:00:39 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Fort Hood shooter's firing squad could usher in new era of executions across US, expert says",
+    "link": "https://www.foxnews.com/us/fort-hood-shooter-firing-squad-usher-new-era-executions-across-us-expert-says",
+    "description": "Fort Hood shooter Nidal Malik Hasan's firing squad execution could pave the way for more states to adopt the method, a death penalty expert says.",
+    "pubDate": "Sun, 11 Oct 2026 10:00:22 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
+    "link": "https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin",
+    "description": "Benjamin Netanyahu warned that Jake Sullivan would \"jump out of his skin\" over Israel's secret plan to assassinate Hassan Nasrallah in Beirut.",
+    "pubDate": "Sun, 11 Oct 2026 10:00:18 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "MAP IT: DOJ illegal voting crackdown sweeps 17 states as razor-thin elections face scrutiny",
+    "link": "https://www.foxnews.com/politics/map-doj-illegal-voting-crackdown-sweeps-17-states-razor-thin-elections-face-scrutiny",
+    "description": "The Justice Department charged 64 foreign nationals across 17 states with noncitizen voting and voter registration fraud in roughly five weeks.",
+    "pubDate": "Sun, 11 Oct 2026 10:00:12 GMT",
     "category": "politics",
-    "tag": "alaska",
-    "source": "Juneau Empire",
-    "rank": 100
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Congressman Begich applauds new BLM action to accelerate energy exploration in Alaska\u2019s National Petroleum Reserve",
-    "link": "https://mustreadalaska.com/congressman-begich-applauds-new-blm-action-to-accelerate-energy-exploration-in-alaskas-national-petroleum-reserve/",
-    "description": "Today, October 8, 2026, Congressman Nick Begich (R-AK) applauded the Bureau of Land Management\u2019s (BLM) establishment of a new categorical exclusion for wintertime oil and gas exploration activities in the National Petroleum Reserve\u2013Alaska (NPR-A). The action creates a more predictable and efficient permitting process for qualifying seismic surveys, exploratory drilling, and related activities, helping companies [\u2026] The post Congressman Begich applauds new BLM action to accelerate energy exploration in Alaska\u2019s National Petroleum Reserve appeared first on Must Read Alaska .",
-    "pubDate": "Fri, 09 Oct 2026 01:16:05 GMT",
-    "category": "opinion",
-    "tag": "alaska",
-    "source": "Must Read Alaska",
-    "rank": 100
+    "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
+    "link": "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
+    "description": "A group of international researchers is pushing to rigorously study the potential health benefits of sauna and other heat therapies. They hope to bring scientific legitimacy to the age-old practices.",
+    "pubDate": "Sun, 11 Oct 2026 10:00:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
   },
   {
-    "title": "Newscast \u2013 Thursday, Oct. 8, 2026",
-    "link": "https://feeds.ktoo.org/link/20427/17492465/newscast-thursday-oct-8-2026",
-    "description": "In this newscast: Three candidates seeking to become Alaska's next governor say they plan to make Juneau their home base if elected in next month's general election; A prominent shack on a derelict pier in downtown Juneau was torn down today; Public comments closed Tuesday on a federal proposal to lift a roadbuilding ban in national forests across the country, including the Tongass National Forest; A birding group in Sitka will spend Sunday mornings this winter strolling through the woods to see what bird species they can spot.",
-    "pubDate": "Fri, 09 Oct 2026 00:32:53 GMT",
-    "category": "southeast",
-    "tag": "alaska",
-    "source": "KTOO",
-    "rank": 100
+    "title": "Northern Lights dazzles skies across the UK",
+    "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+    "description": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
+    "pubDate": "Sun, 11 Oct 2026 09:18:05 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
-    "title": "President Trump to campaign for Alaska Republicans on Oct. 13 in Wasilla",
-    "link": "https://alaskabeacon.com/2026/10/08/president-trump-to-campaign-for-alaska-republicans-on-oct-13-in-wasilla/",
-    "description": "President Donald Trump is planning to fly to Alaska next week for a rally intended to boost the re-election campaigns of U.S. Sen. Dan Sullivan and Rep. Nick Begich III. According to the Trump 47 Committee, an operation of the Republican National Committee and Trump\u2019s Save America PAC, Trump will speak at 3:30 p.m. Tuesday [\u2026]",
-    "pubDate": "Thu, 08 Oct 2026 23:32:21 GMT",
-    "category": "anchorage",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "How a lobsterman's privacy fight reached SCOTUS \u2014 and could ripple far beyond the water: 'Ain't over yet'",
+    "link": "https://www.foxnews.com/politics/how-lobstermans-privacy-fight-reached-scotus-could-ripple-far-beyond-water-aint-over-yet",
+    "description": "Frank Thompson calls GPS tracking on his lobster boat a 24/7 \"ankle bracelet\" after the Supreme Court declined to hear his Fourth Amendment case.",
+    "pubDate": "Sun, 11 Oct 2026 09:00:30 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "California faces unlikely tax revolt amid billions in illegal immigrant healthcare costs",
+    "link": "https://www.foxnews.com/politics/california-faces-unlikely-tax-revolt-amid-billions-illegal-immigrant-healthcare-costs",
+    "description": "California Medicaid costs drive Gavin Newsom's new health insurance tax, but doctors and insurers sue claiming it violates Proposition 35.",
+    "pubDate": "Sun, 11 Oct 2026 09:00:06 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
+    "link": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
+    "description": "In a highly competitive Washington congressional race, the incumbent Democrat has angered part of her party base and the Trump-backed Republican challenger faces backlash against the party in power.",
+    "pubDate": "Sun, 11 Oct 2026 09:00:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
+    "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
+    "description": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.",
+    "pubDate": "Sun, 11 Oct 2026 09:00:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "It's taking longer to find a new job after losing one",
+    "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+    "description": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job.",
+    "pubDate": "Sun, 11 Oct 2026 09:00:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Delhi sees more protests as 'cockroach' group's leaders released",
+    "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+    "description": "Police say they will keep restricting access to the city centre after thousands of people were detained and released on Saturday.",
+    "pubDate": "Sun, 11 Oct 2026 08:50:21 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Man dies after tiger attack at wildlife park",
+    "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+    "description": "The man was reported to have entered the tiger enclosure before he was attacked, police say.",
+    "pubDate": "Sun, 11 Oct 2026 06:58:54 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Delaware neighborhood on edge after masked men with apparent weapons knock on doors of homes",
+    "link": "https://www.foxnews.com/us/delaware-neighborhood-edge-after-masked-men-apparent-weapons-knock-doors-homes",
+    "description": "Home security footage shows a masked man in a tactical vest carrying what appeared to be a rifle knocking on doors in a New Castle County neighborhood.",
+    "pubDate": "Sun, 11 Oct 2026 05:47:25 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Toxicity and uncertainty await Man City as they prepare to take on Liverpool",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
+    "description": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead.",
+    "pubDate": "Sun, 11 Oct 2026 05:27:03 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Kirby Smart has entered his most dangerous era after Georgia\u2019s aggressive win over Alabama",
+    "link": "https://www.foxnews.com/outkick-sports/kirby-smart-entered-dangerous-era-georgia-aggressive-win-alabama",
+    "description": "Don't call it meaningless in Tuscaloosa, AL, where Kirby Smart celebrated with his family after Georgia's gritty win over Kalen DeBoer's Alabama.",
+    "pubDate": "Sun, 11 Oct 2026 03:58:24 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Trump says he'd 'love' to have Sen. John Fetterman as a Republican amid growing speculation",
+    "link": "https://www.foxnews.com/politics/trump-says-hed-love-have-sen-john-fetterman-republican-amid-growing-speculation",
+    "description": "President Donald Trump called Sen. John Fetterman a \"great guy\" and said he would welcome the Pennsylvania Democrat into the Republican Party ranks.",
+    "pubDate": "Sun, 11 Oct 2026 03:46:18 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Alabama's Kalen Deboer incensed at player who 'just cost us the damn game' vs Georgia with boneheaded penalty",
+    "link": "https://www.foxnews.com/outkick-sports/alabamas-kalen-deboer-incensed-player-cost-us-damn-game-vs-georgia-boneheaded-penalty",
+    "description": "Alabama Crimson Tide's comeback hopes died when Dijon Lee struck a Georgia player in the face, and Kalen DeBoer's furious reaction said it all.",
+    "pubDate": "Sun, 11 Oct 2026 03:42:07 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "Guardians complete ALDS comeback over White Sox, strike out record 21 batters to set up date with Rays",
@@ -420,190 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Browns players hit with fines for pretending to smoke after scoring a touchdown",
-    "link": "https://www.foxnews.com/outkick-sports/browns-players-hit-fines-pretending-smoke-scoring-touchdown",
-    "description": "Deshaun Watson and Quinshon Judkins were each fined $14,397 by the NFL after Cleveland Browns players mimicked smoking during a TD celebration.",
-    "pubDate": "Sun, 11 Oct 2026 01:59:50 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Roman Reigns slams the door on LA Knight\u2019s world title hopes after incredible match at Money in the Bank",
-    "link": "https://www.foxnews.com/outkick-sports/roman-reigns-slams-door-la-knights-world-title-hopes-incredible-match-money-bank",
-    "description": "Roman Reigns defended the World Heavyweight Championship against LA Knight at WWE Money in the Bank, but 946 and The Bloodline clashed after.",
-    "pubDate": "Sun, 11 Oct 2026 01:42:44 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-    "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-    "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-    "pubDate": "Sun, 11 Oct 2026 01:41:29 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Heidi Klum's fans say she's only making LA 'hotter' after she posts a topless Instagram photo",
-    "link": "https://www.foxnews.com/entertainment/heidi-klum-fans-say-shes-only-making-la-hotter-after-she-posts-topless-instagram-photo",
-    "description": "Heidi Klum turned up the heat with a topless poolside photo in Los Angeles while teasing her bloodiest Halloween costume yet for the 25th anniversary.",
-    "pubDate": "Sun, 11 Oct 2026 01:33:22 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Toxicology reports reveal same controlled substances in 2 Ole Miss students found dead: court docs",
-    "link": "https://www.foxnews.com/us/toxicology-reports-reveal-controlled-substances-ole-miss-students-found-dead-court-docs",
-    "description": "Court documents reveal identical controlled substances in both University of Mississippi students' systems allegedly linked to an Oxford vape store purchase.",
-    "pubDate": "Sun, 11 Oct 2026 01:05:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "US justice department investigates TV networks over Trump pool coverage",
-    "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-    "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.",
-    "pubDate": "Sun, 11 Oct 2026 00:49:17 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "UK launch flood taskforce to prepare for extreme winter weather",
-    "link": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
-    "description": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding.",
-    "pubDate": "Sun, 11 Oct 2026 00:44:37 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "UCLA Bruins upset Oregon Ducks to stay unbeaten and change the Big Ten championship picture",
-    "link": "https://www.foxnews.com/outkick-sports/ucla-bruins-upset-oregon-ducks-stay-unbeaten-change-big-ten-championship-picture",
-    "description": "UCLA's 17-15 road upset over Oregon shakes up Big Ten standings and the college football playoff picture as the Bruins eye a Big Ten Championship.",
-    "pubDate": "Sun, 11 Oct 2026 00:31:50 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Keri Russell gets X-rated about early days with Matthew Rhys in candid sex confession",
-    "link": "https://www.foxnews.com/entertainment/keri-russell-x-rated-early-days-matthew-rhys-candid-sex-confession",
-    "description": "Keri Russell revealed the steamy details of falling for Matthew Rhys on the set of \"The Americans\" during her \"Dear Chelsea\" podcast appearance.",
-    "pubDate": "Sat, 10 Oct 2026 23:58:13 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Unranked Oklahoma knocks off No. 1 Texas in walk-off fashion after Arch Manning's rough 4th quarter",
-    "link": "https://www.foxnews.com/outkick-sports/unranked-oklahoma-knocks-off-no-1-texas-walk-off-fashion-arch-mannings-rough-4th-quarter",
-    "description": "Arch Manning threw two fourth-quarter interceptions as unranked Oklahoma Sooners stunned No. 1 Texas Longhorns 27-24 in the Red River Rivalry.",
-    "pubDate": "Sat, 10 Oct 2026 23:50:01 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-    "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-    "description": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an Egyptian, a Jordanian, a Syrian and a Sudanese. It said some of those injured were in critical condition. The attack \u2014 the latest of several in the past week on King Khalid International Airport \u2014 is expected to increase Saudi pressure on allies including the United States to provide military support for the kingdom.",
-    "pubDate": "Sat, 10 Oct 2026 23:44:15 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-    "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-    "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
-    "pubDate": "Sat, 10 Oct 2026 23:31:35 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "A scammer has your name, phone number and address. What can they actually do?",
-    "link": "https://www.foxnews.com/tech/scammer-has-your-name-phone-number-address-what-can-they-do",
-    "description": "Scammers can combine your name, phone number and address with data breach details to attempt SIM swaps, phishing and even identity theft schemes.",
-    "pubDate": "Sat, 10 Oct 2026 23:30:13 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
-    "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
-    "description": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
-    "pubDate": "Sat, 10 Oct 2026 23:18:16 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
-    "link": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
-    "description": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
-    "pubDate": "Sat, 10 Oct 2026 23:17:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Bid to overturn ruling which stops police being sued for failings",
-    "link": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
-    "description": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent.",
-    "pubDate": "Sat, 10 Oct 2026 23:04:37 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Ben Affleck clears up \u2018Gone Girl\u2019 shower scene rumor after years of speculation",
-    "link": "https://www.foxnews.com/entertainment/ben-affleck-clears-gone-girl-shower-scene-rumor-years-speculation",
-    "description": "Ben Affleck confirmed he wore no prosthesis in his \"Gone Girl\" nude shower scene, settling years of speculation about the David Fincher film.",
-    "pubDate": "Sat, 10 Oct 2026 23:00:15 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "5 forgotten ice cream flavors from the \u201970s that fans are begging to be brought back",
-    "link": "https://www.foxnews.com/food-drink/5-forgotten-ice-cream-flavors-70s-fans-begging-brought-back",
-    "description": "Butter Brickle, rum raisin and pink bubblegum once dominated ice cream aisles. Here are five nostalgic flavors now fading from store freezers.",
-    "pubDate": "Sat, 10 Oct 2026 22:56:58 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
     "title": "Anchorage Weather: Tonight - Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "38\u00b0F. Wind SE 5 to 25 mph. Rain. Cloudy, with a low around 38. Southeast wind 5 to 25 mph, with gusts as high as 45 mph. Chance of precipitation is 80%.",
-    "pubDate": "Sun, 11 Oct 2026 03:35:30 GMT",
+    "pubDate": "Sun, 11 Oct 2026 10:31:17 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -613,7 +613,7 @@
     "title": "Anchorage Weather: Sunday - Light Rain then Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "47\u00b0F. Wind S 5 to 15 mph. Rain before 7am, then a chance of rain showers. Mostly cloudy, with a high near 47. South wind 5 to 15 mph. Chance of precipitation is 80%.",
-    "pubDate": "Sun, 11 Oct 2026 03:35:30 GMT",
+    "pubDate": "Sun, 11 Oct 2026 10:31:17 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Sunday Night - Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "36\u00b0F. Wind S 5 to 10 mph. A chance of rain showers. Mostly cloudy, with a low around 36. South wind 5 to 10 mph. Chance of precipitation is 60%.",
-    "pubDate": "Sun, 11 Oct 2026 03:35:30 GMT",
+    "pubDate": "Sun, 11 Oct 2026 10:31:17 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -632,18 +632,18 @@
   {
     "title": "Anchorage Weather: Columbus Day - Scattered Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "46\u00b0F. Wind SE 0 to 5 mph. Scattered rain showers. Mostly cloudy, with a high near 46. Southeast wind 0 to 5 mph. Chance of precipitation is 30%.",
-    "pubDate": "Sun, 11 Oct 2026 03:35:30 GMT",
+    "description": "46\u00b0F. Wind SE 0 to 5 mph. Scattered rain showers. Mostly cloudy, with a high near 46. Southeast wind 0 to 5 mph. Chance of precipitation is 50%.",
+    "pubDate": "Sun, 11 Oct 2026 10:31:17 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Monday Night - Chance Light Rain then Chance Rain And Snow",
+    "title": "Anchorage Weather: Monday Night - Rain Showers Likely",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "34\u00b0F. Wind E 0 to 5 mph. Scattered rain showers before 7pm, then a chance of rain between 7pm and 4am, then a chance of rain and snow. Mostly cloudy, with a low around 34. East wind 0 to 5 mph. Chance of precipitation is 30%.",
-    "pubDate": "Sun, 11 Oct 2026 03:35:30 GMT",
+    "description": "34\u00b0F. Wind  0 mph. Rain showers likely. Mostly cloudy, with a low around 34. Northeast wind around 0 mph. Chance of precipitation is 60%.",
+    "pubDate": "Sun, 11 Oct 2026 10:31:17 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
