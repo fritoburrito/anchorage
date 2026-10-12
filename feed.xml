@@ -5,54 +5,126 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 00:53:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:25:14 GMT</lastBuildDate>
     <item>
-      <title>Newscast – Friday, Oct. 9, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17493189/newscast-friday-oct-9-2026</link>
-      <guid isPermaLink="false">dc81cad3ef7dd9320b11b6bc8bb126c74a58f4fe</guid>
-      <pubDate>Sat, 10 Oct 2026 00:53:45 GMT</pubDate>
-      <description><![CDATA[A man who barricaded himself with a knife in an office building in downtown Juneau voluntarily surrendered to Juneau Police today; A Juneau educator is helping Alaska Native kids and elders research family histories touched by colonial residential schools; Juneau wrapped up a record-breaking cruise ship tourism season this week; Alaska's four candidates for governor debated about working across party lines at the Debate for the State on Thursday night]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight - Chance Rain Showers</title>
+      <title>Anchorage Weather: Columbus Day - Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 12 Oct 2026 06:52:46 GMT</pubDate>
-      <description><![CDATA[36°F. Wind S 10 mph. A chance of rain showers. Cloudy, with a low around 36. South wind around 10 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Mon, 12 Oct 2026 16:25:14 GMT</pubDate>
+      <description><![CDATA[46°F. Wind SE 0 to 5 mph. Rain showers likely. Cloudy, with a high near 46. Southeast wind 0 to 5 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Columbus Day - Chance Rain Showers</title>
+      <title>Anchorage Weather: Tonight - Rain Showers Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 12 Oct 2026 06:52:46 GMT</pubDate>
-      <description><![CDATA[46°F. Wind S 5 to 10 mph. A chance of rain showers. Mostly cloudy, with a high near 46. South wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Mon, 12 Oct 2026 16:25:14 GMT</pubDate>
+      <description><![CDATA[34°F. Wind E 0 to 5 mph. Rain showers likely. Mostly cloudy, with a low around 34. East wind 0 to 5 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Monday Night - Rain Showers Likely</title>
+      <title>Anchorage Weather: Tuesday - Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 12 Oct 2026 06:52:46 GMT</pubDate>
-      <description><![CDATA[34°F. Wind SE 0 to 5 mph. Rain showers likely. Mostly cloudy, with a low around 34. Southeast wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Mon, 12 Oct 2026 16:25:14 GMT</pubDate>
+      <description><![CDATA[45°F. Wind NE 5 mph. A chance of rain showers. Mostly cloudy, with a high near 45. Northeast wind around 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tuesday - Rain Showers Likely</title>
+      <title>Anchorage Weather: Tuesday Night - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 12 Oct 2026 06:52:46 GMT</pubDate>
-      <description><![CDATA[45°F. Wind NE 0 to 5 mph. Rain showers likely. Mostly cloudy, with a high near 45. Northeast wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Mon, 12 Oct 2026 16:25:14 GMT</pubDate>
+      <description><![CDATA[31°F. Wind N 0 to 5 mph. A slight chance of rain showers before 7pm, then a chance of rain. Mostly cloudy, with a low around 31. North wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tuesday Night - Slight Chance Light Rain</title>
+      <title>Anchorage Weather: Wednesday - Slight Chance Light Rain then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Mon, 12 Oct 2026 06:52:46 GMT</pubDate>
-      <description><![CDATA[31°F. Wind N 0 to 5 mph. A chance of rain showers before 10pm, then a slight chance of rain between 10pm and 1am. Mostly cloudy, with a low around 31. North wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Mon, 12 Oct 2026 16:25:14 GMT</pubDate>
+      <description><![CDATA[44°F. Wind NE 0 to 5 mph. A slight chance of rain before 7am. Mostly cloudy, with a high near 44. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Idaho professor falsely accused of student murders by TikTok psychic reveals fear for children's safety</title>
+      <link>https://www.foxnews.com/us/idaho-professor-falsely-accused-student-murders-tiktok-psychic-reveals-fear-childrens-safety</link>
+      <guid isPermaLink="false">4a90f9e39cf161f2bad709ba5a282819d0b424d5</guid>
+      <pubDate>Mon, 12 Oct 2026 16:10:04 GMT</pubDate>
+      <description><![CDATA[Rebecca Scofield describes sleepless nights guarding her children after TikTok psychic Ashley Guillard accused her in the University of Idaho murders.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>US Observes Columbus Day, Indigenous Peoples Day</title>
+      <link>https://alaska-native-news.com/us-observes-columbus-day-indigenous-peoples-day-2/86670/</link>
+      <guid isPermaLink="false">ab1fb4377357e58988dc7a5f4300f7aca773f30b</guid>
+      <pubDate>Mon, 12 Oct 2026 14:06:46 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — The United States observes its Columbus Day holiday on Monday as well Indigenous Peoples Day. Columbus Day has been a federal holiday since 1971 to celebrate the 1492 landing of Christopher Columbus in the Americas. Recognition of the violence, disease and other suffering inflicted by European nations on the people already living in the […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Nanwalek-Alutiiq Word of the Week</title>
+      <link>https://alaska-native-news.com/nanwalek-alutiiq-word-of-the-week/86656/</link>
+      <guid isPermaLink="false">15d04b24ed3a643f632cd392e835b838960637db</guid>
+      <pubDate>Mon, 12 Oct 2026 14:05:21 GMT</pubDate>
+      <description><![CDATA[Nanwalek (formerly English Bay) — Nanwalek Kina Nanwalegmek? – Who is from Nanwalek? The Alutiiq village of Nanwalek lies on the southern tip of the Kenai Peninsula, just ten miles southwest of Seldovia. Although Alutiiq people have lived in this region for thousands of years, the community of Nanwalek began as a Russian trading post, […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Sullivan Introduces Legislation to Expand Available Lands for Alaska Native Vietnam-era Veteran Allotments</title>
+      <link>https://alaska-native-news.com/sullivan-introduces-legislation-to-expand-available-lands-for-alaska-native-vietnam-era-veteran-allotments/86647/</link>
+      <guid isPermaLink="false">db1c6242f04117565e3375b510a4d098303828b2</guid>
+      <pubDate>Mon, 12 Oct 2026 14:04:47 GMT</pubDate>
+      <description><![CDATA[ANCHORAGE, ALASKA—Last week, U.S. Senator Dan Sullivan (R-Alaska) introduced the Alaska Native Vietnam Veterans Land Allotment Fulfillment Act of 2026. This legislation builds on Sen. Sullivan’s longstanding efforts to fulfill the federal government’s commitment to Alaska Native Vietnam-era veterans by making additional federal lands available for allotment selection. The bill would immediately open approximately 3.7 […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Time capsule: Hardwood, softwood, fuelwood</title>
+      <link>https://alaska-native-news.com/time-capsule-hardwood-softwood-fuelwood/86665/</link>
+      <guid isPermaLink="false">9142879d9346ff74718d9f4fa23d19f1fe05178e</guid>
+      <pubDate>Mon, 12 Oct 2026 14:03:48 GMT</pubDate>
+      <description><![CDATA[Note: After finally cleaning my stovepipe last weekend, it feels like woodstove season at my cabin can officially (and safely) begin. Carla Helfferich wrote this wood power-focused Alaska Science Forum column on Oct. 3, 1990. — Sara Wilbur A strange thing happens at my house every October: the woodstove seems to get bigger. It’s been […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Notice of Public Hearing — Meeting on the Proposed Issuance of Private Nonprofit Hatchery Permit for Bering Sea Fisheries Research Foundation’s Proposed Saint Paul Hatchery</title>
+      <link>https://alaska-native-news.com/notice-of-public-hearing-meeting-on-the-proposed-issuance-of-private-nonprofit-hatchery-permit-for-bering-sea-fisheries-research-foundations-proposed-saint-paul-hatchery/86668/</link>
+      <guid isPermaLink="false">714c654679953edd773a5d4ef7f36354418b4134</guid>
+      <pubDate>Mon, 12 Oct 2026 14:02:22 GMT</pubDate>
+      <description><![CDATA[The Commissioner of the Alaska Department of Fish and Game is holding a public meeting (in accordance with Alaska Statutes 16.12.010–16.12.110) for the purpose of taking public comment on the issuance of a private nonprofit hatchery permit to Bering Sea Fisheries Research Foundation for operation of the Saint Paul Hatchery (SPH) in Saint Paul, Alaska […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>October 12th, 1945</title>
+      <link>https://alaska-native-news.com/october-12th-1945/37837/</link>
+      <guid isPermaLink="false">90e3be8c1b1bfb2b7102081312902e248f9a45eb</guid>
+      <pubDate>Mon, 12 Oct 2026 14:01:51 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>This Day in Alaska History-October 12th, 1930</title>
+      <link>https://alaska-native-news.com/october-12th-1930/45150/</link>
+      <guid isPermaLink="false">b9a77f2e7fb5014641db658698fca13a72c144b3</guid>
+      <pubDate>Mon, 12 Oct 2026 14:00:09 GMT</pubDate>
+      <description><![CDATA[While celebrating Columbus Day, Ralph Wein, the brother of Noel Wein and co-founder of Alaska’s first airline, Wein Air Alaska, crashed in full view of onlookers in Kotzebue on October 2th, 1930. Aboard his aircraft, a Bellanca, that day were Fr. Philip Delon, Superior General of Alaskan Catholic missions, and Fr. William Walsh, a diocesan […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Second ‘Big Beautiful’ lease sale in Alaska’s Cook Inlet planned after first sale flops</title>
+      <link>https://alaskabeacon.com/2026/10/12/second-big-beautiful-lease-sale-in-alaskas-cook-inlet-planned-after-first-sale-flops/</link>
+      <guid isPermaLink="false">38de86f4486523e036356aff5f78faa604fbec50</guid>
+      <pubDate>Mon, 12 Oct 2026 13:55:56 GMT</pubDate>
+      <description><![CDATA[The Trump administration on Friday announced that it will hold an offshore lease sale in federal waters of Cook Inlet next March, about a year after a similar federal lease sale offering the same acreage drew no bids. The auction — to offer 1 million acres of federal offshore territory — is part of a […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Man with knife surrenders to Juneau police after standoff in downtown building</title>
+      <link>https://www.juneauempire.com/2026/10/12/man-with-knife-surrenders-to-juneau-police-after-standoff-in-downtown-building/</link>
+      <guid isPermaLink="false">9be67cf93e0e7a20ef45317ba28f938bbe94c555</guid>
+      <pubDate>Mon, 12 Oct 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[Man undergoing medical evaluation after locking himself in room at Public Advocacy Center]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>The Good “Sam” Club</title>
@@ -199,228 +271,180 @@
       <category>weather</category>
     </item>
     <item>
-      <title>State report shows heating fuel prices are at a record high in rural Alaska</title>
-      <link>https://alaskabeacon.com/2026/10/09/state-report-shows-heating-fuel-prices-are-at-a-record-high-in-rural-alaska/</link>
-      <guid isPermaLink="false">9bfb5633bdc6ecdb6402c4538116665a8ec9421b</guid>
-      <pubDate>Sat, 10 Oct 2026 01:15:26 GMT</pubDate>
-      <description><![CDATA[The average price of a gallon of heating fuel — No. 1 diesel — in rural Alaska reached a record $7.97 per gallon in August, according to the latest biannual survey conducted by the Alaska Division of Community and Regional Affairs. The rural average, based on a survey of 100 communities taken between July 15 […]]]></description>
+      <title>Juneau voters support seasonal sales tax</title>
+      <link>https://www.juneauempire.com/2026/10/10/juneau-voters-support-seasonal-sales-tax/</link>
+      <guid isPermaLink="false">9f74806122e00a2914090d87258ed6c54decb891</guid>
+      <pubDate>Sat, 10 Oct 2026 10:30:00 GMT</pubDate>
+      <description><![CDATA[Paul Kelly and Joyce Niven lead races for Assembly, while David Noon tops ballot for school board]]></description>
       <category>local</category>
     </item>
     <item>
-      <title>Juneau man honored with prestigious St. Thérèse Award</title>
-      <link>https://www.juneauempire.com/2026/10/09/juneau-man-honored-with-prestigious-st-thrse-award/</link>
-      <guid isPermaLink="false">517ceecd5a677374bccc81331ad249f4081e4446</guid>
-      <pubDate>Sat, 10 Oct 2026 00:30:00 GMT</pubDate>
-      <description><![CDATA[Jim Wilcox was recognized for his lifetime of outstanding dedication, hospitality, and stewardship]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Two Alaska governor candidates advocate lower minimum wage, rollback of sick leave law</title>
-      <link>https://alaskabeacon.com/2026/10/09/two-alaska-governor-candidates-advocate-lower-minimum-wage-rollback-of-sick-leave-law/</link>
-      <guid isPermaLink="false">139fc85ee6d0a58b1919da2133f48ee5be649518</guid>
-      <pubDate>Fri, 09 Oct 2026 23:52:00 GMT</pubDate>
-      <description><![CDATA[If elected, Republican governor candidates Dave Bronson and Bernadette Wilson said they would seek to roll back Alaska’s mandatory sick leave law and eliminate a minimum wage increase approved by voters in 2024. The two spoke at a forum hosted Wednesday in Juneau by the Juneau Chamber of Commerce, which is in favor of rolling […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>2 Juneau non-profits recieve grant awards from Alaska Mental Health Trust Authority</title>
-      <link>https://www.juneauempire.com/2026/10/09/2-juneau-non-profits-recieve-grant-awards-from-alaska-mental-health-trust-authority/</link>
-      <guid isPermaLink="false">db9f7ff4c30a53b190063c7c051b2ddc529c01cf</guid>
-      <pubDate>Fri, 09 Oct 2026 22:30:00 GMT</pubDate>
-      <description><![CDATA[The Kin Support Program Haa – Yaitxu Saiani and National Alliance on Mental Illness Juneau received trust funding]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Hammers Family Birch awarded $200,000 USDA grant to expand birch brew across Alaska</title>
-      <link>https://mustreadalaska.com/hammers-family-birch-awarded-200000-usda-grant-to-expand-birch-brew-across-alaska/</link>
-      <guid isPermaLink="false">642da33d935e64ec8dc0feeeaf201e32d1bb7ed1</guid>
-      <pubDate>Fri, 09 Oct 2026 21:18:13 GMT</pubDate>
-      <description><![CDATA[TALKEETNA, Alaska — Hammers Family Birch has been awarded a $200,000 USDA Value-Added Producer Grant to expand distribution of Birch Brew, its nonalcoholic, wild-fermented Alaska birch sap beverage. The family-owned company will match the award with $200,000 of its own funds, supporting a $400,000 project to bring Birch Brew to more customers across the state. […] The post Hammers Family Birch awarded $200,000 USDA grant to expand birch brew across Alaska appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Juneau Seawalk extension set to begin construction in April 2027</title>
-      <link>https://www.juneauempire.com/2026/10/09/juneau-seawalk-extension-set-to-begin-construction-in-april-2027/</link>
-      <guid isPermaLink="false">1dbb109d45c65c6e486fb9fe590fb7bbaddef391</guid>
-      <pubDate>Fri, 09 Oct 2026 19:54:00 GMT</pubDate>
-      <description><![CDATA[City officials consider a revenue bond to help pay for the second phase]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Recall LaFrance application certified; drone logs made available to the public</title>
-      <link>https://mustreadalaska.com/recall-lafrance-application-certified-drone-logs-made-available-to-the-public/</link>
-      <guid isPermaLink="false">2b03a0c641912de01a7553bfe9412689a589aca4</guid>
-      <pubDate>Fri, 09 Oct 2026 19:52:16 GMT</pubDate>
-      <description><![CDATA[About a month ago, Anchorage residents launched an effort to recall Mayor Suzanne LaFrance after finding a failure to comply with certain municipal laws related to surveillance technology. On October 5, the Municipal Clerk certified the group’s application to petition a recall. Anchorage Municipal Code 3.102.040 requires the mayor or a designee to “transmit to the […] The post Recall LaFrance application certified; drone logs made available to the public appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Book banning is a spooky practice</title>
-      <link>https://alaskabeacon.com/2026/10/09/book-banning-is-a-spooky-practice/</link>
-      <guid isPermaLink="false">bc760744693de5439b8b6dcd0cd340b87fd2546b</guid>
-      <pubDate>Fri, 09 Oct 2026 19:42:36 GMT</pubDate>
-      <description><![CDATA[October is a time of witches, goblins, ghosts, and ghouls — and also a time for us to contemplate the ramifications of book banning as we recognize Banned Books Week this week. Book banning — and burning — is nothing new to the human species. According to a historical timeline on thisbookisbanned.com, early historical actions […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Trump says Russia and Ukraine agree to an 'energy ceasefire'</title>
-      <link>https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire</link>
-      <guid isPermaLink="false">6c99ff2bdf59645d46a6880db7418d12df322e25</guid>
-      <pubDate>Mon, 12 Oct 2026 06:41:57 GMT</pubDate>
-      <description><![CDATA[President Trump said Sunday that Russia and Ukraine had agreed to an "energy ceasefire," but he offered no details on it and Kyiv reported attacks by Moscow on energy sites after his statement.]]></description>
+      <title>Fridges in French supermarkets hit by cyber attack</title>
+      <link>https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1fae22144c3f9a88ffb6a2cfbd7693fd93b5fa43</guid>
+      <pubDate>Mon, 12 Oct 2026 16:17:59 GMT</pubDate>
+      <description><![CDATA[Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Healey faces £35bn Budget challenge to meet spending pledges, says think tank</title>
-      <link>https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">11a55d843dc421aa1015edf150ae588743793125</guid>
-      <pubDate>Mon, 12 Oct 2026 06:23:50 GMT</pubDate>
-      <description><![CDATA[The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.]]></description>
+      <title>French supermarket fridges heated to 50C in 'unprecedented' cyber attack</title>
+      <link>https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1fae22144c3f9a88ffb6a2cfbd7693fd93b5fa43</guid>
+      <pubDate>Mon, 12 Oct 2026 16:17:59 GMT</pubDate>
+      <description><![CDATA[Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Suspect in deadly Philadelphia police ambush faces 76 charges, ordered held without bail</title>
-      <link>https://www.foxnews.com/us/philadelphia-police-ambush-eric-lewis-charges</link>
-      <guid isPermaLink="false">3a03b563acc955905055773efd15e9958da7cfe8</guid>
-      <pubDate>Mon, 12 Oct 2026 06:16:16 GMT</pubDate>
-      <description><![CDATA[A Philadelphia man faces 76 charges, including murder, after allegedly ambushing police officers, killing one and wounding another, according to officials.]]></description>
+      <title>Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador</title>
+      <link>https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b9cbbf9b5da8aa690529185229ffca6262e7b3f0</guid>
+      <pubDate>Mon, 12 Oct 2026 16:14:39 GMT</pubDate>
+      <description><![CDATA[The prime minister says Iran's Islamic Revolutionary Guard "almost certainly" directed the RAF Fairford incident.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Rejecting closer EU ties would be dereliction of duty, PM to say</title>
-      <link>https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f83860bb796ed51ff93ea2b92b930601fbd4cc71</guid>
-      <pubDate>Mon, 12 Oct 2026 05:01:22 GMT</pubDate>
-      <description><![CDATA[Addressing the Commons, Burnham is expected to say that a new deal with the EU could help tackle illegal immigration and boost economic growth.]]></description>
+      <title>Hillary Clinton includes 2016 loss in 'hard times' list for Dem voters, including 9/11, 2008 financial crisis</title>
+      <link>https://www.foxnews.com/media/hillary-clinton-includes-2016-loss-hard-times-list-dem-voters-911-2008-financial-crisis</link>
+      <guid isPermaLink="false">04e127db190e975e072eb8f6a5fa630fce49f879</guid>
+      <pubDate>Mon, 12 Oct 2026 16:12:55 GMT</pubDate>
+      <description><![CDATA[Former Secretary of State Hillary Clinton listed her 2016 loss alongside 9/11 and COVID as hard times while addressing disillusioned Democrats.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Documents falsified to evade tax on Abramovich's wealth</title>
-      <link>https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f55d23bf00b19b4a7218f5af37bb1050c3ba879e</guid>
-      <pubDate>Mon, 12 Oct 2026 05:00:52 GMT</pubDate>
-      <description><![CDATA[Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.]]></description>
+      <title>Immigration agents search Congresswoman Ilhan Omar's home</title>
+      <link>https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d7320b9b78a96562b26ba563bfe93c2be4e10d7c</guid>
+      <pubDate>Mon, 12 Oct 2026 16:04:13 GMT</pubDate>
+      <description><![CDATA[Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth</title>
-      <link>https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f55d23bf00b19b4a7218f5af37bb1050c3ba879e</guid>
-      <pubDate>Mon, 12 Oct 2026 05:00:52 GMT</pubDate>
-      <description><![CDATA[Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.]]></description>
+      <title>Immigration agents search Democratic congresswoman Ilhan Omar's home</title>
+      <link>https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d7320b9b78a96562b26ba563bfe93c2be4e10d7c</guid>
+      <pubDate>Mon, 12 Oct 2026 16:04:13 GMT</pubDate>
+      <description><![CDATA[Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Backup quarterback Tyler Huntley leads Baltimore Ravens to improbable OT win over Atlanta Falcons</title>
-      <link>https://www.foxnews.com/outkick-sports/backup-quarterback-tyler-huntley-leads-baltimore-ravens-improbable-ot-win-atlanta-falcons</link>
-      <guid isPermaLink="false">369e404a1cd9bfd5406df35972fa8b8138c7df04</guid>
-      <pubDate>Mon, 12 Oct 2026 04:22:48 GMT</pubDate>
-      <description><![CDATA[Tyler Huntley scored three touchdowns to rally the Baltimore Ravens past the Atlanta Falcons 30-23 in a dramatic overtime Sunday Night Football win.]]></description>
+      <title>India's opposition parties march to top court as protests over voter lists escalate</title>
+      <link>https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests</link>
+      <guid isPermaLink="false">858079555e1faded085c27a4985bf061675fd847</guid>
+      <pubDate>Mon, 12 Oct 2026 16:01:54 GMT</pubDate>
+      <description><![CDATA[Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>PM says it is 'clear' Russia interfered with Brexit vote</title>
-      <link>https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2fa1a59f0aecd56679661fe808eea33577aca572</guid>
-      <pubDate>Mon, 12 Oct 2026 04:15:03 GMT</pubDate>
-      <description><![CDATA[He says voters were not "sufficiently" informed about how foreign actors sought to disrupt UK democracy.]]></description>
+      <title>Lane Kiffin claims ref told him 'he would have been killed' if he blew whistle before Kentucky touchdown</title>
+      <link>https://www.foxnews.com/outkick-sports/lane-kiffin-claims-ref-told-him-he-would-have-been-killed-if-he-blew-whistle-before-kentucky-touchdown</link>
+      <guid isPermaLink="false">c9462f4180dbde313aec55ab5a91c5678045dc4d</guid>
+      <pubDate>Mon, 12 Oct 2026 15:56:22 GMT</pubDate>
+      <description><![CDATA[Lane Kiffin claims a line judge admitted he would have been "killed" for blowing the whistle on Kentucky's controversial goal-line touchdown.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Pope Leo denounces death penalty as 'inadmissible' ahead of Pentagon's planned livestreamed execution</title>
-      <link>https://www.foxnews.com/world/pope-leo-denounces-death-penalty-inadmissible-ahead-pentagons-planned-livestreamed-execution</link>
-      <guid isPermaLink="false">2544cffebae11889b793dc2c2597c2fbe3c6d685</guid>
-      <pubDate>Mon, 12 Oct 2026 04:06:59 GMT</pubDate>
-      <description><![CDATA[Pope Leo XIV called the death penalty "inadmissible" on World Day Against the Death Penalty after the Pentagon announced plans to livestream an execution.]]></description>
+      <title>Watch: What could Trump's energy ceasefire mean for Ukraine?</title>
+      <link>https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">18a7416e9037f97971d587553dde40c0625e1c84</guid>
+      <pubDate>Mon, 12 Oct 2026 15:51:30 GMT</pubDate>
+      <description><![CDATA[The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Brewers stun Dodgers, 2-1, in NLCS Game 1 as LA's offense flops with runners in scoring position</title>
-      <link>https://www.foxnews.com/outkick-sports/brewers-stun-dodgers-2-1-nlcs-game-1-las-offense-flops-runners-scoring-position</link>
-      <guid isPermaLink="false">7064cdbb4c115a54b3a055ddfb8ed6abbceaf51e</guid>
-      <pubDate>Mon, 12 Oct 2026 03:47:38 GMT</pubDate>
-      <description><![CDATA[Even MLB's powerhouse Dodgers couldn't solve the Milwaukee Brewers in NLCS Game 1 as Jacob Misiorowski struck out five in a dominant home stand.]]></description>
+      <title>College football’s mega rosters aren’t delivering a return on investment as LSU, Texas A&amp;M and Oregon prove</title>
+      <link>https://www.foxnews.com/outkick-sports/college-football-mega-rosters-arent-delivering-return-investment-lsu-texas-am-oregon-prove</link>
+      <guid isPermaLink="false">bb37741df2b4167ff98b4549f60ec55b20efe434</guid>
+      <pubDate>Mon, 12 Oct 2026 15:45:52 GMT</pubDate>
+      <description><![CDATA[Mike Elko called TexAgs a "cesspool" after Texas A&M's third loss, while LSU's Lane Kiffin faces fan fury over a $100 million coaching investment.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Maduro-linked fugitive nabbed over alleged scheme to cash in on Venezuelans’ basic needs</title>
-      <link>https://www.foxnews.com/us/maduro-linked-fugitive-nabbed-alleged-scheme-cash-venezuelans-basic-needs</link>
-      <guid isPermaLink="false">c62ede963fda5d41edada1493fcf533ce5633a18</guid>
-      <pubDate>Mon, 12 Oct 2026 02:12:06 GMT</pubDate>
-      <description><![CDATA[Alvaro Pulido Vargas allegedly exploited Venezuela's CLAP food program and housing contracts, funneling billions through U.S. banks to hide bribes.]]></description>
+      <title>NFL linebacker and amateur preacher Demario Davis delivers amazing sermon on winning and life</title>
+      <link>https://www.foxnews.com/outkick-sports/nfl-linebacker-amateur-preacher-demario-davis-delivers-amazing-sermon-winning-life</link>
+      <guid isPermaLink="false">3ac700854d9e957c944579d937dce79a4fce08b7</guid>
+      <pubDate>Mon, 12 Oct 2026 15:27:15 GMT</pubDate>
+      <description><![CDATA[During the Jets' chapel service, Davis tied Proverbs 13:12 and the tree of life to perseverance through adversity in the NFL, relationships and careers.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Thousands march to Indian Supreme Court to demand election chief resign</title>
+      <link>https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">37f7a7a40e7db8157a67075421cdc63b7cab1230</guid>
+      <pubDate>Mon, 12 Oct 2026 15:19:17 GMT</pubDate>
+      <description><![CDATA[The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>At least 139 migrants dead, 84 missing after overcrowded boat capsizes off Djibouti</title>
-      <link>https://www.foxnews.com/world/at-least-139-migrants-dead-84-missing-overcrowded-boat-capsizes-djibouti</link>
-      <guid isPermaLink="false">c32e6f97255bfd9b5cde7810721d170edae6cba1</guid>
-      <pubDate>Mon, 12 Oct 2026 01:55:10 GMT</pubDate>
-      <description><![CDATA[More than 80 people survived the deadly crossing from Djibouti toward Yemen, while at least 84 remained missing as authorities worked to verify additional victims.]]></description>
+      <title>Yoshinobu Yamamoto takes the mound as Dodgers look to even NLCS after Game 1 loss to Brewers</title>
+      <link>https://www.foxnews.com/outkick-betting/yoshinobu-yamamoto-takes-mound-dodgers-look-even-nlcs-game-1-loss-brewers</link>
+      <guid isPermaLink="false">b46786b47aaefa51bae80317a366fea52be79212</guid>
+      <pubDate>Mon, 12 Oct 2026 15:16:55 GMT</pubDate>
+      <description><![CDATA[Yoshinobu Yamamoto, last year's World Series MVP, takes the mound for the Dodgers in NLCS Game 2 after Milwaukee seized home field advantage.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war</title>
-      <link>https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war</link>
-      <guid isPermaLink="false">ed49ebdd2f5e1281968da679c5048d06a57304e7</guid>
-      <pubDate>Mon, 12 Oct 2026 00:34:53 GMT</pubDate>
-      <description><![CDATA[Iran-backed Houthis struck Saudi Arabian airports in Riyadh and Dammam, killing at least 14 and injuring over 300 as experts warn of wider war.]]></description>
+      <title>Drew Rasmussen and the Rays look to overpower the Guardians in ALCS Game 1</title>
+      <link>https://www.foxnews.com/outkick-betting/drew-rasmussen-rays-overpower-guardians-alcs-game-1</link>
+      <guid isPermaLink="false">c3b21ef6f969d2e8ab1e6546b27286540928b984</guid>
+      <pubDate>Mon, 12 Oct 2026 15:16:05 GMT</pubDate>
+      <description><![CDATA[Drew Rasmussen's dominant postseason form gives the Tampa Bay Rays a massive ALCS Game 1 edge over the Cleveland Guardians and Foster Griffin.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Ella Langley says canceled concert was ‘not worth a human life’ after bomb threat</title>
-      <link>https://www.foxnews.com/entertainment/ella-langley-canceled-concert-not-worth-human-life-bomb-threat</link>
-      <guid isPermaLink="false">60e1d395da6989fce95d662ab29229333d5e9d98</guid>
-      <pubDate>Mon, 12 Oct 2026 00:21:36 GMT</pubDate>
-      <description><![CDATA[Ella Langley became emotional during her Texas concert explaining why she canceled her sold-out BOK Center show despite Tulsa police finding no credible threat.]]></description>
+      <title>Bills vs Rams on 'Monday Night Football' offers a potential Super Bowl preview in Week 5</title>
+      <link>https://www.foxnews.com/outkick-betting/bills-vs-rams-monday-night-football-potential-super-bowl-preview-week-5</link>
+      <guid isPermaLink="false">d3a915874e73b6ade165648d5e401b9176a4ad23</guid>
+      <pubDate>Mon, 12 Oct 2026 15:15:23 GMT</pubDate>
+      <description><![CDATA["Monday Night Football" features a potential Super Bowl preview as Josh Allen and the Buffalo Bills face the Rams' upgraded defense at home.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>'The Social Reckoning' Review: Zuckerberg, Facebook are the enemy in preachy slop disguised as journo drama</title>
+      <link>https://www.foxnews.com/opinion/the-social-reckoning-review-zuckerberg-facebook-enemy-preachy-slop-disguised-journo-drama</link>
+      <guid isPermaLink="false">eae28af87197967335a63f570f64cf68a2263612</guid>
+      <pubDate>Mon, 12 Oct 2026 14:59:36 GMT</pubDate>
+      <description><![CDATA[Fox News Digital reviews Sony Pictures' "The Social Reckoning" starring Jeremy Strong, Jeremy Allen White and Mikey Madison, and written and directed by Aaron Sorkin.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Tom Emmer tells Jon Karl there are 'communists' on the midterm ballot in heated ABC exchange</title>
-      <link>https://www.foxnews.com/media/tom-emmer-tells-jon-karl-communists-midterm-ballot-heated-abc-exchange</link>
-      <guid isPermaLink="false">f15978d85ae79325b7749d39906a847f8b38fea5</guid>
-      <pubDate>Mon, 12 Oct 2026 00:19:34 GMT</pubDate>
-      <description><![CDATA[House Majority Whip Tom Emmer clashed with Jon Karl on ABC's "This Week," insisting that Democratic socialists on the ballot are actually communists.]]></description>
+      <title>This Michael Jordan game-worn jersey just became the most expensive piece of basketball memorabilia ever</title>
+      <link>https://www.foxnews.com/outkick-sports/michael-jordan-game-worn-jersey-most-expensive-basketball-memorabilia</link>
+      <guid isPermaLink="false">1af279f0c92970e735b5c3ec09126defa5918c43</guid>
+      <pubDate>Mon, 12 Oct 2026 14:50:21 GMT</pubDate>
+      <description><![CDATA[Miami investor Ron Firman now owns Michael Jordan's autographed Game 2 jersey, the third 1998 Finals piece to sell for eight figures recently.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Tropical Storm Rachel downgraded as high winds and rain turn inward</title>
-      <link>https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward</link>
-      <guid isPermaLink="false">43da4d3d585d660c17ae858bb61eef23ed41e54f</guid>
-      <pubDate>Sun, 11 Oct 2026 23:54:21 GMT</pubDate>
-      <description><![CDATA[Forecasters say the storm, which brought heavy rain and coastal flooding, is a preview of what may be in store as California braces for a possibly record-setting El Niño.]]></description>
+      <title>South Africa's deputy police chief resigns after being charged with sexual offences</title>
+      <link>https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">993702dfd5d4747d8cf9365c0747137b4b977693</guid>
+      <pubDate>Mon, 12 Oct 2026 14:40:15 GMT</pubDate>
+      <description><![CDATA[Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Pupil arrested after two teachers shot at French school</title>
+      <link>https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">59f8f65c0029616748ac8ea8a6acbcb67a389b0d</guid>
+      <pubDate>Mon, 12 Oct 2026 14:13:16 GMT</pubDate>
+      <description><![CDATA[A 14-year-old was detained after the middle-school principal and teacher were injured.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Record fall heat wave to bake the Central and Eastern US before a plunge to cold temperatures this weekend</title>
+      <link>https://www.foxweather.com/weather-news/unusual-fall-heat-wave-sweat-central-eastern-us-before-plunge-cold-temperatures-weekend</link>
+      <guid isPermaLink="false">7286b75bd7fc03c8b1360e1b58581d26fe0221b3</guid>
+      <pubDate>Mon, 12 Oct 2026 13:38:43 GMT</pubDate>
+      <description><![CDATA[The heat is on across the Great Plains, Midwest, Deep South, and Southeastern U.S. this week, as a surge in unseasonably high temperatures gives millions of Americans a chance to enjoy the outdoors.]]></description>
+      <category>southeast</category>
+    </item>
+    <item>
+      <title>Hurricane Simon to fuel multiday flood threat across Great Plains as remnants charge North</title>
+      <link>https://www.foxweather.com/weather-news/remnants-hurricane-simon-mulitday-flood-threat-great-plains</link>
+      <guid isPermaLink="false">3c3c398f0f91408ab822419f402e43aa9539b9e6</guid>
+      <pubDate>Sun, 11 Oct 2026 17:55:49 GMT</pubDate>
+      <description><![CDATA[As Hurricane Simon weakens, the remnants will shift northward, bringing a surge of tropical moisture into the Great Plains and fueling a multi-day threat of storms and flooding.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Should Penn State already regret James Franklin firing after loss to USC in 'White Out' game?</title>
-      <link>https://www.foxnews.com/outkick-sports/penn-state-regret-james-franklin-firing-loss-usc-white-out-game</link>
-      <guid isPermaLink="false">027b36038f296cc9c22b89cd36ce51eb6c90b7b8</guid>
-      <pubDate>Sun, 11 Oct 2026 23:50:02 GMT</pubDate>
-      <description><![CDATA[USC-Penn State drew a record 114,419 fans for Beaver Stadium's 'White Out,' but Jayden Maiava's three touchdowns silenced the crowd in a huge road win.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Watch: Endangered orangutans released back into the wild after Borneo fires</title>
-      <link>https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">118483e2da7b57d4ab36f0b63c008ddd42e28fb8</guid>
-      <pubDate>Sun, 11 Oct 2026 23:48:25 GMT</pubDate>
-      <description><![CDATA[The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Pregnant mom just 4 days from giving birth among 8 killed in Pennsylvania massacre: reports</title>
-      <link>https://www.foxnews.com/us/pregnant-mom-just-4-days-giving-birth-among-8-killed-pennsylvania-massacre-reports</link>
-      <guid isPermaLink="false">c3668b797d8404ead8592eb497f5f5f3c6394b2b</guid>
-      <pubDate>Sun, 11 Oct 2026 23:35:18 GMT</pubDate>
-      <description><![CDATA[Angelina Stone, who was eight months pregnant, was killed along with her two young children and several relatives in a mass shooting at a home in Erie, Pennsylvania, according to reports.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Iconic Australian band Powderfinger announce first tour in 17 years</title>
-      <link>https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e4882cb6c18780040495252bc988c74827f5493d</guid>
-      <pubDate>Sun, 11 Oct 2026 23:33:24 GMT</pubDate>
-      <description><![CDATA[The band, who announced their reunion last week, say they are "absolutely ecstatic" to be playing together again.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Hurricane Simon to fuel multiday flood threat across Great Plains as remnants move inland</title>
@@ -471,6 +495,14 @@
       <category>weather</category>
     </item>
     <item>
+      <title>Rachel's remnants fuel severe storms for the West Coast with repeated rounds of heavy rainfall</title>
+      <link>https://www.foxweather.com/weather-news/rachel-west-coast-rain-flooding-wind-california-southwest</link>
+      <guid isPermaLink="false">299f8911af1e9da9fd48e1e479b64245b3475c90</guid>
+      <pubDate>Sat, 10 Oct 2026 21:34:10 GMT</pubDate>
+      <description><![CDATA[The Southwest experiences rare impacts from the remnants of Rachel, which made landfall in Mexico just south of the U.S. early on Sunday.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
       <title>Rachel's remnants fuel major West Coast flood threat with heavy rainfall soaking millions</title>
       <link>https://www.foxweather.com/weather-news/rachel-west-coast-rain-flooding-wind-california-southwest</link>
       <guid isPermaLink="false">299f8911af1e9da9fd48e1e479b64245b3475c90</guid>
@@ -492,38 +524,6 @@
       <guid isPermaLink="false">299f8911af1e9da9fd48e1e479b64245b3475c90</guid>
       <pubDate>Sat, 10 Oct 2026 21:34:10 GMT</pubDate>
       <description><![CDATA[The Southwest is expecting rare impacts from Tropical Storm Rachel, which is forecast to make landfall in Mexico just south of the U.S. late Saturday night.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Isaias slams Florida Panhandle, but the worst may not be over as dangerous impacts spread inland</title>
-      <link>https://www.foxweather.com/weather-news/hurricane-isaias-florida-panhandle-dangerous-impacts-ongoing</link>
-      <guid isPermaLink="false">c06d7453d2a34cecd4ab2b11cbcaa2c1953cc355</guid>
-      <pubDate>Sat, 10 Oct 2026 03:31:11 GMT</pubDate>
-      <description><![CDATA[Isaias has made landfall along Florida’s Gulf Coast, unleashing life-threatening storm surge, hurricane-force winds and torrential rain. The danger is far from over, as the storm’s impacts spread inland across the Southeast and beyond.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Post-tropical Isaias leaves at least 4 dead in Southeast, as flood threat, heavy rains persist</title>
-      <link>https://www.foxweather.com/weather-news/hurricane-isaias-landfall-destructive-winds-life-threatening-flooding</link>
-      <guid isPermaLink="false">820550b64849e207435a8ee90703af03fcf3f653</guid>
-      <pubDate>Sat, 10 Oct 2026 02:17:36 GMT</pubDate>
-      <description><![CDATA[Isaias made landfall Friday as a dangerous Category 2 storm, lashing the northern Gulf Coast with destructive winds and life-threatening storm surge.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Post-tropical Isaias leaves 2 dead in Southeast, as flood threat, heavy rains persist</title>
-      <link>https://www.foxweather.com/weather-news/hurricane-isaias-landfall-destructive-winds-life-threatening-flooding</link>
-      <guid isPermaLink="false">820550b64849e207435a8ee90703af03fcf3f653</guid>
-      <pubDate>Sat, 10 Oct 2026 02:17:36 GMT</pubDate>
-      <description><![CDATA[Isaias made landfall Friday as a dangerous Category 2 storm, lashing the northern Gulf Coast with destructive winds and life-threatening storm surge.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Post-tropical Isaias still packs a dangerous punch as destructive winds, flooding threaten millions</title>
-      <link>https://www.foxweather.com/weather-news/hurricane-isaias-landfall-destructive-winds-life-threatening-flooding</link>
-      <guid isPermaLink="false">820550b64849e207435a8ee90703af03fcf3f653</guid>
-      <pubDate>Sat, 10 Oct 2026 02:17:36 GMT</pubDate>
-      <description><![CDATA[Isaias made landfall Friday as a dangerous Category 2 storm, lashing the northern Gulf Coast with destructive winds and life-threatening storm surge.]]></description>
       <category>weather</category>
     </item>
   </channel>
