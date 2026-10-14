@@ -5,20 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 00:05:02 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Slight Chance Light Rain</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 14 Oct 2026 00:05:02 GMT</pubDate>
-      <description><![CDATA[44°F. Wind N 0 to 5 mph. A slight chance of rain. Mostly cloudy, with a high near 44. North wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Wed, 14 Oct 2026 05:43:44 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 14 Oct 2026 00:05:02 GMT</pubDate>
+      <pubDate>Wed, 14 Oct 2026 05:43:44 GMT</pubDate>
       <description><![CDATA[35°F. Wind N 0 to 5 mph. A chance of rain before 4am. Mostly cloudy, with a low around 35. North wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +18,7 @@
       <title>Anchorage Weather: Wednesday - Partly Sunny then Slight Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 14 Oct 2026 00:05:02 GMT</pubDate>
+      <pubDate>Wed, 14 Oct 2026 05:43:44 GMT</pubDate>
       <description><![CDATA[44°F. Wind N 5 to 10 mph. A slight chance of rain showers after 4pm. Partly sunny, with a high near 44. North wind 5 to 10 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -34,17 +26,73 @@
       <title>Anchorage Weather: Wednesday Night - Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 14 Oct 2026 00:05:02 GMT</pubDate>
-      <description><![CDATA[35°F. Wind N 5 to 10 mph. A slight chance of rain showers before 10pm, then a slight chance of rain. Mostly cloudy, with a low around 35. North wind 5 to 10 mph.]]></description>
+      <pubDate>Wed, 14 Oct 2026 05:43:44 GMT</pubDate>
+      <description><![CDATA[35°F. Wind N 5 to 10 mph. A slight chance of rain showers before 10pm, then a slight chance of rain. Mostly cloudy, with a low around 35. North wind 5 to 10 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Thursday - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 14 Oct 2026 00:05:02 GMT</pubDate>
+      <pubDate>Wed, 14 Oct 2026 05:43:44 GMT</pubDate>
       <description><![CDATA[45°F. Wind N 10 mph. A chance of rain. Mostly cloudy, with a high near 45. North wind around 10 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Thursday Night - Chance Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Wed, 14 Oct 2026 05:43:44 GMT</pubDate>
+      <description><![CDATA[34°F. Wind NE 5 to 10 mph. A chance of rain. Mostly cloudy, with a low around 34. Northeast wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Trump signs pardons for Alaska diesel mechanics onstage during rally touting major energy deals</title>
+      <link>https://www.foxnews.com/politics/president-trump-signs-pardons-alaska-diesel-mechanics-onstage-rally-touting-major-energy-deals</link>
+      <guid isPermaLink="false">0080113496befa19870528946cf3492423fe6223</guid>
+      <pubDate>Wed, 14 Oct 2026 02:13:34 GMT</pubDate>
+      <description><![CDATA[President Donald Trump signed clemency documents onstage in Alaska while also announcing that a major natural gas pipeline secured federal permits.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Trump rally puts Wasilla in national campaign spotlight</title>
+      <link>https://alaskabeacon.com/2026/10/13/trump-rally-puts-wasilla-in-national-campaign-spotlight/</link>
+      <guid isPermaLink="false">b19fbc6daa2554e10e555f273876a1b73b9addc8</guid>
+      <pubDate>Wed, 14 Oct 2026 02:07:32 GMT</pubDate>
+      <description><![CDATA[The bedroom community made famous during former Alaska Gov. Sarah Palin’s 2008 vice presidential run took center stage on Monday in the national fight for control of Congress. President Donald Trump came to Wasilla to campaign for U.S. Sen. Dan Sullivan, a Republican facing a stiff challenge from former U.S. Rep. Mary Peltola, a Democrat. […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Tuesday, Oct. 13, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17496900/newscast-tuesday-oct-13-2026</link>
+      <guid isPermaLink="false">f0b83265a9cca3d25ea87dadb21856fb611b2692</guid>
+      <pubDate>Wed, 14 Oct 2026 01:00:08 GMT</pubDate>
+      <description><![CDATA[In this newscast: A Juneau man was charged with two felonies last weekend after struck and seriously injured a pedestrian early Sunday morning on Douglas Island; Indigenous scholars from across the country are convening in Juneau this week to learn from local experts, write grants and build community; Updated preliminary results for Juneau's municipal election show residents continue to support implementing a new seasonal sales tax in Juneau next year; A hidden workforce inside Juneau's Lemon Creek Correctional Center helps to keep the state's ferry system afloat.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Data center backlash set to sway midterm elections</title>
+      <link>https://alaskabeacon.com/2026/10/13/repub/data-center-backlash-set-to-sway-midterm-elections/</link>
+      <guid isPermaLink="false">59b7c3827842395b2c413125204ac68714df04ea</guid>
+      <pubDate>Wed, 14 Oct 2026 00:30:20 GMT</pubDate>
+      <description><![CDATA[In the course of a single election cycle, the backlash against data centers has grown from an issue at local planning commission and city council meetings to become a flashpoint in state and federal races across the country. Candidates who once touted data centers as an economic boon have backtracked, and voters in at least three dozen […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>U.S. presidents in Mat-Su: A history of unlikely encounters of the Valley kind</title>
+      <link>https://alaskabeacon.com/2026/10/13/u-s-presidents-in-mat-su-a-history-of-unlikely-encounters-of-the-valley-kind/</link>
+      <guid isPermaLink="false">9481f982c2ced40fc6e1f87f79ae7116b734778b</guid>
+      <pubDate>Wed, 14 Oct 2026 00:05:42 GMT</pubDate>
+      <description><![CDATA[The history is clear, especially in more modern times. If a sitting U.S. president visits Alaska, it tends to mean a quick few hours in Anchorage, with as much refueling as anything else. Donald Trump in 2019 and 2025. Joe Biden three times from 2022 to 2023. George W. Bush in 2002 and 2005. Bill […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaskans should consider candidates’ records on childcare and affordability at the polls</title>
+      <link>https://alaskabeacon.com/2026/10/13/alaskans-should-consider-candidates-records-on-childcare-and-affordability-at-the-polls/</link>
+      <guid isPermaLink="false">234f70f41032997d53cbb057907cb6b12801a94e</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[For Alaskan voters this election, we may not have a candidate we love in every race, but we do have candidates who are much better poised to improve our lives in concrete ways. For families in Alaska, our biggest expense after our mortgage or rent is childcare. This recent article in the Beacon covers past […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Vance, Johnson differ on schools, taxes in House District 6 rematch</title>
@@ -60,6 +108,46 @@
       <guid isPermaLink="false">dcd04f46b37e6484cd1dc0114a1d87837fc69cad</guid>
       <pubDate>Tue, 13 Oct 2026 18:30:27 GMT</pubDate>
       <description><![CDATA[Three weeks before Election Day, the Trump administration’s sprawling project to send sensitive personal information on millions of voters to the Department of Homeland Security has been declared illegal by a federal judge. The blistering court decision comes after the Department of Justice pressured or sued states for their voters’ information and then, according to court […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Employment First Awareness Week 2026</title>
+      <link>https://alaska-native-news.com/employment-first-awareness-week-2026/86689/</link>
+      <guid isPermaLink="false">aa125e31d5bef5cd44215fe7d6a16ba761082b4c</guid>
+      <pubDate>Tue, 13 Oct 2026 14:05:26 GMT</pubDate>
+      <description><![CDATA[WHEREAS, Alaska became an Employment First state in 2014 with the goal of ensuring that individuals with disabilities have information, training, resources, and programs that increase opportunities for meaningful, integrated, competitive wage and career employment; and WHEREAS, increasing the participation of Alaskans with disabilities in the workforce remains a priority for public and private sector […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Sierra Club Slams Trump Administration’s Decision to Bypass Environmental Reviews for Arctic Oil Drilling</title>
+      <link>https://alaska-native-news.com/sierra-club-slams-trump-administrations-decision-to-bypass-environmental-reviews-for-arctic-oil-drilling/86691/</link>
+      <guid isPermaLink="false">9949714775175976b419871644d65e480ec2123d</guid>
+      <pubDate>Tue, 13 Oct 2026 14:04:11 GMT</pubDate>
+      <description><![CDATA[WASHINGTON – Last week, the Trump administration invited fresh controversy when it announced it will abandon environmental reviews under the National Environmental Policy Act (NEPA) to allow oil and gas companies to run roughshod over pristine Arctic ecosystems to search for expensive, far-flung oil. The Bureau of Land Management granted the polluters a new categorical […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>‘You’re Not Going to Get Rid of Us,’ Vows Leonard Peltier Amid Trump Assault on Indigenous Rights</title>
+      <link>https://alaska-native-news.com/youre-not-going-to-get-rid-of-us-vows-leonard-peltier-amid-trump-assault-on-indigenous-rights/86686/</link>
+      <guid isPermaLink="false">326591f86dc77301b345a38337a847d2c95749e0</guid>
+      <pubDate>Tue, 13 Oct 2026 14:02:11 GMT</pubDate>
+      <description><![CDATA[“We just want to be left alone,” the former longtime political prisoner said. “We don’t want to be part of a government that’s killing women, children, babies, and bombing every damn thing that they can.” Leonard Peltier, the Indigenous activist who spent nearly half a century in prison for murders he says he did not […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Ilhan Omar’s Home Raided by DHS Following Trump-GOP Deportation Threats</title>
+      <link>https://alaska-native-news.com/ilhan-omars-home-raided-by-dhs-following-trump-gop-deportation-threats/86684/</link>
+      <guid isPermaLink="false">4f7a9af369d2736cb672e13150c0910ffd4686d5</guid>
+      <pubDate>Tue, 13 Oct 2026 14:01:00 GMT</pubDate>
+      <description><![CDATA[Trump and other Republicans have called for Omar to be stripped of her citizenship and deported for years. Following years of threats from President Donald Trump and other Republicans to deport Rep. Ilhan Omar, the Minnesota congresswoman’s Washington, DC home was raided on Monday morning by agents with the Department of Homeland Security. The US […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>This Day in Alaska History-October 13th, 1905</title>
+      <link>https://alaska-native-news.com/october-13th-1905/45153/</link>
+      <guid isPermaLink="false">f6d49c26b342f57302fd93fce0ffcf10e9531840</guid>
+      <pubDate>Tue, 13 Oct 2026 14:00:05 GMT</pubDate>
+      <description><![CDATA[The Daily Gateway newspaper in Seward reported the progress of the Alaska Central Railway to its readers on October 13th, 1905. The workers had reached mile 40 of the track bound for Anchorage. The first miles of track were slow and tedious, but speed gradually increased to approximately a mile every three days. But, as […]]]></description>
       <category>local</category>
     </item>
     <item>
@@ -84,6 +172,22 @@
       <guid isPermaLink="false">d8bf9e4eeb7ea626fca912af4595f4b1f677bbf1</guid>
       <pubDate>Tue, 13 Oct 2026 12:30:00 GMT</pubDate>
       <description><![CDATA[Politics in Alaska are different.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>WPD and AST Announce Road Closures on October 13, 2026</title>
+      <link>https://alaska-native-news.com/wpd-and-ast-announce-road-closures-on-october-13-2026/86698/</link>
+      <guid isPermaLink="false">eb30137025f7100f80182d27301794a1678a11f8</guid>
+      <pubDate>Tue, 13 Oct 2026 04:44:31 GMT</pubDate>
+      <description><![CDATA[The Wasilla Police Department and Alaska State Troopers are announcing the following closures ahead of President Trump’s event in Wasilla on October 13, 2026. Road Closures: Clapp Street, Beacon Street, and Aviation Avenue will be closed from 8:00 am to 6:00 pm. There will be no pedestrian access to the Menard Center or along closed […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Op/Ed-An Independent Voice for Alaska</title>
+      <link>https://alaska-native-news.com/an-independent-voice-for-alaska/86695/</link>
+      <guid isPermaLink="false">841175df4abb16963f0f529cd6b9138627616876</guid>
+      <pubDate>Tue, 13 Oct 2026 04:37:15 GMT</pubDate>
+      <description><![CDATA[Alaskans need a senator who only answers to Alaskans — not corporate greed and Lower 48 insiders. Our delegation used to stand up to D.C. people to put Alaska first. Ted Stevens and Don Young ignored Lower 48 partisanship to fight for things like public media and disaster relief because rural Alaska depends on them. […]]]></description>
       <category>local</category>
     </item>
     <item>
@@ -191,68 +295,116 @@
       <category>local</category>
     </item>
     <item>
-      <title>Sullivan Introduces Legislation to Expand Available Lands for Alaska Native Vietnam-era Veteran Allotments</title>
-      <link>https://alaska-native-news.com/sullivan-introduces-legislation-to-expand-available-lands-for-alaska-native-vietnam-era-veteran-allotments/86647/</link>
-      <guid isPermaLink="false">db1c6242f04117565e3375b510a4d098303828b2</guid>
-      <pubDate>Mon, 12 Oct 2026 14:04:47 GMT</pubDate>
-      <description><![CDATA[ANCHORAGE, ALASKA—Last week, U.S. Senator Dan Sullivan (R-Alaska) introduced the Alaska Native Vietnam Veterans Land Allotment Fulfillment Act of 2026. This legislation builds on Sen. Sullivan’s longstanding efforts to fulfill the federal government’s commitment to Alaska Native Vietnam-era veterans by making additional federal lands available for allotment selection. The bill would immediately open approximately 3.7 […]]]></description>
-      <category>local</category>
+      <title>Trump administration slashes time refugees have to challenge loss of legal status</title>
+      <link>https://www.foxnews.com/politics/trump-administration-slashes-time-refugees-challenge-loss-legal-status</link>
+      <guid isPermaLink="false">9fbedd5efa4fd19df915397a9ff4b8d462102a6b</guid>
+      <pubDate>Wed, 14 Oct 2026 05:05:30 GMT</pubDate>
+      <description><![CDATA[The Department of Homeland Security reduced the number of days refugees have to challenge their legal status revocation from 30 days to just 10.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Time capsule: Hardwood, softwood, fuelwood</title>
-      <link>https://alaska-native-news.com/time-capsule-hardwood-softwood-fuelwood/86665/</link>
-      <guid isPermaLink="false">9142879d9346ff74718d9f4fa23d19f1fe05178e</guid>
-      <pubDate>Mon, 12 Oct 2026 14:03:48 GMT</pubDate>
-      <description><![CDATA[Note: After finally cleaning my stovepipe last weekend, it feels like woodstove season at my cabin can officially (and safely) begin. Carla Helfferich wrote this wood power-focused Alaska Science Forum column on Oct. 3, 1990. — Sara Wilbur A strange thing happens at my house every October: the woodstove seems to get bigger. It’s been […]]]></description>
-      <category>local</category>
+      <title>One stolen every four minutes - inside the police battle against vehicle thieves</title>
+      <link>https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">20382acc8bfebde25222e4987c06dac47574630f</guid>
+      <pubDate>Wed, 14 Oct 2026 05:01:07 GMT</pubDate>
+      <description><![CDATA[Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Notice of Public Hearing — Meeting on the Proposed Issuance of Private Nonprofit Hatchery Permit for Bering Sea Fisheries Research Foundation’s Proposed Saint Paul Hatchery</title>
-      <link>https://alaska-native-news.com/notice-of-public-hearing-meeting-on-the-proposed-issuance-of-private-nonprofit-hatchery-permit-for-bering-sea-fisheries-research-foundations-proposed-saint-paul-hatchery/86668/</link>
-      <guid isPermaLink="false">714c654679953edd773a5d4ef7f36354418b4134</guid>
-      <pubDate>Mon, 12 Oct 2026 14:02:22 GMT</pubDate>
-      <description><![CDATA[The Commissioner of the Alaska Department of Fish and Game is holding a public meeting (in accordance with Alaska Statutes 16.12.010–16.12.110) for the purpose of taking public comment on the issuance of a private nonprofit hatchery permit to Bering Sea Fisheries Research Foundation for operation of the Saint Paul Hatchery (SPH) in Saint Paul, Alaska […]]]></description>
-      <category>local</category>
+      <title>Watch: BBC joins police on front line against car theft</title>
+      <link>https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a3316d7fd992b9b204cc132cad152f027d565b2d</guid>
+      <pubDate>Wed, 14 Oct 2026 05:00:37 GMT</pubDate>
+      <description><![CDATA[Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>October 12th, 1945</title>
-      <link>https://alaska-native-news.com/october-12th-1945/37837/</link>
-      <guid isPermaLink="false">90e3be8c1b1bfb2b7102081312902e248f9a45eb</guid>
-      <pubDate>Mon, 12 Oct 2026 14:01:51 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>local</category>
+      <title>World's oldest shipwreck found off coast of Turkey</title>
+      <link>https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f69e12669fd78aa1e7007f25145e49275741246f</guid>
+      <pubDate>Wed, 14 Oct 2026 05:00:35 GMT</pubDate>
+      <description><![CDATA[Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>This Day in Alaska History-October 12th, 1930</title>
-      <link>https://alaska-native-news.com/october-12th-1930/45150/</link>
-      <guid isPermaLink="false">b9a77f2e7fb5014641db658698fca13a72c144b3</guid>
-      <pubDate>Mon, 12 Oct 2026 14:00:09 GMT</pubDate>
-      <description><![CDATA[While celebrating Columbus Day, Ralph Wein, the brother of Noel Wein and co-founder of Alaska’s first airline, Wein Air Alaska, crashed in full view of onlookers in Kotzebue on October 2th, 1930. Aboard his aircraft, a Bellanca, that day were Fr. Philip Delon, Superior General of Alaskan Catholic missions, and Fr. William Walsh, a diocesan […]]]></description>
-      <category>local</category>
+      <title>Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot</title>
+      <link>https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a8608ca9a0bb1c367eae1b414558003671a39ec4</guid>
+      <pubDate>Wed, 14 Oct 2026 04:20:17 GMT</pubDate>
+      <description><![CDATA[The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Second ‘Big Beautiful’ lease sale in Alaska’s Cook Inlet planned after first sale flops</title>
-      <link>https://alaskabeacon.com/2026/10/12/second-big-beautiful-lease-sale-in-alaskas-cook-inlet-planned-after-first-sale-flops/</link>
-      <guid isPermaLink="false">38de86f4486523e036356aff5f78faa604fbec50</guid>
-      <pubDate>Mon, 12 Oct 2026 13:55:56 GMT</pubDate>
-      <description><![CDATA[The Trump administration on Friday announced that it will hold an offshore lease sale in federal waters of Cook Inlet next March, about a year after a similar federal lease sale offering the same acreage drew no bids. The auction — to offer 1 million acres of federal offshore territory — is part of a […]]]></description>
-      <category>local</category>
+      <title>Tampa Bay Rays win game two over Guardians thanks to terrible error from José Ramírez, even ALCS at 1-1</title>
+      <link>https://www.foxnews.com/outkick-sports/tampa-bay-rays-win-game-two-guardians-terrible-error-jose-ramirez-alcs-1-1</link>
+      <guid isPermaLink="false">a7ade7006520a3c67415516057e9bbcb4f8dabab</guid>
+      <pubDate>Wed, 14 Oct 2026 03:17:42 GMT</pubDate>
+      <description><![CDATA[Freddy Peralta fired six shutout innings as the Tampa Bay Rays evened the American League Championship Series against the Cleveland Guardians.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Man with knife surrenders to Juneau police after standoff in downtown building</title>
-      <link>https://www.juneauempire.com/2026/10/12/man-with-knife-surrenders-to-juneau-police-after-standoff-in-downtown-building/</link>
-      <guid isPermaLink="false">9be67cf93e0e7a20ef45317ba28f938bbe94c555</guid>
-      <pubDate>Mon, 12 Oct 2026 09:30:00 GMT</pubDate>
-      <description><![CDATA[Man undergoing medical evaluation after locking himself in room at Public Advocacy Center]]></description>
-      <category>local</category>
+      <title>NYC Mayor Zohran Mamdani says he won't fire NYPD Commissioner Jessica Tisch despite socialist pressure</title>
+      <link>https://www.foxnews.com/politics/nyc-mayor-zohran-mamdani-wont-fire-nypd-commissioner-jessica-tisch-despite-socialist-pressure</link>
+      <guid isPermaLink="false">b8ca596ccb9c822f2a54bcf8ff8df14cf2d048e9</guid>
+      <pubDate>Wed, 14 Oct 2026 02:34:50 GMT</pubDate>
+      <description><![CDATA[Zohran Mamdani backed NYPD Commissioner Jessica Tisch despite Democratic Socialists of America demanding her removal over the Bronx ICE shooting.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>The Good “Sam” Club</title>
-      <link>https://mustreadalaska.com/the-good-sam-club/</link>
-      <guid isPermaLink="false">ae5a417c2c0aead772fddb3692902288c560c084</guid>
-      <pubDate>Sun, 11 Oct 2026 18:38:12 GMT</pubDate>
-      <description><![CDATA[Are you a member? Have you ever been put into a situation that would offer you the opportunity, in the moment, to decide whether or not you would become a member? What does it even mean to be a good “Good” Samaritan? I believe most of us know the Parable of the Good Samaritan. Even […] The post The Good “Sam” Club appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Dave Roberts keeps Shohei Ohtani in Dodgers' NLCS Game 3 lineup despite postseason struggles</title>
+      <link>https://www.foxnews.com/outkick-sports/dave-roberts-keeps-shohei-ohtani-dodgers-nlcs-game-3-lineup-despite-postseason-struggles</link>
+      <guid isPermaLink="false">442aaf6a9a85e58a664f249c705b0a71e8818b14</guid>
+      <pubDate>Wed, 14 Oct 2026 02:32:23 GMT</pubDate>
+      <description><![CDATA[Dave Roberts is keeping Shohei Ohtani in the Dodgers' NLCS Game 3 lineup despite a .150 postseason average and zero extra-base hits against the Brewers.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Saints’ 1-4 start under Kellen Moore prompts warning from owner Gayle Benson: ‘Not our standard’</title>
+      <link>https://www.foxnews.com/outkick-sports/saints-1-4-start-under-kellen-moore-prompts-warning-owner-gayle-benson-not-our-standard</link>
+      <guid isPermaLink="false">55e95a45af0e23224e421260ab21d482bdff13d3</guid>
+      <pubDate>Wed, 14 Oct 2026 02:19:57 GMT</pubDate>
+      <description><![CDATA[Gayle Benson called out Kellen Moore and Mickey Loomis by name in a rare in-season rebuke of the New Orleans Saints' disappointing 1-4 start.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Bank of America hit with $1.2bn fine for money laundering failings</title>
+      <link>https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">aeba6a927d0210e29d07f82b9c77c21fd908c6f7</guid>
+      <pubDate>Wed, 14 Oct 2026 02:05:32 GMT</pubDate>
+      <description><![CDATA[The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump Energy Department issues emergency order to prevent blackouts across 13 states amid unusual October heat</title>
+      <link>https://www.foxnews.com/us/trump-energy-department-issues-emergency-order-prevent-blackouts-13-states-unusual-october-heat</link>
+      <guid isPermaLink="false">a0d1ed9ef263587d3cc51ca3b93ddf6993d75cc9</guid>
+      <pubDate>Wed, 14 Oct 2026 01:49:20 GMT</pubDate>
+      <description><![CDATA[The Department of Energy authorized PJM Interconnection to tap backup power as unseasonably warm October temperatures strain the grid across 13 states.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Florida executes inmate who killed cellmate because he wanted death penalty</title>
+      <link>https://www.foxnews.com/us/florida-executes-inmate-killed-cellmate-wanted-death-penalty</link>
+      <guid isPermaLink="false">19de68a80721383d205a3bb46b0856ee4083e4c7</guid>
+      <pubDate>Wed, 14 Oct 2026 01:48:00 GMT</pubDate>
+      <description><![CDATA[A Florida inmate who strangled his cellmate in the hopes of receiving the death penalty rather than spend his remaining years in prison was executed on Tuesday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Great Wolf Lodge horror as mom accused of killing husband and toddler inside hotel room</title>
+      <link>https://www.foxnews.com/us/great-wolf-lodge-horror-mom-accused-killing-husband-toddler-hotel-room</link>
+      <guid isPermaLink="false">b6220ebc399acf91a9514fd9420403470cd573c5</guid>
+      <pubDate>Wed, 14 Oct 2026 01:37:28 GMT</pubDate>
+      <description><![CDATA[Metallica Rose Harrison allegedly stabbed her husband and toddler at a Great Wolf Lodge in Pennsylvania before telling responders about her "happy family."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>French AI CEO warns Americans against voting Democrat saying 'you don't want to be France'</title>
+      <link>https://www.foxnews.com/media/french-ai-ceo-warns-americans-voting-democrat-saying-dont-want-be-france</link>
+      <guid isPermaLink="false">137116eb2ca9e0e73ee967af0267740d7a9d9dd2</guid>
+      <pubDate>Wed, 14 Oct 2026 01:23:03 GMT</pubDate>
+      <description><![CDATA[Brivael Le Pogam's viral post warned Americans against voting Democrat, saying France's decades of progressive spending led to crushing debt and decline.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Family pays tribute to 'warm and engaging' man killed in tiger attack</title>
@@ -303,132 +455,12 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Abby Summers might be a Dallas Cowboys cheerleader, but her trip across the pond proves she's an Eagles fan</title>
-      <link>https://www.foxnews.com/outkick-sports/abby-summers-dallas-cowboys-cheerleader-trip-across-pond-proves-eagles-fan</link>
-      <guid isPermaLink="false">460a50f7ee0337001848838703b53ec2e87f0402</guid>
-      <pubDate>Tue, 13 Oct 2026 23:23:00 GMT</pubDate>
-      <description><![CDATA[Cooper DeJean and Abby Summers face their biggest relationship test yet when the Eagles host the Cowboys on Monday Night Football in Philadelphia.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Rams OL Alaric Jackson expecting two-game suspension after punching Bills defender Bradley Chubb</title>
-      <link>https://www.foxnews.com/outkick-sports/rams-ol-alaric-jackson-expecting-two-game-suspension-punching-bills-defender-bradley-chubb</link>
-      <guid isPermaLink="false">7e7da0818b288106cd85d1a3737ba15aa0793d99</guid>
-      <pubDate>Tue, 13 Oct 2026 23:21:57 GMT</pubDate>
-      <description><![CDATA[Footage shows Alaric Jackson throwing a bare-knuckle punch at Bradley Chubb after the Rams-Bills game, and a two-game NFL suspension is looming.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Pentagon pushes hypersonic weapons production as startups slash costs</title>
-      <link>https://www.foxnews.com/politics/pentagon-pushes-hypersonic-weapons-production-startups-slash-costs</link>
-      <guid isPermaLink="false">543ee5f9b796f00f4dbf96bed01841f8004f932f</guid>
-      <pubDate>Tue, 13 Oct 2026 23:12:58 GMT</pubDate>
-      <description><![CDATA[Dark Eagle missiles could cost over $40 million each, but startups like Castelion aim to produce hypersonic weapons for under $500,000 apiece.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Royal Mail losing 400 postal workers a week, says union</title>
-      <link>https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">66adcbdcf2ecaac1025fa44fe2180efcf4f219c7</guid>
-      <pubDate>Tue, 13 Oct 2026 23:03:59 GMT</pubDate>
-      <description><![CDATA[The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NYC socialist candidate says criminal record of man shot by ICE 'doesn't even matter'</title>
-      <link>https://www.foxnews.com/media/nyc-socialist-candidate-says-criminal-record-man-shot-ice-doesnt-even-matter</link>
-      <guid isPermaLink="false">35c3459b57f26c26c13a0ea44a4d3f3181fb2ec9</guid>
-      <pubDate>Tue, 13 Oct 2026 22:47:58 GMT</pubDate>
-      <description><![CDATA[Democratic congressional candidate Darializa Avila Chevalier told Hasan Piker that Oscar Belgal's criminal record "doesn't even matter" after he was wounded in an ICE shooting.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bears' Montez Sweat suspended 2 games for violating NFL's performance-enhancing drug policy</title>
-      <link>https://www.foxnews.com/outkick-sports/bears-montez-sweat-suspended-2-games-violating-nfl-performance-enhancing-drug-policy</link>
-      <guid isPermaLink="false">e14042e67d40d72a16fc31e91ff4df9785d65cc6</guid>
-      <pubDate>Tue, 13 Oct 2026 22:35:13 GMT</pubDate>
-      <description><![CDATA[Montez Sweat's two-game NFL suspension for performance-enhancing drugs leaves the Chicago Bears' defensive line thin with Dayo Odeyingbo also hurt.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Billy Crystal says he no longer trusts God after losing home of 46 years then his longtime friend Rob Reiner</title>
-      <link>https://www.foxnews.com/entertainment/billy-crystal-says-he-no-longer-trusts-god-after-losing-home-46-years-his-longtime-friend-rob-reiner</link>
-      <guid isPermaLink="false">093c9c063f3b33dbc0817d0da206e1d95f04fe49</guid>
-      <pubDate>Tue, 13 Oct 2026 22:30:40 GMT</pubDate>
-      <description><![CDATA[Billy Crystal says he no longer trusts God after losing his Pacific Palisades home in the wildfires and the death of close friend Rob Reiner.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Pope Leo has lung cancer, the Vatican announces after surgery</title>
-      <link>https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces</link>
-      <guid isPermaLink="false">6f007dcc00c9863f4279f2cb7aa1ab1650464d86</guid>
-      <pubDate>Tue, 13 Oct 2026 22:29:26 GMT</pubDate>
-      <description><![CDATA[Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>‘Bonnie and Clyde’ illegal immigrant couple accused of brazen jewelry theft spree across four states</title>
-      <link>https://www.foxnews.com/politics/bonnie-clyde-illegal-immigrant-couple-accused-brazen-jewelry-theft-spree-across-four-states</link>
-      <guid isPermaLink="false">373bacf88e423ea0407719ea99d7e76a8115dd54</guid>
-      <pubDate>Tue, 13 Oct 2026 22:28:24 GMT</pubDate>
-      <description><![CDATA[Homeland Security says the Romanian couple dubbed "Bonnie and Clyde" used hugs and fake directions to steal necklaces from elderly victims in four states.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Major League Baseball is experimenting with new rules this fall to fundamentally change the sport</title>
-      <link>https://www.foxnews.com/outkick-sports/major-league-baseball-experimenting-new-rules-fall-fundamentally-change-sport</link>
-      <guid isPermaLink="false">215c4f5cf297ab954c8db6e4822153ecb8e5aadb</guid>
-      <pubDate>Tue, 13 Oct 2026 22:18:36 GMT</pubDate>
-      <description><![CDATA[Beyond the infield shift ban, MLB is now testing outfield positioning rules in the Arizona Fall League to combat plunging fly ball batting averages.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Russian strikes hit key power plant in Kyiv, Zelensky says</title>
-      <link>https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">515fc0abcfb05f4011df1ee2da9bccad60c95da8</guid>
-      <pubDate>Tue, 13 Oct 2026 22:14:33 GMT</pubDate>
-      <description><![CDATA[The Ukrainian president says the ballistic missile strikes came with "no early warning from our partners".]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Hurricane Isaias death toll rises to 6 in Florida as storm recovery continues</title>
       <link>https://www.foxweather.com/weather-news/florida-death-toll-rises-hurricane-isaias-dangerous-landfall</link>
       <guid isPermaLink="false">9ff9f8e40a4248c5f25a6486582f64e60d52e8cb</guid>
       <pubDate>Tue, 13 Oct 2026 22:02:19 GMT</pubDate>
       <description><![CDATA[Florida’s Hurricane Isaias death toll has risen to six as recovery efforts continue across the Panhandle days after the Category 2 hurricane made landfall.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Saudi man charged with planting 'sophisticated' recording device in OpenAI office</title>
-      <link>https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">aa337c25492c7411bf48392fbf6a4094f5efb691</guid>
-      <pubDate>Tue, 13 Oct 2026 21:42:49 GMT</pubDate>
-      <description><![CDATA[Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Zelensky and Burnham to meet in Downing Street</title>
-      <link>https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">779a1c17bfdc8a6d584c021c128a541fb063b458</guid>
-      <pubDate>Tue, 13 Oct 2026 21:31:30 GMT</pubDate>
-      <description><![CDATA[The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Pope diagnosed with lung cancer but had successful surgery, Vatican says</title>
-      <link>https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3ba9283bc7352f2de6baae38593c0f2f3b9cca61</guid>
-      <pubDate>Tue, 13 Oct 2026 20:46:06 GMT</pubDate>
-      <description><![CDATA[Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>What an economics Nobel Prize winner knows about pricing</title>
-      <link>https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing</link>
-      <guid isPermaLink="false">9a6601fe2cc40dc59261f51667d9d79543805d0b</guid>
-      <pubDate>Tue, 13 Oct 2026 20:03:35 GMT</pubDate>
-      <description><![CDATA[NPR's Ailsa Chang chats with Michael Woodford of Columbia University, who was one of two Americans awarded the Nobel Prize in Economics.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Rain chances increase across central US as storm system taps Gulf moisture</title>
@@ -492,38 +524,6 @@
       <guid isPermaLink="false">c2c8cd5fddc8b7b4c367d2d0baf8e566084e6c0f</guid>
       <pubDate>Mon, 12 Oct 2026 18:50:57 GMT</pubDate>
       <description><![CDATA[Another round of rain is heading for the Northeast as moisture from the remnants of former Tropical Storm Rachel treks across the nation.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Record fall heat wave to bake the Central and Eastern US before a plunge to cold temperatures this weekend</title>
-      <link>https://www.foxweather.com/weather-news/unusual-fall-heat-wave-sweat-central-eastern-us-before-plunge-cold-temperatures-weekend</link>
-      <guid isPermaLink="false">7286b75bd7fc03c8b1360e1b58581d26fe0221b3</guid>
-      <pubDate>Mon, 12 Oct 2026 13:38:43 GMT</pubDate>
-      <description><![CDATA[The heat is on across the Great Plains, Midwest, Deep South, and Southeastern U.S. this week, as a surge in unseasonably high temperatures gives millions of Americans a chance to enjoy the outdoors.]]></description>
-      <category>southeast</category>
-    </item>
-    <item>
-      <title>Hurricane Simon's moisture fuels cross-country multiday flood threat for 40 million from Texas to Illinois</title>
-      <link>https://www.foxweather.com/weather-news/remnants-hurricane-simon-mulitday-flood-threat-great-plains</link>
-      <guid isPermaLink="false">3c3c398f0f91408ab822419f402e43aa9539b9e6</guid>
-      <pubDate>Sun, 11 Oct 2026 17:55:49 GMT</pubDate>
-      <description><![CDATA[A more than 1,000-mile stretch across parts of the Plains and the Midwest is at risk of severe thunderstorms as moisture from Hurricane Simon, which is churning off the coast of western Mexico, is being funneled north and will enhance storms Tuesday from Texas to Illinois.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Hurricane Simon to fuel multiday flood threat across Great Plains as remnants charge North</title>
-      <link>https://www.foxweather.com/weather-news/remnants-hurricane-simon-mulitday-flood-threat-great-plains</link>
-      <guid isPermaLink="false">3c3c398f0f91408ab822419f402e43aa9539b9e6</guid>
-      <pubDate>Sun, 11 Oct 2026 17:55:49 GMT</pubDate>
-      <description><![CDATA[As Hurricane Simon weakens, the remnants will shift northward, bringing a surge of tropical moisture into the Great Plains and fueling a multi-day threat of storms and flooding.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Hurricane Simon to fuel multiday flood threat across Great Plains as remnants move inland</title>
-      <link>https://www.foxweather.com/weather-news/remnants-hurricane-simon-mulitday-flood-threat-great-plains</link>
-      <guid isPermaLink="false">3c3c398f0f91408ab822419f402e43aa9539b9e6</guid>
-      <pubDate>Sun, 11 Oct 2026 17:55:49 GMT</pubDate>
-      <description><![CDATA[As Hurricane Simon weakens, the remnants will shift northward, bringing a surge of tropical moisture into the Great Plains and fueling a multi-day threat of storms and flooding.]]></description>
       <category>weather</category>
     </item>
   </channel>
