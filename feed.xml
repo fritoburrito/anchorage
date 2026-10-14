@@ -5,46 +5,86 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:51:38 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Overnight - Slight Chance Light Rain</title>
+      <title>Bryan Norcross: Sting jet or no sting jet &amp; Simon and Trudy give forecasters fits in the Pacific</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-october-14-2026</link>
+      <guid isPermaLink="false">c046d17a79be35078cb1ef5d3ad640673d266d1f</guid>
+      <pubDate>Wed, 14 Oct 2026 15:51:38 GMT</pubDate>
+      <description><![CDATA[The El Niño-driven band of upper-level winds stretches from the Gulf to the Caribbean to Africa. We still can't rule out a system developing in a random pocket of slightly supportive atmosphere outside of the band before this hurricane season ends, however, so we'll continue to watch.]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Today - Partly Sunny then Slight Chance Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 14 Oct 2026 11:02:51 GMT</pubDate>
-      <description><![CDATA[35°F. Wind NE 5 mph. A slight chance of rain before 4am. Mostly cloudy, with a low around 35. Northeast wind around 5 mph. Chance of precipitation is 20%.]]></description>
+      <pubDate>Wed, 14 Oct 2026 16:23:02 GMT</pubDate>
+      <description><![CDATA[45°F. Wind N 5 to 10 mph. A slight chance of rain showers after 4pm. Partly sunny, with a high near 45. North wind 5 to 10 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Wednesday - Partly Sunny then Slight Chance Rain Showers</title>
+      <title>Anchorage Weather: Tonight - Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 14 Oct 2026 11:02:51 GMT</pubDate>
-      <description><![CDATA[44°F. Wind N 5 to 10 mph. A slight chance of rain showers after 4pm. Partly sunny, with a high near 44. North wind 5 to 10 mph. Chance of precipitation is 20%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Wednesday Night - Slight Chance Light Rain</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 14 Oct 2026 11:02:51 GMT</pubDate>
-      <description><![CDATA[35°F. Wind N 5 to 10 mph. A slight chance of rain showers before 10pm, then a slight chance of rain. Mostly cloudy, with a low around 35. North wind 5 to 10 mph. Chance of precipitation is 20%.]]></description>
+      <pubDate>Wed, 14 Oct 2026 16:23:02 GMT</pubDate>
+      <description><![CDATA[38°F. Wind N 10 to 15 mph. A slight chance of rain showers before 10pm, then a slight chance of rain. Mostly cloudy, with a low around 38. North wind 10 to 15 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Thursday - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 14 Oct 2026 11:02:51 GMT</pubDate>
-      <description><![CDATA[45°F. Wind N 10 mph. Rain likely. Mostly cloudy, with a high near 45. North wind around 10 mph. Chance of precipitation is 70%.]]></description>
+      <pubDate>Wed, 14 Oct 2026 16:23:02 GMT</pubDate>
+      <description><![CDATA[47°F. Wind N 10 to 15 mph. Rain likely. Mostly cloudy, with a high near 47. North wind 10 to 15 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Thursday Night - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 14 Oct 2026 11:02:51 GMT</pubDate>
-      <description><![CDATA[34°F. Wind NE 5 to 10 mph. Rain likely. Mostly cloudy, with a low around 34. Northeast wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Wed, 14 Oct 2026 16:23:02 GMT</pubDate>
+      <description><![CDATA[37°F. Wind NE 5 to 10 mph. Rain likely. Mostly cloudy, with a low around 37. Northeast wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday - Slight Chance Light Rain then Partly Sunny</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Wed, 14 Oct 2026 16:23:02 GMT</pubDate>
+      <description><![CDATA[48°F. Wind NE 0 to 5 mph. A slight chance of rain before 7am. Partly sunny, with a high near 48. Northeast wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Juneau mobile home park seeking $7 million in damages from former manager</title>
+      <link>https://www.juneauempire.com/2026/10/14/juneau-mobile-home-park-seeking-7-million-in-damages-from-former-manager/</link>
+      <guid isPermaLink="false">80df793a84bc62ad835083512a7aebb3d879b999</guid>
+      <pubDate>Wed, 14 Oct 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Manager accused of treating park as a source of money, labor, and assets for herself and her company]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>No principles, Putin profits</title>
+      <link>https://www.homernews.com/2026/10/14/no-principles-putin-profits/</link>
+      <guid isPermaLink="false">fd88990ac04272eb95da15134fed0ac3576daa63</guid>
+      <pubDate>Wed, 14 Oct 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Trump offers Russia a diesel lifeline as reports link Moscow to Iranian targeting of American forces]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>MY TURN: Food security is on the ballot in Alaska</title>
+      <link>https://www.juneauempire.com/2026/10/14/my-turn-food-security-is-on-the-ballot-in-alaska/</link>
+      <guid isPermaLink="false">179b8ab41dda93767d85b7bf5ace606757cc734a</guid>
+      <pubDate>Wed, 14 Oct 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Every Thursday at 3 p.m., a few dozen folks are lined up outside the Southeast Alaska Food Bank waiting for the public pantry to open. Normally, folks are chatting amongst themselves in the line, and when the weather allows it, spirits are usually high. Over the past two years, I’ve had the great pleasure of getting to know many of them on a first name basis.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>At Alaska rally, Trump endorses Wilson and seeks to boost Sullivan and Begich</title>
+      <link>https://alaskabeacon.com/2026/10/14/at-alaska-rally-trump-endorses-wilson-and-seeks-to-boost-sullivan-and-begich/</link>
+      <guid isPermaLink="false">0e473972e5bdfef2804ab6663c37ef0e4236f2a6</guid>
+      <pubDate>Wed, 14 Oct 2026 11:00:59 GMT</pubDate>
+      <description><![CDATA[In a surprise announcement Tuesday, President Donald Trump said he is endorsing Republican Alaska gubernatorial candidate Bernadette Wilson in the four-way race to replace term-limited Republican Gov. Mike Dunleavy. Polls indicate Wilson and two other Republicans — Dave Bronson and Treg Taylor — are trailing the lone Democratic candidate, Jonathan Kreiss-Tomkins. In a rally at […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Trump rally puts Wasilla in national campaign spotlight</title>
@@ -247,204 +287,172 @@
       <category>local</category>
     </item>
     <item>
-      <title>Justice Department removes bureaucratic barriers to gun ownership after court ruling</title>
-      <link>https://mustreadalaska.com/justice-department-removes-bureaucratic-barriers-to-gun-ownership-after-court-ruling/</link>
-      <guid isPermaLink="false">2b5520829d54b518e8cda7471c4456da0c27fede</guid>
-      <pubDate>Mon, 12 Oct 2026 18:36:12 GMT</pubDate>
-      <description><![CDATA[The Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) published an open letter on Friday, October 9, announcing that it will stop requiring federal approval and registration for certain firearms and devices, including short-barreled rifles, short-barreled shotguns, silencers, and “any other weapons” covered by the National Firearms Act (NFA). The policy follows a federal court […] The post Justice Department removes bureaucratic barriers to gun ownership after court ruling appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska Republican Party election guidance: rank the Republicans, repeal RCV, SHOW UP</title>
-      <link>https://mustreadalaska.com/alaska-republican-party-election-guidance-rank-the-republicans-repeal-rcv-show-up/</link>
-      <guid isPermaLink="false">c18281dfb8a2f6be0097178fef42771173a6a6f1</guid>
-      <pubDate>Mon, 12 Oct 2026 17:42:55 GMT</pubDate>
-      <description><![CDATA[In a letter to Alaskans, sent on Saturday, October 10, the Alaska Republican Party encouraged voters to rank all three Republican candidates for Governor while clarifying the party’s stance in opposition to ranked-choice voting. The letter also strongly emphasizes the importance of showing up to vote, ending with a challenge to commit to voting this […] The post Alaska Republican Party election guidance: rank the Republicans, repeal RCV, SHOW UP appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Second ‘Big Beautiful’ lease sale in Alaska’s Cook Inlet planned after first sale flops</title>
-      <link>https://www.homernews.com/2026/10/12/second-big-beautiful-lease-sale-in-alaskas-cook-inlet-planned-after-first-sale-flops/</link>
-      <guid isPermaLink="false">1f597f016a0f6e583a5b125e70449ba00620ce48</guid>
-      <pubDate>Mon, 12 Oct 2026 16:30:00 GMT</pubDate>
-      <description><![CDATA[The Trump administration announced plans for a 1 million-acre sale in 2027, part of a series mandated for Cook Inlet in the sweeping ‘One Big Beautiful Bill Act’]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska Airlines rewards changes could cost Southeast flyers points</title>
-      <link>https://www.juneauempire.com/2026/10/12/alaska-airlines-rewards-changes-could-cost-southeast-flyers-points/</link>
-      <guid isPermaLink="false">476e2ae2d2c9b799d68f5ef8ebbde147561f7d93</guid>
-      <pubDate>Mon, 12 Oct 2026 16:30:00 GMT</pubDate>
-      <description><![CDATA[Short regional flights could earn fewer points unless travelers make a choice]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>US Observes Columbus Day, Indigenous Peoples Day</title>
-      <link>https://alaska-native-news.com/us-observes-columbus-day-indigenous-peoples-day-2/86670/</link>
-      <guid isPermaLink="false">ab1fb4377357e58988dc7a5f4300f7aca773f30b</guid>
-      <pubDate>Mon, 12 Oct 2026 14:06:46 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — The United States observes its Columbus Day holiday on Monday as well Indigenous Peoples Day. Columbus Day has been a federal holiday since 1971 to celebrate the 1492 landing of Christopher Columbus in the Americas. Recognition of the violence, disease and other suffering inflicted by European nations on the people already living in the […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Turkish police raid opposition TV station, halting live broadcasts</title>
-      <link>https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">abed68806a0e2657ecd8e269f3dc2efb884709a3</guid>
-      <pubDate>Wed, 14 Oct 2026 10:50:11 GMT</pubDate>
-      <description><![CDATA[It is the latest in a series of crackdowns on media critical of the Turkish president and his government.]]></description>
+      <title>Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins</title>
+      <link>https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7956f94bfe622ccd2516b82a38880b37ec6ccfd2</guid>
+      <pubDate>Wed, 14 Oct 2026 16:22:28 GMT</pubDate>
+      <description><![CDATA[The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Davina McCall says she had 'advanced Alzheimer's' symptoms after brain surgery</title>
-      <link>https://www.bbc.co.uk/news/articles/cky93v98x7jjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c4727739844928a62b345753e3a4400ca8ce3a50</guid>
-      <pubDate>Wed, 14 Oct 2026 10:48:29 GMT</pubDate>
-      <description><![CDATA[The TV presenter says she suffered memory loss following her operation to remove a benign tumour.]]></description>
+      <title>Chick-fil-A's first new sauce in 10 years sparks skepticism among fans</title>
+      <link>https://www.foxnews.com/food-drink/chick-fil-as-first-new-sauce-10-years-sparks-skepticism-among-fans</link>
+      <guid isPermaLink="false">3a16c7884e2312e02cc457e51d087819497e6208</guid>
+      <pubDate>Wed, 14 Oct 2026 16:00:52 GMT</pubDate>
+      <description><![CDATA[Spicy Chick-fil-A Sauce arrives Nov. 16 as the chain's first new permanent sauce in a decade, blending smoky tang with spicy peppers and sweetness.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Washington girls walk off cross country meet in protest of male athlete, parents reveal how it came to this</title>
-      <link>https://www.foxnews.com/outkick-sports/washington-girls-walk-off-cross-country-meet-protest-male-athlete-parents-reveal-how-it-came-to-this</link>
-      <guid isPermaLink="false">dd1ff845d0886410d794b522fedf20e0d2f163ad</guid>
-      <pubDate>Wed, 14 Oct 2026 10:33:25 GMT</pubDate>
-      <description><![CDATA[Holly Burns and teammates walked off a Washington cross-country race rather than compete against an athlete who switched from the boys' team.]]></description>
+      <title>Massive trove of Republican voter and donor info breached in Biden DOJ probe: Senate chairman</title>
+      <link>https://www.foxnews.com/politics/massive-trove-republican-voter-donor-info-breached-biden-doj-probe-senate-chairman</link>
+      <guid isPermaLink="false">a399625dd2eb3294c101d4b49c7a9c1e79906463</guid>
+      <pubDate>Wed, 14 Oct 2026 16:00:39 GMT</pubDate>
+      <description><![CDATA[Chuck Grassley alleges President Joe Biden's Justice Department collected invasive data on over 639,000 Republican voters and donors via Arctic Frost.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Sally Rooney books withdrawn in UK over Palestine Action support</title>
+      <link>https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">204c54aedca521879ac67f11285b63b0380be199</guid>
+      <pubDate>Wed, 14 Oct 2026 16:00:06 GMT</pubDate>
+      <description><![CDATA[The Irish writer is best known for novels such as Normal People, Intermezzo and Conversations With Friends.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Wayfair among firms fined millions for misleading sales tactics</title>
-      <link>https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f37f8bc9dee5bd9d168984ff03a3bad778d129a0</guid>
-      <pubDate>Wed, 14 Oct 2026 10:28:53 GMT</pubDate>
-      <description><![CDATA[The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.]]></description>
+      <title>Wisconsin plane crash kills 5 adults, child as authorities probe final communications with air traffic control</title>
+      <link>https://www.foxnews.com/us/wisconsin-plane-crash-kills-5-adults-child-authorities-probe-final-communications-air-traffic-control</link>
+      <guid isPermaLink="false">e78281eec99335f4ce8d261a3c0b62a67d44c674</guid>
+      <pubDate>Wed, 14 Oct 2026 15:57:52 GMT</pubDate>
+      <description><![CDATA[A Piper PA-46 crashed in a wooded area in Sauk County, Wisconsin Tuesday night, killing all six people aboard including a child. The FAA is investigating.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Bipartisan senators demand Trump scrap Russia diesel deal, call it 'betrayal' of US allies</title>
-      <link>https://www.foxnews.com/politics/bipartisan-senators-demand-trump-scrap-russia-diesel-deal-call-betrayal-us-allies</link>
-      <guid isPermaLink="false">dc2d9b94e6689caba9f1f91d968f096540373e53</guid>
-      <pubDate>Wed, 14 Oct 2026 10:17:04 GMT</pubDate>
-      <description><![CDATA[A bipartisan group of United States senators joined together in a letter pressuring President Donald Trump to nix the diesel deal with Russia.]]></description>
+      <title>Container ship hit by projectile sinks in Strait of Hormuz, Singapore says</title>
+      <link>https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">316f0a74f5e974c6334cef8280561af265e9c8f3</guid>
+      <pubDate>Wed, 14 Oct 2026 15:34:19 GMT</pubDate>
+      <description><![CDATA[All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder</title>
-      <link>https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8cd415cc4ee6ae2c7984de7c21375f003bc1b1e5</guid>
-      <pubDate>Wed, 14 Oct 2026 10:08:26 GMT</pubDate>
-      <description><![CDATA[Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.]]></description>
+      <title>Iowa Dem Senate candidate says he's too busy campaigning to attend all state House votes</title>
+      <link>https://www.foxnews.com/politics/iowa-dem-senate-candidate-says-hes-too-busy-campaigning-attend-state-house-votes</link>
+      <guid isPermaLink="false">c0ce18dbef481268c16be0909460357a39f7ebbb</guid>
+      <pubDate>Wed, 14 Oct 2026 15:31:26 GMT</pubDate>
+      <description><![CDATA[Democratic Iowa State Rep. Josh Turek defended missing nearly 58% of legislature votes by citing campaign town halls across all 99 counties.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Team USA hockey brothers connect to pull off historic NHL feat in dominant performance</title>
+      <link>https://www.foxnews.com/outkick-sports/team-usa-hockey-brothers-connect-pull-off-historic-nhl-feat-dominant-performance</link>
+      <guid isPermaLink="false">097cfcb2c85f3b9223b04dab2de2bcdee0502245</guid>
+      <pubDate>Wed, 14 Oct 2026 15:30:17 GMT</pubDate>
+      <description><![CDATA[Brady Tkachuk scored a hat trick with all three goals assisted by brother Matthew as the Florida Panthers routed the Columbus Blue Jackets 7-3.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Burnham had two hospitality dinners with Man City chairman, deleted records show</title>
-      <link>https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">77b3d6b344cc109f64cb0b4ddfd7a9edb4efb0d0</guid>
-      <pubDate>Wed, 14 Oct 2026 10:06:48 GMT</pubDate>
-      <description><![CDATA[The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.]]></description>
+      <title>Jamaica accepts first flight of third-country deportations from US amid looming Supreme Court battle</title>
+      <link>https://www.foxnews.com/politics/jamaica-accepts-first-flight-third-country-deportations-us-amid-looming-supreme-court-battle</link>
+      <guid isPermaLink="false">2cafdf29842448e9457082d0c149c7aad0df1970</guid>
+      <pubDate>Wed, 14 Oct 2026 15:29:00 GMT</pubDate>
+      <description><![CDATA[Jamaica received its first flight of 22 third-country deportees at Kingston's Norman Manley International Airport under a new U.S. agreement.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line</title>
-      <link>https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">191e7f6ed1f65b93f04664e676c0432fcae1475c</guid>
-      <pubDate>Wed, 14 Oct 2026 10:04:28 GMT</pubDate>
-      <description><![CDATA[Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions.]]></description>
+      <title>US inflation rises more than expected - here's what is happening with prices</title>
+      <link>https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">928277f3a9d06586498aee8f7fd2869a165f12bc</guid>
+      <pubDate>Wed, 14 Oct 2026 15:26:14 GMT</pubDate>
+      <description><![CDATA[The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Mamdani, City Council move to end iconic NYC horse-drawn carriage industry as workers face uncertain future</title>
-      <link>https://www.foxnews.com/travel/mamdani-city-council-move-end-iconic-nyc-horse-drawn-carriage-industry-workers-face-uncertain-future</link>
-      <guid isPermaLink="false">7700332da8f1c452761c37b535fb7aea24ecdca0</guid>
-      <pubDate>Wed, 14 Oct 2026 10:00:54 GMT</pubDate>
-      <description><![CDATA[Romanch's Law would phase out Central Park horse-drawn carriages by 2028, but Mayor Zohran Mamdani's transition plan guarantees no financial payouts.]]></description>
+      <title>Foul-mouthed anti-war protesters repeatedly derail Hegseth's remarks at Army event in DC</title>
+      <link>https://www.foxnews.com/politics/foul-mouthed-protesters-repeatedly-derail-hegseth-remarks-army-event-dc</link>
+      <guid isPermaLink="false">d0e5f92e1995b06e583ca9b20dadba541a4b603b</guid>
+      <pubDate>Wed, 14 Oct 2026 15:21:06 GMT</pubDate>
+      <description><![CDATA[Protesters branded Pete Hegseth a "war criminal" and "coward" at his AUSA panel focused on Project Agincourt and autonomous weapons systems.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Criminologist professor at Big Ten college offers warning to students as police probe possible serial killer</title>
-      <link>https://www.foxnews.com/true-crime/criminologist-professor-big-ten-college-offers-warning-students-police-probe-possible-serial-killer</link>
-      <guid isPermaLink="false">d15025531230f3f1e3f8068d6183e52e26ed0a6c</guid>
-      <pubDate>Wed, 14 Oct 2026 10:00:40 GMT</pubDate>
-      <description><![CDATA[A Michigan State University criminology professor warns Lansing residents to avoid the River Trail as police probe five possibly connected deaths.]]></description>
+      <title>Pope walking and recovering 'as expected' after surgery, doctors say</title>
+      <link>https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">221c6cb39d0df77d97146bf2ad73e29a794c3f2d</guid>
+      <pubDate>Wed, 14 Oct 2026 15:12:46 GMT</pubDate>
+      <description><![CDATA[The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Phillies commit to Don Mattingly as full-time manager after up-and-down interim campaign</title>
+      <link>https://www.foxnews.com/outkick-sports/phillies-commit-don-mattingly-full-time-manager-up-down-interim-campaign</link>
+      <guid isPermaLink="false">5440afceef2d156e550a3774b915f75cee76ddac</guid>
+      <pubDate>Wed, 14 Oct 2026 14:50:03 GMT</pubDate>
+      <description><![CDATA[Don Mattingly's interim tag will be removed as the Philadelphia Phillies commit to the veteran manager after a stunning 73-45 turnaround run.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Missing Summer Wells' father arrested on domestic assault charge in Tennessee</title>
+      <link>https://www.foxnews.com/us/missing-summer-wells-father-arrested-domestic-assault-charge-tennessee</link>
+      <guid isPermaLink="false">d2207735f19fb4a57eb8263ee046ee5968893bcb</guid>
+      <pubDate>Wed, 14 Oct 2026 14:45:48 GMT</pubDate>
+      <description><![CDATA[Donald Wells faces a new domestic assault charge in Hawkins County as the case of his missing daughter Summer Wells remains unsolved after four years.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>African nations on ‘knife’s edge’ as US embassy warns Americans of long-range attacks</title>
+      <link>https://www.foxnews.com/world/african-nations-knifes-edge-us-embassy-warns-americans-long-range-attacks</link>
+      <guid isPermaLink="false">f5bf083985a6ed0592872e24bc7696000666ee95</guid>
+      <pubDate>Wed, 14 Oct 2026 14:39:14 GMT</pubDate>
+      <description><![CDATA[With regional tensions mounting, the Horn of Africa risks war between Ethiopia and Eritrea. Following attacks in Addis Ababa, the U.S. Embassy warned citizens of long-range threats.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Burnham careful as he meets Zelensky but promises Ukraine won't leave 'empty handed'</title>
+      <link>https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a8223216b51fd3670521cf37a1b7c03b654cbef1</guid>
+      <pubDate>Wed, 14 Oct 2026 14:30:48 GMT</pubDate>
+      <description><![CDATA[The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hundreds of thousands of workers on strike across Republic of Ireland</title>
+      <link>https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8a2abc9a5276d4767d7a11a1ab8158c08329a17e</guid>
+      <pubDate>Wed, 14 Oct 2026 14:18:18 GMT</pubDate>
+      <description><![CDATA[It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines</title>
+      <link>https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">881c1b6b773845dbb7f44fc427971f1e162fff9d</guid>
+      <pubDate>Wed, 14 Oct 2026 13:41:51 GMT</pubDate>
+      <description><![CDATA[Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Australia's first-ever Michelin stars go to 11 restaurants in one state</title>
+      <link>https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">32af9a22a73cfb52e305989ac6b508b22fab1f07</guid>
+      <pubDate>Wed, 14 Oct 2026 13:35:29 GMT</pubDate>
+      <description><![CDATA[All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Inflation sizzled in September — and Social Security benefits will get a boost</title>
+      <link>https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits</link>
+      <guid isPermaLink="false">ff0a810e278dc4d4ece07baa7fe278a3675b87aa</guid>
+      <pubDate>Wed, 14 Oct 2026 13:33:44 GMT</pubDate>
+      <description><![CDATA[Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Winter arrives early across the Northern Rockies as heavy snow blankets the West</title>
+      <link>https://www.foxweather.com/weather-news/winter-arrives-early-across-northern-rockies-heavy-snow-blankets-west</link>
+      <guid isPermaLink="false">9b686f2290ffa155ab095ca8c4ca92f269819aae</guid>
+      <pubDate>Wed, 14 Oct 2026 11:55:13 GMT</pubDate>
+      <description><![CDATA[Winter is arriving early across Montana and the Northern Rockies as heavy snow and rain blanket the region through Wednesday.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>The Iran war's unexpected impact on US defenses against China threat downplayed by top Army leader</title>
-      <link>https://www.foxnews.com/politics/iran-wars-unexpected-impact-us-defenses-against-china-threat-downplayed-top-army-leader</link>
-      <guid isPermaLink="false">664d3fcac013ab67677b8775d0db65f30d61316c</guid>
-      <pubDate>Wed, 14 Oct 2026 10:00:28 GMT</pubDate>
-      <description><![CDATA[Gen. Ronald Clark says China's PLA continues preparing despite Trump-Xi diplomacy as U.S. Army Pacific expands deterrence across the Indo-Pacific.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hooters restaurants keep closing even as CEO says there's more to the story</title>
-      <link>https://www.foxnews.com/food-drink/hooters-restaurants-keep-closing-even-ceo-says-theres-more-story</link>
-      <guid isPermaLink="false">2d061c187c1fc8a74d8a2a669b4f95b4492e3f75</guid>
-      <pubDate>Wed, 14 Oct 2026 10:00:17 GMT</pubDate>
-      <description><![CDATA[Hooters CEO Neil Kiefer told Fox News Digital that recent restaurant closures aren't a sign of brand weakness as the original founders rebuild after its 2025 bankruptcy.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>American-made goods also got more expensive under Trump tariffs, new research finds</title>
-      <link>https://www.foxnews.com/politics/american-made-goods-expensive-under-trump-tariffs-new-research-finds</link>
-      <guid isPermaLink="false">0f6c1153b57244e9fe2de58cba271f37eed667bf</guid>
-      <pubDate>Wed, 14 Oct 2026 10:00:09 GMT</pubDate>
-      <description><![CDATA[Federal Reserve Bank of New York research shows Trump tariffs added 2.9 percentage points to consumer goods inflation through February 2026.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>These workers help train robots who could one day steal their jobs</title>
-      <link>https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs</link>
-      <guid isPermaLink="false">e41ef7b858673a1f988dcbf661fd239ee89c1f02</guid>
-      <pubDate>Wed, 14 Oct 2026 09:28:47 GMT</pubDate>
-      <description><![CDATA[Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Watch: What we know about Russia's overnight strikes on Ukraine</title>
-      <link>https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">66d1e76cc30c1f560c3d5f8e07c0e74d624264fb</guid>
-      <pubDate>Wed, 14 Oct 2026 09:25:03 GMT</pubDate>
-      <description><![CDATA[BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Schumer warns of Republican advantage that could change the battle for Senate control</title>
-      <link>https://www.foxnews.com/politics/schumer-warns-republican-advantage-could-change-battle-senate-control</link>
-      <guid isPermaLink="false">7d65733f7d3bcd312b4d88237448230b501def1d</guid>
-      <pubDate>Wed, 14 Oct 2026 09:20:07 GMT</pubDate>
-      <description><![CDATA[Senate Democrats face a Republican money tsunami as Chuck Schumer warns colleagues that massive GOP spending could overwhelm their candidates.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct</title>
-      <link>https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation</link>
-      <guid isPermaLink="false">ab59beee9b9bfa2d05de14396bb36278f6d286ce</guid>
-      <pubDate>Wed, 14 Oct 2026 09:09:39 GMT</pubDate>
-      <description><![CDATA[The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Democrats have ‘dirty hands’ over complaints about Omar raid weeks before election, ex-prosecutor says</title>
-      <link>https://www.foxnews.com/politics/democrats-dirty-hands-complaints-omar-raid-weeks-before-election-ex-prosecutor-says</link>
-      <guid isPermaLink="false">21891c42f8e28149c827b3bb9dfeb07971f18e9c</guid>
-      <pubDate>Wed, 14 Oct 2026 09:00:55 GMT</pubDate>
-      <description><![CDATA[Former federal prosecutors say the Justice Department's 60-day rule that Democrats cite in the Ilhan Omar home search is unwritten, not a ban.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Ukraine showed Trump how easily an enemy could cripple an AI powerhouse</title>
-      <link>https://www.foxnews.com/opinion/ukraine-showed-trump-how-easily-enemy-could-cripple-ai-powerhouse</link>
-      <guid isPermaLink="false">4bf8e0e53abe73c903bc9b45a47cb9d871ef56aa</guid>
-      <pubDate>Wed, 14 Oct 2026 09:00:52 GMT</pubDate>
-      <description><![CDATA[Ukraine's drone attacks on three Yandex data centers in four days exposed how adversaries can cripple artificial intelligence without defeating software.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Civil rights advocates plan to send thousands of observers to midterm polling places</title>
-      <link>https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers</link>
-      <guid isPermaLink="false">f33535c582807b1ec3113dc2b07123003fbc155f</guid>
-      <pubDate>Wed, 14 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[For many election cycles, civil rights groups and political parties have fanned out to monitor polling places, but the charged midterm environment has many organizations stepping up efforts this year.]]></description>
-      <category>politics</category>
     </item>
     <item>
       <title>Tropical Storm Trudy forms in Pacific, could rapidly intensify into powerful Category 4 hurricane</title>
@@ -495,6 +503,14 @@
       <category>weather</category>
     </item>
     <item>
+      <title>Powerful storm to blast the Northeast with rain, wind followed by season's coldest temperatures and snow</title>
+      <link>https://www.foxweather.com/weather-news/monster-storm-could-rapidly-intensify-off-northeast-coast-unleashing-powerful-winds-dangerous-seas</link>
+      <guid isPermaLink="false">7a6090a504eb15299e218c80586b997f95ccf52f</guid>
+      <pubDate>Mon, 12 Oct 2026 20:32:11 GMT</pubDate>
+      <description><![CDATA[A powerful storm system will sweep through the Great Lakes Thursday before soaking the Northeast with a Friday washout, bringing a nasty combination of rain and strong wind gusts.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
       <title>Powerful storm to bring gusty winds and dangerous seas to Northeast amid coldest air of season</title>
       <link>https://www.foxweather.com/weather-news/monster-storm-could-rapidly-intensify-off-northeast-coast-unleashing-powerful-winds-dangerous-seas</link>
       <guid isPermaLink="false">7a6090a504eb15299e218c80586b997f95ccf52f</guid>
@@ -508,22 +524,6 @@
       <guid isPermaLink="false">7a6090a504eb15299e218c80586b997f95ccf52f</guid>
       <pubDate>Mon, 12 Oct 2026 20:32:11 GMT</pubDate>
       <description><![CDATA[A powerful storm is expected to rapidly intensify off the New England coast and move into the Atlantic toward Canada as a cold front sweeps across the Northeast, bringing significant wind gusts and potentially hazardous conditions to the region.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Moisture from Rachel's remnants enhances storms blasting Upstate New York, New England</title>
-      <link>https://www.foxweather.com/weather-news/tropical-rain-northeast-remnants-rachel-california</link>
-      <guid isPermaLink="false">c2c8cd5fddc8b7b4c367d2d0baf8e566084e6c0f</guid>
-      <pubDate>Mon, 12 Oct 2026 18:50:57 GMT</pubDate>
-      <description><![CDATA[Moisture from the remnants of Rachel, which battered Southern California over the weekend, is being carried over 3,000 miles high in the atmosphere, along a large dip in the jet stream, and is enhancing storms that are blasting parts of Upstate New York and New England Tuesday.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Another round of widespread rain blasts the Northeast as Rachel's remnants trek across the nation</title>
-      <link>https://www.foxweather.com/weather-news/tropical-rain-northeast-remnants-rachel-california</link>
-      <guid isPermaLink="false">c2c8cd5fddc8b7b4c367d2d0baf8e566084e6c0f</guid>
-      <pubDate>Mon, 12 Oct 2026 18:50:57 GMT</pubDate>
-      <description><![CDATA[Another round of rain is heading for the Northeast as moisture from the remnants of former Tropical Storm Rachel treks across the nation.]]></description>
       <category>weather</category>
     </item>
   </channel>
