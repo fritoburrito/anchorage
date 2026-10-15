@@ -1,5 +1,45 @@
 [
   {
+    "title": "Newscast \u2013 Wednesday, Oct. 14, 2026",
+    "link": "https://feeds.ktoo.org/link/20427/17497824/newscast-wednesday-oct-14-2026",
+    "description": "In this newscast: Republican gubernatorial candidate Dave Bronson is pushing back after President Trump endorsed another Republican in the race, Bernadette Wilson; As a potentially historic El Ni\u00f1o heats up, an Anchorage climate scientist says it might lead to below average snow for most of Alaska, but all options are still on the table; The Juneau School District is projected to lose close to a sixth of its students over the next five years; A close-knit family from Kwigillingok are still figuring out life a year after the remnants of Typhoon Halong wreaked havoc on Western Alaska communities.",
+    "pubDate": "Thu, 15 Oct 2026 01:00:50 GMT",
+    "category": "weather",
+    "tag": "alaska",
+    "source": "KTOO",
+    "rank": 100
+  },
+  {
+    "title": "Alaska Science Forum time capsule: Hardwood, softwood, fuelwood",
+    "link": "https://www.homernews.com/2026/10/14/alaska-science-forum-time-capsule-hardwood-softwood-fuelwood/",
+    "description": "Note: After finally cleaning my stovepipe last weekend, it feels like woodstove season at my cabin can officially (and safely) begin. Carla Helfferich wrote this wood power-focused Alaska Science Forum column on Oct. 3, 1990. \u2014 Sara Wilbur",
+    "pubDate": "Thu, 15 Oct 2026 00:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
+    "title": "Amelia Earhart mystery could be a step closer to being solved as researchers investigate possible plane wreck",
+    "link": "https://www.foxweather.com/weather-news/amelia-earhart-mystery-investigation-plane-wreck",
+    "description": "A potential step closer to identifying the possible remains of Amelia Earhart's crashed plane is underway as the Taraia Object expedition team travels to the island where she could have met her demise.",
+    "pubDate": "Thu, 15 Oct 2026 00:19:46 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "One year after ex-Typhoon Halong, Western Alaska\u2019s recovery is ongoing and uncertain",
+    "link": "https://alaskabeacon.com/2026/10/14/one-year-after-ex-typhoon-halong-western-alaskas-recovery-is-ongoing-and-uncertain/",
+    "description": "One year since the remnants of Typhoon Halong ripped through coastal communities of Western Alaska, displacing an estimated 1,600 residents and prompting the largest mass evacuation of the region in state history, the recovery effort is ongoing and uncertain. Today there is no official tally of how many residents are still displaced from their homes. [\u2026]",
+    "pubDate": "Wed, 14 Oct 2026 23:50:34 GMT",
+    "category": "alaska",
+    "tag": "alaska",
+    "source": "Alaska Beacon",
+    "rank": 100
+  },
+  {
     "title": "Alaska needs farmers. Farmers need farmland.",
     "link": "https://alaskabeacon.com/2026/10/14/alaska-needs-farmers-farmers-need-farmland/",
     "description": "This summer, I stood with a landowner at the edge of a hayfield her parents cleared more than 60 years ago. Wisps of her grey hair caught in the wind, and her eyes narrowed as she looked out over her farmland ground, thinking about so many neighboring farms that have been converted to gravel pits [\u2026]",
@@ -360,44 +400,104 @@
     "rank": 100
   },
   {
-    "title": "Search rankings say Alaskans shrug at sweets, but their shopping carts disagree",
-    "link": "https://www.homernews.com/2026/10/13/search-rankings-say-alaskans-shrug-at-sweets-but-their-shopping-carts-disagree/",
-    "description": "Peninsula Halloween traditions put Alaska\u2019s supposed sweet tooth to the test",
-    "pubDate": "Tue, 13 Oct 2026 12:30:00 GMT",
-    "category": "kenai",
-    "tag": "alaska",
-    "source": "Homer News",
-    "rank": 100
+    "title": "Tension erupts during House midterm debate as Lawler fact-checks New York Democrat opponent on immigration",
+    "link": "https://www.foxnews.com/politics/tension-erupts-house-midterm-debate-lawler-fact-checks-ny-democrat-opponent-immigration",
+    "description": "Rep. Mike Lawler, R-N.Y., and Democrat Cait Conley clashed over ICE enforcement and New York sanctuary laws in a fiery debate that could decide House control in 2026.",
+    "pubDate": "Thu, 15 Oct 2026 01:35:16 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "She could flip the Senate \u2014 all she wants to talk about are fish and diesel",
-    "link": "https://www.juneauempire.com/2026/10/13/she-could-flip-the-senate-all-she-wants-to-talk-about-are-fish-and-diesel/",
-    "description": "Politics in Alaska are different.",
-    "pubDate": "Tue, 13 Oct 2026 12:30:00 GMT",
+    "title": "FBI arrest leads to maximum 90-year sentence for gymnastics coach who recorded minors at Mississippi gym",
+    "link": "https://www.foxnews.com/outkick-sports/fbi-arrest-leads-maximum-90-year-sentence-gymnastics-coach-recorded-minors-mississippi-gym",
+    "description": "Sean Gardner received the maximum 90-year prison sentence for placing a hidden camera to record young gymnasts undressing at a Mississippi gym.",
+    "pubDate": "Thu, 15 Oct 2026 01:19:51 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "White House punches back at Chicago Mayor Johnson over reparations demands",
+    "link": "https://www.foxnews.com/media/white-house-slams-chicago-mayor-brandon-johnson-progressive-mayor-hits-trump-wealth-reparations",
+    "description": "Chicago Mayor Brandon Johnson alleged Trump enriched the ultra-rich while ignoring descendants of the formerly enslaved, drawing a White House rebuke.",
+    "pubDate": "Thu, 15 Oct 2026 01:08:22 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Canadian singer Joni Mitchell officially becomes American citizen after 62-year journey",
+    "link": "https://www.foxnews.com/entertainment/canadian-singer-joni-mitchell-officially-becomes-american-citizen-after-62-year-journey",
+    "description": "Joni Mitchell shared a photo and video from her naturalization ceremony, becoming a U.S. citizen at 82 while retaining Canadian citizenship.",
+    "pubDate": "Thu, 15 Oct 2026 01:04:39 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Mike Tomlin offers blunt take on NFL players-only meetings: \u2018I think you\u2019re dead\u2019",
+    "link": "https://www.foxnews.com/outkick-sports/mike-tomlin-offers-blunt-take-nfl-players-only-meetings-think-youre-dead",
+    "description": "Mike Tomlin told Travis Kelce and Jason Kelce on \"New Heights\" that the Dallas Cowboys' reported players-only meeting is a very troubling sign.",
+    "pubDate": "Thu, 15 Oct 2026 00:51:29 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Rams tackle Alaric Jackson wins appeal, will miss just one game for punching Bills' Bradley Chubb",
+    "link": "https://www.foxnews.com/outkick-sports/rams-tackle-alaric-jackson-wins-appeal-miss-one-game-punching-bills-bradley-chubb",
+    "description": "Alaric Jackson's NFL suspension was cut from two games to one after the Rams tackle punched Bradley Chubb following Buffalo's overtime victory.",
+    "pubDate": "Thu, 15 Oct 2026 00:46:27 GMT",
     "category": "politics",
-    "tag": "alaska",
-    "source": "Juneau Empire",
-    "rank": 100
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "WPD and AST Announce Road Closures on October 13, 2026",
-    "link": "https://alaska-native-news.com/wpd-and-ast-announce-road-closures-on-october-13-2026/86698/",
-    "description": "The Wasilla Police Department and Alaska State Troopers are announcing the following closures ahead of President Trump\u2019s event in Wasilla on October 13, 2026. Road Closures: Clapp Street, Beacon Street, and Aviation Avenue will be closed from 8:00 am to 6:00 pm. There will be no pedestrian access to the Menard Center or along closed [\u2026]",
-    "pubDate": "Tue, 13 Oct 2026 04:44:31 GMT",
-    "category": "anchorage",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Copper theft suspect's desperate escape caught on bodycam video before deputies discover what he left behind",
+    "link": "https://www.foxnews.com/us/copper-theft-suspects-daring-escape-caught-bodycam-video-deputies-discover-left-behind",
+    "description": "Rayven Lee Wooten dove headfirst through a closed window to flee an Oklahoma deputy but left behind a backpack with a critical clue inside.",
+    "pubDate": "Thu, 15 Oct 2026 00:46:13 GMT",
+    "category": "weather",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Op/Ed-An Independent Voice for Alaska",
-    "link": "https://alaska-native-news.com/an-independent-voice-for-alaska/86695/",
-    "description": "Alaskans need a senator who only answers to Alaskans \u2014 not corporate greed and Lower 48 insiders. Our delegation used to stand up to D.C. people to put Alaska first. Ted Stevens and Don Young ignored Lower 48 partisanship to fight for things like public media and disaster relief because rural Alaska depends on them. [\u2026]",
-    "pubDate": "Tue, 13 Oct 2026 04:37:15 GMT",
-    "category": "culture",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Elizabeth Hurley sizzles in bathrobe as diamond ring sparks Billy Ray Cyrus romance speculation",
+    "link": "https://www.foxnews.com/entertainment/elizabeth-hurley-sizzles-bathrobe-diamond-ring-sparks-billy-ray-cyrus-romance-speculation",
+    "description": "Elizabeth Hurley's mirror selfie from the set of \"The 'Burbs\" has fans buzzing over a massive diamond ring spotted on her left hand, sparking speculation.",
+    "pubDate": "Thu, 15 Oct 2026 00:15:24 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Trump torches Democrats at Arizona rally, warns they will \u2018destroy our country\u2019 ahead of midterms",
+    "link": "https://www.foxnews.com/politics/trump-torches-democrats-arizona-rally-warns-destroy-country-ahead-midterms",
+    "description": "Trump rallied for Andy Biggs in Bullhead City, blasting Dem Gov. Katie Hobbs and urging Arizona voters to turn the state red in honor of Charlie Kirk.",
+    "pubDate": "Thu, 15 Oct 2026 00:06:31 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Dodgers star Will Smith's wife delivers third 'October baby' just before Dodgers Game 3 bout vs Brewers",
+    "link": "https://www.foxnews.com/outkick-sports/dodgers-star-will-smith-wife-delivers-third-october-baby-before-dodgers-game-3-brewers",
+    "description": "Will Smith's wife Cara announced the birth of their third October baby as the Los Angeles Dodgers catcher prepares to catch Blake Snell in NLCS Game 3.",
+    "pubDate": "Wed, 14 Oct 2026 23:48:02 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
     "title": "Federal agents seize phone of Rep. Ilhan Omar in raid tied to immigration fraud probe",
@@ -500,120 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Fox News Poll: Cost-of-living concerns weigh on GOP in midterms",
-    "link": "https://www.foxnews.com/politics/fox-news-poll-cost-living-concerns-weigh-gop-midterms",
-    "description": "A Fox News survey finds Trump's approval on inflation hitting a new low of 22% as six in 10 voters say cost of living is their top economic worry.",
-    "pubDate": "Wed, 14 Oct 2026 22:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Expert calls California 'Wild West' for surrogacy after couple charged with abusing surrogate-born children",
-    "link": "https://www.foxnews.com/politics/expert-calls-california-wild-west-surrogacy-couple-charged-abusing-surrogate-born-children",
-    "description": "Guojun Xuan and Silvia Zhang allegedly abused surrogate-born children while running an unlicensed California surrogacy agency from their home.",
-    "pubDate": "Wed, 14 Oct 2026 21:56:21 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Wildlife influencer comes close to losing a wrestling match to a 19-foot reticulated python",
-    "link": "https://www.foxnews.com/outkick-sports/wildlife-influencer-comes-close-losing-wrestling-match-19-foot-reticulated-python",
-    "description": "Mike Holston, known as The Real Tarzann, nearly lost his toughest battle yet when a 19-foot reticulated python wrapped his arm and both legs.",
-    "pubDate": "Wed, 14 Oct 2026 21:50:21 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "UK threatens to ban Eritreans over migrant return policy",
-    "link": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-    "description": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
-    "pubDate": "Wed, 14 Oct 2026 21:30:13 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-    "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-    "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-    "pubDate": "Wed, 14 Oct 2026 20:55:24 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Student protesters attack government buildings in Albania",
-    "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-    "description": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
-    "pubDate": "Wed, 14 Oct 2026 20:29:05 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Musk says US government may be behind curbs on Ukraine's use of Starlink internet",
-    "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-    "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-    "pubDate": "Wed, 14 Oct 2026 20:17:09 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Spooky savings, cozy finds and a head start on Christmas",
-    "link": "https://www.foxnews.com/deals/fox-news-deals-newsletter-october-15",
-    "description": "From bulk Halloween candy to Christmas decorations and cozy fall essentials, these are the October deals worth shopping.",
-    "pubDate": "Wed, 14 Oct 2026 20:15:03 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "'Raise hell, praise Dale' Earnhardt speeding ticket excuse unites Americans",
-    "link": "https://www.foxnews.com/outkick-sports/raise-hell-praise-dale-earnhardt-speeding-ticket-excuse-unites-americans",
-    "description": "The Greensboro Police Department's tweet about speeding and \"Raise hell, Praise Dale\" sparked a massive backlash from NASCAR fans and Dale Jr. alike.",
-    "pubDate": "Wed, 14 Oct 2026 20:07:09 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Ohio Gov Mike DeWine defies NCAA eligibility rule with executive order for student-athletes",
-    "link": "https://www.foxnews.com/outkick-sports/ohio-gov-mike-dewine-defies-ncaa-eligibility-rule-executive-order-student-athletes",
-    "description": "Ohio Gov. Mike DeWine's executive order defies the NCAA's eligibility rule, but Charlie Baker fired back that one governor cannot legislate NCAA rules.",
-    "pubDate": "Wed, 14 Oct 2026 20:03:32 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon - Mostly Cloudy",
-    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "45\u00b0F. Wind N 10 mph. Mostly cloudy, with a high near 45. North wind around 10 mph.",
-    "pubDate": "Wed, 14 Oct 2026 23:36:50 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "National Weather Service Anchorage",
-    "rank": 0
-  },
-  {
     "title": "Anchorage Weather: Tonight - Mostly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "38\u00b0F. Wind N 10 mph. Mostly cloudy, with a low around 38. North wind around 10 mph.",
-    "pubDate": "Wed, 14 Oct 2026 23:36:50 GMT",
+    "pubDate": "Thu, 15 Oct 2026 02:54:11 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +613,7 @@
     "title": "Anchorage Weather: Thursday - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "47\u00b0F. Wind N 10 mph. A chance of rain after 7am. Mostly cloudy, with a high near 47. North wind around 10 mph, with gusts as high as 20 mph. Chance of precipitation is 40%.",
-    "pubDate": "Wed, 14 Oct 2026 23:36:50 GMT",
+    "pubDate": "Thu, 15 Oct 2026 02:54:11 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -633,7 +623,7 @@
     "title": "Anchorage Weather: Thursday Night - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "39\u00b0F. Wind NE 5 to 10 mph. A chance of rain. Mostly cloudy, with a low around 39. Northeast wind 5 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Wed, 14 Oct 2026 23:36:50 GMT",
+    "pubDate": "Thu, 15 Oct 2026 02:54:11 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +633,17 @@
     "title": "Anchorage Weather: Friday - Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "48\u00b0F. Wind SE 5 to 10 mph. A chance of rain. Mostly cloudy, with a high near 48. Southeast wind 5 to 10 mph. Chance of precipitation is 40%.",
-    "pubDate": "Wed, 14 Oct 2026 23:36:50 GMT",
+    "pubDate": "Thu, 15 Oct 2026 02:54:11 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "National Weather Service Anchorage",
+    "rank": 0
+  },
+  {
+    "title": "Anchorage Weather: Friday Night - Chance Light Rain",
+    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+    "description": "32\u00b0F. Wind SE 0 to 5 mph. A chance of rain before 7pm, then scattered rain showers between 7pm and 10pm, then a chance of rain. Mostly cloudy, with a low around 32. Southeast wind 0 to 5 mph. Chance of precipitation is 30%.",
+    "pubDate": "Thu, 15 Oct 2026 02:54:11 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
