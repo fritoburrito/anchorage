@@ -5,20 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 23:38:24 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Periods Of Light Rain</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 15 Oct 2026 23:38:24 GMT</pubDate>
-      <description><![CDATA[47°F. Wind N 10 mph. Periods of rain. Cloudy, with a high near 47. North wind around 10 mph. Chance of precipitation is 90%.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Fri, 16 Oct 2026 02:51:48 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Periods Of Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 15 Oct 2026 23:38:24 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 02:51:48 GMT</pubDate>
       <description><![CDATA[39°F. Wind E 5 to 10 mph. Periods of rain before 1am. Mostly cloudy, with a low around 39. East wind 5 to 10 mph. Chance of precipitation is 90%.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +18,7 @@
       <title>Anchorage Weather: Friday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 15 Oct 2026 23:38:24 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 02:51:48 GMT</pubDate>
       <description><![CDATA[48°F. Wind E 0 to 5 mph. Partly sunny, with a high near 48. East wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Friday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 15 Oct 2026 23:38:24 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 02:51:48 GMT</pubDate>
       <description><![CDATA[34°F. Wind  0 mph. Mostly cloudy, with a low around 34. Northeast wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +34,41 @@
       <title>Anchorage Weather: Saturday - Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 15 Oct 2026 23:38:24 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 02:51:48 GMT</pubDate>
       <description><![CDATA[44°F. Wind N 0 to 5 mph. A slight chance of rain between 7am and 1pm, then isolated rain showers. Partly sunny, with a high near 44. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Saturday Night - Slight Chance Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Fri, 16 Oct 2026 02:51:48 GMT</pubDate>
+      <description><![CDATA[31°F. Wind  0 mph. Isolated rain showers before 7pm, then a slight chance of rain between 7pm and 1am. Mostly cloudy, with a low around 31. North wind around 0 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Newscast – Thursday, Oct. 15, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17498604/newscast-thursday-oct-15-2026</link>
+      <guid isPermaLink="false">7fc452e128254e083b87e39f303173f1ef58b202</guid>
+      <pubDate>Fri, 16 Oct 2026 00:46:43 GMT</pubDate>
+      <description><![CDATA[A Ketchikan fire station is back in operation after a fire damaged the facility; The empty St. Ann's building in Juneau has grant funding to be developed into a senior care center; Alaska's ferry laundry is done by people incarcerated a Lemon Creek Correctional Center for less than $2 per hour; A group of Sitka's Mt. Edgecumbe High School alumni, parents and educators want to see improvements at the state-run boarding school]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>In Alaska campaign rally, Trump and Sullivan say Iran war is worth the cost to Americans</title>
+      <link>https://alaskabeacon.com/2026/10/15/in-alaska-campaign-rally-trump-and-sullivan-say-iran-war-is-worth-the-cost-to-americans/</link>
+      <guid isPermaLink="false">0d8ec3baaa0db9d958f17a1dae62928e5bae8b3a</guid>
+      <pubDate>Fri, 16 Oct 2026 00:43:20 GMT</pubDate>
+      <description><![CDATA[At a rally in Wasilla on Tuesday, President Donald Trump and Republican U.S. Sen. Dan Sullivan said America’s war with Iran is worth the resulting increased cost of fuel and food for Americans. “No matter what it is, it’s a small price to pay for stopping them from having a nuclear weapon,” Trump said of […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Trump administration expands vehicle access to Alaska’s Denali National Park</title>
+      <link>https://alaskabeacon.com/2026/10/15/trump-administration-expands-vehicle-access-to-alaskas-denali-national-park/</link>
+      <guid isPermaLink="false">51d2e1c41913410b93c4a9e46c3fd0b7eeb58ceb</guid>
+      <pubDate>Thu, 15 Oct 2026 23:22:03 GMT</pubDate>
+      <description><![CDATA[More buses and cars will be allowed to travel on the sole road through Denali National Park, under a rule announced Thursday by the U.S. Department of the Interior and the National Park Service. The new rule sets a limit of 160 permitted vehicles a day for the season that runs from the Saturday before […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Alaska ranked 8th in country for tire damage risk</title>
@@ -53,14 +77,6 @@
       <pubDate>Thu, 15 Oct 2026 21:00:00 GMT</pubDate>
       <description><![CDATA[Alaska carries 269 miles of severely rutted highway]]></description>
       <category>local</category>
-    </item>
-    <item>
-      <title>Guardians shut down Rays behind pitching staff, epic Petey Halpin bat-flip for Game 3 win to take series lead</title>
-      <link>https://www.foxnews.com/outkick-sports/guardians-shut-down-rays-pitching-staff-epic-petey-halpin-bat-flip-game-3-win-series-lead</link>
-      <guid isPermaLink="false">b631023cc34cbe476ed4ef9e855c1a196108754e</guid>
-      <pubDate>Thu, 15 Oct 2026 20:49:03 GMT</pubDate>
-      <description><![CDATA[Petey Halpin's towering 385-foot two-run homer powered the Cleveland Guardians past the Tampa Bay Rays after weather moved the Game 3 start to 1 p.m. ET.]]></description>
-      <category>weather</category>
     </item>
     <item>
       <title>Democrats aiming for control of Congress vow action on healthcare, cost of living, Iran war</title>
@@ -279,27 +295,139 @@
       <category>local</category>
     </item>
     <item>
-      <title>Trump adds another giveaway to his midterm pitch: pardons</title>
-      <link>https://www.juneauempire.com/2026/10/14/trump-adds-another-giveaway-to-his-midterm-pitch-pardons/</link>
-      <guid isPermaLink="false">3e3131d0cc9d6161d0b9faf60546f0f5ea655cdd</guid>
-      <pubDate>Wed, 14 Oct 2026 19:00:00 GMT</pubDate>
-      <description><![CDATA[WASILLA, Alaska — As President Donald Trump has crisscrossed the country in recent weeks, he has offered voters a variety of financial rewards before the midterms: $500 Obamacare “refund” checks, $90 to seniors to offset Medicare premiums and $5,000 for every American adult — called the “Trump Dividend” — if Republicans retain control of Congress.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Promises cannot hide Alaska’s war bill</title>
-      <link>https://www.homernews.com/2026/10/14/promises-cannot-hide-alaskas-war-bill/</link>
-      <guid isPermaLink="false">fb779f0df3089223966eff85e66f3c79f6c41fbe</guid>
-      <pubDate>Wed, 14 Oct 2026 18:30:00 GMT</pubDate>
-      <description><![CDATA[Trump brought pledges to Wasilla. Alaskans are already paying for the war their senator won’t restrain]]></description>
-      <category>local</category>
-    </item>
-    <item>
       <title>Jerry Seinfeld turns tables on radical anti-Israel agitators after chaotic Chicago stunt backfires</title>
       <link>https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires</link>
       <guid isPermaLink="false">88843b56a1378a41c5e2214da8d96cea790ae22a</guid>
       <pubDate>Sat, 17 Oct 2026 10:00:48 GMT</pubDate>
       <description><![CDATA[Viral video shows Jerry Seinfeld dancing and mocking anti-Israel hecklers at the Chicago Theatre as security escorted protesters from the venue.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Three children and teacher killed by 16-year-old at Oregon primary school</title>
+      <link>https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ec13367c2ac3bec05e3bd1285ef6f923a6d07c84</guid>
+      <pubDate>Fri, 16 Oct 2026 02:32:49 GMT</pubDate>
+      <description><![CDATA[The suspect was shot dead by a local community member who followed him into the school, said police.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trans neo-Nazi accused of plotting Hindu temple massacre, will receive hormone treatment in jail: officials</title>
+      <link>https://www.foxnews.com/us/trans-neo-nazi-accused-plotting-hindu-temple-massacre-receive-hormone-treatment-jail-officials</link>
+      <guid isPermaLink="false">71b8964dab7b111c41546f39a93ce744d2b3dd6a</guid>
+      <pubDate>Fri, 16 Oct 2026 02:27:48 GMT</pubDate>
+      <description><![CDATA[A transgender 19-year-old alleged neo-Nazi plotted an attack on a Hindu temple, but the firearm malfunctioned and a coworker's tip led to an arrest.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'It's really hard to believe' - How Oregon primary school shooting unfolded</title>
+      <link>https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8e8aea70dcb1c91a2fb77fafd7c48971f193898a</guid>
+      <pubDate>Fri, 16 Oct 2026 01:36:45 GMT</pubDate>
+      <description><![CDATA[Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>21-year-old football player dead after head injury sustained during Division II college game</title>
+      <link>https://www.foxnews.com/outkick-sports/21-year-old-football-player-dead-after-head-injury-sustained-during-division-ii-college-game</link>
+      <guid isPermaLink="false">73b2e5311dce3fb74e047d8a8c36b8427051757e</guid>
+      <pubDate>Fri, 16 Oct 2026 01:30:53 GMT</pubDate>
+      <description><![CDATA[Division II football player Tyler Ulrich, 21, suffered a head injury during a Southern Nazarene University game Saturday that proved fatal five days later.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Oh, shut up!': Democrat snaps at Collins after heckler drives Maine Senate debate off the rails</title>
+      <link>https://www.foxnews.com/politics/shut-democrat-snaps-collins-heckler-drives-maine-senate-debate-rails</link>
+      <guid isPermaLink="false">b30f63cb56d86302bc209b7ebf170801e8f1f099</guid>
+      <pubDate>Fri, 16 Oct 2026 01:13:04 GMT</pubDate>
+      <description><![CDATA[A protester yelling about AI data centers sparked a fiery clash between Republican Sen. Susan Collins and Democratic challenger Troy Jackson.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Hasan Piker defends using incendiary terms like 'inbred' or 'Zionist pig' against opponents</title>
+      <link>https://www.foxnews.com/media/hasan-piker-defends-using-incendiary-terms-like-inbred-zionist-pig-against-opponents</link>
+      <guid isPermaLink="false">51809b5564f97b26b95164da305d0efbdcd3dabc</guid>
+      <pubDate>Fri, 16 Oct 2026 00:58:08 GMT</pubDate>
+      <description><![CDATA[Hasan Piker defended calling Zionist opponents "inbred" and "Zionist pig" in an NPR interview Thursday, saying the language targeted ideology, not background.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Same-day test helps doctors detect hidden infections in critically ill children</title>
+      <link>https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1fb482bc099a01824219238ef441a8f8e4889b81</guid>
+      <pubDate>Fri, 16 Oct 2026 00:34:45 GMT</pubDate>
+      <description><![CDATA[Metagenomics offers a new way of detecting infections in intensive care patients.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bears QB Caleb Williams shuts down reporters asking about his hamstring injury: 'It's not deserving'</title>
+      <link>https://www.foxnews.com/sports/bears-qb-caleb-williams-shuts-down-reporters-asking-about-hamstring-injury-not-deserving</link>
+      <guid isPermaLink="false">2d1aaac48c7daa4b338ec898b55099efbaebdb4d</guid>
+      <pubDate>Fri, 16 Oct 2026 00:11:20 GMT</pubDate>
+      <description><![CDATA[Chicago Bears QB Caleb Williams returned to full practice but refused to reveal his hamstring tear grade, calling national reports about his diagnosis wrong.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Experimental skin cream linked to 2-year drop in biological age in early study</title>
+      <link>https://www.foxnews.com/health/experimental-skin-cream-linked-2-year-drop-biological-age-early-study</link>
+      <guid isPermaLink="false">f4145847772207914ab87757127b37372b7af0e5</guid>
+      <pubDate>Fri, 16 Oct 2026 00:10:36 GMT</pubDate>
+      <description><![CDATA[Rubedo Life Sciences says its skin cream RLS-1496 cleared senescent cells, boosted collagen 10% and reduced skin age in a four-week trial study.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kash Patel demands MS NOW apologize after network's false report claiming FBI director visited Russia</title>
+      <link>https://www.foxnews.com/media/kash-patel-demands-ms-now-apologize-after-networks-false-report-claiming-fbi-director-visited-russia</link>
+      <guid isPermaLink="false">5c442e5aec10c38f6a102bfbc07f76b068601175</guid>
+      <pubDate>Fri, 16 Oct 2026 00:04:07 GMT</pubDate>
+      <description><![CDATA[FBI Director Kash Patel is demanding an apology from MS NOW after the network falsely claimed he "landed in Russia" for meetings, which was debunked.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Can cooking for terrorists bar asylum? Supreme Court takes up unusual case with broader immigration stakes</title>
+      <link>https://www.foxnews.com/politics/cooking-terrorists-bar-asylum-supreme-court-unusual-case-broader-immigration-stakes</link>
+      <guid isPermaLink="false">fad955d53ec743d00b33efb4a78ad0e2b5d2bf24</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:29 GMT</pubDate>
+      <description><![CDATA[A Nigerian man forced to cook for the Unknown Gunmen terrorist group is now at the center of a Supreme Court battle over asylum and material support.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Reform faces questions over candidate vetting after undercover filming</title>
+      <link>https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2f4e71504bea8f04697c7a63979aa518985a1bf5</guid>
+      <pubDate>Thu, 15 Oct 2026 23:52:27 GMT</pubDate>
+      <description><![CDATA[Reform UK says the party has "improved and prioritised its vetting procedures".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Knicks fan recreates OG Anunoby's signature Game 4 tip-in with skeletons in iconic Halloween setup</title>
+      <link>https://www.foxnews.com/outkick-sports/knicks-fan-recreates-og-anunoby-signature-game-4-tip-in-skeletons-iconic-halloween-setup</link>
+      <guid isPermaLink="false">e6c23cba5d5bb1846c1f82b27c97aa654f3dc421</guid>
+      <pubDate>Thu, 15 Oct 2026 23:41:13 GMT</pubDate>
+      <description><![CDATA[A New Jersey home recreated OG Anunoby's iconic New York Knicks tip-in against the San Antonio Spurs using skeletons and a 12-foot Wemby skeleton.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Houthi missile attack on Yemeni presidential palace kills five, minister says</title>
+      <link>https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">76de81fb62e363608bf3ce0d675243291eb996fb</guid>
+      <pubDate>Thu, 15 Oct 2026 23:38:46 GMT</pubDate>
+      <description><![CDATA[Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Porn showing choking or incest to be banned from early November, government says</title>
+      <link>https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">24213b35ca3288c96bd0970accb4e703ad3c3854</guid>
+      <pubDate>Thu, 15 Oct 2026 23:27:57 GMT</pubDate>
+      <description><![CDATA[The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tip-off foiled US teen suspect's plot to attack Hindu temple, police say</title>
+      <link>https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e67f86ac6cb4f9b7de790d31e02761cfb1f6a1d6</guid>
+      <pubDate>Thu, 15 Oct 2026 23:27:21 GMT</pubDate>
+      <description><![CDATA[The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -327,68 +455,12 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Want to know how to win in October? The 2026 Milwaukee Brewers are providing the blueprint</title>
-      <link>https://www.foxnews.com/outkick-sports/want-know-win-october-2026-milwaukee-brewers-providing-blueprint</link>
-      <guid isPermaLink="false">46c324283b17c71da09718200832f675527cb97b</guid>
-      <pubDate>Thu, 15 Oct 2026 22:46:01 GMT</pubDate>
-      <description><![CDATA[The Milwaukee Brewers lead the Dodgers 3-0 in the NLCS despite more strikeouts, proving Major League Baseball playoffs have no secret formula.]]></description>
+      <title>Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march</title>
+      <link>https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b9392d54cb8c78cfebd77d8e386c5667eabfc944</guid>
+      <pubDate>Thu, 15 Oct 2026 23:01:49 GMT</pubDate>
+      <description><![CDATA[The celebrities turn on each other at the round table, and have to beat the death marchers for their mission.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>Autistic teen lured to fake Snapchat meetup, brutally beaten by group of teens: report</title>
-      <link>https://www.foxnews.com/world/autistic-teen-lured-fake-snapchat-meetup-brutally-beaten-group-teens-report</link>
-      <guid isPermaLink="false">febb4c3e5fff8b9c852f5c33aeb274f8ef861ec4</guid>
-      <pubDate>Thu, 15 Oct 2026 22:40:32 GMT</pubDate>
-      <description><![CDATA[Video captured the violent beating of a 15-year-old boy with autism near a Stawell train station after he was lured through a Snapchat meetup.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>TSA warns travelers about seasonal mistake that could trigger airport security delays</title>
-      <link>https://www.foxnews.com/travel/tsa-warns-travelers-about-seasonal-mistake-could-trigger-airport-security-delays</link>
-      <guid isPermaLink="false">57d9386eb48e0f8012740d1be7882d447ea59d84</guid>
-      <pubDate>Thu, 15 Oct 2026 22:37:24 GMT</pubDate>
-      <description><![CDATA[Halloween travelers wearing costume makeup, bringing metal-heavy accessories and carrying props could face delays and challenges at airports, the TSA is warning.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Bus hits train stopped on French side of Channel Tunnel, with 19 injured</title>
-      <link>https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">00114a70b39a0329a56e2910817c415bfe47565d</guid>
-      <pubDate>Thu, 15 Oct 2026 22:37:21 GMT</pubDate>
-      <description><![CDATA[Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>CBS News faces $20M defamation lawsuit after misidentifying Maryland teenager in Reflecting Pool report</title>
-      <link>https://www.foxnews.com/media/cbs-news-faces-20m-defamation-lawsuit-misidentifying-maryland-teenager-reflecting-pool-report</link>
-      <guid isPermaLink="false">dbcc58c6beaecd7d0608020d3899fd3b47178fa9</guid>
-      <pubDate>Thu, 15 Oct 2026 22:29:46 GMT</pubDate>
-      <description><![CDATA[A Maryland teenager's $20 million defamation lawsuit claims CBS News falsely linked him to the Lincoln Memorial Reflecting Pool vandalism arrests.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Giants' JJ McCarthy could have bigger role in offense, John Harbaugh indicates</title>
-      <link>https://www.foxnews.com/outkick-sports/giants-jj-mccarthy-could-have-bigger-role-offense-john-harbaugh-indicates</link>
-      <guid isPermaLink="false">58a1f24ab1b9829c1ae67fafe4cb80e42215a9bb</guid>
-      <pubDate>Thu, 15 Oct 2026 22:28:29 GMT</pubDate>
-      <description><![CDATA[J.J. McCarthy played five snaps against the Washington Commanders, and New York Giants head coach John Harbaugh hinted at an expanded role.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Best outdoor adventures near Memorial Stadium for Ohio State vs. Indiana football fans</title>
-      <link>https://www.foxnews.com/outkick-sports/best-outdoor-adventures-near-memorial-stadium-ohio-state-vs-indiana-football-fans</link>
-      <guid isPermaLink="false">715bd9dbef0271a5b5108f680abc15befe31d9ac</guid>
-      <pubDate>Thu, 15 Oct 2026 22:27:02 GMT</pubDate>
-      <description><![CDATA[No. 4 Ohio State visits No. 5 Indiana at Memorial Stadium with Brown County's peak fall foliage, fire towers, and Lake Monroe all within reach.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Billy Joel says he can't drive, unsure about touring future after brain disorder diagnosis</title>
-      <link>https://www.foxnews.com/entertainment/billy-joel-says-he-cant-drive-unsure-about-touring-future-after-brain-disorder-diagnosis</link>
-      <guid isPermaLink="false">926a18e099c1cdf218ce0acceeafd670b5ec6678</guid>
-      <pubDate>Thu, 15 Oct 2026 22:27:00 GMT</pubDate>
-      <description><![CDATA[Billy Joel revealed his hydrocephalus diagnosis means every concert is like getting a concussion, and he's not allowed to drive a vehicle.]]></description>
-      <category>politics</category>
     </item>
     <item>
       <title>Millions face dramatic temperature drop as powerful cold front sweeps across the US</title>
@@ -405,70 +477,6 @@
       <pubDate>Thu, 15 Oct 2026 21:03:46 GMT</pubDate>
       <description><![CDATA[A small plane carrying six people crashed near Dellona, Wisconsin, Tuesday night after the pilot reported ice buildup on the wings. All six occupants, including a 13-year-old child, were killed.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Letters with 'suspicious substances' sent to US election offices</title>
-      <link>https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">38cb098b6aecb07e7473ea7da7d7c936fdb94f4d</guid>
-      <pubDate>Thu, 15 Oct 2026 20:52:13 GMT</pubDate>
-      <description><![CDATA[A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Hit a midlife wall? This test identifies your strengths and what matters to you</title>
-      <link>https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide</link>
-      <guid isPermaLink="false">268b02329c07c5e2cd3315ad4b8b2118f3a5af81</guid>
-      <pubDate>Thu, 15 Oct 2026 20:50:53 GMT</pubDate>
-      <description><![CDATA[In this first episode of Your Turn with Allison Aubrey , we explore the science of the flow state with violinist Diane Allen, who lost her flow and then tried to find it again, and also from Dr. Richard Huskey, who studies the flow state and how each of us can find it.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Warriors rookie's reaction to learning he'd guard Lakers superstar Luka Dončić goes viral: 'What the f---?'</title>
-      <link>https://www.foxnews.com/outkick-sports/warriors-rookies-reaction-learning-hed-guard-lakers-superstar-luka-doncic-goes-viral-what-the-f</link>
-      <guid isPermaLink="false">587fcf26fb00bbfa9b332bea7f21229e0cf7fee5</guid>
-      <pubDate>Thu, 15 Oct 2026 20:47:12 GMT</pubDate>
-      <description><![CDATA[Yaxel Lendeborg revealed his stunned reaction when Frank Vogel told him he'd guard Luka Dončić in the Golden State Warriors' preseason game.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Colin Cowherd's analogy of the 2026 Dodgers to The Godfather Part III is brilliant</title>
-      <link>https://www.foxnews.com/outkick-sports/colin-cowherd-analogy-2026-dodgers-godfather-part-iii-brilliant</link>
-      <guid isPermaLink="false">c51fd014e0809c7c7e9cbb63f7f06562118b19dc</guid>
-      <pubDate>Thu, 15 Oct 2026 20:40:45 GMT</pubDate>
-      <description><![CDATA[Colin Cowherd compares the Los Angeles Dodgers' stunning 0-3 postseason hole to "The Godfather Part III" — familiar names, but fading magic.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>London housing project wins top architecture award</title>
-      <link>https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">443dd118a3ce3d91d018e11fa8243ee321ea8d4c</guid>
-      <pubDate>Thu, 15 Oct 2026 20:36:32 GMT</pubDate>
-      <description><![CDATA[Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Democratic senator accuses Biden administration of 'completely' chickening out on Supreme Court reform</title>
-      <link>https://www.foxnews.com/media/democratic-senator-accuses-biden-administration-completely-chickening-supreme-court-reform</link>
-      <guid isPermaLink="false">5d8fe46b1701d66f95824ef3da53d762e108af41</guid>
-      <pubDate>Thu, 15 Oct 2026 20:30:15 GMT</pubDate>
-      <description><![CDATA[Sheldon Whitehouse said the Biden administration was "completely chicken" on Supreme Court reform, while Kamala Harris now pushes court expansion.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Washington state's high school sports league puts onus for trans athlete controversy on state laws</title>
-      <link>https://www.foxnews.com/outkick-sports/washington-state-high-school-sports-league-puts-onus-trans-athlete-controversy-state-laws</link>
-      <guid isPermaLink="false">3b6930c92d88c853cc480951631fe92412630bb4</guid>
-      <pubDate>Thu, 15 Oct 2026 20:25:38 GMT</pubDate>
-      <description><![CDATA[The WIAA says Washington state law prevents it from banning males from girls' sports, even if members vote for change. Initiative 638 heads to voters.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Why Harry and Meghan's UK relaunch felt so much like a royal engagement</title>
-      <link>https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4e66aa46ae15dc78360d6dc3e9028081cf454958</guid>
-      <pubDate>Thu, 15 Oct 2026 20:24:32 GMT</pubDate>
-      <description><![CDATA[The Duchess of Sussex has not done anything like the day of events in Nottingham for several years on British soil.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Another coastal storm could be brewing for East Coast with impacts possible early next week</title>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">6bad30996b1b8bc7da36695bbacd36407949301c</guid>
       <pubDate>Wed, 14 Oct 2026 20:17:31 GMT</pubDate>
       <description><![CDATA[Powerful Pacific storms have battered California’s coastline, damaging multimillion-dollar oceanfront homes, destroying sections of Long Beach’s historic boardwalk and accelerating coastal erosion along vulnerable beaches.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Big Sky braces for winter as early snowfall raises questions about what's ahead in December</title>
-      <link>https://www.foxweather.com/weather-news/big-sky-winter-early-snowfall-december-kalshi</link>
-      <guid isPermaLink="false">ca1e91a3098b5d91deb5a53000ba91f0111dbedf</guid>
-      <pubDate>Wed, 14 Oct 2026 19:37:19 GMT</pubDate>
-      <description><![CDATA[With this early snowfall trend, experts at Kalshi break down the odds of how much it could snow in Big Sky for December as temperatures steadily drop and the first days of measurable snowfall approach.]]></description>
       <category>weather</category>
     </item>
   </channel>
