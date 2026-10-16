@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:58:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:13:56 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Overnight - Partly Cloudy</title>
+      <title>Anchorage Weather: Today - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 16 Oct 2026 12:58:24 GMT</pubDate>
-      <description><![CDATA[38°F. Wind SE 5 mph. Partly cloudy, with a low around 38. Southeast wind around 5 mph.]]></description>
+      <pubDate>Fri, 16 Oct 2026 17:13:56 GMT</pubDate>
+      <description><![CDATA[46°F. Wind NE 0 to 5 mph. Mostly sunny, with a high near 46. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Friday - Mostly Sunny</title>
+      <title>Anchorage Weather: Tonight - Mostly Cloudy then Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 16 Oct 2026 12:58:24 GMT</pubDate>
-      <description><![CDATA[46°F. Wind E 0 to 5 mph. Mostly sunny, with a high near 46. East wind 0 to 5 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Friday Night - Mostly Cloudy then Slight Chance Light Rain</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 16 Oct 2026 12:58:24 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 17:13:56 GMT</pubDate>
       <description><![CDATA[36°F. Wind  0 mph. A slight chance of rain after 4am. Mostly cloudy, with a low around 36. Northeast wind around 0 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -34,17 +26,33 @@
       <title>Anchorage Weather: Saturday - Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 16 Oct 2026 12:58:24 GMT</pubDate>
-      <description><![CDATA[42°F. Wind N 0 to 5 mph. A slight chance of rain before 1pm, then a slight chance of rain showers. Partly sunny, with a high near 42. North wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 16 Oct 2026 17:13:56 GMT</pubDate>
+      <description><![CDATA[42°F. Wind N 0 to 5 mph. A slight chance of rain before 1pm, then a slight chance of rain showers. Partly sunny, with a high near 42. North wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday Night - Slight Chance Rain And Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 16 Oct 2026 12:58:24 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 17:13:56 GMT</pubDate>
       <description><![CDATA[30°F. Wind N 0 to 5 mph. A slight chance of rain showers before 7pm, then a slight chance of rain and snow between 7pm and 1am. Partly cloudy, with a low around 30. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Sunday - Mostly Sunny</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Fri, 16 Oct 2026 17:13:56 GMT</pubDate>
+      <description><![CDATA[41°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 41. North wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Who pays when a remote Alaska village can no longer stay?</title>
+      <link>https://alaskabeacon.com/2026/10/16/who-pays-when-a-remote-alaska-village-can-no-longer-stay/</link>
+      <guid isPermaLink="false">0aacf1e1cf69848f3aefb7143bf05f0ec8ce7c02</guid>
+      <pubDate>Fri, 16 Oct 2026 13:30:03 GMT</pubDate>
+      <description><![CDATA[In Kipnuk and Kwigillingok, schools in the flood zone remained closed. Homes swept away are still scattered across the tundra. Where crushing waves snapped essential boardwalks, the days now carry the drone of power tools worked by young Yup’iks determined to rebuild them. From a bird’s eye view, the land seems to signal it has […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Newscast – Thursday, Oct. 15, 2026</title>
@@ -271,14 +279,6 @@
       <category>local</category>
     </item>
     <item>
-      <title>Nonpartisan government watchdog recommends automated activation of ICE body cameras</title>
-      <link>https://alaskabeacon.com/2026/10/14/repub/nonpartisan-government-watchdog-recommends-automated-activation-of-ice-body-cameras/</link>
-      <guid isPermaLink="false">4db76256da3046dc6f87756acdfeb1c38488c249</guid>
-      <pubDate>Wed, 14 Oct 2026 21:00:56 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection need to improve oversight and guidance for federal immigration officers’ use of body-worn cameras, according to a Wednesday report from independent federal investigators. Officials with the Department of Homeland Security, however, resisted a recommendation in the report from the Government Accountability Office that […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
       <title>Jerry Seinfeld turns tables on radical anti-Israel agitators after chaotic Chicago stunt backfires</title>
       <link>https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires</link>
       <guid isPermaLink="false">88843b56a1378a41c5e2214da8d96cea790ae22a</guid>
@@ -287,155 +287,163 @@
       <category>world</category>
     </item>
     <item>
-      <title>Norwegian teen 'hitman' detained for UK murder plot</title>
-      <link>https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d2b01ce65497468f11333326a12462f713543d29</guid>
-      <pubDate>Fri, 16 Oct 2026 12:51:39 GMT</pubDate>
-      <description><![CDATA[Johannes Natland, 19, travelled to West Yorkshire to carry out a "hit" in March last year.]]></description>
+      <title>I lost half my right lung to cancer. Pope Leo's diagnosis gives me hope</title>
+      <link>https://www.foxnews.com/opinion/lost-half-right-lung-cancer-pope-leo-diagnosis-gives-hope</link>
+      <guid isPermaLink="false">900429c7d029175ceb975c0d4754b25e82e39233</guid>
+      <pubDate>Fri, 16 Oct 2026 17:00:46 GMT</pubDate>
+      <description><![CDATA[A lung cancer survivor compares her stage 1B diagnosis and surgery to Pope Leo's adenocarcinoma, urging expanded screening beyond heavy smokers.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Watch: Did Tesla really just unveil a flying car?</title>
-      <link>https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1e5723faa31b0813e34ade392ecea39bf9930e88</guid>
-      <pubDate>Fri, 16 Oct 2026 12:32:31 GMT</pubDate>
-      <description><![CDATA[Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.]]></description>
+      <title>Rally planned to support Washington girls who refused to race against transgender teammate in cross country</title>
+      <link>https://www.foxnews.com/outkick-sports/rally-planned-support-washington-girls-refused-race-against-transgender-teammate-cross-country</link>
+      <guid isPermaLink="false">67c29e52529d236954098a186044942fab29a1b6</guid>
+      <pubDate>Fri, 16 Oct 2026 16:54:55 GMT</pubDate>
+      <description><![CDATA[Amy Sousa is organizing a "Camas Courage" rally after about a dozen Camas High School girls walked out of a cross country race over a transgender teammate.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Burnham invites Swinney to work together on 'deeper Scottish devolution'</title>
-      <link>https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f2e35628ca3ec7c6629e89dd0a289f8f96992f5b</guid>
-      <pubDate>Fri, 16 Oct 2026 12:27:41 GMT</pubDate>
-      <description><![CDATA[The prime minister said he wanted regions to have more power while on his first substantive trip to Scotland since moving into Downing Street.]]></description>
+      <title>Man killed by tiger may have had medical records breached by NHS staff</title>
+      <link>https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">eb0419354092b3236a62817a497954c5b435f0f7</guid>
+      <pubDate>Fri, 16 Oct 2026 16:53:07 GMT</pubDate>
+      <description><![CDATA[William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>US senators call for investigation into Ukraine's Starlink restrictions</title>
-      <link>https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">dc947a9325b3a9fdd23b71151347e092e67cabc1</guid>
-      <pubDate>Fri, 16 Oct 2026 12:16:42 GMT</pubDate>
-      <description><![CDATA[Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.]]></description>
+      <title>Amid talk of public execution, public opinion on death penalty is split</title>
+      <link>https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty</link>
+      <guid isPermaLink="false">ae401f8fd17d2942eb55a97136fd1d96c3268a09</guid>
+      <pubDate>Fri, 16 Oct 2026 16:28:00 GMT</pubDate>
+      <description><![CDATA[A majority of Americans support the death penalty for people convicted of murder, but support becomes more divided when questions vary.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>We must save water as drought becomes new normal, says minister</title>
-      <link>https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c9d4d6838b5c91c9eb98d5c35319bb31abe6d260</guid>
-      <pubDate>Fri, 16 Oct 2026 12:15:15 GMT</pubDate>
-      <description><![CDATA[Severe drought was declared across parts of southern England after months of low rainfall.]]></description>
+      <title>Rays look to even series in Game 4 as Nick Martinez brings dominant record against Guardians</title>
+      <link>https://www.foxnews.com/outkick-betting/rays-even-series-game-4-nick-martinez-dominant-record-guardians</link>
+      <guid isPermaLink="false">4b9c63f913f8a92d2e626dfde561bd827831f571</guid>
+      <pubDate>Fri, 16 Oct 2026 16:20:30 GMT</pubDate>
+      <description><![CDATA[Nick Martinez's 13 scoreless innings against Cleveland this season could be the key as the Tampa Bay Rays try to even their series in Game 3.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Dad fined after son, 2, died in Cyprus hotel fall</title>
-      <link>https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1639b81967914c53d95d69138107939e8d07f109</guid>
-      <pubDate>Fri, 16 Oct 2026 12:14:12 GMT</pubDate>
-      <description><![CDATA[Joshua Foster "lost control" of his son while showing him the view of a water park from a window.]]></description>
+      <title>Race to find Amelia Earhart's lost plane hits rough seas as crucial deadline nears</title>
+      <link>https://www.foxnews.com/travel/race-find-amelia-earharts-lost-plane-hits-rough-seas-crucial-deadline-nears</link>
+      <guid isPermaLink="false">535dabacf036737072175468cb13df401b570aa6</guid>
+      <pubDate>Fri, 16 Oct 2026 16:16:45 GMT</pubDate>
+      <description><![CDATA[The Purdue University expedition hit severe weather near Nikumaroro, pausing efforts to identify a lagoon object that may be Amelia Earhart's plane.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>British father fined for causing his two-year-old son's death in Cyprus hotel fall</title>
-      <link>https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1639b81967914c53d95d69138107939e8d07f109</guid>
-      <pubDate>Fri, 16 Oct 2026 12:14:12 GMT</pubDate>
-      <description><![CDATA[Joshua Foster "lost control" of his son while showing him the view of a water park from a window.]]></description>
+      <title>Black civic group blasts Talarico campaign over canceled event: ‘Deeply disappointed’</title>
+      <link>https://www.foxnews.com/politics/black-civic-group-blasts-talarico-campaign-canceled-event-deeply-disappointed</link>
+      <guid isPermaLink="false">f4799709bee1dad79d1d95191ed55eb8c8f81aa5</guid>
+      <pubDate>Fri, 16 Oct 2026 16:13:21 GMT</pubDate>
+      <description><![CDATA[James Talarico faces frustration from Black voter groups over a canceled event and questions about whether his $25 million outreach pledge is real.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements</title>
+      <link>https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ff8509db4274bc555b2f3054bd0f4f99c9c10749</guid>
+      <pubDate>Fri, 16 Oct 2026 16:07:37 GMT</pubDate>
+      <description><![CDATA[Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fund her lifestyle.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Americans back Trump's decision against livestreaming Nidal Hasan's firing squad execution</title>
+      <link>https://www.foxnews.com/politics/americans-back-trumps-decision-against-livestreaming-nidal-hasans-firing-squad-execution</link>
+      <guid isPermaLink="false">e65e715a9afbd2979eda3b887164092f2bb2e80f</guid>
+      <pubDate>Fri, 16 Oct 2026 16:04:34 GMT</pubDate>
+      <description><![CDATA[Trump canceled the Nidal Hasan firing squad execution livestream, but victims' families will still be able to witness the Fort Hood shooter's scheduled death.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role</title>
+      <link>https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">acc3dc264d522c141265fe32a989e62617b652a2</guid>
+      <pubDate>Fri, 16 Oct 2026 16:00:30 GMT</pubDate>
+      <description><![CDATA[The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'</title>
+      <link>https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">adb9ff1cde83517f0573a87e60d62d3f0afda09e</guid>
+      <pubDate>Fri, 16 Oct 2026 15:59:30 GMT</pubDate>
+      <description><![CDATA[EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'</title>
+      <link>https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">adb9ff1cde83517f0573a87e60d62d3f0afda09e</guid>
+      <pubDate>Fri, 16 Oct 2026 15:59:30 GMT</pubDate>
+      <description><![CDATA[EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks</title>
+      <link>https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank</link>
+      <guid isPermaLink="false">7b1dfea50832e6af0ca696293f9ae2779a820507</guid>
+      <pubDate>Fri, 16 Oct 2026 15:57:27 GMT</pubDate>
+      <description><![CDATA[Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The Washington Post .]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>World Series hero Miguel Rojas emotionally announces retirement after Dodgers get swept in NLCS</title>
+      <link>https://www.foxnews.com/outkick/world-series-hero-miguel-rojas-emotionally-announces-retirement-dodgers-swept-nlcs</link>
+      <guid isPermaLink="false">ce5dec743bf907726108ac3e666e781f7b8d9454</guid>
+      <pubDate>Fri, 16 Oct 2026 15:56:10 GMT</pubDate>
+      <description><![CDATA[Miguel Rojas announced his retirement after the Los Angeles Dodgers' sweep loss to Milwaukee Brewers, ending a 13-year career that included a legendary World Series moment.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ilhan Omar's sister skips book tour event amid week of chaos following raid on progressive's DC home</title>
+      <link>https://www.foxnews.com/politics/ilhan-omar-sister-skips-book-tour-event-amid-week-chaos-following-raid-progressive-dc-home</link>
+      <guid isPermaLink="false">72961817270dfb67f150c4216adb80d1b1835f78</guid>
+      <pubDate>Fri, 16 Oct 2026 15:48:57 GMT</pubDate>
+      <description><![CDATA[Sahra Noor skipped a scheduled book tour event in Rochester, Minnesota, after reportedly being subpoenaed in the Ilhan Omar immigration fraud probe.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Washington school district that forced kids to hide Bibles in sealed envelopes must apologize, pay $275K</title>
+      <link>https://www.foxnews.com/media/washington-school-district-forced-kids-hide-bibles-sealed-envelopes-must-apologize-pay-275k</link>
+      <guid isPermaLink="false">beac4a4eca59ac35cd43aea1a076a885c7cf31d2</guid>
+      <pubDate>Fri, 16 Oct 2026 15:43:51 GMT</pubDate>
+      <description><![CDATA[LifeWise Academy's Joel Penton says a Washington school district's policies forced students to hide Bibles in sealed envelopes, sparking a federal lawsuit.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Patients in chains rescued from suspected illegal rehab centre in South Africa</title>
+      <link>https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">10203bde3b4cf3ee96fdfb35e94f4f8faba58135</guid>
+      <pubDate>Fri, 16 Oct 2026 14:57:51 GMT</pubDate>
+      <description><![CDATA[Some of the 200 patients were found with "sores all over their bodies" and in overcrowded rooms.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bryan Norcross: Watching for a nasty coastal storm to develop and stall near the Carolinas</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-october-16-2026</link>
+      <guid isPermaLink="false">33dc3748b2d7ab2592fb1707097d237465c6e20b</guid>
+      <pubDate>Fri, 16 Oct 2026 14:44:40 GMT</pubDate>
+      <description><![CDATA[A strong cold front is going to push off the East Coast by early tomorrow. The coldest air of the year on a brisk north wind will move in behind it. There is a strong consensus in the various computer forecasts that a low-pressure system will form along the front similar to the one that developed into the nor'easter last month. This system will play out very differently, however.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Catherine says nature can help children's emotional growth</title>
-      <link>https://www.bbc.co.uk/news/articles/cmly0n4nzq5qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2b79297afd99a175851a9af8b56c90fe6d685b43</guid>
-      <pubDate>Fri, 16 Oct 2026 12:06:22 GMT</pubDate>
-      <description><![CDATA[The Princess of Wales launches a project encouraging a greater emphasis on children learning from nature.]]></description>
+      <title>Pope pictured for first time since surgery and cancer diagnosis</title>
+      <link>https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">89cb380fa6fc172ce493383bd1c6ec88aa4a5042</guid>
+      <pubDate>Fri, 16 Oct 2026 14:36:39 GMT</pubDate>
+      <description><![CDATA[The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Trump's Capitol Hill whisperer reveals secrets to president's dealmaking as he heads for exit</title>
-      <link>https://www.foxnews.com/politics/trumps-capitol-hill-whisperer-reveals-secrets-presidents-deal-making-he-heads-exit</link>
-      <guid isPermaLink="false">1810909e83bcd6aa00e7d6f5438c415038bddb65</guid>
-      <pubDate>Fri, 16 Oct 2026 12:02:30 GMT</pubDate>
-      <description><![CDATA[James Braid spoke with Fox News Digital about his work the last two years on his way out of the Trump administration.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Archaeologists uncover unexpected twist in shipwreck mystery after clues don't add up</title>
-      <link>https://www.foxnews.com/travel/archaeologists-uncover-unexpected-twist-shipwreck-mystery-clues-dont-add-up</link>
-      <guid isPermaLink="false">f374671e91a9af453f6bac80f6b67ee30cbed722</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:40 GMT</pubDate>
-      <description><![CDATA[A recent nor'easter exposed a historic shipwreck on Nantucket's shore, but archaeologists say the wreckage isn't the Warren Sawyer schooner as they originally thought.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Suspected Florida Publix slasher walked free from court months earlier despite victim warnings</title>
-      <link>https://www.foxnews.com/us/suspected-florida-publix-slasher-walked-free-court-months-earlier-despite-victim-warnings</link>
-      <guid isPermaLink="false">5adc0869b72a6dcb2d489fb39816824a45abcf73</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:40 GMT</pubDate>
-      <description><![CDATA[Ramsey Thomas Lyons allegedly slashed a 70-year-old Publix shopper with a box cutter months after a mental health court ended his probation early.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Bystander fatally shoots suspected teen gunman in deadly elementary school shooting and more top headlines</title>
-      <link>https://www.foxnews.com/us/bystander-fatally-shoots-suspected-teen-gunman-deadly-elementary-school-shooting-more-top-headlines</link>
-      <guid isPermaLink="false">6ddbd3ad78a6c4967e2b5fdceeafb1014680ebfc</guid>
-      <pubDate>Fri, 16 Oct 2026 11:46:25 GMT</pubDate>
-      <description><![CDATA[Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Israeli settlers attack Palestinians in West Bank during olive harvest</title>
-      <link>https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2230e238fea2f6bf9685d63d29e4ab2074809b4c</guid>
-      <pubDate>Fri, 16 Oct 2026 11:40:41 GMT</pubDate>
-      <description><![CDATA[Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support</title>
-      <link>https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support</link>
-      <guid isPermaLink="false">3aa553f998bfc1a7da8a19e0d595126fb9505be2</guid>
-      <pubDate>Fri, 16 Oct 2026 11:30:31 GMT</pubDate>
-      <description><![CDATA[The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>You're probably cooking rice wrong, and chefs reveal the simple mistake to avoid</title>
-      <link>https://www.foxnews.com/food-drink/youre-probably-cooking-rice-wrong-chefs-reveal-simple-mistake-avoid</link>
-      <guid isPermaLink="false">1029e94ce8926cad952d2d02a03020126f0d66b8</guid>
-      <pubDate>Fri, 16 Oct 2026 11:30:07 GMT</pubDate>
-      <description><![CDATA[Chefs reveal why rinsing basmati and jasmine rice before cooking is the key to fluffy, distinct grains that never clump together in the pot.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Former NFL team doctor addresses Jalen Hurts' blood clot as QB's season hinges on one key word</title>
-      <link>https://www.foxnews.com/outkick-sports/former-nfl-team-doctor-addresses-jalen-hurts-blood-clot-qb-season-hinges-one-key-word</link>
-      <guid isPermaLink="false">f5c0f2a943f10e4326aba9d52acdd0fdbb33395e</guid>
-      <pubDate>Fri, 16 Oct 2026 11:04:56 GMT</pubDate>
-      <description><![CDATA[Dr. David Chao explains why one word in the Eagles' statement about Jalen Hurts' blood clot could signal a long-term or season-ending absence.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens</title>
-      <link>https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers</link>
-      <guid isPermaLink="false">14cf610555b1c8147d59aa5d604ed7140c8c11e2</guid>
-      <pubDate>Fri, 16 Oct 2026 11:03:57 GMT</pubDate>
-      <description><![CDATA[A teen opened fire at an Oregon elementary school, leaving three kids and one teacher dead. And, the Justice Department is suing California over alleged noncitizen voters.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>JONATHAN TURLEY: Sherrod Brown's pledge turns advice and consent into a punchline</title>
-      <link>https://www.foxnews.com/opinion/jonathan-turley-browns-pledge-turns-advice-consent-punchline</link>
-      <guid isPermaLink="false">d52c543743c444d26fa35d452b9189870d50590b</guid>
-      <pubDate>Fri, 16 Oct 2026 11:00:42 GMT</pubDate>
-      <description><![CDATA[Ohio's Sherrod Brown pledged to vote against every Trump judicial nominee regardless of qualifications, abandoning Senate advice and consent duties.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Murder weapons in Great Wolf Lodge family massacre may offer premeditation evidence: private investigator</title>
-      <link>https://www.foxnews.com/us/murder-weapons-great-wolf-lodge-family-massacre-may-offer-premeditation-evidence-private-investigator</link>
-      <guid isPermaLink="false">50badbbdeec6bd5a29f1197988fafc736c3d09b4</guid>
-      <pubDate>Fri, 16 Oct 2026 11:00:28 GMT</pubDate>
-      <description><![CDATA[A private investigator says evidence points to possible premeditation in the Great Wolf Lodge double murder at the Poconos resort in Pennsylvania.]]></description>
+      <title>Pope pictured for first time since surgery as he says Mass at makeshift altar in hospital</title>
+      <link>https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">89cb380fa6fc172ce493383bd1c6ec88aa4a5042</guid>
+      <pubDate>Fri, 16 Oct 2026 14:36:39 GMT</pubDate>
+      <description><![CDATA[The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">790442a182f179f790e9ffe7e73414f4233f69e0</guid>
       <pubDate>Thu, 15 Oct 2026 00:19:46 GMT</pubDate>
       <description><![CDATA[A potential step closer to identifying the possible remains of Amelia Earhart's crashed plane is underway as the Taraia Object expedition team travels to the island where she could have met her demise.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Multimillion-dollar California oceanfront homes battered by relentless Pacific waves as coastline crumbles</title>
-      <link>https://www.foxweather.com/weather-news/tropical-storm-rachel-waves-batter-vulnerable-california-coast</link>
-      <guid isPermaLink="false">6bad30996b1b8bc7da36695bbacd36407949301c</guid>
-      <pubDate>Wed, 14 Oct 2026 20:17:31 GMT</pubDate>
-      <description><![CDATA[Powerful Pacific storms have battered California’s coastline, damaging multimillion-dollar oceanfront homes, destroying sections of Long Beach’s historic boardwalk and accelerating coastal erosion along vulnerable beaches.]]></description>
       <category>weather</category>
     </item>
   </channel>
