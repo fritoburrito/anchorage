@@ -1,5 +1,45 @@
 [
   {
+    "title": "Bartlett Regional Hospital announces Fireweed Award recipients",
+    "link": "https://www.juneauempire.com/2026/10/17/bartlett-regional-hospital-announces-fireweed-award-recipients/",
+    "description": "4 employees were recognized for their exceptional care and service to the community",
+    "pubDate": "Sat, 17 Oct 2026 14:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
+    "title": "Bryan Norcross: Impactful nor'easter possible next week from North Carolina to New Jersey",
+    "link": "https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-north-carolina-new-jersey",
+    "description": "The contrast of the cold air behind the front and the warm Gulf Stream ocean water offshore of the Carolinas is expected to energize the formation of a low-pressure system \u2013 a nor'easter. Exactly how far offshore it will form, and where it moves, will make a tremendous difference in the severity of the impacts along the East Coast from North Carolina to at least New Jersey.",
+    "pubDate": "Sat, 17 Oct 2026 13:51:54 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "New CDC data reveals thousands of Juneau adults facing frequent mental distress",
+    "link": "https://www.juneauempire.com/2026/10/17/new-cdc-data-reveals-thousands-of-juneau-adults-facing-frequent-mental-distress/",
+    "description": "Around 3,700 adults in Juneau have reported having bad mental health for 14 or more days each month",
+    "pubDate": "Sat, 17 Oct 2026 12:30:00 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
+    "title": "I Went to the Woods: Online streaming feeds need for data centers",
+    "link": "https://www.juneauempire.com/2026/10/17/i-went-to-the-woods-online-streaming-feeds-need-for-data-centers/",
+    "description": "Data centers are a thing in the distance. It\u2019s \u201cthe cloud\u201d for most of us who haven\u2019t seen where our cloud is stored.",
+    "pubDate": "Sat, 17 Oct 2026 12:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
     "title": "Trump administration moves to reopen Alaska national preserves to bear baiting by sport hunters",
     "link": "https://alaskabeacon.com/2026/10/16/trump-administration-moves-to-reopen-alaska-national-preserves-to-bear-baiting-by-sport-hunters/",
     "description": "Sport hunters will be able to bait bears in Alaska national preserves, under a final rule the Trump administration announced on Friday. The rule, proposed in March, overturns bans by the Biden and Obama administrations of the practice within National Park Service units. Bear baiting, which involves use of food stockpiles to attract bears that [\u2026]",
@@ -300,6 +340,16 @@
     "rank": 100
   },
   {
+    "title": "Next fall nor'easter brewing, could threaten millions from Jersey Shore to Carolina coast later this weekend",
+    "link": "https://www.foxweather.com/weather-news/potential-coastal-storm-brewing-east-coast-next-week",
+    "description": "The potential for a coastal storm to develop along the East Coast early next week is growing, with numerous forecast models hinting at an area of low pressure forming off the Southeast coast.",
+    "pubDate": "Thu, 15 Oct 2026 19:15:08 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "Another coastal storm could be brewing for East Coast with impacts possible early next week",
     "link": "https://www.foxweather.com/weather-news/potential-coastal-storm-brewing-east-coast-next-week",
     "description": "The potential for a coastal storm to develop along the East Coast early next week is growing, with numerous forecast models hinting at an area of low pressure forming off the Southeast coast.",
@@ -350,54 +400,194 @@
     "rank": 100
   },
   {
-    "title": "Flood threat shifts to Central and West Texas after tropically enhanced storms slammed Southern Plains",
-    "link": "https://www.foxweather.com/weather-news/flood-threat-shifts-central-west-texas-after-tropically-enhanced-storms-slammed-southern-plains",
-    "description": "A dangerous flash flood threat is shifting south over parts of West Texas and the Texas Hill Country after tropically enhanced storms dropped more than 5 inches of rain on Oklahoma City Wednesday.",
-    "pubDate": "Thu, 15 Oct 2026 15:17:06 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+    "description": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
+    "pubDate": "Sat, 17 Oct 2026 14:25:10 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
   },
   {
-    "title": "New guide helps Alaskans shape data center conversations",
-    "link": "https://alaska-native-news.com/new-guide-helps-alaskans-shape-data-center-conversations/86731/",
-    "description": "As data centers and artificial intelligence raise new questions about energy, water, land, infrastructure, jobs and community priorities across Alaska, a new report from the University of Alaska Fairbanks offers a different way to approach the conversation. \u201cComputing in Place: A Conversation Guide on Data Centers for Alaskans, by Alaskans\u201d was developed by the Alaska Center [\u2026]",
-    "pubDate": "Thu, 15 Oct 2026 14:05:45 GMT",
-    "category": "interior",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Angel Reese is in the WNBA Finals, but her Chicago exit raises questions about her winning mentality",
+    "link": "https://www.foxnews.com/outkick-sports/angel-reese-wnba-finals-chicago-exit-raises-questions-winning-mentality",
+    "description": "Angel Reese addressed her role in the Chicago Sky trade during WNBA Finals media availability, revealing she helped choose Atlanta as her destination.",
+    "pubDate": "Sat, 17 Oct 2026 14:13:17 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Jury Convicts Kodiak Corrections Officer of Sexual Assault in the Third Degree",
-    "link": "https://alaska-native-news.com/jury-convicts-kodiak-corrections-officer-of-sexual-assault-in-the-third-degree/86733/",
-    "description": "(Kodiak, AK) \u2013 Tuesday, following a week-and-a-half long trial, a jury found 27-year-old Fredrick Fangonilo guilty of Sexual Assault in the Third Degree. The evidence at the trial established that Fangonilo was employed as a Corrections Officer at the Kodiak Jail from 2019 to 2023. In March 2022, Fangonilo brought a female prisoner at the [\u2026]",
-    "pubDate": "Thu, 15 Oct 2026 14:04:35 GMT",
-    "category": "culture",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Hard Rock Bet Promo Code: Bet $5, Get $500 in No Sweat Bets for College Football Week 7",
+    "link": "https://www.foxnews.com/outkick-betting/hard-rock-bet-promo-code-bet-5-get-500-no-sweat-bets-college-football-week-7",
+    "description": "Use Hard Rock Bet to wager $5 on College Football Week 7 and receive 10 No Sweat Bet tokens worth up to $500 if your qualifying bet loses.",
+    "pubDate": "Sat, 17 Oct 2026 14:01:39 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "A banner year for Coastal Connections Camps",
-    "link": "https://alaska-native-news.com/a-banner-year-for-coastal-connections-camps/86735/",
-    "description": "In 2026, Coastal Connections Camps added another coast. The Alaska Sea Grant-supported summer camp program expanded to a new site in Bethel, marking the first time it offered activities along the Bering Sea. It was part of a summer of growth for the five-year old program, which served a record 88 campers across nine camps [\u2026]",
-    "pubDate": "Thu, 15 Oct 2026 14:03:02 GMT",
-    "category": "culture",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "title": "Jessie James Decker used kitchen secret to win over NFL star husband in one weekend",
+    "link": "https://www.foxnews.com/entertainment/jessie-james-decker-kitchen-secret-win-nfl-star-husband-weekend",
+    "description": "Jessie James Decker reveals how she made husband Eric Decker fall in love with her in one weekend. Her \"The Secret Sauce\" cookbook is out now.",
+    "pubDate": "Sat, 17 Oct 2026 14:00:59 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Watchdog Sues Over Kushner Serving as \u2018Go-To Foreign Policy Negotiator\u2019 Sans Senate Confirmation",
-    "link": "https://alaska-native-news.com/watchdog-sues-over-kushner-serving-as-go-to-foreign-policy-negotiator-sans-senate-confirmation/86729/",
-    "description": "\u201cSenate confirmation processes and financial disclosures exist to ensure that qualified individuals are appointed and carry out their official duties with integrity. Kushner is not an exception.\u201d A government watchdog on Wednesday filed a lawsuit aimed at blocking Jared Kushner from serving as a top American foreign policy official while lacking confirmation from the US [\u2026]",
-    "pubDate": "Thu, 15 Oct 2026 14:02:54 GMT",
+    "title": "From handyman to House history: HVAC mogul Joe Strada pushes trade schools, business mindset in Florida race",
+    "link": "https://www.foxnews.com/politics/from-handyman-house-history-hvac-mogul-joe-strada-pushes-trade-schools-business-mindset-florida-race",
+    "description": "From humbling beginnings, Joe Strada built a half-billion dollar a year HVAC business; now he wants to bring his hard work, no-nonsense approach to Washington DC.",
+    "pubDate": "Sat, 17 Oct 2026 14:00:44 GMT",
     "category": "politics",
-    "tag": "alaska",
-    "source": "Alaska Native News",
-    "rank": 100
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "'Whalefall' Review: Austin Abrams is swallowed by a sperm whale in immersive survival drama",
+    "link": "https://www.foxnews.com/opinion/whalefall-review-austin-abrams-swallowed-sperm-whale-immersive-survival-drama",
+    "description": "Fox News Digital reviews 20th Century Studios' \"Whalefall\" starring Austin Abrams, Josh Brolin, John Ortiz and Elisabeth Shue. Directed by Brian Duffield.",
+    "pubDate": "Sat, 17 Oct 2026 14:00:28 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "7,000-year-old bones uncovered at construction site in startling find",
+    "link": "https://www.foxnews.com/travel/7000-year-old-bones-uncovered-construction-site-startling-find",
+    "description": "A 7,000-year-old skeleton from the Linear Pottery culture was found in Leipzig, Germany, during a school construction dig, marking the city's oldest grave.",
+    "pubDate": "Sat, 17 Oct 2026 14:00:06 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Betr Promo Code FOXNEWS Unlocks $200 in Bonuses and Free Picks for Week 7 College Football Action",
+    "link": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlocks-200-bonuses-free-picks-week-7-college-football-action",
+    "description": "Use Betr Promo Code FOXNEWS to get $200 in Betr Bucks for Saturday\u2019s College Football Week 7 games, including the day\u2019s top matchups.",
+    "pubDate": "Sat, 17 Oct 2026 13:56:04 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Pope discharged from hospital days after lung cancer surgery",
+    "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+    "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+    "pubDate": "Sat, 17 Oct 2026 13:51:36 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "BetMGM Bonus Code FOXNEWS: Cover Your First CFB Bet Today up to $1500 as Indiana Faces Ohio State",
+    "link": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-cfb-bet-today-up-1500-indiana-faces-ohio-state",
+    "description": "BetMGM promo code FOXNEWS offers new users up to $1,500 in bonus funds if their first wager loses on Indiana vs. Ohio State.",
+    "pubDate": "Sat, 17 Oct 2026 13:47:40 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Underdog Promo Code FOXNEWS: Play $5, Get $100 on Indiana vs Ohio State, Tennessee vs Alabama",
+    "link": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-5-get-100-indiana-vs-ohio-state-tennessee-vs-alabama",
+    "description": "Underdog promo code FOXNEWS lets new users play $5 and earn $100 in bonuses while watching Ohio State-Indiana and Alabama-Tennessee.",
+    "pubDate": "Sat, 17 Oct 2026 13:46:12 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Tennessee vs Alabama, BYU vs Notre Dame",
+    "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-tennessee-vs-alabama-byu-vs-notre-dame",
+    "description": "Bet $20 on Tennessee-Alabama or BYU-Notre Dame with Fanatics promo code FOXNEWS350 to earn $350 in FanCash as a new user.",
+    "pubDate": "Sat, 17 Oct 2026 13:42:53 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "More NHS staff sacked over attacks victims' records",
+    "link": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+    "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+    "pubDate": "Sat, 17 Oct 2026 13:18:32 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Violent clashes between police and protesters in Albania",
+    "link": "https://www.bbc.co.uk/news/videos/c8040dk1rnq4o?at_medium=RSS&at_campaign=rss",
+    "description": "Police in Albania's capital Tirana have fired tear gas and water cannons onto crowds gathered outside the Ministry of Education where students are among those protesting.",
+    "pubDate": "Sat, 17 Oct 2026 13:11:20 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+    "link": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+    "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+    "pubDate": "Sat, 17 Oct 2026 12:56:09 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+    "link": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
+    "description": "The BBC is on the ground at the Place de la R\u00e9publique, where protesters and police clash after weeks of students demonstrations.",
+    "pubDate": "Sat, 17 Oct 2026 12:14:52 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+    "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+    "description": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+    "pubDate": "Sat, 17 Oct 2026 12:11:58 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Perspective: Midterm money madness",
+    "link": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+    "description": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
+    "pubDate": "Sat, 17 Oct 2026 12:00:00 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+    "pubDate": "Sat, 17 Oct 2026 11:56:06 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
     "title": "Bears star Caleb Williams could reinjure hamstring by returning too soon, surgeon says",
@@ -410,220 +600,20 @@
     "rank": 10
   },
   {
-    "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
-    "link": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
-    "description": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.",
-    "pubDate": "Sat, 17 Oct 2026 11:43:14 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "The Cignetti effect is real: Indiana football sparks an unbelievable 'revival' in Bloomington",
-    "link": "https://www.foxnews.com/outkick-sports/cignetti-effect-real-indiana-football-sparks-unbelievable-revival-bloomington",
-    "description": "From Upstairs Pub to Memorial Stadium, Bloomington is electric as Curt Cignetti's Indiana football hosts a historic top-five Ohio State showdown.",
-    "pubDate": "Sat, 17 Oct 2026 11:24:56 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Pope Leo XIV to be discharged from hospital and return to Vatican after surgery to remove lung cancer",
-    "link": "https://www.foxnews.com/world/pope-leo-xiv-discharged-hospital-return-vatican-surgery-remove-lung-cancer",
-    "description": "Pope Leo XIV received blood tests and a chest X-ray at Gemelli Hospital confirming he is well enough to return to the Vatican after surgery.",
-    "pubDate": "Sat, 17 Oct 2026 11:19:52 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "MIKE DAVIS: Iowans can't afford a soft-on-crime attorney general",
-    "link": "https://www.foxnews.com/opinion/mike-davis-iowans-cant-afford-soft-crime-attorney-general",
-    "description": "A University of Iowa College of Law graduate argues Brenna Bird's cold-case murder convictions make her the attorney general Iowa needs reelected.",
-    "pubDate": "Sat, 17 Oct 2026 11:02:41 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Hasan Piker's influence tests breaking point of Democratic Party",
-    "link": "https://www.foxnews.com/media/outsider-y-hasan-piker-tests-whether-twitch-influence-translate-political-power",
-    "description": "Hasan Piker's Twitch influence is reshaping Democratic Party politics as DSA-aligned candidates gain momentum ahead of the 2026 midterm elections.",
-    "pubDate": "Sat, 17 Oct 2026 11:00:32 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Serial killer's ex-wife slept beside murderer for 8 years, never suspected his deadly double life",
-    "link": "https://www.foxnews.com/us/serial-killer-ex-wife-slept-beside-murderer-8-years-never-suspected-deadly-double-life",
-    "description": "Bonnie Lou Gower reveals the haunting warning signs she missed while sharing a bed with serial killer Richard Evonitz for over eight years.",
-    "pubDate": "Sat, 17 Oct 2026 11:00:19 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
-    "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
-    "description": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
-    "pubDate": "Sat, 17 Oct 2026 11:00:11 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Ilhan Omar's turbulent week explained: The dueling probes that threw the Somali-born progressive into chaos",
-    "link": "https://www.foxnews.com/politics/ilhan-omars-turbulent-week-explained-dueling-probes-threw-somali-born-progressive-chaos",
-    "description": "Federal agents raided Ilhan Omar's D.C. home, seizing her phone, computers and passport as part of a criminal probe into immigration fraud.",
-    "pubDate": "Sat, 17 Oct 2026 11:00:10 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
-    "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
-    "description": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's past are still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.",
-    "pubDate": "Sat, 17 Oct 2026 11:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
-    "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
-    "description": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
-    "pubDate": "Sat, 17 Oct 2026 10:46:41 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Income inequality at Obama Foundation, as brass thrives and rank and file seeks union",
-    "link": "https://www.foxnews.com/politics/income-inequality-obama-foundation-brass-thrives-rank-file-seeks-union",
-    "description": "Half of the Obama Foundation's reported workforce topped $100,000 in pay, outpacing five other presidential nonprofits examined in recent tax filings.",
-    "pubDate": "Sat, 17 Oct 2026 10:18:27 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "'No Kings' foot soldiers ignore organizers' warning, go all in for Democrats",
-    "link": "https://www.foxnews.com/politics/no-kings-says-dont-partisan-politics-300-groups-protest-network-organizers-say-vote-blue",
-    "description": "\"No Kings\" organizers promote \"Vote Blue\" and partisan slogans that their own national coalition rulebook explicitly prohibits at Saturday's rallies.",
-    "pubDate": "Sat, 17 Oct 2026 10:02:40 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Jerry Seinfeld turns tables on radical anti-Israel agitators after chaotic Chicago stunt backfires",
-    "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires",
-    "description": "Viral video shows Jerry Seinfeld dancing and mocking anti-Israel hecklers at the Chicago Theatre as security escorted protesters from the venue.",
-    "pubDate": "Sat, 17 Oct 2026 10:00:48 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "No Kings turns its focus to voting this weekend. Here's what we know",
-    "link": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
-    "description": "The coalition behind nationwide anti-Trump protests is shifting its strategies this weekend to focus on voter turnout. Organizers say Saturday's events are a nonpartisan effort to get people to the polls.",
-    "pubDate": "Sat, 17 Oct 2026 09:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
-    "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
-    "description": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own \u2014 and on the street.",
-    "pubDate": "Sat, 17 Oct 2026 09:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
-    "link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
-    "description": "President Trump's midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans.",
-    "pubDate": "Sat, 17 Oct 2026 09:00:00 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Weddings are expensive. How about a grocery store cake?",
-    "link": "https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes",
-    "description": "About a third of couples are willing to save money on cake and dessert, according to the wedding-planning site Zola.",
-    "pubDate": "Sat, 17 Oct 2026 09:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Coastal homes burn as hot winds fuel California fires",
-    "link": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
-    "description": "High winds are fueling a fast-moving fire that has burned homes in Southern California. Flames engulfed expensive coastal properties and prompted thousands to evacuate.",
-    "pubDate": "Sat, 17 Oct 2026 08:20:00 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Swinney insists 'stars are aligning' for Scottish independence",
-    "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
-    "description": "The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's \"journey to nationhood\".",
-    "pubDate": "Sat, 17 Oct 2026 08:17:18 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: Tonight - Mostly Cloudy then Slight Chance Light Rain",
+    "title": "Anchorage Weather: Today - Slight Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "36\u00b0F. Wind  0 mph. A slight chance of rain after 4am. Mostly cloudy, with a low around 36. Northeast wind around 0 mph. Chance of precipitation is 20%.",
-    "pubDate": "Sat, 17 Oct 2026 11:56:33 GMT",
+    "description": "43\u00b0F. Wind N 0 to 5 mph. A slight chance of rain between 7am and 1pm, then a slight chance of rain showers between 1pm and 4pm. Partly sunny, with a high near 43. North wind 0 to 5 mph. Chance of precipitation is 20%.",
+    "pubDate": "Sat, 17 Oct 2026 14:59:14 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Saturday - Slight Chance Light Rain",
+    "title": "Anchorage Weather: Tonight - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "42\u00b0F. Wind N 0 to 5 mph. A slight chance of rain before 1pm, then a slight chance of rain showers. Partly sunny, with a high near 42. North wind 0 to 5 mph. Chance of precipitation is 20%.",
-    "pubDate": "Sat, 17 Oct 2026 11:56:33 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "National Weather Service Anchorage",
-    "rank": 0
-  },
-  {
-    "title": "Anchorage Weather: Saturday Night - Slight Chance Rain And Snow Showers",
-    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "30\u00b0F. Wind N 0 to 5 mph. A slight chance of rain showers before 7pm, then a slight chance of rain and snow showers between 7pm and 1am. Mostly cloudy, with a low around 30. North wind 0 to 5 mph. Chance of precipitation is 20%.",
-    "pubDate": "Sat, 17 Oct 2026 11:56:33 GMT",
+    "description": "30\u00b0F. Wind N 5 mph. Partly cloudy, with a low around 30. North wind around 5 mph.",
+    "pubDate": "Sat, 17 Oct 2026 14:59:14 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -632,18 +622,28 @@
   {
     "title": "Anchorage Weather: Sunday - Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "41\u00b0F. Wind N 0 to 5 mph. Mostly sunny, with a high near 41. North wind 0 to 5 mph.",
-    "pubDate": "Sat, 17 Oct 2026 11:56:33 GMT",
+    "description": "40\u00b0F. Wind N 0 to 5 mph. Mostly sunny, with a high near 40. North wind 0 to 5 mph.",
+    "pubDate": "Sat, 17 Oct 2026 14:59:14 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Sunday Night - Chance Light Rain then Chance Rain And Snow",
+    "title": "Anchorage Weather: Sunday Night - Chance Rain And Snow",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "33\u00b0F. Wind NE 0 to 5 mph. A chance of rain between 10pm and 4am, then a chance of rain and snow. Mostly cloudy, with a low around 33. Northeast wind 0 to 5 mph. Chance of precipitation is 50%.",
-    "pubDate": "Sat, 17 Oct 2026 11:56:33 GMT",
+    "description": "32\u00b0F. Wind NE 0 to 5 mph. A chance of rain and snow after 10pm. Mostly cloudy, with a low around 32. Northeast wind 0 to 5 mph. Chance of precipitation is 50%.",
+    "pubDate": "Sat, 17 Oct 2026 14:59:14 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "National Weather Service Anchorage",
+    "rank": 0
+  },
+  {
+    "title": "Anchorage Weather: Monday - Rain And Snow Likely",
+    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+    "description": "40\u00b0F. Wind NE 5 mph. Rain and snow likely. Cloudy, with a high near 40. Northeast wind around 5 mph. Chance of precipitation is 70%.",
+    "pubDate": "Sat, 17 Oct 2026 14:59:14 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",

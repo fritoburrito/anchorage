@@ -5,54 +5,78 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 11:00:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:59:14 GMT</lastBuildDate>
     <item>
-      <title>Hasan Piker's influence tests breaking point of Democratic Party</title>
-      <link>https://www.foxnews.com/media/outsider-y-hasan-piker-tests-whether-twitch-influence-translate-political-power</link>
-      <guid isPermaLink="false">cef1a0e604cec9aa3bbb4ac796ad5d10eca19cb4</guid>
-      <pubDate>Sat, 17 Oct 2026 11:00:32 GMT</pubDate>
-      <description><![CDATA[Hasan Piker's Twitch influence is reshaping Democratic Party politics as DSA-aligned candidates gain momentum ahead of the 2026 midterm elections.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight - Mostly Cloudy then Slight Chance Light Rain</title>
+      <title>Anchorage Weather: Today - Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 17 Oct 2026 11:56:33 GMT</pubDate>
-      <description><![CDATA[36°F. Wind  0 mph. A slight chance of rain after 4am. Mostly cloudy, with a low around 36. Northeast wind around 0 mph. Chance of precipitation is 20%.]]></description>
+      <pubDate>Sat, 17 Oct 2026 14:59:14 GMT</pubDate>
+      <description><![CDATA[43°F. Wind N 0 to 5 mph. A slight chance of rain between 7am and 1pm, then a slight chance of rain showers between 1pm and 4pm. Partly sunny, with a high near 43. North wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday - Slight Chance Light Rain</title>
+      <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 17 Oct 2026 11:56:33 GMT</pubDate>
-      <description><![CDATA[42°F. Wind N 0 to 5 mph. A slight chance of rain before 1pm, then a slight chance of rain showers. Partly sunny, with a high near 42. North wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Saturday Night - Slight Chance Rain And Snow Showers</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 17 Oct 2026 11:56:33 GMT</pubDate>
-      <description><![CDATA[30°F. Wind N 0 to 5 mph. A slight chance of rain showers before 7pm, then a slight chance of rain and snow showers between 7pm and 1am. Mostly cloudy, with a low around 30. North wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
+      <pubDate>Sat, 17 Oct 2026 14:59:14 GMT</pubDate>
+      <description><![CDATA[30°F. Wind N 5 mph. Partly cloudy, with a low around 30. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Sunday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 17 Oct 2026 11:56:33 GMT</pubDate>
-      <description><![CDATA[41°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 41. North wind 0 to 5 mph.]]></description>
+      <pubDate>Sat, 17 Oct 2026 14:59:14 GMT</pubDate>
+      <description><![CDATA[40°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 40. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday Night - Chance Light Rain then Chance Rain And Snow</title>
+      <title>Anchorage Weather: Sunday Night - Chance Rain And Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 17 Oct 2026 11:56:33 GMT</pubDate>
-      <description><![CDATA[33°F. Wind NE 0 to 5 mph. A chance of rain between 10pm and 4am, then a chance of rain and snow. Mostly cloudy, with a low around 33. Northeast wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
+      <pubDate>Sat, 17 Oct 2026 14:59:14 GMT</pubDate>
+      <description><![CDATA[32°F. Wind NE 0 to 5 mph. A chance of rain and snow after 10pm. Mostly cloudy, with a low around 32. Northeast wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday - Rain And Snow Likely</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sat, 17 Oct 2026 14:59:14 GMT</pubDate>
+      <description><![CDATA[40°F. Wind NE 5 mph. Rain and snow likely. Cloudy, with a high near 40. Northeast wind around 5 mph. Chance of precipitation is 70%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Bartlett Regional Hospital announces Fireweed Award recipients</title>
+      <link>https://www.juneauempire.com/2026/10/17/bartlett-regional-hospital-announces-fireweed-award-recipients/</link>
+      <guid isPermaLink="false">17bb0cd00dfa042f9081fed99ec8c999f1b15ca4</guid>
+      <pubDate>Sat, 17 Oct 2026 14:30:00 GMT</pubDate>
+      <description><![CDATA[4 employees were recognized for their exceptional care and service to the community]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Hard Rock Bet Promo Code: Bet $5, Get $500 in No Sweat Bets for College Football Week 7</title>
+      <link>https://www.foxnews.com/outkick-betting/hard-rock-bet-promo-code-bet-5-get-500-no-sweat-bets-college-football-week-7</link>
+      <guid isPermaLink="false">49e8286025022d9d99b8722d7df05da8c5bd597b</guid>
+      <pubDate>Sat, 17 Oct 2026 14:01:39 GMT</pubDate>
+      <description><![CDATA[Use Hard Rock Bet to wager $5 on College Football Week 7 and receive 10 No Sweat Bet tokens worth up to $500 if your qualifying bet loses.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>New CDC data reveals thousands of Juneau adults facing frequent mental distress</title>
+      <link>https://www.juneauempire.com/2026/10/17/new-cdc-data-reveals-thousands-of-juneau-adults-facing-frequent-mental-distress/</link>
+      <guid isPermaLink="false">5b7647bb9995ba413a4e7f1315573a79c4d666d4</guid>
+      <pubDate>Sat, 17 Oct 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Around 3,700 adults in Juneau have reported having bad mental health for 14 or more days each month]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>I Went to the Woods: Online streaming feeds need for data centers</title>
+      <link>https://www.juneauempire.com/2026/10/17/i-went-to-the-woods-online-streaming-feeds-need-for-data-centers/</link>
+      <guid isPermaLink="false">7eea7bd58c9c04a7b7a09ca9c84784afb4614315</guid>
+      <pubDate>Sat, 17 Oct 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Data centers are a thing in the distance. It’s “the cloud” for most of us who haven’t seen where our cloud is stored.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Trump administration moves to reopen Alaska national preserves to bear baiting by sport hunters</title>
@@ -263,36 +287,156 @@
       <category>local</category>
     </item>
     <item>
-      <title>New guide helps Alaskans shape data center conversations</title>
-      <link>https://alaska-native-news.com/new-guide-helps-alaskans-shape-data-center-conversations/86731/</link>
-      <guid isPermaLink="false">6557cf53430dbdeff59e1f8ad171746625aaf9f3</guid>
-      <pubDate>Thu, 15 Oct 2026 14:05:45 GMT</pubDate>
-      <description><![CDATA[As data centers and artificial intelligence raise new questions about energy, water, land, infrastructure, jobs and community priorities across Alaska, a new report from the University of Alaska Fairbanks offers a different way to approach the conversation. “Computing in Place: A Conversation Guide on Data Centers for Alaskans, by Alaskans” was developed by the Alaska Center […]]]></description>
-      <category>local</category>
+      <title>Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold</title>
+      <link>https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia</link>
+      <guid isPermaLink="false">79f6bbd497cff1a61ea5b2819b0dced237f05666</guid>
+      <pubDate>Sat, 17 Oct 2026 14:25:10 GMT</pubDate>
+      <description><![CDATA[Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Jury Convicts Kodiak Corrections Officer of Sexual Assault in the Third Degree</title>
-      <link>https://alaska-native-news.com/jury-convicts-kodiak-corrections-officer-of-sexual-assault-in-the-third-degree/86733/</link>
-      <guid isPermaLink="false">db499cbc1ee256d7c06fac6036e6f473d96f21c8</guid>
-      <pubDate>Thu, 15 Oct 2026 14:04:35 GMT</pubDate>
-      <description><![CDATA[(Kodiak, AK) – Tuesday, following a week-and-a-half long trial, a jury found 27-year-old Fredrick Fangonilo guilty of Sexual Assault in the Third Degree. The evidence at the trial established that Fangonilo was employed as a Corrections Officer at the Kodiak Jail from 2019 to 2023. In March 2022, Fangonilo brought a female prisoner at the […]]]></description>
-      <category>local</category>
+      <title>Angel Reese is in the WNBA Finals, but her Chicago exit raises questions about her winning mentality</title>
+      <link>https://www.foxnews.com/outkick-sports/angel-reese-wnba-finals-chicago-exit-raises-questions-winning-mentality</link>
+      <guid isPermaLink="false">2c2d7e1bbb2e6f7884e6ca65d37ebd68cf5e7262</guid>
+      <pubDate>Sat, 17 Oct 2026 14:13:17 GMT</pubDate>
+      <description><![CDATA[Angel Reese addressed her role in the Chicago Sky trade during WNBA Finals media availability, revealing she helped choose Atlanta as her destination.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>A banner year for Coastal Connections Camps</title>
-      <link>https://alaska-native-news.com/a-banner-year-for-coastal-connections-camps/86735/</link>
-      <guid isPermaLink="false">bdbeebe68b0f4afcd591359b353a398af2b1c464</guid>
-      <pubDate>Thu, 15 Oct 2026 14:03:02 GMT</pubDate>
-      <description><![CDATA[In 2026, Coastal Connections Camps added another coast. The Alaska Sea Grant-supported summer camp program expanded to a new site in Bethel, marking the first time it offered activities along the Bering Sea. It was part of a summer of growth for the five-year old program, which served a record 88 campers across nine camps […]]]></description>
-      <category>local</category>
+      <title>Jessie James Decker used kitchen secret to win over NFL star husband in one weekend</title>
+      <link>https://www.foxnews.com/entertainment/jessie-james-decker-kitchen-secret-win-nfl-star-husband-weekend</link>
+      <guid isPermaLink="false">cdc43d3182d9ec84e15125b54638d5558ed94163</guid>
+      <pubDate>Sat, 17 Oct 2026 14:00:59 GMT</pubDate>
+      <description><![CDATA[Jessie James Decker reveals how she made husband Eric Decker fall in love with her in one weekend. Her "The Secret Sauce" cookbook is out now.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Watchdog Sues Over Kushner Serving as ‘Go-To Foreign Policy Negotiator’ Sans Senate Confirmation</title>
-      <link>https://alaska-native-news.com/watchdog-sues-over-kushner-serving-as-go-to-foreign-policy-negotiator-sans-senate-confirmation/86729/</link>
-      <guid isPermaLink="false">5ecb2292195dbfcf2bd9ad9b672040e9b7d786e0</guid>
-      <pubDate>Thu, 15 Oct 2026 14:02:54 GMT</pubDate>
-      <description><![CDATA[“Senate confirmation processes and financial disclosures exist to ensure that qualified individuals are appointed and carry out their official duties with integrity. Kushner is not an exception.” A government watchdog on Wednesday filed a lawsuit aimed at blocking Jared Kushner from serving as a top American foreign policy official while lacking confirmation from the US […]]]></description>
-      <category>local</category>
+      <title>From handyman to House history: HVAC mogul Joe Strada pushes trade schools, business mindset in Florida race</title>
+      <link>https://www.foxnews.com/politics/from-handyman-house-history-hvac-mogul-joe-strada-pushes-trade-schools-business-mindset-florida-race</link>
+      <guid isPermaLink="false">bb5483e57224f5df99e541de6f2f70639a80e61a</guid>
+      <pubDate>Sat, 17 Oct 2026 14:00:44 GMT</pubDate>
+      <description><![CDATA[From humbling beginnings, Joe Strada built a half-billion dollar a year HVAC business; now he wants to bring his hard work, no-nonsense approach to Washington DC.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>'Whalefall' Review: Austin Abrams is swallowed by a sperm whale in immersive survival drama</title>
+      <link>https://www.foxnews.com/opinion/whalefall-review-austin-abrams-swallowed-sperm-whale-immersive-survival-drama</link>
+      <guid isPermaLink="false">a54c7d470123e15282c6058628d23dc7d1ff2520</guid>
+      <pubDate>Sat, 17 Oct 2026 14:00:28 GMT</pubDate>
+      <description><![CDATA[Fox News Digital reviews 20th Century Studios' "Whalefall" starring Austin Abrams, Josh Brolin, John Ortiz and Elisabeth Shue. Directed by Brian Duffield.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>7,000-year-old bones uncovered at construction site in startling find</title>
+      <link>https://www.foxnews.com/travel/7000-year-old-bones-uncovered-construction-site-startling-find</link>
+      <guid isPermaLink="false">2267ec8d579f9c77665c82b05e386619407a40ed</guid>
+      <pubDate>Sat, 17 Oct 2026 14:00:06 GMT</pubDate>
+      <description><![CDATA[A 7,000-year-old skeleton from the Linear Pottery culture was found in Leipzig, Germany, during a school construction dig, marking the city's oldest grave.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Betr Promo Code FOXNEWS Unlocks $200 in Bonuses and Free Picks for Week 7 College Football Action</title>
+      <link>https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlocks-200-bonuses-free-picks-week-7-college-football-action</link>
+      <guid isPermaLink="false">f8bbde469fb0380ceaf558172e33114806b4931e</guid>
+      <pubDate>Sat, 17 Oct 2026 13:56:04 GMT</pubDate>
+      <description><![CDATA[Use Betr Promo Code FOXNEWS to get $200 in Betr Bucks for Saturday’s College Football Week 7 games, including the day’s top matchups.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bryan Norcross: Impactful nor'easter possible next week from North Carolina to New Jersey</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-north-carolina-new-jersey</link>
+      <guid isPermaLink="false">941176d4df57001d5ed5a84303ad48ea6b806be8</guid>
+      <pubDate>Sat, 17 Oct 2026 13:51:54 GMT</pubDate>
+      <description><![CDATA[The contrast of the cold air behind the front and the warm Gulf Stream ocean water offshore of the Carolinas is expected to energize the formation of a low-pressure system – a nor'easter. Exactly how far offshore it will form, and where it moves, will make a tremendous difference in the severity of the impacts along the East Coast from North Carolina to at least New Jersey.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Pope discharged from hospital days after lung cancer surgery</title>
+      <link>https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4e7ca8650904ea5a096d98dbf9c76ae8f2f665d9</guid>
+      <pubDate>Sat, 17 Oct 2026 13:51:36 GMT</pubDate>
+      <description><![CDATA[The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BetMGM Bonus Code FOXNEWS: Cover Your First CFB Bet Today up to $1500 as Indiana Faces Ohio State</title>
+      <link>https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-cfb-bet-today-up-1500-indiana-faces-ohio-state</link>
+      <guid isPermaLink="false">f11a5f771ddac05f52da6d1948ac0694e6254c09</guid>
+      <pubDate>Sat, 17 Oct 2026 13:47:40 GMT</pubDate>
+      <description><![CDATA[BetMGM promo code FOXNEWS offers new users up to $1,500 in bonus funds if their first wager loses on Indiana vs. Ohio State.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Underdog Promo Code FOXNEWS: Play $5, Get $100 on Indiana vs Ohio State, Tennessee vs Alabama</title>
+      <link>https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-5-get-100-indiana-vs-ohio-state-tennessee-vs-alabama</link>
+      <guid isPermaLink="false">170dd2e9ab60dfb653aacce6c2345af7bda89c5b</guid>
+      <pubDate>Sat, 17 Oct 2026 13:46:12 GMT</pubDate>
+      <description><![CDATA[Underdog promo code FOXNEWS lets new users play $5 and earn $100 in bonuses while watching Ohio State-Indiana and Alabama-Tennessee.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Tennessee vs Alabama, BYU vs Notre Dame</title>
+      <link>https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-tennessee-vs-alabama-byu-vs-notre-dame</link>
+      <guid isPermaLink="false">a5f24cc2709f308675d9607830e17a1fa0cb4907</guid>
+      <pubDate>Sat, 17 Oct 2026 13:42:53 GMT</pubDate>
+      <description><![CDATA[Bet $20 on Tennessee-Alabama or BYU-Notre Dame with Fanatics promo code FOXNEWS350 to earn $350 in FanCash as a new user.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>More NHS staff sacked over attacks victims' records</title>
+      <link>https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">42c845642576e080700293c8e6f764ab8418b1fb</guid>
+      <pubDate>Sat, 17 Oct 2026 13:18:32 GMT</pubDate>
+      <description><![CDATA[Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Violent clashes between police and protesters in Albania</title>
+      <link>https://www.bbc.co.uk/news/videos/c8040dk1rnq4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6809a0bfa7520d35fe7b00cb324687a81177fb81</guid>
+      <pubDate>Sat, 17 Oct 2026 13:11:20 GMT</pubDate>
+      <description><![CDATA[Police in Albania's capital Tirana have fired tear gas and water cannons onto crowds gathered outside the Ministry of Education where students are among those protesting.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>UK must protect against Russian 'hybrid attacks', ex-national security adviser says</title>
+      <link>https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">795a89cbd118b31c26f33aa8ad6ab9b0014807f5</guid>
+      <pubDate>Sat, 17 Oct 2026 12:56:09 GMT</pubDate>
+      <description><![CDATA[Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Watch: 'Mood has really shifted' as Paris protesters clash with police</title>
+      <link>https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">411cf3efb604697eb7eeccb93b6859a31975b3e4</guid>
+      <pubDate>Sat, 17 Oct 2026 12:14:52 GMT</pubDate>
+      <description><![CDATA[The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nursery owner in China jailed for life after hundreds of children poisoned</title>
+      <link>https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a01117fa064bff30b74e981f1dbe6525460a817d</guid>
+      <pubDate>Sat, 17 Oct 2026 12:11:58 GMT</pubDate>
+      <description><![CDATA[She and five staff members were found to have used the inedible paint in meals to make them look more appealing.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Perspective: Midterm money madness</title>
+      <link>https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness</link>
+      <guid isPermaLink="false">888533486d5b6d3d09de0d2d83a5cc2d84572a50</guid>
+      <pubDate>Sat, 17 Oct 2026 12:00:00 GMT</pubDate>
+      <description><![CDATA[Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Trump waives several Russia sanctions as row with Zelensky intensifies</title>
+      <link>https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b6bb1637df093af8d24731283945ba5f85f87e20</guid>
+      <pubDate>Sat, 17 Oct 2026 11:56:06 GMT</pubDate>
+      <description><![CDATA[The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Bears star Caleb Williams could reinjure hamstring by returning too soon, surgeon says</title>
@@ -300,150 +444,6 @@
       <guid isPermaLink="false">bef0cc1504dab5c7f385f69bd2a0b1acd98b2876</guid>
       <pubDate>Sat, 17 Oct 2026 11:46:38 GMT</pubDate>
       <description><![CDATA[Chicago Bears star Caleb Williams called his hamstring injury "pretty serious" after feeling a pop, and a surgeon warns rushing back could put him at even greater risk.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fraud, affordability and Trump policies drive friction in Minnesota Senate debate</title>
-      <link>https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race</link>
-      <guid isPermaLink="false">16c5c6477bba56a5afcba81343c0058d3dc15533</guid>
-      <pubDate>Sat, 17 Oct 2026 11:43:14 GMT</pubDate>
-      <description><![CDATA[The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>The Cignetti effect is real: Indiana football sparks an unbelievable 'revival' in Bloomington</title>
-      <link>https://www.foxnews.com/outkick-sports/cignetti-effect-real-indiana-football-sparks-unbelievable-revival-bloomington</link>
-      <guid isPermaLink="false">1f8e4541a2747a8dcb116954c6011e703c7050d1</guid>
-      <pubDate>Sat, 17 Oct 2026 11:24:56 GMT</pubDate>
-      <description><![CDATA[From Upstairs Pub to Memorial Stadium, Bloomington is electric as Curt Cignetti's Indiana football hosts a historic top-five Ohio State showdown.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Pope Leo XIV to be discharged from hospital and return to Vatican after surgery to remove lung cancer</title>
-      <link>https://www.foxnews.com/world/pope-leo-xiv-discharged-hospital-return-vatican-surgery-remove-lung-cancer</link>
-      <guid isPermaLink="false">a81041e17437d684f0f74776b024b6ca1719da72</guid>
-      <pubDate>Sat, 17 Oct 2026 11:19:52 GMT</pubDate>
-      <description><![CDATA[Pope Leo XIV received blood tests and a chest X-ray at Gemelli Hospital confirming he is well enough to return to the Vatican after surgery.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>MIKE DAVIS: Iowans can't afford a soft-on-crime attorney general</title>
-      <link>https://www.foxnews.com/opinion/mike-davis-iowans-cant-afford-soft-crime-attorney-general</link>
-      <guid isPermaLink="false">daa36003c4adb170703a9ceb13d4e3ffae6c548f</guid>
-      <pubDate>Sat, 17 Oct 2026 11:02:41 GMT</pubDate>
-      <description><![CDATA[A University of Iowa College of Law graduate argues Brenna Bird's cold-case murder convictions make her the attorney general Iowa needs reelected.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Serial killer's ex-wife slept beside murderer for 8 years, never suspected his deadly double life</title>
-      <link>https://www.foxnews.com/us/serial-killer-ex-wife-slept-beside-murderer-8-years-never-suspected-deadly-double-life</link>
-      <guid isPermaLink="false">bb7fa2602318060a02f3cadd59af2499871b6bb2</guid>
-      <pubDate>Sat, 17 Oct 2026 11:00:19 GMT</pubDate>
-      <description><![CDATA[Bonnie Lou Gower reveals the haunting warning signs she missed while sharing a bed with serial killer Richard Evonitz for over eight years.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond</title>
-      <link>https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">426ad6ca84702303422b2a4a729c18c67a8cd1c8</guid>
-      <pubDate>Sat, 17 Oct 2026 11:00:11 GMT</pubDate>
-      <description><![CDATA[Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ilhan Omar's turbulent week explained: The dueling probes that threw the Somali-born progressive into chaos</title>
-      <link>https://www.foxnews.com/politics/ilhan-omars-turbulent-week-explained-dueling-probes-threw-somali-born-progressive-chaos</link>
-      <guid isPermaLink="false">688044c80e021818b3636d1afecf65289c0ac492</guid>
-      <pubDate>Sat, 17 Oct 2026 11:00:10 GMT</pubDate>
-      <description><![CDATA[Federal agents raided Ilhan Omar's D.C. home, seizing her phone, computers and passport as part of a criminal probe into immigration fraud.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Decades after apartheid, South Africans seek justice for crimes of the past</title>
-      <link>https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid</link>
-      <guid isPermaLink="false">4b79f6fe84817bf784c4c0b2cd143a8f0e127b3a</guid>
-      <pubDate>Sat, 17 Oct 2026 11:00:00 GMT</pubDate>
-      <description><![CDATA[More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's past are still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Rare pink diamond goes on display in France 100 years after amateur heist</title>
-      <link>https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7c206f125f05b5762df6c35bd6f26b568dd2cd3d</guid>
-      <pubDate>Sat, 17 Oct 2026 10:46:41 GMT</pubDate>
-      <description><![CDATA[The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Income inequality at Obama Foundation, as brass thrives and rank and file seeks union</title>
-      <link>https://www.foxnews.com/politics/income-inequality-obama-foundation-brass-thrives-rank-file-seeks-union</link>
-      <guid isPermaLink="false">8596eb96bb6efc5888a5a4445ac4a2871cbdc88d</guid>
-      <pubDate>Sat, 17 Oct 2026 10:18:27 GMT</pubDate>
-      <description><![CDATA[Half of the Obama Foundation's reported workforce topped $100,000 in pay, outpacing five other presidential nonprofits examined in recent tax filings.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'No Kings' foot soldiers ignore organizers' warning, go all in for Democrats</title>
-      <link>https://www.foxnews.com/politics/no-kings-says-dont-partisan-politics-300-groups-protest-network-organizers-say-vote-blue</link>
-      <guid isPermaLink="false">9bb9ff1156a8b77cf6adee73e8cbd87e6bc75994</guid>
-      <pubDate>Sat, 17 Oct 2026 10:02:40 GMT</pubDate>
-      <description><![CDATA["No Kings" organizers promote "Vote Blue" and partisan slogans that their own national coalition rulebook explicitly prohibits at Saturday's rallies.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Jerry Seinfeld turns tables on radical anti-Israel agitators after chaotic Chicago stunt backfires</title>
-      <link>https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires</link>
-      <guid isPermaLink="false">88843b56a1378a41c5e2214da8d96cea790ae22a</guid>
-      <pubDate>Sat, 17 Oct 2026 10:00:48 GMT</pubDate>
-      <description><![CDATA[Viral video shows Jerry Seinfeld dancing and mocking anti-Israel hecklers at the Chicago Theatre as security escorted protesters from the venue.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>No Kings turns its focus to voting this weekend. Here's what we know</title>
-      <link>https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump</link>
-      <guid isPermaLink="false">b759e7447d784e03b295cf4137f8a9eab40ae1a7</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[The coalition behind nationwide anti-Trump protests is shifting its strategies this weekend to focus on voter turnout. Organizers say Saturday's events are a nonpartisan effort to get people to the polls.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital</title>
-      <link>https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk</link>
-      <guid isPermaLink="false">aa5023d79336e87a74cd0aca9aa04d1ad9017e82</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own — and on the street.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump promised a swing district blitz. He's going to a lot of very red states</title>
-      <link>https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms</link>
-      <guid isPermaLink="false">ea0bcaeafae23e9159192d0f846c9b7f8f352a13</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[President Trump's midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Weddings are expensive. How about a grocery store cake?</title>
-      <link>https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes</link>
-      <guid isPermaLink="false">1f32f79a3bdd622f264803db7cb1c50a8d053479</guid>
-      <pubDate>Sat, 17 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[About a third of couples are willing to save money on cake and dessert, according to the wedding-planning site Zola.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Coastal homes burn as hot winds fuel California fires</title>
-      <link>https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires</link>
-      <guid isPermaLink="false">578d42c876c66e1d2e8bc5bb9fc365eec139c0f8</guid>
-      <pubDate>Sat, 17 Oct 2026 08:20:00 GMT</pubDate>
-      <description><![CDATA[High winds are fueling a fast-moving fire that has burned homes in Southern California. Flames engulfed expensive coastal properties and prompted thousands to evacuate.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Swinney insists 'stars are aligning' for Scottish independence</title>
-      <link>https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3201920d35af96ac5c2bce23f162cd596f889800</guid>
-      <pubDate>Sat, 17 Oct 2026 08:17:18 GMT</pubDate>
-      <description><![CDATA[The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's "journey to nationhood".]]></description>
       <category>world</category>
     </item>
     <item>
@@ -495,6 +495,14 @@
       <category>weather</category>
     </item>
     <item>
+      <title>Next fall nor'easter brewing, could threaten millions from Jersey Shore to Carolina coast later this weekend</title>
+      <link>https://www.foxweather.com/weather-news/potential-coastal-storm-brewing-east-coast-next-week</link>
+      <guid isPermaLink="false">0864f8f0d2acb06931636d16d3de1c117afcc885</guid>
+      <pubDate>Thu, 15 Oct 2026 19:15:08 GMT</pubDate>
+      <description><![CDATA[The potential for a coastal storm to develop along the East Coast early next week is growing, with numerous forecast models hinting at an area of low pressure forming off the Southeast coast.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
       <title>Another coastal storm could be brewing for East Coast with impacts possible early next week</title>
       <link>https://www.foxweather.com/weather-news/potential-coastal-storm-brewing-east-coast-next-week</link>
       <guid isPermaLink="false">0864f8f0d2acb06931636d16d3de1c117afcc885</guid>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">7ce42a6a805ea70515bb299f29b3d27bf486b504</guid>
       <pubDate>Thu, 15 Oct 2026 16:17:39 GMT</pubDate>
       <description><![CDATA[El Niño is expected to have a large influence on this winter across the U.S., with more storms expected from Southern California across the entire Southern Tier to Florida, according to NOAA's latest seasonal forecast.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Flood threat shifts to Central and West Texas after tropically enhanced storms slammed Southern Plains</title>
-      <link>https://www.foxweather.com/weather-news/flood-threat-shifts-central-west-texas-after-tropically-enhanced-storms-slammed-southern-plains</link>
-      <guid isPermaLink="false">c997f0f1dd373a822190f5c9163015ab79f9c184</guid>
-      <pubDate>Thu, 15 Oct 2026 15:17:06 GMT</pubDate>
-      <description><![CDATA[A dangerous flash flood threat is shifting south over parts of West Texas and the Texas Hill Country after tropically enhanced storms dropped more than 5 inches of rain on Oklahoma City Wednesday.]]></description>
       <category>weather</category>
     </item>
   </channel>
