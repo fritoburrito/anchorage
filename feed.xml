@@ -5,23 +5,7 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 12:00:55 GMT</lastBuildDate>
-    <item>
-      <title>2,000-year-old treasure discovered beneath former sports field, breaking regional record</title>
-      <link>https://www.foxnews.com/travel/2000-year-old-treasure-discovered-beneath-former-sports-field-breaking-regional-record</link>
-      <guid isPermaLink="false">ca03ff3c3483a75f05590a0bf2f3064ccbd27aac</guid>
-      <pubDate>Wed, 21 Oct 2026 12:00:55 GMT</pubDate>
-      <description><![CDATA[Archaeologists in Thuringia, Germany, unearthed 11 rare Celtic coins at a construction site. It is the region's largest known hoard from the first century B.C.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>DAN HOFFMAN: Grief can break your heart. Here's how to keep it from breaking your life</title>
-      <link>https://www.foxnews.com/opinion/dan-hoffman-grief-can-break-your-heart-heres-how-keep-it-breaking-your-life</link>
-      <guid isPermaLink="false">978ca3256388ac1436da8b4f7c35abfe8b430667</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:40 GMT</pubDate>
-      <description><![CDATA[Marcus Aurelius' Stoic wisdom frames a CIA veteran's journey through grief after losing his wife Kim to cancer and raising their sons alone.]]></description>
-      <category>breaking</category>
-    </item>
+    <lastBuildDate>Wed, 21 Oct 2026 00:30:51 GMT</lastBuildDate>
     <item>
       <title>Slow-moving system could bring days of heavy rain and flooding to the Bahamas and Florida</title>
       <link>https://www.foxweather.com/weather-news/slow-moving-system-days-heavy-rain-flooding-bahamas-florida</link>
@@ -31,26 +15,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Overnight - Chance Light Snow</title>
+      <title>Anchorage Weather: Today - Light Snow Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 21 Oct 2026 12:43:01 GMT</pubDate>
-      <description><![CDATA[32°F. Wind N 5 mph. A chance of snow before 4am, then a chance of snow and patchy fog. Cloudy, with a low around 32. North wind around 5 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Wed, 21 Oct 2026 17:51:10 GMT</pubDate>
+      <description><![CDATA[34°F. Wind N 5 mph. Snow likely and patchy fog before 7am, then snow likely and patchy freezing fog between 7am and 1pm. Mostly cloudy, with a high near 34. North wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Wednesday - Chance Light Snow then Mostly Cloudy</title>
+      <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 21 Oct 2026 12:43:01 GMT</pubDate>
-      <description><![CDATA[34°F. Wind N 5 mph. A chance of snow and patchy fog before 7am, then patchy freezing fog and a slight chance of snow between 7am and 10am. Mostly cloudy, with a high near 34. North wind around 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Wednesday Night - Partly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 21 Oct 2026 12:43:01 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 17:51:10 GMT</pubDate>
       <description><![CDATA[22°F. Wind N 5 to 10 mph. Partly cloudy, with a low around 22. North wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,7 +34,7 @@
       <title>Anchorage Weather: Thursday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 21 Oct 2026 12:43:01 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 17:51:10 GMT</pubDate>
       <description><![CDATA[31°F. Wind N 5 to 10 mph. Sunny, with a high near 31. North wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -66,8 +42,32 @@
       <title>Anchorage Weather: Thursday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 21 Oct 2026 12:43:01 GMT</pubDate>
+      <pubDate>Wed, 21 Oct 2026 17:51:10 GMT</pubDate>
       <description><![CDATA[20°F. Wind NE 0 to 5 mph. Mostly clear, with a low around 20. Northeast wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday - Mostly Sunny</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Wed, 21 Oct 2026 17:51:10 GMT</pubDate>
+      <description><![CDATA[34°F. Wind NE 0 to 5 mph. Mostly sunny, with a high near 34. Northeast wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>With 2 weeks until midterms, analysts say Dems still on track to win US House majority</title>
+      <link>https://alaskabeacon.com/2026/10/21/repub/with-2-weeks-until-midterms-analysts-say-dems-still-on-track-to-win-us-house-majority/</link>
+      <guid isPermaLink="false">906200495760399afbb1fc657c055df225c76a86</guid>
+      <pubDate>Wed, 21 Oct 2026 13:30:11 GMT</pubDate>
+      <description><![CDATA[Democrats have used President Donald Trump’s unpopularity to expand the midterm map, and analysts project the party carries momentum heading into the final two weeks of the election cycle, even as Democrats are expected to flip fewer U.S. House seats than wave elections this century. The Cook Political Report with Amy Walter predicts Democrats will […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Kenai Peninsula leads Alaska’s tally of 622 charted shipwrecks</title>
+      <link>https://www.homernews.com/2026/10/21/kenai-peninsula-leads-alaskas-tally-of-622-charted-shipwrecks/</link>
+      <guid isPermaLink="false">cedbb4814f9f3ed45521905b856a6af81988dc0c</guid>
+      <pubDate>Wed, 21 Oct 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[From Homer to Juneau, maritime disasters tell stories of storms and rescue]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -255,6 +255,14 @@
       <category>local</category>
     </item>
     <item>
+      <title>Alaskans join nationwide No Kings rally focused on getting out the vote</title>
+      <link>https://www.juneauempire.com/2026/10/19/alaskans-join-nationwide-no-kings-rally-focused-on-getting-out-the-vote/</link>
+      <guid isPermaLink="false">a149c7940c180b627e3384ccefb14472395ea200</guid>
+      <pubDate>Mon, 19 Oct 2026 15:30:00 GMT</pubDate>
+      <description><![CDATA[Protests were held in at least 15 communities across Alaska to encourage early voting and support local and statewide candidates challenging incumbent Republicans]]></description>
+      <category>local</category>
+    </item>
+    <item>
       <title>OPINION: I hope I’m not like him when I am 80 years old</title>
       <link>https://www.homernews.com/2026/10/19/opinion-i-hope-im-not-like-him-when-i-am-80-years-old/</link>
       <guid isPermaLink="false">536e5b30395c6be85601ed033ab1b724006d261e</guid>
@@ -263,28 +271,180 @@
       <category>local</category>
     </item>
     <item>
-      <title>Early voting for Alaska’s general election opens in Juneau, Nome and across the Railbelt</title>
-      <link>https://alaskabeacon.com/2026/10/19/early-voting-for-alaskas-general-election-opens-in-juneau-nome-and-across-the-railbelt/</link>
-      <guid isPermaLink="false">069b9e61bca47fe72ba3943017c5b534506b1d8c</guid>
-      <pubDate>Mon, 19 Oct 2026 13:55:19 GMT</pubDate>
-      <description><![CDATA[Most state offices may be closed on Monday for Alaska Day, but officials with the Alaska Division of Elections are planning to be at work for the first day of early in-person voting in the 2026 general election. In Anchorage, early voting will be open from 8 a.m. to 5 p.m. Monday at Midtown Mall […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Enes Kanter Freedom says he’s in touch with FBI after death threats over WNBA Finals plans</title>
-      <link>https://www.foxnews.com/outkick-sports/enes-kanter-freedom-touch-fbi-death-threats-wnba-finals-plans</link>
-      <guid isPermaLink="false">f65814098f8025e0db27b9e79a0ca1c06ca4974e</guid>
-      <pubDate>Wed, 21 Oct 2026 12:35:35 GMT</pubDate>
-      <description><![CDATA[Enes Kanter Freedom says he's in contact with the FBI after receiving death threats ahead of his planned appearance at WNBA Finals Game 3 in Atlanta.]]></description>
+      <title>Russia says it is ready to resume talks with Ukraine and US to end war</title>
+      <link>https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">020c23c2780c2494df9ddbaa54d94ef408375210</guid>
+      <pubDate>Wed, 21 Oct 2026 17:42:34 GMT</pubDate>
+      <description><![CDATA[The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin</title>
-      <link>https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6e840d5ab577def86fbc48a71f906d469dd0ccd2</guid>
-      <pubDate>Wed, 21 Oct 2026 12:32:01 GMT</pubDate>
-      <description><![CDATA[The 74-year-old former teacher has been released without any "swap" required, Trump says.]]></description>
+      <title>Iran is trying to ‘create a rot from within’ through ‘information warfare,’ analyst warns</title>
+      <link>https://www.foxnews.com/politics/iran-trying-create-rot-within-information-warfare-analyst-warns</link>
+      <guid isPermaLink="false">20ed4d3a79d02a4d7b94390d95b8e5a64f4a73c5</guid>
+      <pubDate>Wed, 21 Oct 2026 17:39:43 GMT</pubDate>
+      <description><![CDATA[Yuval David warns Iran is waging an information warfare campaign on social media to undermine the U.S.-Israel alliance.]]></description>
       <category>world</category>
+    </item>
+    <item>
+      <title>Minnesota rapper defends 'solidarity' with France radical activists, push for protests to come to US</title>
+      <link>https://www.foxnews.com/politics/minnesota-rapper-defends-solidarity-france-radical-activists-push-protests-come-us</link>
+      <guid isPermaLink="false">308f6137ebff2d8636a6b3e8e19defa375624615</guid>
+      <pubDate>Wed, 21 Oct 2026 17:38:20 GMT</pubDate>
+      <description><![CDATA[Rapper Tufawong visited a Saint-Denis high school with Greta Thunberg before urging white Americans to "raise hell" amid France's violent protests.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>French woman recounts 'horror movie' as mob of rioters turned on husband in streets of Paris</title>
+      <link>https://www.foxnews.com/media/french-woman-recounts-horror-movie-mob-rioters-turned-husband-streets-paris</link>
+      <guid isPermaLink="false">9edc57d1b62d2074394a8335db8d65831b844ea1</guid>
+      <pubDate>Wed, 21 Oct 2026 17:35:39 GMT</pubDate>
+      <description><![CDATA[Almudena Garcia describes the terrifying moment a mob of rioters turned on her husband in central Paris, leaving him bloodied.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Lindsey Vonn keeps the birthday celebration going, slipping into a bodysuit for clothing line's new collection</title>
+      <link>https://www.foxnews.com/outkick-sports/lindsey-vonn-keeps-birthday-celebration-going-slipping-bodysuit-clothing-lines-new-collection</link>
+      <guid isPermaLink="false">ccfb6cc0996f4b4e072354cc7d9eeaf1bd901f77</guid>
+      <pubDate>Wed, 21 Oct 2026 17:20:24 GMT</pubDate>
+      <description><![CDATA[Lindsey Vonn launched a new clothing collection during her 42nd birthday week, proving the Olympic champion and entrepreneur won't slow down.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Grandfather gunned down in road rage attack days after burying Air Force son; convicted murderer charged</title>
+      <link>https://www.foxnews.com/us/grandfather-gunned-down-road-rage-attack-days-after-burying-air-force-son-convicted-murderer-charged</link>
+      <guid isPermaLink="false">10ad6b337513df1d513abcd90c10fddacdb7b089</guid>
+      <pubDate>Wed, 21 Oct 2026 17:18:54 GMT</pubDate>
+      <description><![CDATA[Surveillance video captures the deadly road rage confrontation that left grandfather Nelson Batista dead on a Bridgeport street after a scuffle.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Manchin calls Schumer 'crazy' for trying to oust GOP senator in crucial Senate showdown</title>
+      <link>https://www.foxnews.com/politics/manchin-calls-schumer-crazy-oust-gop-senator-crucial-senate-showdown</link>
+      <guid isPermaLink="false">80cb97159f3fb81bb69974902d9ece7f84490f79</guid>
+      <pubDate>Wed, 21 Oct 2026 17:06:54 GMT</pubDate>
+      <description><![CDATA[Joe Manchin called Chuck Schumer "crazy" for trying to unseat Susan Collins as he joined the Maine senator on the campaign trail in Lewiston.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Family of prison officer killed by IRA receives state apology</title>
+      <link>https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">dd065b9d406fcc502989a856968751f18c216041</guid>
+      <pubDate>Wed, 21 Oct 2026 16:58:16 GMT</pubDate>
+      <description><![CDATA[Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>El-Sayed's past Muslim Brotherhood comments raise red flags as he eyes powerful role</title>
+      <link>https://www.foxnews.com/politics/el-sayed-past-muslim-brotherhood-comments-raise-red-flags-eyes-powerful-role</link>
+      <guid isPermaLink="false">1a1629b4bf8c5ae38454df9296ad9bcde247845a</guid>
+      <pubDate>Wed, 21 Oct 2026 16:57:18 GMT</pubDate>
+      <description><![CDATA[Abdul El-Sayed's past support for Muslim Brotherhood protesters in Egypt faces sharp criticism from Senate Republicans on the Foreign Relations Committee.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Giants bench Jameis Winston, will start JJ McCarthy weeks after trading for him: report</title>
+      <link>https://www.foxnews.com/outkick-sports/giants-bench-jameis-winston-start-jj-mccarthy-weeks-after-trading-report</link>
+      <guid isPermaLink="false">7aa4cb2d5f1eec3b23b76b065217694dbd6efbda</guid>
+      <pubDate>Wed, 21 Oct 2026 16:56:08 GMT</pubDate>
+      <description><![CDATA[J.J. McCarthy's 243-yard fourth-quarter explosion against the New Orleans Saints convinced the New York Giants to reportedly bench Jameis Winston ahead of the Houston Texans game.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>NBA stays silent on WNBA Finals teams skipping the national anthem before Games 1 and 2</title>
+      <link>https://www.foxnews.com/outkick-sports/nba-stays-silent-wnba-finals-teams-skipping-national-anthem-games-1-2</link>
+      <guid isPermaLink="false">b1e256f1635f0b0b15aed6b4987f3eecb9cb98bc</guid>
+      <pubDate>Wed, 21 Oct 2026 16:55:39 GMT</pubDate>
+      <description><![CDATA[The NBA has not answered OutKick’s questions about the Dream and Valkyries’ WNBA Finals anthem absences despite a rulebook requirement to stand in line.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Newsom spars with Trump-appointed prosecutor over 20,000 suspected noncitizens on voter rolls</title>
+      <link>https://www.foxnews.com/politics/newsom-spars-trump-appointed-prosecutor-20000-suspected-noncitizens-voter-rolls</link>
+      <guid isPermaLink="false">f4b6feb082e29e92b04dd2de1c28fc6835baa941</guid>
+      <pubDate>Wed, 21 Oct 2026 16:44:27 GMT</pubDate>
+      <description><![CDATA[Gavin Newsom and Bill Essayli clashed over noncitizen voting after an LA County official said the registrar cannot verify voter citizenship.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Websites taken down worldwide as critical cyber-security update issued</title>
+      <link>https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e3dbce13ab37612368cb38a84791fb9656fe06db</guid>
+      <pubDate>Wed, 21 Oct 2026 16:07:19 GMT</pubDate>
+      <description><![CDATA[The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>How Trump's attacks on voting system integrity might affect upcoming elections</title>
+      <link>https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections</link>
+      <guid isPermaLink="false">5134e4c7dce3a0a32b58c67cad363bc5f345f136</guid>
+      <pubDate>Wed, 21 Oct 2026 16:01:44 GMT</pubDate>
+      <description><![CDATA[Election law expert Rick Hasen explains Trump's interference in the midterms, including threatening local officials with criminal prosecution unless they strike alleged noncitizens from voter rolls.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Why local officials are feeling 'on edge' as election day approaches</title>
+      <link>https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches</link>
+      <guid isPermaLink="false">ba6ffc9931e99dcfde4539b3cb2d3dbfdfa11cb4</guid>
+      <pubDate>Wed, 21 Oct 2026 16:01:17 GMT</pubDate>
+      <description><![CDATA[Al Schmidt is the chief election official in the state of Pennsylvania. President Trump's insults put him in danger during the 2020 ballot count. Now Schmidt talks about preparing for the midterms.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary</title>
+      <link>https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8d6456fb5132a7e3c8c396bee010dcce0a5c488c</guid>
+      <pubDate>Wed, 21 Oct 2026 15:56:03 GMT</pubDate>
+      <description><![CDATA[In total 116 children and 28 adults were killed when a colliery spoil tip collapsed on 21 October 1966.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Supreme Court upholds pause on Trump's anti-trans prison policy</title>
+      <link>https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy</link>
+      <guid isPermaLink="false">ed22f801a87587e68a9396497b7be5d711992ab7</guid>
+      <pubDate>Wed, 21 Oct 2026 15:46:27 GMT</pubDate>
+      <description><![CDATA[The Supreme Court ruled Wednesday that the Trump administration has to continue providing gender-affirming care to inmates in federal prisons as litigation on efforts to change the policy continues.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Google staff resign in backlash over its AI contracts with military</title>
+      <link>https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d8b4c8ba8178328efb775dd3df196330c4378c4d</guid>
+      <pubDate>Wed, 21 Oct 2026 15:41:25 GMT</pubDate>
+      <description><![CDATA[The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences</title>
+      <link>https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">549d378a9b6ead0bf0ad6761ab08b449858fe6b5</guid>
+      <pubDate>Wed, 21 Oct 2026 15:36:31 GMT</pubDate>
+      <description><![CDATA[The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New human data hints at psychedelics' potential to combat inflammation</title>
+      <link>https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system</link>
+      <guid isPermaLink="false">79fecb094cec466a6781174d0538daeabdaa3943</guid>
+      <pubDate>Wed, 21 Oct 2026 15:33:18 GMT</pubDate>
+      <description><![CDATA[Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first data in humans that signals this holds potential for patients with neurodegenerative diseases like Parkinson's disease.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rare severe storm threat targets Southern California while Arizona faces potential egg-sized hail, tornadoes</title>
+      <link>https://www.foxweather.com/weather-news/rare-severe-storm-threat-arizona-southern-california-hail-tornadoes</link>
+      <guid isPermaLink="false">d6c4a51511ba9af49e0cae8c05a8400215b3737a</guid>
+      <pubDate>Wed, 21 Oct 2026 15:18:52 GMT</pubDate>
+      <description><![CDATA[Severe thunderstorms blasted parts of Arizona early Wednesday ahead of a rare severe weather threat that will intensify through the day and into the evening. Parts of the state, including Flagstaff and Prescott, are under a Level 3 out of 5 risk of severe thunderstorms capable of producing damaging egg-sized hail and tornadoes.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Bryan Norcross: Coastal impacts continue as the nor'easter #93L makes a run at morphing into Josephine</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-october-21-2026</link>
+      <guid isPermaLink="false">be7d94163f820329e4896c0f5a0cc955f1619c30</guid>
+      <pubDate>Wed, 21 Oct 2026 14:14:03 GMT</pubDate>
+      <description><![CDATA[The nor'easter is making a good effort to get named. The system has developed a core that looks a lot like a tropical storm over the unusually warm ocean water offshore of the Mid-Atlantic.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Evacuations, shelter-in-place order issued after hazardous material is released in Toledo, Ohio amid dense fog</title>
@@ -293,134 +453,6 @@
       <pubDate>Wed, 21 Oct 2026 12:23:23 GMT</pubDate>
       <description><![CDATA[Hazardous materials were released around an industrial facility in northern Toledo late Tuesday that prompted the local fire department to issue evacuation orders for people within a 1-mile radius of the incident.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Civil servant admits he 'made mistakes' juggling five government jobs</title>
-      <link>https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5111be9c042e287496c9cd4168d69a07c5d583b7</guid>
-      <pubDate>Wed, 21 Oct 2026 12:17:12 GMT</pubDate>
-      <description><![CDATA[Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump leans into unprecedented power ahead of midterm elections</title>
-      <link>https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections</link>
-      <guid isPermaLink="false">4d7c346bcce5ded126c120329e2154f1a4f4c184</guid>
-      <pubDate>Wed, 21 Oct 2026 12:09:41 GMT</pubDate>
-      <description><![CDATA[Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Teenage boy guilty of trying to murder girl, 15, in school</title>
-      <link>https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">891172bc7c04b00fd2c81ceb87672117ef8242a1</guid>
-      <pubDate>Wed, 21 Oct 2026 12:03:52 GMT</pubDate>
-      <description><![CDATA[The school went into lockdown and parents gathered at the gates as they waited for news about their children.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Philly officer murdered in line of duty promoted to sergeant as police from around US attend his funeral</title>
-      <link>https://www.foxnews.com/us/philly-officer-murdered-line-duty-promoted-sergeant-police-around-us-attend-funeral</link>
-      <guid isPermaLink="false">35fb0b64437a58d7e4a11fcb3bf1635a9c6a1f36</guid>
-      <pubDate>Wed, 21 Oct 2026 12:00:15 GMT</pubDate>
-      <description><![CDATA[Thousands of officers gathered as Shane Seiber was promoted posthumously to sergeant during an emotional Philadelphia funeral service Tuesday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Woman told Russell Brand he 'treated her like an animal', court hears</title>
-      <link>https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">42bda3144897a7b59ce164ee9ee64b30049daf2b</guid>
-      <pubDate>Wed, 21 Oct 2026 11:47:01 GMT</pubDate>
-      <description><![CDATA[The comedian and actor is on trial for charges including rape and sexual assault, which he denies.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises</title>
-      <link>https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia</link>
-      <guid isPermaLink="false">bfb65044a5aa2edbeec5aca5e5e243bcffbb5c3a</guid>
-      <pubDate>Wed, 21 Oct 2026 11:46:59 GMT</pubDate>
-      <description><![CDATA[The Justice Department's "likely" noncitizen voter list in California is "unreliable," according to officials. And, the United Nations reports a major increase in U.S. climate pollution.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kansas soccer field crash raises red flags for former investigator who questions key theories</title>
-      <link>https://www.foxnews.com/us/kansas-soccer-field-crash-raises-red-flags-former-investigator-questions-key-theories</link>
-      <guid isPermaLink="false">2bf902860fb9e21e4b0229f0b98ec840322a4105</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:58 GMT</pubDate>
-      <description><![CDATA[Jamie Copenhaver, a former detective, questions why no charges were filed after a driver killed two at Wichita's Stryker Sports Complex.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Stacking supplements without key test can do more harm than good, expert warns</title>
-      <link>https://www.foxnews.com/health/why-stacking-supplements-without-blood-test-first-can-do-more-harm-than-good</link>
-      <guid isPermaLink="false">0043acf979c37c88557b1e527752f656b9e8b6ff</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:26 GMT</pubDate>
-      <description><![CDATA[Jim LaValle explains why a blood test should come before buying ashwagandha, magnesium or zinc supplements to address fatigue and other symptoms.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kid Rock says supporting Trump came at a cost in Hollywood, but he's not backing down</title>
-      <link>https://www.foxnews.com/entertainment/kid-rock-says-supporting-trump-came-cost-hollywood-not-backing-down</link>
-      <guid isPermaLink="false">3e987a9b7da537ff765f22b97c56f0cc1f6d0977</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:24 GMT</pubDate>
-      <description><![CDATA[Kid Rock tells Fox News Digital supporting Trump cost him corporate deals and late-night TV spots but says his freedom of speech matters more than Hollywood access.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>How Saudi Arabia's defense vulnerabilities could become Trump's problem amid Houthi onslaught</title>
-      <link>https://www.foxnews.com/politics/saudi-arabia-defense-vulnerabilities-trump-problem-houthi-onslaught</link>
-      <guid isPermaLink="false">c24681d8b37402b05741ff6eaea953c3e5811c15</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:05 GMT</pubDate>
-      <description><![CDATA[Saudi Arabia seeks foreign allies to counter Houthi missiles and drones as Trump weighs whether to launch direct U.S. military strikes on Yemen.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hackers steal children's data after company used 'Password1' to protect old account</title>
-      <link>https://www.bbc.co.uk/news/articles/c6r7y03e9m3ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">24a09748e091467d919664da97492402e4df63f0</guid>
-      <pubDate>Wed, 21 Oct 2026 10:56:47 GMT</pubDate>
-      <description><![CDATA[The data watchdog reprimanded Ogi Networks Limited and Data Cymru after the 2024 ransomware attack.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Imprisoned American teacher Stephen Hubbard released by Russia and more top headlines</title>
-      <link>https://www.foxnews.com/us/imprisoned-american-teacher-stephen-hubbard-released-russia-more-top-headlines</link>
-      <guid isPermaLink="false">e19cad96e58d46b45bb803efd2738416677aee36</guid>
-      <pubDate>Wed, 21 Oct 2026 10:53:17 GMT</pubDate>
-      <description><![CDATA[Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Urban Meyer says Arch Manning has 'gone backwards' as noise grows surrounding starting job security</title>
-      <link>https://www.foxnews.com/outkick-sports/urban-meyer-says-arch-manning-gone-backwards-noise-grows-surrounding-starting-job-security</link>
-      <guid isPermaLink="false">0b81f8d5c4e68cd9ebba1c854c71d71ce3568fab</guid>
-      <pubDate>Wed, 21 Oct 2026 10:52:36 GMT</pubDate>
-      <description><![CDATA[Urban Meyer said Arch Manning has "gone backwards" since his Ohio State comeback and that Texas is at an inflection point in their season right now.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request</title>
-      <link>https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen</link>
-      <guid isPermaLink="false">b491990b72d414db27abe95a89f2d43b050e5a84</guid>
-      <pubDate>Wed, 21 Oct 2026 10:20:50 GMT</pubDate>
-      <description><![CDATA[Russian President Vladimir Putin says he has freed an American, Stephen Hubbard, from a Russian prison following a request from President Trump.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>2025 policing trend: Fewer serious crimes, more minor arrests</title>
-      <link>https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase</link>
-      <guid isPermaLink="false">f840ffab759ff79bf5f3aebdf43ffddda927b4c1</guid>
-      <pubDate>Wed, 21 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[Arrests for more minor offenses, including vagrancy, rose in the U.S., even as violent crime rates dropped to historic lows, according to an analysis from criminal justice reform advocacy group FWD.us]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Expecting a baby? 5 tips to help you prepare for pregnancy costs</title>
-      <link>https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy</link>
-      <guid isPermaLink="false">bee7271db7c2897faadf6b360e906e010f9679d7</guid>
-      <pubDate>Wed, 21 Oct 2026 09:00:00 GMT</pubDate>
-      <description><![CDATA[The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giving birth.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Could history repeat itself? How past Super El Niño winters offer clues about what's ahead</title>
@@ -492,38 +524,6 @@
       <guid isPermaLink="false">3b6e1b932a3dce872d120d2a35f8c139f65cf3a8</guid>
       <pubDate>Mon, 19 Oct 2026 14:29:03 GMT</pubDate>
       <description><![CDATA[The Pacific remains a hotbed of tropical activity with Invest 94E expected to develop into at least a Tropical Depression over the next two days. If it develops into a named storm, it would be named Tropical Storm Vance, the first V-named storm in the eastern Pacific since 2018.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Pacific eyes first V-named storm since 2018 as monster Super Typhoon Champi continues to intensify</title>
-      <link>https://www.foxweather.com/weather-news/super-typhoon-champi-pacific-area-to-watch-tropics</link>
-      <guid isPermaLink="false">3b6e1b932a3dce872d120d2a35f8c139f65cf3a8</guid>
-      <pubDate>Mon, 19 Oct 2026 14:29:03 GMT</pubDate>
-      <description><![CDATA[The Pacific remains a hotbed of tropical activity with Invest 94E expected to develop into at least a Tropical Depression over the next two days. If it develops into a named storm, it would be named Tropical Storm Vance, the first V-named storm in the eastern Pacific since 2018.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Typhoon Champi churns across Pacific as another tropical threat begins to take shape</title>
-      <link>https://www.foxweather.com/weather-news/super-typhoon-champi-pacific-area-to-watch-tropics</link>
-      <guid isPermaLink="false">3b6e1b932a3dce872d120d2a35f8c139f65cf3a8</guid>
-      <pubDate>Mon, 19 Oct 2026 14:29:03 GMT</pubDate>
-      <description><![CDATA[The Pacific remains a hotbed of tropical activity this week as Super Typhoon Champi churns across the region, while the FOX Forecast Center keeps a close eye on another area for potential development.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Super Typhoon Champi churns across Pacific as another tropical threat begins to take shape</title>
-      <link>https://www.foxweather.com/weather-news/super-typhoon-champi-pacific-area-to-watch-tropics</link>
-      <guid isPermaLink="false">3b6e1b932a3dce872d120d2a35f8c139f65cf3a8</guid>
-      <pubDate>Mon, 19 Oct 2026 14:29:03 GMT</pubDate>
-      <description><![CDATA[The Pacific remains a hotbed of tropical activity this week as Super Typhoon Champi churns across the region, while the FOX Forecast Center keeps a close eye on another area for potential development.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Bryan Norcross: Continuing long-duration coastal flood event from strengthening nor'easter</title>
-      <link>https://www.foxweather.com/weather-news/bryan-norcross-exclusive-analysis-oct-19-2026</link>
-      <guid isPermaLink="false">81d01880f6908eeb7a3588c83150a4be462a887c</guid>
-      <pubDate>Mon, 19 Oct 2026 14:12:00 GMT</pubDate>
-      <description><![CDATA[FOX Weather Hurricane Specialist Bryan Norcross gives us the latest on the strengthening nor'easter in the Atlantic, as well as the current state of the Pacific. The slow-moving nor'easter – a slowly intensifying low-pressure system – and high pressure over the Midwest are working together to create the channel of strong northeast winds.]]></description>
       <category>weather</category>
     </item>
   </channel>
