@@ -5,12 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 03:04:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:01:46 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 03:04:59 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 09:01:46 GMT</pubDate>
       <description><![CDATA[20°F. Wind NE 0 to 5 mph. Clear, with a low around 20. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -18,7 +18,7 @@
       <title>Anchorage Weather: Friday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 03:04:59 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 09:01:46 GMT</pubDate>
       <description><![CDATA[35°F. Wind NE 0 to 5 mph. Sunny, with a high near 35. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +26,7 @@
       <title>Anchorage Weather: Friday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 03:04:59 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 09:01:46 GMT</pubDate>
       <description><![CDATA[28°F. Wind N 0 to 5 mph. Partly cloudy. Low around 28, with temperatures rising to around 34 overnight. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,16 +34,16 @@
       <title>Anchorage Weather: Saturday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 03:04:59 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 09:01:46 GMT</pubDate>
       <description><![CDATA[42°F. Wind NE 0 to 5 mph. Partly sunny, with a high near 42. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday Night - Cloudy then Chance Rain And Snow</title>
+      <title>Anchorage Weather: Saturday Night - Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 03:04:59 GMT</pubDate>
-      <description><![CDATA[35°F. Wind E 5 mph. A chance of rain and snow after 4am. Cloudy, with a low around 35. East wind around 5 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Fri, 23 Oct 2026 09:01:46 GMT</pubDate>
+      <description><![CDATA[35°F. Wind E 5 mph. Cloudy, with a low around 35. East wind around 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -287,6 +287,142 @@
       <category>politics</category>
     </item>
     <item>
+      <title>Hundreds of flights cancelled as Typhoon Champi shuts Taiwan</title>
+      <link>https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">db2a67dade4922303a59078b217cfa7646226a51</guid>
+      <pubDate>Fri, 23 Oct 2026 08:45:58 GMT</pubDate>
+      <description><![CDATA[One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Morning news brief</title>
+      <link>https://www.npr.org/2026/10/23/nx-s1-6003504/morning-news-brief</link>
+      <guid isPermaLink="false">fa13dae017a1bcebfd88bb1ff73726b1030d93bd</guid>
+      <pubDate>Fri, 23 Oct 2026 08:44:19 GMT</pubDate>
+      <description><![CDATA[U.S. and Israel are planning for a possible attack on Iran, millions of Americans have voted early, judge orders President Trump to sit for deposition in BBC lawsuit.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ukraine says Starlink still restricted after Trump says limits lifted</title>
+      <link>https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9c464aa25357ec3d69354672de0ddf22b3326004</guid>
+      <pubDate>Fri, 23 Oct 2026 08:36:32 GMT</pubDate>
+      <description><![CDATA[Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Watch: Presenter battles strong winds as storm hits Newquay</title>
+      <link>https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">85412a258d05edaed2a9c06ef35fd85f8567e85c</guid>
+      <pubDate>Fri, 23 Oct 2026 08:26:47 GMT</pubDate>
+      <description><![CDATA[BBC lead weather presenter Simon King is in Newquay as the "full force" of the storm arrives.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths</title>
+      <link>https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths</link>
+      <guid isPermaLink="false">a0cbb500670ead733c74fd51547148b37f2a915e</guid>
+      <pubDate>Fri, 23 Oct 2026 08:17:06 GMT</pubDate>
+      <description><![CDATA[Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank</title>
+      <link>https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank</link>
+      <guid isPermaLink="false">1bd05f3b928bdbb4f7211e8485611b4e318d5f4b</guid>
+      <pubDate>Fri, 23 Oct 2026 08:05:06 GMT</pubDate>
+      <description><![CDATA[Two suspected gunmen were killed by the IDF after a shooting near Judea Junction in the southern West Bank left five Israelis wounded on Friday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump's MAGA faithful send warning to Republicans ahead of high-stakes midterm elections</title>
+      <link>https://www.foxnews.com/politics/trumps-maga-faithful-send-warning-republicans-ahead-high-stakes-midterm-elections</link>
+      <guid isPermaLink="false">5067fc631566e3b60a6d4aa8341158a7d4b56e5b</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:38 GMT</pubDate>
+      <description><![CDATA[Trump supporters at his Sioux City rally back Republicans but voice growing frustration over high prices, the Iran war and Election Day turnout.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2b89475cfd25000e4444957c93870c6ec7f5653a</guid>
+      <pubDate>Fri, 23 Oct 2026 08:00:07 GMT</pubDate>
+      <description><![CDATA[Officials say they both travelled through Entebbe International Airport on 3 October.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds</title>
+      <link>https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">550a37e4dbfbfb65932dc595185fa160b9d7637d</guid>
+      <pubDate>Fri, 23 Oct 2026 07:52:32 GMT</pubDate>
+      <description><![CDATA[The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>First personalised cancer vaccine cuts risk of disease returning in major trial</title>
+      <link>https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">784f7f931746cf62872a2a03239a72d1625ea5bc</guid>
+      <pubDate>Fri, 23 Oct 2026 07:49:02 GMT</pubDate>
+      <description><![CDATA[The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Lights will stay on this winter, grid operator says after concerns</title>
+      <link>https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">80af6eb4a332ec3f65dc0cffdfd6d5f4caac6536</guid>
+      <pubDate>Fri, 23 Oct 2026 06:47:10 GMT</pubDate>
+      <description><![CDATA[The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Supreme Court blocks use of student IDs as voter identification in New Hampshire</title>
+      <link>https://www.foxnews.com/politics/supreme-court-blocks-student-ids-voter-identification-new-hampshire</link>
+      <guid isPermaLink="false">fbb774fb89e56620c1caaceceaf0f19d79ef7fa7</guid>
+      <pubDate>Fri, 23 Oct 2026 06:44:19 GMT</pubDate>
+      <description><![CDATA[The Supreme Court allowed New Hampshire to reject student IDs at the polls ahead of midterm elections, warning of voter confusion too close to an election.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Watch: Met chief Rowley not fit for job, says detective raped by colleague</title>
+      <link>https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">bea5bb37efbe6b561b38fee09e76a3c0a823004b</guid>
+      <pubDate>Fri, 23 Oct 2026 05:00:12 GMT</pubDate>
+      <description><![CDATA[Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Detective raped by colleague says Met handling of case 'like being raped again'</title>
+      <link>https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ddab80061add699e5b55a59bc31a8b291895d3f7</guid>
+      <pubDate>Fri, 23 Oct 2026 05:00:05 GMT</pubDate>
+      <description><![CDATA[Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Blanche won't rule out DOJ blocking election certification in 'doomsday' scenario</title>
+      <link>https://www.foxnews.com/politics/blanche-wont-rule-out-doj-blocking-election-certification-doomsday-scenario</link>
+      <guid isPermaLink="false">fcb2760722c44d20eac55712ef74af9a9ff54942</guid>
+      <pubDate>Fri, 23 Oct 2026 04:53:19 GMT</pubDate>
+      <description><![CDATA[Attorney General Todd Blanche refused to rule out Department of Justice intervention in midterm election certification, citing hypothetical "doomsday" scenarios.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Drake Maye's end-zone interception proves costly as Patriots fall 30-24 to Bears in primetime</title>
+      <link>https://www.foxnews.com/outkick-sports/drake-maye-end-zone-interception-proves-costly-patriots-fall-30-24-bears-primetime</link>
+      <guid isPermaLink="false">f507f2eb3996c6fdcab7372cb7e3bd70826e4b91</guid>
+      <pubDate>Fri, 23 Oct 2026 03:55:16 GMT</pubDate>
+      <description><![CDATA[Caleb Williams threw for 308 yards and two TDs in the Chicago Bears' 30-24 win over the New England Patriots, improving to an impressive 5-2 record.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Utah man charged with attempted hate crime after alleged threat to 'blow up' synagogue</title>
+      <link>https://www.foxnews.com/us/utah-man-charged-attempted-hate-crime-alleged-threat-blow-up-synagogue</link>
+      <guid isPermaLink="false">03dc069abf80ccb885729ff655bdbe8dac6c5603</guid>
+      <pubDate>Fri, 23 Oct 2026 03:20:41 GMT</pubDate>
+      <description><![CDATA[A Utah man allegedly threatened to blow up a synagogue, and a search of his home uncovered six improvised explosive pipe bombs and rifles, officials say.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Rhamondre Stevenson's miraculous 48-yard touchdown stuns Bears as clock expires in first half</title>
       <link>https://www.foxnews.com/outkick-sports/rhamondre-stevenson-miraculous-48-yard-touchdown-stuns-bears-clock-expires-first-half</link>
       <guid isPermaLink="false">1786c90525e4d24ceb6905f2043f7a3363260a4a</guid>
@@ -303,148 +439,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Super Bowl champion Marshall Faulk says he is living with Parkinson's disease</title>
-      <link>https://www.foxnews.com/outkick-sports/super-bowl-champion-marshall-faulk-living-parkinsons-disease</link>
-      <guid isPermaLink="false">0472473a124a0f8d0126b77713e9b0835f587070</guid>
-      <pubDate>Fri, 23 Oct 2026 02:21:22 GMT</pubDate>
-      <description><![CDATA[Marshall Faulk revealed his Parkinson's disease diagnosis on a podcast, describing hand rigidity and tremors he's managed with medication for over a year.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NBA legend Charles Barkley says he won't 'burn every bridge' like Aaron Rodgers as he considers retirement</title>
-      <link>https://www.foxnews.com/outkick-sports/nba-legend-charles-barkley-says-he-wont-burn-every-bridge-like-aaron-rodgers-he-considers-retirement</link>
-      <guid isPermaLink="false">f0e7017d8ae38fc527acf46e7b9841b121ed2160</guid>
-      <pubDate>Fri, 23 Oct 2026 02:07:47 GMT</pubDate>
-      <description><![CDATA[Charles Barkley roasted Aaron Rodgers' bitter farewell tour, vowing his own TV retirement will be about gratitude rather than burning bridges.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>See it: Utah city forced to evacuate immediately as dangerous flash flooding inundates the region</title>
       <link>https://www.foxweather.com/weather-news/utah-city-forced-evacuate-immediately-dangerous-flash-flooding-inundates-region</link>
       <guid isPermaLink="false">f0f71ffc45bb3c60f03266050cad1950bc6deccf</guid>
       <pubDate>Fri, 23 Oct 2026 01:46:57 GMT</pubDate>
       <description><![CDATA[Evacuation orders were issued for residents in Hurricane, Utah, on Thursday as life-threatening flash flooding slammed the city.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>'I basically snapped': New Jersey mayor charges at resident during chaotic council meeting</title>
-      <link>https://www.foxnews.com/politics/i-basically-snapped-new-jersey-mayor-charges-resident-chaotic-council-meeting</link>
-      <guid isPermaLink="false">15df80bfe76bf7047df537602d250af4b0116025</guid>
-      <pubDate>Fri, 23 Oct 2026 01:42:39 GMT</pubDate>
-      <description><![CDATA[Video captures New Jersey Republican Mayor Matthew Bianchini lunging at a resident during a Pemberton Township council meeting before being restrained.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump ordered to answer questions under oath in BBC lawsuit</title>
-      <link>https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">be9481d2600e1cca0782e1f4b4e49a9cb8d4dde4</guid>
-      <pubDate>Fri, 23 Oct 2026 01:38:44 GMT</pubDate>
-      <description><![CDATA[Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bears fans don Mike Ditka's famous mustache as franchise legend honored at first home game since death</title>
-      <link>https://www.foxnews.com/outkick-sports/bears-fans-don-mike-ditka-famous-mustache-franchise-legend-honored-first-home-game-since-death</link>
-      <guid isPermaLink="false">84f034debc4a1f80adeec2a7fd434e5824c30239</guid>
-      <pubDate>Fri, 23 Oct 2026 01:25:17 GMT</pubDate>
-      <description><![CDATA[The Bears gave out fake mustaches for fans, while a moment of silence was held for Ditka, a Super Bowl-winning coach and Pro Football Hall of Famer.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Pacers star Tyrese Haliburton moved to tears after long-awaited return from Achilles injury</title>
-      <link>https://www.foxnews.com/outkick-sports/pacers-star-tyrese-haliburton-moved-tears-long-awaited-return-achilles-injury</link>
-      <guid isPermaLink="false">44968191c11f45eba40935737e6edce96583ad00</guid>
-      <pubDate>Fri, 23 Oct 2026 01:18:05 GMT</pubDate>
-      <description><![CDATA[Tyrese Halliburton was moved to tears after returning from his Achilles injury, then scored 16 fourth-quarter points to lift the Pacers past the Pelicans.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Far-left podcaster calls for 'pistols firing' toward JD Vance, defeating him in 2028</title>
-      <link>https://www.foxnews.com/media/far-left-podcaster-calls-pistols-firing-toward-jd-vance-defeat-him-2028</link>
-      <guid isPermaLink="false">6d63008a16f5f78d04732cd7ab3da1098bd687cd</guid>
-      <pubDate>Fri, 23 Oct 2026 00:52:02 GMT</pubDate>
-      <description><![CDATA[Podcaster Jennifer Welch urged listeners to "keep pistols firing" toward Vice President JD Vance and defeat him in 2028, calling him unfit for presidential office.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>World Series champion Mitch Garver retires from baseball at 35</title>
-      <link>https://www.foxnews.com/outkick-sports/world-series-champion-mitch-garver-retires-baseball-35</link>
-      <guid isPermaLink="false">65eb07fc13fb23a37ea54068af1ed8617b7bf786</guid>
-      <pubDate>Fri, 23 Oct 2026 00:42:14 GMT</pubDate>
-      <description><![CDATA[World Series champion Mitch Garver announced his retirement from baseball at 35 years old. He spent time with the Minnesota Twins, Texas Rangers and Seattle Mariners.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Amber warning in place as Storm Austen hits parts of UK</title>
-      <link>https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f6a31577756571240c8ff34a0296082d2293b82c</guid>
-      <pubDate>Fri, 23 Oct 2026 00:08:43 GMT</pubDate>
-      <description><![CDATA[Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>NYC votes to end nearly 170-year-old horse carriage tradition as Trump blasts ban, drivers threaten lawsuit</title>
-      <link>https://www.foxnews.com/politics/nyc-votes-end-nearly-170-year-old-horse-carriage-tradition-trump-blasts-ban-drivers-threaten-lawsuit</link>
-      <guid isPermaLink="false">51d6229818e608223a4f1b41870dce389ff0ae82</guid>
-      <pubDate>Thu, 22 Oct 2026 23:32:56 GMT</pubDate>
-      <description><![CDATA[The Transport Workers Union threatens federal court action after the New York City Council voted 40-7 to ban horse-drawn carriages by June 2028.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>NFL fines three head coaches $250,000 for their conduct toward officials: report</title>
-      <link>https://www.foxnews.com/outkick-sports/nfl-fines-three-head-coaches-250000-conduct-toward-officials-report</link>
-      <guid isPermaLink="false">105b3712edabff880584f21d8379d07bbbadae1d</guid>
-      <pubDate>Thu, 22 Oct 2026 23:25:25 GMT</pubDate>
-      <description><![CDATA[Mike Vrabel, Aaron Glenn and Nick Sirianni each face $250,000 fines for conduct toward officials, but the penalties could be waived under one condition.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Erika Kirk rips 'absurd' 2029 trial timeline for Charlie Kirk's alleged assassin</title>
-      <link>https://www.foxnews.com/us/erika-kirk-rips-absurd-2029-trial-timeline-charlie-kirks-alleged-assassin</link>
-      <guid isPermaLink="false">fe4db942c4aa036a978f7950f1970db097f87837</guid>
-      <pubDate>Thu, 22 Oct 2026 23:24:52 GMT</pubDate>
-      <description><![CDATA[Erika Kirk is fighting a proposed 2029 trial date for her husband's alleged assassin, calling the defense timeline "grossly out of line" with comparable cases.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Powerful earthquake hits Tibet killing 16 people, reports say</title>
-      <link>https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bc35bf371d86f6e3347384adb63045b1bba1e706</guid>
-      <pubDate>Thu, 22 Oct 2026 23:22:45 GMT</pubDate>
-      <description><![CDATA[The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds</title>
-      <link>https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">550a37e4dbfbfb65932dc595185fa160b9d7637d</guid>
-      <pubDate>Thu, 22 Oct 2026 23:16:16 GMT</pubDate>
-      <description><![CDATA[The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Give more people weight loss jabs on the NHS, say MPs</title>
-      <link>https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6baddbea4304dfc875576f72b48bbb9fe0d9d002</guid>
-      <pubDate>Thu, 22 Oct 2026 23:06:04 GMT</pubDate>
-      <description><![CDATA[Current plans for 6% of eligible patients to get Mounjaro by 2028 unambitious, say MPs.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Grid operator says lights will stay on this winter after concerns</title>
-      <link>https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">80af6eb4a332ec3f65dc0cffdfd6d5f4caac6536</guid>
-      <pubDate>Thu, 22 Oct 2026 23:04:38 GMT</pubDate>
-      <description><![CDATA[The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>DOJ opens investigation into Trump ally Corey Lewandowski</title>
-      <link>https://www.foxnews.com/politics/doj-opens-investigation-trump-ally-corey-lewandowski</link>
-      <guid isPermaLink="false">c204d47e6221a29f20f9f0c0ca7ac40b69c46eea</guid>
-      <pubDate>Thu, 22 Oct 2026 23:03:37 GMT</pubDate>
-      <description><![CDATA[The Justice Department is probing Corey Lewandowski following a criminal referral from Homeland Security investigators, according to a source.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Vermont ski mountains prepare to open as winter weather looms</title>
