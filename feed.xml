@@ -5,7 +5,23 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 14:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:32:03 GMT</lastBuildDate>
+    <item>
+      <title>Trump administration sues to block Alaska’s US Senate election result if Peltola wins</title>
+      <link>https://alaskabeacon.com/2026/10/23/trump-administration-sues-to-block-alaskas-us-senate-election-result-if-peltola-wins/</link>
+      <guid isPermaLink="false">76f403fd34d60e9cafd842cce79c1d895878e9f7</guid>
+      <pubDate>Fri, 23 Oct 2026 17:32:03 GMT</pubDate>
+      <description><![CDATA[This article is developing and will be updated. The U.S. Department of Justice filed suit against the Alaska Division of Elections late Thursday, seeking to block the division from certifying the result of the state’s U.S. Senate election if the Democratic challenger, Mary Peltola, wins. Peltola is the leading opponent to incumbent Republican Sen. Dan […]]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Rebecca Gayheart watched Eric Dane fight for time with daughters during ‘heartbreaking’ final months</title>
+      <link>https://www.foxnews.com/entertainment/rebecca-gayheart-watched-eric-dane-fight-time-daughters-heartbreaking-final-months</link>
+      <guid isPermaLink="false">ed2f3cb725d220342ab0184cea2d82bf0bf6d92b</guid>
+      <pubDate>Fri, 23 Oct 2026 17:45:41 GMT</pubDate>
+      <description><![CDATA[Rebecca Gayheart reveals the devastating moment she learned Eric Dane had ALS and how their two daughters navigated his final months together.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Bryan Norcross: Looking for the end of the 2026 hurricane season</title>
       <link>https://www.foxweather.com/weather-news/bryan-norcross-looking-end-2026-hurricane-season</link>
@@ -15,34 +31,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Why some people are falling for Meta's Muse AI</title>
-      <link>https://www.foxnews.com/tech/why-people-falling-metas-muse-ai</link>
-      <guid isPermaLink="false">f6c86c0170fbd7b56a32b8ee4f6c73a4c6049c78</guid>
-      <pubDate>Fri, 23 Oct 2026 13:22:44 GMT</pubDate>
-      <description><![CDATA[Meta's Muse AI was built to manage tasks, but users are developing romantic AI relationships and even calling the AI companion their girlfriend.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Overnight - Mostly Clear</title>
+      <title>Anchorage Weather: Today - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 14:36:20 GMT</pubDate>
-      <description><![CDATA[20°F. Wind NE 5 mph. Mostly clear, with a low around 20. Northeast wind around 5 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Friday - Mostly Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 14:36:20 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 18:50:48 GMT</pubDate>
       <description><![CDATA[35°F. Wind N 5 mph. Mostly sunny, with a high near 35. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Friday Night - Mostly Cloudy</title>
+      <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 14:36:20 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 18:50:48 GMT</pubDate>
       <description><![CDATA[29°F. Wind N 5 mph. Mostly cloudy, with a low around 29. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +50,7 @@
       <title>Anchorage Weather: Saturday - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 14:36:20 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 18:50:48 GMT</pubDate>
       <description><![CDATA[42°F. Wind N 0 to 5 mph. Mostly cloudy, with a high near 42. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,9 +58,25 @@
       <title>Anchorage Weather: Saturday Night - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 14:36:20 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 18:50:48 GMT</pubDate>
       <description><![CDATA[38°F. Wind N 0 to 5 mph. Rain likely after 7pm. Cloudy, with a low around 38. North wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Sunday - Light Rain Likely</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Fri, 23 Oct 2026 18:50:48 GMT</pubDate>
+      <description><![CDATA[42°F. Wind SE 5 mph. Rain likely before 4pm. Cloudy, with a high near 42. Southeast wind around 5 mph. Chance of precipitation is 70%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Fisheries, rising costs and schools dominate Southwestern Alaska House debate</title>
+      <link>https://alaskabeacon.com/2026/10/23/fisheries-rising-costs-and-schools-dominate-southwestern-alaska-house-debate/</link>
+      <guid isPermaLink="false">8549650c76a09579f2f5cb578a6ade6e1f96ec10</guid>
+      <pubDate>Fri, 23 Oct 2026 18:12:04 GMT</pubDate>
+      <description><![CDATA[Four candidates are vying for an open seat to represent the Southwestern Alaska House District 37, one of the state’s largest rural districts where fisheries, skyrocketing costs of living, transportation and schools are top of mind this election season. The district includes communities from the middle Kuskokwim region including Aniak and Sleetmute in the north, […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>OPINION: Childhood food memories triumph over politics</title>
@@ -287,155 +303,163 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Six shot dead by gunmen at church funeral in Jordan, officials say</title>
-      <link>https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">45f546718dbb40df636d950f4d3d4e6639ea7a99</guid>
-      <pubDate>Fri, 23 Oct 2026 14:31:51 GMT</pubDate>
-      <description><![CDATA[Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.]]></description>
+      <title>‘Can’t trust Amy Acton’: Viral ad distracts from what’s really at stake in critical race, GOP strategist says</title>
+      <link>https://www.foxnews.com/politics/cant-trust-amy-acton-viral-ad-distracts-whats-really-stake-critical-race-gop-strategist-says</link>
+      <guid isPermaLink="false">703c4d37d6de648462c208acedaf65e15182e4ee</guid>
+      <pubDate>Fri, 23 Oct 2026 18:30:59 GMT</pubDate>
+      <description><![CDATA[Vivek Ramaswamy's controversial ad featuring Amy Acton's mother sparked bipartisan outrage, but a strategist says Acton's COVID-19 record matters more.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Cheap Android phones found with malware already installed</title>
+      <link>https://www.foxnews.com/tech/cheap-android-phones-found-malware-already-installed</link>
+      <guid isPermaLink="false">1acdc6751bd4e6bb8f6610ba43aac6ad22cba96d</guid>
+      <pubDate>Fri, 23 Oct 2026 18:30:00 GMT</pubDate>
+      <description><![CDATA[The Midnight Mimosa malware campaign hides inside cheap Android phone firmware, giving attackers powerful access before owners even turn devices on.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ohio could decide control of the Senate. Its rural voters might decide the winner</title>
+      <link>https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters</link>
+      <guid isPermaLink="false">bf8f2e4726c1462b51a6ddad877b07b73712ffd4</guid>
+      <pubDate>Fri, 23 Oct 2026 18:30:00 GMT</pubDate>
+      <description><![CDATA[Ohio has been a reliably red state for several elections but it's competitive this year. If Democrats want to prevail, they'll have to win people who have backed Republicans, like rural voters.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>PSG v Lyon moved as Paris prepares for more protests</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8df9352509be89871d0428c9155d91529716acab</guid>
-      <pubDate>Fri, 23 Oct 2026 14:18:41 GMT</pubDate>
-      <description><![CDATA[Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia</title>
-      <link>https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak</link>
-      <guid isPermaLink="false">5c96b22d487c377f234c884783320ab0c9d198d6</guid>
-      <pubDate>Fri, 23 Oct 2026 14:16:10 GMT</pubDate>
-      <description><![CDATA[When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Deadly shooting near Paris investigated as 'crime of terrorism', minister says</title>
-      <link>https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d7c780964626fca6b169afcfeefe4c74ca29c95b</guid>
-      <pubDate>Fri, 23 Oct 2026 14:15:23 GMT</pubDate>
-      <description><![CDATA[One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>College football team draws embarrassingly small crowd for what turns into Thursday night thriller</title>
-      <link>https://www.foxnews.com/outkick-sports/college-football-team-draws-embarrassingly-small-crowd-thursday-night-thriller</link>
-      <guid isPermaLink="false">807181670c1caf959014074c7adb63db7116dd1b</guid>
-      <pubDate>Fri, 23 Oct 2026 14:14:43 GMT</pubDate>
-      <description><![CDATA[Memphis Tigers drew an embarrassingly thin crowd for their Thursday night college football game against East Carolina despite being 5-2 on the season.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says</title>
-      <link>https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f8deac049ef3f2c702051ee48cb912d087bec4c0</guid>
-      <pubDate>Fri, 23 Oct 2026 14:13:33 GMT</pubDate>
-      <description><![CDATA[Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Jackson again publicly breaks with Supreme Court as justices side with GOP in last-minute voter ID fight</title>
-      <link>https://www.foxnews.com/politics/jackson-publicly-breaks-supreme-court-justices-side-gop-last-minute-voter-id-fight</link>
-      <guid isPermaLink="false">141f7b4d50bdebaf33c637a69b755ec06ed4e955</guid>
-      <pubDate>Fri, 23 Oct 2026 14:11:24 GMT</pubDate>
-      <description><![CDATA[Ketanji Brown Jackson publicly dissented as the Supreme Court let New Hampshire block student ID cards as ballot identification for midterm elections.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Fox News AI Newsletter: What we saw inside a massive Texas data center</title>
-      <link>https://www.foxnews.com/tech/fox-news-ai-newsletter-what-we-saw-inside-massive-texas-data-center</link>
-      <guid isPermaLink="false">d0d61d031027b25a5bf4bb81a4653d3d1721efc9</guid>
-      <pubDate>Fri, 23 Oct 2026 14:08:41 GMT</pubDate>
-      <description><![CDATA[The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Serbia’s longtime leader faces biggest political test as students mount election challenge</title>
-      <link>https://www.foxnews.com/world/serbias-longtime-leader-faces-biggest-political-test-students-mount-election-challenge</link>
-      <guid isPermaLink="false">f1c9f9f6bd12acf32e7568d9d0d6a29601f1e62c</guid>
-      <pubDate>Fri, 23 Oct 2026 14:03:19 GMT</pubDate>
-      <description><![CDATA[Serbian President Aleksandar Vucic resigned to run for prime minister, facing his biggest electoral challenge in 14 years by a political party founded by student protesters.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Pierce Brosnan warned sons about Hollywood being a 'very tough business' as youngest follows in his footsteps</title>
-      <link>https://www.foxnews.com/entertainment/pierce-brosnan-warned-sons-about-hollywood-being-very-tough-business-youngest-follows-his-footsteps</link>
-      <guid isPermaLink="false">515b06176c349f4310e6f1d754cdea6f58bdac83</guid>
-      <pubDate>Fri, 23 Oct 2026 14:00:13 GMT</pubDate>
-      <description><![CDATA[Pierce Brosnan reveals how he and Keely Shaye Smith kept their two sons grounded while warning Paris Brosnan about the "tough" acting world.]]></description>
+      <title>Helicopter rescues 4 people stranded atop vehicle in raging Arizona creek as severe storms slam Southwest</title>
+      <link>https://www.foxweather.com/weather-news/four-stranded-raging-arizona-flood-saved-rescue-helicopter-rare-severe-storms-inundate-southwest</link>
+      <guid isPermaLink="false">471f0d7d5764231fcfbc913a8c5bfaf4e87d29c4</guid>
+      <pubDate>Fri, 23 Oct 2026 18:26:53 GMT</pubDate>
+      <description><![CDATA[4 people were rescued by helicopter after fast-moving floodwaters swept their vehicle downstream near Wet Beaver Creek in Yavapai County, Arizona, where severe storms caused the creek to rise nearly 4 feet.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Meghan says she was informed about 'disturbing allegations' against her father in 2018</title>
-      <link>https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d4205cd34af026999016b4fa30040db552bb8557</guid>
-      <pubDate>Fri, 23 Oct 2026 13:58:04 GMT</pubDate>
-      <description><![CDATA[The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.]]></description>
+      <title>Did Texas use artificial intelligence to call fourth-down play against Florida? Longhorns AD clarifies report</title>
+      <link>https://www.foxnews.com/outkick-sports/did-texas-use-artificial-intelligence-call-fourth-down-play-against-florida-longhorns-ad-clarifies-report</link>
+      <guid isPermaLink="false">8af59e56fc6c80d3a124fb35b486266a71ea52a1</guid>
+      <pubDate>Fri, 23 Oct 2026 18:16:23 GMT</pubDate>
+      <description><![CDATA[Texas fans panicked after a report suggested Steve Sarkisian used the new Bevo Lab AI platform to call a critical fourth-down play against Florida.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Woman at centre of Cornell University rape inquiry in 'constant fear', lawyer says</title>
-      <link>https://www.bbc.co.uk/news/articles/c6x295kp2pr1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c491d80d70d1da624f2b6af28f4bcdc81074c874</guid>
-      <pubDate>Fri, 23 Oct 2026 13:52:33 GMT</pubDate>
-      <description><![CDATA[The woman, known anonymously as Jane Doe, alleged she was drugged and raped by several men on Cornell's campus.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Resurfaced clip goes viral again as John Daly explains how he blew $55M gambling, NBA fans fight &amp; Niners tat</title>
-      <link>https://www.foxnews.com/outkick-sports/resurfaced-clip-goes-viral-john-daly-explains-blew-55m-gambling-nba-fans-fight-niners-tat</link>
-      <guid isPermaLink="false">773044dca2479a0a1bc9b29846efad2cc870803e</guid>
-      <pubDate>Fri, 23 Oct 2026 13:37:40 GMT</pubDate>
-      <description><![CDATA[Screencaps, America's Best Daily Column, dives into John Daly's estimated $55 million blackjack losses from playing seven hands at a time.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ilhan Omar hit with expulsion threat as GOP lawmaker vows to boot her from Congress over DOJ probe</title>
-      <link>https://www.foxnews.com/politics/ilhan-omar-hit-expulsion-threat-gop-lawmaker-vows-boot-her-from-congress-over-doj-probe</link>
-      <guid isPermaLink="false">458875e0f1fb3b5193e34ced0ab2d1a57c8a3386</guid>
-      <pubDate>Fri, 23 Oct 2026 13:27:34 GMT</pubDate>
-      <description><![CDATA[Rep. Randy Fine says he plans to pursue House expulsion of Rep. Ilhan Omar if the Justice Department finds her guilty of immigration fraud.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>2026 World Series: How to watch Brewers and Rays after small ball carries them to Fall Classic</title>
-      <link>https://www.foxnews.com/outkick-sports/2026-world-series-how-watch-brewers-rays-after-small-ball-carries-them-fall-classic</link>
-      <guid isPermaLink="false">7929748ac48e97975a697ab32458bff3f4a3d041</guid>
-      <pubDate>Fri, 23 Oct 2026 13:05:17 GMT</pubDate>
-      <description><![CDATA[The Milwaukee Brewers and Tampa Bay Rays brought small ball back to baseball, ranking atop the league in batting average and sacrifice bunts.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>EXCLUSIVE: Fed timeline challenges reports of migrant baby facing immigration judge alone</title>
-      <link>https://www.foxnews.com/politics/fed-timeline-challenges-reports-migrant-baby-facing-immigration-judge-alone</link>
-      <guid isPermaLink="false">af853e3a81688dc5ba640d57a787454cb38a4c7c</guid>
-      <pubDate>Fri, 23 Oct 2026 13:00:07 GMT</pubDate>
-      <description><![CDATA[ORR officials say the former Acacia Center contract lacked accountability, with redacted invoices totaling over $20 million monthly for legal services.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank</title>
-      <link>https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7718246191f00e579f72e802cf6d58b797b8a66f</guid>
-      <pubDate>Fri, 23 Oct 2026 12:48:52 GMT</pubDate>
-      <description><![CDATA[The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.]]></description>
+      <title>Seven shot dead by gunmen at church funeral in Jordan, officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">45f546718dbb40df636d950f4d3d4e6639ea7a99</guid>
+      <pubDate>Fri, 23 Oct 2026 18:10:56 GMT</pubDate>
+      <description><![CDATA[Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths</title>
-      <link>https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak</link>
-      <guid isPermaLink="false">274b664a49a6b4d3898e893a617883bfd46239b5</guid>
-      <pubDate>Fri, 23 Oct 2026 12:41:39 GMT</pubDate>
-      <description><![CDATA[Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.]]></description>
+      <title>Gunmen kill 7 at Christian church in Jordan in what king calls act of terrorism</title>
+      <link>https://www.foxnews.com/world/gunmen-kill-7-christian-church-jordan-king-calls-act-terrorism</link>
+      <guid isPermaLink="false">cee0aa907976774dfb7fa258f4f5458171214f7d</guid>
+      <pubDate>Fri, 23 Oct 2026 18:01:47 GMT</pubDate>
+      <description><![CDATA[King Abdullah II vowed the "harshest retaliation" after gunmen opened fire during a funeral at a Greek Orthodox church in Karak, killing at least seven.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Burnham suggests stocking up on tinned food and bottled water</title>
-      <link>https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">24f91ffe692506bbd034477f47072e21d6d74a6c</guid>
-      <pubDate>Fri, 23 Oct 2026 12:41:10 GMT</pubDate>
-      <description><![CDATA[The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.]]></description>
+      <title>EXCLUSIVE: Rhode Island school district accused of hiding kids' gender transitions from parents</title>
+      <link>https://www.foxnews.com/media/exclusive-rhode-island-school-district-accused-hiding-kids-gender-transitions-parents</link>
+      <guid isPermaLink="false">1564d2e54761ff64f89d224be0c850912a40128b</guid>
+      <pubDate>Fri, 23 Oct 2026 18:00:29 GMT</pubDate>
+      <description><![CDATA[America First Legal filed a complaint alleging Rhode Island's Westerly Public Schools facilitates gender transitions without parental consent.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Federal judge kicked off 'botch job' anti-DEI case after stunning appeals court rebuke</title>
+      <link>https://www.foxnews.com/politics/federal-judge-kicked-off-botch-job-anti-dei-case-after-stunning-appeals-court-rebuke</link>
+      <guid isPermaLink="false">2a0f0063293e213225a6a8128ed64a8661260388</guid>
+      <pubDate>Fri, 23 Oct 2026 18:00:19 GMT</pubDate>
+      <description><![CDATA[The Fifth Circuit called Judge Henry Wingate's handling of Mississippi's anti-DEI law challenge a "botch job" riddled with AI hallucinations and errors.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Longtime ESPN host launches into angry tirade at New York Times, calling them 'gutless motherf------'</title>
+      <link>https://www.foxnews.com/media/longtime-espn-host-launches-angry-tirade-new-york-times-calling-them-gutless-motherf</link>
+      <guid isPermaLink="false">84f3df72cff9ee06df5cc0bc228fb1504c880408</guid>
+      <pubDate>Fri, 23 Oct 2026 18:00:08 GMT</pubDate>
+      <description><![CDATA[ESPN host Michael Wilbon unleashed an expletive-filled rant on "The Dan LeBatard Show," accusing The New York Times of gutting its sports news coverage.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Why the Hawks are a rare NBA road favorite worth backing against the rebuilding Hornets</title>
+      <link>https://www.foxnews.com/outkick-betting/why-hawks-rare-nba-road-favorite-worth-backing-against-rebuilding-hornets</link>
+      <guid isPermaLink="false">25c71b7f3b0fb3026577ab2e35f84e117f8464b4</guid>
+      <pubDate>Fri, 23 Oct 2026 17:46:12 GMT</pubDate>
+      <description><![CDATA[The Atlanta Hawks face the Charlotte Hornets with Jalen Johnson leading a revamped roster, while Brandon Miller tries to carry a depleted squad.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that</title>
+      <link>https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point</link>
+      <guid isPermaLink="false">646d5daadb2590752bcaca29995f5436ea2e9d70</guid>
+      <pubDate>Fri, 23 Oct 2026 17:35:14 GMT</pubDate>
+      <description><![CDATA[Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.]]></description>
+      <category>kenai</category>
+    </item>
+    <item>
+      <title>Trump says judge is 'desecrating' Charlie Kirk's memory amid fight over assassination trial date</title>
+      <link>https://www.foxnews.com/us/trump-says-judge-desecrating-charlie-kirks-memory-amid-fight-assassination-trial-date</link>
+      <guid isPermaLink="false">2b4c55d8d6e29393a5886d329fe13454c2531e4c</guid>
+      <pubDate>Fri, 23 Oct 2026 17:35:02 GMT</pubDate>
+      <description><![CDATA[Trump slammed the Utah judge in the Charlie Kirk assassination case, saying the trial should take a month, not years, as a 2029 date was proposed by the defense.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Meghan statement offers answers after years of questions about her relationship with father</title>
+      <link>https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">737d91898758d5a37d0758b411b37e0e4aad045b</guid>
+      <pubDate>Fri, 23 Oct 2026 17:27:50 GMT</pubDate>
+      <description><![CDATA[Today, without exactly using the word, Meghan claimed vindication.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'</title>
+      <link>https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f8deac049ef3f2c702051ee48cb912d087bec4c0</guid>
+      <pubDate>Fri, 23 Oct 2026 16:59:51 GMT</pubDate>
+      <description><![CDATA[Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bayern Munich manager Kompany taken to hospital after collapsing at training</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">bda637d7302fef4dac4f9707cc00f5fbc8bedecc</guid>
+      <pubDate>Fri, 23 Oct 2026 16:39:03 GMT</pubDate>
+      <description><![CDATA[Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ukraine says Starlink still restricted after Trump says limits lifted</title>
+      <link>https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9c464aa25357ec3d69354672de0ddf22b3326004</guid>
+      <pubDate>Fri, 23 Oct 2026 16:19:36 GMT</pubDate>
+      <description><![CDATA[The network is used by the Ukrainian military, sources say, and Trump says "if there is a problem, I'll get it straightened out".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Watch: CCTV footage appears to show gunmen at site of Jordan shooting</title>
+      <link>https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8bbed367df58c018090301452d1cab6f2f0129f4</guid>
+      <pubDate>Fri, 23 Oct 2026 15:59:36 GMT</pubDate>
+      <description><![CDATA[Dozens of people had been inside the church for a funeral when the shooting began, local media report.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries</title>
+      <link>https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop</link>
+      <guid isPermaLink="false">97d8c8a9413fe058cf3c31d6f571a371d6dbc802</guid>
+      <pubDate>Fri, 23 Oct 2026 15:51:04 GMT</pubDate>
+      <description><![CDATA[Republicans have long accused the FBI of mishandling the laptop and the investigations into the younger Biden.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead</title>
+      <link>https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7718246191f00e579f72e802cf6d58b797b8a66f</guid>
+      <pubDate>Fri, 23 Oct 2026 15:37:07 GMT</pubDate>
+      <description><![CDATA[The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -444,6 +468,14 @@
       <guid isPermaLink="false">9f4ef6000f0441228c3b744c9866f92994429616</guid>
       <pubDate>Fri, 23 Oct 2026 12:40:08 GMT</pubDate>
       <description><![CDATA[The Sunshine State is facing a weekend of wet weather as days of heavy downpours combined with King Tides increase the chance of coastal flooding from Miami to Charleston.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Southwest faces more severe weather, flash flooding as Colorado Gov. declares state of emergency</title>
+      <link>https://www.foxweather.com/weather-news/severe-storm-flood-new-mexico-arizona-utah-colorado</link>
+      <guid isPermaLink="false">c404f33fed3fc9effe405f5afc654ab27600f287</guid>
+      <pubDate>Fri, 23 Oct 2026 10:32:15 GMT</pubDate>
+      <description><![CDATA[Another round of dangerous severe weather will shift eastward and develop over New Mexico Friday afternoon after storms triggered flash flooding and evacuations across parts of the Four Corners region Thursday.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -492,38 +524,6 @@
       <guid isPermaLink="false">6ec9a1c12e6f18f160742d798fe5d1e9cabab3d7</guid>
       <pubDate>Wed, 21 Oct 2026 20:52:14 GMT</pubDate>
       <description><![CDATA[Vance strengthened into a hurricane early Friday, becoming the 13th hurricane in the Pacific Basin this season as it approaches Mexico next week. Hurricane Vance is now forecast to rapidly intensify into a major hurricane by Friday night, which would be the basin's 10th Category 3 or stronger storm this year.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Tropical Storm Vance could intensify into a major hurricane, while Typhoon Champi threatens Taiwan and Japan</title>
-      <link>https://www.foxweather.com/weather-news/tropical-storm-vance-forms-champi-churns-pacific</link>
-      <guid isPermaLink="false">6ec9a1c12e6f18f160742d798fe5d1e9cabab3d7</guid>
-      <pubDate>Wed, 21 Oct 2026 20:52:14 GMT</pubDate>
-      <description><![CDATA[Tropical Storm Vance is expected to strengthen into the 13th hurricane in the Pacific Basin this season as it approaches Mexico next week and could intensify into a major hurricane, which would be the basin's 10th Category 3 or stronger storm this year.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Tropical Storm Vance forms in eastern Pacific as hurricane season reaches rare milestone not seen since 2018</title>
-      <link>https://www.foxweather.com/weather-news/tropical-storm-vance-forms-champi-churns-pacific</link>
-      <guid isPermaLink="false">6ec9a1c12e6f18f160742d798fe5d1e9cabab3d7</guid>
-      <pubDate>Wed, 21 Oct 2026 20:52:14 GMT</pubDate>
-      <description><![CDATA[The active Pacific continues to churn out tropical systems, with Tropical Storm Vance becoming the latest named storm to develop in the eastern Pacific while Super Typhoon Champi remains a powerful storm in the western Pacific. Tropical Storm Vance has formed in the eastern Pacific south of Mexico, becoming the first V-named storm in the basin since 2018.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Tropical Storm Vance forms in eastern Pacific, becoming first V-named storm since 2018</title>
-      <link>https://www.foxweather.com/weather-news/tropical-storm-vance-forms-champi-churns-pacific</link>
-      <guid isPermaLink="false">6ec9a1c12e6f18f160742d798fe5d1e9cabab3d7</guid>
-      <pubDate>Wed, 21 Oct 2026 20:52:14 GMT</pubDate>
-      <description><![CDATA[The active Pacific continues to churn out tropical systems, with Tropical Storm Vance becoming the latest named storm to develop in the eastern Pacific while Super Typhoon Champi remains a powerful storm in the western Pacific. Tropical Storm Vance has formed in the eastern Pacific south of Mexico, becoming the first V-named storm in the basin since 2018.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Josephine turns post-tropical as storm brings dangerous surf, coastal flooding to East Coast</title>
-      <link>https://www.foxweather.com/weather-news/subtropical-storm-josephine-atlantic-east-coast</link>
-      <guid isPermaLink="false">ee9f2a66c847d36d90f7b42c5e69086c41cf8c7e</guid>
-      <pubDate>Wed, 21 Oct 2026 20:34:25 GMT</pubDate>
-      <description><![CDATA[Post-Tropical Storm Josephine is spinning less than 200 miles south of southern New England, lashing parts of the Massachusetts coast and eastern portions of New York's Long Island with strong wind gusts as it begins to accelerate away from the East Coast.]]></description>
       <category>weather</category>
     </item>
   </channel>
