@@ -5,20 +5,12 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 23:50:15 GMT</lastBuildDate>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 22 Oct 2026 23:50:15 GMT</pubDate>
-      <description><![CDATA[35°F. Wind N 5 mph. Sunny, with a high near 35. North wind around 5 mph.]]></description>
-      <category>weather</category>
-    </item>
+    <lastBuildDate>Fri, 23 Oct 2026 03:04:59 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 22 Oct 2026 23:50:15 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 03:04:59 GMT</pubDate>
       <description><![CDATA[20°F. Wind NE 0 to 5 mph. Clear, with a low around 20. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,7 +18,7 @@
       <title>Anchorage Weather: Friday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 22 Oct 2026 23:50:15 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 03:04:59 GMT</pubDate>
       <description><![CDATA[35°F. Wind NE 0 to 5 mph. Sunny, with a high near 35. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -34,17 +26,41 @@
       <title>Anchorage Weather: Friday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 22 Oct 2026 23:50:15 GMT</pubDate>
-      <description><![CDATA[28°F. Wind N 0 to 5 mph. Partly cloudy, with a low around 28. North wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 23 Oct 2026 03:04:59 GMT</pubDate>
+      <description><![CDATA[28°F. Wind N 0 to 5 mph. Partly cloudy. Low around 28, with temperatures rising to around 34 overnight. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 22 Oct 2026 23:50:15 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 03:04:59 GMT</pubDate>
       <description><![CDATA[42°F. Wind NE 0 to 5 mph. Partly sunny, with a high near 42. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Saturday Night - Cloudy then Chance Rain And Snow</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Fri, 23 Oct 2026 03:04:59 GMT</pubDate>
+      <description><![CDATA[35°F. Wind E 5 mph. A chance of rain and snow after 4am. Cloudy, with a low around 35. East wind around 5 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Alaska Lt. Gov. incorrectly put disqualified candidate on the ballot, state judge rules</title>
+      <link>https://alaskabeacon.com/2026/10/22/alaska-lt-gov-incorrectly-put-disqualified-candidate-on-the-ballot-state-judge-rules/</link>
+      <guid isPermaLink="false">d26dada5df15a779a7bc88a266c581b4dd7c95ca</guid>
+      <pubDate>Fri, 23 Oct 2026 01:05:54 GMT</pubDate>
+      <description><![CDATA[The Alaska Division of Elections and Lt. Gov. Nancy Dahlstrom acted incorrectly when they put disqualified Republican candidate Jose Tagle on the ballot for state House District 22, an Anchorage Superior Court judge said Thursday. Judge Josie Garton’s decision, published in the late afternoon, means “Tagle’s election may not be certified if he does win […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Thursday, Oct. 22, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17503163/newscast-thursday-oct-22-2026</link>
+      <guid isPermaLink="false">cd38eaedd0ed99830eff00b171accdae158a2536</guid>
+      <pubDate>Fri, 23 Oct 2026 00:55:06 GMT</pubDate>
+      <description><![CDATA[The U.S. Geological Survey announced a new estimate for natural gas potential across Alaska's North Slope; The Alaska Federation of Natives kicked off its annual convention in Anchorage and marked its 60th anniversary; Alaska Native education specialists stressed self-determination at the Elders and Youth conference in Anchorage; Juneau's top-paid city officials are police officers due to overtime pay]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>New geological estimate puts Alaska North Slope gas resources at 96 trillion cubic feet</title>
@@ -52,14 +68,6 @@
       <guid isPermaLink="false">18f09d0ceb2947b19cce88668a5ce5c4dae2bd2d</guid>
       <pubDate>Thu, 22 Oct 2026 22:30:51 GMT</pubDate>
       <description><![CDATA[Alaska’s North Slope probably holds enough undiscovered natural gas to fuel the nation for nearly three years, according to a new federal report. A resource assessment released Wednesday by the U.S. Geological Survey produced a mean estimate of 96 trillion cubic feet for undiscovered conventional natural gas reserves across the entire North Slope. That is […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>L'Oreal says weight loss drugs are impacting beauty and skin care sales</title>
-      <link>https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">84738a388b9c1d2757de3f10a8cc06c8bc2c306f</guid>
-      <pubDate>Thu, 22 Oct 2026 22:27:53 GMT</pubDate>
-      <description><![CDATA[The beauty giant's CEO says the use of GLP-1s is "a very important phenomenon for us".]]></description>
       <category>local</category>
     </item>
     <item>
@@ -84,6 +92,14 @@
       <guid isPermaLink="false">c6acbd6cfb8f3265c72b9cab9f78550b210f34b3</guid>
       <pubDate>Thu, 22 Oct 2026 20:35:16 GMT</pubDate>
       <description><![CDATA[Early, in-person voting opened for Alaska’s general election on Monday morning, and as of Wednesday morning, 17,560 Alaskans had already cast their votes. That includes almost 11,000 people who have voted at early voting sites in the Railbelt, Juneau and Nome, as well as more than 6,000 who had voted absentee by mail, fax or […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Trial by Fire</title>
+      <link>https://mustreadalaska.com/trial-by-fire/</link>
+      <guid isPermaLink="false">f5b5558cf965ff03710eeed7cbed3eeafb609529</guid>
+      <pubDate>Thu, 22 Oct 2026 20:16:49 GMT</pubDate>
+      <description><![CDATA[Have you ever wondered why you are where you are, figuratively and literally? Why you were born into the family you have? Why you were born into this time and place in history? The answer to all of these questions is simple: we really do not know. Not now anyway. How often have you said […] The post Trial by Fire appeared first on Must Read Alaska .]]></description>
       <category>local</category>
     </item>
     <item>
@@ -271,6 +287,102 @@
       <category>politics</category>
     </item>
     <item>
+      <title>Rhamondre Stevenson's miraculous 48-yard touchdown stuns Bears as clock expires in first half</title>
+      <link>https://www.foxnews.com/outkick-sports/rhamondre-stevenson-miraculous-48-yard-touchdown-stuns-bears-clock-expires-first-half</link>
+      <guid isPermaLink="false">1786c90525e4d24ceb6905f2043f7a3363260a4a</guid>
+      <pubDate>Fri, 23 Oct 2026 02:42:35 GMT</pubDate>
+      <description><![CDATA[Rhamondre Stevenson's 48-yard touchdown as time expired stunned Soldier Field, with only a 4.3% chance of scoring on the play against the Chicago Bears.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Todd Benzinger, who caught the final out of the Reds' 1990 World Series sweep, dead at 63</title>
+      <link>https://www.foxnews.com/outkick-sports/todd-benzinger-caught-final-out-reds-1990-world-series-sweep-dead-63</link>
+      <guid isPermaLink="false">0d7f6dcb17d0531ab4d7e26e88818a3de9b60602</guid>
+      <pubDate>Fri, 23 Oct 2026 02:26:53 GMT</pubDate>
+      <description><![CDATA[Todd Benzinger, the first baseman who caught the final out of the Cincinnati Reds' 1990 World Series sweep over the Oakland Athletics, died at 63.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Super Bowl champion Marshall Faulk says he is living with Parkinson's disease</title>
+      <link>https://www.foxnews.com/outkick-sports/super-bowl-champion-marshall-faulk-living-parkinsons-disease</link>
+      <guid isPermaLink="false">0472473a124a0f8d0126b77713e9b0835f587070</guid>
+      <pubDate>Fri, 23 Oct 2026 02:21:22 GMT</pubDate>
+      <description><![CDATA[Marshall Faulk revealed his Parkinson's disease diagnosis on a podcast, describing hand rigidity and tremors he's managed with medication for over a year.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>NBA legend Charles Barkley says he won't 'burn every bridge' like Aaron Rodgers as he considers retirement</title>
+      <link>https://www.foxnews.com/outkick-sports/nba-legend-charles-barkley-says-he-wont-burn-every-bridge-like-aaron-rodgers-he-considers-retirement</link>
+      <guid isPermaLink="false">f0e7017d8ae38fc527acf46e7b9841b121ed2160</guid>
+      <pubDate>Fri, 23 Oct 2026 02:07:47 GMT</pubDate>
+      <description><![CDATA[Charles Barkley roasted Aaron Rodgers' bitter farewell tour, vowing his own TV retirement will be about gratitude rather than burning bridges.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>See it: Utah city forced to evacuate immediately as dangerous flash flooding inundates the region</title>
+      <link>https://www.foxweather.com/weather-news/utah-city-forced-evacuate-immediately-dangerous-flash-flooding-inundates-region</link>
+      <guid isPermaLink="false">f0f71ffc45bb3c60f03266050cad1950bc6deccf</guid>
+      <pubDate>Fri, 23 Oct 2026 01:46:57 GMT</pubDate>
+      <description><![CDATA[Evacuation orders were issued for residents in Hurricane, Utah, on Thursday as life-threatening flash flooding slammed the city.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>'I basically snapped': New Jersey mayor charges at resident during chaotic council meeting</title>
+      <link>https://www.foxnews.com/politics/i-basically-snapped-new-jersey-mayor-charges-resident-chaotic-council-meeting</link>
+      <guid isPermaLink="false">15df80bfe76bf7047df537602d250af4b0116025</guid>
+      <pubDate>Fri, 23 Oct 2026 01:42:39 GMT</pubDate>
+      <description><![CDATA[Video captures New Jersey Republican Mayor Matthew Bianchini lunging at a resident during a Pemberton Township council meeting before being restrained.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump ordered to answer questions under oath in BBC lawsuit</title>
+      <link>https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">be9481d2600e1cca0782e1f4b4e49a9cb8d4dde4</guid>
+      <pubDate>Fri, 23 Oct 2026 01:38:44 GMT</pubDate>
+      <description><![CDATA[Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bears fans don Mike Ditka's famous mustache as franchise legend honored at first home game since death</title>
+      <link>https://www.foxnews.com/outkick-sports/bears-fans-don-mike-ditka-famous-mustache-franchise-legend-honored-first-home-game-since-death</link>
+      <guid isPermaLink="false">84f034debc4a1f80adeec2a7fd434e5824c30239</guid>
+      <pubDate>Fri, 23 Oct 2026 01:25:17 GMT</pubDate>
+      <description><![CDATA[The Bears gave out fake mustaches for fans, while a moment of silence was held for Ditka, a Super Bowl-winning coach and Pro Football Hall of Famer.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Pacers star Tyrese Haliburton moved to tears after long-awaited return from Achilles injury</title>
+      <link>https://www.foxnews.com/outkick-sports/pacers-star-tyrese-haliburton-moved-tears-long-awaited-return-achilles-injury</link>
+      <guid isPermaLink="false">44968191c11f45eba40935737e6edce96583ad00</guid>
+      <pubDate>Fri, 23 Oct 2026 01:18:05 GMT</pubDate>
+      <description><![CDATA[Tyrese Halliburton was moved to tears after returning from his Achilles injury, then scored 16 fourth-quarter points to lift the Pacers past the Pelicans.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Far-left podcaster calls for 'pistols firing' toward JD Vance, defeating him in 2028</title>
+      <link>https://www.foxnews.com/media/far-left-podcaster-calls-pistols-firing-toward-jd-vance-defeat-him-2028</link>
+      <guid isPermaLink="false">6d63008a16f5f78d04732cd7ab3da1098bd687cd</guid>
+      <pubDate>Fri, 23 Oct 2026 00:52:02 GMT</pubDate>
+      <description><![CDATA[Podcaster Jennifer Welch urged listeners to "keep pistols firing" toward Vice President JD Vance and defeat him in 2028, calling him unfit for presidential office.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>World Series champion Mitch Garver retires from baseball at 35</title>
+      <link>https://www.foxnews.com/outkick-sports/world-series-champion-mitch-garver-retires-baseball-35</link>
+      <guid isPermaLink="false">65eb07fc13fb23a37ea54068af1ed8617b7bf786</guid>
+      <pubDate>Fri, 23 Oct 2026 00:42:14 GMT</pubDate>
+      <description><![CDATA[World Series champion Mitch Garver announced his retirement from baseball at 35 years old. He spent time with the Minnesota Twins, Texas Rangers and Seattle Mariners.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Amber warning in place as Storm Austen hits parts of UK</title>
+      <link>https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f6a31577756571240c8ff34a0296082d2293b82c</guid>
+      <pubDate>Fri, 23 Oct 2026 00:08:43 GMT</pubDate>
+      <description><![CDATA[Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
       <title>NYC votes to end nearly 170-year-old horse carriage tradition as Trump blasts ban, drivers threaten lawsuit</title>
       <link>https://www.foxnews.com/politics/nyc-votes-end-nearly-170-year-old-horse-carriage-tradition-trump-blasts-ban-drivers-threaten-lawsuit</link>
       <guid isPermaLink="false">51d6229818e608223a4f1b41870dce389ff0ae82</guid>
@@ -335,92 +447,12 @@
       <category>world</category>
     </item>
     <item>
-      <title>Michigan paper declares it won't seek comment from Mike Rogers due to 'lies and bigoted attacks' on El-Sayed</title>
-      <link>https://www.foxnews.com/media/michigan-paper-declares-wont-seek-comment-mike-rogers-due-lies-bigoted-attacks-el-sayed</link>
-      <guid isPermaLink="false">5fa0dc080d4847efab7e75f460fc42faf73ce39d</guid>
-      <pubDate>Thu, 22 Oct 2026 23:00:52 GMT</pubDate>
-      <description><![CDATA[Detroit Metro Times says it will no longer seek comment from Mike Rogers' campaign over alleged lies and bigoted attacks against Abdul El-Sayed.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Charles Barkley jokingly warns 'Inside the NBA' crew about Shaquille O'Neal's FBI connection</title>
-      <link>https://www.foxnews.com/outkick-sports/charles-barkley-jokingly-warns-inside-nba-crew-shaquille-oneals-fbi-connection</link>
-      <guid isPermaLink="false">1ff59de2c027ec5340bbf7b0fe7ef08cc2bcd201</guid>
-      <pubDate>Thu, 22 Oct 2026 23:00:40 GMT</pubDate>
-      <description><![CDATA[Charles Barkley roasted Shaq for hanging out with FBI Director Kash Patel during the "Inside the NBA" pregame show, leaving the entire crew laughing.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Parker McCollum recalls how a snapping ZYN can nearly spooked his biggest whitetail buck ever</title>
-      <link>https://www.foxnews.com/outkick-sports/parker-mccollum-recalls-snapping-zyn-nearly-spooked-biggest-whitetail-buck</link>
-      <guid isPermaLink="false">d659954427c1a796c0fe4a9030a8785a3d68579e</guid>
-      <pubDate>Thu, 22 Oct 2026 22:57:26 GMT</pubDate>
-      <description><![CDATA[Parker McCollum nearly spooked a massive Oklahoma whitetail buck when his ZYN can snapped shut at the worst possible moment during archery season.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Celebrity Traitors - paranoia deepens as traitor behaviour splits opinion</title>
-      <link>https://www.bbc.co.uk/news/articles/cmqxn3133rdwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4e11fb7346d0a9f125889bebfb41553121ab5767</guid>
-      <pubDate>Thu, 22 Oct 2026 22:48:44 GMT</pubDate>
-      <description><![CDATA[The murder in plain sight victim was revealed ahead of another difficult round table.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Netflix faces turmoil as Greta Gerwig's $280 million 'Narnia' movie looks headed for disaster</title>
-      <link>https://www.foxnews.com/outkick-culture/netflix-turmoil-greta-gerwig-280-million-narnia-movie-headed-disaster</link>
-      <guid isPermaLink="false">26613d69b4dbca07606c70b8aae22f05dc28fadb</guid>
-      <pubDate>Thu, 22 Oct 2026 22:42:00 GMT</pubDate>
-      <description><![CDATA[Greta Gerwig's Netflix "Narnia: The Magician's Nephew" trailer sparks backlash as fans question the $250 million adaptation's tone and direction.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Are the Miami Hurricanes about to start the surge of college football teams going independent?</title>
-      <link>https://www.foxnews.com/outkick-sports/miami-hurricanes-start-surge-college-football-teams-going-independent</link>
-      <guid isPermaLink="false">a56ba1ac3a73c51b96c77c88193e48d6e5a7ed76</guid>
-      <pubDate>Thu, 22 Oct 2026 22:41:52 GMT</pubDate>
-      <description><![CDATA[Miami president Joe Echevarria says the Hurricanes could go independent from the ACC as the 24-team college football playoff reshapes economics.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Raye wins the Mercury Prize with This Music May Contain Hope</title>
-      <link>https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2a277cd377eb82254f7712d0930159779d0be4c4</guid>
-      <pubDate>Thu, 22 Oct 2026 22:33:52 GMT</pubDate>
-      <description><![CDATA[The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Vermont ski mountains prepare to open as winter weather looms</title>
       <link>https://www.foxweather.com/weather-news/vermont-ski-mountains-prepare-season-winter-looms-kalshi</link>
       <guid isPermaLink="false">9de67e78171c898efc4c7820a07db33383fae210</guid>
       <pubDate>Thu, 22 Oct 2026 22:13:04 GMT</pubDate>
       <description><![CDATA[Prediction markets are wagering on when Stowe Mountain Resort will open for the 2026-27 season as Vermont ski areas prepare for winter and forecasters assess the state’s snow outlook.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Trump says Musk has restored access to Ukraine's Starlink network</title>
-      <link>https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9c464aa25357ec3d69354672de0ddf22b3326004</guid>
-      <pubDate>Thu, 22 Oct 2026 21:42:39 GMT</pubDate>
-      <description><![CDATA[Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Musk has restored access to Ukraine's Starlink network, Trump says</title>
-      <link>https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9c464aa25357ec3d69354672de0ddf22b3326004</guid>
-      <pubDate>Thu, 22 Oct 2026 21:42:39 GMT</pubDate>
-      <description><![CDATA[Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Prince William makes surprise appearance on Graham Norton Show</title>
-      <link>https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">22ef589310bbdb0519c42d6b3c9574c43cd6546d</guid>
-      <pubDate>Thu, 22 Oct 2026 21:21:22 GMT</pubDate>
-      <description><![CDATA[The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Massive killer whale named Macho makes waves off Los Angeles coast alongside pod of orcas</title>
@@ -492,38 +524,6 @@
       <guid isPermaLink="false">bac3e5d86a78968475e47677595ffd6499d1763b</guid>
       <pubDate>Wed, 21 Oct 2026 20:08:47 GMT</pubDate>
       <description><![CDATA[A surge of wet weather is headed for the Southeast U.S. this week, with days of storms that could add significant rain by the end of the month.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>America adds its first national park in nearly a decade — and it's tucked away in southeastern Arizona</title>
-      <link>https://www.foxweather.com/weather-news/new-national-park-arizona-decade-landscape</link>
-      <guid isPermaLink="false">7c8d1ce5c5ba8289ba4e4dccb43b496ebbc6c541</guid>
-      <pubDate>Wed, 21 Oct 2026 18:23:56 GMT</pubDate>
-      <description><![CDATA[Big news for outdoor enthusiasts who enjoy exploring the 63 national parks across the country: a brand-new park is being added for the first time in nine years.]]></description>
-      <category>southeast</category>
-    </item>
-    <item>
-      <title>Severe weather threat targets Four Corners as New Mexico sees its first Tornado Watch in 28 years</title>
-      <link>https://www.foxweather.com/weather-news/rare-severe-storm-threat-arizona-southern-california-hail-tornadoes</link>
-      <guid isPermaLink="false">d6c4a51511ba9af49e0cae8c05a8400215b3737a</guid>
-      <pubDate>Wed, 21 Oct 2026 15:18:52 GMT</pubDate>
-      <description><![CDATA[A renewed flash flood threat is present in the Four Corners Thursday after a day of severe thunderstorms that intensified through Wednesday evening. In southeastern Colorado, a small Level 3 out of 4 flash flood threat exists close to the Ferris Fire burn scar. The FOX Forecast Center said 3 to 5 inches of rain is possible.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Renewed flood, severe weather threat targets Four Corners after Arizona's first Tornado Watch in 16 years</title>
-      <link>https://www.foxweather.com/weather-news/rare-severe-storm-threat-arizona-southern-california-hail-tornadoes</link>
-      <guid isPermaLink="false">d6c4a51511ba9af49e0cae8c05a8400215b3737a</guid>
-      <pubDate>Wed, 21 Oct 2026 15:18:52 GMT</pubDate>
-      <description><![CDATA[A renewed flash flood threat is present in the Four Corners Thursday after a day of severe thunderstorms that intensified through Wednesday evening. In southeastern Colorado, a small Level 3 out of 4 flash flood threat exists close to the Ferris Fire burn scar. The FOX Forecast Center said 3 to 5 inches of rain is possible.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Renewed flash flood threat targets Four Corners after rare severe weather slams Arizona</title>
-      <link>https://www.foxweather.com/weather-news/rare-severe-storm-threat-arizona-southern-california-hail-tornadoes</link>
-      <guid isPermaLink="false">d6c4a51511ba9af49e0cae8c05a8400215b3737a</guid>
-      <pubDate>Wed, 21 Oct 2026 15:18:52 GMT</pubDate>
-      <description><![CDATA[A renewed flash flood threat is present in the Four Corners Thursday after a day of severe thunderstorms that intensified through Wednesday evening. In southeastern Colorado, a small Level 3 out of 4 flash flood threat exists close to the Ferris Fire burn scar. The FOX Forecast Center said 3 to 5 inches of rain is possible.]]></description>
       <category>weather</category>
     </item>
   </channel>
