@@ -5,46 +5,86 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:12:55 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Tonight - Clear</title>
+      <title>Bryan Norcross: Looking for the end of the 2026 hurricane season</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-looking-end-2026-hurricane-season</link>
+      <guid isPermaLink="false">b173bb3a0f5ed779ae84c3f82b54b6b8cb0b9551</guid>
+      <pubDate>Fri, 23 Oct 2026 14:12:55 GMT</pubDate>
+      <description><![CDATA[Mother Nature is trying hard to wrap up Hurricane Season 2026 in the Atlantic. The El Niño-powered jet stream is ripping across the Gulf, the Caribbean, and the tropical Atlantic prohibiting anything from developing under it. It's a wintertime look.]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Why some people are falling for Meta's Muse AI</title>
+      <link>https://www.foxnews.com/tech/why-people-falling-metas-muse-ai</link>
+      <guid isPermaLink="false">f6c86c0170fbd7b56a32b8ee4f6c73a4c6049c78</guid>
+      <pubDate>Fri, 23 Oct 2026 13:22:44 GMT</pubDate>
+      <description><![CDATA[Meta's Muse AI was built to manage tasks, but users are developing romantic AI relationships and even calling the AI companion their girlfriend.]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Overnight - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 09:01:46 GMT</pubDate>
-      <description><![CDATA[20°F. Wind NE 0 to 5 mph. Clear, with a low around 20. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 23 Oct 2026 14:36:20 GMT</pubDate>
+      <description><![CDATA[20°F. Wind NE 5 mph. Mostly clear, with a low around 20. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Friday - Sunny</title>
+      <title>Anchorage Weather: Friday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 09:01:46 GMT</pubDate>
-      <description><![CDATA[35°F. Wind NE 0 to 5 mph. Sunny, with a high near 35. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 23 Oct 2026 14:36:20 GMT</pubDate>
+      <description><![CDATA[35°F. Wind N 5 mph. Mostly sunny, with a high near 35. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Friday Night - Partly Cloudy</title>
+      <title>Anchorage Weather: Friday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 09:01:46 GMT</pubDate>
-      <description><![CDATA[28°F. Wind N 0 to 5 mph. Partly cloudy. Low around 28, with temperatures rising to around 34 overnight. North wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 23 Oct 2026 14:36:20 GMT</pubDate>
+      <description><![CDATA[29°F. Wind N 5 mph. Mostly cloudy, with a low around 29. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday - Partly Sunny</title>
+      <title>Anchorage Weather: Saturday - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 09:01:46 GMT</pubDate>
-      <description><![CDATA[42°F. Wind NE 0 to 5 mph. Partly sunny, with a high near 42. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 23 Oct 2026 14:36:20 GMT</pubDate>
+      <description><![CDATA[42°F. Wind N 0 to 5 mph. Mostly cloudy, with a high near 42. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday Night - Cloudy</title>
+      <title>Anchorage Weather: Saturday Night - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 23 Oct 2026 09:01:46 GMT</pubDate>
-      <description><![CDATA[35°F. Wind E 5 mph. Cloudy, with a low around 35. East wind around 5 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Fri, 23 Oct 2026 14:36:20 GMT</pubDate>
+      <description><![CDATA[38°F. Wind N 0 to 5 mph. Rain likely after 7pm. Cloudy, with a low around 38. North wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>OPINION: Childhood food memories triumph over politics</title>
+      <link>https://www.homernews.com/2026/10/23/opinion-childhood-food-memories-triumph-over-politics/</link>
+      <guid isPermaLink="false">30807ccc034a16628e7cd08991f16584dfd29904</guid>
+      <pubDate>Fri, 23 Oct 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[The political flyers overflowing my mailbox, the pop-up videos overwhelming my mood every time I check sports scores on a website, the campaign ads overpowering my senses when I listen to my favorite commercial radio stations, they are making October a thoroughly depressing and miserable month.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>A record number of women are running for state legislatures this year</title>
+      <link>https://alaskabeacon.com/2026/10/23/repub/a-record-number-of-women-are-running-for-state-legislatures-this-year/</link>
+      <guid isPermaLink="false">1d35642ba8e9a77d708fba426914b72abe920a63</guid>
+      <pubDate>Fri, 23 Oct 2026 13:15:10 GMT</pubDate>
+      <description><![CDATA[A record number of women are running for state legislative seats this November, more than two-thirds of whom are Democrats. Across the 46 states with legislative seats on the ballot, a total of 3,824 women are running — up from 2022’s previous record of 3,621 women candidates, according to the Center for American Women and […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Kenai Borough seeks bigger property tax break for emergency volunteers</title>
+      <link>https://www.homernews.com/2026/10/23/kenai-borough-seeks-bigger-property-tax-break-for-emergency-volunteers/</link>
+      <guid isPermaLink="false">f23cd82ad3e5d393c649f849f12bdf3589c0ff20</guid>
+      <pubDate>Fri, 23 Oct 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Ordinance would increase responders’ property tax exemption to $50,000]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Alaska Lt. Gov. incorrectly put disqualified candidate on the ballot, state judge rules</title>
@@ -247,196 +287,172 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Revealed: The money behind the last-minute fringe candidate ad blitz in Alaska’s U.S. Senate primary</title>
-      <link>https://alaskabeacon.com/2026/10/21/revealed-the-money-behind-the-last-minute-fringe-candidate-ad-blitz-in-alaskas-u-s-senate-primary/</link>
-      <guid isPermaLink="false">ad0e1e32390d9623d8cf2a83f37c9554f2015c1b</guid>
-      <pubDate>Wed, 21 Oct 2026 20:00:49 GMT</pubDate>
-      <description><![CDATA[A left-leaning dark money organization and a GOP fund were among the groups behind the last-minute blitz of cash into Alaska’s U.S. Senate primary in August, when super PACs flooded the state with ads for fringe candidates on both the left and right, according to new filings with federal campaign finance regulators. The ads were […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>In 6 states, ballots include bans on noncitizen voting</title>
-      <link>https://alaskabeacon.com/2026/10/21/repub/in-6-states-ballots-include-bans-on-noncitizen-voting/</link>
-      <guid isPermaLink="false">ef7c6bbcf4792c6ba5c2029a023f1e06409bf5d6</guid>
-      <pubDate>Wed, 21 Oct 2026 19:20:22 GMT</pubDate>
-      <description><![CDATA[Voters in six states are considering ballot measures in the midterm elections that would make it clear that only U.S. citizens may vote — and block local governments from expanding that right to others. Proposed constitutional amendments or law changes in Alaska, Arizona, Arkansas, Kansas, South Dakota and West Virginia would explicitly bar noncitizens from voting. […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>AG Mills presses Alaska Judicial Council to comply with Public Records Request regarding DEI information</title>
-      <link>https://mustreadalaska.com/ag-mills-presses-alaska-judicial-council-to-comply-with-public-records-request-regarding-dei-information/</link>
-      <guid isPermaLink="false">b27123b731d383fc97a39a592145bb77e6b5f620</guid>
-      <pubDate>Wed, 21 Oct 2026 18:57:48 GMT</pubDate>
-      <description><![CDATA[On October 20, 2026, Acting Alaska Attorney General Cori Mills filed an amicus brief in the case American First Legal Foundation v Alaska Judicial Council, in which American First Legal (AFL) sued the Alaska Judicial Council after the Council failed to provide information following a public records request. The request sought records regarding the application […] The post AG Mills presses Alaska Judicial Council to comply with Public Records Request regarding DEI information appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>How a Democrat positioned himself to be Alaska’s next governor</title>
-      <link>https://www.juneauempire.com/2026/10/21/how-a-democrat-positioned-himself-to-be-alaskas-next-governor/</link>
-      <guid isPermaLink="false">7367ce8a39311069c2b1f7bd209046c8b08b3778</guid>
-      <pubDate>Wed, 21 Oct 2026 18:30:00 GMT</pubDate>
-      <description><![CDATA[Jonathan Kreiss-Tomkins dropped out of Yale University to win a state legislative seat at age 23]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate</title>
-      <link>https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate</link>
-      <guid isPermaLink="false">7f792d1847d389e9860e718b75e965e0c1a131dd</guid>
-      <pubDate>Fri, 23 Oct 2026 10:00:04 GMT</pubDate>
-      <description><![CDATA[Republican Sen. Roger Marshall and Democrat Adam Hamilton clashed over Trump, transgender athletes and AI in a heated Kansas Senate debate on Wednesday.]]></description>
+      <title>Six shot dead by gunmen at church funeral in Jordan, officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">45f546718dbb40df636d950f4d3d4e6639ea7a99</guid>
+      <pubDate>Fri, 23 Oct 2026 14:31:51 GMT</pubDate>
+      <description><![CDATA[Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Hundreds of flights cancelled as Typhoon Champi shuts Taiwan</title>
-      <link>https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">db2a67dade4922303a59078b217cfa7646226a51</guid>
-      <pubDate>Fri, 23 Oct 2026 08:45:58 GMT</pubDate>
-      <description><![CDATA[One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.]]></description>
+      <title>PSG v Lyon moved as Paris prepares for more protests</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8df9352509be89871d0428c9155d91529716acab</guid>
+      <pubDate>Fri, 23 Oct 2026 14:18:41 GMT</pubDate>
+      <description><![CDATA[Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Morning news brief</title>
-      <link>https://www.npr.org/2026/10/23/nx-s1-6003504/morning-news-brief</link>
-      <guid isPermaLink="false">fa13dae017a1bcebfd88bb1ff73726b1030d93bd</guid>
-      <pubDate>Fri, 23 Oct 2026 08:44:19 GMT</pubDate>
-      <description><![CDATA[U.S. and Israel are planning for a possible attack on Iran, millions of Americans have voted early, judge orders President Trump to sit for deposition in BBC lawsuit.]]></description>
+      <title>Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia</title>
+      <link>https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak</link>
+      <guid isPermaLink="false">5c96b22d487c377f234c884783320ab0c9d198d6</guid>
+      <pubDate>Fri, 23 Oct 2026 14:16:10 GMT</pubDate>
+      <description><![CDATA[When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Ukraine says Starlink still restricted after Trump says limits lifted</title>
-      <link>https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9c464aa25357ec3d69354672de0ddf22b3326004</guid>
-      <pubDate>Fri, 23 Oct 2026 08:36:32 GMT</pubDate>
-      <description><![CDATA[Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.]]></description>
+      <title>Deadly shooting near Paris investigated as 'crime of terrorism', minister says</title>
+      <link>https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d7c780964626fca6b169afcfeefe4c74ca29c95b</guid>
+      <pubDate>Fri, 23 Oct 2026 14:15:23 GMT</pubDate>
+      <description><![CDATA[One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Watch: Presenter battles strong winds as storm hits Newquay</title>
-      <link>https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">85412a258d05edaed2a9c06ef35fd85f8567e85c</guid>
-      <pubDate>Fri, 23 Oct 2026 08:26:47 GMT</pubDate>
-      <description><![CDATA[BBC lead weather presenter Simon King is in Newquay as the "full force" of the storm arrives.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths</title>
-      <link>https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths</link>
-      <guid isPermaLink="false">a0cbb500670ead733c74fd51547148b37f2a915e</guid>
-      <pubDate>Fri, 23 Oct 2026 08:17:06 GMT</pubDate>
-      <description><![CDATA[Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found.]]></description>
+      <title>College football team draws embarrassingly small crowd for what turns into Thursday night thriller</title>
+      <link>https://www.foxnews.com/outkick-sports/college-football-team-draws-embarrassingly-small-crowd-thursday-night-thriller</link>
+      <guid isPermaLink="false">807181670c1caf959014074c7adb63db7116dd1b</guid>
+      <pubDate>Fri, 23 Oct 2026 14:14:43 GMT</pubDate>
+      <description><![CDATA[Memphis Tigers drew an embarrassingly thin crowd for their Thursday night college football game against East Carolina despite being 5-2 on the season.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank</title>
-      <link>https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank</link>
-      <guid isPermaLink="false">1bd05f3b928bdbb4f7211e8485611b4e318d5f4b</guid>
-      <pubDate>Fri, 23 Oct 2026 08:05:06 GMT</pubDate>
-      <description><![CDATA[Two suspected gunmen were killed by the IDF after a shooting near Judea Junction in the southern West Bank left five Israelis wounded on Friday.]]></description>
+      <title>Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says</title>
+      <link>https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f8deac049ef3f2c702051ee48cb912d087bec4c0</guid>
+      <pubDate>Fri, 23 Oct 2026 14:13:33 GMT</pubDate>
+      <description><![CDATA[Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Trump's MAGA faithful send warning to Republicans ahead of high-stakes midterm elections</title>
-      <link>https://www.foxnews.com/politics/trumps-maga-faithful-send-warning-republicans-ahead-high-stakes-midterm-elections</link>
-      <guid isPermaLink="false">5067fc631566e3b60a6d4aa8341158a7d4b56e5b</guid>
-      <pubDate>Fri, 23 Oct 2026 08:00:38 GMT</pubDate>
-      <description><![CDATA[Trump supporters at his Sioux City rally back Republicans but voice growing frustration over high prices, the Iran war and Election Day turnout.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say</title>
-      <link>https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2b89475cfd25000e4444957c93870c6ec7f5653a</guid>
-      <pubDate>Fri, 23 Oct 2026 08:00:07 GMT</pubDate>
-      <description><![CDATA[Officials say they both travelled through Entebbe International Airport on 3 October.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds</title>
-      <link>https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">550a37e4dbfbfb65932dc595185fa160b9d7637d</guid>
-      <pubDate>Fri, 23 Oct 2026 07:52:32 GMT</pubDate>
-      <description><![CDATA[The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>First personalised cancer vaccine cuts risk of disease returning in major trial</title>
-      <link>https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">784f7f931746cf62872a2a03239a72d1625ea5bc</guid>
-      <pubDate>Fri, 23 Oct 2026 07:49:02 GMT</pubDate>
-      <description><![CDATA[The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Lights will stay on this winter, grid operator says after concerns</title>
-      <link>https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">80af6eb4a332ec3f65dc0cffdfd6d5f4caac6536</guid>
-      <pubDate>Fri, 23 Oct 2026 06:47:10 GMT</pubDate>
-      <description><![CDATA[The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Supreme Court blocks use of student IDs as voter identification in New Hampshire</title>
-      <link>https://www.foxnews.com/politics/supreme-court-blocks-student-ids-voter-identification-new-hampshire</link>
-      <guid isPermaLink="false">fbb774fb89e56620c1caaceceaf0f19d79ef7fa7</guid>
-      <pubDate>Fri, 23 Oct 2026 06:44:19 GMT</pubDate>
-      <description><![CDATA[The Supreme Court allowed New Hampshire to reject student IDs at the polls ahead of midterm elections, warning of voter confusion too close to an election.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Watch: Met chief Rowley not fit for job, says detective raped by colleague</title>
-      <link>https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bea5bb37efbe6b561b38fee09e76a3c0a823004b</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:12 GMT</pubDate>
-      <description><![CDATA[Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Detective raped by colleague says Met handling of case 'like being raped again'</title>
-      <link>https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ddab80061add699e5b55a59bc31a8b291895d3f7</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:05 GMT</pubDate>
-      <description><![CDATA[Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Blanche won't rule out DOJ blocking election certification in 'doomsday' scenario</title>
-      <link>https://www.foxnews.com/politics/blanche-wont-rule-out-doj-blocking-election-certification-doomsday-scenario</link>
-      <guid isPermaLink="false">fcb2760722c44d20eac55712ef74af9a9ff54942</guid>
-      <pubDate>Fri, 23 Oct 2026 04:53:19 GMT</pubDate>
-      <description><![CDATA[Attorney General Todd Blanche refused to rule out Department of Justice intervention in midterm election certification, citing hypothetical "doomsday" scenarios.]]></description>
+      <title>Jackson again publicly breaks with Supreme Court as justices side with GOP in last-minute voter ID fight</title>
+      <link>https://www.foxnews.com/politics/jackson-publicly-breaks-supreme-court-justices-side-gop-last-minute-voter-id-fight</link>
+      <guid isPermaLink="false">141f7b4d50bdebaf33c637a69b755ec06ed4e955</guid>
+      <pubDate>Fri, 23 Oct 2026 14:11:24 GMT</pubDate>
+      <description><![CDATA[Ketanji Brown Jackson publicly dissented as the Supreme Court let New Hampshire block student ID cards as ballot identification for midterm elections.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Drake Maye's end-zone interception proves costly as Patriots fall 30-24 to Bears in primetime</title>
-      <link>https://www.foxnews.com/outkick-sports/drake-maye-end-zone-interception-proves-costly-patriots-fall-30-24-bears-primetime</link>
-      <guid isPermaLink="false">f507f2eb3996c6fdcab7372cb7e3bd70826e4b91</guid>
-      <pubDate>Fri, 23 Oct 2026 03:55:16 GMT</pubDate>
-      <description><![CDATA[Caleb Williams threw for 308 yards and two TDs in the Chicago Bears' 30-24 win over the New England Patriots, improving to an impressive 5-2 record.]]></description>
+      <title>Fox News AI Newsletter: What we saw inside a massive Texas data center</title>
+      <link>https://www.foxnews.com/tech/fox-news-ai-newsletter-what-we-saw-inside-massive-texas-data-center</link>
+      <guid isPermaLink="false">d0d61d031027b25a5bf4bb81a4653d3d1721efc9</guid>
+      <pubDate>Fri, 23 Oct 2026 14:08:41 GMT</pubDate>
+      <description><![CDATA[The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Utah man charged with attempted hate crime after alleged threat to 'blow up' synagogue</title>
-      <link>https://www.foxnews.com/us/utah-man-charged-attempted-hate-crime-alleged-threat-blow-up-synagogue</link>
-      <guid isPermaLink="false">03dc069abf80ccb885729ff655bdbe8dac6c5603</guid>
-      <pubDate>Fri, 23 Oct 2026 03:20:41 GMT</pubDate>
-      <description><![CDATA[A Utah man allegedly threatened to blow up a synagogue, and a search of his home uncovered six improvised explosive pipe bombs and rifles, officials say.]]></description>
+      <title>Serbia’s longtime leader faces biggest political test as students mount election challenge</title>
+      <link>https://www.foxnews.com/world/serbias-longtime-leader-faces-biggest-political-test-students-mount-election-challenge</link>
+      <guid isPermaLink="false">f1c9f9f6bd12acf32e7568d9d0d6a29601f1e62c</guid>
+      <pubDate>Fri, 23 Oct 2026 14:03:19 GMT</pubDate>
+      <description><![CDATA[Serbian President Aleksandar Vucic resigned to run for prime minister, facing his biggest electoral challenge in 14 years by a political party founded by student protesters.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Pierce Brosnan warned sons about Hollywood being a 'very tough business' as youngest follows in his footsteps</title>
+      <link>https://www.foxnews.com/entertainment/pierce-brosnan-warned-sons-about-hollywood-being-very-tough-business-youngest-follows-his-footsteps</link>
+      <guid isPermaLink="false">515b06176c349f4310e6f1d754cdea6f58bdac83</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:13 GMT</pubDate>
+      <description><![CDATA[Pierce Brosnan reveals how he and Keely Shaye Smith kept their two sons grounded while warning Paris Brosnan about the "tough" acting world.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Meghan says she was informed about 'disturbing allegations' against her father in 2018</title>
+      <link>https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d4205cd34af026999016b4fa30040db552bb8557</guid>
+      <pubDate>Fri, 23 Oct 2026 13:58:04 GMT</pubDate>
+      <description><![CDATA[The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Rhamondre Stevenson's miraculous 48-yard touchdown stuns Bears as clock expires in first half</title>
-      <link>https://www.foxnews.com/outkick-sports/rhamondre-stevenson-miraculous-48-yard-touchdown-stuns-bears-clock-expires-first-half</link>
-      <guid isPermaLink="false">1786c90525e4d24ceb6905f2043f7a3363260a4a</guid>
-      <pubDate>Fri, 23 Oct 2026 02:42:35 GMT</pubDate>
-      <description><![CDATA[Rhamondre Stevenson's 48-yard touchdown as time expired stunned Soldier Field, with only a 4.3% chance of scoring on the play against the Chicago Bears.]]></description>
+      <title>Woman at centre of Cornell University rape inquiry in 'constant fear', lawyer says</title>
+      <link>https://www.bbc.co.uk/news/articles/c6x295kp2pr1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c491d80d70d1da624f2b6af28f4bcdc81074c874</guid>
+      <pubDate>Fri, 23 Oct 2026 13:52:33 GMT</pubDate>
+      <description><![CDATA[The woman, known anonymously as Jane Doe, alleged she was drugged and raped by several men on Cornell's campus.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Todd Benzinger, who caught the final out of the Reds' 1990 World Series sweep, dead at 63</title>
-      <link>https://www.foxnews.com/outkick-sports/todd-benzinger-caught-final-out-reds-1990-world-series-sweep-dead-63</link>
-      <guid isPermaLink="false">0d7f6dcb17d0531ab4d7e26e88818a3de9b60602</guid>
-      <pubDate>Fri, 23 Oct 2026 02:26:53 GMT</pubDate>
-      <description><![CDATA[Todd Benzinger, the first baseman who caught the final out of the Cincinnati Reds' 1990 World Series sweep over the Oakland Athletics, died at 63.]]></description>
+      <title>Resurfaced clip goes viral again as John Daly explains how he blew $55M gambling, NBA fans fight &amp; Niners tat</title>
+      <link>https://www.foxnews.com/outkick-sports/resurfaced-clip-goes-viral-john-daly-explains-blew-55m-gambling-nba-fans-fight-niners-tat</link>
+      <guid isPermaLink="false">773044dca2479a0a1bc9b29846efad2cc870803e</guid>
+      <pubDate>Fri, 23 Oct 2026 13:37:40 GMT</pubDate>
+      <description><![CDATA[Screencaps, America's Best Daily Column, dives into John Daly's estimated $55 million blackjack losses from playing seven hands at a time.]]></description>
       <category>world</category>
+    </item>
+    <item>
+      <title>Ilhan Omar hit with expulsion threat as GOP lawmaker vows to boot her from Congress over DOJ probe</title>
+      <link>https://www.foxnews.com/politics/ilhan-omar-hit-expulsion-threat-gop-lawmaker-vows-boot-her-from-congress-over-doj-probe</link>
+      <guid isPermaLink="false">458875e0f1fb3b5193e34ced0ab2d1a57c8a3386</guid>
+      <pubDate>Fri, 23 Oct 2026 13:27:34 GMT</pubDate>
+      <description><![CDATA[Rep. Randy Fine says he plans to pursue House expulsion of Rep. Ilhan Omar if the Justice Department finds her guilty of immigration fraud.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>2026 World Series: How to watch Brewers and Rays after small ball carries them to Fall Classic</title>
+      <link>https://www.foxnews.com/outkick-sports/2026-world-series-how-watch-brewers-rays-after-small-ball-carries-them-fall-classic</link>
+      <guid isPermaLink="false">7929748ac48e97975a697ab32458bff3f4a3d041</guid>
+      <pubDate>Fri, 23 Oct 2026 13:05:17 GMT</pubDate>
+      <description><![CDATA[The Milwaukee Brewers and Tampa Bay Rays brought small ball back to baseball, ranking atop the league in batting average and sacrifice bunts.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>EXCLUSIVE: Fed timeline challenges reports of migrant baby facing immigration judge alone</title>
+      <link>https://www.foxnews.com/politics/fed-timeline-challenges-reports-migrant-baby-facing-immigration-judge-alone</link>
+      <guid isPermaLink="false">af853e3a81688dc5ba640d57a787454cb38a4c7c</guid>
+      <pubDate>Fri, 23 Oct 2026 13:00:07 GMT</pubDate>
+      <description><![CDATA[ORR officials say the former Acacia Center contract lacked accountability, with redacted invoices totaling over $20 million monthly for legal services.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank</title>
+      <link>https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7718246191f00e579f72e802cf6d58b797b8a66f</guid>
+      <pubDate>Fri, 23 Oct 2026 12:48:52 GMT</pubDate>
+      <description><![CDATA[The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths</title>
+      <link>https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak</link>
+      <guid isPermaLink="false">274b664a49a6b4d3898e893a617883bfd46239b5</guid>
+      <pubDate>Fri, 23 Oct 2026 12:41:39 GMT</pubDate>
+      <description><![CDATA[Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Burnham suggests stocking up on tinned food and bottled water</title>
+      <link>https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">24f91ffe692506bbd034477f47072e21d6d74a6c</guid>
+      <pubDate>Fri, 23 Oct 2026 12:41:10 GMT</pubDate>
+      <description><![CDATA[The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fall King Tides drive multiday flood threat spanning 500 miles from Miami to Charleston</title>
+      <link>https://www.foxweather.com/weather-news/south-florida-rain-flood-king-tides-coastal-flooding-tropical-moisture</link>
+      <guid isPermaLink="false">9f4ef6000f0441228c3b744c9866f92994429616</guid>
+      <pubDate>Fri, 23 Oct 2026 12:40:08 GMT</pubDate>
+      <description><![CDATA[The Sunshine State is facing a weekend of wet weather as days of heavy downpours combined with King Tides increase the chance of coastal flooding from Miami to Charleston.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Southwest faces additional round of severe weather, flash flooding after rare Tornado Watches</title>
+      <link>https://www.foxweather.com/weather-news/severe-storm-flood-new-mexico-arizona-utah-colorado</link>
+      <guid isPermaLink="false">c404f33fed3fc9effe405f5afc654ab27600f287</guid>
+      <pubDate>Fri, 23 Oct 2026 10:32:15 GMT</pubDate>
+      <description><![CDATA[Another round of dangerous severe weather will shift eastward and develop over New Mexico Friday afternoon after storms triggered flash flooding and evacuations across parts of the Four Corners region Thursday.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>See it: Utah city forced to evacuate immediately as dangerous flash flooding inundates the region</title>
@@ -471,6 +487,14 @@
       <category>weather</category>
     </item>
     <item>
+      <title>Hurricane Vance to rapidly intensify into major hurricane, while Typhoon Champi threatens Taiwan and Japan</title>
+      <link>https://www.foxweather.com/weather-news/tropical-storm-vance-forms-champi-churns-pacific</link>
+      <guid isPermaLink="false">6ec9a1c12e6f18f160742d798fe5d1e9cabab3d7</guid>
+      <pubDate>Wed, 21 Oct 2026 20:52:14 GMT</pubDate>
+      <description><![CDATA[Vance strengthened into a hurricane early Friday, becoming the 13th hurricane in the Pacific Basin this season as it approaches Mexico next week. Hurricane Vance is now forecast to rapidly intensify into a major hurricane by Friday night, which would be the basin's 10th Category 3 or stronger storm this year.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
       <title>Tropical Storm Vance could intensify into a major hurricane, while Typhoon Champi threatens Taiwan and Japan</title>
       <link>https://www.foxweather.com/weather-news/tropical-storm-vance-forms-champi-churns-pacific</link>
       <guid isPermaLink="false">6ec9a1c12e6f18f160742d798fe5d1e9cabab3d7</guid>
@@ -500,30 +524,6 @@
       <guid isPermaLink="false">ee9f2a66c847d36d90f7b42c5e69086c41cf8c7e</guid>
       <pubDate>Wed, 21 Oct 2026 20:34:25 GMT</pubDate>
       <description><![CDATA[Post-Tropical Storm Josephine is spinning less than 200 miles south of southern New England, lashing parts of the Massachusetts coast and eastern portions of New York's Long Island with strong wind gusts as it begins to accelerate away from the East Coast.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Subtropical Storm Josephine begins to pull away from East Coast, lashing New England with strong wind gusts</title>
-      <link>https://www.foxweather.com/weather-news/subtropical-storm-josephine-atlantic-east-coast</link>
-      <guid isPermaLink="false">ee9f2a66c847d36d90f7b42c5e69086c41cf8c7e</guid>
-      <pubDate>Wed, 21 Oct 2026 20:34:25 GMT</pubDate>
-      <description><![CDATA[Subtropical Storm Josephine is spinning less than 200 miles south of southern New England, lashing parts of the Massachusetts coast and eastern portions of New York's Long Island with strong wind gusts as it begins to accelerate away from the East Coast.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Subtropical Storm Josephine forms in the Atlantic as it heads up East Coast</title>
-      <link>https://www.foxweather.com/weather-news/subtropical-storm-josephine-atlantic-east-coast</link>
-      <guid isPermaLink="false">ee9f2a66c847d36d90f7b42c5e69086c41cf8c7e</guid>
-      <pubDate>Wed, 21 Oct 2026 20:34:25 GMT</pubDate>
-      <description><![CDATA[Subtropical Storm Josephine formed in the Atlantic on Thursday as the storm moves up the East Coast and toward Cape Cod.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Slow-moving storm system takes aim at Florida as days of heavy rain threaten Southeast</title>
-      <link>https://www.foxweather.com/weather-news/surge-rain-southeast-slow-moving-system-florida-kalshi</link>
-      <guid isPermaLink="false">bac3e5d86a78968475e47677595ffd6499d1763b</guid>
-      <pubDate>Wed, 21 Oct 2026 20:08:47 GMT</pubDate>
-      <description><![CDATA[A surge of wet weather is headed for the Southeast U.S. this week, with days of storms that could add significant rain by the end of the month.]]></description>
       <category>weather</category>
     </item>
   </channel>
