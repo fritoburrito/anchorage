@@ -180,6 +180,16 @@
     "rank": 100
   },
   {
+    "title": "Slow-moving storm could bring heavy rain and slushy snow to the Plains as it pushes north",
+    "link": "https://www.foxweather.com/weather-news/southwest-plains-flooding-rain-severe-weather-weekend",
+    "description": "A slow-moving storm is set to bring several days of rain and even some snow to parts of the Northern Plains. The storm will move north out of the central Rockies and High Plains, but a strong area of high pressure over Canada will prevent it from moving away quickly.",
+    "pubDate": "Sat, 24 Oct 2026 12:53:03 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "Flood threat targets the Plains to wrap up the weekend after pummeling Four Corners, Southwest with heavy rain",
     "link": "https://www.foxweather.com/weather-news/southwest-plains-flooding-rain-severe-weather-weekend",
     "description": "After bringing inches of rain and flash flooding to the Southwest and Four Corners earlier this week, the threat has shifted into the Plains on Sunday.",
@@ -390,14 +400,164 @@
     "rank": 100
   },
   {
-    "title": "Fall King Tides drive multiday flood threat spanning 500 miles from Miami to Charleston",
-    "link": "https://www.foxweather.com/weather-news/south-florida-rain-flood-king-tides-coastal-flooding-tropical-moisture",
-    "description": "The Sunshine State is facing a weekend of wet weather as days of heavy downpours combined with King Tides increase the chance of coastal flooding from Miami to Charleston.",
-    "pubDate": "Fri, 23 Oct 2026 12:40:08 GMT",
+    "title": "NFL's French national anthem performer Nina Tonji alters words to La Marseillaise, sparking outrage in France",
+    "link": "https://www.foxnews.com/outkick-sports/nfl-french-national-anthem-performer-nina-tonji-alters-words-la-marseillaise-sparking-outrage-france",
+    "description": "Nina Tonji changed \"impure\" to \"united\" in La Marseillaise before the Pittsburgh Steelers and New Orleans Saints game amid immigration unrest.",
+    "pubDate": "Sun, 25 Oct 2026 23:36:15 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
+    "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+    "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicol\u00e1s Maduro.",
+    "pubDate": "Sun, 25 Oct 2026 23:33:14 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "DAVID MARCUS: The future of the GOP in New England rides on Maine\u2019s Senate vote",
+    "link": "https://www.foxnews.com/opinion/david-marcus-future-gop-new-england-rides-maines-senate-vote",
+    "description": "Susan Collins faces Democrat Troy Jackson in Maine's Senate race as New England's last Republican senator fights to prove centrism still works.",
+    "pubDate": "Sun, 25 Oct 2026 23:23:37 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Steve Hilton hits Dem governor's 2028 pitch by calling out Newsom's rail record",
+    "link": "https://www.foxnews.com/media/steve-hilton-hits-dem-governors-2028-pitch-calling-out-newsoms-rail-record",
+    "description": "California Gubernatorial candidate Steve Hilton seized on Kentucky Gov. Andy Beshear's boast about Democrat successes to criticize the struggling rail project under Gov. Gavin Newsom.",
+    "pubDate": "Sun, 25 Oct 2026 23:13:35 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Stolen car slams into South Carolina home as teens bolt, authorities say",
+    "link": "https://www.foxnews.com/us/stolen-car-slams-south-carolina-home-teens-bolt-authorities-say",
+    "description": "Video shows a stolen car slamming into a South Carolina home before two teenagers fled, prompting Greenville County deputies to deploy K9s and a drone.",
+    "pubDate": "Sun, 25 Oct 2026 23:03:48 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Serbia's veteran ruler Vu\u010di\u0107 concedes election to student-led protest movement",
+    "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+    "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+    "pubDate": "Sun, 25 Oct 2026 22:54:57 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Zelenskyy can leverage Moscow ties from comedy days to make peace deal, says former key aide",
+    "link": "https://www.foxnews.com/world/zelenskyy-can-leverage-moscow-ties-from-comedy-days-make-peace-deal-says-former-key-aide",
+    "description": "Ukrainian President Volodymyr Zelenskyy earned his first millions in Moscow and should leverage those ties to negotiate with Vladimir Putin, says ex-aide.",
+    "pubDate": "Sun, 25 Oct 2026 22:51:42 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Kendal Daniels goes from stretcher to game-sealing fumble recovery in Falcons' win over 49ers",
+    "link": "https://www.foxnews.com/outkick-sports/kendal-daniels-stretcher-game-sealing-fumble-recovery-falcons-win-49ers",
+    "description": "Kendal Daniels, the Falcons' rookie linebacker who suffered a scary injury in Week 6, had a game-sealing play and interception one week later for his team.",
+    "pubDate": "Sun, 25 Oct 2026 22:50:56 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+    "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+    "description": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+    "pubDate": "Sun, 25 Oct 2026 22:37:36 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "After yet another inexcusable loss to Wisconsin, the Lincoln Riley era at USC looks to be nearing an end",
+    "link": "https://www.foxnews.com/outkick-sports/inexcusable-loss-wisconsin-lincoln-riley-era-usc-nearing-end",
+    "description": "USC's shocking loss at Wisconsin exposed familiar Lincoln Riley-era problems, raising serious questions about the Trojans' college football playoff hopes.",
+    "pubDate": "Sun, 25 Oct 2026 22:31:45 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Harbaugh credits players, including J.J. McCarthy and Cam Skattebo, and 'Lord God in heaven' for Giants OT win",
+    "link": "https://www.foxnews.com/outkick-sports/harbaugh-credits-players-jj-mccarthy-cam-skattebo-lord-god-heaven-giants-ot-win",
+    "description": "Cam Skattebo rushed for a career-high 124 yards but was flagged for unnecessary roughness on one run in the New York Giants' overtime victory.",
+    "pubDate": "Sun, 25 Oct 2026 22:30:08 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Budget airline expands its footprint with 11 new tropical flight routes beginning in November",
+    "link": "https://www.foxnews.com/travel/budget-airline-expands-footprint-11-new-tropical-flight-routes-beginning-november",
+    "description": "Southwest Airlines is launching 11 new nonstop international routes from Las Vegas, Nashville, Austin, Columbus and Pittsburgh starting November.",
+    "pubDate": "Sun, 25 Oct 2026 22:26:53 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+    "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+    "description": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+    "pubDate": "Sun, 25 Oct 2026 22:24:16 GMT",
     "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Deeply divided Israel braces for pivotal election",
+    "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+    "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+    "pubDate": "Sun, 25 Oct 2026 22:11:13 GMT",
+    "category": "politics",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "NASCAR's Joey Logano rides on his roof, Riley Herbst nails wall at full speed in dangerous Talladega wreck",
+    "link": "https://www.foxnews.com/outkick-sports/nascars-joey-logano-rides-roof-riley-herbst-nails-wall-full-speed-dangerous-talladega-wreck",
+    "description": "Joey Logano flipped onto his roof in a massive Talladega Superspeedway wreck with six laps to go, while Riley Herbst slammed into the inside barrier.",
+    "pubDate": "Sun, 25 Oct 2026 22:00:56 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+    "description": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+    "pubDate": "Sun, 25 Oct 2026 21:24:21 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
     "title": "Serbia's Vu\u010di\u0107 concedes election defeat to student-led protest movement",
@@ -440,170 +600,10 @@
     "rank": 10
   },
   {
-    "title": "Sharpen memory and fight brain fog with simple 60-second trick from a neurologist",
-    "link": "https://www.foxnews.com/health/simple-60-second-brain-trick-sharpen-memory-fight-brain-fog",
-    "description": "Dr. Rhonda Voskuhl explains why crosswords and sudoku miss the mark for brain fog and which timed word games actually target verbal memory loss.",
-    "pubDate": "Sun, 25 Oct 2026 20:13:59 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Brandi Glanville says doctors are 'taking my face off' in exploratory surgery after years of health issues",
-    "link": "https://www.foxnews.com/entertainment/brandi-glanville-says-doctors-taking-my-face-off-exploratory-surgery-after-years-health-issues",
-    "description": "Brandi Glanville details the $5,000 exploratory surgery to remove what she believes is something alive moving beneath the skin on her face.",
-    "pubDate": "Sun, 25 Oct 2026 19:56:37 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Giants' Cam Skattebo hit with penalty after crushing Texans defender on routine run",
-    "link": "https://www.foxnews.com/outkick-sports/giants-cam-skattebo-penalty-crushing-texans-defender-routine-run",
-    "description": "Cam Skattebo lowered his helmet and trucked a Houston Texans defender, drawing a controversial unnecessary roughness flag that left Harbaugh perplexed.",
-    "pubDate": "Sun, 25 Oct 2026 19:42:19 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Firehouse Subs co-founder dies after building beloved American sandwich chain with brother",
-    "link": "https://www.foxnews.com/food-drink/firehouse-subs-co-founder-dies-after-building-beloved-american-sandwich-chain-brother",
-    "description": "Chris Sorensen co-founded Firehouse Subs in Jacksonville, Florida, with less than $100 in the bank before building a 1,200-location empire.",
-    "pubDate": "Sun, 25 Oct 2026 19:41:23 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Country star Cody Johnson says Nashville wanted to change him before success",
-    "link": "https://www.foxnews.com/entertainment/country-star-cody-johnson-says-nashville-wanted-change-him-before-success",
-    "description": "Cody Johnson walked away from a Nashville record deal after executives told him to ditch his cowboy hat, then spent a decade proving them wrong.",
-    "pubDate": "Sun, 25 Oct 2026 19:27:23 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Week 8 AP Top 25 Poll sees Big Ten gain equal footing on SEC and unbeaten Utah earn major respect",
-    "link": "https://www.foxnews.com/outkick-sports/week-8-ap-top-25-poll-big-ten-gain-equal-footing-sec-unbeaten-utah-earn-major-respect",
-    "description": "BYU dropped six spots after a double-overtime loss to UCF, while Texas jumped eight places in the latest AP Top 25 college football rankings.",
-    "pubDate": "Sun, 25 Oct 2026 19:18:14 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
-    "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-    "description": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
-    "pubDate": "Sun, 25 Oct 2026 19:14:27 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Buccaneers collect two freakish first-half scores to dominate Panthers \u2013 and, oh, Baker Mayfield is back",
-    "link": "https://www.foxnews.com/outkick-sports/buccaneers-collect-two-freakish-first-half-scores-dominate-panthers-baker-mayfield-back",
-    "description": "Calijah Kancey's 32-yard fumble return and Zyon McCollum's blocked extra point conversion powers the Tampa Bay Buccaneers' dominant first half.",
-    "pubDate": "Sun, 25 Oct 2026 18:59:36 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
-    "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
-    "description": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
-    "pubDate": "Sun, 25 Oct 2026 18:38:17 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Long queues after power surge at Stansted Airport",
-    "link": "https://www.bbc.co.uk/news/articles/c64g14481n7qo?at_medium=RSS&at_campaign=rss",
-    "description": "A passenger says she was trapped in a corridor at the airport for 90 minutes.",
-    "pubDate": "Sun, 25 Oct 2026 18:35:57 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "MAPPED: The states Trump and top Democrats are targeting before Election Day",
-    "link": "https://www.foxnews.com/politics/mapped-states-trump-top-democrats-targeting-election-day",
-    "description": "With Election Day less than two weeks away, Trump rallied in Florida, Georgia and Michigan as both parties deploy top surrogates to battlegrounds.",
-    "pubDate": "Sun, 25 Oct 2026 18:15:23 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Parker McCollum wants his sons to learn the lesson hunting and ranch life taught him growing up",
-    "link": "https://www.foxnews.com/outkick-sports/parker-mccollum-wants-sons-learn-lesson-hunting-ranch-life-taught-growing",
-    "description": "Parker McCollum recalls childhood hunting trips with his dad in Texas and reveals how he's passing that same love of the outdoors to his two sons.",
-    "pubDate": "Sun, 25 Oct 2026 18:14:01 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Board of Deputies of British Jews declares Greens to be racist party",
-    "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
-    "description": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
-    "pubDate": "Sun, 25 Oct 2026 18:05:17 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-    "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
-    "description": "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.",
-    "pubDate": "Sun, 25 Oct 2026 17:50:35 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Venezuelan opposition leader Mar\u00eda Corina Machado makes surprise return home after nearly a year abroad",
-    "link": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad",
-    "description": "Mar\u00eda Corina Machado's return to Venezuela could reshape opposition dynamics as Edmundo Gonz\u00e1lez vows to join her and push for democratic elections.",
-    "pubDate": "Sun, 25 Oct 2026 17:47:02 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?",
-    "link": "https://www.foxnews.com/world/who-itamar-ben-gvir-israeli-firebrand-rising-populist-right-across-globe",
-    "description": "Itamar Ben-Gvir\u2019s law-and-order agenda has made him one of Israel\u2019s most controversial politicians \u2014 and potentially a pivotal player in the country\u2019s next government.",
-    "pubDate": "Sun, 25 Oct 2026 17:32:13 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: Today - Light Rain",
+    "title": "Anchorage Weather: This Afternoon - Chance Rain Showers",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "42\u00b0F. Wind SE 5 to 10 mph. Rain before 1pm, then a chance of rain showers. Cloudy, with a high near 42. Southeast wind 5 to 10 mph, with gusts as high as 20 mph. Chance of precipitation is 90%.",
-    "pubDate": "Sun, 25 Oct 2026 21:21:52 GMT",
+    "description": "42\u00b0F. Wind S 10 mph. A chance of rain showers. Cloudy, with a high near 42. South wind around 10 mph. Chance of precipitation is 60%.",
+    "pubDate": "Sun, 25 Oct 2026 23:44:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -612,8 +612,8 @@
   {
     "title": "Anchorage Weather: Tonight - Isolated Rain Showers then Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "38\u00b0F. Wind S 5 to 15 mph. Isolated rain showers before 7pm, then a chance of rain. Mostly cloudy, with a low around 38. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%.",
-    "pubDate": "Sun, 25 Oct 2026 21:21:52 GMT",
+    "description": "37\u00b0F. Wind S 5 to 15 mph. Isolated rain showers before 7pm, then a chance of rain. Mostly cloudy, with a low around 37. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%.",
+    "pubDate": "Sun, 25 Oct 2026 23:44:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -623,7 +623,7 @@
     "title": "Anchorage Weather: Monday - Slight Chance Light Rain then Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "47\u00b0F. Wind S 10 to 15 mph. A slight chance of rain before 7am. Partly sunny, with a high near 47. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%.",
-    "pubDate": "Sun, 25 Oct 2026 21:21:52 GMT",
+    "pubDate": "Sun, 25 Oct 2026 23:44:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -632,8 +632,8 @@
   {
     "title": "Anchorage Weather: Monday Night - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "34\u00b0F. Wind E 5 to 10 mph. Partly cloudy, with a low around 34. East wind 5 to 10 mph.",
-    "pubDate": "Sun, 25 Oct 2026 21:21:52 GMT",
+    "description": "33\u00b0F. Wind E 5 to 10 mph. Partly cloudy, with a low around 33. East wind 5 to 10 mph.",
+    "pubDate": "Sun, 25 Oct 2026 23:44:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +643,7 @@
     "title": "Anchorage Weather: Tuesday - Mostly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "40\u00b0F. Wind N 5 mph. Mostly sunny, with a high near 40. North wind around 5 mph.",
-    "pubDate": "Sun, 25 Oct 2026 21:21:52 GMT",
+    "pubDate": "Sun, 25 Oct 2026 23:44:16 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
