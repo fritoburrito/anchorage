@@ -1,5 +1,45 @@
 [
   {
+    "title": "Hawaii braces for tropical trouble as heavy rain and flooding loom in days leading up to Halloween",
+    "link": "https://www.foxweather.com/weather-news/tropical-threat-looms-hawaii-bracing-days-heavy-rain-flooding",
+    "description": "A week of developing severe storms is on the way for the Aloha State as a broad area of showers and thunderstorms over the Central Pacific has been designated as Invest 94C.",
+    "pubDate": "Sun, 25 Oct 2026 14:18:09 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Homer Airport hangar proposal seeks 50-year state land lease",
+    "link": "https://www.homernews.com/2026/10/25/homer-airport-hangar-proposal-seeks-50-year-state-land-lease/",
+    "description": "Proposal calls for private aircraft storage, taxiway access and road work",
+    "pubDate": "Sun, 25 Oct 2026 13:30:00 GMT",
+    "category": "kenai",
+    "tag": "alaska",
+    "source": "Homer News",
+    "rank": 100
+  },
+  {
+    "title": "Watch: 3 rescued from rushing floodwaters as heavy rain swells Los Angeles wash",
+    "link": "https://www.foxweather.com/weather-news/watch-three-rescued-rain-raged-river-los-angeles",
+    "description": "LAFD crews rescued three people from the rain-swollen Pacoima Wash after thunderstorms brought torrential rain and flash-flooding concerns to Southern California.",
+    "pubDate": "Sun, 25 Oct 2026 11:46:37 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "LIVING AND GROWING: Mary, Mediatrix of all grace",
+    "link": "https://www.juneauempire.com/2026/10/25/living-and-growing-mary-mediatrix-of-all-grace/",
+    "description": "\u201cBlessed are they who have not seen and have believed\u201d John 20:29",
+    "pubDate": "Sun, 25 Oct 2026 11:30:00 GMT",
+    "category": "local",
+    "tag": "alaska",
+    "source": "Juneau Empire",
+    "rank": 100
+  },
+  {
     "title": "MY TURN: No vote on Ballot Measure 2 would support construction industry",
     "link": "https://www.juneauempire.com/2026/10/25/my-turn-no-vote-on-ballot-measure-2-would-support-construction-industry/",
     "description": "Lots of Alaskans have a stake in open primaries and dark money disclosure laws. However, I would argue that construction workers have the most at stake, and for the sake of our jobs I strongly urge a \u201cNo\u201d vote on Ballot Measure 2. What do open primaries, ranked choice, and dark money disclosure have to do with our jobs? It\u2019s pretty simple: Open primaries and campaign transparency mean that the best candidates can run and win, defeating demagogues who promise the world but end up wrecking the state budget. Construction workers depend on fiscal stability and a pro-jobs environment. Fundamentally, good government is good for jobs.",
@@ -60,10 +100,30 @@
     "rank": 100
   },
   {
+    "title": "Hurricane Vance slowly approaches Mexico as Typhoon Champi leaves 500+ injured in Taiwan",
+    "link": "https://www.foxweather.com/weather-news/hurricane-vance-mexico-typhoon-champi-taiwan-japan-pacific",
+    "description": "Hurricane Vance continues to strengthen after becoming the 13th hurricane in the Pacific Basin this season as it moves slowly toward Mexico. Meanwhile, monster Typhoon Champi clipped northern Taiwan Friday, killing 1 person and injuring more than 500 others, according to local police.",
+    "pubDate": "Sat, 24 Oct 2026 13:03:30 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "Powerful Hurricane Vance slowly approaches Mexico as Typhoon Champi leaves 500+ injured in Taiwan",
     "link": "https://www.foxweather.com/weather-news/hurricane-vance-mexico-typhoon-champi-taiwan-japan-pacific",
     "description": "Hurricane Vance continues to strengthen after becoming the 13th hurricane in the Pacific Basin this season as it moves slowly toward Mexico. Meanwhile, monster Typhoon Champi clipped northern Taiwan Friday, killing 1 person and injuring more than 500 others, according to local police.",
     "pubDate": "Sat, 24 Oct 2026 13:03:30 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
+    "title": "Flood threat targets the Plains to wrap up the weekend after pummeling Four Corners, Southwest with heavy rain",
+    "link": "https://www.foxweather.com/weather-news/southwest-plains-flooding-rain-severe-weather-weekend",
+    "description": "After bringing inches of rain and flash flooding to the Southwest and Four Corners earlier this week, the threat has shifted into the Plains on Sunday.",
+    "pubDate": "Sat, 24 Oct 2026 12:53:03 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "FOX Weather",
@@ -250,6 +310,16 @@
     "rank": 100
   },
   {
+    "title": "King Tides fuel multiday flood threat spanning 500 miles as tropical rain hammers the Southeast coast",
+    "link": "https://www.foxweather.com/weather-news/south-florida-rain-flood-king-tides-coastal-flooding-tropical-moisture",
+    "description": "South Florida will see more periods of torrential rain this weekend, part of a multiday flash flood threat, as a tropically enhanced storm system stalls over the region. Additionally, any flooding along the coast will be compounded by King Tides, which are also peaking as the weekend wraps up.",
+    "pubDate": "Fri, 23 Oct 2026 12:40:08 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "FOX Weather",
+    "rank": 100
+  },
+  {
     "title": "King Tides drive coastal flood threat from Miami to Charleston as tropical rain soaks South Florida",
     "link": "https://www.foxweather.com/weather-news/south-florida-rain-flood-king-tides-coastal-flooding-tropical-moisture",
     "description": "South Florida will see more periods of torrential rain through the weekend, part of a multiday flash flood threat, as a tropically enhanced storm system stalls over the region. Additionally, any flooding along the coast will be compounded by King Tides, which are also peaking this weekend.",
@@ -330,74 +400,174 @@
     "rank": 100
   },
   {
-    "title": "New geological estimate puts Alaska North Slope gas resources at 96 trillion cubic feet",
-    "link": "https://alaskabeacon.com/2026/10/22/new-geological-estimate-puts-alaska-north-slope-gas-resources-at-96-trillion-cubic-feet/",
-    "description": "Alaska\u2019s North Slope probably holds enough undiscovered natural gas to fuel the nation for nearly three years, according to a new federal report. A resource assessment released Wednesday by the U.S. Geological Survey produced a mean estimate of 96 trillion cubic feet for undiscovered conventional natural gas reserves across the entire North Slope. That is [\u2026]",
-    "pubDate": "Thu, 22 Oct 2026 22:30:51 GMT",
-    "category": "alaska",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "Gabon says access to social media restored after eight-month ban",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+    "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+    "pubDate": "Sun, 25 Oct 2026 14:39:47 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
-    "title": "Vermont ski mountains prepare to open as winter weather looms",
-    "link": "https://www.foxweather.com/weather-news/vermont-ski-mountains-prepare-season-winter-looms-kalshi",
-    "description": "Prediction markets are wagering on when Stowe Mountain Resort will open for the 2026-27 season as Vermont ski areas prepare for winter and forecasters assess the state\u2019s snow outlook.",
-    "pubDate": "Thu, 22 Oct 2026 22:13:04 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Couple were celebrating anniversary before Bahamas tragedy",
+    "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+    "description": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+    "pubDate": "Sun, 25 Oct 2026 14:38:51 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
-    "title": "Cost of employer-sponsored health insurance plans rises again, nonpartisan survey finds",
-    "link": "https://alaskabeacon.com/2026/10/22/repub/cost-of-employer-sponsored-health-insurance-plans-rises-again-nonpartisan-survey-finds/",
-    "description": "WASHINGTON \u2014 The price health insurance companies charge for employer-sponsored plans increased again this year, as did the deductible many people must pay before those plans begin covering most healthcare costs, according to a survey released Thursday by the nonpartisan health organization KFF. The cost of individual health insurance plans rose to $9,804 on average, [\u2026]",
-    "pubDate": "Thu, 22 Oct 2026 22:00:44 GMT",
-    "category": "alaska",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "WNBA Finals hit another scheduling snag as Atlanta Dream face arena conflict for Game 6",
+    "link": "https://www.foxnews.com/outkick-sports/wnba-finals-hit-another-scheduling-snag-atlanta-dream-face-arena-conflict-game-6",
+    "description": "The Atlanta Dream face a Game 6 venue crisis as a Hawks-Cavaliers matchup at State Farm Arena conflicts with the WNBA Finals Thursday night.",
+    "pubDate": "Sun, 25 Oct 2026 14:28:47 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Kenai fentanyl supplier sentenced to more than 14 years in prison",
-    "link": "https://www.homernews.com/2026/10/22/kenai-fentanyl-supplier-sentenced-to-more-than-14-years-in-prison/",
-    "description": "Federal prosecutors say two parcels each held about two kilos of drugs",
-    "pubDate": "Thu, 22 Oct 2026 21:30:00 GMT",
-    "category": "kenai",
-    "tag": "alaska",
-    "source": "Homer News",
-    "rank": 100
+    "title": "Unique national anthem ahead of NFL Paris game between Steelers and Saints draws mixed reviews",
+    "link": "https://www.foxnews.com/outkick-sports/unique-national-anthem-ahead-nfl-paris-game-steelers-saints-draws-mixed-reviews",
+    "description": "The Soul Rebels' jazz national anthem before the Pittsburgh Steelers and New Orleans Saints game in Paris divided fans with its brass-band style.",
+    "pubDate": "Sun, 25 Oct 2026 14:28:08 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Thousands of Alaskans are voting before Election Day. Some ballots won\u2019t be counted until after it.",
-    "link": "https://alaskabeacon.com/2026/10/22/thousands-of-alaskans-are-voting-before-election-day-some-ballots-wont-be-counted-until-after-it/",
-    "description": "Early, in-person voting opened for Alaska\u2019s general election on Monday morning, and as of Wednesday morning, 17,560 Alaskans had already cast their votes. That includes almost 11,000 people who have voted at early voting sites in the Railbelt, Juneau and Nome, as well as more than 6,000 who had voted absentee by mail, fax or [\u2026]",
-    "pubDate": "Thu, 22 Oct 2026 20:35:16 GMT",
-    "category": "southeast",
-    "tag": "alaska",
-    "source": "Alaska Beacon",
-    "rank": 100
+    "title": "'Vertigo' star Kim Novak plans to become compost after death",
+    "link": "https://www.foxnews.com/entertainment/vertigo-star-kim-novak-plans-become-compost-after-death",
+    "description": "Kim Novak, 93, reveals she's arranged to have her body composted after death so loved ones can plant trees, calling it \"a beautiful expression.\"",
+    "pubDate": "Sun, 25 Oct 2026 14:00:54 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Deacon Dez: Trial by Fire",
-    "link": "https://mustreadalaska.com/trial-by-fire/",
-    "description": "Editor\u2019s note: We are experiencing technical difficulties with the author display, which we are working on solving as soon as possible. For clarity: this article was written by Deacon Dez. Have you ever wondered why you are where you are, figuratively and literally? Why you were born into the family you have? Why you were [\u2026] The post Deacon Dez: Trial by Fire appeared first on Must Read Alaska .",
-    "pubDate": "Thu, 22 Oct 2026 20:16:49 GMT",
-    "category": "opinion",
-    "tag": "alaska",
-    "source": "Must Read Alaska",
-    "rank": 100
+    "title": "Hochul faces revolt from unlikely New Yorkers as Democrats deliver scathing verdict on their party",
+    "link": "https://www.foxnews.com/politics/hochul-faces-revolt-unlikely-new-yorkers-democrats-deliver-scathing-verdict-party",
+    "description": "Former Democratic Bronx Assemblyman Stephen Kaufman accuses his own party of being overtaken by socialists while rallying for Bruce Blakeman.",
+    "pubDate": "Sun, 25 Oct 2026 14:00:27 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
   },
   {
-    "title": "Trial by Fire",
-    "link": "https://mustreadalaska.com/trial-by-fire/",
-    "description": "Have you ever wondered why you are where you are, figuratively and literally? Why you were born into the family you have? Why you were born into this time and place in history? The answer to all of these questions is simple: we really do not know. Not now anyway. How often have you said [\u2026] The post Trial by Fire appeared first on Must Read Alaska .",
-    "pubDate": "Thu, 22 Oct 2026 20:16:49 GMT",
-    "category": "opinion",
-    "tag": "alaska",
-    "source": "Must Read Alaska",
-    "rank": 100
+    "title": "America's little-known castles, displaying 'raw power,' are hiding in plain sight",
+    "link": "https://www.foxnews.com/travel/americas-little-known-castles-displaying-raw-power-hiding-plain-sight",
+    "description": "Author and historian Dan Jones traces 3,000 years of fortifications in \"Castles,\" from Fort Sumter and Fort Pulaski to the Tower of London's gruesome dark history.",
+    "pubDate": "Sun, 25 Oct 2026 14:00:08 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Cuba spent decades recruiting American spies. Now Washington is turning the tables on Havana",
+    "link": "https://www.foxnews.com/opinion/cuba-spent-decades-recruiting-american-spies-now-washington-turning-tables-havana",
+    "description": "Marco Rubio's CIA invitation to Cuban insiders targets Havana's espionage apparatus, pressuring a dictatorship that recruited spies like Ana Bel\u00e9n Montes.",
+    "pubDate": "Sun, 25 Oct 2026 13:53:37 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "NBA star torches fan base after boos rain down after first half: 'They are not welcome anymore'",
+    "link": "https://www.foxnews.com/outkick-sports/nba-star-torches-fan-base-boos-rain-down-first-half-not-welcome-anymore",
+    "description": "Nikola Jokic told Denver Nuggets fans who booed at halftime they are \"not welcome anymore\" after a dramatic 18-point comeback over the Pelicans.",
+    "pubDate": "Sun, 25 Oct 2026 13:52:41 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "NFL overcomes civil unrest, Trump concerns and calls to postpone as Steelers and Saints kick off in Paris",
+    "link": "https://www.foxnews.com/outkick-sports/nfl-overcomes-civil-unrest-trump-concerns-calls-postpone-steelers-saints-kick-off-paris",
+    "description": "The NFL kicked off at Stade de France despite Paris protests and calls from Trump to postpone the Pittsburgh Steelers and New Orleans Saints game.",
+    "pubDate": "Sun, 25 Oct 2026 13:33:21 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Carmen Electra officially kicks off Halloween season at a gas station, postgame police chase & Ball-Sac",
+    "link": "https://www.foxnews.com/outkick-sports/carmen-electra-kicks-off-halloween-season-gas-station-postgame-police-chase-ball-sac",
+    "description": "Carmen Electra kicks off Halloween week in Screencaps with vampire content at a gas station, proving at 54 she still masters the content game.",
+    "pubDate": "Sun, 25 Oct 2026 13:12:08 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Man admits beating dad to death in picturesque town decades ago after bragging to cops about 'first body'",
+    "link": "https://www.foxnews.com/us/man-admits-beating-dad-death-picturesque-town-decades-ago-bragging-cops-first-body",
+    "description": "Douglas Herlihy admitted to killing his father in a New Hampshire home in 2003. A closet door message and a 2020 boast to police helped crack the case.",
+    "pubDate": "Sun, 25 Oct 2026 13:00:10 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Burnham open to 'honest discussion' on EU free movement",
+    "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+    "description": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+    "pubDate": "Sun, 25 Oct 2026 12:11:23 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+    "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+    "description": "Fl\u00e1vio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
+    "pubDate": "Sun, 25 Oct 2026 11:54:16 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+    "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+    "description": "The students, many from marginalized communities, learn to conjure up candy, do card tricks \u2014 and face the world with a confident, creative and resilient mindset.",
+    "pubDate": "Sun, 25 Oct 2026 11:24:58 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "NPR News",
+    "rank": 10
+  },
+  {
+    "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+    "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+    "pubDate": "Sun, 25 Oct 2026 10:55:33 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+    "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+    "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+    "pubDate": "Sun, 25 Oct 2026 10:38:15 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
   },
   {
     "title": "Foster children's autism therapy at risk as Georgia lawmakers step into funding fight",
@@ -430,200 +600,20 @@
     "rank": 10
   },
   {
-    "title": "New Pentagon UFO files detail FBI agents' sighting of silent triangular object with no visible engines",
-    "link": "https://www.foxnews.com/us/pentagon-ufo-files-detail-fbi-agents-sighting-silent-triangular-object-no-visible-engines",
-    "description": "FBI agents described a silent black triangular UAP hovering before accelerating at fighter-jet speeds in newly released Department of War documents.",
-    "pubDate": "Sun, 25 Oct 2026 10:00:43 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Former Israeli army chief Gadi Eisenkot emerges as Netanyahu\u2019s leading election challenger",
-    "link": "https://www.foxnews.com/world/former-israeli-army-chief-gadi-eisenkot-emerges-netanyahus-leading-election-challenger",
-    "description": "A decorated former Israeli army chief has emerged as a leading election challenger after serving in the war cabinet and suffering devastating personal losses following the Oct. 7 attacks.",
-    "pubDate": "Sun, 25 Oct 2026 10:00:15 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
-    "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
-    "description": "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy.",
-    "pubDate": "Sun, 25 Oct 2026 10:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-    "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-    "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-    "pubDate": "Sun, 25 Oct 2026 09:32:59 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Alarming fraud trend puts small-town mosque with industry and foreign govt ties in focus: \u2018Our motherland now\u2019",
-    "link": "https://www.foxnews.com/politics/alarming-fraud-trend-puts-small-town-mosque-industry-foreign-govt-ties-focus-our-motherland-now",
-    "description": "Fox News Digital found Uzbek trucking companies donated hundreds of thousands to the Islamic Center of Maineville despite serious safety violations.",
-    "pubDate": "Sun, 25 Oct 2026 09:00:28 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Leavitt says Trump is defying midterm headwinds as he barnstorms country",
-    "link": "https://www.foxnews.com/politics/leavitt-says-trump-defying-midterm-headwinds-he-barnstorms-country",
-    "description": "Karoline Leavitt reveals Trump's blunt strategy to combat negative approval ratings and rally MAGA voters who typically skip midterm cycles.",
-    "pubDate": "Sun, 25 Oct 2026 09:00:14 GMT",
-    "category": "weather",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-    "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-    "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-    "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
-    "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
-    "description": "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kids is unaffordable.",
-    "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
-    "link": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
-    "description": "In a sign of the potentially dire midterm political environment, Republicans have spent millions of dollars playing defense in Arkansas, one of the most conservative states in the country.",
-    "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Independent candidates sense a moment in the West. Democrats are hoping they're right",
-    "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
-    "description": "As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own brand is hurting.",
-    "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Iran\u2019s oil lifeline is drying up. The biggest pain may fall on ordinary citizens",
-    "link": "https://www.foxnews.com/politics/irans-oil-lifeline-drying-up-biggest-pain-may-fall-ordinary-citizens",
-    "description": "Iran's floating oil inventory has fallen to zero as the U.S. naval blockade tightens, but the IRGC may be shielded while civilians bear the pain.",
-    "pubDate": "Sun, 25 Oct 2026 08:00:09 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
-    "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
-    "description": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
-    "pubDate": "Sun, 25 Oct 2026 07:15:00 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Florida A&M University shooting leaves 12 injured, including 6 children, near football stadium",
-    "link": "https://www.foxnews.com/us/florida-am-university-shooting-tallahassee-stadium-copy-slug",
-    "description": "A shooting near Florida A&M University's Bragg Memorial Stadium left 12 people injured, including six juveniles, the youngest just 11 years old.",
-    "pubDate": "Sun, 25 Oct 2026 06:18:02 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-    "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-    "description": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
-    "pubDate": "Sun, 25 Oct 2026 06:00:15 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-    "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-    "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-    "pubDate": "Sun, 25 Oct 2026 05:15:52 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Brewers complete wild Game 2 comeback after controversial call puts them up 2-0 in World Series vs Rays",
-    "link": "https://www.foxnews.com/outkick-sports/brewers-complete-wild-game-2-comeback-controversial-call-puts-them-up-2-0-world-series-rays",
-    "description": "Sal Frelick's clutch solo homer erased a four-run deficit as the Milwaukee Brewers rallied to take a 2-0 World Series lead over the Tampa Bay Rays.",
-    "pubDate": "Sun, 25 Oct 2026 04:46:46 GMT",
-    "category": "kenai",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Arch Manning, Texas survive Ole Miss after another second-half meltdown creates Austin anxiety",
-    "link": "https://www.foxnews.com/outkick-sports/arch-manning-texas-survive-ole-miss-second-half-meltdown-creates-austin-anxiety",
-    "description": "Steve Sarkisian's Texas Longhorns blew another massive lead before flipping a switch in the fourth quarter to hold off Trinidad Chambliss and Ole Miss.",
-    "pubDate": "Sun, 25 Oct 2026 04:25:43 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: Tonight - Light Rain",
+    "title": "Anchorage Weather: Today - Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "41\u00b0F. Wind S 5 to 10 mph. Rain. Cloudy, with a low around 41. South wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 80%.",
-    "pubDate": "Sun, 25 Oct 2026 10:35:14 GMT",
+    "description": "42\u00b0F. Wind S 5 to 10 mph. Rain before 1pm, then a chance of rain showers. Cloudy, with a high near 42. South wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.",
+    "pubDate": "Sun, 25 Oct 2026 14:44:27 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Sunday - Light Rain",
+    "title": "Anchorage Weather: Tonight - Isolated Rain Showers then Chance Light Rain",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "42\u00b0F. Wind SE 5 to 10 mph. Rain before 4pm, then scattered rain showers. Cloudy, with a high near 42. Southeast wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 90%.",
-    "pubDate": "Sun, 25 Oct 2026 10:35:14 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "National Weather Service Anchorage",
-    "rank": 0
-  },
-  {
-    "title": "Anchorage Weather: Sunday Night - Scattered Rain Showers then Slight Chance Light Rain",
-    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "38\u00b0F. Wind S 5 to 15 mph. Scattered rain showers before 10pm, then a slight chance of rain. Cloudy, with a low around 38. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%.",
-    "pubDate": "Sun, 25 Oct 2026 10:35:14 GMT",
+    "description": "38\u00b0F. Wind S 5 to 15 mph. Isolated rain showers before 7pm, then a chance of rain. Mostly cloudy, with a low around 38. South wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 30%.",
+    "pubDate": "Sun, 25 Oct 2026 14:44:27 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -632,8 +622,8 @@
   {
     "title": "Anchorage Weather: Monday - Slight Chance Light Rain then Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "45\u00b0F. Wind S 10 to 15 mph. A slight chance of rain before 7am. Partly sunny, with a high near 45. South wind 10 to 15 mph, with gusts as high as 25 mph.",
-    "pubDate": "Sun, 25 Oct 2026 10:35:14 GMT",
+    "description": "47\u00b0F. Wind S 10 to 15 mph. A slight chance of rain before 7am. Partly sunny, with a high near 47. South wind 10 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%.",
+    "pubDate": "Sun, 25 Oct 2026 14:44:27 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -642,8 +632,18 @@
   {
     "title": "Anchorage Weather: Monday Night - Partly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "32\u00b0F. Wind E 5 to 10 mph. Partly cloudy, with a low around 32. East wind 5 to 10 mph.",
-    "pubDate": "Sun, 25 Oct 2026 10:35:14 GMT",
+    "description": "34\u00b0F. Wind E 5 to 10 mph. Partly cloudy, with a low around 34. East wind 5 to 10 mph.",
+    "pubDate": "Sun, 25 Oct 2026 14:44:27 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "National Weather Service Anchorage",
+    "rank": 0
+  },
+  {
+    "title": "Anchorage Weather: Tuesday - Mostly Sunny",
+    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+    "description": "40\u00b0F. Wind N 5 mph. Mostly sunny, with a high near 40. North wind around 5 mph.",
+    "pubDate": "Sun, 25 Oct 2026 14:44:27 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
