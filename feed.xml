@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 21:27:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:04:58 GMT</lastBuildDate>
+    <item>
+      <title>Newscast – Monday, Oct. 26, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17507299/newscast-monday-oct-26-2026</link>
+      <guid isPermaLink="false">00a8b7895ca020864db10fb82f773ad4bd765f66</guid>
+      <pubDate>Tue, 27 Oct 2026 01:04:58 GMT</pubDate>
+      <description><![CDATA[In this newscast: The Juneau School Board will consider a complaint over curriculum being used at Kax̲dig̲oowu Héen Elementary at its Tuesday meeting; Both candidates vying for the open House District 3 seat in the Alaska Legislature say they aren't convinced the state's controversial Cascade Point ferry terminal project will benefit Southeast communitites; The monthlong moose hunt near Petersburg, Wrangell and Kake closed in mid-October, and final harvest numbers show it was another record-breaking season; The U.S. Senate campaign of Democrat Mary Peltola is among those asking a federal judge to dismiss a Department of Justice lawsuit that could block or delay election results if she wins; A high school student from Angoon speaks on her award-winning short film about the U.S. Navy's bombardment of the village 144 years ago.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>California's coastline on alert as King Tides fuel prolonged flooding from San Francisco to San Diego</title>
       <link>https://www.foxweather.com/weather-news/california-coast-king-tides-flooding-san-francisco-san-diego</link>
@@ -47,26 +55,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon - Partly Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 27 Oct 2026 00:12:00 GMT</pubDate>
-      <description><![CDATA[47°F. Wind S 10 to 15 mph. Partly sunny, with a high near 47. South wind 10 to 15 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight - Partly Cloudy then Areas Of Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 27 Oct 2026 00:12:00 GMT</pubDate>
-      <description><![CDATA[33°F. Wind E 5 to 10 mph. Areas of fog after 1am. Partly cloudy, with a low around 33. East wind 5 to 10 mph.]]></description>
+      <pubDate>Tue, 27 Oct 2026 05:55:22 GMT</pubDate>
+      <description><![CDATA[33°F. Wind E 5 mph. Areas of fog after 1am. Partly cloudy, with a low around 33. East wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tuesday - Areas Of Fog then Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 27 Oct 2026 00:12:00 GMT</pubDate>
+      <pubDate>Tue, 27 Oct 2026 05:55:22 GMT</pubDate>
       <description><![CDATA[40°F. Wind N 5 to 10 mph. Areas of fog before 10am. Mostly sunny, with a high near 40. North wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -74,7 +74,7 @@
       <title>Anchorage Weather: Tuesday Night - Mostly Clear</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 27 Oct 2026 00:12:00 GMT</pubDate>
+      <pubDate>Tue, 27 Oct 2026 05:55:22 GMT</pubDate>
       <description><![CDATA[29°F. Wind NE 5 mph. Mostly clear, with a low around 29. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -82,8 +82,16 @@
       <title>Anchorage Weather: Wednesday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 27 Oct 2026 00:12:00 GMT</pubDate>
+      <pubDate>Tue, 27 Oct 2026 05:55:22 GMT</pubDate>
       <description><![CDATA[42°F. Wind NE 0 to 5 mph. Mostly sunny, with a high near 42. Northeast wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Wednesday Night - Light Rain Likely</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Tue, 27 Oct 2026 05:55:22 GMT</pubDate>
+      <description><![CDATA[35°F. Wind  0 mph. Rain likely after 7pm. Mostly cloudy, with a low around 35. North wind around 0 mph. Chance of precipitation is 70%.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -119,19 +127,19 @@
       <category>local</category>
     </item>
     <item>
-      <title>Dem bucks party over alleged Alaska vote-siphoning effort: 'Neither party should be doing it'</title>
-      <link>https://www.foxnews.com/politics/dem-bucks-party-over-alleged-alaska-vote-siphoning-effort-neither-party-should-doing-it</link>
-      <guid isPermaLink="false">eb47d74fd7dc093e53badac0ba86f7dcf83e9a13</guid>
-      <pubDate>Mon, 26 Oct 2026 20:39:30 GMT</pubDate>
-      <description><![CDATA[Iowa's Rob Sand slams his own party's alleged vote siphoning in Alaska's Senate race, calling it "manipulating the political system" amid legal chaos.]]></description>
-      <category>local</category>
+      <title>Opinion: Former Lt. Governor speaks on why ranked choice voting is bad for Alaska</title>
+      <link>https://mustreadalaska.com/opinion-former-lt-governor-speaks-on-why-ranked-choice-voting-is-bad-for-alaska/</link>
+      <guid isPermaLink="false">fa9389f6e2c7f4ff0e38ff577bd2955e2d65d5e0</guid>
+      <pubDate>Mon, 26 Oct 2026 20:09:25 GMT</pubDate>
+      <description><![CDATA[The following article was delivered by former Lt. Governor Loren Leman to the Alaska Advisory Committee to the U.S. Commission on Civil Rights on October 21, 2026. During my four-year term as Lieutenant Governor of Alaska, as well as 14 years before that as a legislator, I championed election processes that are simple, transparent, impartial and […] The post Opinion: Former Lt. Governor speaks on why ranked choice voting is bad for Alaska appeared first on Must Read Alaska .]]></description>
+      <category>weather</category>
     </item>
     <item>
-      <title>Brazilian election sends US progressives into online fever as key irregularity stokes result uncertainty</title>
-      <link>https://www.foxnews.com/politics/brazilian-election-sends-us-progressives-online-fever-key-irregularity-stokes-result-uncertainty</link>
-      <guid isPermaLink="false">96b99c6dc96f606f6949dbe92137dc5280060abd</guid>
-      <pubDate>Mon, 26 Oct 2026 20:31:26 GMT</pubDate>
-      <description><![CDATA[Lula's Brazil election victory sparked celebration from U.S. progressives like Alexandria Ocasio-Cortez, but a last-minute voting extension drew sharp criticism.]]></description>
+      <title>Print, save, share! PDF version for UCVG Part III: Alaska’s Judiciary</title>
+      <link>https://mustreadalaska.com/print-save-share-pdf-version-for-ucvg-part-iii-alaskas-judiciary/</link>
+      <guid isPermaLink="false">f9e88a9eedef31b61ce28d045f9b7975edd2b4eb</guid>
+      <pubDate>Mon, 26 Oct 2026 19:41:00 GMT</pubDate>
+      <description><![CDATA[Dear readers, Just like with Parts I and II, we have created a PDF version of our Ultimate Conservative Voter Guide Part III so you can print it out, attach it to emails, and save it on your desktop! Remember, the most important thing is to show up! Voters are more likely to get to […] The post Print, save, share! PDF version for UCVG Part III: Alaska’s Judiciary appeared first on Must Read Alaska .]]></description>
       <category>local</category>
     </item>
     <item>
@@ -140,6 +148,22 @@
       <guid isPermaLink="false">52502376e1a79ed212e3d319ea178de8b01a4d18</guid>
       <pubDate>Mon, 26 Oct 2026 19:30:17 GMT</pubDate>
       <description><![CDATA[SPRINGDALE, Pa. — Residents in a small southwestern Pennsylvania town are facing the prospect of a 47-acre data center facility on their doorstep. “Right here behind this fence is where they want to put up the data center, and as you can see, there’s houses right across the street, roughly 100 feet,” said lifelong Springdale […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Opinion: Citizens’ access to lawmakers— is it a pay to play scheme?</title>
+      <link>https://mustreadalaska.com/opinion-citizens-access-to-lawmakers-is-it-a-pay-to-play-scheme/</link>
+      <guid isPermaLink="false">42a9fe30e7c657be9b628f6516545ea4bc85e401</guid>
+      <pubDate>Mon, 26 Oct 2026 18:27:29 GMT</pubDate>
+      <description><![CDATA[Public money carries a public obligation. Every dollar entrusted to an official demands faithful stewardship and enforceable protection. An organization’s reputation cannot replace either. The same standard applies when outside organizations pay for access to those officials.  The National Conference of State Legislatures and the Alaska Municipal League Investment Pool deserve scrutiny for reasons extending […] The post Opinion: Citizens’ access to lawmakers— is it a pay to play scheme? appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska’s Judiciary: Part III of the Ultimate Conservative Voter Guide</title>
+      <link>https://mustreadalaska.com/alaskas-judiciary-part-iii-of-the-ultimate-conservative-voter-guide/</link>
+      <guid isPermaLink="false">025fad6d3deee705379a5bed738a56e03fab330d</guid>
+      <pubDate>Mon, 26 Oct 2026 17:27:44 GMT</pubDate>
+      <description><![CDATA[The judiciary often fades into the background amid all the political ads, mailers, signs, and door knocking for candidates seeking election. However, the judiciary derives its power from the people like any other branch of American government.   For most Alaskans, the courts remain a distant, somewhat abstract concept until a high-profile case comes into focus, […] The post Alaska’s Judiciary: Part III of the Ultimate Conservative Voter Guide appeared first on Must Read Alaska .]]></description>
       <category>local</category>
     </item>
     <item>
@@ -271,156 +295,172 @@
       <category>local</category>
     </item>
     <item>
-      <title>MY TURN: Sullivan a consistant voice for Alaska</title>
-      <link>https://www.juneauempire.com/2026/10/24/my-turn-sullivan-a-consistant-voice-for-alaska/</link>
-      <guid isPermaLink="false">c1abbef6abbfd9cdbeea0991c2812f8e16f28d07</guid>
-      <pubDate>Sat, 24 Oct 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[“ Don’t switch horses in midstream” — Abraham Lincoln]]></description>
-      <category>local</category>
+      <title>Jay-Z picks himself to headline the Super Bowl halftime show in Southern California</title>
+      <link>https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z</link>
+      <guid isPermaLink="false">e22dcf9162aaf6fabf2b8c509ec8a933730525e3</guid>
+      <pubDate>Tue, 27 Oct 2026 05:46:18 GMT</pubDate>
+      <description><![CDATA[The NFL, Apple Music and Roc Nation announced Monday night that Jay-Z will be the featured performer for the halftime festivities on Feb. 14 at SoFi Stadium in Inglewood, California.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Detransitioner says she was denied opportunity to deliver Talarico a message at CNN town hall</title>
-      <link>https://www.foxnews.com/media/detransitioner-says-she-denied-opportunity-deliver-talarico-message-cnn-town-hall</link>
-      <guid isPermaLink="false">3721f2f640f758c2b0f6bbeeab53040f9601f391</guid>
-      <pubDate>Mon, 26 Oct 2026 23:52:48 GMT</pubDate>
-      <description><![CDATA[Soren Aldaco alleges she was denied an opportunity by CNN to attend a town hall and ask Texas Senate candidate James Talarico questions about his position on gender surgeries.]]></description>
+      <title>Brewers rout the Rays 10-1 to move within a win of their first World Series title</title>
+      <link>https://www.npr.org/2026/10/27/nx-s1-6019094/mlb-world-series-tuesday</link>
+      <guid isPermaLink="false">079dce5ed3a055214fc2190ee899371e23257385</guid>
+      <pubDate>Tue, 27 Oct 2026 05:45:44 GMT</pubDate>
+      <description><![CDATA[The Milwaukee Brewers are one victory from their first World Series title after routing the Tampa Bay Rays 10-1 on Monday night thanks to a trio of young players who have shined in October.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Israel heads to polls for pivotal election defined by security and democracy</title>
+      <link>https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">12864f7f071ffef6055e793bf9a6a7fbfd0d60a5</guid>
+      <pubDate>Tue, 27 Oct 2026 05:45:08 GMT</pubDate>
+      <description><![CDATA[Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Raiders coach keeping Kirk Cousins as starting QB despite 4-game win streak, top pick Fernando Mendoza waiting</title>
-      <link>https://www.foxnews.com/outkick-sports/raiders-coach-keeping-kirk-cousins-starting-qb-despite-4-game-win-streak-top-pick-fernando-mendoza-waiting</link>
-      <guid isPermaLink="false">665b23b68f1b92d5f637c650bc0dce55dbf248ab</guid>
-      <pubDate>Mon, 26 Oct 2026 23:50:59 GMT</pubDate>
-      <description><![CDATA[Kirk Cousins leads the NFL with 16 passing touchdowns, but the Las Vegas Raiders' four-game skid has fans calling for Fernando Mendoza's debut.]]></description>
+      <title>Local ceasefire brokered by Melania Trump starts in southern Ukraine</title>
+      <link>https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war</link>
+      <guid isPermaLink="false">e736d8f219038b07313f4fc53068c883e68303c8</guid>
+      <pubDate>Tue, 27 Oct 2026 05:26:58 GMT</pubDate>
+      <description><![CDATA[A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S. first lady Melania Trump, as missile attacks resumed in Kyiv.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Illegal alien pleads guilty to staging fake kidnapping to target Border Patrol</title>
-      <link>https://www.foxnews.com/us/illegal-alien-pleads-guilty-staging-fake-kidnapping-target-border-patrol</link>
-      <guid isPermaLink="false">3eb553079a1a78676803ae8dc4d13b358091257f</guid>
-      <pubDate>Mon, 26 Oct 2026 23:40:56 GMT</pubDate>
-      <description><![CDATA[Yuriana Julia Pelaez Calderón allegedly fabricated her abduction, altered her appearance and hid in California to build a lawsuit against Border Patrol.]]></description>
+      <title>Trump campaigns in Mississippi, highlighting Republicans' challenges</title>
+      <link>https://www.npr.org/2026/10/27/nx-s1-6019090/trump-campaign-mississippi</link>
+      <guid isPermaLink="false">a1592e13da01e6c5c7b540931203bcde7827a50c</guid>
+      <pubDate>Tue, 27 Oct 2026 05:22:24 GMT</pubDate>
+      <description><![CDATA[President Trump campaigned Monday in Mississippi, as he continued a closing midterm rally blitz that has highlighted Republicans' challenges ahead of an election that could drastically shift power in Washington.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Pat McAfee invokes Charlie Kirk killing as Utah post sparks 'uncomfortable' GameDay visit</title>
+      <link>https://www.foxnews.com/sports/pat-mcafee-invokes-charlie-kirk-killing-utah-post-sparks-uncomfortable-gameday-visit</link>
+      <guid isPermaLink="false">7f1f3d59abfde836e67e1b1ad4a05d61bd11922a</guid>
+      <pubDate>Tue, 27 Oct 2026 05:05:40 GMT</pubDate>
+      <description><![CDATA[Pat McAfee ripped the University of Utah over an Instagram video posted before "College GameDay," pointing to the Charlie Kirk shooting 40 miles away.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Kane ends England’s 25-year wait to win men’s Ballon d’Or award</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5abf4de7123fd32f033ec8d670ab9ba7b49a9b64</guid>
-      <pubDate>Mon, 26 Oct 2026 23:10:59 GMT</pubDate>
-      <description><![CDATA[Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.]]></description>
+      <title>Jay-Z to perform at Super Bowl half-time show</title>
+      <link>https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3200b12adef9db7c8b0667a86acef8a7f8d6f3e4</guid>
+      <pubDate>Tue, 27 Oct 2026 05:05:15 GMT</pubDate>
+      <description><![CDATA[The rapper has been involved with the show for years but has never before performed at the NFL championship game.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Chris Mason: The Budget is imminent as tricky things pile up for Burnham</title>
-      <link>https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5d6355cb4da7d2d6e05c6824b7ad0e7e74ccda4b</guid>
-      <pubDate>Mon, 26 Oct 2026 23:03:14 GMT</pubDate>
-      <description><![CDATA[From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.]]></description>
+      <title>A quick guide to Israel's high-stakes elections</title>
+      <link>https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide</link>
+      <guid isPermaLink="false">cc7893a3b00910af5c01c6683837025e8ed59468</guid>
+      <pubDate>Tue, 27 Oct 2026 04:54:30 GMT</pubDate>
+      <description><![CDATA[Israel is holding its first elections since the Hamas-led attacks of 2023 triggered a chain of conflicts across the region — a quick guide the key players, issues and when to expect a result.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Meghan to co-host Junior MasterChef Australia</title>
+      <link>https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8a7169ca9484e454ad98e3075f405773b95c6727</guid>
+      <pubDate>Tue, 27 Oct 2026 04:43:56 GMT</pubDate>
+      <description><![CDATA[The Duchess of Sussex says she "can't wait" to take part in the programme, which will air next year.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Jon Gosselin claims he's 'perfect strangers now' with six of his kids after years of no contact</title>
-      <link>https://www.foxnews.com/entertainment/jon-gosselin-claims-hes-perfect-strangers-now-six-his-kids-after-years-no-contact</link>
-      <guid isPermaLink="false">c39752b5cebbe20ff88aa5307d163386125c335d</guid>
-      <pubDate>Mon, 26 Oct 2026 22:46:31 GMT</pubDate>
-      <description><![CDATA[Jon Gosselin reveals he hasn't spoken to six of his eight children in years, calling them "perfect strangers" amid Collin Gosselin's memoir.]]></description>
+      <title>Sharp rise in sales of some essential goods after government call to stock up</title>
+      <link>https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5e96e54870366040fdb216b3bbee12ccc87b0e43</guid>
+      <pubDate>Tue, 27 Oct 2026 04:29:52 GMT</pubDate>
+      <description><![CDATA[Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Deadly security risks prompt updated travel warnings for 13 countries</title>
-      <link>https://www.foxnews.com/travel/deadly-security-risks-prompt-updated-travel-warnings-13-countries</link>
-      <guid isPermaLink="false">4e5f2c09f9d7a84c20da91c6820b4b8b3f34f3f1</guid>
-      <pubDate>Mon, 26 Oct 2026 22:33:28 GMT</pubDate>
-      <description><![CDATA[Citing Iranian-backed Houthi attacks and escalation risks for Americans, the State Department has now updated advisories for 13 Middle Eastern countries.]]></description>
+      <title>Storm Boelo leaves thousands without power as Met Office issues new wind warning</title>
+      <link>https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d8fb3eb1ebaed0ee298e0294431080cb9f4aca2d</guid>
+      <pubDate>Tue, 27 Oct 2026 04:13:56 GMT</pubDate>
+      <description><![CDATA[A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'</title>
-      <link>https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">aa382c094360f049168347a4ae219db933a67002</guid>
-      <pubDate>Mon, 26 Oct 2026 22:30:02 GMT</pubDate>
-      <description><![CDATA[The chancellor will axe tariffs on some staples as part of plans to give households "breathing space".]]></description>
+      <title>Florida mom arrested after Vegas trip left 4 kids without overnight supervision: deputies</title>
+      <link>https://www.foxnews.com/us/florida-mom-arrested-after-vegas-trip-left-4-kids-without-overnight-supervision-deputies</link>
+      <guid isPermaLink="false">28594a5211d146eaf9fe57c692930da99de9f232</guid>
+      <pubDate>Tue, 27 Oct 2026 04:03:11 GMT</pubDate>
+      <description><![CDATA[Body camera video shows deputies arresting Irene Miller at the airport after her four children were found home alone while she was in Las Vegas.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Not even sky high gas prices or the Iran war will stop Trump supporters voting MAGA</title>
-      <link>https://www.foxnews.com/politics/sky-high-gas-prices-iran-war-wont-stop-trump-supporters-voting-maga</link>
-      <guid isPermaLink="false">896b7ec1997a658838373ea093bad241a8c707ff</guid>
-      <pubDate>Mon, 26 Oct 2026 22:00:34 GMT</pubDate>
-      <description><![CDATA[MAGA voters at a Michigan Trump rally dismiss rising gas prices and the Iran war as temporary sacrifices, vowing to back Republicans in midterms.]]></description>
+      <title>Brewers ride ridiculous, record-setting eight-run inning to dominant 3-0 World Series lead over Rays</title>
+      <link>https://www.foxnews.com/outkick-sports/brewers-ride-ridiculous-record-setting-eight-run-inning-dominant-3-0-world-series-lead-rays</link>
+      <guid isPermaLink="false">c4fc9da952e3ca23e473114b6997d7c71737a9c8</guid>
+      <pubDate>Tue, 27 Oct 2026 04:01:22 GMT</pubDate>
+      <description><![CDATA[Jackson Chourio's four-hit night and Robert Gasser's historic shutout outing powered the Milwaukee Brewers to a commanding 3-0 World Series lead.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Robert Griffin III says he would '100%' take Baylor's vacant head football coach job</title>
-      <link>https://www.foxnews.com/outkick-sports/robert-griffin-iii-100-percent-take-baylor-vacant-head-football-coach-job</link>
-      <guid isPermaLink="false">2ae8269cf19b72b244f94b1ac9fc032564c0f751</guid>
-      <pubDate>Mon, 26 Oct 2026 21:58:16 GMT</pubDate>
-      <description><![CDATA[Robert Griffin III says he'd "100%" take the Baylor Bears head coaching job, revealing he's already spoken with athletic director Doug McNamee.]]></description>
+      <title>Cowboys, Dak Prescott get back on track at the expense of reeling Eagles in key NFC East win</title>
+      <link>https://www.foxnews.com/outkick-sports/cowboys-dak-prescott-back-on-track-expense-reeling-eagles-key-nfc-east-win</link>
+      <guid isPermaLink="false">2583f43b7c718760161f4c9a3cfb69f2566284f7</guid>
+      <pubDate>Tue, 27 Oct 2026 03:42:14 GMT</pubDate>
+      <description><![CDATA[Javonte Williams rushed for 155 yards as the Dallas Cowboys topped the Philadelphia Eagles, 38-21, on "Monday Night Football" in a key NFC East clash.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Oregon Ducks' collapse continues, as loss to Illinois puts Dan Lanning on the hot seat in Eugene</title>
-      <link>https://www.foxnews.com/outkick-sports/oregon-ducks-collapse-continues-loss-illinois-puts-dan-lanning-hot-seat-eugene</link>
-      <guid isPermaLink="false">f6138caddbaa1331644b00a5e26c8f7e256cbd94</guid>
-      <pubDate>Mon, 26 Oct 2026 21:48:20 GMT</pubDate>
-      <description><![CDATA[Oregon Ducks football dropped from the AP Poll after seven turnovers against UCLA and a stunning loss at Illinois despite being 10.5-point favorites.]]></description>
+      <title>John Harbaugh backs Cam Skattebo, rips NFL for controversial flag: 'That's the way you're supposed to run'</title>
+      <link>https://www.foxnews.com/outkick-sports/john-harbaugh-backs-cam-skattebo-rips-nfl-controversial-flag-way-youre-supposed-run</link>
+      <guid isPermaLink="false">ac308669bd75f4cec14f4844dbb5aff5397359bc</guid>
+      <pubDate>Tue, 27 Oct 2026 03:27:46 GMT</pubDate>
+      <description><![CDATA[Cam Skattebo ripped the NFL over his unnecessary roughness penalty, saying he'll "play for free" if the league keeps flagging his punishing style.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>James Comey faces new DOJ case over alleged national defense disclosure</title>
-      <link>https://www.foxnews.com/politics/james-comey-faces-new-doj-case-over-alleged-national-defense-disclosure</link>
-      <guid isPermaLink="false">87903198765386d094a91f9833fd095ac32fa62a</guid>
-      <pubDate>Mon, 26 Oct 2026 21:46:28 GMT</pubDate>
-      <description><![CDATA[The Justice Department filed a two-count criminal information accusing James Comey of communicating national defense information and conspiracy.]]></description>
+      <title>'Stand or hide in the tunnel' for the anthem, Valkyries WNBA fans show loyalty; ready for early Finals Game 6</title>
+      <link>https://www.foxnews.com/outkick-sports/stand-hide-tunnel-anthem-valkyries-wnba-fans-show-loyalty-ready-early-finals-game-6</link>
+      <guid isPermaLink="false">a88b119908fa5ba5564eff9776a634a0ea44c9b7</guid>
+      <pubDate>Tue, 27 Oct 2026 03:15:06 GMT</pubDate>
+      <description><![CDATA[Golden State Valkyries fans face a 9:30 a.m. PT tipoff for WNBA Finals Game 6 in Atlanta due to Hawks scheduling conflicts at State Farm Arena.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Natalie Portman says being sexualized as a child star forced her to become a 'good girl' as protection</title>
-      <link>https://www.foxnews.com/entertainment/natalie-portman-sexualized-child-star-forced-become-good-girl-protection</link>
-      <guid isPermaLink="false">1754bf6f75b82b9ba65fc9858282be8161834316</guid>
-      <pubDate>Mon, 26 Oct 2026 21:40:31 GMT</pubDate>
-      <description><![CDATA[Natalie Portman reveals how she built a "good girl" persona to counter childhood sexualization in Hollywood and why it became a lasting trap.]]></description>
+      <title>Truce begins in wartorn Ukraine city after it was announced by Melania Trump</title>
+      <link>https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">19ebc5f0e94e2da25b92afd9c56d12f00106e8a6</guid>
+      <pubDate>Tue, 27 Oct 2026 02:58:48 GMT</pubDate>
+      <description><![CDATA[The ceasefire is meant to allow aid deliveries and the evacuation of civilians.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>BetMGM Bonus Code FOXNEWS: Cover Your First Eagles vs Cowboys, Rays vs Brewers Bets up to $1500</title>
-      <link>https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-eagles-vs-cowboys-rays-vs-brewers-bets-up-1500</link>
-      <guid isPermaLink="false">02bec7de2283dbff26c3e0f1954487d3e8ba5398</guid>
-      <pubDate>Mon, 26 Oct 2026 20:47:02 GMT</pubDate>
-      <description><![CDATA[]]></description>
+      <title>Jordan carries out deadly strike in Syria in retaliation for church attack</title>
+      <link>https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">12bda8609c193e900a54b696c760fbff438f566a</guid>
+      <pubDate>Tue, 27 Oct 2026 02:40:17 GMT</pubDate>
+      <description><![CDATA[The attack on a village in Syria killed five people, including women and children, Syrian health officials said.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>ESPN fumbles the Holy War by forcing Utah and BYU into a dreaded early-morning kickoff for fans</title>
-      <link>https://www.foxnews.com/outkick-sports/espn-fumbles-holy-war-forcing-utah-byu-dreaded-early-morning-kickoff-fans</link>
-      <guid isPermaLink="false">10bd929c95540bc412528169c38fd763649acc4b</guid>
-      <pubDate>Mon, 26 Oct 2026 20:33:46 GMT</pubDate>
-      <description><![CDATA[BYU and Utah fans face a 10 a.m. local kickoff for their rivalry game, and the Big 12 "Holy War" deserved a late night college football slot.]]></description>
+      <title>Jay-Z to headline Apple Music Super Bowl LXI Halftime Show in Los Angeles</title>
+      <link>https://www.foxnews.com/sports/jay-z-headline-super-bowl-lxi-halftime-show-los-angeles</link>
+      <guid isPermaLink="false">260ed17004dca3e387678fd10c68014d1b3c48d7</guid>
+      <pubDate>Tue, 27 Oct 2026 02:29:04 GMT</pubDate>
+      <description><![CDATA[Apple Music announced Jay-Z will headline the Super Bowl LXI halftime show at SoFi Stadium in Inglewood, California, set for Feb. 14, 2027..]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>McDonald's McRib returns for limited time, but customers in some cities will miss out</title>
-      <link>https://www.foxnews.com/food-drink/mcdonalds-mcrib-returns-limited-time-customers-some-cities-miss-out</link>
-      <guid isPermaLink="false">59c795598b82a7ad9473b5e093df3d513ea5ae3f</guid>
-      <pubDate>Mon, 26 Oct 2026 20:24:58 GMT</pubDate>
-      <description><![CDATA[The McRib returns to select McDonald's locations on Oct. 27 in cities like Los Angeles, Chicago and Miami, but the limited-time item won't last long.]]></description>
+      <title>Brandi Kruse tells Laura Ingraham about being forced out of Portland soccer game: 'We did nothing wrong'</title>
+      <link>https://www.foxnews.com/outkick-sports/brandi-kruse-tells-laura-ingraham-about-being-forced-out-portland-soccer-game-we-did-nothing-wrong</link>
+      <guid isPermaLink="false">223e295a3bd6b4ca21a65c011fb57d804519020e</guid>
+      <pubDate>Tue, 27 Oct 2026 02:19:06 GMT</pubDate>
+      <description><![CDATA[Brandi Kruse describes being forcibly removed from a Portland Thorns match for wearing XX-XY shirts while those who allegedly attacked stayed.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Illegal immigrant accused of beheading Iwo Jima monument granted bond</title>
-      <link>https://www.foxnews.com/us/illegal-immigrant-accused-beheading-iwo-jima-monument-granted-bond</link>
-      <guid isPermaLink="false">646c6807e8dc898b8775cff32dd2f131b6587f12</guid>
-      <pubDate>Mon, 26 Oct 2026 20:24:29 GMT</pubDate>
-      <description><![CDATA[The former DACA recipient is accused of using a sledgehammer to damage the World War II monument near Marine Corps Base Quantico, causing hundreds of thousands of dollars in damage.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Man found dead on Disneyland property near entrance to 'Happiest Place on Earth'</title>
-      <link>https://www.foxnews.com/us/man-found-dead-disneyland-property-entrance-happiest-place-earth</link>
-      <guid isPermaLink="false">aece8a50a342c5f8f1ab3c7680c545f021a53c10</guid>
-      <pubDate>Mon, 26 Oct 2026 20:22:06 GMT</pubDate>
-      <description><![CDATA[A 65-year-old man was found dead on a Disneyland sidewalk near the south entrance in Anaheim, with police saying the death appeared from natural causes.]]></description>
-      <category>world</category>
+      <title>Watch: Santa Fe rocked by first tornado in 50 years as rare twister leaves behind widespread damage</title>
+      <link>https://www.foxweather.com/weather-news/video-rare-ef-1-tornado-santa-fe-path-destruction</link>
+      <guid isPermaLink="false">5c850cdc5c1dd46eb3cbbc9605a1a003ffff3cdf</guid>
+      <pubDate>Tue, 27 Oct 2026 01:43:53 GMT</pubDate>
+      <description><![CDATA[A rare EF-1 tornado tore through Santa Fe, New Mexico, on Saturday, marking the first tornado recorded in the city in more than 50 years.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Bryan Norcross: An extra-high King Tide arrives as the tropics die down</title>
@@ -484,46 +524,6 @@
       <guid isPermaLink="false">8b0d45f064edf1a81b8eab21d9339da73d85d58c</guid>
       <pubDate>Sat, 24 Oct 2026 13:03:30 GMT</pubDate>
       <description><![CDATA[Hurricane Vance continues to strengthen after becoming the 13th hurricane in the Pacific Basin this season as it moves slowly toward Mexico. Meanwhile, monster Typhoon Champi clipped northern Taiwan Friday, killing 1 person and injuring more than 500 others, according to local police.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Powerful Hurricane Vance slowly approaches Mexico as Typhoon Champi leaves 500+ injured in Taiwan</title>
-      <link>https://www.foxweather.com/weather-news/hurricane-vance-mexico-typhoon-champi-taiwan-japan-pacific</link>
-      <guid isPermaLink="false">8b0d45f064edf1a81b8eab21d9339da73d85d58c</guid>
-      <pubDate>Sat, 24 Oct 2026 13:03:30 GMT</pubDate>
-      <description><![CDATA[Hurricane Vance continues to strengthen after becoming the 13th hurricane in the Pacific Basin this season as it moves slowly toward Mexico. Meanwhile, monster Typhoon Champi clipped northern Taiwan Friday, killing 1 person and injuring more than 500 others, according to local police.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Great Plains face messy mix of heavy rain, slushy snow as slow-moving storm takes aim</title>
-      <link>https://www.foxweather.com/weather-news/southwest-plains-flooding-rain-severe-weather-weekend</link>
-      <guid isPermaLink="false">b09aa591c2752dd0c8e749b85ef45b9d268a7913</guid>
-      <pubDate>Sat, 24 Oct 2026 12:53:03 GMT</pubDate>
-      <description><![CDATA[A slow-moving storm is set to bring several days of rain and even some snow to parts of the Northern Plains. The storm will move north out of the central Rockies and High Plains, but a strong area of high pressure over Canada will prevent it from moving away quickly.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Slow-moving storm could bring heavy rain and slushy snow to the Plains as it pushes north</title>
-      <link>https://www.foxweather.com/weather-news/southwest-plains-flooding-rain-severe-weather-weekend</link>
-      <guid isPermaLink="false">b09aa591c2752dd0c8e749b85ef45b9d268a7913</guid>
-      <pubDate>Sat, 24 Oct 2026 12:53:03 GMT</pubDate>
-      <description><![CDATA[A slow-moving storm is set to bring several days of rain and even some snow to parts of the Northern Plains. The storm will move north out of the central Rockies and High Plains, but a strong area of high pressure over Canada will prevent it from moving away quickly.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Flood threat targets the Plains to wrap up the weekend after pummeling Four Corners, Southwest with heavy rain</title>
-      <link>https://www.foxweather.com/weather-news/southwest-plains-flooding-rain-severe-weather-weekend</link>
-      <guid isPermaLink="false">b09aa591c2752dd0c8e749b85ef45b9d268a7913</guid>
-      <pubDate>Sat, 24 Oct 2026 12:53:03 GMT</pubDate>
-      <description><![CDATA[After bringing inches of rain and flash flooding to the Southwest and Four Corners earlier this week, the threat has shifted into the Plains on Sunday.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Flash flood threat shifts to Plains this weekend after pummeling Four Corners, Southwest</title>
-      <link>https://www.foxweather.com/weather-news/southwest-plains-flooding-rain-severe-weather-weekend</link>
-      <guid isPermaLink="false">b09aa591c2752dd0c8e749b85ef45b9d268a7913</guid>
-      <pubDate>Sat, 24 Oct 2026 12:53:03 GMT</pubDate>
-      <description><![CDATA[After bringing inches of rain and flash flooding to the Southwest and Four Corners earlier this week, the threat is shifting into the Plains for the weekend.]]></description>
       <category>weather</category>
     </item>
   </channel>
