@@ -15,18 +15,10 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: This Afternoon - Scattered Rain Showers</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 01 Nov 2026 02:01:46 GMT</pubDate>
-      <description><![CDATA[43°F. Wind NE 5 mph. Scattered rain showers. Partly sunny, with a high near 43. Northeast wind around 5 mph. Chance of precipitation is 30%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight - Scattered Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 01 Nov 2026 02:01:46 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 09:59:07 GMT</pubDate>
       <description><![CDATA[31°F. Wind N 5 mph. Scattered rain showers. Mostly cloudy, with a low around 31. North wind around 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -34,24 +26,32 @@
       <title>Anchorage Weather: Sunday - Scattered Rain And Snow Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 01 Nov 2026 02:01:46 GMT</pubDate>
-      <description><![CDATA[41°F. Wind NE 5 mph. Scattered rain showers before 9am, then scattered rain and snow showers. Partly sunny, with a high near 41. Northeast wind around 5 mph. Chance of precipitation is 50%.]]></description>
+      <pubDate>Sun, 01 Nov 2026 09:59:07 GMT</pubDate>
+      <description><![CDATA[38°F. Wind NE 5 mph. Scattered rain showers before 9am, then scattered rain and snow showers. Partly sunny, with a high near 38. Northeast wind around 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Sunday Night - Chance Rain Showers then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 01 Nov 2026 02:01:46 GMT</pubDate>
-      <description><![CDATA[31°F. Wind NE 5 to 10 mph. A chance of rain showers before midnight. Mostly cloudy, with a low around 31. Northeast wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Sun, 01 Nov 2026 09:59:07 GMT</pubDate>
+      <description><![CDATA[30°F. Wind NE 5 to 10 mph. A chance of rain showers before midnight. Mostly cloudy, with a low around 30. Northeast wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Monday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 01 Nov 2026 02:01:46 GMT</pubDate>
-      <description><![CDATA[42°F. Wind N 5 to 10 mph. Partly sunny, with a high near 42. North wind 5 to 10 mph.]]></description>
+      <pubDate>Sun, 01 Nov 2026 09:59:07 GMT</pubDate>
+      <description><![CDATA[39°F. Wind N 5 to 10 mph. Partly sunny, with a high near 39. North wind 5 to 10 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday Night - Mostly Cloudy then Slight Chance Light Rain</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 01 Nov 2026 09:59:07 GMT</pubDate>
+      <description><![CDATA[32°F. Wind NE 5 mph. A slight chance of rain after midnight. Mostly cloudy, with a low around 32. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -327,6 +327,118 @@
       <category>local</category>
     </item>
     <item>
+      <title>Cambridge scientist dies in Spanish train crash</title>
+      <link>https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">01ed4024208efffb9bd492d4f1e0d54372a7d803</guid>
+      <pubDate>Sun, 01 Nov 2026 09:31:06 GMT</pubDate>
+      <description><![CDATA[A Spanish research centre has confirmed her death days after she was declared misisng.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Shops looted as German cost of living protests turn violent</title>
+      <link>https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">de77300dcc63145ae5aceee7a73cc5f5a94f0a25</guid>
+      <pubDate>Sun, 01 Nov 2026 08:43:00 GMT</pubDate>
+      <description><![CDATA[The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter</title>
+      <link>https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter</link>
+      <guid isPermaLink="false">22fc29958fd446c664c06de7126d517ec81994bc</guid>
+      <pubDate>Sun, 01 Nov 2026 08:20:19 GMT</pubDate>
+      <description><![CDATA[Saying the president was "grasping at straws," a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>From Maya as Sir Mo Farah to Heidi as her own left hand: The best Halloween looks</title>
+      <link>https://www.bbc.co.uk/news/articles/ck1exyj525d9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1f4047ae4f0f62df63f939b52b5d58cbc3ccb025</guid>
+      <pubDate>Sun, 01 Nov 2026 08:09:26 GMT</pubDate>
+      <description><![CDATA[Celebrities have been embracing the scariest day of the year by dressing up as sport stars, dismembered limbs and unsold concert tickets.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Toxic cocktail' of renter protections destroyed $39M affordable housing investment as Dem cities follow suit</title>
+      <link>https://www.foxnews.com/politics/toxic-cocktail-seattle-renter-protections-destroyed-39m-affordable-housing-investment-dem-cities-follow-suit</link>
+      <guid isPermaLink="false">749e0a10c61a48261dd5e1a4dce8e1bbe9293fac</guid>
+      <pubDate>Sun, 01 Nov 2026 08:00:22 GMT</pubDate>
+      <description><![CDATA[A once-profitable apartment complex saw rent collections plunge as Seattle expanded restrictions on landlords, sparking a constitutional battle with national implications.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>India's opposition holds mega rally seeking election chief's resignation</title>
+      <link>https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8fa2de34231290635d8d00290d8da1de53133ad7</guid>
+      <pubDate>Sun, 01 Nov 2026 07:00:55 GMT</pubDate>
+      <description><![CDATA[It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Democrats are used to heartbreak in Texas - could Talarico turn the tide?</title>
+      <link>https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5091dd7a10092596cb0801ac5629d3e0e91aa5e5</guid>
+      <pubDate>Sun, 01 Nov 2026 06:03:57 GMT</pubDate>
+      <description><![CDATA[The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Watch: Heidi Klum as giant severed hand for Halloween bash</title>
+      <link>https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">63401d82373666bcf4fc6fa89edb75827054fa70</guid>
+      <pubDate>Sun, 01 Nov 2026 05:26:02 GMT</pubDate>
+      <description><![CDATA[The supermodel and TV host provided a gory new shock at her New York event.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ohio State's national title hopes are rightfully fading after USC delivers reality check in shocking upset</title>
+      <link>https://www.foxnews.com/outkick-sports/ohio-state-national-title-hopes-rightfully-fading-usc-delivers-reality-check-shocking-upset</link>
+      <guid isPermaLink="false">1824196075171575357a993ce5140dfa1cc249a2</guid>
+      <pubDate>Sun, 01 Nov 2026 04:26:46 GMT</pubDate>
+      <description><![CDATA[Lincoln Riley's USC upset over No. 2 Ohio State exposes the Buckeyes' offensive collapse, with Oregon, Nebraska and Michigan still on the schedule.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bill Belichick's UNC Tar Heels nearly upset top-ranked Miami before costly strip-sack</title>
+      <link>https://www.foxnews.com/outkick-sports/bill-belichick-unc-tar-heels-nearly-upset-top-ranked-miami-costly-strip-sack</link>
+      <guid isPermaLink="false">865912e37cf4b7790731171d3165094e63a404ac</guid>
+      <pubDate>Sun, 01 Nov 2026 03:52:38 GMT</pubDate>
+      <description><![CDATA[UNC's Billy Edwards Jr. threw for 341 yards and four touchdowns, but a costly strip-sack swung momentum as Miami escaped Chapel Hill still undefeated.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>BYU survives unranked Arizona State's second-half rally, stays unbeaten at home</title>
+      <link>https://www.foxnews.com/outkick-sports/byu-survives-unranked-arizona-state-second-half-rally-stays-unbeaten-home</link>
+      <guid isPermaLink="false">ed77b6f79111c514e03e2aadfef25edd9a58db88</guid>
+      <pubDate>Sun, 01 Nov 2026 03:29:00 GMT</pubDate>
+      <description><![CDATA[Bear Bachmeier's clutch fourth-down conversions and 236 passing yards powered No. 8 BYU to a Big 12 victory after Arizona State erased a 14-point deficit.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Angel Reese, Atlanta Dream fall short in Game 7 as Golden State Valkyries win first WNBA championship</title>
+      <link>https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship</link>
+      <guid isPermaLink="false">83a9f5dc52a6d3f4259a959d2776255b49e73f36</guid>
+      <pubDate>Sun, 01 Nov 2026 03:02:04 GMT</pubDate>
+      <description><![CDATA[Angel Reese scored just one fourth-quarter point in Game 7 as Gabby Williams erupted for 30 points to lead the Golden State Valkyries to a title.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Reeves says UK's future should be inside the EU</title>
+      <link>https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c60036466df179eed497012d500138ec761d5ef8</guid>
+      <pubDate>Sun, 01 Nov 2026 02:57:34 GMT</pubDate>
+      <description><![CDATA[In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK "poorer, weaker and less secure".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Paul Skenes and Livvy Dunne's Halloween costume will enrage anyone tired of rushing through holidays</title>
+      <link>https://www.foxnews.com/outkick-sports/paul-skenes-livvy-dunne-halloween-costume-enrage-anyone-tired-rushing-holidays</link>
+      <guid isPermaLink="false">9b1025c24ed4f301ebaa0d8b04dabcf108877edd</guid>
+      <pubDate>Sun, 01 Nov 2026 02:22:30 GMT</pubDate>
+      <description><![CDATA[Paul Skenes and Livvy Dunne dressed as Buddy the Elf and a Mrs. Butterworth's syrup bottle for Halloween, jumping straight to Christmas mode.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>NYC woman critically injured after being stabbed multiple times while jogging along Brooklyn waterfront</title>
       <link>https://www.foxnews.com/us/nyc-woman-critically-injured-stabbed-multiple-times-jogging-brooklyn-waterfront</link>
       <guid isPermaLink="false">5bdb4a392b66927fce54a1188d303c9cd29635c7</guid>
@@ -367,123 +479,11 @@
       <category>world</category>
     </item>
     <item>
-      <title>Patriots lose AJ Brown to injury again, rule out other offensive players ahead of matchup with division rival</title>
-      <link>https://www.foxnews.com/outkick-sports/patriots-lose-aj-brown-injury-rule-out-offensive-players-division-rival</link>
-      <guid isPermaLink="false">8364f8384250af7a3a022bc6a3e08819b9f5d162</guid>
-      <pubDate>Sun, 01 Nov 2026 00:38:20 GMT</pubDate>
-      <description><![CDATA[A.J. Brown, TreVeyon Henderson and Marcus Bryant were all downgraded to out ahead of the New England Patriots' AFC East clash with the Dolphins.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ricki Lake says Rosie O'Donnell was 'judgy' about her facelift then got one herself after weight loss</title>
-      <link>https://www.foxnews.com/entertainment/ricki-lake-says-rosie-odonnell-judgy-facelift-got-one-herself-after-weight-loss</link>
-      <guid isPermaLink="false">1203f427c29cebc912220ab0b81c60c24a39a95e</guid>
-      <pubDate>Sun, 01 Nov 2026 00:24:48 GMT</pubDate>
-      <description><![CDATA[Ricki Lake revealed on "The Weekend View" that Rosie O'Donnell was "judgy" about her facelift, only to get the same procedure after Mounjaro weight loss.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>No more washing up: How Airbnb's new house rules have divided hosts and guests</title>
-      <link>https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">abfb1eed17d0ee9b41dc8188b2968f251b70c34b</guid>
-      <pubDate>Sun, 01 Nov 2026 00:17:05 GMT</pubDate>
-      <description><![CDATA[Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Not even a chance at free tuition could get Maryland students in the seats for football Saturday</title>
-      <link>https://www.foxnews.com/outkick-sports/not-even-chance-free-tuition-could-get-maryland-students-seats-football-saturday</link>
-      <guid isPermaLink="false">fdd6fe62bfb10be233621e6f62252f2613c93e1c</guid>
-      <pubDate>Sun, 01 Nov 2026 00:15:34 GMT</pubDate>
-      <description><![CDATA[Maryland's free tuition giveaway failed to fill SECU Stadium as the Terrapins fell to Illinois 20-17 in a Halloween matinee with poor attendance.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>India's opposition set to hold mega rally seeking election chief's resignation</title>
-      <link>https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8fa2de34231290635d8d00290d8da1de53133ad7</guid>
-      <pubDate>Sun, 01 Nov 2026 00:12:07 GMT</pubDate>
-      <description><![CDATA[It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Who are the real winners of Celebrity Traitors?</title>
-      <link>https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9ac386bda2b90f557f786ff07614dbc36b65f782</guid>
-      <pubDate>Sun, 01 Nov 2026 00:06:01 GMT</pubDate>
-      <description><![CDATA[Certain stars have been tipped by industry experts as getting the biggest career boost after the show.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Two men die after suspected electrocution at hotel pool as rescue effort injures others</title>
-      <link>https://www.foxnews.com/travel/two-men-die-after-suspected-electrocution-hotel-pool-rescue-effort-injures-others</link>
-      <guid isPermaLink="false">7a41b0ad6eedc84b56aed910eb1eb8c8ddf794a2</guid>
-      <pubDate>Sat, 31 Oct 2026 23:50:10 GMT</pubDate>
-      <description><![CDATA[Two foreign nationals died at the Conrad Bengaluru pool in India after a suspected electrical leak, with police investigating the cause of the incident. Two others were injured.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Colorado Buffaloes fans in Halloween costumes rush field, tear down goalposts after OT win snaps losing skid</title>
-      <link>https://www.foxnews.com/outkick-sports/colorado-buffaloes-fans-halloween-costumes-rush-field-tear-down-goalposts-ot-win-snaps-losing-skid</link>
-      <guid isPermaLink="false">d2112f2cc249ad6a23a85739567f2beca46429d8</guid>
-      <pubDate>Sat, 31 Oct 2026 23:50:07 GMT</pubDate>
-      <description><![CDATA[The Colorado Buffaloes snapped a five-game losing streak as Isaac Wilson's clutch overtime TD pass sparked a field-storming frenzy in Boulder.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Good luck, SEC: Auburn awoke a monster in Athens, and Florida pays the price in Georgia's cocktail beatdown</title>
-      <link>https://www.foxnews.com/outkick-sports/good-luck-sec-auburn-awoke-monster-athens-florida-pays-price-georgia-cocktail-beatdown</link>
-      <guid isPermaLink="false">17e0d48dcde4222649985700aa3090d6b8773372</guid>
-      <pubDate>Sat, 31 Oct 2026 23:25:28 GMT</pubDate>
-      <description><![CDATA[Gunner Stockton and Georgia throttled Florida in Atlanta as the Bulldogs channeled their Auburn loss into a Halloween Day splattering of the Gators.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home</title>
-      <link>https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5f84f1aafe107da0ea0f01840f6d3549d1dc5066</guid>
-      <pubDate>Sat, 31 Oct 2026 23:06:13 GMT</pubDate>
-      <description><![CDATA[Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour</title>
-      <link>https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">91c1e511698f20e3bf8759c0b9a36f996313ae01</guid>
-      <pubDate>Sat, 31 Oct 2026 22:56:15 GMT</pubDate>
-      <description><![CDATA[King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Head of In-N-Out burger chain addresses expansion to 3 more states</title>
-      <link>https://www.foxnews.com/food-drink/head-in-n-out-burger-chain-addresses-expansion-3-more-states</link>
-      <guid isPermaLink="false">7f2e38718bdf39c8eb21ce1a2e2c7c3bff17e157</guid>
-      <pubDate>Sat, 31 Oct 2026 22:54:03 GMT</pubDate>
-      <description><![CDATA[CEO Lynsi Snyder named Arkansas, Mississippi and Oklahoma as possible future In-N-Out Burger states while stressing the chain's cautious approach to growth.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Virginia and D.C. sue to block construction of Trump arch</title>
-      <link>https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch</link>
-      <guid isPermaLink="false">fdc667fffbbb4be4dd5c9e5c702177cd8eaa661e</guid>
-      <pubDate>Sat, 31 Oct 2026 22:48:51 GMT</pubDate>
-      <description><![CDATA[U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Jonathan Taylor trade talks 'active and ongoing' as Colts now fielding calls on All-Pro running back: report</title>
-      <link>https://www.foxnews.com/outkick-sports/jonathan-taylor-trade-talks-active-ongoing-colts-fielding-calls-all-pro-running-back-report</link>
-      <guid isPermaLink="false">bc4a5ea758ddbb5108666aa82d41175bf05363df</guid>
-      <pubDate>Sat, 31 Oct 2026 22:27:36 GMT</pubDate>
-      <description><![CDATA[The Broncos, Packers, Vikings, Giants and Seahawks have all called about Jonathan Taylor as the Colts' NFL trade deadline fire sale heats up.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Crypto firm Binance covers 90% of losses after $6.3bn hack</title>
-      <link>https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">641fcec3e146e5fcf937e0494fe186c79946d607</guid>
-      <pubDate>Sat, 31 Oct 2026 22:11:45 GMT</pubDate>
-      <description><![CDATA[The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.]]></description>
+      <title>Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book</title>
+      <link>https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">faf1874beb29fa3109686db6e0c07c471f2ee78f</guid>
+      <pubDate>Sun, 01 Nov 2026 00:41:24 GMT</pubDate>
+      <description><![CDATA[Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.]]></description>
       <category>world</category>
     </item>
     <item>
