@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 06:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:56:50 GMT</lastBuildDate>
+    <item>
+      <title>Ranked choice voting may help Republican US Sen. Dan Sullivan, analysis finds</title>
+      <link>https://alaskabeacon.com/2026/11/04/ranked-choice-voting-may-help-republican-us-sen-dan-sullivan-analysis-finds/</link>
+      <guid isPermaLink="false">9393def6d8030890d97ca1b2b31b07060a036d41</guid>
+      <pubDate>Wed, 04 Nov 2026 22:56:50 GMT</pubDate>
+      <description><![CDATA[This article is developing and may be updated. If Republican U.S. Sen. Dan Sullivan wins re-election, Alaska’s ranked choice runoff system may deserve part of the credit. Early Wednesday morning results published by the Alaska Division of Elections show Democratic challenger Mary Peltola leading Sullivan by 626 first-choice votes, but according to preliminary data published […]]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Ballot Measure 2, repeal of Alaska’s election system, trails with many votes uncounted</title>
       <link>https://alaskabeacon.com/2026/11/03/ballot-measure-2-repeal-of-alaskas-election-system-trails-with-many-votes-uncounted/</link>
@@ -31,26 +39,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Alaska US Senate race is a tossup as more votes are counted, keeping Peltola and Sullivan close</title>
-      <link>https://alaskabeacon.com/2026/11/03/democratic-candidate-mary-peltola-leads-in-early-vote-counts-for-alaskas-us-senate-election/</link>
-      <guid isPermaLink="false">d98dfc840eef0445e264546ec3f91993a489ab39</guid>
-      <pubDate>Wed, 04 Nov 2026 05:52:34 GMT</pubDate>
-      <description><![CDATA[This article is developing and will be updated. Alaska is on course to keep its Republican incumbent Senator in a closely watched race that will help determine whether Republicans or Democrats control the U.S. Senate. With 279 of 401 precincts reporting results Tuesday night, Sen. Dan Sullivan had 48.6% of voters’ first-choice votes. Democratic challenger […]]]></description>
+      <title>The NHS is relying more on charities - and that might be creating problems for patients</title>
+      <link>https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">aeaaf3432e920f534b0c1781df818126d15f38db</guid>
+      <pubDate>Thu, 05 Nov 2026 00:12:30 GMT</pubDate>
+      <description><![CDATA[Is it symptom a health service at breaking point - or a positive way of involving the public?]]></description>
       <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Scattered Rain Showers</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 04 Nov 2026 22:22:05 GMT</pubDate>
-      <description><![CDATA[43°F. Wind NE 5 to 10 mph. Scattered rain showers after 3pm. Mostly cloudy, with a high near 43. Northeast wind 5 to 10 mph. Chance of precipitation is 30%.]]></description>
-      <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Chance Rain Showers then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 04 Nov 2026 22:22:05 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 03:03:51 GMT</pubDate>
       <description><![CDATA[33°F. Wind N 5 to 10 mph. A chance of rain showers before midnight, then a chance of rain. Mostly cloudy, with a low around 33. North wind 5 to 10 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -58,7 +58,7 @@
       <title>Anchorage Weather: Thursday - Chance Light Rain then Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 04 Nov 2026 22:22:05 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 03:03:51 GMT</pubDate>
       <description><![CDATA[38°F. Wind N 5 to 10 mph. A chance of rain before 9am, then a chance of rain showers between 9am and noon. Partly sunny, with a high near 38. North wind 5 to 10 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
@@ -66,7 +66,7 @@
       <title>Anchorage Weather: Thursday Night - Patchy Freezing Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 04 Nov 2026 22:22:05 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 03:03:51 GMT</pubDate>
       <description><![CDATA[28°F. Wind N 0 to 10 mph. Patchy freezing fog after 9pm. Partly cloudy, with a low around 28. North wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -74,9 +74,89 @@
       <title>Anchorage Weather: Friday - Patchy Freezing Fog then Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 04 Nov 2026 22:22:05 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 03:03:51 GMT</pubDate>
       <description><![CDATA[37°F. Wind NE 0 to 5 mph. Patchy freezing fog before 9am. Partly sunny, with a high near 37. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday Night - Mostly Cloudy</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Thu, 05 Nov 2026 03:03:51 GMT</pubDate>
+      <description><![CDATA[27°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 27. Northeast wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Homer food pantry’s Empty Bowl fundraiser meets growing demand</title>
+      <link>https://www.homernews.com/2026/11/04/homer-food-pantrys-empty-bowl-fundraiser-meets-growing-demand/</link>
+      <guid isPermaLink="false">d43f83673549d29c816b7c2f7e9f81ff837e0547</guid>
+      <pubDate>Thu, 05 Nov 2026 02:30:00 GMT</pubDate>
+      <description><![CDATA[Local potters, restaurants and volunteers come together for Nov. 6 lunch]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Newscast – Wednesday, Nov. 4, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17515640/newscast-wednesday-nov-4-2026</link>
+      <guid isPermaLink="false">b72a95418a8e9d50ca305e5d491c0e2ee7efe167</guid>
+      <pubDate>Thu, 05 Nov 2026 02:00:13 GMT</pubDate>
+      <description><![CDATA[In this newscast: Democratic incumbent Andi Story is leading with 65% of the votes in Juneau's only contested state House race; Democratic gubernatorial candidate Jonathan Kreiss-Tomkins speaks about election night as he remains in the lead in the race for Alaska governor; Petersburg voters speak about how they voted and what they thought of the recent national attention; With 98% of precincts reporting, Democrat Mary Peltola has a slight lead over incumbent Republican U.S. Sen. Dan Sullivan in Alaska's tight U.S. Senate race.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaskans approve largely meaningless noncitizen voting ballot measure</title>
+      <link>https://alaskabeacon.com/2026/11/04/alaskans-approve-largely-meaningless-noncitizen-voting-ballot-measure/</link>
+      <guid isPermaLink="false">e0800e9b5f02bbbac4f905a40e6d9f1e102d6fc4</guid>
+      <pubDate>Thu, 05 Nov 2026 01:34:37 GMT</pubDate>
+      <description><![CDATA[Partial election results Wednesday afternoon show Alaska voters overwhelmingly approving Ballot Measure 3, which would add a new state law prohibiting noncitizens from voting in Alaska. A different Alaska law already prohibits noncitizen voting, as does federal law. When enacted, Ballot Measure 3 will not change existing practice, according to an analysis by the Alaska […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Senate Bipartisan Coalition announces “balanced leadership” of like-minded liberal legislators</title>
+      <link>https://mustreadalaska.com/senate-bipartisan-coalition-announces-balanced-leadership-of-like-minded-liberal-legislators/</link>
+      <guid isPermaLink="false">c29c177024dc2fa09be463126d34cd412fee93c9</guid>
+      <pubDate>Thu, 05 Nov 2026 01:09:04 GMT</pubDate>
+      <description><![CDATA[Today, the Alaska State Senate Bipartisan Coalition announced it will continue for the 35th Alaska State Legislature. According to a press release from the Senate Bipartisan Coalition, the coalition has “established a balanced leadership structure” with the following positions announced: The coalition will announce full membership and committee chairs once all races are final. Despite […] The post Senate Bipartisan Coalition announces “balanced leadership” of like-minded liberal legislators appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Early ranked choice results indicate Republicans Tilton, McCabe trail in Alaska legislature races</title>
+      <link>https://alaskabeacon.com/2026/11/04/early-ranked-choice-results-indicate-republicans-tilton-mccabe-trail-in-alaska-legislature-races/</link>
+      <guid isPermaLink="false">0ea77f5dc8ce95b377e0df31903b8efc463cafc8</guid>
+      <pubDate>Wed, 04 Nov 2026 23:30:24 GMT</pubDate>
+      <description><![CDATA[Incumbents Sen. Cathy Tilton, R-Wasilla, and Rep. Kevin McCabe, R-Big Lake, led in first-choice election results Tuesday night, but preliminary results from ranked choice runoffs show them trailing challengers in their hotly contested Matanuska-Susitna Borough legislative races. Rep. Elexie Moore, R-Wasilla, trailed in first-choice election results but a Wednesday morning ranked choice tabulation performed by […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>StarkFreedom endorsed Petersburg Dan, now claims “we won 8 out of 11” states flipped by Democrats</title>
+      <link>https://mustreadalaska.com/starkfreedom-endorsed-petersburg-dan-now-claims-we-won-8-out-of-11-states-flipped-by-democrats/</link>
+      <guid isPermaLink="false">1bf341eaf3dec8fc60670ebe8fa78519a90c2997</guid>
+      <pubDate>Wed, 04 Nov 2026 23:17:21 GMT</pubDate>
+      <description><![CDATA[A new super PAC called StarkFreedom run by New Hampshire activist Aaron Day has publicly celebrated what it calls victories in eight U.S. Senate, claiming, “we won 8 of 11. Won means the Republican lost.” StarkFreedom endorsed Daniel J. Sullivan Jr. of Petersburg in Alaska’s Senate race, intentionally hoping to draw votes away from the […] The post StarkFreedom endorsed Petersburg Dan, now claims “we won 8 out of 11” states flipped by Democrats appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Midterm winners include several who made history</title>
+      <link>https://alaskabeacon.com/2026/11/04/repub/midterm-winners-include-several-who-made-history/</link>
+      <guid isPermaLink="false">d1ded16d9bc6e21f1e8a00b139289e5b195b46fe</guid>
+      <pubDate>Wed, 04 Nov 2026 21:56:42 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — Winners of more than a dozen congressional and gubernatorial races have broken longstanding barriers of race, gender and sexuality.  The results set records for the most Black governors and most women governors, and the first Black woman governor, Georgia’s Keisha Lance Bottoms. Democrats, who flipped the U.S. House and Senate, had more historic firsts, though […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>The Cardinal Virtues and the Common Good: Lessons from France</title>
+      <link>https://mustreadalaska.com/the-cardinal-virtues-and-the-common-good-lessons-from-france/</link>
+      <guid isPermaLink="false">25ea91fb3db53054911bfd0c08efbb6d8f18a340</guid>
+      <pubDate>Wed, 04 Nov 2026 21:26:30 GMT</pubDate>
+      <description><![CDATA[The four cardinal virtues—prudence, justice, fortitude, and temperance—form the practical foundation of life together. Whether in a household, a workplace, a neighborhood, or a nation, they enable people to pursue genuine goods without destroying the conditions that make those goods possible. St. Thomas Aquinas treated them as habits that perfect reason, will, and the passions. […] The post The Cardinal Virtues and the Common Good: Lessons from France appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Veterans Career Fair on Tuesday, November 10, 1-4 PM</title>
+      <link>https://mustreadalaska.com/veterans-career-fair-on-tuesday-november-10-1-4-pm/</link>
+      <guid isPermaLink="false">61c08ebff9f8250371f1db9585363daa42b89f60</guid>
+      <pubDate>Wed, 04 Nov 2026 20:33:25 GMT</pubDate>
+      <description><![CDATA[A Veterans Career Fair will take place on Tuesday, Nov. 10, 2026, from 1 to 4 p.m., at the Muldoon Family Center (a.k.a. Muldoon Mall), located at 1251 Muldoon Road in Anchorage. Nearly 50 employers, education and training providers, and registered apprenticeship programs are expected to participate. The Career Fair is designed to connect veterans, […] The post Veterans Career Fair on Tuesday, November 10, 1-4 PM appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>OPINION: Only the important things in life have to be real</title>
@@ -95,11 +175,75 @@
       <category>local</category>
     </item>
     <item>
+      <title>Senator Sullivan closes in on Peltola, Republicans have chance to win Governor</title>
+      <link>https://mustreadalaska.com/senator-sullivan-closes-in-on-peltola-republicans-have-chance-to-win-governor/</link>
+      <guid isPermaLink="false">d3f3de801f4f3f0e8fcca2d969c308ef5d854f14</guid>
+      <pubDate>Wed, 04 Nov 2026 18:47:47 GMT</pubDate>
+      <description><![CDATA[The first batch of unofficial results showed liberals in the lead, but updated results released at 2:42 AM show most races remain competitive. Senator Dan Sullivan is closing in on Democrat challenger Mary Peltola, needing fewer than 700 votes to take the lead. The governor’s race shows Republicans combined with a higher percentage of votes […] The post Senator Sullivan closes in on Peltola, Republicans have chance to win Governor appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Ballot Measure 3 sponsors thank Alaskans for supporting citizen-only voting initiative</title>
+      <link>https://mustreadalaska.com/ballot-measure-3-sponsors-thank-alaskans-for-supporting-citizen-only-voting-initiative/</link>
+      <guid isPermaLink="false">d593577cd09b7a26aa0f323208f39ad4f8c920fb</guid>
+      <pubDate>Wed, 04 Nov 2026 17:39:01 GMT</pubDate>
+      <description><![CDATA[The sponsors of Ballot Measure 3, the United States Citizens Voter Act, today thanked Alaska voters following the measure’s passage in Tuesday’s general election. The initiative clarifies Alaska law by expressly stating that only United States citizens may vote in state elections. Former Senate Majority Leader John Coghill, a primary sponsor of the initiative, commented: “Alaskans have […] The post Ballot Measure 3 sponsors thank Alaskans for supporting citizen-only voting initiative appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>U.S. Coast Guard Awards $114 Million Contract to Modernize Critical Water Infrastructure at Base Kodiak, Bolstering Arctic Readiness</title>
+      <link>https://alaska-native-news.com/u-s-coast-guard-awards-114-million-contract-to-modernize-critical-water-infrastructure-at-base-kodiak-bolstering-arctic-readiness/86962/</link>
+      <guid isPermaLink="false">cc037e4eec38ef3c258ddb124d8eba3e95cecd45</guid>
+      <pubDate>Wed, 04 Nov 2026 15:04:01 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — The U.S. Coast Guard awarded a $114 million contract on Oct. 29, 2026 to Gilbane Federal of Providence, Rhode Island, to modernize the water distribution system at Base Kodiak, Alaska. Funded through the One Big Beautiful Bill Act, this project directly strengthens operational readiness and quality of life at the Coast Guard’s largest […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>BLM Takes Historic Action to Settle Alaska’s Land Pattern for All Alaskans</title>
+      <link>https://alaska-native-news.com/blm-takes-historic-action-to-settle-alaskas-land-pattern-for-all-alaskans/86960/</link>
+      <guid isPermaLink="false">915f97322fd584eea40429d9aa702d96f6f681eb</guid>
+      <pubDate>Wed, 04 Nov 2026 15:03:53 GMT</pubDate>
+      <description><![CDATA[Bureau Reduces Statehood Overselections by More Than 5 Million Acres ANCHORAGE, Alaska — Tuesday, the Bureau of Land Management took historic action to reduce the State of Alaska’s overselections toward its statehood entitlement by more than 5 million acres. This is a key step in the BLM’s continued partnership with the state and all Alaskans […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Stephen Miller, Who Wants Immigrants Deported Over Paperwork, Has ‘Glaring Inconsistencies’ in His Disclosures</title>
+      <link>https://alaska-native-news.com/stephen-miller-who-wants-immigrants-deported-over-paperwork-has-glaring-inconsistencies-in-his-disclosures/86958/</link>
+      <guid isPermaLink="false">5a500b27132affd9ff9347866329e09744c7b1d6</guid>
+      <pubDate>Wed, 04 Nov 2026 15:02:06 GMT</pubDate>
+      <description><![CDATA[“This administration has demonstrated an objective to scrutinize alleged errors in other people’s paperwork, with very serious consequences. If that is the standard set by the White House, then the rules should apply equally to everyone.” Stephen Miller, a chief architect of President Donald Trump’s lawless and cruel mass deportation campaign, is facing scrutiny from […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Critics Hammer Google Plan to Shut Off Search Access for Schools That Reject Its AI</title>
+      <link>https://alaska-native-news.com/critics-hammer-google-plan-to-shut-off-search-access-for-schools-that-reject-its-ai/86955/</link>
+      <guid isPermaLink="false">99fb3dc59b08b54b4a8a252e4962be07cae23bb0</guid>
+      <pubDate>Wed, 04 Nov 2026 15:01:08 GMT</pubDate>
+      <description><![CDATA[“This highlights the danger of allowing an unregulated monopolist to control an essential service,” said former Federal Trade Commission Chair Lina Khan. Tech giant Alphabet, the parent company of Google, is telling US schools that there’s a price to be paid for restricting student access to its artificial intelligence tools. The New York Times reported […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>This Day in Alaska History-November 4th, 1884</title>
+      <link>https://alaska-native-news.com/november-4th-1884/45529/</link>
+      <guid isPermaLink="false">88a178f2e83cab31b51104a22b48ca3ab6498fe7</guid>
+      <pubDate>Wed, 04 Nov 2026 15:00:04 GMT</pubDate>
+      <description><![CDATA[In May 1844, Alaska became a district; then, on November 4th 1884, the first District Court opened its doors in Sitka. That court was responsible for the entirety of Alaska. Unlike other districts in the country Alaska had an exception to court sessions due to the vastness of Alaska. We had a water lane circuit […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
       <title>Incumbents hold lead in race for Homer Council, Vance ahead in House District 6</title>
       <link>https://www.homernews.com/2026/11/04/incumbents-hold-lead-in-race-for-homer-council-vance-ahead-in-house-district-6-2/</link>
       <guid isPermaLink="false">299dde1c388caf1709d002e87551fe590de60650</guid>
       <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
       <description><![CDATA[Democrats likely to win governor’s race and hold control of the State House]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Republican incumbent Rep. Nick Begich III has big lead for state’s lone U.S. House seat</title>
+      <link>https://www.homernews.com/2026/11/04/republican-incumbent-rep-nick-begich-iii-has-big-lead-for-states-lone-u-s-house-seat/</link>
+      <guid isPermaLink="false">ce082d73409b5f722df6e44f4e088404471f6541</guid>
+      <pubDate>Wed, 04 Nov 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Neither Begich nor independent challenger Bill Hill has the 50% needed to avoid a ranked choice runoff]]></description>
       <category>local</category>
     </item>
     <item>
@@ -135,6 +279,14 @@
       <category>local</category>
     </item>
     <item>
+      <title>First unofficial returns show early leads for JKT and Peltola; Ballot Measure 2 trails</title>
+      <link>https://mustreadalaska.com/first-unofficial-returns-show-early-leads-for-jkt-and-peltola-ballot-measure-2-trails/</link>
+      <guid isPermaLink="false">dc2d69a6de08b7bc8514d4c3516fa2fc3b99aadc</guid>
+      <pubDate>Wed, 04 Nov 2026 06:20:26 GMT</pubDate>
+      <description><![CDATA[The Alaska Division of Elections posted its first batch of unofficial results for the November 3 general election shortly after 8:30 p.m. Only 45 of 401 precincts had reported, representing 11.22 percent of precincts and 65,588 ballots out of 605,433 registered voters—roughly 10.83 percent of the registered voter base. These figures are first-choice totals only. […] The post First unofficial returns show early leads for JKT and Peltola; Ballot Measure 2 trails appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
       <title>Alaska US Sen. Sullivan, in fight to keep his seat, makes new accusations against Peltola</title>
       <link>https://alaskabeacon.com/2026/11/03/alaska-us-sen-sullivan-in-fight-to-keep-his-seat-makes-new-accusations-against-peltola/</link>
       <guid isPermaLink="false">b03e6aa41179da708c3836ce02fa3bd94f539e3d</guid>
@@ -151,132 +303,140 @@
       <category>local</category>
     </item>
     <item>
-      <title>Alaska’s US Senate race a tossup, with many absentee and early votes to be counted</title>
-      <link>https://alaskabeacon.com/2026/11/03/democratic-candidate-mary-peltola-leads-in-early-vote-counts-for-alaskas-us-senate-election/</link>
-      <guid isPermaLink="false">d98dfc840eef0445e264546ec3f91993a489ab39</guid>
-      <pubDate>Wed, 04 Nov 2026 05:52:34 GMT</pubDate>
-      <description><![CDATA[This article was last updated Nov. 4 at 2:55 a.m. Alaska’s closely watched U.S. Senate race remained too close to call early Wednesday morning as Democratic challenger Mary Peltola led incumbent Republican Dan Sullivan by only a few hundred votes with thousands more remaining to be counted. The result of the race could extend already-enormous […]]]></description>
-      <category>local</category>
+      <title>Vance walks Trump tightrope with scathing election critique blaming Iran war</title>
+      <link>https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e8db9958c58d55ef39a4879c0658065c395fe7b2</guid>
+      <pubDate>Thu, 05 Nov 2026 02:48:14 GMT</pubDate>
+      <description><![CDATA[The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.]]></description>
+      <category>politics</category>
     </item>
     <item>
-      <title>University of Alaska Southeast online MPA program earns top spot in state rankings</title>
-      <link>https://www.juneauempire.com/2026/11/03/university-of-alaska-southeast-online-mpa-program-earns-top-spot-in-state-rankings/</link>
-      <guid isPermaLink="false">a0ccca7e46c24181017d9ec42a19b79bc0d1a363</guid>
-      <pubDate>Wed, 04 Nov 2026 03:30:00 GMT</pubDate>
-      <description><![CDATA[Public Administration Policy released its 2027 state rankings]]></description>
-      <category>local</category>
+      <title>UK commits to 'time-bound' talks on slavery apology</title>
+      <link>https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c352cd185f5da51dbc288f6e360329f5149d19a5</guid>
+      <pubDate>Thu, 05 Nov 2026 02:17:18 GMT</pubDate>
+      <description><![CDATA[Andy Burnham signed up to a broader process to address "historical harms" of the transatlantic slave trade, Chris Mason writes.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Democrats score control of US Senate in stunning midterm victory</title>
-      <link>https://alaskabeacon.com/2026/11/03/repub/control-of-us-senate-may-depend-on-a-handful-of-toss-up-races-in-midterm-elections/</link>
-      <guid isPermaLink="false">6aa41a9094ec7234138f7da87a2d201eff7120a1</guid>
-      <pubDate>Wed, 04 Nov 2026 03:00:42 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — In a stunning upset, Democrats ousted Republicans and flipped control of the U.S. Senate Tuesday night, effectively establishing a barricade for President Donald Trump’s agenda for the last two years of his term. Democrats will now have the power to block many of Trump’s nominees, both executive and judicial, including if a spot […]]]></description>
-      <category>local</category>
+      <title>Charlamagne Tha God warns Democrats 'don't get comfortable' after winning House and Senate</title>
+      <link>https://www.foxnews.com/media/charlamagne-tha-god-warns-democrats-dont-get-comfortable-after-winning-house-senate</link>
+      <guid isPermaLink="false">899d1f44e90bdbfd1792392e63e55c32c2bebe0d</guid>
+      <pubDate>Thu, 05 Nov 2026 01:18:53 GMT</pubDate>
+      <description><![CDATA[Charlamagne Tha God demanded Democrats deliver on housing costs, healthcare, wages and corruption investigations after winning the House and Senate.]]></description>
+      <category>politics</category>
     </item>
     <item>
-      <title>Newscast – Tuesday, Nov. 3, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17514887/newscast-tuesday-nov-3-2026</link>
-      <guid isPermaLink="false">5aa4b494ddd815b9aa2e8f4e5c9252197fa26029</guid>
-      <pubDate>Wed, 04 Nov 2026 01:43:31 GMT</pubDate>
-      <description><![CDATA[In this newscast: Juneau scientists presented their latest data on this summer's glacial outburst flood, as well as ideas about how this climate change-driven threat could evolve; People all over Juneau turned out to vote on Election Day.]]></description>
-      <category>local</category>
+      <title>New Jersey pre-K aide faces 61 charges, accused of filming himself sexually assaulting students at school</title>
+      <link>https://www.foxnews.com/us/new-jersey-pre-k-aide-faces-61-charges-accused-filming-himself-sexually-assaulting-students-school</link>
+      <guid isPermaLink="false">0bedb2015eb45dacab10728a8b31746274ac65ec</guid>
+      <pubDate>Thu, 05 Nov 2026 00:39:33 GMT</pubDate>
+      <description><![CDATA[Shaun Stebbins, a former elementary school aide, faces dozens of charges after state prosecutors allege images and videos of students were found on his devices.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>US Department of Justice sends election monitors to urban and rural Alaska</title>
-      <link>https://alaskabeacon.com/2026/11/03/us-department-of-justice-sends-election-monitors-to-urban-and-rural-alaska/</link>
-      <guid isPermaLink="false">e094d6f7b31fed0a924c734b56ebf88ccf759fec</guid>
-      <pubDate>Wed, 04 Nov 2026 00:50:18 GMT</pubDate>
-      <description><![CDATA[The U.S. Department of Justice said federal election monitors will be deployed to Anchorage and the Dillingham and Kusilvak census areas on Election Day, according to an agency announcement on Tuesday morning. The DOJ monitoring initiative, announced last week, is larger this year than previous years, with approximately 1,000 monitors posted across all 50 states. […]]]></description>
-      <category>local</category>
+      <title>Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau</title>
+      <link>https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">803543351508da2424e8834051c8afaf80492fb7</guid>
+      <pubDate>Thu, 05 Nov 2026 00:30:37 GMT</pubDate>
+      <description><![CDATA[The trial was condemned as "unethical" and "neocolonial" because half of the babies would not be given the vaccine.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Voters sail through a mostly smooth Election Day, despite fears of federal interference</title>
-      <link>https://alaskabeacon.com/2026/11/03/repub/voters-sail-through-a-mostly-smooth-election-day-despite-fears-of-federal-interference/</link>
-      <guid isPermaLink="false">350af8eb3f88c3953b4cce5c25971f69eaaaaa15</guid>
-      <pubDate>Wed, 04 Nov 2026 00:21:08 GMT</pubDate>
-      <description><![CDATA[America voted. After the Trump administration pressured election officials, after concerns that armed federal agents would deploy to the polls, after fears U.S. Department of Justice election monitors would intimidate voters — ballots were cast by the millions Tuesday, mostly without incident. Across the United States, voters headed to their polling places. At churches, schools and […]]]></description>
-      <category>local</category>
+      <title>West Hollywood unanimously passes ordinance granting protections for polyamorous relationships</title>
+      <link>https://www.foxnews.com/media/west-hollywood-unanimously-passes-ordinance-granting-protections-polyamorous-relationships</link>
+      <guid isPermaLink="false">8bea4aa0a3fa970aa23fbb3ba0f225b831ba201d</guid>
+      <pubDate>Thu, 05 Nov 2026 00:23:14 GMT</pubDate>
+      <description><![CDATA[West Hollywood, California's unanimous 5-0 vote granted hospital and jail visitation rights to people in polyamorous relationships through a city ordinance.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Haven’t voted yet? Here’s the ultimate resource for conservative voters</title>
-      <link>https://mustreadalaska.com/havent-voted-yet-heres-the-ultimate-resource-for-conservative-voters/</link>
-      <guid isPermaLink="false">2f409ccb128c30bcbf0ed7f9fbfbc8273c6daad8</guid>
-      <pubDate>Tue, 03 Nov 2026 21:46:52 GMT</pubDate>
-      <description><![CDATA[Election Day is here! Haven’t voted yet? Here are all three parts of the Ultimate Conservative Voter Guide in one printable, shareable, searchable PDF! Part I: ballot measure 2, governor’s race, U.S. Senate, U.S. House Part II: state legislative races Part III: Alaska’s judiciary Go vote! God bless Alaska! The post Haven’t voted yet? Here’s the ultimate resource for conservative voters appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Top-ranked Miami faces nightmare injury concern as star receiver Malachi Toney set to undergo ankle surgery</title>
+      <link>https://www.foxnews.com/outkick-sports/top-ranked-miami-faces-nightmare-injury-concern-star-receiver-malachi-toney-undergo-ankle-surgery</link>
+      <guid isPermaLink="false">913702d9386d893b4c26b99d87e83424d92080c6</guid>
+      <pubDate>Thu, 05 Nov 2026 00:15:30 GMT</pubDate>
+      <description><![CDATA[Notre Dame needs a signature win to climb the CFP rankings, but the Malachi Toney ankle injury adds a new wrinkle to Saturday's Miami showdown.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>NASA's Swift telescope faces final countdown with fiery return to Earth imminent</title>
-      <link>https://www.foxweather.com/weather-news/nasa-swift-telescope-final-countdown-fiery-return-earth</link>
-      <guid isPermaLink="false">d62e41fb5b60fb936ed5284b17fc345432e1282f</guid>
-      <pubDate>Tue, 03 Nov 2026 21:17:14 GMT</pubDate>
-      <description><![CDATA[Astronomers have their eyes glued to the sky this week as NASA’s iconic Neil Gehrels Swift Telescope is expected to re-enter Earth’s atmosphere on Wednesday, nearly 22 years after launch.]]></description>
+      <title>Grocery store cyberattacks are ‘psychological warfare’ that could strike US, former FBI agent warns</title>
+      <link>https://www.foxnews.com/us/grocery-store-cyberattacks-psychological-warfare-could-strike-us-former-fbi-agent-warns</link>
+      <guid isPermaLink="false">21bdf6667560518d258d53d624c773ad8a0d2d79</guid>
+      <pubDate>Thu, 05 Nov 2026 00:05:50 GMT</pubDate>
+      <description><![CDATA[Former FBI agent Nicole Parker warns that hackers turning up supermarket freezer temperatures in Europe could target U.S. critical infrastructure next.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tony Butala, voice behind 'The Way You Look Tonight' and The Lettermen co-founder, dead at 87</title>
+      <link>https://www.foxnews.com/entertainment/tony-butala-voice-way-you-look-tonight-lettermen-co-founder-dead-87</link>
+      <guid isPermaLink="false">7d2f99c6fea5b7be81464aa280317e22f9ee750b</guid>
+      <pubDate>Thu, 05 Nov 2026 00:01:35 GMT</pubDate>
+      <description><![CDATA[Tony Butala co-founded The Lettermen in the late 1950s and performed for over 60 years, earning four Grammy nominations and a Hollywood Walk of Fame star.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Interest rates expected to rise for first time in over three years</title>
+      <link>https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">127db0d325a8b61e95eb4c0d59e8c45a938df826</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:09 GMT</pubDate>
+      <description><![CDATA[Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Four dead, including Washington deputy, following domestic call shooting; another deputy on life support</title>
+      <link>https://www.foxnews.com/us/four-dead-including-washington-deputy-following-domestic-call-shooting-another-deputy-life-support</link>
+      <guid isPermaLink="false">12090f8b5758001b7e46a0ca1e6c0fb6679f0a14</guid>
+      <pubDate>Wed, 04 Nov 2026 23:41:09 GMT</pubDate>
+      <description><![CDATA[A Spokane County sheriff's deputy died and another is on life support after a SWAT team was ambushed responding to a domestic violence call.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>DSA accused of ‘elevating’ antisemitic, pro-terror rhetoric after Hasan Piker hosts election stream</title>
+      <link>https://www.foxnews.com/media/dsa-accused-elevating-antisemitic-pro-terror-rhetoric-hasan-piker-hosts-election-stream</link>
+      <guid isPermaLink="false">7347f87631ef869b513b478ecb65dbd7b6e5bd17</guid>
+      <pubDate>Wed, 04 Nov 2026 23:40:17 GMT</pubDate>
+      <description><![CDATA[ADL CEO Jonathan Greenblatt accused the DSA of elevating antisemitism by choosing Hasan Piker to host its official election night livestream.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'</title>
+      <link>https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f22a5b47adbf10dbdfab5f5107a7c664a9844564</guid>
+      <pubDate>Wed, 04 Nov 2026 23:12:47 GMT</pubDate>
+      <description><![CDATA[Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>NASA's Swift telescope faces final countdown with fiery return to Earth possible Wednesday</title>
-      <link>https://www.foxweather.com/weather-news/nasa-swift-telescope-final-countdown-fiery-return-earth</link>
-      <guid isPermaLink="false">d62e41fb5b60fb936ed5284b17fc345432e1282f</guid>
-      <pubDate>Tue, 03 Nov 2026 21:17:14 GMT</pubDate>
-      <description><![CDATA[Astronomers have their eyes glued to the sky this week as NASA’s iconic Neil Gehrels Swift Telescope is expected to re-enter Earth’s atmosphere on Wednesday, nearly 22 years after launch.]]></description>
+      <title>Mother and daughter killed in terrifying grizzly bear attack in Canada</title>
+      <link>https://www.foxweather.com/weather-news/mother-daughter-killed-grizzly-bear-attack-canada</link>
+      <guid isPermaLink="false">128c129baa5fe2a0ff4915dbc7b696963040c4f8</guid>
+      <pubDate>Wed, 04 Nov 2026 23:08:41 GMT</pubDate>
+      <description><![CDATA[A mother and daughter were found dead in the Canadian wilderness this week following a suspected grizzly bear attack, prompting an investigation by wildlife officials.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Alaska elections officials say most rural early voting sites flagged by lawsuits opened Monday</title>
-      <link>https://alaskabeacon.com/2026/11/03/alaska-elections-officials-say-most-rural-early-voting-sites-flagged-by-lawsuits-opened-monday/</link>
-      <guid isPermaLink="false">01d682e56961b02dbf081197ac4753c437980be6</guid>
-      <pubDate>Tue, 03 Nov 2026 20:00:36 GMT</pubDate>
-      <description><![CDATA[Alaska elections officials told a state Superior court judge on Sunday that 13 of the 18 rural early and absentee-in-person voting locations that were flagged in lawsuits filed late last week for failing to open as scheduled would be open on Monday — one day before Election Day. The remaining five communities were not able […]]]></description>
-      <category>local</category>
+      <title>Lions star Amon-Ra St Brown says Jack Campbell's harrowing neck injury puts things into perspective</title>
+      <link>https://www.foxnews.com/outkick-sports/lions-amon-ra-st-brown-jack-campbell-neck-injury-perspective</link>
+      <guid isPermaLink="false">00cdce171c0a6bb62532cc990016e9905ecaa988</guid>
+      <pubDate>Wed, 04 Nov 2026 23:01:40 GMT</pubDate>
+      <description><![CDATA[Amon-Ra St. Brown revealed on his podcast how Jack Campbell's neck injury forced the Detroit Lions locker room to confront life beyond football.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Alaska’s U.S. Senate race draws significant donations from AI company employees</title>
-      <link>https://alaskabeacon.com/2026/11/03/alaskas-u-s-senate-race-draws-significant-donations-from-ai-company-employees/</link>
-      <guid isPermaLink="false">9b7b59e93ef5f5b150d739e251cf5065c5b455a7</guid>
-      <pubDate>Tue, 03 Nov 2026 20:00:30 GMT</pubDate>
-      <description><![CDATA[Alaska’s U.S. Senate race has drawn more money to campaigns from employees of AI companies than any other 2026 Senate race, an analysis of Federal Election Commission records shows. The actual numbers of donors are small, but at least 19 employees contributed approximately $119,000 to the campaigns of Republican Sen. Dan Sullivan and his Democratic […]]]></description>
-      <category>local</category>
+      <title>Erika Kirk channels Charlie with blunt message to conservatives after GOP midterm losses</title>
+      <link>https://www.foxnews.com/politics/erika-kirk-channels-charlie-blunt-message-conservatives-after-gop-midterm-losses</link>
+      <guid isPermaLink="false">47df9993a2e4ce5a0c7144493da148a8341514f2</guid>
+      <pubDate>Wed, 04 Nov 2026 23:00:14 GMT</pubDate>
+      <description><![CDATA[Erika Kirk invoked her late husband Charlie Kirk's words, urging conservatives to stay positive and avoid infighting after election setbacks.]]></description>
+      <category>politics</category>
     </item>
     <item>
-      <title>Analysis: Observations about Alaska’s voter composition</title>
-      <link>https://mustreadalaska.com/analysis-observations-about-alaskas-voter-composition/</link>
-      <guid isPermaLink="false">e23347c6f9806cee7fedb5559f227b0323f03e71</guid>
-      <pubDate>Tue, 03 Nov 2026 19:12:14 GMT</pubDate>
-      <description><![CDATA[While political strategists worry about ballot composition, voter composition and how it has changed in the last four years gives us a better picture of what Alaskans value. Overall, the total number of registered Alaskan voters has increased by 2.9% from 2022 to 2026. The percentage of voters registered Republican has stayed approximately even in […] The post Analysis: Observations about Alaska’s voter composition appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska election shenanigans date back to territorial days</title>
-      <link>https://alaskabeacon.com/2026/11/03/alaska-election-shenanigans-date-back-to-territorial-days/</link>
-      <guid isPermaLink="false">70df10928f2559704df19e5cb2da9151bc2dbf57</guid>
-      <pubDate>Tue, 03 Nov 2026 19:00:49 GMT</pubDate>
-      <description><![CDATA[The 1910s were a momentous period in Alaska history, marked by major expansions in education, self-governance, and infrastructure development, including the creation of what is now the University of Alaska system, the Alaska Legislature and the Alaska Railroad. They also show that tumultuous elections are nothing new in Alaska.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>As Election Day arrives, Democrats poised to see gains and pump brakes on Trump agenda</title>
-      <link>https://alaskabeacon.com/2026/11/03/repub/as-election-day-arrives-democrats-poised-to-see-gains-and-pump-brakes-on-trump-agenda/</link>
-      <guid isPermaLink="false">617a70c91379cdfed1ad37ec081d550899e6f25e</guid>
-      <pubDate>Tue, 03 Nov 2026 18:30:20 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — Tens of millions of Americans have already cast a ballot in the 2026 midterm elections that will determine control of Congress and shape President Donald Trump’s remaining policy agenda.  As of Monday, more than 57 million Americans had cast a vote, according to the University of Florida’s Election Lab, which tracks early voting. This year’s elections […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>First Alaska election results to come Tuesday evening, final unofficial results in 2 weeks</title>
-      <link>https://alaskabeacon.com/2026/11/03/first-alaska-election-results-to-come-tuesday-evening-final-unofficial-results-in-2-weeks/</link>
-      <guid isPermaLink="false">d1c224bf12fe876755f13bc2c41dedf8c9db24b7</guid>
-      <pubDate>Tue, 03 Nov 2026 14:40:31 GMT</pubDate>
-      <description><![CDATA[The Alaska Division of Elections expects to report the first results from the state’s general election between 8:45 p.m. and 9 p.m. Tuesday night, with updates through the early morning hours Wednesday. The state’s closest races may not have an unofficial winner for more than two weeks. Historically, between 75-90% of Election Day results are […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Polls open at 7 a.m. Tuesday in Alaska — and plenty is at stake on Election Day</title>
-      <link>https://alaskabeacon.com/2026/11/03/polls-open-at-7-a-m-tuesday-in-alaska-and-plenty-is-at-stake-on-election-day/</link>
-      <guid isPermaLink="false">dc72834ebad47347b91bad17debfcd38a550ab77</guid>
-      <pubDate>Tue, 03 Nov 2026 14:30:06 GMT</pubDate>
-      <description><![CDATA[On Tuesday, Alaska could elect its first Democratic governor since 2002, roll back the clock on the way it conducts elections, help decide control of the U.S. House and Senate for the final two years of President Donald Trump’s second term and possibly elect the first Indigenous woman to the Senate. Here’s what to consider […]]]></description>
-      <category>local</category>
+      <title>Police in Scotland to escort fire crews in latest crackdown on Bonfire Night disorder</title>
+      <link>https://www.bbc.co.uk/news/articles/cj93zv4dv9rro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">be4de9b1802b7003f40a9eda3a52dfecd7dc82b0</guid>
+      <pubDate>Wed, 04 Nov 2026 22:53:26 GMT</pubDate>
+      <description><![CDATA[As many as 1,700 officers could be deployed in the biggest Police Scotland operation since last year's visit by President Trump.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns</title>
@@ -295,43 +455,19 @@
       <category>world</category>
     </item>
     <item>
+      <title>Two disturbances form in the Pacific as El Niño conditions continue to fuel tropical activity</title>
+      <link>https://www.foxweather.com/weather-news/two-disturbances-pacific-el-nino-fuel-tropical-activity</link>
+      <guid isPermaLink="false">50169794bc2541cdc4c2006b6738c6c8348a57e4</guid>
+      <pubDate>Wed, 04 Nov 2026 21:26:01 GMT</pubDate>
+      <description><![CDATA[After an extremely active Pacific hurricane season, the National Hurricane Center designated Invest 95C as the tropical disturbance begins to form in the far eastern Pacific, southeast of Hawaii. Meanwhile, closer to Mexico, Invest 95E has been designated with a medium chance of development.]]></description>
+      <category>southeast</category>
+    </item>
+    <item>
       <title>Canadian mother and daughter dead after suspected grizzly bear attack on hiking trail</title>
       <link>https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail</link>
       <guid isPermaLink="false">6131d7ead97cf74c13435f155e4322a6d025c145</guid>
       <pubDate>Wed, 04 Nov 2026 21:14:59 GMT</pubDate>
       <description><![CDATA[Jennifer Balcarras and Selah Reed went missing on a hiking trail minutes from their Bella Coola home before a suspected grizzly bear attack.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Elon Musk will face scrutiny from Democrats after midterms</title>
-      <link>https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress</link>
-      <guid isPermaLink="false">b0c5a0a5fa6f7871b8e3bb8effeb080c51b6776a</guid>
-      <pubDate>Wed, 04 Nov 2026 21:11:23 GMT</pubDate>
-      <description><![CDATA[Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Florida congressman diagnoses GOP's blue tsunami losses: 'We failed to make them think we cared about them'</title>
-      <link>https://www.foxnews.com/politics/florida-congressman-diagnoses-gops-blue-tsunami-losses-we-failed-make-them-think-we-cared-about-them</link>
-      <guid isPermaLink="false">6599f381ebfbb7b7158f3d5bf8c2e237714f7ade</guid>
-      <pubDate>Wed, 04 Nov 2026 21:06:57 GMT</pubDate>
-      <description><![CDATA[Firebrand GOP Florida rep says party must prepare for difficult two years, says Republicans bear responsibility for loss as a team]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>MICHAEL RUIZ: Video shows polling place attack on Turning Point member, poet arrested</title>
-      <link>https://www.foxnews.com/us/michael-ruiz-video-shows-polling-place-attack-turning-point-member-poet-arrested</link>
-      <guid isPermaLink="false">b7d4fcd68064a3a0a3c142da0434b724b32253e4</guid>
-      <pubDate>Wed, 04 Nov 2026 21:05:00 GMT</pubDate>
-      <description><![CDATA[Viral video captures a 70-year-old poet slapping a Turning Point member outside a Laconia, New Hampshire, elementary school polling site.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Craig Carton says Alabama is 'screwing everybody else' after Crimson Tide land at No. 5 in rankings</title>
-      <link>https://www.foxnews.com/outkick-sports/craig-carton-says-alabama-screwing-everybody-else-crimson-tide-lands-no-5-rankings</link>
-      <guid isPermaLink="false">6424a8c9432c948811a0f247893cffcece1dbe46</guid>
-      <pubDate>Wed, 04 Nov 2026 21:04:55 GMT</pubDate>
-      <description><![CDATA[Craig Carton blasts the college football playoff rankings for placing Alabama at No. 5 while Tennessee sits at No. 13 despite a head-to-head win.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -341,110 +477,6 @@
       <pubDate>Wed, 04 Nov 2026 21:03:27 GMT</pubDate>
       <description><![CDATA[Super El Niño is influencing weather patterns around the globe, helping shape a quiet Atlantic hurricane season, an active Pacific and a winter forecast marked by sharp temperature and precipitation contrasts.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Chris Mason: The US elections will change Trump – how will Burnham react?</title>
-      <link>https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4507373f08079fb36ce985f043fcbe504c24b826</guid>
-      <pubDate>Wed, 04 Nov 2026 21:02:58 GMT</pubDate>
-      <description><![CDATA[The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Man allegedly held teen captive in basement, forced her to remove braces with pliers after Snapchat meeting</title>
-      <link>https://www.foxnews.com/us/man-allegedly-held-teen-captive-basement-forced-her-remove-braces-pliers-after-snapchat-meeting</link>
-      <guid isPermaLink="false">e4eb0db3cbbdb9aa8b05920934b52735445668ed</guid>
-      <pubDate>Wed, 04 Nov 2026 20:58:52 GMT</pubDate>
-      <description><![CDATA[Kylie Arellano was allegedly forced to remove her braces with pliers and confined to a basement for over 500 days before her rescue in Oregon.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Democratic leaders reflect on midterm results and what's next for the party</title>
-      <link>https://www.npr.org/2026/11/04/g-s1-151868/democratic-leaders-election-results-reactions-takeaways</link>
-      <guid isPermaLink="false">e3852ede82217e2dae6757c6bf60393795716aa5</guid>
-      <pubDate>Wed, 04 Nov 2026 20:49:59 GMT</pubDate>
-      <description><![CDATA[Democratic party leaders and political analysts spoke with Morning Edition about the results of the midterm elections, the effects of mid-decade redistricting efforts, and the next steps for the party.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Vance courting disgruntled Trump voters to form ‘new right’ alliance after Republican bloodbath, sources say</title>
-      <link>https://www.foxnews.com/politics/vance-courting-disgruntled-trump-voters-form-new-right-alliance-republican-bloodbath</link>
-      <guid isPermaLink="false">f9b0c411f14da6060a9714a730db2aff1a43656c</guid>
-      <pubDate>Wed, 04 Nov 2026 20:48:50 GMT</pubDate>
-      <description><![CDATA[JD Vance blamed the Iran war for the GOP's midterm losses and laid out four tasks he says will bring disaffected Republican voters back to the party.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>It was a big night for doctors to win seats in Congress, riding the blue wave</title>
-      <link>https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave</link>
-      <guid isPermaLink="false">1bb2bef661f2f866f93f73896f883d4472c80d28</guid>
-      <pubDate>Wed, 04 Nov 2026 20:46:26 GMT</pubDate>
-      <description><![CDATA[Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Ravens acquire Jacoby Brissett from Cardinals after injuries to both Lamar Jackson, Tyler Huntley: report</title>
-      <link>https://www.foxnews.com/outkick-sports/ravens-acquire-jacoby-brissett-cardinals-injuries-lamar-jackson-tyler-huntley-report</link>
-      <guid isPermaLink="false">00e92ed869aef988bc8ce011c037fdb8730a09c0</guid>
-      <pubDate>Wed, 04 Nov 2026 20:38:34 GMT</pubDate>
-      <description><![CDATA[The Baltimore Ravens are reportedly acquiring Jacoby Brissett from the Arizona Cardinals, but undrafted rookie Joe Fagnano will start Thursday against the Jacksonville Jaguars]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fox News/NORC Study: Voters look to 2028 focused on the economy</title>
-      <link>https://www.foxnews.com/politics/fox-news-norc-study-voters-look-2028-focused-economy</link>
-      <guid isPermaLink="false">32458ab482b11fe928b8ad3d20131fc81657a41d</guid>
-      <pubDate>Wed, 04 Nov 2026 20:31:42 GMT</pubDate>
-      <description><![CDATA[As the 2028 race for the White House looms, grocery prices, gas costs and healthcare top what voters want newly elected officials to tackle first.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Whoopi Goldberg warns Democrats to 'take care of business' after midterm wins</title>
-      <link>https://www.foxnews.com/media/whoopi-goldberg-warns-democrats-take-care-business-after-midterm-wins</link>
-      <guid isPermaLink="false">7a5aba5356b8db0fd69a1fa1e31c1fa9bc4ea21e</guid>
-      <pubDate>Wed, 04 Nov 2026 20:30:36 GMT</pubDate>
-      <description><![CDATA[Whoopi Goldberg delivered a blunt warning to Democrats on "The View" after their midterm sweep, demanding they focus on taking care of business and avoid infighting.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Navajo voters hop tractors, make extraordinary efforts to vote after widespread flooding</title>
-      <link>https://www.npr.org/2026/11/04/nx-s1-6023272/navajo-voters-hop-tractors-make-extraordinary-efforts-to-vote-after-widespread-flooding</link>
-      <guid isPermaLink="false">bd01958a4a8df7fdde8d3427a9b0ce981dab4b01</guid>
-      <pubDate>Wed, 04 Nov 2026 20:24:30 GMT</pubDate>
-      <description><![CDATA[Four weeks of flooding washed out roads and sent thousands fleeing their homes on the Navajo Reservation. But many worked hard to get to polling places and voting day became part of the recovery process.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Eagles bench Tanner McKee for Joe Milton two days after giving him vote of confidence: report</title>
-      <link>https://www.foxnews.com/outkick-sports/eagles-bench-tanner-mckee-joe-milton-two-days-after-giving-him-vote-confidence-report</link>
-      <guid isPermaLink="false">b8b401d1c527dae3f039046c717821415f9b77bf</guid>
-      <pubDate>Wed, 04 Nov 2026 20:23:45 GMT</pubDate>
-      <description><![CDATA[The Philadelphia Eagles reportedly benched Tanner McKee for Joe Milton despite coach Nick Sirianni giving McKee a vote of confidence on Monday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ukraine says bodycam video shows deadly Russian double-tap bombing</title>
-      <link>https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7bb8998eca3623761caa0bd9d70a1d6e171d31c3</guid>
-      <pubDate>Wed, 04 Nov 2026 20:22:40 GMT</pubDate>
-      <description><![CDATA[At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>How voter shifts in Texas helped elect a Democratic senator and governor</title>
-      <link>https://www.bbc.co.uk/news/videos/cmy4xz081kxyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2f6304362fffc0ee9d67de5b57762ce598bc8ed3</guid>
-      <pubDate>Wed, 04 Nov 2026 20:21:14 GMT</pubDate>
-      <description><![CDATA[The BBC's Ros Atkins looks at the state's long track record of voting Republican and what was different in this year's election.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Herbert Blomstedt, conductor of great orchestras for seven decades, dies at 99</title>
-      <link>https://www.npr.org/2026/11/04/nx-s1-5740271/herbert-blomstedt-conductor-dead</link>
-      <guid isPermaLink="false">18424a607dd141e1090035bfc46885753fb00bd0</guid>
-      <pubDate>Wed, 04 Nov 2026 20:11:14 GMT</pubDate>
-      <description><![CDATA[Modest in his demeanor but remarkably enduring, the American-born, Swedish conductor continually fell in love with music, leading orchestras with no-nonsense insight and integrity well into his 90s.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Northwest braces for stormy stretch as heavy rain, strong winds and mountain snow loom</title>
@@ -492,38 +524,6 @@
       <guid isPermaLink="false">20620f59c53abb511f46a3c58e119257a25d3101</guid>
       <pubDate>Wed, 04 Nov 2026 11:13:43 GMT</pubDate>
       <description><![CDATA[A powerful cross-country storm is charging eastward, threatening parts of the Tennessee Valley, the Southern Appalachians and Georgia with heavy rain and severe weather before slamming millions of people across the East Coast with downpours beginning Thursday.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Polar vortex disruption could be earliest on record, but El Niño impact may keep US warm</title>
-      <link>https://www.foxweather.com/weather-news/polar-vortex-disruption-earliest-record-us-el-nino-impact</link>
-      <guid isPermaLink="false">f4e8f6162d2942c38c2ce774fb92dbe487256cac</guid>
-      <pubDate>Wed, 04 Nov 2026 01:40:38 GMT</pubDate>
-      <description><![CDATA[A polar vortex disruption could develop over the Arctic Sunday, but immediate U.S. cold is unlikely as El Niño favors warmer weather through November.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Florida starts November with a soaking as heavy rain brings historic flooding</title>
-      <link>https://www.foxweather.com/weather-news/florida-november-soaking-historic-flooding-kalshi</link>
-      <guid isPermaLink="false">fc9cf310cbb65b573d011e22377e972cfebeaa38</guid>
-      <pubDate>Tue, 03 Nov 2026 22:19:55 GMT</pubDate>
-      <description><![CDATA[The East Coast of Florida has endured severe storm conditions over the last few days, with persistent rainfall expected to wrap up Tuesday. The area has experienced an historic rain event that has triggered widespread flash flooding, leaving two people dead.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>The ripple effect of El Niño: What does it mean and how does it impact the world's economy?</title>
-      <link>https://www.foxweather.com/weather-news/ripple-effect-el-nino-what-mean-how-impact-world-economy</link>
-      <guid isPermaLink="false">6740c959a712b849cedd6a914a541404326cdc51</guid>
-      <pubDate>Tue, 03 Nov 2026 18:46:27 GMT</pubDate>
-      <description><![CDATA[El Niño is in full swing, and while we've seen its impacts on hurricanes, both with an overactive season in the Pacific and an underactive season in the Atlantic, its impacts are far wider than just the weather.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Video: Intense storms transform Florida communities into canals due to dangerous flooding</title>
-      <link>https://www.foxweather.com/weather-news/watch-intense-storms-florida-communities-dangerous-flooding</link>
-      <guid isPermaLink="false">9bc320b4300370f074cc0295aa84439b8aa41a42</guid>
-      <pubDate>Tue, 03 Nov 2026 17:26:20 GMT</pubDate>
-      <description><![CDATA[Storms continue across the U.S., while heavy rain and dangerous flooding impact parts of Florida. The Sunshine State remains a concern as record downpours transforms communities.]]></description>
       <category>weather</category>
     </item>
   </channel>
