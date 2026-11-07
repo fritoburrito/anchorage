@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 08:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:22:26 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
+      <title>Anchorage Weather: Overnight - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 07 Nov 2026 08:12:52 GMT</pubDate>
-      <description><![CDATA[24°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 24. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Sat, 07 Nov 2026 15:22:26 GMT</pubDate>
+      <description><![CDATA[22°F. Wind NE 5 mph. Mostly cloudy, with a low around 22. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday - Mostly Cloudy then Chance Light Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 07 Nov 2026 08:12:52 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:22:26 GMT</pubDate>
       <description><![CDATA[32°F. Wind N 5 mph. A chance of snow after noon. Mostly cloudy, with a high near 32. North wind around 5 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
@@ -26,25 +26,41 @@
       <title>Anchorage Weather: Saturday Night - Slight Chance Light Snow then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 07 Nov 2026 08:12:52 GMT</pubDate>
-      <description><![CDATA[21°F. Wind N 5 mph. A slight chance of snow before 9pm. Mostly cloudy, with a low around 21. North wind around 5 mph. Chance of precipitation is 20%.]]></description>
+      <pubDate>Sat, 07 Nov 2026 15:22:26 GMT</pubDate>
+      <description><![CDATA[22°F. Wind N 5 mph. A slight chance of snow before 9pm. Mostly cloudy, with a low around 22. North wind around 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Sunday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 07 Nov 2026 08:12:52 GMT</pubDate>
-      <description><![CDATA[30°F. Wind  0 mph. Partly sunny, with a high near 30. North wind around 0 mph.]]></description>
+      <pubDate>Sat, 07 Nov 2026 15:22:26 GMT</pubDate>
+      <description><![CDATA[31°F. Wind  0 mph. Partly sunny, with a high near 31. North wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Sunday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 07 Nov 2026 08:12:52 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 15:22:26 GMT</pubDate>
       <description><![CDATA[23°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 23. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Alaska ranks 3rd lowest in nation for federal tax debt burden</title>
+      <link>https://www.homernews.com/2026/11/07/alaska-ranks-3rd-lowest-in-nation-for-federal-tax-debt-burden/</link>
+      <guid isPermaLink="false">62cd3c0853cb785113e1f646f378ddbd53b06410</guid>
+      <pubDate>Sat, 07 Nov 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Filers owed an average of $5,236.47 in tax due at filing for tax year 2023]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Veterans Day: remembering service, renewing responsibility</title>
+      <link>https://www.juneauempire.com/2026/11/07/veterans-day-remembering-service-renewing-responsibility/</link>
+      <guid isPermaLink="false">4eecd0b66154faad8d9e86e47976d8033358d6eb</guid>
+      <pubDate>Sat, 07 Nov 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[Like many in my generation, I grew up believing that military service was both an honor and a privilege. Military service was a family tradition. My great-grandfather was a Union soldier in the Civil War, my grandfather an artillery officer in World War I, and my father a B-24 Liberator pilot in World War II. My twin brother and I both served during the Vietnam War — he as a combat paratrooper, I as a C-141 cargo transport pilot.]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Peltola campaign sues Alaska, seeking to reveal the names of rejected absentee voters</title>
@@ -68,14 +84,6 @@
       <guid isPermaLink="false">dcc37bd07424ffd348d2bac5dfa91eaea2b4682c</guid>
       <pubDate>Sat, 07 Nov 2026 01:30:00 GMT</pubDate>
       <description><![CDATA[District leaders plan a broader look at cellphone rules and cyberbullying]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>This man refused life-saving treatment because of his religion - days later the rules changed</title>
-      <link>https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">444a51598711f047c9a934ab961949e496a2a505</guid>
-      <pubDate>Sat, 07 Nov 2026 01:27:47 GMT</pubDate>
-      <description><![CDATA[Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.]]></description>
       <category>local</category>
     </item>
     <item>
@@ -263,187 +271,179 @@
       <category>local</category>
     </item>
     <item>
-      <title>‘I have seen the enemy, and it is us’: Inside Team Trump’s historic collapse</title>
-      <link>https://www.juneauempire.com/2026/11/05/i-have-seen-the-enemy-and-it-is-us-inside-team-trumps-historic-collapse/</link>
-      <guid isPermaLink="false">5f21c65f8762579d2fe1db0ceef81a2ec7898019</guid>
-      <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
-      <description><![CDATA[How an unpopular president and an unpopular war provided an opening for Democrats to make sweeping gains in the midterms]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Incoming bipartisan coalition of the Alaska Senate announces key leadership</title>
-      <link>https://alaskabeacon.com/2026/11/05/incoming-bipartisan-coalition-of-the-alaska-senate-announces-key-leadership/</link>
-      <guid isPermaLink="false">6437eeea4df6ef5fc6250edc37fcad877211d934</guid>
-      <pubDate>Thu, 05 Nov 2026 14:55:52 GMT</pubDate>
-      <description><![CDATA[Anchorage Republican Cathy Giessel will be the next Alaska Senate President for the upcoming 35th Alaska State Legislature, according to an announcement from a bipartisan coalition of senators on Wednesday. Giessel showed a comfortable lead with 61% of the vote in her bid for re-election, as of Wednesday afternoon results, and has served in the […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Southeast Alaska port development named for Frank Murkowski</title>
-      <link>https://alaskabeacon.com/2026/11/05/southeast-alaska-port-development-named-for-frank-murkowski/</link>
-      <guid isPermaLink="false">ce941df54189396936b94bb10521efaeed418a02</guid>
-      <pubDate>Thu, 05 Nov 2026 14:45:35 GMT</pubDate>
-      <description><![CDATA[The Republican trio served together in Congress for more than two decades, and while the Anchorage port is named for the late Rep. Don Young and the Anchorage airport is named for the late Sen. Ted Stevens, their congressional colleague, Sen. Frank Murkowski, is more at home in Southeast. The Wrangell borough assembly on Oct. […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Letters to the editor</title>
-      <link>https://www.homernews.com/2026/11/05/letters-to-the-editor-438/</link>
-      <guid isPermaLink="false">ec32e20a2beb6d423edc6347ab6a856961745239</guid>
-      <pubDate>Thu, 05 Nov 2026 14:30:00 GMT</pubDate>
-      <description><![CDATA[A salute to veterans]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Meghan's father Thomas Markle under house arrest after child sex abuse material charge</title>
-      <link>https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2227d0d9b696a4696059ecf83f592c01598f5186</guid>
-      <pubDate>Sat, 07 Nov 2026 07:27:44 GMT</pubDate>
-      <description><![CDATA[The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.]]></description>
+      <title>UK cannot 'cherry pick' EU single market deal, Barnier tells BBC</title>
+      <link>https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">154908852b78bf4daa158b60c6f4c21f206960cf</guid>
+      <pubDate>Sat, 07 Nov 2026 15:19:35 GMT</pubDate>
+      <description><![CDATA[The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules "a la carte".]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Paraguay's president impeached and under house arrest after bank collapse</title>
-      <link>https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a41907c82a620190b46db6831189a7c6770b65e9</guid>
-      <pubDate>Sat, 07 Nov 2026 07:20:00 GMT</pubDate>
-      <description><![CDATA[Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.]]></description>
+      <title>Two men arrested after boy injured in sword attack</title>
+      <link>https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">12603b1beb23af789e08515b0ad891f2eafcc720</guid>
+      <pubDate>Sat, 07 Nov 2026 15:10:54 GMT</pubDate>
+      <description><![CDATA[A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Paraguay's president impeached after collapse of bank</title>
-      <link>https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a41907c82a620190b46db6831189a7c6770b65e9</guid>
-      <pubDate>Sat, 07 Nov 2026 07:20:00 GMT</pubDate>
-      <description><![CDATA[Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.]]></description>
+      <title>DEPROGRAMMED: She entered Columbia a liberal. A fight over English lit turned her conservative</title>
+      <link>https://www.foxnews.com/media/deprogrammed-she-entered-columbia-liberal-fight-english-lit-turned-her-conservative</link>
+      <guid isPermaLink="false">c96dbc54c5264434857996273c6e8555c77e93ca</guid>
+      <pubDate>Sat, 07 Nov 2026 15:00:24 GMT</pubDate>
+      <description><![CDATA[A Columbia University graduate says speech suppression and grading bias in English classes pushed her from liberalism to the conservative movement.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Pope in 'pretty good health' as he starts Latin America tour</title>
-      <link>https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d022c40745fe0e00ecb8c712db8293582a60eb42</guid>
-      <pubDate>Sat, 07 Nov 2026 06:59:48 GMT</pubDate>
-      <description><![CDATA[Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Relief, tears and sadness: Married at First Sight UK cast react to show being axed</title>
-      <link>https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1897c43efc97bab71c6776b4835b79619f3a2122</guid>
-      <pubDate>Sat, 07 Nov 2026 05:12:52 GMT</pubDate>
-      <description><![CDATA[It was cancelled after a BBC Panorama investigation heard allegations from three former cast members.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>DeSantis blasts Washington Post over report he's preparing 2028 presidential bid</title>
-      <link>https://www.foxnews.com/politics/desantis-blasts-washington-post-report-preparing-2028-presidential-bid</link>
-      <guid isPermaLink="false">f4d5f11f5886c61c954d3cffeff3a52b4068cd5f</guid>
-      <pubDate>Sat, 07 Nov 2026 05:09:45 GMT</pubDate>
-      <description><![CDATA[Florida Gov. Ron DeSantis accused The Washington Post of fabricating claims he reached out to political consultants about a potential 2028 presidential bid.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Rams safety Quentin Lake apologizes to Justin Herbert for 'deli meat' comment, even though he has a point</title>
-      <link>https://www.foxnews.com/outkick-sports/rams-safety-quentin-lake-apologized-justin-herbert-deli-meat-comment-even-though-he-has-point</link>
-      <guid isPermaLink="false">0fa6b202c81c6017c41072f0ff01546788154b51</guid>
-      <pubDate>Sat, 07 Nov 2026 03:15:45 GMT</pubDate>
-      <description><![CDATA[Quentin Lake said Justin Herbert was "throwing deli meat" and "seeing ghosts" on the "St. Brown Podcast" after his interception against the Chargers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tiger Woods and ex-wife Elin Nordegren reunite to celebrate son Charlie's college golf commitment</title>
-      <link>https://www.foxnews.com/outkick-sports/tiger-woods-ex-wife-elin-nordegren-reunite-celebrate-son-charlie-college-golf-commitment</link>
-      <guid isPermaLink="false">a8593d14bc62857b009bd7a8b81f9c3dfefd1313</guid>
-      <pubDate>Sat, 07 Nov 2026 02:50:40 GMT</pubDate>
-      <description><![CDATA[Tiger Woods and ex-wife Elin Nordegren reunited at their son Charlie Woods' high school to celebrate his Florida State University golf commitment.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Denver man found dead at bottom of national park canyon beneath steep drop-offs</title>
-      <link>https://www.foxnews.com/us/denver-man-found-dead-bottom-national-park-canyon-beneath-steep-drop-offs</link>
-      <guid isPermaLink="false">f401a4dc882f8775d9c8544c574f502be2968821</guid>
-      <pubDate>Sat, 07 Nov 2026 02:34:59 GMT</pubDate>
-      <description><![CDATA[A drone team located human remains on the floor of Gunnison National Park's Black Canyon after deputies found an abandoned vehicle on the South Rim.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US offers $20 million reward for information on Iran's nuclear program</title>
-      <link>https://www.foxnews.com/politics/us-offers-20-million-reward-information-irans-nuclear-program</link>
-      <guid isPermaLink="false">156e9114755e533538234727208e76337e3f1ad0</guid>
-      <pubDate>Sat, 07 Nov 2026 02:03:34 GMT</pubDate>
-      <description><![CDATA[The State Department's Rewards for Justice program is offering up to $20 million for tips on Iran's nuclear program via Signal or Tor tip lines.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Skepta: 'I'm what it looks like if you give an immigrant child a chance'</title>
-      <link>https://www.bbc.co.uk/news/articles/c6n499d3ykgwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3945160d17658954aaceec2d6800695cd96695fb</guid>
-      <pubDate>Sat, 07 Nov 2026 01:58:00 GMT</pubDate>
-      <description><![CDATA[The grime artist, widely considered to be one of the UK's best, returns with his first album in seven years.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028</title>
-      <link>https://www.foxnews.com/politics/trump-highlights-nasa-nuclear-powered-mars-spacecraft-mission-planned-2028</link>
-      <guid isPermaLink="false">2305695cc51d7d4f68d7a08fb37f30c8a044566c</guid>
-      <pubDate>Sat, 07 Nov 2026 01:54:19 GMT</pubDate>
-      <description><![CDATA[President Donald Trump announced NASA will launch its first nuclear-powered spacecraft to Mars within two years, aiming to send astronauts to the red planet.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'My mortgage is going up £200': How rising interest rates are hitting people's pockets</title>
-      <link>https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2e6c6a8a31bbf76f811edf375b83f5f6bde99196</guid>
-      <pubDate>Sat, 07 Nov 2026 01:41:36 GMT</pubDate>
-      <description><![CDATA[With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>49ers coach gives blunt reaction to disgruntled Brandon Aiyuk's return to team: 'I could care less'</title>
-      <link>https://www.foxnews.com/outkick-sports/49ers-coach-blunt-reaction-disgruntled-brandon-aiyuk-return-team-could-care-less</link>
-      <guid isPermaLink="false">6c0995a236e6d6bb423105e4abc9b3bf89707e40</guid>
-      <pubDate>Sat, 07 Nov 2026 01:38:06 GMT</pubDate>
-      <description><![CDATA[Brandon Aiyuk says he's "back to 100 percent" and seeking NFL reinstatement, but Kyle Shanahan's blunt response signals a deep rift with the 49ers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Bernie Sanders thinks Medicare-for-all bill could pass, 'not absolutely certain' Trump would veto</title>
-      <link>https://www.foxnews.com/media/bernie-sanders-thinks-medicare-all-bill-could-pass-not-absolutely-certain-trump-would-veto</link>
-      <guid isPermaLink="false">bb21757284cbcbdecab5d849e0dc7166d0950833</guid>
-      <pubDate>Sat, 07 Nov 2026 01:00:48 GMT</pubDate>
-      <description><![CDATA[Sen. Bernie Sanders, I-Vt., said he's not certain President Donald Trump would veto Medicare-for-all legislation, arguing the president is "a good politician."]]></description>
+      <title>No clear winner after tight New Zealand general election</title>
+      <link>https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6627ae0c02183fa742f1a12f7d6592a19b5322af</guid>
+      <pubDate>Sat, 07 Nov 2026 15:00:10 GMT</pubDate>
+      <description><![CDATA[Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>MLB catcher who was behind plate for alleged rigged pitches testifies in Guardians pitchers' gambling case</title>
-      <link>https://www.foxnews.com/outkick-sports/mlb-catcher-behind-plate-alleged-rigged-pitches-testifies-guardians-pitchers-gambling-case</link>
-      <guid isPermaLink="false">45f79fbe055a767434170632cc0f595d83a7c092</guid>
-      <pubDate>Sat, 07 Nov 2026 00:50:11 GMT</pubDate>
-      <description><![CDATA[Bo Naylor testified he was unaware bettors could wager on specific pitches as he faced questions about allegedly rigged throws by Clase and Ortiz.]]></description>
+      <title>Live WWII-era grenades turn up in unlikely place as bomb squad warns of danger</title>
+      <link>https://www.foxnews.com/travel/live-wwii-era-grenades-turn-up-unlikely-place-bomb-squad-warns-danger</link>
+      <guid isPermaLink="false">cf2daecfab752b436d8bc53f613db068198404d1</guid>
+      <pubDate>Sat, 07 Nov 2026 15:00:08 GMT</pubDate>
+      <description><![CDATA[Five live World War II grenades were confirmed to be still active by the Austin, Texas, bomb squad after a former FBI buyer found them in estate sale boxes.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>NYU professor and podcaster calls Elon Musk a 'traitor,' compares him to Soviet spies excuted during Cold War</title>
-      <link>https://www.foxnews.com/media/nyu-professor-podcaster-calls-elon-musk-traitor-compares-him-soviet-spies-excuted-during-cold-war</link>
-      <guid isPermaLink="false">86086ebf43c8b90229d93d530316a11af4f2a548</guid>
-      <pubDate>Sat, 07 Nov 2026 00:41:23 GMT</pubDate>
-      <description><![CDATA[Scott Galloway compared Elon Musk to Soviet spies who gave away U.S. nuclear secrets on his podcast, calling him a "traitor to the West" over throttling Starlink access in Ukraine.]]></description>
+      <title>MARK PENN: The midterms revealed a nation of unhappy capitalists. Here's the cure</title>
+      <link>https://www.foxnews.com/opinion/mark-penn-midterms-revealed-nation-unhappy-capitalists-cure</link>
+      <guid isPermaLink="false">3f5fe8ca091351ca0a60f95fb40462d3a487be48</guid>
+      <pubDate>Sat, 07 Nov 2026 14:50:00 GMT</pubDate>
+      <description><![CDATA[A Fox News poll shows capitalism holds a 23-point favorability edge over socialism, yet 75% of voters say the economy is not so good or poor.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>What happens if all the lights go out? This is the plan for a 'Black Sky' event</title>
-      <link>https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">894b7c10139400e2fbd41fe344bd4ea990db90dd</guid>
-      <pubDate>Sat, 07 Nov 2026 00:31:54 GMT</pubDate>
-      <description><![CDATA[A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?]]></description>
+      <title>A promising new medicine against heart disease fails unexpectedly</title>
+      <link>https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack</link>
+      <guid isPermaLink="false">3f054a34cb05abc1a8aa23f8f33a97b3b0b95677</guid>
+      <pubDate>Sat, 07 Nov 2026 14:50:00 GMT</pubDate>
+      <description><![CDATA[Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Miami Heat finally unveil 'Grand Theft Auto VI'-themed jerseys and social media is loving them</title>
-      <link>https://www.foxnews.com/outkick-sports/miami-heat-unveil-grand-theft-auto-vi-themed-jerseys-social-media-loving</link>
-      <guid isPermaLink="false">51c9b1c9295aedcec96dacba6623b9ef7c283c4c</guid>
-      <pubDate>Sat, 07 Nov 2026 00:10:22 GMT</pubDate>
-      <description><![CDATA[The Miami Heat unveiled a limited edition Vice City jersey for their Milwaukee Bucks matchup, just one day before "Grand Theft Auto VI" drops.]]></description>
+      <title>Hooters teams up with NASCAR in Miami to show doubters the brand is still alive, UK sneak attack &amp; a coin flip</title>
+      <link>https://www.foxnews.com/outkick-sports/hooters-teams-nascar-miami-show-doubters-brand-still-alive-uk-sneak-attack-coin-flip</link>
+      <guid isPermaLink="false">898fc863fdcabcca0a9bd1b313286d64fa7bfd42</guid>
+      <pubDate>Sat, 07 Nov 2026 14:26:11 GMT</pubDate>
+      <description><![CDATA[Hooters returns to NASCAR this weekend at Miami-Homestead Speedway, sponsoring Cole Custer's No. 41 Chevy after years of tough headlines for the brand.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>El Niño-fueled storm triggers dangerous flood threat across Texas Hill Country, South Texas through weekend</title>
+      <link>https://www.foxweather.com/weather-news/south-texas-texas-hill-country-face-dangerous-el-nino-aided-flood-threat-through-weekend</link>
+      <guid isPermaLink="false">3f02208750c4b5aab9e6c12c277bfa6f554c88e5</guid>
+      <pubDate>Sat, 07 Nov 2026 14:21:24 GMT</pubDate>
+      <description><![CDATA[Parts of Central and South Texas are in the crosshairs of a dangerous flood threat, as areas from Austin south to Brownsville prepare for rounds of heavy rain beginning Saturday afternoon, with the greatest flood threat expected Sunday. This is the latest example of an El Niño storm pattern setting up across the southern part of the country.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>11-night Caribbean cruise abruptly canceled after Coast Guard detains ship</title>
+      <link>https://www.foxnews.com/travel/11-night-caribbean-cruise-abruptly-canceled-coast-guard-detains-ship</link>
+      <guid isPermaLink="false">63bf06c32ec30cd96002dd037e4ae672e7bf0c4b</guid>
+      <pubDate>Sat, 07 Nov 2026 14:16:20 GMT</pubDate>
+      <description><![CDATA[After the U.S. Coast Guard identified significant deficiencies, the MSC Poesia was detained in Miami, stranding over 2,000 cruise passengers. An attorney weighed in.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rising pro wrestler Josh Bishop has 'been breakout player for us,' MLW owner Court Bauer says</title>
+      <link>https://www.foxnews.com/outkick-sports/rising-pro-wrestler-josh-bishop-breakout-player-mlw-owner-court-bauer-says</link>
+      <guid isPermaLink="false">5165dbca98259cb1235c566e09cafd6f2ee333ca</guid>
+      <pubDate>Sat, 07 Nov 2026 14:10:28 GMT</pubDate>
+      <description><![CDATA[Josh Bishop earned his MLW World Heavyweight Championship shot against Killer Kross in a Last Man Standing match at Saturday Night SuperFight.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Newsom’s death-row commutations spark DA revolt as prosecutors warn of legal fight</title>
+      <link>https://www.foxnews.com/politics/newsoms-death-row-commutations-spark-da-revolt-prosecutors-warn-legal-fight</link>
+      <guid isPermaLink="false">23f5a068d38324bf8917b6c76b22955b6ca8fd2f</guid>
+      <pubDate>Sat, 07 Nov 2026 14:00:34 GMT</pubDate>
+      <description><![CDATA[California district attorneys accuse Gavin Newsom of overriding juries and ignoring victims' families with his plan to commute all 548 death sentences in the state.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Turning Point USA event at University of New Mexico ends with two arrests and a string of charges</title>
+      <link>https://www.foxnews.com/us/turning-point-usa-event-university-new-mexico-ends-two-arrests-string-charges</link>
+      <guid isPermaLink="false">1364f4f0fa060475c96caa64826fa1a10f2ce042</guid>
+      <pubDate>Sat, 07 Nov 2026 14:00:10 GMT</pubDate>
+      <description><![CDATA[Video shows two men allegedly plotting to hurl objects at a Turning Point USA campus event at the University of New Mexico before their arrest.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>High school football game ends with three laterals, a fooled defense &amp; the highest IQ play you'll ever see</title>
+      <link>https://www.foxnews.com/outkick-sports/high-school-football-game-ends-three-laterals-fooled-defense-highest-iq-play-youll-ever-see</link>
+      <guid isPermaLink="false">708dd6cdd38756f2cb86b2a15cab4247c562475b</guid>
+      <pubDate>Sat, 07 Nov 2026 13:52:04 GMT</pubDate>
+      <description><![CDATA[A South Dakota high school football playoff game ended on a stunning walk-off touchdown after a 200 IQ lateral play fooled the celebrating defense.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Democrats plan to widen their probes of fatal ICE shootings</title>
+      <link>https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings</link>
+      <guid isPermaLink="false">5f3cf69d28e1e9ce79a2056becdfe5965d05c91c</guid>
+      <pubDate>Sat, 07 Nov 2026 13:19:09 GMT</pubDate>
+      <description><![CDATA[The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their deaths at the hands of immigration agents will likely be the targets of renewed investigations.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>TIM GRAHAM: The blue wave brought a tidal wave of praise from TV networks</title>
+      <link>https://www.foxnews.com/opinion/tim-graham-blue-wave-brought-tidal-wave-praise-tv-networks</link>
+      <guid isPermaLink="false">1a40ac6a854d86cdd9412d963436dfb0979c1645</guid>
+      <pubDate>Sat, 07 Nov 2026 13:00:58 GMT</pubDate>
+      <description><![CDATA[James Talarico's "politics of love" drew soft questions from ABC while CBS gushed over Adam Hamilton's Golden Rule pledge to transform Washington.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Perspective: Simon Winchester was here to tell a story</title>
+      <link>https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story</link>
+      <guid isPermaLink="false">1c31429da490ac2e3e57f0e6b946a5e6743d0a4d</guid>
+      <pubDate>Sat, 07 Nov 2026 13:00:00 GMT</pubDate>
+      <description><![CDATA[British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Watergate.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Russian strikes wound nine and damage Ukraine's power network ahead of talks</title>
+      <link>https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e6afdaa46c60a4421819ab559f7fdda1058c60c2</guid>
+      <pubDate>Sat, 07 Nov 2026 12:49:36 GMT</pubDate>
+      <description><![CDATA[The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Archaeologists uncover nearly 200-year-old cannonballs from the Battle of the Alamo</title>
+      <link>https://www.foxweather.com/weather-news/battle-era-cannonballs-unearthed</link>
+      <guid isPermaLink="false">9354d3d8a64a3b8a3bc3637877728d44e68a025a</guid>
+      <pubDate>Sat, 07 Nov 2026 11:58:33 GMT</pubDate>
+      <description><![CDATA[Archaeologists unearthed four cannonballs and hundreds of thousands of artifacts during a historic excavation at the Alamo, offering new clues about the 1836 battle and the people who lived through it.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>This teen boy set out to get people talking about periods. He's now a Diana honoree</title>
+      <link>https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma</link>
+      <guid isPermaLink="false">c3a491c5b565551b542c71ee94064b0afb717d9a</guid>
+      <pubDate>Sat, 07 Nov 2026 11:50:21 GMT</pubDate>
+      <description><![CDATA[This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Victims in rape cases must not feel like they are on trial, Burnham says</title>
+      <link>https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">56e9fd2d7397e4f9eaada6545e16487c22830432</guid>
+      <pubDate>Sat, 07 Nov 2026 11:04:28 GMT</pubDate>
+      <description><![CDATA[The PM was responding after a police chief said comments made during Russell Brand's trial came close to "victim blaming".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Monty Don bids 'final goodbye' to Gardeners' World after two decades</title>
+      <link>https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4037cc3b66752bd0bc9105e98aa4026d14a61500</guid>
+      <pubDate>Sat, 07 Nov 2026 10:44:38 GMT</pubDate>
+      <description><![CDATA[The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -468,6 +468,14 @@
       <guid isPermaLink="false">fa373c0beb4eb672b3ad208f237aca6ed8e4b576</guid>
       <pubDate>Fri, 06 Nov 2026 10:48:56 GMT</pubDate>
       <description><![CDATA[The Polar Vortex has been disrupted at the earliest point in a calendar year on record, according to analysis from the FOX Forecast Center. What exactly does that mean?]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Cross-country system swamps East Coast with flash flooding as storms cause major air travel headache</title>
+      <link>https://www.foxweather.com/weather-news/heavy-rain-northeast-thunderstorms-localized-flooding-i-95-corridor</link>
+      <guid isPermaLink="false">6fdd82bd9bb39f657c107c429d974c0894426671</guid>
+      <pubDate>Fri, 06 Nov 2026 01:00:22 GMT</pubDate>
+      <description><![CDATA[Southern New England and Downeast Maine will face another round of heavy rain through Saturday afternoon after storms caused flash flooding across parts of the East Coast on Friday in the final act of a powerful, week-long cross-country system that delivered devastating flooding across parts of the Southwest and the southern Appalachians.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">f50481dbf6dd742d50d7b944c0457a2903c4f99a</guid>
       <pubDate>Thu, 05 Nov 2026 17:36:51 GMT</pubDate>
       <description><![CDATA[A bridge partially collapsed in Broward County, Florida, potentially due to heavy rain and flooding, according to initial assessments from the Broward County Highway and Bridge Maintenance Division.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Watch: Marine life spotted swimming through Florida streets amid intense and historical flooding</title>
-      <link>https://www.foxweather.com/weather-news/see-it-marine-life-swim-through-flooded-florida-streets</link>
-      <guid isPermaLink="false">eeac8a97002711b54dd444d671d54cb53d4e48c7</guid>
-      <pubDate>Thu, 05 Nov 2026 16:29:59 GMT</pubDate>
-      <description><![CDATA[A large fish and potentially a shark were caught on video making Florida streets their temporary home during heavy flooding on Monday.]]></description>
       <category>weather</category>
     </item>
   </channel>
