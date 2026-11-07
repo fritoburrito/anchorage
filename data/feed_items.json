@@ -1,5 +1,25 @@
 [
   {
+    "title": "Peltola campaign sues Alaska, seeking to reveal the names of rejected absentee voters",
+    "link": "https://alaskabeacon.com/2026/11/06/peltola-campaign-sues-alaska-seeking-to-reveal-the-names-of-rejected-absentee-voters/",
+    "description": "The campaign of Democratic U.S. Senate candidate Mary Peltola sued the Alaska Division of Elections on Friday in an attempt to make public the names of Alaskans whose absentee ballots have been rejected by the division. The suit was filed Friday in Anchorage Superior Court by Alaskans For Mary, and it named the Division, its [\u2026]",
+    "pubDate": "Sat, 07 Nov 2026 01:51:55 GMT",
+    "category": "anchorage",
+    "tag": "alaska",
+    "source": "Alaska Beacon",
+    "rank": 100
+  },
+  {
+    "title": "Newscast \u2013 Friday, Nov. 6, 2026",
+    "link": "https://feeds.ktoo.org/link/20427/17517227/newscast-friday-nov-6-2026",
+    "description": "Superior Court Judge Carpeneti will stay on the bench in Juneau while two attorneys vie for an open judge seat on the Juneau District Court; A state contractor is preparing to build the controversial Cascade Point Ferry Terminal in Juneau's Berners Bay despite overwhelming public opposition; Fairbanks residents are feeling the pinch of the Iran War as heating oil prices rise; Seafood harvesting jobs increased last year after hitting an all-time low in 2024",
+    "pubDate": "Sat, 07 Nov 2026 01:39:01 GMT",
+    "category": "southeast",
+    "tag": "alaska",
+    "source": "KTOO",
+    "rank": 100
+  },
+  {
     "title": "Kenai school board considers penalties for students who record school misconduct",
     "link": "https://www.homernews.com/2026/11/06/kenai-school-board-considers-penalties-for-students-who-record-school-misconduct/",
     "description": "District leaders plan a broader look at cellphone rules and cyberbullying",
@@ -380,24 +400,154 @@
     "rank": 100
   },
   {
-    "title": "Bryan Norcross: Developing low pressure in the Atlantic still has a chance to be named Kyle",
-    "link": "https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-november-5-2026",
-    "description": "A non-tropical low-pressure system is strengthening south of Bermuda. The system developed from an old front and an upper-air disturbance embedded in the El Ni\u00f1o-driven jet stream \u2013 the same disturbance that enhanced the latest round of flooding rains in Florida.",
-    "pubDate": "Thu, 05 Nov 2026 14:11:56 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "FOX Weather",
-    "rank": 100
+    "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+    "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+    "description": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+    "pubDate": "Sat, 07 Nov 2026 07:27:44 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
-    "title": "Story eyes larger House coalition after Alaska election gains",
-    "link": "https://www.juneauempire.com/2026/11/05/story-eyes-larger-house-coalition-after-alaska-election-gains/",
-    "description": "Juneau lawmakers led local returns as Democrats gained ground statewide",
-    "pubDate": "Thu, 05 Nov 2026 14:00:00 GMT",
-    "category": "southeast",
-    "tag": "alaska",
-    "source": "Juneau Empire",
-    "rank": 100
+    "title": "Paraguay's president impeached and under house arrest after bank collapse",
+    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+    "description": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money.",
+    "pubDate": "Sat, 07 Nov 2026 07:20:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Paraguay's president impeached after collapse of bank",
+    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+    "description": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money.",
+    "pubDate": "Sat, 07 Nov 2026 07:20:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Pope in 'pretty good health' as he starts Latin America tour",
+    "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+    "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+    "pubDate": "Sat, 07 Nov 2026 06:59:48 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC World",
+    "rank": 10
+  },
+  {
+    "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+    "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
+    "description": "It was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
+    "pubDate": "Sat, 07 Nov 2026 05:12:52 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "DeSantis blasts Washington Post over report he's preparing 2028 presidential bid",
+    "link": "https://www.foxnews.com/politics/desantis-blasts-washington-post-report-preparing-2028-presidential-bid",
+    "description": "Florida Gov. Ron DeSantis accused The Washington Post of fabricating claims he reached out to political consultants about a potential 2028 presidential bid.",
+    "pubDate": "Sat, 07 Nov 2026 05:09:45 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Rams safety Quentin Lake apologizes to Justin Herbert for 'deli meat' comment, even though he has a point",
+    "link": "https://www.foxnews.com/outkick-sports/rams-safety-quentin-lake-apologized-justin-herbert-deli-meat-comment-even-though-he-has-point",
+    "description": "Quentin Lake said Justin Herbert was \"throwing deli meat\" and \"seeing ghosts\" on the \"St. Brown Podcast\" after his interception against the Chargers.",
+    "pubDate": "Sat, 07 Nov 2026 03:15:45 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Tiger Woods and ex-wife Elin Nordegren reunite to celebrate son Charlie's college golf commitment",
+    "link": "https://www.foxnews.com/outkick-sports/tiger-woods-ex-wife-elin-nordegren-reunite-celebrate-son-charlie-college-golf-commitment",
+    "description": "Tiger Woods and ex-wife Elin Nordegren reunited at their son Charlie Woods' high school to celebrate his Florida State University golf commitment.",
+    "pubDate": "Sat, 07 Nov 2026 02:50:40 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Denver man found dead at bottom of national park canyon beneath steep drop-offs",
+    "link": "https://www.foxnews.com/us/denver-man-found-dead-bottom-national-park-canyon-beneath-steep-drop-offs",
+    "description": "A drone team located human remains on the floor of Gunnison National Park's Black Canyon after deputies found an abandoned vehicle on the South Rim.",
+    "pubDate": "Sat, 07 Nov 2026 02:34:59 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "US offers $20 million reward for information on Iran's nuclear program",
+    "link": "https://www.foxnews.com/politics/us-offers-20-million-reward-information-irans-nuclear-program",
+    "description": "The State Department's Rewards for Justice program is offering up to $20 million for tips on Iran's nuclear program via Signal or Tor tip lines.",
+    "pubDate": "Sat, 07 Nov 2026 02:03:34 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "Skepta: 'I'm what it looks like if you give an immigrant child a chance'",
+    "link": "https://www.bbc.co.uk/news/articles/c6n499d3ykgwo?at_medium=RSS&at_campaign=rss",
+    "description": "The grime artist, widely considered to be one of the UK's best, returns with his first album in seven years.",
+    "pubDate": "Sat, 07 Nov 2026 01:58:00 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028",
+    "link": "https://www.foxnews.com/politics/trump-highlights-nasa-nuclear-powered-mars-spacecraft-mission-planned-2028",
+    "description": "President Donald Trump announced NASA will launch its first nuclear-powered spacecraft to Mars within two years, aiming to send astronauts to the red planet.",
+    "pubDate": "Sat, 07 Nov 2026 01:54:19 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "'My mortgage is going up \u00a3200': How rising interest rates are hitting people's pockets",
+    "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+    "description": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+    "pubDate": "Sat, 07 Nov 2026 01:41:36 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
+    "title": "49ers coach gives blunt reaction to disgruntled Brandon Aiyuk's return to team: 'I could care less'",
+    "link": "https://www.foxnews.com/outkick-sports/49ers-coach-blunt-reaction-disgruntled-brandon-aiyuk-return-team-could-care-less",
+    "description": "Brandon Aiyuk says he's \"back to 100 percent\" and seeking NFL reinstatement, but Kyle Shanahan's blunt response signals a deep rift with the 49ers.",
+    "pubDate": "Sat, 07 Nov 2026 01:38:06 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "FOX World News",
+    "rank": 10
+  },
+  {
+    "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+    "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+    "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+    "pubDate": "Sat, 07 Nov 2026 01:27:47 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
   },
   {
     "title": "Bernie Sanders thinks Medicare-for-all bill could pass, 'not absolutely certain' Trump would veto",
@@ -430,6 +580,16 @@
     "rank": 10
   },
   {
+    "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+    "description": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+    "pubDate": "Sat, 07 Nov 2026 00:31:54 GMT",
+    "category": "world",
+    "tag": "world",
+    "source": "BBC News",
+    "rank": 10
+  },
+  {
     "title": "Miami Heat finally unveil 'Grand Theft Auto VI'-themed jerseys and social media is loving them",
     "link": "https://www.foxnews.com/outkick-sports/miami-heat-unveil-grand-theft-auto-vi-themed-jerseys-social-media-loving",
     "description": "The Miami Heat unveiled a limited edition Vice City jersey for their Milwaukee Bucks matchup, just one day before \"Grand Theft Auto VI\" drops.",
@@ -440,200 +600,30 @@
     "rank": 10
   },
   {
-    "title": "With Stephen Miller pick, Trump readies for a battle",
-    "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-    "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-    "pubDate": "Fri, 06 Nov 2026 23:24:15 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Two women's college basketball teams score on their own baskets in the same day",
-    "link": "https://www.foxnews.com/outkick-sports/two-womens-college-basketball-teams-score-own-baskets-same-day",
-    "description": "New Mexico State and Northwestern State each scored on their own basket on the same day, delivering two of college basketball's most embarrassing moments.",
-    "pubDate": "Fri, 06 Nov 2026 22:45:11 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "White House trashes 'peanut-sized brain' Jimmy Kimmel after host demands Trump 'resign'",
-    "link": "https://www.foxnews.com/media/white-house-trashes-peanut-sized-brain-jimmy-kimmel-host-demands-trump-resign",
-    "description": "The White House fired back at Jimmy Kimmel after the ABC late-night host called on President Donald Trump to resign, with spokesman Davis Ingle saying his brain has \"rotted.\"",
-    "pubDate": "Fri, 06 Nov 2026 22:30:27 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Browns to start Shedeur Sanders at quarterback as Deshaun Watson remains in concussion protocol",
-    "link": "https://www.foxnews.com/outkick-sports/browns-start-shedeur-sanders-quarterback-deshaun-watson-remains-concussion-protocol",
-    "description": "Cleveland Browns quarterback Shedeur Sanders will make his first start of the season against the New Orleans Saints after Deshaun Watson entered the concussion protocol.",
-    "pubDate": "Fri, 06 Nov 2026 22:15:09 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "BOBBY BURACK: Ryan Clark claims ESPN interviewed Sophie Cunningham about trans athletes to impress OutKick",
-    "link": "https://www.foxnews.com/outkick-sports/ryan-clark-claims-espn-interviewed-sophie-cunningham-trans-athletes-impress-outkick",
-    "description": "Ryan Clark claims ESPN published a Sophie Cunningham profile about trans athletes in women's sports to impress OutKick after his firing from ESPN.",
-    "pubDate": "Fri, 06 Nov 2026 22:00:27 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Child, 6, dies weeks after Waterford arson attack",
-    "link": "https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss",
-    "description": "The attack happened last month at the family home on the outskirts of Waterford in the Republic of Ireland.",
-    "pubDate": "Fri, 06 Nov 2026 21:53:38 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Craig Carton rips Chiefs teammates for not helping embattled Rashee Rice avoid bankruptcy",
-    "link": "https://www.foxnews.com/outkick-sports/craig-carton-rips-chiefs-teammates-not-helping-embattled-rashee-rice-avoid-bankruptcy",
-    "description": "Rashee Rice filed for Chapter 7 bankruptcy with $3.45 million in debts, and Craig Carton is asking why his Chiefs teammates haven't stepped up.",
-    "pubDate": "Fri, 06 Nov 2026 21:27:15 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
-    "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-    "description": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-    "pubDate": "Fri, 06 Nov 2026 21:26:56 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Secret Service arrests armed Venezuelan migrant near White House over alleged Trump assassination threat",
-    "link": "https://www.foxnews.com/us/secret-service-arrests-armed-venezuelan-migrant-near-white-house-alleged-trump-assassination-threat",
-    "description": "Secret Service officers arrested a Venezuelan migrant in Washington, D.C., after finding guns in a stolen vehicle and hearing an alleged threat against President Donald Trump.",
-    "pubDate": "Fri, 06 Nov 2026 21:18:15 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "AI stocks climb after trillions wiped from market values",
-    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-    "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-    "pubDate": "Fri, 06 Nov 2026 21:06:25 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC World",
-    "rank": 10
-  },
-  {
-    "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-    "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-    "description": "Israel's center-right opposition has a chance to unseat Netanyahu \u2014 but backing of Arab-led parties will be key",
-    "pubDate": "Fri, 06 Nov 2026 20:42:51 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "The incoming class of U.S. senators is full of historic firsts",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
-    "description": "From the first Native American elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic candidates in the midterms.",
-    "pubDate": "Fri, 06 Nov 2026 20:21:13 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-    "link": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
-    "description": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
-    "pubDate": "Fri, 06 Nov 2026 20:11:45 GMT",
-    "category": "politics",
-    "tag": "world",
-    "source": "BBC News",
-    "rank": 10
-  },
-  {
-    "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
-    "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
-    "description": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
-    "pubDate": "Fri, 06 Nov 2026 20:09:58 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "NPR News",
-    "rank": 10
-  },
-  {
-    "title": "I tested this FOX reader-favorite candle warmer lamp \u2014 now $20",
-    "link": "https://www.foxnews.com/deals/fox-reader-favorite-candle-warmer-lamp-deal",
-    "description": "This clever gadget doubles as a lamp while melting scented candles for flameless fragrance.",
-    "pubDate": "Fri, 06 Nov 2026 20:05:30 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "This non-toxic cutting board is up to 40% off \u2014 and it even sharpens knives",
-    "link": "https://www.foxnews.com/deals/tibo-cutting-board-deal",
-    "description": "Shop this dual-sided titanium and wheat straw cutting board with separate surfaces for meat and produce, plus a built-in knife sharpener. FOX readers save up to 40%.",
-    "pubDate": "Fri, 06 Nov 2026 19:55:19 GMT",
-    "category": "world",
-    "tag": "world",
-    "source": "FOX World News",
-    "rank": 10
-  },
-  {
-    "title": "Anchorage Weather: This Afternoon - Partly Sunny",
-    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "36\u00b0F. Wind N 5 mph. Partly sunny, with a high near 36. North wind around 5 mph.",
-    "pubDate": "Sat, 07 Nov 2026 01:33:23 GMT",
-    "category": "weather",
-    "tag": "weather",
-    "source": "National Weather Service Anchorage",
-    "rank": 0
-  },
-  {
     "title": "Anchorage Weather: Tonight - Mostly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "24\u00b0F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 24. Northeast wind 0 to 5 mph.",
-    "pubDate": "Sat, 07 Nov 2026 01:33:23 GMT",
+    "pubDate": "Sat, 07 Nov 2026 08:12:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Saturday - Mostly Cloudy",
+    "title": "Anchorage Weather: Saturday - Mostly Cloudy then Chance Light Snow",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "32\u00b0F. Wind N 5 mph. Mostly cloudy, with a high near 32. North wind around 5 mph.",
-    "pubDate": "Sat, 07 Nov 2026 01:33:23 GMT",
+    "description": "32\u00b0F. Wind N 5 mph. A chance of snow after noon. Mostly cloudy, with a high near 32. North wind around 5 mph. Chance of precipitation is 40%.",
+    "pubDate": "Sat, 07 Nov 2026 08:12:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
     "rank": 0
   },
   {
-    "title": "Anchorage Weather: Saturday Night - Mostly Cloudy",
+    "title": "Anchorage Weather: Saturday Night - Slight Chance Light Snow then Mostly Cloudy",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
-    "description": "21\u00b0F. Wind N 5 mph. Mostly cloudy, with a low around 21. North wind around 5 mph.",
-    "pubDate": "Sat, 07 Nov 2026 01:33:23 GMT",
+    "description": "21\u00b0F. Wind N 5 mph. A slight chance of snow before 9pm. Mostly cloudy, with a low around 21. North wind around 5 mph. Chance of precipitation is 20%.",
+    "pubDate": "Sat, 07 Nov 2026 08:12:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
@@ -643,7 +633,17 @@
     "title": "Anchorage Weather: Sunday - Partly Sunny",
     "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
     "description": "30\u00b0F. Wind  0 mph. Partly sunny, with a high near 30. North wind around 0 mph.",
-    "pubDate": "Sat, 07 Nov 2026 01:33:23 GMT",
+    "pubDate": "Sat, 07 Nov 2026 08:12:52 GMT",
+    "category": "weather",
+    "tag": "weather",
+    "source": "National Weather Service Anchorage",
+    "rank": 0
+  },
+  {
+    "title": "Anchorage Weather: Sunday Night - Mostly Cloudy",
+    "link": "https://forecast.weather.gov/MapClick.php?lat=61.2176&lon=-149.8997",
+    "description": "23\u00b0F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 23. Northeast wind 0 to 5 mph.",
+    "pubDate": "Sat, 07 Nov 2026 08:12:52 GMT",
     "category": "weather",
     "tag": "weather",
     "source": "National Weather Service Anchorage",
