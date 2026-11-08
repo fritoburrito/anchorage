@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:44:56 GMT</lastBuildDate>
+    <item>
+      <title>Alaska reports over 14,000 average annual crime incidents across five cities</title>
+      <link>https://alaska-native-news.com/87011-2/87011/</link>
+      <guid isPermaLink="false">7ccba95469911b79be4ddbf13feb2d6b6a5a4397</guid>
+      <pubDate>Sat, 07 Nov 2026 16:44:56 GMT</pubDate>
+      <description><![CDATA[Crime is putting Alaska’s cities on alert, with Wasilla ranking as the most dangerous at 289 crime incidents per 1,000 residents, according to a new analysis by Ladah Injury & Car Accident Lawyers Las Vegas. Fairbanks follows at 149 per 1,000, ranking 2nd in the state. The five cities studied average 14,054 crime incidents a […]]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Heavy machinery staged at Cascade Point amidst controversy over new ferry terminal</title>
       <link>https://www.juneauempire.com/2026/11/07/heavy-machinery-staged-at-cascade-point-amidst-controversy-over-new-ferry-terminal/</link>
@@ -15,26 +23,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Urgent travel alert as nationwide strike threatens widespread disruption and delays</title>
-      <link>https://www.foxnews.com/travel/urgent-travel-alert-nationwide-strike-threatens-widespread-disruption-delays</link>
-      <guid isPermaLink="false">e9041e1ac7adb69f3d83f58fbcef4f36f2fa250b</guid>
-      <pubDate>Sat, 07 Nov 2026 21:41:56 GMT</pubDate>
-      <description><![CDATA[Spain's 24-hour nationwide strike on Nov. 11 could disrupt flights, trains and Barcelona metro service as unions protest the housing crisis.]]></description>
+      <title>Blast of late-season cold sweeps across Midwest, Southeast as millions fall under frost and freeze alerts</title>
+      <link>https://www.foxweather.com/weather-news/sudden-chill-bring-fall-frost-millions-midwest</link>
+      <guid isPermaLink="false">afcd6c74ca4f6bbcf32e73fd80d094027ccff51d</guid>
+      <pubDate>Sat, 07 Nov 2026 23:22:30 GMT</pubDate>
+      <description><![CDATA[Frost and Freeze Alerts cover more than 19 million Americans as cold temperatures spread across the Ohio Valley and Southeast. FOX Weather breaks down the delayed first freeze and El Niño-fueled warmth.]]></description>
       <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today - Mostly Cloudy then Chance Light Snow</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 07 Nov 2026 23:22:00 GMT</pubDate>
-      <description><![CDATA[32°F. Wind N 5 mph. A chance of snow after noon. Mostly cloudy, with a high near 32. North wind around 5 mph. Chance of precipitation is 40%.]]></description>
-      <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Slight Chance Light Snow then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 07 Nov 2026 23:22:00 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 04:01:33 GMT</pubDate>
       <description><![CDATA[22°F. Wind N 5 mph. A slight chance of snow before 9pm. Mostly cloudy, with a low around 22. North wind around 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -42,7 +42,7 @@
       <title>Anchorage Weather: Sunday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 07 Nov 2026 23:22:00 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 04:01:33 GMT</pubDate>
       <description><![CDATA[31°F. Wind  0 mph. Partly sunny, with a high near 31. North wind around 0 mph.]]></description>
       <category>weather</category>
     </item>
@@ -50,16 +50,24 @@
       <title>Anchorage Weather: Sunday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 07 Nov 2026 23:22:00 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 04:01:33 GMT</pubDate>
       <description><![CDATA[23°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 23. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Monday - Mostly Cloudy then Slight Chance Light Snow</title>
+      <title>Anchorage Weather: Monday - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 07 Nov 2026 23:22:00 GMT</pubDate>
-      <description><![CDATA[31°F. Wind N 5 to 10 mph. A slight chance of snow after 3pm. Mostly cloudy, with a high near 31. North wind 5 to 10 mph, with gusts as high as 25 mph.]]></description>
+      <pubDate>Sun, 08 Nov 2026 04:01:33 GMT</pubDate>
+      <description><![CDATA[31°F. Wind N 10 mph. Mostly cloudy, with a high near 31. North wind around 10 mph, with gusts as high as 20 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday Night - Light Snow Likely</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 08 Nov 2026 04:01:33 GMT</pubDate>
+      <description><![CDATA[27°F. Wind N 10 mph. Snow likely after 9pm. Mostly cloudy, with a low around 27. North wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -71,11 +79,51 @@
       <category>local</category>
     </item>
     <item>
+      <title>Anchorage Man Sentenced to 10 Years for Distributing Controlled Substances</title>
+      <link>https://alaska-native-news.com/anchorage-man-sentenced-to-10-years-for-distributing-controlled-substances/87014/</link>
+      <guid isPermaLink="false">2edeb97c9d2f5153ca850aff788ec259c88ab4ee</guid>
+      <pubDate>Sat, 07 Nov 2026 16:52:24 GMT</pubDate>
+      <description><![CDATA[ANCHORAGE, Alaska – An Anchorage man was sentenced earlier this week to 10 years in prison for the distribution of controlled substances. According to court documents, beginning around May 2025 and continuing into September 2025, Shane Norman Caliph Derryberry, 59, sold approximately 100 grams of fentanyl powder to multiple individuals. Mr. Derryberry distributed these drugs […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Trump Names ‘Hate-Filled Extremist’ Stephen Miller as New Chief of Staff</title>
+      <link>https://alaska-native-news.com/trump-names-hate-filled-extremist-stephen-miller-as-new-chief-of-staff/87009/</link>
+      <guid isPermaLink="false">8bf711f71c49b09855d2a07e76f306761f20e07f</guid>
+      <pubDate>Sat, 07 Nov 2026 16:39:02 GMT</pubDate>
+      <description><![CDATA[House Democratic leader Hakeem Jeffries said Miller is a “dangerous xenophobe and reckless extremist who has American blood on his hands.”   Stephen Miller, the chief architect of the Trump administration’s widely decried mass deportation policy, has received a promotion to be the next White House chief of staff. In a Friday social media post, […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>‘Alarm’ at White House After Vance and Miller Pushed Insurrection Act, Habeas Corpus Suspension During Anti-ICE Protests</title>
+      <link>https://alaska-native-news.com/alarm-at-white-house-after-vance-and-miller-pushed-insurrection-act-habeas-corpus-suspension-during-anti-ice-protests/87007/</link>
+      <guid isPermaLink="false">6011cace90aaee23b2a765d7122a3289d51c4fa8</guid>
+      <pubDate>Sat, 07 Nov 2026 16:31:26 GMT</pubDate>
+      <description><![CDATA[Reporting in The New York Times reveals Vance wanted to use the military “to crush the unrest in Minnesota.” A Monday report in The New York Times revealed what it described as the “alarm” felt by some White House lawyers at proposals made earlier this year by Vice President JD Vance and Trump adviser Stephen […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
       <title>Juneau food drives gear up as Thanksgiving demand keeps climbing</title>
       <link>https://www.juneauempire.com/2026/11/07/juneau-food-drives-gear-up-as-thanksgiving-demand-keeps-climbing/</link>
       <guid isPermaLink="false">6ba7439c937f01208dc50d4a0e92fe3ba30229f6</guid>
       <pubDate>Sat, 07 Nov 2026 16:30:00 GMT</pubDate>
       <description><![CDATA[Food bank serves twice as many as in 2024 while shelter beds stay full]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Hegseth is ‘100% a War Criminal’ Who ‘Needs to Be Prosecuted,’ Says Former Top Pentagon Official</title>
+      <link>https://alaska-native-news.com/hegseth-is-100-a-war-criminal-who-needs-to-be-prosecuted-says-former-top-pentagon-official/87005/</link>
+      <guid isPermaLink="false">5ab3b2c1f6139f6fa91c5eefda670f8821665f7e</guid>
+      <pubDate>Sat, 07 Nov 2026 16:21:05 GMT</pubDate>
+      <description><![CDATA[“He is conducting state terrorism.” While President Donald Trump this week indicated he’s standing by Defense Secretary Pete Hegseth in the wake of brutal midterm election losses, Democratic Party leaders have indicated they’ll use their new majorities in Congress to remove him from office, one way or another. The Intercept reported on Thursday that sources […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>This Day in Alaska History-November 7th, 1913</title>
+      <link>https://alaska-native-news.com/november-7th-1913/45630/</link>
+      <guid isPermaLink="false">90460938f9b9c7d1db693577f9f7c855c42e76e1</guid>
+      <pubDate>Sat, 07 Nov 2026 15:00:07 GMT</pubDate>
+      <description><![CDATA[Measles, also known as the “Great Sickness” among the Native villages, broke out in Alaska in 1900 and tore through isolated Yup’ik, Iñupiat, and Iñupiaq communities that had little to no prior biological exposure, killing one-quarter to one-half of their populations as it moved through the towns. On November 7th 1913, news was transmitted to […]]]></description>
       <category>local</category>
     </item>
     <item>
@@ -215,6 +263,38 @@
       <category>local</category>
     </item>
     <item>
+      <title>2026 Alaska Commercial Salmon Harvest Summary</title>
+      <link>https://alaska-native-news.com/2026-alaska-commercial-salmon-harvest-summary/86995/</link>
+      <guid isPermaLink="false">9859175c5a52a775d8543f7577bd41f824383920</guid>
+      <pubDate>Fri, 06 Nov 2026 15:05:08 GMT</pubDate>
+      <description><![CDATA[(Juneau, AK) — The Alaska Department of Fish and Game (ADF&G) has published preliminary harvest and value figures for the 2026 Alaska Commercial Salmon Fishery. (PDF 160 kB) A total of 99 million salmon were harvested in the 2026 season, a 49% decrease from the 2025 total harvest of 195 million salmon. The 2026 commercial […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Finding a new life for marine plastics</title>
+      <link>https://alaska-native-news.com/finding-a-new-life-for-marine-plastics/86992/</link>
+      <guid isPermaLink="false">a129219a3ed9fe2aa9cb9623686b04d8e0c492b8</guid>
+      <pubDate>Fri, 06 Nov 2026 15:04:11 GMT</pubDate>
+      <description><![CDATA[Jutting out into the Gulf of Alaska, Kayak Island collects a lot of seaborne trash. But an organization called the Ocean Plastics Recovery Project (OPR) is working to make the remote island a stopover for marine debris, not its final destination. OPR removed 116,330 pounds of debris from Kayak Island in 2024 and an estimated […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>As Antarctic blue whales advance along the road to recovery, continued oversight is key</title>
+      <link>https://alaska-native-news.com/as-antarctic-blue-whales-advance-along-the-road-to-recovery-continued-oversight-is-key/86989/</link>
+      <guid isPermaLink="false">0b1229a9a60ac9b3ee519a5c95a546adefce9388</guid>
+      <pubDate>Fri, 06 Nov 2026 15:03:39 GMT</pubDate>
+      <description><![CDATA[Antarctic blue whales appear to be creeping back from the brink of extinction after 50 years of protection. A new study estimates the total population at 4,018, up from 418 after the last reported whale catch in 1973. Still, their population pales in comparison to pre-whaling levels, when hundreds of thousands of blue whales swam […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>After Failed Effort by Billionaires Like Elon Musk to Buy 2026 Midterms, Call Grows for Federal Wealth Tax</title>
+      <link>https://alaska-native-news.com/after-failed-effort-by-billionaires-like-elon-musk-to-buy-2026-midterms-call-grows-for-federal-wealth-tax/86986/</link>
+      <guid isPermaLink="false">b14d1050737ae73874b019b3271e7edd9ff3da95</guid>
+      <pubDate>Fri, 06 Nov 2026 15:02:14 GMT</pubDate>
+      <description><![CDATA[“It is essential that we show the American people where we stand,” said Sen. Chris Van Hollen. “If Trump vetoes it, it will just show people that he’s on the side of billionaires.” With tech mogul Elon Musk pouring nearly half a billion dollars into the midterm elections and just 20 individuals spending over $2 […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
       <title>Judge rules that feds erred in greenlighting controversial mine project near Nome</title>
       <link>https://alaskabeacon.com/2026/11/06/judge-rules-that-feds-erred-in-greenlighting-controversial-mine-project-near-nome/</link>
       <guid isPermaLink="false">17812c3c89253754bc861b2bc82be1c4275a1c9a</guid>
@@ -239,52 +319,140 @@
       <category>local</category>
     </item>
     <item>
-      <title>Incoming Alaska House majority coalition names House speaker, leadership positions</title>
-      <link>https://alaskabeacon.com/2026/11/05/incoming-alaska-house-majority-coalition-names-house-speaker-leadership-positions/</link>
-      <guid isPermaLink="false">f36a40d75bde26d8129b74786011be339913f4f3</guid>
-      <pubDate>Fri, 06 Nov 2026 01:45:07 GMT</pubDate>
-      <description><![CDATA[One day after the Alaska Senate’s bipartisan coalition announced key leadership positions, the incoming majority coalition in the Alaska House announced its leadership including that Anchorage independent Calvin Schrage will be the new House speaker. The new House majority coalition of the 35th Alaska State Legislature is forming with independent, Democratic and Republican members. While […]]]></description>
-      <category>local</category>
+      <title>13th-ranked Tennessee dismantles sixth-ranked Kentucky to stay alive in College Football Playoff race</title>
+      <link>https://www.foxnews.com/outkick-sports/13th-ranked-tennessee-dismantles-sixth-ranked-kentucky-stay-alive-college-football-playoff-race</link>
+      <guid isPermaLink="false">379678183058a4be7f139bf5e240b0e6ed010a15</guid>
+      <pubDate>Sun, 08 Nov 2026 03:45:39 GMT</pubDate>
+      <description><![CDATA[The Tennessee Volunteers crushed No. 6 Kentucky 34-6 as DeSean Bishop rushed for 109 yards and two touchdowns to keep their CFP hopes alive.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Analysis: AML influence and the public money trail</title>
-      <link>https://mustreadalaska.com/analysis-aml-influence-and-the-public-money-trail/</link>
-      <guid isPermaLink="false">cf5b51fea6ce9a7917c76c6c0267d629d047e447</guid>
-      <pubDate>Thu, 05 Nov 2026 23:33:44 GMT</pubDate>
-      <description><![CDATA[Alaska Municipal League’s reach into public affairs deserves an examination as broad as its operations. Following its conference agenda led me beyond speeches and networking to something more consequential: an organization that advocates government policy while selling services used to carry it out. The skunk in this illustration represents my suspicion. The badger represents the […] The post Analysis: AML influence and the public money trail appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Veterans shouldn't sleep rough this Christmas, Burnham says</title>
+      <link>https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1fcca156570043a2bc46b5541e78b1b37341553d</guid>
+      <pubDate>Sun, 08 Nov 2026 03:34:22 GMT</pubDate>
+      <description><![CDATA[Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Anchorage Assembly establishes one-year ad hoc committee to review APD policies</title>
-      <link>https://mustreadalaska.com/anchorage-assembly-establishes-one-year-ad-hoc-committee-to-review-apd-policies/</link>
-      <guid isPermaLink="false">2d4d6eafc4834dfe7309f7e2541665695b9cdb6d</guid>
-      <pubDate>Thu, 05 Nov 2026 22:47:30 GMT</pubDate>
-      <description><![CDATA[The Anchorage Assembly approved (10-1) AR 2026-328, as amended, during its November 4, 2026 Regular Meeting, establishing an Ad Hoc Assembly Committee on Anchorage Police Department (APD) Policy Review and Implementation. The resolution, sponsored by Assembly Member Kameron Perez-Verdia (District 3, West Anchorage), who will chair the committee, creates a temporary body charged with two […] The post Anchorage Assembly establishes one-year ad hoc committee to review APD policies appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Matt Rhule says Nebraska was due for 'a change' after coaching staff shakeup following loss to Illinois</title>
+      <link>https://www.foxnews.com/outkick-sports/matt-rhule-says-nebraska-due-change-coaching-staff-shakeup-following-loss-illinois</link>
+      <guid isPermaLink="false">62285bb1468b5edca93e879854be539e6dc144e8</guid>
+      <pubDate>Sun, 08 Nov 2026 03:20:17 GMT</pubDate>
+      <description><![CDATA[Matt Rhule fired Dana Holgorsen just five days after calling him one of the best offensive minds, as Nebraska scored only 54 points in four losses.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Following midterm landslide, Democrats pressed by supporters to deliver on promises</title>
-      <link>https://alaskabeacon.com/2026/11/05/repub/following-midterm-landslide-democrats-pressed-by-supporters-to-deliver-on-promises/</link>
-      <guid isPermaLink="false">a2ad12dde8e01bdc59918bc501761af4c7b47d56</guid>
-      <pubDate>Thu, 05 Nov 2026 21:00:10 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — As the monumental midterm victories set in, Democrats began to talk strategy Wednesday on how to deliver what voters want: lower prices, attainable health care and an end to a stagnant and expensive conflict in the Middle East. Starting in January, the party will control both chambers of Congress, giving them the upper hand over much […]]]></description>
-      <category>local</category>
+      <title>JACKSON THOMPSON: Dana White says he'll meet with Trump amid claim of White House press secretary job offer</title>
+      <link>https://www.foxnews.com/outkick-sports/jackson-thompson-dana-white-says-hell-meet-trump-amid-claim-white-house-press-secretary-job-offer</link>
+      <guid isPermaLink="false">ef2f4823274096e71406e0b533c95bb61464f2ef</guid>
+      <pubDate>Sun, 08 Nov 2026 02:55:18 GMT</pubDate>
+      <description><![CDATA[Dana White plans to meet Trump on Monday to discuss the White House press secretary offer after the president's dramatic Truth Social announcement.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Telephone Hill plan draws sharp criticism from Douglas resident</title>
-      <link>https://www.juneauempire.com/2026/11/05/telephone-hill-plan-draws-sharp-criticism-from-douglas-resident/</link>
-      <guid isPermaLink="false">68c275e4b2c65c7e27f19c11bf138c9b124d3409</guid>
-      <pubDate>Thu, 05 Nov 2026 20:30:00 GMT</pubDate>
-      <description><![CDATA[Juneau Assembly looking at redevelopment of historic downtown land into a high-density neighborhood]]></description>
-      <category>local</category>
+      <title>Boston College scores on bizarre 'Ring-Around-The-Rosie' homage to 'The Longest Yard'</title>
+      <link>https://www.foxnews.com/outkick-sports/boston-college-scores-bizarre-ring-around-rosie-homage-longest-yard</link>
+      <guid isPermaLink="false">31daf20c5cad809085979489c75cf696a0ae4b42</guid>
+      <pubDate>Sun, 08 Nov 2026 02:17:46 GMT</pubDate>
+      <description><![CDATA[Boston College dusted off the famous "Ring-Around-The-Rosie" play from "The Longest Yard" against Florida State, but the Seminoles rallied late.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Opinion: A better way to plan staffing for rural Alaskan polling places</title>
-      <link>https://mustreadalaska.com/opinion-a-better-way-to-plan-staffing-for-rural-alaskan-polling-places/</link>
-      <guid isPermaLink="false">867fd31ce753792235c1e48989ac9e651f3c343b</guid>
-      <pubDate>Thu, 05 Nov 2026 19:44:09 GMT</pubDate>
-      <description><![CDATA[Enough is enough. Nothing changes if nothing changes— especially in government. Once again, Alaska scrambled to find enough poll workers for rural voting locations. The Division of Elections reportedly advertised these temporary positions for months, yet some communities still didn’t have enough staff on Election Day, and some polling places remained closed. This is disgraceful […] The post Opinion: A better way to plan staffing for rural Alaskan polling places appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
+      <title>Two experienced skydivers die after midair collision entangles their parachutes</title>
+      <link>https://www.foxnews.com/us/two-experienced-skydivers-die-midair-collision-entangles-parachutes</link>
+      <guid isPermaLink="false">d78c08fc56c540d875c669d6e5bcda61a8f9e072</guid>
+      <pubDate>Sun, 08 Nov 2026 02:13:43 GMT</pubDate>
+      <description><![CDATA[The two skydivers collided midair at about 150 feet during an organized skydive in Southern California, entangling their parachutes.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Reggie Jackson calls out antisemitism in native Pennsylvania, likens it to 'racism I experienced in the 1960s'</title>
+      <link>https://www.foxnews.com/outkick-sports/reggie-jackson-calls-out-antisemitism-native-pennsylvania-likens-racism-experienced-1960s</link>
+      <guid isPermaLink="false">eee458d82434a68ff07110a359536bd3dcc40e4d</guid>
+      <pubDate>Sun, 08 Nov 2026 01:55:32 GMT</pubDate>
+      <description><![CDATA[Baseball Hall of Famer Reggie Jackson compared rising antisemitism in Pennsylvania to the racism he endured in the 1960s South as a Black player.]]></description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>Florida State interim coach Rick Stockstill leads Seminoles to win in debut, ends road losing streak</title>
+      <link>https://www.foxnews.com/outkick-sports/florida-state-interim-coach-rick-stockstill-leads-seminoles-win-debut-ends-road-losing-streak</link>
+      <guid isPermaLink="false">a6fad51dcc42eea1c0a9c52a3f592505343939a3</guid>
+      <pubDate>Sun, 08 Nov 2026 01:30:04 GMT</pubDate>
+      <description><![CDATA[Amari Thomas scored the go-ahead touchdown with 2:29 left as Florida State rallied from a 17-7 deficit to beat Boston College in Rick Stockstill's debut.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Royal Family join veterans and families at Festival of Remembrance</title>
+      <link>https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">91a52f95e2bd18c2485839e74fc33d379d14a5ab</guid>
+      <pubDate>Sun, 08 Nov 2026 01:24:58 GMT</pubDate>
+      <description><![CDATA[The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>My parents chose to die together and I was left to grieve alone</title>
+      <link>https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">fecf2986412da3ff2e3bf0d599f6efb9769a358e</guid>
+      <pubDate>Sun, 08 Nov 2026 01:10:21 GMT</pubDate>
+      <description><![CDATA[Jan and Els sought medical intervention to end their lives together after 50 happy years of marriage, leaving behind their only child.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Alabama finally puts it all together, dominates LSU and leaves Lane Kiffin staring at $40 million CFP disaster</title>
+      <link>https://www.foxnews.com/outkick-sports/alabama-puts-together-dominates-lsu-leaves-lane-kiffin-staring-40-million-cfp-disaster</link>
+      <guid isPermaLink="false">673ecd60120c487a7fb6a06cd049745359856617</guid>
+      <pubDate>Sun, 08 Nov 2026 01:06:09 GMT</pubDate>
+      <description><![CDATA[Lane Kiffin fell to 0-6 against Alabama as head coach after the Crimson Tide defense held LSU to one touchdown on four red zone possessions.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tim McGraw warns of ‘most dangerous’ times in marriage after 30 years with Faith Hill</title>
+      <link>https://www.foxnews.com/entertainment/tim-mcgraw-warns-most-dangerous-times-marriage-after-30-years-faith-hill</link>
+      <guid isPermaLink="false">d6c9f6ac7490c3ebc9d2c103b07df38095d5b0c6</guid>
+      <pubDate>Sun, 08 Nov 2026 01:05:33 GMT</pubDate>
+      <description><![CDATA[Tim McGraw reveals the "most dangerous parts" of a long marriage and why rediscovering Faith Hill during their toughest moments matters most.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bridget Fonda spotted in rare LA outing 24 years after her final on-screen appearance</title>
+      <link>https://www.foxnews.com/entertainment/bridget-fonda-spotted-rare-la-outing-24-years-after-final-screen-appearance</link>
+      <guid isPermaLink="false">7aa83459aa40d70ff2288e56d8c30a9d03b97a08</guid>
+      <pubDate>Sun, 08 Nov 2026 01:00:30 GMT</pubDate>
+      <description><![CDATA[Bridget Fonda was spotted out in Los Angeles 24 years after her last on-screen role, having previously told paparazzi she has no plans to return to acting.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors</title>
+      <link>https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5d3398cae27da4acc1f27d44e2698c0810c09f26</guid>
+      <pubDate>Sun, 08 Nov 2026 00:49:00 GMT</pubDate>
+      <description><![CDATA[The actress joins the cast of Black Doves for the second season of Netflix's spy thriller.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat</title>
+      <link>https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4a5aba3dab3a0e15df77ffb93d09a6d118d41a6a</guid>
+      <pubDate>Sun, 08 Nov 2026 00:48:59 GMT</pubDate>
+      <description><![CDATA[While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Homelessness in the U.S. saw its largest drop in more than a decade last year</title>
+      <link>https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year</link>
+      <guid isPermaLink="false">9ed743c29c2ec143fb687a769be8261378ed21a7</guid>
+      <pubDate>Sun, 08 Nov 2026 00:19:52 GMT</pubDate>
+      <description><![CDATA[Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Labubu hype seemed unstoppable, now the fluffy monster mania is dying</title>
+      <link>https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">878739531247ee869cbc5e26641fe68ff59d2329</guid>
+      <pubDate>Sat, 07 Nov 2026 23:02:35 GMT</pubDate>
+      <description><![CDATA[Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>What we know so far after Krakow gun attack</title>
@@ -309,134 +477,6 @@
       <pubDate>Sat, 07 Nov 2026 22:51:02 GMT</pubDate>
       <description><![CDATA[Brooks Nader turned heads at the CFDA Fashion Awards in a sheer black-and-white metallic hooded dress ahead of her upcoming "Baywatch" reboot.]]></description>
       <category>world</category>
-    </item>
-    <item>
-      <title>Duke's beatdown of NC State included a must-see missed field goal returned for a 109-yard touchdown</title>
-      <link>https://www.foxnews.com/outkick-sports/dukes-beatdown-nc-state-included-must-see-missed-field-goal-returned-109-yard-touchdown</link>
-      <guid isPermaLink="false">0f3b5dd493d23f2072e99d37d41f6646c12cc733</guid>
-      <pubDate>Sat, 07 Nov 2026 22:50:20 GMT</pubDate>
-      <description><![CDATA[The Duke Blue Devils returned a missed NC State field goal 109 yards for a touchdown at Carter-Finley Stadium, turning a bad half into a nightmare.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Mötley Crüe singer Vince Neil's longtime girlfriend arrested on domestic assault charges</title>
-      <link>https://www.foxnews.com/entertainment/motley-crue-singer-vince-neil-longtime-girlfriend-arrested-domestic-assault-charges</link>
-      <guid isPermaLink="false">4bef63f5cc18ad80ed78cc94b13b3a1afaa181ef</guid>
-      <pubDate>Sat, 07 Nov 2026 22:44:09 GMT</pubDate>
-      <description><![CDATA[Vince Neil's girlfriend Rain Andreani was arrested on domestic assault charges in Tennessee after allegedly striking the Mötley Crüe frontman.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Simple bedtime change may help some individuals lose weight, study finds</title>
-      <link>https://www.foxnews.com/health/simple-bedtime-change-help-individuals-lose-weight-study-finds</link>
-      <guid isPermaLink="false">be4f2f7b2a09c6110866bbe5375f90024d493723</guid>
-      <pubDate>Sat, 07 Nov 2026 22:34:20 GMT</pubDate>
-      <description><![CDATA[An NYU clinical trial found that moving bedtime just one hour earlier led to weight loss in prediabetes patients, even without longer sleep.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Suspect who reportedly claimed to be LeBron James' son arrested for stalking at star's LA home, LAPD says</title>
-      <link>https://www.foxnews.com/outkick-sports/suspect-claimed-lebron-james-son-arrested-stalking-star-la-home-lapd</link>
-      <guid isPermaLink="false">9f3eeea8bbc1a46208f7b745b1ad99f1fac07b68</guid>
-      <pubDate>Sat, 07 Nov 2026 22:20:30 GMT</pubDate>
-      <description><![CDATA[A man was arrested for felony stalking at LeBron James' Brentwood residence while the 76ers star was playing in Cleveland against the Cavaliers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Israel's president tasks opposition leader Eisenkot with forming government</title>
-      <link>https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6f06cf85fa1170a401f2d1e2b66e7548b072ed76</guid>
-      <pubDate>Sat, 07 Nov 2026 22:19:59 GMT</pubDate>
-      <description><![CDATA[Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Israeli president taps Netanyahu rival to form government as coalition battle looms</title>
-      <link>https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms</link>
-      <guid isPermaLink="false">3f65948fd95dce7be4266cceb0f6da2a2fcfdb14</guid>
-      <pubDate>Sat, 07 Nov 2026 22:17:37 GMT</pubDate>
-      <description><![CDATA[Gadi Eisenkot secured 67 Knesset endorsements over Benjamin Netanyahu, but deep coalition divisions over Arab parties and conscription cloud his path.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The surprising and often forgotten history of economic populism in Texas</title>
-      <link>https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism</link>
-      <guid isPermaLink="false">5947a5fa90aa5910558d2c8d4a0cae6b50a4039a</guid>
-      <pubDate>Sat, 07 Nov 2026 22:12:07 GMT</pubDate>
-      <description><![CDATA[NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dustin Hoffman had a 'terrible experience' making Hollywood classic 'The Graduate'</title>
-      <link>https://www.foxnews.com/entertainment/dustin-hoffman-had-terrible-experience-making-hollywood-classic-the-graduate</link>
-      <guid isPermaLink="false">6712255434a1e9415165a3b61078ce9b914b9a78</guid>
-      <pubDate>Sat, 07 Nov 2026 22:00:51 GMT</pubDate>
-      <description><![CDATA[Dustin Hoffman reveals in a new essay that he felt "unworthy" and feared being fired every day while filming "The Graduate" with Mike Nichols.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Army student displays hilarious 'communism' sign ahead of game against Air Force</title>
-      <link>https://www.foxnews.com/outkick-sports/army-student-displays-hilarious-communism-sign-ahead-game-against-air-force</link>
-      <guid isPermaLink="false">67cc3f69c5f44dbcd0ab1c35b04fe6fb36463f1a</guid>
-      <pubDate>Sat, 07 Nov 2026 22:00:42 GMT</pubDate>
-      <description><![CDATA[Army football leads the entire FBS with 342.5 rushing yards per game through eight games in 2026 while throwing just 85 passes all season long.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>IIHF 'taking the necessary steps' to comply with Russia return ruling as Belarus ban remains</title>
-      <link>https://www.foxnews.com/outkick-sports/iihf-taking-necessary-steps-comply-russia-return-ruling-belarus-ban-remains</link>
-      <guid isPermaLink="false">1ee557f08dc4a07c15bc420417c08553a059f5cd</guid>
-      <pubDate>Sat, 07 Nov 2026 21:51:40 GMT</pubDate>
-      <description><![CDATA[The IIHF says it disagrees with the CAS ruling but is taking steps to allow Russia in the World Junior Championships amid a multinational boycott.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Can New Zealand's new government win over disillusioned voters?</title>
-      <link>https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6e31703fcb817cd98f11700d43f2b48e72c9ba9e</guid>
-      <pubDate>Sat, 07 Nov 2026 21:36:16 GMT</pubDate>
-      <description><![CDATA[The mood is low, and Kiwi's faith in politics even lower - with voters deserting the main parties at the polls.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Israel's president taps opposition candidate, not Netanyahu, to form a government</title>
-      <link>https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog</link>
-      <guid isPermaLink="false">d28f9d856987eb5c789726650e81955feff84fc1</guid>
-      <pubDate>Sat, 07 Nov 2026 20:18:18 GMT</pubDate>
-      <description><![CDATA[Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary</title>
-      <link>https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">92173ed133252cd840775f8888130fe2fe6d7169</guid>
-      <pubDate>Sat, 07 Nov 2026 19:42:46 GMT</pubDate>
-      <description><![CDATA[The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>What we know about Krakow mass shooting so far</title>
-      <link>https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">10a11a207755a602a9153d30541579e1ed524360</guid>
-      <pubDate>Sat, 07 Nov 2026 19:40:10 GMT</pubDate>
-      <description><![CDATA[At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Three high school football teams have their playoff fates decided by a midnight parking lot coin toss</title>
-      <link>https://www.foxnews.com/outkick-sports/three-high-school-football-teams-playoff-fates-decided-midnight-parking-lot-coin-toss</link>
-      <guid isPermaLink="false">d910cbfe875dcda949e9eed14cad5e0ef11b6525</guid>
-      <pubDate>Sat, 07 Nov 2026 19:35:44 GMT</pubDate>
-      <description><![CDATA[Three Oklahoma high school football teams faced a midnight coin toss in a parking lot to decide which two would advance to the Class A-2 playoffs.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>STU BURGUIERE: Put your money where your mouth is: Prediction markets won the midterms</title>
-      <link>https://www.foxnews.com/opinion/stu-burguiere-put-your-money-where-your-mouth-is-prediction-markets-won-midterms</link>
-      <guid isPermaLink="false">006b0152f2db43b9fc5c7842ac251d756283994e</guid>
-      <pubDate>Sat, 07 Nov 2026 19:35:41 GMT</pubDate>
-      <description><![CDATA[Billions of dollars in political advertising tried to mislead voters, but Kalshi's prediction markets had winners ahead in 98% of federal races.]]></description>
-      <category>politics</category>
     </item>
     <item>
       <title>Pena becomes first November tropical storm to form in Central Pacific since 1982 amid intensifying El Niño</title>
@@ -484,46 +524,6 @@
       <guid isPermaLink="false">fa373c0beb4eb672b3ad208f237aca6ed8e4b576</guid>
       <pubDate>Fri, 06 Nov 2026 10:48:56 GMT</pubDate>
       <description><![CDATA[The Polar Vortex has been disrupted at the earliest point in a calendar year on record, according to analysis from the FOX Forecast Center. What exactly does that mean?]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Cross-country system swamps East Coast with flash flooding as storms cause major air travel headache</title>
-      <link>https://www.foxweather.com/weather-news/heavy-rain-northeast-thunderstorms-localized-flooding-i-95-corridor</link>
-      <guid isPermaLink="false">6fdd82bd9bb39f657c107c429d974c0894426671</guid>
-      <pubDate>Fri, 06 Nov 2026 01:00:22 GMT</pubDate>
-      <description><![CDATA[Southern New England and Downeast Maine will face another round of heavy rain through Saturday afternoon after storms caused flash flooding across parts of the East Coast on Friday in the final act of a powerful, week-long cross-country system that delivered devastating flooding across parts of the Southwest and the southern Appalachians.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>East Coast soaker threatens millions in Northeast with flash flooding, while Mid-Atlantic faces severe storms</title>
-      <link>https://www.foxweather.com/weather-news/heavy-rain-northeast-thunderstorms-localized-flooding-i-95-corridor</link>
-      <guid isPermaLink="false">6fdd82bd9bb39f657c107c429d974c0894426671</guid>
-      <pubDate>Fri, 06 Nov 2026 01:00:22 GMT</pubDate>
-      <description><![CDATA[Several rounds of storms will soak the East Coast Friday, with the heaviest rain and potential flash flooding expected right along the coast from the Carolinas to New England in the final act of a powerful, week-long cross-country storm that delivered devastating flooding across parts of the Southwest and the southern Appalachians.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Rounds of heavy rain return to the Northeast as thunderstorms and localized flooding threaten I-95 corridor</title>
-      <link>https://www.foxweather.com/weather-news/heavy-rain-northeast-thunderstorms-localized-flooding-i-95-corridor</link>
-      <guid isPermaLink="false">6fdd82bd9bb39f657c107c429d974c0894426671</guid>
-      <pubDate>Fri, 06 Nov 2026 01:00:22 GMT</pubDate>
-      <description><![CDATA[After weeks of dry conditions, much-needed rainfall is moving toward the East Coast, bringing the potential for thunderstorms and localized flooding across parts of the Northeast.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Snow in the Big Apple? How Super El Niño could influence NYC's first snowfall</title>
-      <link>https://www.foxweather.com/weather-news/new-york-city-super-el-nino-snowfall-kalshi</link>
-      <guid isPermaLink="false">e8c67440137cd0ffb54655a5ef2d35671c0f667a</guid>
-      <pubDate>Thu, 05 Nov 2026 22:21:25 GMT</pubDate>
-      <description><![CDATA[As we dig deeper into fall, temperatures steadily drop, creating colder weather and raising questions about whether locations like the Big Apple will see its first snow of the year next month.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Want to go to space? NASA is offering the public a chance to 'hitch a ride' to Saturn</title>
-      <link>https://www.foxweather.com/weather-news/space-nasa-offers-chance-hitch-ride-saturn</link>
-      <guid isPermaLink="false">91f48053b7c7e8d895927aecf1b33bbab32e512f</guid>
-      <pubDate>Thu, 05 Nov 2026 20:52:42 GMT</pubDate>
-      <description><![CDATA[There is now a chance to get a personalized boarding pass to space without ever stepping aboard a spacecraft.]]></description>
       <category>weather</category>
     </item>
   </channel>
