@@ -5,62 +5,86 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 16:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:52:24 GMT</lastBuildDate>
     <item>
-      <title>Alaska reports over 14,000 average annual crime incidents across five cities</title>
-      <link>https://alaska-native-news.com/87011-2/87011/</link>
-      <guid isPermaLink="false">7ccba95469911b79be4ddbf13feb2d6b6a5a4397</guid>
-      <pubDate>Sat, 07 Nov 2026 16:44:56 GMT</pubDate>
-      <description><![CDATA[Crime is putting Alaska’s cities on alert, with Wasilla ranking as the most dangerous at 289 crime incidents per 1,000 residents, according to a new analysis by Ladah Injury & Car Accident Lawyers Las Vegas. Fairbanks follows at 149 per 1,000, ranking 2nd in the state. The five cities studied average 14,054 crime incidents a […]]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Blast of late-season cold sweeps across Midwest, Southeast as millions fall under frost and freeze alerts</title>
-      <link>https://www.foxweather.com/weather-news/sudden-chill-bring-fall-frost-millions-midwest</link>
-      <guid isPermaLink="false">afcd6c74ca4f6bbcf32e73fd80d094027ccff51d</guid>
-      <pubDate>Sat, 07 Nov 2026 23:22:30 GMT</pubDate>
-      <description><![CDATA[Frost and Freeze Alerts cover more than 19 million Americans as cold temperatures spread across the Ohio Valley and Southeast. FOX Weather breaks down the delayed first freeze and El Niño-fueled warmth.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today - Light Rain Likely</title>
+      <title>Anchorage Weather: This Afternoon - Slight Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 10 Nov 2026 18:26:03 GMT</pubDate>
-      <description><![CDATA[38°F. Wind N 5 to 15 mph. Rain likely before 3pm. Mostly cloudy, with a high near 38. North wind 5 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 70%.]]></description>
+      <pubDate>Tue, 10 Nov 2026 23:52:24 GMT</pubDate>
+      <description><![CDATA[38°F. Wind N 5 mph. A slight chance of rain before 3pm. Mostly cloudy, with a high near 38. North wind around 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 10 Nov 2026 18:26:03 GMT</pubDate>
-      <description><![CDATA[27°F. Wind NE 5 mph. Mostly cloudy, with a low around 27. Northeast wind around 5 mph.]]></description>
+      <pubDate>Tue, 10 Nov 2026 23:52:24 GMT</pubDate>
+      <description><![CDATA[28°F. Wind N 5 mph. Mostly cloudy, with a low around 28. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Veterans Day - Cloudy</title>
+      <title>Anchorage Weather: Veterans Day - Slight Chance Light Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 10 Nov 2026 18:26:03 GMT</pubDate>
-      <description><![CDATA[35°F. Wind N 0 to 5 mph. Cloudy, with a high near 35. North wind 0 to 5 mph.]]></description>
+      <pubDate>Tue, 10 Nov 2026 23:52:24 GMT</pubDate>
+      <description><![CDATA[35°F. Wind N 5 mph. A slight chance of snow between 9am and 3pm. Cloudy, with a high near 35. North wind around 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Wednesday Night - Mostly Cloudy then Chance Light Snow</title>
+      <title>Anchorage Weather: Wednesday Night - Chance Rain And Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 10 Nov 2026 18:26:03 GMT</pubDate>
-      <description><![CDATA[27°F. Wind NE 5 to 10 mph. A chance of snow between midnight and 3am. Mostly cloudy, with a low around 27. Northeast wind 5 to 10 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Tue, 10 Nov 2026 23:52:24 GMT</pubDate>
+      <description><![CDATA[27°F. Wind NE 5 to 10 mph. A slight chance of snow before midnight, then a chance of rain and snow. Mostly cloudy, with a low around 27. Northeast wind 5 to 10 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Thursday - Chance Snow Showers then Mostly Cloudy</title>
+      <title>Anchorage Weather: Thursday - Chance Light Snow then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 10 Nov 2026 18:26:03 GMT</pubDate>
-      <description><![CDATA[36°F. Wind  0 mph. A chance of snow showers between 9am and noon. Mostly cloudy, with a high near 36. Northeast wind around 0 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Tue, 10 Nov 2026 23:52:24 GMT</pubDate>
+      <description><![CDATA[35°F. Wind NE 0 to 5 mph. A chance of snow before 9am, then a slight chance of snow showers between 9am and noon. Mostly cloudy, with a high near 35. Northeast wind 0 to 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>US House GOP blocks effort to impeach Hegseth</title>
+      <link>https://alaskabeacon.com/2026/11/10/repub/us-house-gop-blocks-effort-to-impeach-hegseth/</link>
+      <guid isPermaLink="false">52afb30134bb80f5dd371899cd30bc929d99d1ae</guid>
+      <pubDate>Tue, 10 Nov 2026 23:32:59 GMT</pubDate>
+      <description><![CDATA[Defense Secretary Pete Hegseth has survived an impeachment effort, at least for now, after the U.S. House on Tuesday blocked a vote over charges that the Cabinet official oversaw extrajudicial killings and an illegal war against Iran. The House voted 211-204, largely along party lines, to refer articles of impeachment against Hegseth to a committee […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>US Senate GOP leader Thune reelected for next 2 years even after election losses</title>
+      <link>https://alaskabeacon.com/2026/11/10/repub/us-senate-gop-leader-thune-reelected-for-next-2-years-even-after-election-losses/</link>
+      <guid isPermaLink="false">29eefd49f9f60faf9763e1df9ddb1e1344b4d59d</guid>
+      <pubDate>Tue, 10 Nov 2026 23:22:10 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — South Dakota Sen. John Thune will remain Republican leader next Congress despite the GOP’s loss of the chamber’s majority in this year’s midterm elections. GOP senators voted behind closed doors Tuesday to keep Thune at the helm and reelected Wyoming Sen. John Barrasso as their whip. Neither was challenged.  The other members of […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer certifies election, reelects two council incumbents</title>
+      <link>https://www.homernews.com/2026/11/10/homer-certifies-election-reelects-two-council-incumbents/</link>
+      <guid isPermaLink="false">3df77a541236e2dc73d01a08f4f47235465ac82a</guid>
+      <pubDate>Tue, 10 Nov 2026 22:30:00 GMT</pubDate>
+      <description><![CDATA[Erickson becomes mayor as voters extend road and trail funding through 2047]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Another normal year expected for Bristol Bay sockeye salmon, Alaska biologists say</title>
+      <link>https://alaskabeacon.com/2026/11/10/another-normal-year-expected-for-bristol-bay-sockeye-salmon-alaska-biologists-say/</link>
+      <guid isPermaLink="false">0570eedc4f766bbe27a3bfd03dbd285691644469</guid>
+      <pubDate>Tue, 10 Nov 2026 22:10:33 GMT</pubDate>
+      <description><![CDATA[Alaska fishery biologists expect next year’s run of sockeye salmon in Bristol Bay — site of the world’s largest sockeye runs — to be about normal. The forecast for 2027, released by the Alaska Department of Fish and Game last week, estimated a return of 49.31 million sockeye salmon in the coming summer season. That […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Winter is coming. Can Democrats succeed in chilling soaring energy prices?</title>
+      <link>https://alaskabeacon.com/2026/11/10/repub/winter-is-coming-can-democrats-succeed-in-chilling-soaring-energy-prices/</link>
+      <guid isPermaLink="false">d79cd2d40950c3167e327b2dd3320486ba41ac4c</guid>
+      <pubDate>Tue, 10 Nov 2026 19:34:29 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — Democrats during the midterm election campaign promised bold steps to make life more affordable if voters elected them to control Congress next year.  They won, in a historic blue wave that’s already given them comfortable majorities in both the House and Senate. But Democrats likely will find that bringing down gasoline and other energy […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Alaska Supreme Court revives state’s opioid pharmacy lawsuit against Albertsons, Kroger</title>
@@ -239,92 +263,172 @@
       <category>local</category>
     </item>
     <item>
-      <title>OPINION: Victory, until further notice</title>
-      <link>https://www.homernews.com/2026/11/08/opinion-victory-until-further-notice/</link>
-      <guid isPermaLink="false">69d02a1420396e479ab3d444ce1004dda52568f3</guid>
-      <pubDate>Sun, 08 Nov 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Trump says the war ends when he says so — a new Congress can demand an end]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Hospital foundation offers essentials to new Juneau parents</title>
-      <link>https://www.juneauempire.com/2026/11/07/hospital-foundation-offers-essentials-to-new-juneau-parents/</link>
-      <guid isPermaLink="false">b9e2a85dbec864547d1043684dcd8e517f4b843f</guid>
-      <pubDate>Sat, 07 Nov 2026 18:30:00 GMT</pubDate>
-      <description><![CDATA[Bartlett Beginnings Baby Boxes offer comfort and support to growing families]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Anchorage Man Sentenced to 10 Years for Distributing Controlled Substances</title>
-      <link>https://alaska-native-news.com/anchorage-man-sentenced-to-10-years-for-distributing-controlled-substances/87014/</link>
-      <guid isPermaLink="false">2edeb97c9d2f5153ca850aff788ec259c88ab4ee</guid>
-      <pubDate>Sat, 07 Nov 2026 16:52:24 GMT</pubDate>
-      <description><![CDATA[ANCHORAGE, Alaska – An Anchorage man was sentenced earlier this week to 10 years in prison for the distribution of controlled substances. According to court documents, beginning around May 2025 and continuing into September 2025, Shane Norman Caliph Derryberry, 59, sold approximately 100 grams of fentanyl powder to multiple individuals. Mr. Derryberry distributed these drugs […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>The Monaco summit that will decide the future of Carrick and Man Utd</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">69cca56250dabfdbb9ae97f63a1841355ab85bfb</guid>
-      <pubDate>Tue, 10 Nov 2026 18:12:02 GMT</pubDate>
-      <description><![CDATA[Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach]]></description>
+      <title>House votes to effectively end the impeachment effort against Pete Hegseth</title>
+      <link>https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth</link>
+      <guid isPermaLink="false">cda23e6e5446f9d399ca676768857360b0d76442</guid>
+      <pubDate>Tue, 10 Nov 2026 23:43:11 GMT</pubDate>
+      <description><![CDATA[House Republicans managed to short circuit a floor vote on the impeachment effort brought against the Defense Secretary by Kentucky Republican Thomas Massie.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Liberal podcasters tell TPUSA to ‘f--- off’ as Charlie Kirk backlash costs them advertisers</title>
-      <link>https://www.foxnews.com/politics/liberal-podcasters-tell-tpusa-f-off-charlie-kirk-backlash-costs-advertisers</link>
-      <guid isPermaLink="false">33734810de11cbc7d2419bec6490e1410444c11e</guid>
-      <pubDate>Tue, 10 Nov 2026 18:08:17 GMT</pubDate>
-      <description><![CDATA[Jennifer Welch and Angie Sullivan of the “I’ve Had It" podcast apologized for laughing at a joke about Kirk’s body, but soon doubled down on TPUSA as advertisers cut ties.]]></description>
+      <title>Dear WNBA media, please stop telling fans to stick to basketball when the drama is what sells</title>
+      <link>https://www.foxnews.com/outkick-sports/dear-wnba-media-please-stop-telling-fans-stick-basketball-when-drama-sells</link>
+      <guid isPermaLink="false">6969060ed72c4d193bb29f6ccf08995d72a2668f</guid>
+      <pubDate>Tue, 10 Nov 2026 23:31:57 GMT</pubDate>
+      <description><![CDATA[Chiney Ogwumike asked the media to focus on the basketball, which makes the shooting numbers from Game 7 of the WNBA Finals an awkward place to start.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Anti-homosexuality laws in Trinidad and Tobago overturned</title>
-      <link>https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">687624690f159b7e94a134c9e7906bc65399ff8b</guid>
-      <pubDate>Tue, 10 Nov 2026 18:04:18 GMT</pubDate>
-      <description><![CDATA[The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.]]></description>
+      <title>Nick Foles believes Bears are team to beat in loaded NFC North: 'Something's brewing in Chicago'</title>
+      <link>https://www.foxnews.com/outkick-sports/nick-foles-believes-bears-team-beat-loaded-nfc-north-something-brewing-chicago</link>
+      <guid isPermaLink="false">4aed0abd564f9bc8c317b9617dfce6d322e9868c</guid>
+      <pubDate>Tue, 10 Nov 2026 23:30:32 GMT</pubDate>
+      <description><![CDATA[Nick Foles sees something different brewing with the Chicago Bears, pointing to Caleb Williams and Ben Johnson as keys to winning the NFC North.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Georgia Tech issues apology to fans who were allegedly ejected from home game for standing and cheering</title>
-      <link>https://www.foxnews.com/outkick-sports/georgia-tech-issues-apology-fans-allegedly-ejected-home-game-standing-cheering</link>
-      <guid isPermaLink="false">05c94da2fad303548259eb14df73f11340969ea0</guid>
-      <pubDate>Tue, 10 Nov 2026 18:03:05 GMT</pubDate>
-      <description><![CDATA[Viral video shows Georgia Tech fans being ejected by stadium security for standing during Saturday's 44-17 blowout loss to Louisville at home.]]></description>
+      <title>House GOP leaders block Massie's Hegseth impeachment push</title>
+      <link>https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push</link>
+      <guid isPermaLink="false">068d8921eb4628fc918aad879ee06d52438f335d</guid>
+      <pubDate>Tue, 10 Nov 2026 23:16:18 GMT</pubDate>
+      <description><![CDATA[Rep. Thomas Massie introduced a privileged resolution to impeach Secretary of War Pete Hegseth, meaning it had to be considered by the full House.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>US federal authorities could have prevented Epstein crimes, report finds</title>
-      <link>https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5615a0ab874f691901e47f90df29ab11352d3594</guid>
-      <pubDate>Tue, 10 Nov 2026 17:59:02 GMT</pubDate>
-      <description><![CDATA[The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.]]></description>
+      <title>Former Seattle Mariners player Dave Edler critically injured in Yakima crash that killed his wife</title>
+      <link>https://www.foxnews.com/outkick-sports/former-seattle-mariners-player-dave-edler-critically-injured-yakima-crash-killed-wife</link>
+      <guid isPermaLink="false">7d74fae2476532ce8e1ac597ce2aa29d43738bde</guid>
+      <pubDate>Tue, 10 Nov 2026 23:10:30 GMT</pubDate>
+      <description><![CDATA[Trevor Allen Stockton faces vehicular homicide charges after a head-on Yakima crash killed Susie Edler and left Dave Edler critically injured.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Duke vs Michigan State headlines a loaded college basketball slate that deserves attention before March</title>
-      <link>https://www.foxnews.com/outkick-sports/duke-vs-michigan-state-headlines-loaded-college-basketball-slate-deserves-attention-before-march</link>
-      <guid isPermaLink="false">481b6b73ec5f0d733680d21d8ca04bf322cd5d1b</guid>
-      <pubDate>Tue, 10 Nov 2026 17:50:09 GMT</pubDate>
-      <description><![CDATA[Tom Izzo gets another shot at Duke, Grant McCasland welcomes a Final Four program to Lubbock and Kansas faces Kentucky with a new hole in its backcourt.]]></description>
+      <title>Nvidia hires major US law firm to investigate alleged Chinese spy affair</title>
+      <link>https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d68f526af6ae195ea57b84d71eb2acbfe7870d83</guid>
+      <pubDate>Tue, 10 Nov 2026 22:52:15 GMT</pubDate>
+      <description><![CDATA[The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Dead felons, dog and now a prisoner: Spanberger voting rights letters draw fresh scrutiny</title>
-      <link>https://www.foxnews.com/politics/dead-felons-dog-prisoner-spanberger-voting-rights-letters-draw-fresh-scrutiny</link>
-      <guid isPermaLink="false">4c38b5fdfe609cfc5c2790aa03f4c7a868be498e</guid>
-      <pubDate>Tue, 10 Nov 2026 17:50:00 GMT</pubDate>
-      <description><![CDATA[Virginia Gov. Abigail Spanberger's voting rights restoration push sent a notice meant for a woman still incarcerated on a felony conviction.]]></description>
+      <title>NFL trade deadline winners and losers, including Dianna Russini and Kirk Cousins</title>
+      <link>https://www.foxnews.com/outkick-sports/nfl-trade-deadline-winners-losers-dianna-russini-kirk-cousins</link>
+      <guid isPermaLink="false">46a41d799ff96d1a32052be5e715507d09ad8b62</guid>
+      <pubDate>Tue, 10 Nov 2026 22:51:25 GMT</pubDate>
+      <description><![CDATA[Kirk Cousins gives the Minnesota Vikings a major QB upgrade as the Los Angeles Chargers bizarrely held on to veterans with expiring contracts.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Americans across the economic spectrum feel a 'panic' about finances, author says</title>
-      <link>https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives</link>
-      <guid isPermaLink="false">dbb84efbb07a4986a97a6f8394b39d9da4d18379</guid>
-      <pubDate>Tue, 10 Nov 2026 17:46:25 GMT</pubDate>
-      <description><![CDATA[Mona Chalabi spent five years following Americans living paycheck to paycheck, as well as those earning top wages. Her new book, Ten Lives, explores why financial security can feel so elusive.]]></description>
+      <title>Colts had Jonathan Taylor and Grover Stewart trade offers but didn't complete deals that eventually got pulled</title>
+      <link>https://www.foxnews.com/outkick-sports/colts-jonathan-taylor-grover-stewart-trade-offers-didnt-complete-deals-eventually-pulled</link>
+      <guid isPermaLink="false">afa6c8805d58a02746a709b3685d37594c7d006b</guid>
+      <pubDate>Tue, 10 Nov 2026 22:44:54 GMT</pubDate>
+      <description><![CDATA[The Indianapolis Colts turned down multiple Jonathan Taylor trade offers, including a second-round pick from the New York Giants, holding out for more.]]></description>
       <category>world</category>
+    </item>
+    <item>
+      <title>Why Walliams' unprecedented legal battle to stay anonymous failed</title>
+      <link>https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f1c9d3508d33eec58542e7d0afdaabba1ada1e37</guid>
+      <pubDate>Tue, 10 Nov 2026 22:41:01 GMT</pubDate>
+      <description><![CDATA[The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bob Boone, World Series champion and member of MLB's first three-generation family, dead at 78</title>
+      <link>https://www.foxnews.com/outkick-sports/bob-boone-world-series-champion-member-mlbs-first-three-generation-family-dead-78</link>
+      <guid isPermaLink="false">8a472d183069b2370dfee73bc2cb743b0fd73aea</guid>
+      <pubDate>Tue, 10 Nov 2026 22:40:35 GMT</pubDate>
+      <description><![CDATA[Bret Boone announced his father Bob Boone's death, calling the four-time All-Star and seven-time Gold Glove Award catcher his mentor and rock.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ilhan Omar huddles with her DC-based lawyers during her first day back on Capitol Hill amid federal probes</title>
+      <link>https://www.foxnews.com/politics/ilhan-omar-huddles-dc-based-lawyers-first-day-back-capitol-hill-amid-federal-probes</link>
+      <guid isPermaLink="false">9397a9fcfd271a433ce7a2e6c7c2082b44b92e40</guid>
+      <pubDate>Tue, 10 Nov 2026 22:25:44 GMT</pubDate>
+      <description><![CDATA[Ilhan Omar's attorneys were spotted leaving her Capitol Hill office after a two-hour meeting as federal probes into immigration and her finances mount.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kirk Cousins is back in Minnesota, and the Vikings' NFC odds are still too long</title>
+      <link>https://www.foxnews.com/outkick-betting/kirk-cousins-back-minnesota-vikings-nfc-odds-still-too-long</link>
+      <guid isPermaLink="false">288802c7611b19a9e7bf14bb4b4d6d08a45c0764</guid>
+      <pubDate>Tue, 10 Nov 2026 22:20:09 GMT</pubDate>
+      <description><![CDATA[Kirk Cousins is back with the Vikings, and Minnesota’s Super Bowl odds jumped to +2200. Why the Vikings’ +1000 NFC price is still worth a bet.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor</title>
+      <link>https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c8155dccf0da6a44487a089b84a910ef7602a538</guid>
+      <pubDate>Tue, 10 Nov 2026 22:17:45 GMT</pubDate>
+      <description><![CDATA[The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Whoopi Goldberg lectures Democrats over infighting about leadership, warns 'get your stuff together'</title>
+      <link>https://www.foxnews.com/media/whoopi-goldberg-lectures-democrats-infighting-leadership-warns-get-stuff-together</link>
+      <guid isPermaLink="false">ad1e2e3e44fe58dc057903e5e07d08520eb8a140</guid>
+      <pubDate>Tue, 10 Nov 2026 22:10:38 GMT</pubDate>
+      <description><![CDATA[Whoopi Goldberg called out Democratic infighting over congressional leadership demanding the party focus on gas prices and SNAP benefits.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Census should include black English and Asian English options, says MP</title>
+      <link>https://www.bbc.co.uk/news/articles/c3lylyy24xl5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a854d67a1a12cd8eb67a8b2d6ce2f5afe11124c9</guid>
+      <pubDate>Tue, 10 Nov 2026 22:04:54 GMT</pubDate>
+      <description><![CDATA[Josh Babarinde's proposal is also supported by other MPs, including David Lammy and Sir James Cleverly.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Should you trust new AI agents with your money and data?</title>
+      <link>https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data</link>
+      <guid isPermaLink="false">0a88620863705ba6fcd317c7c60237f0fbc27947</guid>
+      <pubDate>Tue, 10 Nov 2026 21:44:32 GMT</pubDate>
+      <description><![CDATA[Tech companies want agentic AI to be the new way you shop. But should you trust AI when your money's involved?]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Spain's king and queen attend memorial service for rail crash victims</title>
+      <link>https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">89584a7f0f4d2ca8987233031207c40d0c4096ac</guid>
+      <pubDate>Tue, 10 Nov 2026 20:46:40 GMT</pubDate>
+      <description><![CDATA[Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Watch: E-bike battery explodes into massive fireball inside Oregon home</title>
+      <link>https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c8ff0ee5da36b3f52ca04bb8ccaad90a6b642a02</guid>
+      <pubDate>Tue, 10 Nov 2026 20:31:17 GMT</pubDate>
+      <description><![CDATA[Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>David Walliams accused of sexual misconduct after losing injunction bid</title>
+      <link>https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">aed83b0c0f81c076d2f38ec4db100ac552809a0c</guid>
+      <pubDate>Tue, 10 Nov 2026 20:20:11 GMT</pubDate>
+      <description><![CDATA[ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US Army soldier suspected of spying for Russia arrested in UK</title>
+      <link>https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">dd0db016b7b3725db1d50404cb5c51d68e64d413</guid>
+      <pubDate>Tue, 10 Nov 2026 20:20:04 GMT</pubDate>
+      <description><![CDATA[The 41-year-old senior soldier is accused of national security offences and is being questioned in London.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Remembering the Edmund Fitzgerald 51 years after wreck in Lake Superior</title>
+      <link>https://www.foxweather.com/weather-news/51-years-ago-today-edmund-fitzgerald-wrecks-lake-superior</link>
+      <guid isPermaLink="false">36587862863b818e2824d87e89460b24f4fc2b8b</guid>
+      <pubDate>Tue, 10 Nov 2026 19:00:06 GMT</pubDate>
+      <description><![CDATA[The Edmund Fitzgerald sank during a powerful Lake Superior storm 51 years ago, killing all 29 aboard and leaving a mystery that endures today.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Thanksgiving outlook: Rain, storms and possible snow could disrupt holiday travel plans for millions</title>
@@ -333,102 +437,6 @@
       <pubDate>Tue, 10 Nov 2026 17:41:28 GMT</pubDate>
       <description><![CDATA[In just two weeks, millions of people will be traveling across America for Thanksgiving week, and early forecasts show rain, storms and snow could dominate the forecast.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Sotomayor lets loose on conservative Supreme Court with revealing wish: 'Crazy things'</title>
-      <link>https://www.foxnews.com/politics/sotomayor-lets-loose-conservative-supreme-court-revealing-wish-crazy-things</link>
-      <guid isPermaLink="false">3d770cace11d4d9dc8b5be217a23d96fc4bfc61b</guid>
-      <pubDate>Tue, 10 Nov 2026 17:32:21 GMT</pubDate>
-      <description><![CDATA[Supreme Court Justice Sonia Sotomayor called the presidential immunity ruling in Trump v. United States one she hopes gets overturned in her lifetime.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>First day of Ukraine peace talks constructive, Zelensky says</title>
-      <link>https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6c22ff3622d0e17f1acacaf68726d0a7dd16de97</guid>
-      <pubDate>Tue, 10 Nov 2026 17:29:36 GMT</pubDate>
-      <description><![CDATA[Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>More than 12 US military aircraft leave second UK base</title>
-      <link>https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c5664f96126e1a358d5281e1d5f92782e72a4757</guid>
-      <pubDate>Tue, 10 Nov 2026 17:22:14 GMT</pubDate>
-      <description><![CDATA[The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Mamdani makes behind-the-scenes moves to shape 2028 Democratic presidential race</title>
-      <link>https://www.foxnews.com/politics/mamdani-makes-behind-scenes-moves-shape-2028-democratic-presidential-race</link>
-      <guid isPermaLink="false">baf60a66820a798385159b13e1dae67ddbdf39ef</guid>
-      <pubDate>Tue, 10 Nov 2026 17:18:46 GMT</pubDate>
-      <description><![CDATA[New York City Mayor Zohran Mamdani is meeting with labor leaders to rally progressives around a 2028 presidential candidate if AOC stays out.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Israel's new parliament sworn in as leaders compete to form government</title>
-      <link>https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">71ab83aa7760a38c1a9902cfdb7b7d3874be4080</guid>
-      <pubDate>Tue, 10 Nov 2026 17:03:16 GMT</pubDate>
-      <description><![CDATA[Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Inside devastated front-line city that Russia wants Ukraine to give up</title>
-      <link>https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ed73d7ea38c9583b2ccff39d1b2c75e64e061da2</guid>
-      <pubDate>Tue, 10 Nov 2026 17:00:11 GMT</pubDate>
-      <description><![CDATA[The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Train attack driver had '10 seconds' to change line</title>
-      <link>https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">461426ea0172915be83243202073c050a142cf16</guid>
-      <pubDate>Tue, 10 Nov 2026 16:56:26 GMT</pubDate>
-      <description><![CDATA[Andrew Johnson tells jurors he heard over the intercom "'there's a knifeman stabbing people'".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The Seattle Times says there's 'no serious scientific evidence' trans athletes have an advantage over women</title>
-      <link>https://www.foxnews.com/outkick-sports/seattle-times-says-no-serious-scientific-evidence-trans-athletes-advantage-over-women</link>
-      <guid isPermaLink="false">87f0fcf8111b8424d43be298cc696dc931bcb161</guid>
-      <pubDate>Tue, 10 Nov 2026 16:47:53 GMT</pubDate>
-      <description><![CDATA[Initiative 638 passed decisively among Washington voters, but the Seattle Times' coverage of trans women in sports drew sharp criticism for its claims.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Christian McCaffrey recalls 'whirlwind' ordeal of shocking trade that sent him from Panthers to 49ers</title>
-      <link>https://www.foxnews.com/outkick-sports/christian-mccaffrey-recalls-whirlwind-ordeal-shocking-trade-panthers-49ers</link>
-      <guid isPermaLink="false">e887af5d8b667f6ef67db1a7442bc6a1748ba300</guid>
-      <pubDate>Tue, 10 Nov 2026 16:39:06 GMT</pubDate>
-      <description><![CDATA[Christian McCaffrey recalls the shocking Thursday night call that sent him from the Carolina Panthers to the San Francisco 49ers four years ago.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Cornyn meets with Sen-elect Talarico, describes him as 'basically ... a good person'</title>
-      <link>https://www.foxnews.com/politics/cornyn-meets-sen-elect-talarico-describes-him-basically-good-person</link>
-      <guid isPermaLink="false">a833cae5413992907ccc6a8fc072fe6429219860</guid>
-      <pubDate>Tue, 10 Nov 2026 16:37:49 GMT</pubDate>
-      <description><![CDATA[Sen. John Cornyn meets with Sen.-elect James Talarico in Texas and D.C. after the Democrat's massive win against Texas Attorney General Ken Paxton in a U.S. Senate contest.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Vikings player's son whips off his old man's jersey to take a picture with Bills QB Josh Allen</title>
-      <link>https://www.foxnews.com/outkick-sports/vikings-players-son-whips-off-old-mans-jersey-picture-bills-qb-josh-allen</link>
-      <guid isPermaLink="false">00868ddc104d01b271644fa1d1a088f27f37ecba</guid>
-      <pubDate>Tue, 10 Nov 2026 16:35:45 GMT</pubDate>
-      <description><![CDATA[Josh Allen posed with a Vikings long snapper's son after the Bills' 23-6 win in Minneapolis, but the kid's premeditated wardrobe swap stole the show.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Arrests made in Mohamed Al Fayed probe in France, police say</title>
-      <link>https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6659fbe2890f57cb94002fcb5f2f0b5ee46acd4e</guid>
-      <pubDate>Tue, 10 Nov 2026 16:19:48 GMT</pubDate>
-      <description><![CDATA[The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Stunning satellite images reveal Colorado lake dramatically shrinking amid severe drought</title>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">1436aefb7213a12aff55deb975a3102dcebb078c</guid>
       <pubDate>Sun, 08 Nov 2026 13:14:04 GMT</pubDate>
       <description><![CDATA[A significant change to the nation's weather is taking shape late this week, with colder air expected to spill into the eastern United States with warmer weather building across the West.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Pena becomes first November tropical storm to form in Central Pacific since 1982 amid intensifying El Niño</title>
-      <link>https://www.foxweather.com/weather-news/late-season-tropical-storm-pena-pacific-super-el-nino</link>
-      <guid isPermaLink="false">95b53064549676bcba39696704300e29d4ad19d1</guid>
-      <pubDate>Sat, 07 Nov 2026 18:17:38 GMT</pubDate>
-      <description><![CDATA[Tropical Storm Pena became the first November tropical storm to form in the Central Pacific since 1982, which was a Super El Niño year. NOAA expects Super El Niño conditions to take hold later this fall or winter.]]></description>
       <category>weather</category>
     </item>
   </channel>
