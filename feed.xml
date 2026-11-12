@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:01:52 GMT</lastBuildDate>
+    <item>
+      <title>Cold health alerts begin as surge of Arctic air sees temperatures plummet</title>
+      <link>https://www.bbc.co.uk/weather/articles/cmy49yd4z0jko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6c319d6d138226f664b38ce12b1c88e9d10c9fee</guid>
+      <pubDate>Thu, 12 Nov 2026 09:01:52 GMT</pubDate>
+      <description><![CDATA[Colder than average conditions are spreading across the UK with overnight temperatures set to drop to -7C but the chilly snap may not last too long.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Is your city on the list? Developing nor'easter could usher in first significant snow for the Northeast</title>
       <link>https://www.foxweather.com/weather-news/states-first-significant-snow-season-noreaster</link>
@@ -23,26 +31,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Veterans Day - Mostly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 12 Nov 2026 01:50:24 GMT</pubDate>
-      <description><![CDATA[36°F. Wind N 5 mph. Mostly cloudy, with a high near 36. North wind around 5 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Tonight - Freezing Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 12 Nov 2026 01:50:24 GMT</pubDate>
-      <description><![CDATA[31°F. Wind N 5 to 15 mph. Freezing rain likely between 9pm and 3am. Mostly cloudy, with a low around 31. North wind 5 to 15 mph. Chance of precipitation is 60%. Little or no ice accumulation expected.]]></description>
+      <pubDate>Thu, 12 Nov 2026 09:09:15 GMT</pubDate>
+      <description><![CDATA[31°F. Wind N 5 to 15 mph. Freezing rain likely before 3am. Cloudy, with a low around 31. North wind 5 to 15 mph. Chance of precipitation is 60%. Little or no ice accumulation expected.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Thursday - Slight Chance Freezing Rain then Isolated Rain Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 12 Nov 2026 01:50:24 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 09:09:15 GMT</pubDate>
       <description><![CDATA[37°F. Wind S 0 to 5 mph. A slight chance of freezing rain between 9am and noon, then isolated rain showers between noon and 3pm. Mostly cloudy, with a high near 37. South wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
@@ -50,7 +50,7 @@
       <title>Anchorage Weather: Thursday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 12 Nov 2026 01:50:24 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 09:09:15 GMT</pubDate>
       <description><![CDATA[25°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 25. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,9 +58,25 @@
       <title>Anchorage Weather: Friday - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 12 Nov 2026 01:50:24 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 09:09:15 GMT</pubDate>
       <description><![CDATA[32°F. Wind N 5 mph. Mostly cloudy, with a high near 32. North wind around 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Friday Night - Mostly Cloudy</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Thu, 12 Nov 2026 09:09:15 GMT</pubDate>
+      <description><![CDATA[19°F. Wind N 5 mph. Mostly cloudy, with a low around 19. North wind around 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Judge dismisses petition by Peltola campaign seeking names of rejected absentee voters</title>
+      <link>https://alaskabeacon.com/2026/11/11/judge-dismisses-petition-by-peltola-campaign-seeking-names-of-rejected-absentee-voters/</link>
+      <guid isPermaLink="false">0b3c80ae88cb4722bfa7b63718a9d70567409dd2</guid>
+      <pubDate>Thu, 12 Nov 2026 04:23:25 GMT</pubDate>
+      <description><![CDATA[The Alaska Division of Elections does not have to produce a report of rejected absentee voters in the midterm elections, a state court ruled Wednesday afternoon on a lawsuit filed by the campaign of Democratic U.S. Senate candidate Mary Peltola. The lawsuit was filed by the campaign group Alaskans for Mary against the division on […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Election denialism losing steam as Trump flip flops on accepting midterm results</title>
@@ -303,116 +319,156 @@
       <category>local</category>
     </item>
     <item>
-      <title>Feds award $10B to states in second year of rural health grants</title>
-      <link>https://alaskabeacon.com/2026/11/09/repub/feds-award-10b-to-states-in-second-year-of-rural-health-grants/</link>
-      <guid isPermaLink="false">01481aa0fc4bf9a0f0ac5f52e166c56b6c0e12bc</guid>
-      <pubDate>Mon, 09 Nov 2026 22:31:46 GMT</pubDate>
-      <description><![CDATA[Federal officials on Monday announced $10 billion in awards across all 50 states in the second year of the Rural Health Transformation Fund, grants created by Congress to bolster rural health in response to concerns about Medicaid cuts. Texas received the largest grant for the 2027 fiscal year — almost $282 million — followed by […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Bengals coach Zac Taylor acknowledges fault in failed trade for Eagles edge rusher Arnold Ebiketie</title>
-      <link>https://www.foxnews.com/outkick-sports/bengals-coach-zac-taylor-acknowledges-fault-failed-trade-eagles-edge-rusher-arnold-ebiketie</link>
-      <guid isPermaLink="false">08872d2b601ecd5987cc0550ea8525612b652507</guid>
-      <pubDate>Thu, 12 Nov 2026 01:35:30 GMT</pubDate>
-      <description><![CDATA[Zac Taylor revealed Duke Tobin's apology after a 2027 compensatory pick forfeiture derailed the Arnold Ebiketie trade with the Eagles at the deadline.]]></description>
+      <title>Israeli strike on Gaza hospital kills six Palestinians, health ministry says</title>
+      <link>https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b8bb9c4cdad0231b3071da251c6d834c9adea24a</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:15 GMT</pubDate>
+      <description><![CDATA[Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>New York building collapse kills one person and injures 12</title>
-      <link>https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0de3b4c908f24d5adeea3840e2e6710fcc7199c4</guid>
-      <pubDate>Thu, 12 Nov 2026 01:34:58 GMT</pubDate>
-      <description><![CDATA[Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.]]></description>
+      <title>Some under-25s should get fewer benefits, Milburn review to say</title>
+      <link>https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">613a8d9845f60bfa779276ce6ee06025c2772037</guid>
+      <pubDate>Thu, 12 Nov 2026 08:59:08 GMT</pubDate>
+      <description><![CDATA[The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>El-Sayed tells Hegseth to resign after impeachment effort fails, 'make it easy for everybody'</title>
-      <link>https://www.foxnews.com/media/el-sayed-tells-hegseth-resign-after-democrats-derail-impeachment-effort-make-easy-everybody</link>
-      <guid isPermaLink="false">187fb712b7b994d969e6762009c613ac37bae2b7</guid>
-      <pubDate>Thu, 12 Nov 2026 01:17:26 GMT</pubDate>
-      <description><![CDATA[Abdul El-Sayed told Secretary of War Pete Hegseth directly to resign on CNN, calling him "really bad" at his job and saying he has mishandled the war in Iran.]]></description>
+      <title>Indonesia's vice-president resigns amid signs ruling alliance is fraying</title>
+      <link>https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f20ccf018a740af05477d845e2209437deb0a66b</guid>
+      <pubDate>Thu, 12 Nov 2026 08:46:57 GMT</pubDate>
+      <description><![CDATA[The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Former Giants coach defends star player Malik Nabers against character questions from broadcast analyst</title>
-      <link>https://www.foxnews.com/outkick-sports/former-giants-coach-defends-malik-nabers-against-character-questions-broadcast-analyst</link>
-      <guid isPermaLink="false">2715d19955a09e5ab4334fe5017bb7439b07d415</guid>
-      <pubDate>Thu, 12 Nov 2026 01:10:00 GMT</pubDate>
-      <description><![CDATA[Wink Martindale says someone may have put criticism in Greg Olsen's ear about Malik Nabers, suggesting motives tied to the Giants star's contract.]]></description>
+      <title>Ukraine's power supply close to critical as Russian strikes bring darkness and cold</title>
+      <link>https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6a0680b3fc1b96b10824aaf70557fcf4f659c6ea</guid>
+      <pubDate>Thu, 12 Nov 2026 07:59:33 GMT</pubDate>
+      <description><![CDATA[For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops</title>
-      <link>https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops</link>
-      <guid isPermaLink="false">eb064e582df175b0617a17d61de4e579cc2636f7</guid>
-      <pubDate>Thu, 12 Nov 2026 01:04:45 GMT</pubDate>
-      <description><![CDATA[Helicopters struck Haiti gang compound, dozens fled and President Bukele touted the assault amid a search for four missing Salvadoran personnel.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Illegal immigrant arrested after dragging, striking ICE officer in Chicago suburb: DHS</title>
-      <link>https://www.foxnews.com/us/illegal-immigrant-arrested-after-dragging-striking-ice-officer-chicago-suburb-dhs</link>
-      <guid isPermaLink="false">c7a3dadaafdc940fc1aac8acdf19e79990ea689d</guid>
-      <pubDate>Thu, 12 Nov 2026 01:01:27 GMT</pubDate>
-      <description><![CDATA[Jose Garnica-Naranjo, a Mexican citizen, allegedly dragged an ICE officer through a car window during a traffic stop in Chicago Heights, DHS said.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Jamie Foxx’s daughter’s 18th birthday bash erupts in violence as deputies make arrests</title>
-      <link>https://www.foxnews.com/entertainment/jamie-foxx-daughter-18th-birthday-bash-erupts-violence-deputies-make-arrests</link>
-      <guid isPermaLink="false">fa45f1f0005c055052642fe7c38a5729e7513143</guid>
-      <pubDate>Thu, 12 Nov 2026 01:00:26 GMT</pubDate>
-      <description><![CDATA[Video footage shows violent fights erupting at SKVLK Fest, the annual Halloween music festival held at Jamie Foxx's California mansion. It doubled as his daughter's birthday party.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Democrat Scott Colom seals historic win in Mississippi Senate race</title>
-      <link>https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e4a5945bc19cd4a58cc53079ba024a5fb47a7349</guid>
-      <pubDate>Thu, 12 Nov 2026 01:00:04 GMT</pubDate>
-      <description><![CDATA[Colom is the first black person from the southern state elected to the US Senate in over 140 years.]]></description>
+      <title>GOP senator says Republicans can 'forget 2028' as party looks to reclaim Upper Chamber</title>
+      <link>https://www.foxnews.com/politics/gop-senator-says-republicans-forget-2028-party-looks-reclaim-upper-chamber</link>
+      <guid isPermaLink="false">31e797d1b497df2a0fc8b755c4ec29d8a09581e0</guid>
+      <pubDate>Thu, 12 Nov 2026 07:46:37 GMT</pubDate>
+      <description><![CDATA[Sen. Jim Justice said the GOP can "forget" reclaiming the Senate in 2028 after Democrats flipped at least eight seats in their historic blue wave midterm.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Jeffries leaves door open to investigating major Trump ally as Democrats prepare to take power</title>
-      <link>https://www.foxnews.com/politics/jeffries-leaves-door-open-investigating-major-trump-ally-democrats-prepare-take-power</link>
-      <guid isPermaLink="false">2e3ad9977a489e965732ab47c4e6653eb95a9fed</guid>
-      <pubDate>Thu, 12 Nov 2026 01:00:00 GMT</pubDate>
-      <description><![CDATA[Hakeem Jeffries says Democrats will "follow the facts" as Jamie Raskin and Robert Garcia prepare to lead oversight of Elon Musk and DOGE.]]></description>
+      <title>Ugandan police investigate deaths of four pupils in suspected school poisoning</title>
+      <link>https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6b361174c90506db6c5d1635edaa7d937f49db33</guid>
+      <pubDate>Thu, 12 Nov 2026 07:45:52 GMT</pubDate>
+      <description><![CDATA[The head teacher of the school has been arrested to assist police investigations.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Nature and civilization collide once again as lost black bear sprints across South Florida street</title>
-      <link>https://www.foxnews.com/outkick-sports/nature-civilization-collide-lost-black-bear-sprints-across-south-florida-street</link>
-      <guid isPermaLink="false">a3280503261af1bf6301d95eb1fb761d30c95f7e</guid>
-      <pubDate>Thu, 12 Nov 2026 00:53:27 GMT</pubDate>
-      <description><![CDATA[Video captures a Florida black bear darting across a busy Naples road near I-75 as South Florida Everglades development pushes wildlife out.]]></description>
+      <title>New York building collapse kills at least two, officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">33604caf57a6e5afd52ec6b9e44a3b988167ddce</guid>
+      <pubDate>Thu, 12 Nov 2026 05:12:56 GMT</pubDate>
+      <description><![CDATA[A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Poundland set for more time to secure a rescue deal as emergency talks continue</title>
-      <link>https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e6d5fed90ea7cc74ae4b84cf111758514489581e</guid>
-      <pubDate>Thu, 12 Nov 2026 00:49:05 GMT</pubDate>
-      <description><![CDATA[The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.]]></description>
+      <title>Media industry could be forced to improve safeguards after Walliams allegations</title>
+      <link>https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0111ad1778f5cc49f4595ad9779a1f9ff0eb19a3</guid>
+      <pubDate>Thu, 12 Nov 2026 04:01:50 GMT</pubDate>
+      <description><![CDATA[Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Team USA withdraws from FIFA U-17 World Cup amid State Department travel warning in Middle East</title>
-      <link>https://www.foxnews.com/outkick-sports/team-usa-withdraws-fifa-u-17-world-cup-state-department-travel-warning-middle-east</link>
-      <guid isPermaLink="false">47ab7a8f9a7c32bb46a905bcf5fadf7ea6fd9344</guid>
-      <pubDate>Thu, 12 Nov 2026 00:45:22 GMT</pubDate>
-      <description><![CDATA[U.S. Soccer pulled its U-17 men's team from the FIFA World Cup in Qatar, citing a State Department Level 3 travel advisory over armed conflict risks.]]></description>
+      <title>Jim Jordan vows to push GOP agenda while party still holds majority, warns of Dem lawfare</title>
+      <link>https://www.foxnews.com/media/jim-jordan-vows-push-gop-agenda-party-holds-majority-warns-dem-lawfare</link>
+      <guid isPermaLink="false">a4f03d58355d6488239dc63e25452830ba06f4e9</guid>
+      <pubDate>Thu, 12 Nov 2026 03:52:33 GMT</pubDate>
+      <description><![CDATA[Incoming House Minority Leader Rep. Jim Jordan vows to maximize the GOP's lame-duck legislative agenda before Democrats take congressional control.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Struggling Colts QB Daniel Jones admits he's 'not happy' watching Indy's front office strip away teammates</title>
+      <link>https://www.foxnews.com/outkick-sports/struggling-colts-qb-daniel-jones-admits-not-happy-watching-indy-front-office-strip-away-teammates</link>
+      <guid isPermaLink="false">d9af70c47678c5c119a5344ade2aa2a68d9f55f6</guid>
+      <pubDate>Thu, 12 Nov 2026 03:44:00 GMT</pubDate>
+      <description><![CDATA[Daniel Jones admitted he's frustrated after the Colts dealt Quenton Nelson, DeForest Buckner, Keenan Allen, and Josh Downs in a two-week sell-off.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>War of words between Michigan Wolverines-Oregon Ducks heats up as Dan Lanning responds to criticisms</title>
+      <link>https://www.foxnews.com/outkick-sports/war-words-michigan-wolverines-oregon-ducks-heats-dan-lanning-responds-criticisms</link>
+      <guid isPermaLink="false">84bd1290650347d5d539d6051969a80031039b3c</guid>
+      <pubDate>Thu, 12 Nov 2026 03:33:35 GMT</pubDate>
+      <description><![CDATA[Kyle Whittingham took aim at Oregon's $50M+ NIL spending, and Dan Lanning fired back with a pointed jab at Michigan's costly coaching buyouts.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>World's fastest ocean liner is sunk to break another record: largest artificial reef</title>
+      <link>https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking</link>
+      <guid isPermaLink="false">b85161856f56530014a271e0a95975a9b6e759f1</guid>
+      <pubDate>Thu, 12 Nov 2026 03:10:32 GMT</pubDate>
+      <description><![CDATA[The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Brewers' Jacob Misiorowski, Yankees' Cam Schlittler named unanimous Cy Young Award winners for 2026 MLB season</title>
+      <link>https://www.foxnews.com/outkick-sports/brewers-jacob-misiorowski-yankees-cam-schlittler-named-unanimous-cy-young-award-winners-2026-mlb-season</link>
+      <guid isPermaLink="false">38e33549fb7ed585f20bfe82f7c49b0e7df6e38a</guid>
+      <pubDate>Thu, 12 Nov 2026 02:41:46 GMT</pubDate>
+      <description><![CDATA[Jacob Misiorowski was the first Cy Young Award and World Series winner in the same season since Randy Johnson, while Cam Schlittler's first full season resulted in the award.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Australian teen missing in bush for six days rescued alive</title>
+      <link>https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">06aaf836ff3dafffd5e359a68f4c9227c7e0e31e</guid>
+      <pubDate>Thu, 12 Nov 2026 02:40:18 GMT</pubDate>
+      <description><![CDATA[The 17-year-old's mum has joked that he is "grounded for life" and "never leaving the house again".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Survivor pulled from rubble of deadly building collapse in New York</title>
+      <link>https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0de3b4c908f24d5adeea3840e2e6710fcc7199c4</guid>
+      <pubDate>Thu, 12 Nov 2026 02:33:12 GMT</pubDate>
+      <description><![CDATA[Two people are dead and several others injured as rescuers scour the debris in Brooklyn.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Titans' Calvin Ridley gives his side of Nashville airport 'incident' with valet, awaits possible charges</title>
+      <link>https://www.foxnews.com/outkick-sports/titans-calvin-ridley-nashville-airport-incident-valet-awaits-possible-charges</link>
+      <guid isPermaLink="false">13460ece32ea35c8fbb81d19be77f2c3c22faa40</guid>
+      <pubDate>Thu, 12 Nov 2026 02:21:37 GMT</pubDate>
+      <description><![CDATA[Calvin Ridley said he took his keys from a Nashville airport valet's hand during a late-night dispute over a missing ticket, and the valet claimed a broken finger.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Blue states elect Democrats who supported permanent cash handout policy as part of mayors coalition</title>
+      <link>https://www.foxnews.com/media/blue-states-elect-democrats-who-supported-permanent-cash-handout-policy-part-mayors-coalition</link>
+      <guid isPermaLink="false">e1dda8c910903231d85da031ba3fced8ecfd5427</guid>
+      <pubDate>Thu, 12 Nov 2026 02:06:20 GMT</pubDate>
+      <description><![CDATA[Five former Mayors for a Guaranteed Income coalition members won higher office, raising questions about direct cash assistance becoming permanent policy.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Suspected DUI driver arrested on 3 murder counts after deadly North Hollywood crash, police say</title>
+      <link>https://www.foxnews.com/us/suspected-dui-driver-arrested-3-murder-counts-after-deadly-north-hollywood-crash-police-say</link>
+      <guid isPermaLink="false">5e77756f381f29407d197692445fb8341db108a7</guid>
+      <pubDate>Thu, 12 Nov 2026 02:05:04 GMT</pubDate>
+      <description><![CDATA[A suspected 61-year-old DUI driver was arrested on three murder counts after a North Hollywood crash killed three women and injured two others.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Twice-deported United cockpit suspect granted asylum after transgender persecution claim: DHS</title>
+      <link>https://www.foxnews.com/politics/twice-deported-united-cockpit-suspect-granted-asylum-transgender-persecution-claim-dhs</link>
+      <guid isPermaLink="false">755f1d47bfd2f454464214b59022861979971a5d</guid>
+      <pubDate>Thu, 12 Nov 2026 02:03:56 GMT</pubDate>
+      <description><![CDATA[DHS says a twice-deported Honduran national won asylum claiming transgender persecution before allegedly trying to storm a United Airlines cockpit.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Hakeem Jeffries faces progressive holdouts but no rival as House speaker race takes shape</title>
-      <link>https://www.foxnews.com/politics/hakeem-jeffries-faces-progressive-holdouts-no-rival-house-speaker-race-takes-shape</link>
-      <guid isPermaLink="false">059e6596f46b0046c73401efd3858a8a83a5de7d</guid>
-      <pubDate>Thu, 12 Nov 2026 00:43:35 GMT</pubDate>
-      <description><![CDATA[New members of Congress in "The Bloc" say they're undecided on Hakeem Jeffries for House speaker, pressing for legislative guarantees before January.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Powerful storms to unleash torrential rain and dangerous, potentially deadly waves across Pacific Northwest</title>
@@ -423,68 +479,12 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Significant drop in levels of toxic 'forever' chemicals in England's rivers</title>
-      <link>https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9255dcf646c322bd62120b31732131af9fab2647</guid>
-      <pubDate>Thu, 12 Nov 2026 00:12:59 GMT</pubDate>
-      <description><![CDATA[The decline has been put down to severe restrictions placed on the substances' use.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Are max strength cold and flu pills worth the money?</title>
-      <link>https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">aecee119a2d8ffccc99f927e3b943ef9450ff458</guid>
-      <pubDate>Thu, 12 Nov 2026 00:12:28 GMT</pubDate>
-      <description><![CDATA[Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Democrat Scott Colom wins the closest Senate race in the country</title>
-      <link>https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country</link>
-      <guid isPermaLink="false">9e0024c86ed3afa2efa0bfff75630b40de0057da</guid>
-      <pubDate>Wed, 11 Nov 2026 23:33:59 GMT</pubDate>
-      <description><![CDATA[Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Some under-25s should get less benefits, Milburn review to say</title>
-      <link>https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">613a8d9845f60bfa779276ce6ee06025c2772037</guid>
-      <pubDate>Wed, 11 Nov 2026 23:22:04 GMT</pubDate>
-      <description><![CDATA[The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Coldest air of season targets over 200 million across 30 states as major cities face first freeze</title>
       <link>https://www.foxweather.com/weather-news/cold-first-freeze-us-states-major-cities-30-states</link>
       <guid isPermaLink="false">acc79df54dcc78f21650ecc61bca498ba0b8b4ea</guid>
       <pubDate>Wed, 11 Nov 2026 23:09:57 GMT</pubDate>
       <description><![CDATA[More than 30 states across the Lower 48 are forecast to see their coldest temperatures of the fall so far heading into the weekend, with the first frost looming for many major cities.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Democrat Scott Colom wins Mississippi Senate race</title>
-      <link>https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom</link>
-      <guid isPermaLink="false">3474c4ca1e8dab6ad937c265fecd85199af8be0b</guid>
-      <pubDate>Wed, 11 Nov 2026 23:04:51 GMT</pubDate>
-      <description><![CDATA[Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Clashes erupt in Barcelona after thousands join Spain general strike</title>
-      <link>https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">23565797d1ba8e8e5f4563b347d2313a702e8a1c</guid>
-      <pubDate>Wed, 11 Nov 2026 22:07:37 GMT</pubDate>
-      <description><![CDATA[Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier</title>
-      <link>https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8e7b36ee326d285cdbc1d10101a6a1affdd04cfe</guid>
-      <pubDate>Wed, 11 Nov 2026 21:43:35 GMT</pubDate>
-      <description><![CDATA[Following a wreath-laying ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at by a US Army sentinel to be quiet.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Where in the US will it rain this weekend as storms sweep across the country</title>
