@@ -5,15 +5,7 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:01:52 GMT</lastBuildDate>
-    <item>
-      <title>Cold health alerts begin as surge of Arctic air sees temperatures plummet</title>
-      <link>https://www.bbc.co.uk/weather/articles/cmy49yd4z0jko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6c319d6d138226f664b38ce12b1c88e9d10c9fee</guid>
-      <pubDate>Thu, 12 Nov 2026 09:01:52 GMT</pubDate>
-      <description><![CDATA[Colder than average conditions are spreading across the UK with overnight temperatures set to drop to -7C but the chilly snap may not last too long.]]></description>
-      <category>breaking</category>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 16:51:11 GMT</lastBuildDate>
     <item>
       <title>Is your city on the list? Developing nor'easter could usher in first significant snow for the Northeast</title>
       <link>https://www.foxweather.com/weather-news/states-first-significant-snow-season-noreaster</link>
@@ -31,34 +23,26 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight - Freezing Rain Likely</title>
+      <title>Anchorage Weather: Today - Chance Light Snow then Chance Rain And Snow Showers</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 12 Nov 2026 09:09:15 GMT</pubDate>
-      <description><![CDATA[31°F. Wind N 5 to 15 mph. Freezing rain likely before 3am. Cloudy, with a low around 31. North wind 5 to 15 mph. Chance of precipitation is 60%. Little or no ice accumulation expected.]]></description>
+      <pubDate>Thu, 12 Nov 2026 17:52:05 GMT</pubDate>
+      <description><![CDATA[37°F. Wind SE 0 to 5 mph. A slight chance of freezing rain before 9am, then a chance of snow and a chance of freezing rain and a slight chance of sleet between 9am and noon, then a chance of rain and snow showers. Partly sunny, with a high near 37. Southeast wind 0 to 5 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Thursday - Slight Chance Freezing Rain then Isolated Rain Showers</title>
+      <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 12 Nov 2026 09:09:15 GMT</pubDate>
-      <description><![CDATA[37°F. Wind S 0 to 5 mph. A slight chance of freezing rain between 9am and noon, then isolated rain showers between noon and 3pm. Mostly cloudy, with a high near 37. South wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Thursday Night - Mostly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 12 Nov 2026 09:09:15 GMT</pubDate>
-      <description><![CDATA[25°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 25. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Thu, 12 Nov 2026 17:52:05 GMT</pubDate>
+      <description><![CDATA[25°F. Wind NE 5 mph. Mostly cloudy, with a low around 25. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 12 Nov 2026 09:09:15 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 17:52:05 GMT</pubDate>
       <description><![CDATA[32°F. Wind N 5 mph. Mostly cloudy, with a high near 32. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -66,9 +50,81 @@
       <title>Anchorage Weather: Friday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 12 Nov 2026 09:09:15 GMT</pubDate>
-      <description><![CDATA[19°F. Wind N 5 mph. Mostly cloudy, with a low around 19. North wind around 5 mph.]]></description>
+      <pubDate>Thu, 12 Nov 2026 17:52:05 GMT</pubDate>
+      <description><![CDATA[19°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 19. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Saturday - Mostly Cloudy then Slight Chance Light Snow</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Thu, 12 Nov 2026 17:52:05 GMT</pubDate>
+      <description><![CDATA[30°F. Wind N 5 to 10 mph. A slight chance of snow after 3pm. Mostly cloudy, with a high near 30. North wind 5 to 10 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Alaska education funding task force seeks input on plans to boost schools</title>
+      <link>https://alaskabeacon.com/2026/11/12/alaska-education-funding-task-force-seeks-input-on-plans-to-boost-schools/</link>
+      <guid isPermaLink="false">b713a58d69aa4c6b85f0f3e47de26c0b8eaf4492</guid>
+      <pubDate>Thu, 12 Nov 2026 15:00:26 GMT</pubDate>
+      <description><![CDATA[After a nearly 18-month investigation, a joint legislative task force on education funding seeks not only to boost state spending on schools but to change the way Alaska allocates funding to support its troubled K-12 education system. Among the key recommendations in the draft report released Monday is the finding that annual education spending should […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Herb-roasted chicken fits with a smaller Thanksgiving feast</title>
+      <link>https://www.homernews.com/2026/11/12/herb-roasted-chicken-fits-with-a-smaller-thanksgiving-feast/</link>
+      <guid isPermaLink="false">01fdd76075b453b7f66e30f7a61d46c49199e8eb</guid>
+      <pubDate>Thu, 12 Nov 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[A turkey meal can be too much for smaller family gatherings]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Same nickname, two very different men — Part 3</title>
+      <link>https://www.homernews.com/2026/11/12/same-nickname-two-very-different-men-part-3/</link>
+      <guid isPermaLink="false">38336dcb73db5b907f9a77e49e269fe9e152062b</guid>
+      <pubDate>Thu, 12 Nov 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[AUTHOR’S NOTE: Two men with the moniker “Beluga Joe” plied the waters of Cook Inlet in the 1900s. Both Joseph Magill and Joseph Schneller became associated with the Beluga River on the inlet’s west side, and both were noted for commercial fishing. Most of the similarities end there.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Letters to the editor</title>
+      <link>https://www.homernews.com/2026/11/12/letters-to-the-editor-439/</link>
+      <guid isPermaLink="false">cb0e530321087764ffeeae12379dead910f3f965</guid>
+      <pubDate>Thu, 12 Nov 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Trivia builds support for seniors]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Kenai Peninsula housing gaps bring providers to same table</title>
+      <link>https://www.homernews.com/2026/11/12/kenai-peninsula-housing-gaps-bring-providers-to-same-table/</link>
+      <guid isPermaLink="false">e231005aa6f2d563f9f9fcd47ceecd65ef808b19</guid>
+      <pubDate>Thu, 12 Nov 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Forum examines obstacles facing renters, seniors and people without homes]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer Pet of the Week: Ninety-Nine</title>
+      <link>https://www.homernews.com/2026/11/12/homer-pet-of-the-week-ninety-nine/</link>
+      <guid isPermaLink="false">dcfe313e1c27eb871ed4d473a335200fe8fc85b8</guid>
+      <pubDate>Thu, 12 Nov 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Super friendly pup loves other dogs]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Rie Muñoz Gallery in Juneau to close after nearly 50 years</title>
+      <link>https://www.juneauempire.com/2026/11/12/rie-muoz-gallery-in-juneau-to-close-after-nearly-50-years/</link>
+      <guid isPermaLink="false">99f5c94353695db77b4c2b4aa3ab29407550918c</guid>
+      <pubDate>Thu, 12 Nov 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Muñoz’s artwork will still be available online and through Annie Kaill’s Gallery]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer High revises attendance rules as Aurora looks to grow</title>
+      <link>https://www.homernews.com/2026/11/12/homer-high-revises-attendance-rules-as-aurora-looks-to-grow/</link>
+      <guid isPermaLink="false">74851cd70232ffa484cd5cb1d1e3a662cb0c06f8</guid>
+      <pubDate>Thu, 12 Nov 2026 10:30:00 GMT</pubDate>
+      <description><![CDATA[Parents seek timelines for future school changes at Nov. 2 board meeting]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Judge dismisses petition by Peltola campaign seeking names of rejected absentee voters</title>
@@ -247,227 +303,171 @@
       <category>local</category>
     </item>
     <item>
-      <title>Winter is coming. Can Democrats succeed in chilling soaring energy prices?</title>
-      <link>https://alaskabeacon.com/2026/11/10/repub/winter-is-coming-can-democrats-succeed-in-chilling-soaring-energy-prices/</link>
-      <guid isPermaLink="false">d79cd2d40950c3167e327b2dd3320486ba41ac4c</guid>
-      <pubDate>Tue, 10 Nov 2026 19:34:29 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — Democrats during the midterm election campaign promised bold steps to make life more affordable if voters elected them to control Congress next year.  They won, in a historic blue wave that’s already given them comfortable majorities in both the House and Senate. But Democrats likely will find that bringing down gasoline and other energy […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Opinion: The Education Task Force is positioning itself to bring homeschool curriculum under its authority</title>
-      <link>https://mustreadalaska.com/opinion-the-education-task-force-is-positioning-itself-to-bring-homeschool-curriculum-under-its-authority/</link>
-      <guid isPermaLink="false">010f97ba23864b334fe452f191bda9d9d7e87c2e</guid>
-      <pubDate>Tue, 10 Nov 2026 19:03:07 GMT</pubDate>
-      <description><![CDATA[On Monday, the Legislature’s Joint Task Force on Education Funding released its recommendations, and most of them ask for more money for some of the worst-performing schools in the country. On page nine, though, the task force takes its first step toward regulating how Alaska families teach their own kids. The task force recommends “reviewing […] The post Opinion: The Education Task Force is positioning itself to bring homeschool curriculum under its authority appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska Supreme Court revives state’s opioid pharmacy lawsuit against Albertsons, Kroger</title>
-      <link>https://alaskabeacon.com/2026/11/10/alaska-supreme-court-revives-states-opioid-pharmacy-lawsuit-against-albertsons-kroger/</link>
-      <guid isPermaLink="false">0be433206cae698f0acffce003286d57f01d3178</guid>
-      <pubDate>Tue, 10 Nov 2026 14:55:21 GMT</pubDate>
-      <description><![CDATA[The Alaska Supreme Court on Friday overturned a two-year-old lower court decision that dismissed a state lawsuit against Albertsons and Kroger, the corporate parents of Safeway and Fred Meyer, for their role in the state’s prescription opioid addiction epidemic. Writing unanimously for the court, Justice Jude Pate wrote, “we hold that the pharmacies’ failure to […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>SouthEast Alaska Regional Health Consortium joins Mayo Clinic Care Network</title>
-      <link>https://www.juneauempire.com/2026/11/10/southeast-alaska-regional-health-consortium-joins-mayo-clinic-care-network/</link>
-      <guid isPermaLink="false">44d2f71be88ac88afd794390f02629fa74522d42</guid>
-      <pubDate>Tue, 10 Nov 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[SEARHC healthcare professionals will be able to consult directly with Mayo Clinic specialists]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Peltola extends lead over Sullivan in Alaska’s U.S. Senate race as ballot-counting continues</title>
-      <link>https://alaskabeacon.com/2026/11/09/peltola-extends-lead-over-sullivan-in-alaskas-u-s-senate-race-as-ballot-counting-continues/</link>
-      <guid isPermaLink="false">13d6dad66dac3939eaaa62985e25f34895f10f06</guid>
-      <pubDate>Tue, 10 Nov 2026 01:46:25 GMT</pubDate>
-      <description><![CDATA[Democratic U.S. Senate candidate Mary Peltola extended her lead over incumbent Republican U.S. Sen. Dan Sullivan in an updated vote total published Monday by the Alaska Division of Elections. While Peltola has had more first-choice votes since Election Day, preliminary calculations by the Alaska Beacon have shown Sullivan leading when the results of the state’s […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska withdraws plan to privatize state employees’ payroll system</title>
-      <link>https://alaskabeacon.com/2026/11/09/alaska-withdraws-plan-to-privatize-state-employees-payroll-system/</link>
-      <guid isPermaLink="false">a0a8865e398086396878a21d69f7afb9d3d1ef5c</guid>
-      <pubDate>Tue, 10 Nov 2026 01:42:59 GMT</pubDate>
-      <description><![CDATA[The Alaska Department of Administration has canceled a request for proposals that could have led to the privatization of the state’s payroll system for 14,000 public employees. In an Oct. 29 memo, DOA Commissioner Paula Vrana wrote, “The procurement process has now concluded and the State has cancelled the RFP. Instead of pursuing a contract […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Newscast – Monday, Nov. 9, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17521238/newscast-monday-nov-9-2026</link>
-      <guid isPermaLink="false">de1c738fe9c634fa519d0dd41caee28edf4e13dc</guid>
-      <pubDate>Tue, 10 Nov 2026 01:34:33 GMT</pubDate>
-      <description><![CDATA[Warming waters cause salmon born in Juneau's Auke Creek to shift when they return home; Snowsports enthusiasts at Juneau's annual ski swap say they're undaunted by dismal El Niño snow predictions; Juneau's Zach Gordon Youth Center celebrated its 80th birthday with alumna Seikoonie Fran Houston; Alaska Tribal communities had high voter turnouts in the midterm election, and ballots are still being counted]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Alaska voters on track to reject 2 Kenai judges in initial election results</title>
-      <link>https://www.homernews.com/2026/11/09/alaska-voters-on-track-to-reject-2-kenai-judges-in-initial-election-results/</link>
-      <guid isPermaLink="false">808070539f7aaaba5743bf8c03103f82c82ae1ac</guid>
-      <pubDate>Mon, 09 Nov 2026 23:30:00 GMT</pubDate>
-      <description><![CDATA[Kenai Superior Court Judge Kelly Lawson and District Court Judge Martin Fallon standing for retention]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>University of Alaska reports $86.2M in frozen federal grants restored</title>
-      <link>https://alaskabeacon.com/2026/11/09/university-of-alaska-reports-86-2m-in-frozen-federal-grants-restored/</link>
-      <guid isPermaLink="false">753c1ae6e1c057f74f23f3dadfa0f5881c4ea79e</guid>
-      <pubDate>Mon, 09 Nov 2026 23:21:34 GMT</pubDate>
-      <description><![CDATA[Officials with the University of Alaska report more than $86 million in federal grants that were frozen or delayed by the Trump administration have been restored. The update was provided to the University of Alaska Board of Regents at their quarterly board meeting on Friday by Shelby Beck, assistant director of federal relations for the […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Israeli strike on Gaza hospital kills six Palestinians, health ministry says</title>
-      <link>https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b8bb9c4cdad0231b3071da251c6d834c9adea24a</guid>
-      <pubDate>Thu, 12 Nov 2026 09:00:15 GMT</pubDate>
-      <description><![CDATA[Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.]]></description>
+      <title>Howard Lutnick is next Trump official top Dems want on the chopping block amid NVIDIA scandal</title>
+      <link>https://www.foxnews.com/politics/howard-lutnick-next-trump-official-dems-want-chopping-block-amid-nvidia-scandal</link>
+      <guid isPermaLink="false">4f02bbbecb8b7a95df547a64e180123c37eb52be</guid>
+      <pubDate>Thu, 12 Nov 2026 17:38:40 GMT</pubDate>
+      <description><![CDATA[Top House Democrats are calling for an investigation into Howard Lutnick over his alleged role in the NVIDIA Jensen Huang Chinese spy scandal.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Some under-25s should get fewer benefits, Milburn review to say</title>
-      <link>https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">613a8d9845f60bfa779276ce6ee06025c2772037</guid>
-      <pubDate>Thu, 12 Nov 2026 08:59:08 GMT</pubDate>
-      <description><![CDATA[The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.]]></description>
+      <title>Best hiking spots in Eugene, Oregon, ahead of the Ducks' showdown with the Michigan Wolverines</title>
+      <link>https://www.foxnews.com/outkick-sports/best-hiking-spots-eugene-oregon-ducks-showdown-michigan-wolverines</link>
+      <guid isPermaLink="false">a56623bca77f7ff704f4d5e8b035ab3c460e419d</guid>
+      <pubDate>Thu, 12 Nov 2026 17:37:39 GMT</pubDate>
+      <description><![CDATA[Spencer Butte, Mount Pigsah and Salt Creek Falls headline the best hikes near Autzen Stadium ahead of the Oregon Ducks' home college football weekend.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Indonesia's vice-president resigns amid signs ruling alliance is fraying</title>
-      <link>https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f20ccf018a740af05477d845e2209437deb0a66b</guid>
-      <pubDate>Thu, 12 Nov 2026 08:46:57 GMT</pubDate>
-      <description><![CDATA[The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ukraine's power supply close to critical as Russian strikes bring darkness and cold</title>
-      <link>https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6a0680b3fc1b96b10824aaf70557fcf4f659c6ea</guid>
-      <pubDate>Thu, 12 Nov 2026 07:59:33 GMT</pubDate>
-      <description><![CDATA[For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>GOP senator says Republicans can 'forget 2028' as party looks to reclaim Upper Chamber</title>
-      <link>https://www.foxnews.com/politics/gop-senator-says-republicans-forget-2028-party-looks-reclaim-upper-chamber</link>
-      <guid isPermaLink="false">31e797d1b497df2a0fc8b755c4ec29d8a09581e0</guid>
-      <pubDate>Thu, 12 Nov 2026 07:46:37 GMT</pubDate>
-      <description><![CDATA[Sen. Jim Justice said the GOP can "forget" reclaiming the Senate in 2028 after Democrats flipped at least eight seats in their historic blue wave midterm.]]></description>
+      <title>Trump opens door to immigration deal, but Republicans have one condition</title>
+      <link>https://www.foxnews.com/politics/trump-opens-door-immigration-deal-republicans-have-one-condition</link>
+      <guid isPermaLink="false">56059621fd7675277521620849ee473976d56cb2</guid>
+      <pubDate>Thu, 12 Nov 2026 17:35:28 GMT</pubDate>
+      <description><![CDATA[President Donald Trump floated a deal for long-term immigrants, but Senate Republicans drew a hard line, insisting amnesty is completely off the table.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Ugandan police investigate deaths of four pupils in suspected school poisoning</title>
-      <link>https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6b361174c90506db6c5d1635edaa7d937f49db33</guid>
-      <pubDate>Thu, 12 Nov 2026 07:45:52 GMT</pubDate>
-      <description><![CDATA[The head teacher of the school has been arrested to assist police investigations.]]></description>
+      <title>Daniel Jones, Jonathan Taylor react to Colts fire sale as they remain put: 'You're not happy to see it'</title>
+      <link>https://www.foxnews.com/outkick-sports/daniel-jones-jonathan-taylor-react-colts-fire-sale-remain-put-not-happy-see-it</link>
+      <guid isPermaLink="false">5d45b997d63b9a7287b07440ff6256600267bb36</guid>
+      <pubDate>Thu, 12 Nov 2026 17:32:28 GMT</pubDate>
+      <description><![CDATA[Jonathan Taylor reveals he said farewell to Indianapolis fans before the NFL trade deadline, but the Colts ultimately kept their star running back.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>New York building collapse kills at least two, officials say</title>
-      <link>https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">33604caf57a6e5afd52ec6b9e44a3b988167ddce</guid>
-      <pubDate>Thu, 12 Nov 2026 05:12:56 GMT</pubDate>
-      <description><![CDATA[A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.]]></description>
+      <title>Some childhood offenders may no longer have to reveal convictions to employers</title>
+      <link>https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">bebd1fec5168988c79ed2cf3200c2855f48f8a0d</guid>
+      <pubDate>Thu, 12 Nov 2026 17:24:48 GMT</pubDate>
+      <description><![CDATA[The proposals would change how crimes committed by children are disclosed to bosses in England and Wales.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Media industry could be forced to improve safeguards after Walliams allegations</title>
-      <link>https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0111ad1778f5cc49f4595ad9779a1f9ff0eb19a3</guid>
-      <pubDate>Thu, 12 Nov 2026 04:01:50 GMT</pubDate>
-      <description><![CDATA[Culture Secretary Lisa Nandy could force participation in an industry watchdog to protect whistleblowers, the BBC understands.]]></description>
+      <title>Canadiens visit the Bruins in a battle of elite goalies Jacob Fowler and Jeremy Swayman</title>
+      <link>https://www.foxnews.com/outkick-betting/canadiens-visit-bruins-battle-elite-goalies-jacob-fowler-jeremy-swayman</link>
+      <guid isPermaLink="false">3e99e99bac95c6c13378f40a673be200601a6ca3</guid>
+      <pubDate>Thu, 12 Nov 2026 17:16:09 GMT</pubDate>
+      <description><![CDATA[Jacob Fowler's .925 save percentage faces Jeremy Swayman's .920 mark as the Montreal Canadiens visit the Boston Bruins in a premier goalie duel.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Jim Jordan vows to push GOP agenda while party still holds majority, warns of Dem lawfare</title>
-      <link>https://www.foxnews.com/media/jim-jordan-vows-push-gop-agenda-party-holds-majority-warns-dem-lawfare</link>
-      <guid isPermaLink="false">a4f03d58355d6488239dc63e25452830ba06f4e9</guid>
-      <pubDate>Thu, 12 Nov 2026 03:52:33 GMT</pubDate>
-      <description><![CDATA[Incoming House Minority Leader Rep. Jim Jordan vows to maximize the GOP's lame-duck legislative agenda before Democrats take congressional control.]]></description>
+      <title>Legendary SS United States sinks beneath waves as divers prepare for first look</title>
+      <link>https://www.foxnews.com/travel/legendary-ss-united-states-sinks-beneath-waves-divers-prepare-first-look</link>
+      <guid isPermaLink="false">b2f8d185bc8ae02a62a2a1321e107a328b7d6d35</guid>
+      <pubDate>Thu, 12 Nov 2026 17:15:30 GMT</pubDate>
+      <description><![CDATA[Video captures the SS United States tilting and sinking into the Gulf of America as divers near Destin, Florida, prepare to explore the massive wreck.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Struggling Colts QB Daniel Jones admits he's 'not happy' watching Indy's front office strip away teammates</title>
-      <link>https://www.foxnews.com/outkick-sports/struggling-colts-qb-daniel-jones-admits-not-happy-watching-indy-front-office-strip-away-teammates</link>
-      <guid isPermaLink="false">d9af70c47678c5c119a5344ade2aa2a68d9f55f6</guid>
-      <pubDate>Thu, 12 Nov 2026 03:44:00 GMT</pubDate>
-      <description><![CDATA[Daniel Jones admitted he's frustrated after the Colts dealt Quenton Nelson, DeForest Buckner, Keenan Allen, and Josh Downs in a two-week sell-off.]]></description>
+      <title>Democrats want to stop Trump's arch, golf course and more. What are their options?</title>
+      <link>https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight</link>
+      <guid isPermaLink="false">68db99753eb8a865e3fb1b6d767992f62a7ab1cf</guid>
+      <pubDate>Thu, 12 Nov 2026 17:13:54 GMT</pubDate>
+      <description><![CDATA[As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>War of words between Michigan Wolverines-Oregon Ducks heats up as Dan Lanning responds to criticisms</title>
-      <link>https://www.foxnews.com/outkick-sports/war-words-michigan-wolverines-oregon-ducks-heats-dan-lanning-responds-criticisms</link>
-      <guid isPermaLink="false">84bd1290650347d5d539d6051969a80031039b3c</guid>
-      <pubDate>Thu, 12 Nov 2026 03:33:35 GMT</pubDate>
-      <description><![CDATA[Kyle Whittingham took aim at Oregon's $50M+ NIL spending, and Dan Lanning fired back with a pointed jab at Michigan's costly coaching buyouts.]]></description>
+      <title>Washington DC shooting leaves one dead and four injured as suspect dies after standoff</title>
+      <link>https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0dca1b56a1f4c5c6c6edb2ac9ccf771211bd3864</guid>
+      <pubDate>Thu, 12 Nov 2026 17:13:14 GMT</pubDate>
+      <description><![CDATA[One victim is in a critical condition and three others have non life-threatening injuries, officials say.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>World's fastest ocean liner is sunk to break another record: largest artificial reef</title>
-      <link>https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking</link>
-      <guid isPermaLink="false">b85161856f56530014a271e0a95975a9b6e759f1</guid>
-      <pubDate>Thu, 12 Nov 2026 03:10:32 GMT</pubDate>
-      <description><![CDATA[The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life.]]></description>
+      <title>The rise and fall of Jensen Huang - how the tech superstar became mired in scandal</title>
+      <link>https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b04f871e66a6a66af06317d43bfe96155c1642f1</guid>
+      <pubDate>Thu, 12 Nov 2026 17:11:48 GMT</pubDate>
+      <description><![CDATA[Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Brewers' Jacob Misiorowski, Yankees' Cam Schlittler named unanimous Cy Young Award winners for 2026 MLB season</title>
-      <link>https://www.foxnews.com/outkick-sports/brewers-jacob-misiorowski-yankees-cam-schlittler-named-unanimous-cy-young-award-winners-2026-mlb-season</link>
-      <guid isPermaLink="false">38e33549fb7ed585f20bfe82f7c49b0e7df6e38a</guid>
-      <pubDate>Thu, 12 Nov 2026 02:41:46 GMT</pubDate>
-      <description><![CDATA[Jacob Misiorowski was the first Cy Young Award and World Series winner in the same season since Randy Johnson, while Cam Schlittler's first full season resulted in the award.]]></description>
+      <title>WATCH: Deranged animal rights activist arrested after allegedly hitting carriage driver with skateboard</title>
+      <link>https://www.foxnews.com/us/watch-deranged-animal-rights-activist-arrested-allegedly-hitting-carriage-driver-skateboard</link>
+      <guid isPermaLink="false">61d220e1243f36860a6f784a09621fcf2860c497</guid>
+      <pubDate>Thu, 12 Nov 2026 17:00:31 GMT</pubDate>
+      <description><![CDATA[Video captures Abigail Holbrook allegedly striking a Central Park horse carriage driver with a skateboard while shouting about animal abuse.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Australian teen missing in bush for six days rescued alive</title>
-      <link>https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">06aaf836ff3dafffd5e359a68f4c9227c7e0e31e</guid>
-      <pubDate>Thu, 12 Nov 2026 02:40:18 GMT</pubDate>
-      <description><![CDATA[The 17-year-old's mum has joked that he is "grounded for life" and "never leaving the house again".]]></description>
+      <title>Pentagon backs war memorial guard who reprimanded Hegseth's group</title>
+      <link>https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b2a849cb17105da8e06ee2e02f3e9c4ef57a9305</guid>
+      <pubDate>Thu, 12 Nov 2026 16:52:53 GMT</pubDate>
+      <description><![CDATA[The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Survivor pulled from rubble of deadly building collapse in New York</title>
-      <link>https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0de3b4c908f24d5adeea3840e2e6710fcc7199c4</guid>
-      <pubDate>Thu, 12 Nov 2026 02:33:12 GMT</pubDate>
-      <description><![CDATA[Two people are dead and several others injured as rescuers scour the debris in Brooklyn.]]></description>
+      <title>'Yes, Dear' star Anthony Clark dead at 62</title>
+      <link>https://www.foxnews.com/entertainment/yes-dear-star-anthony-clark-dead-62</link>
+      <guid isPermaLink="false">62465357c3b6a636ca554e246d03f9986aff38dc</guid>
+      <pubDate>Thu, 12 Nov 2026 16:52:35 GMT</pubDate>
+      <description><![CDATA[Anthony Clark's longtime manager calls him one of the funniest comedians he ever watched as tributes pour in for the "Yes, Dear" star who died at 62.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Titans' Calvin Ridley gives his side of Nashville airport 'incident' with valet, awaits possible charges</title>
-      <link>https://www.foxnews.com/outkick-sports/titans-calvin-ridley-nashville-airport-incident-valet-awaits-possible-charges</link>
-      <guid isPermaLink="false">13460ece32ea35c8fbb81d19be77f2c3c22faa40</guid>
-      <pubDate>Thu, 12 Nov 2026 02:21:37 GMT</pubDate>
-      <description><![CDATA[Calvin Ridley said he took his keys from a Nashville airport valet's hand during a late-night dispute over a missing ticket, and the valet claimed a broken finger.]]></description>
+      <title>WATCH: Socialist agitators lose it when cameras turn on them</title>
+      <link>https://www.foxnews.com/politics/watch-socialist-agitators-lose-when-cameras-turn-them</link>
+      <guid isPermaLink="false">c0bcddf70f31af6ef7606ce5730dad7abbcda023</guid>
+      <pubDate>Thu, 12 Nov 2026 16:50:23 GMT</pubDate>
+      <description><![CDATA[CodePink and Singham-linked activists swarmed Congress on Veterans Day, but when cameras turned on them, they blocked lenses and hurled insults.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Blue states elect Democrats who supported permanent cash handout policy as part of mayors coalition</title>
-      <link>https://www.foxnews.com/media/blue-states-elect-democrats-who-supported-permanent-cash-handout-policy-part-mayors-coalition</link>
-      <guid isPermaLink="false">e1dda8c910903231d85da031ba3fced8ecfd5427</guid>
-      <pubDate>Thu, 12 Nov 2026 02:06:20 GMT</pubDate>
-      <description><![CDATA[Five former Mayors for a Guaranteed Income coalition members won higher office, raising questions about direct cash assistance becoming permanent policy.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Suspected DUI driver arrested on 3 murder counts after deadly North Hollywood crash, police say</title>
-      <link>https://www.foxnews.com/us/suspected-dui-driver-arrested-3-murder-counts-after-deadly-north-hollywood-crash-police-say</link>
-      <guid isPermaLink="false">5e77756f381f29407d197692445fb8341db108a7</guid>
-      <pubDate>Thu, 12 Nov 2026 02:05:04 GMT</pubDate>
-      <description><![CDATA[A suspected 61-year-old DUI driver was arrested on three murder counts after a North Hollywood crash killed three women and injured two others.]]></description>
+      <title>Biden judge rejects DOJ bid to halt probe of prosecutors in botched ICE protest case</title>
+      <link>https://www.foxnews.com/politics/biden-judge-rejects-doj-bid-halt-probe-prosecutors-botched-ice-protest-case</link>
+      <guid isPermaLink="false">d0480fd2eff2b0900110031ce906b052c5f08dd1</guid>
+      <pubDate>Thu, 12 Nov 2026 16:40:55 GMT</pubDate>
+      <description><![CDATA[Judge April Perry ordered U.S. Attorney Andrew Boutros and three prosecutors to give sworn testimony in the Broadview Six case amid misconduct allegations.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Twice-deported United cockpit suspect granted asylum after transgender persecution claim: DHS</title>
-      <link>https://www.foxnews.com/politics/twice-deported-united-cockpit-suspect-granted-asylum-transgender-persecution-claim-dhs</link>
-      <guid isPermaLink="false">755f1d47bfd2f454464214b59022861979971a5d</guid>
-      <pubDate>Thu, 12 Nov 2026 02:03:56 GMT</pubDate>
-      <description><![CDATA[DHS says a twice-deported Honduran national won asylum claiming transgender persecution before allegedly trying to storm a United Airlines cockpit.]]></description>
+      <title>Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow</title>
+      <link>https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c6a88938b538d71e999185851fd6fbf26f112753</guid>
+      <pubDate>Thu, 12 Nov 2026 16:31:12 GMT</pubDate>
+      <description><![CDATA[Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The SS United States takes its final voyage to the bottom of the Gulf of Mexico</title>
+      <link>https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states</link>
+      <guid isPermaLink="false">e02f04ed8a17ad37e41aac1493ccf635d73cb234</guid>
+      <pubDate>Thu, 12 Nov 2026 16:20:04 GMT</pubDate>
+      <description><![CDATA[A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>DC shooting leaves 1 person killed, 4 injured. Gunman dead</title>
+      <link>https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting</link>
+      <guid isPermaLink="false">3cb3f9869576fc9bf084effbfa1cd44ee9f9c84c</guid>
+      <pubDate>Thu, 12 Nov 2026 16:12:53 GMT</pubDate>
+      <description><![CDATA[A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi</title>
+      <link>https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks</link>
+      <guid isPermaLink="false">3bf6dc30ef51d060413c5c1ddd87143dc96aab8f</guid>
+      <pubDate>Thu, 12 Nov 2026 15:26:34 GMT</pubDate>
+      <description><![CDATA[Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says</title>
+      <link>https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d08f5826855b436f048d03940baf44a95c75c9b2</guid>
+      <pubDate>Thu, 12 Nov 2026 15:18:20 GMT</pubDate>
+      <description><![CDATA[Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Super El Niño declared as forecasters warn of major shifts in weather during winter season</title>
+      <link>https://www.foxweather.com/weather-news/super-el-nino-declared-forecasters-warn-major-shifts-winter-weather</link>
+      <guid isPermaLink="false">66c9ffaf9b6b4cac51fe9e23ef5e77b9461a4417</guid>
+      <pubDate>Thu, 12 Nov 2026 14:00:25 GMT</pubDate>
+      <description><![CDATA[The Climate Prediction Center (CPC) announced Thursday that the 2026 El Niño has officially reached Super El Niño status, also known as a Very Strong El Niño.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -511,19 +511,19 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Remembering the Edmund Fitzgerald 51 years after wreck in Lake Superior</title>
-      <link>https://www.foxweather.com/weather-news/51-years-ago-today-edmund-fitzgerald-wrecks-lake-superior</link>
-      <guid isPermaLink="false">36587862863b818e2824d87e89460b24f4fc2b8b</guid>
-      <pubDate>Tue, 10 Nov 2026 19:00:06 GMT</pubDate>
-      <description><![CDATA[The Edmund Fitzgerald sank during a powerful Lake Superior storm 51 years ago, killing all 29 aboard and leaving a mystery that endures today.]]></description>
+      <title>Is your city on the list? Nor'easter expected to usher in season's first significant snow for the Northeast</title>
+      <link>https://www.foxweather.com/weather-news/states-first-significant-snow-season-noreaster</link>
+      <guid isPermaLink="false">d4677b6c369e0e29c37240d93ed97ce22b19c88a</guid>
+      <pubDate>Wed, 11 Nov 2026 16:51:11 GMT</pubDate>
+      <description><![CDATA[A nor'easter is expected to usher in the season's first snow to as many as seven Northeastern states this weekend, with parts of the Midwest and Ohio Valley also expected to see their first snow.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Thanksgiving outlook: Rain, storms and possible snow could disrupt holiday travel plans for millions</title>
-      <link>https://www.foxweather.com/weather-news/thanksgiving-week-weather-outlook-rain-storms-snow</link>
-      <guid isPermaLink="false">f489df119b6275d341edb9cf01c0e4e58a38ccdb</guid>
-      <pubDate>Tue, 10 Nov 2026 17:41:28 GMT</pubDate>
-      <description><![CDATA[In just two weeks, millions of people will be traveling across America for Thanksgiving week, and early forecasts show rain, storms and snow could dominate the forecast.]]></description>
+      <title>Nor'easter brings severe storms, possible tornadoes to major I-95 cities, with first snow falling in the North</title>
+      <link>https://www.foxweather.com/weather-news/noreaster-could-bring-first-significant-snowfall-parts-northeast-storm-takes-shape</link>
+      <guid isPermaLink="false">549af69ac7f93cfe7d6f387677052c685552ff50</guid>
+      <pubDate>Wed, 11 Nov 2026 11:34:14 GMT</pubDate>
+      <description><![CDATA[A storm system is expected to race through the Ohio Valley Wednesday before moving off the coast and strengthening into a nor'easter toward the end of the week, which will lash the Interstate 95 corridor with widespread rain, while delivering the first significant snow to northern New England and Upstate New York into the weekend.]]></description>
       <category>weather</category>
     </item>
   </channel>
