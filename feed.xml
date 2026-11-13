@@ -5,20 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 04:46:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:48:42 GMT</lastBuildDate>
     <item>
       <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 13 Nov 2026 04:46:07 GMT</pubDate>
-      <description><![CDATA[25°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 25. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 13 Nov 2026 12:48:42 GMT</pubDate>
+      <description><![CDATA[25°F. Wind NE 5 mph. Mostly cloudy, with a low around 25. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 13 Nov 2026 04:46:07 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 12:48:42 GMT</pubDate>
       <description><![CDATA[32°F. Wind N 5 to 10 mph. Mostly cloudy, with a high near 32. North wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
@@ -26,24 +26,24 @@
       <title>Anchorage Weather: Friday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 13 Nov 2026 04:46:07 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 12:48:42 GMT</pubDate>
       <description><![CDATA[19°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 19. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday - Mostly Cloudy then Slight Chance Light Snow</title>
+      <title>Anchorage Weather: Saturday - Mostly Cloudy then Chance Light Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 13 Nov 2026 04:46:07 GMT</pubDate>
-      <description><![CDATA[30°F. Wind N 5 to 10 mph. A slight chance of snow after 3pm. Mostly cloudy, with a high near 30. North wind 5 to 10 mph.]]></description>
+      <pubDate>Fri, 13 Nov 2026 12:48:42 GMT</pubDate>
+      <description><![CDATA[30°F. Wind N 5 to 10 mph. A chance of snow after 3pm. Mostly cloudy, with a high near 30. North wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday Night - Chance Light Snow</title>
+      <title>Anchorage Weather: Saturday Night - Light Snow Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 13 Nov 2026 04:46:07 GMT</pubDate>
-      <description><![CDATA[22°F. Wind N 0 to 5 mph. A chance of snow. Cloudy, with a low around 22. North wind 0 to 5 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Fri, 13 Nov 2026 12:48:42 GMT</pubDate>
+      <description><![CDATA[22°F. Wind N 0 to 5 mph. Snow likely. Cloudy, with a low around 22. North wind 0 to 5 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -271,107 +271,171 @@
       <category>local</category>
     </item>
     <item>
-      <title>Medicare drug premiums jump for some Juneau residents in 2027</title>
-      <link>https://www.juneauempire.com/2026/11/11/medicare-drug-premiums-jump-for-some-juneau-residents-in-2027/</link>
-      <guid isPermaLink="false">d19baadf2fa742d30e05321e1c96591b68a1b401</guid>
-      <pubDate>Wed, 11 Nov 2026 18:30:00 GMT</pubDate>
-      <description><![CDATA[Lower premiums can mask rising deductibles and pharmacy costs]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Cricket sandpaper scandal claims '100% wrong', Australia captain says</title>
-      <link>https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d085aaa72f677d76892c17305ba4f6e6ccf8e9fa</guid>
-      <pubDate>Fri, 13 Nov 2026 04:26:57 GMT</pubDate>
-      <description><![CDATA[Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”.]]></description>
+      <title>Suspected Hamas member guilty of UK knife attack</title>
+      <link>https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">705d64dc302e995d281f1b5444f3d160c6b30347</guid>
+      <pubDate>Fri, 13 Nov 2026 12:45:13 GMT</pubDate>
+      <description><![CDATA[Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy</title>
-      <link>https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ea7faee116327d54f8f00365820dfba2e0a4601b</guid>
-      <pubDate>Fri, 13 Nov 2026 03:57:01 GMT</pubDate>
-      <description><![CDATA[Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader</title>
-      <link>https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader</link>
-      <guid isPermaLink="false">6c48175ae0bc8c53f58cfb58bb76954b735246be</guid>
-      <pubDate>Fri, 13 Nov 2026 03:52:25 GMT</pubDate>
-      <description><![CDATA[Van Hollen, a progressive from Maryland, said voters sent a clear message in the midterm elections — that they want "change from the status quo."]]></description>
+      <title>Schumer's Senate leadership fight intensifies as key progressive backs challenger and more top headlines</title>
+      <link>https://www.foxnews.com/us/schumers-senate-leadership-fight-intensifies-key-progressive-backs-challenger-more-top-headlines</link>
+      <guid isPermaLink="false">21625d687267b66763f2a31990e82f0414a7e14f</guid>
+      <pubDate>Fri, 13 Nov 2026 12:41:25 GMT</pubDate>
+      <description><![CDATA[Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Stephen A Smith debriefs interview with President Trump, warns Democrats face steep challenge</title>
-      <link>https://www.foxnews.com/media/stephen-a-smith-debriefs-interview-president-trump-warns-democrats-face-steep-challenge</link>
-      <guid isPermaLink="false">a67eee3af9cda367aee5822b58706f89571f6553</guid>
-      <pubDate>Fri, 13 Nov 2026 03:50:03 GMT</pubDate>
-      <description><![CDATA[Stephen A. Smith says President Trump was "immovable" in refusing to accept blame for GOP midterm losses during their wide-ranging White House interview.]]></description>
+      <title>Piddington to bring legal challenge over asylum base plans</title>
+      <link>https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">3a624c1bd8eabaaaf416a921b67a60973aa9dda9</guid>
+      <pubDate>Fri, 13 Nov 2026 12:35:38 GMT</pubDate>
+      <description><![CDATA[Up to 1,256 men could be housed at the site near Piddington in Oxfordshire under the plans.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>WWE star Brie Bella talks challenges of wine business, describes perfect Las Vegas day</title>
-      <link>https://www.foxnews.com/outkick-sports/wwe-star-brie-bella-talks-challenges-wine-business-describes-perfect-las-vegas-day</link>
-      <guid isPermaLink="false">16ca82d71bfe1caba58fa98a4bc7b4455a8ccff7</guid>
-      <pubDate>Fri, 13 Nov 2026 03:12:34 GMT</pubDate>
-      <description><![CDATA[Brie Bella reveals the financial mistakes and hard lessons that shaped Bonita Bonita wine ahead of her Las Vegas appearance at JP Brasserie.]]></description>
+      <title>What we know about the global Microsoft outage</title>
+      <link>https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e1efe6f1af4bbd764b20b0baf9f02e20ee310e69</guid>
+      <pubDate>Fri, 13 Nov 2026 12:31:49 GMT</pubDate>
+      <description><![CDATA[Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Pete Crow-Armstrong unanimously ends Shohei Ohtani's run as NL MVP, Yordan Alvarez takes AL MVP for Astros</title>
-      <link>https://www.foxnews.com/outkick-sports/pete-crow-armstrong-unanimously-ends-shohei-ohtani-run-nl-mvp-yordan-alvarez-takes-al-mvp-astros</link>
-      <guid isPermaLink="false">69feffe1f21e7e30019801c0cc6108ad085af9c7</guid>
-      <pubDate>Fri, 13 Nov 2026 03:06:37 GMT</pubDate>
-      <description><![CDATA[Pete Crow-Armstrong's 10.6-win season with the Chicago Cubs ended Shohei Ohtani's three-year MLB MVP streak with a unanimous NL award vote.]]></description>
+      <title>What we know about the global outage</title>
+      <link>https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e1efe6f1af4bbd764b20b0baf9f02e20ee310e69</guid>
+      <pubDate>Fri, 13 Nov 2026 12:31:49 GMT</pubDate>
+      <description><![CDATA[Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Australian footballers will not be charged after hotel incident, police say</title>
-      <link>https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3d4d47834df2e528e9f6ba1fa6ab21ce275e7b07</guid>
-      <pubDate>Fri, 13 Nov 2026 03:02:54 GMT</pubDate>
-      <description><![CDATA[Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.]]></description>
+      <title>UN watchdog 'increasingly concerned' over Iran nuclear site</title>
+      <link>https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7ed19effff532e6f494f613a54a6372f56e8f6a8</guid>
+      <pubDate>Fri, 13 Nov 2026 12:28:28 GMT</pubDate>
+      <description><![CDATA[It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>DHS touts highest ICE deportations in history, as Mullin says agency has been ‘unleashed’</title>
-      <link>https://www.foxnews.com/us/dhs-touts-highest-ice-deportations-history-mullin-says-agency-unleashed</link>
-      <guid isPermaLink="false">fe4ef36636063442bf41399751abfdff1726784d</guid>
-      <pubDate>Fri, 13 Nov 2026 02:54:59 GMT</pubDate>
-      <description><![CDATA[DHS Secretary Markwayne Mullin announced record ICE arrests and deportations in fiscal 2026, with arrests exceeding three Biden fiscal years combined.]]></description>
+      <title>More women make allegations against Russell Brand</title>
+      <link>https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9978203e36e2f83635db5e134eaf4e9950090f3f</guid>
+      <pubDate>Fri, 13 Nov 2026 12:14:17 GMT</pubDate>
+      <description><![CDATA[The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Dan Patrick concedes Texas ‘turned purple’ after Democrats’ historic blue wave</title>
-      <link>https://www.foxnews.com/politics/dan-patrick-concedes-texas-turned-purple-democrats-historic-blue-wave</link>
-      <guid isPermaLink="false">288177bae879789db832577a4fbf41dfb9119df8</guid>
-      <pubDate>Fri, 13 Nov 2026 02:49:23 GMT</pubDate>
-      <description><![CDATA[Outgoing Texas Lt. Gov. Dan Patrick says the state has "turned purple" after Democrats swept statewide races but warns the GOP must fight back.]]></description>
+      <title>Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader</title>
+      <link>https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen</link>
+      <guid isPermaLink="false">61212767e0948e3881547423a0c80874ccf70a0e</guid>
+      <pubDate>Fri, 13 Nov 2026 12:07:12 GMT</pubDate>
+      <description><![CDATA[Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>North Korean hackers used fake video calls in $400m crypto hack, says FBI</title>
-      <link>https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3bbd4cd1ecda2c83db4115b518fa5820ebcd3808</guid>
-      <pubDate>Fri, 13 Nov 2026 02:48:29 GMT</pubDate>
-      <description><![CDATA[More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.]]></description>
+      <title>Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats</title>
+      <link>https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity</link>
+      <guid isPermaLink="false">97507d872f87a6193ac2649eb6c71b0ef59a39f2</guid>
+      <pubDate>Fri, 13 Nov 2026 12:06:28 GMT</pubDate>
+      <description><![CDATA[Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Van Hollen challenges Schumer for Senate leadership after Democratic election sweep</title>
-      <link>https://www.foxnews.com/politics/van-hollen-challenges-schumer-senate-leadership-after-democratic-election-sweep</link>
-      <guid isPermaLink="false">01267b7d8ff3d433347346a6588b1eec27a7bfcf</guid>
-      <pubDate>Fri, 13 Nov 2026 02:45:42 GMT</pubDate>
-      <description><![CDATA[Chuck Schumer faces a formal challenge from Chris Van Hollen for Senate Democratic leader after Van Hollen accused him of siding with AIPAC.]]></description>
+      <title>Healthy runner suffers sudden stroke at 27 as doctors discover possible cause</title>
+      <link>https://www.foxnews.com/health/healthy-runner-suffers-sudden-stroke-27-doctors-discover-possible-cause</link>
+      <guid isPermaLink="false">9b1dd2b7c113099fc05533b45e94123a8f99c2a5</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:41 GMT</pubDate>
+      <description><![CDATA[Patrick Mascoli was running 40 miles a week when a stroke struck at 27. Doctors found a patent foramen ovale that likely sent a clot to his brain.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New York City building collapse probe raises questions about neighboring property owner’s violation history</title>
+      <link>https://www.foxnews.com/us/new-york-city-building-collapse-probe-raises-questions-about-neighboring-property-owners-violation-history</link>
+      <guid isPermaLink="false">81af0d4d81a8e5cc6abb6e26559b4ef29feb52df</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:26 GMT</pubDate>
+      <description><![CDATA[N Tech Design of America defied a New York City stop-work order months before the deadly Brooklyn building collapse that killed eight people.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Jeffries shredded over Hegseth impeachment snafu as Dem jockeys for speaker’s gavel</title>
+      <link>https://www.foxnews.com/politics/jeffries-shredded-over-hegseth-impeachment-snafu-dem-jockeys-speakers-gavel</link>
+      <guid isPermaLink="false">efaa9abc584539c7f2f077c334c7c9bb5e2b1b75</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:21 GMT</pubDate>
+      <description><![CDATA[Eleven absent House Democrats handed Republicans a win on the Pete Hegseth impeachment vote, raising questions about Hakeem Jeffries' leadership.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Watch: How a server outage took down Microsoft Teams and Outlook</title>
+      <link>https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a18aa197b559419b8705ba1d1cd838bc16b05ac8</guid>
+      <pubDate>Fri, 13 Nov 2026 11:43:27 GMT</pubDate>
+      <description><![CDATA[A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Nigerian university in mourning after four students die at post-exam party</title>
+      <link>https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">943b53a2aad0598825ab3bfbb9417a300ea314df</guid>
+      <pubDate>Fri, 13 Nov 2026 11:37:08 GMT</pubDate>
+      <description><![CDATA[The university has banned all parties, while investigations are underway to find the cause of the students' deaths.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Which NFL teams can actually win the Super Bowl? Ranking all 32 at the season’s halfway point</title>
+      <link>https://www.foxnews.com/outkick-sports/nfl-teams-win-super-bowl-ranking-32-seasons-halfway-point</link>
+      <guid isPermaLink="false">622a6fea9483cb5fea7ba26491636562f6937628</guid>
+      <pubDate>Fri, 13 Nov 2026 11:33:18 GMT</pubDate>
+      <description><![CDATA[The Buffalo Bills, San Francisco 49ers and Kansas City Chiefs lead a midseason Super Bowl contender list that may not even reach 10 teams deep.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Toronto Blue Jays apologize after Muslim community outcry over Anthony Santander's Instagram posts</title>
-      <link>https://www.foxnews.com/outkick-sports/toronto-blue-jays-apologize-muslim-community-outcry-anthony-santander-instagram-posts</link>
-      <guid isPermaLink="false">d88bf0c1aec50b2c2d166d623de8778359279c3f</guid>
-      <pubDate>Fri, 13 Nov 2026 02:40:31 GMT</pubDate>
-      <description><![CDATA[Anthony Santander has not apologized after sharing posts called Islamophobic, leaving the Toronto Blue Jays to issue a corporate apology on his behalf.]]></description>
+      <title>Nor’easter continues to slam I-95 corridor with heavy rain, wind as season's first snow falls in the North</title>
+      <link>https://www.foxweather.com/weather-news/northeast-faces-messy-friday-as-noreaster-ushers-in-rain-wind-and-snow</link>
+      <guid isPermaLink="false">a03022c077000f2f58be59d68e3f802555ddb7ce</guid>
+      <pubDate>Fri, 13 Nov 2026 11:30:55 GMT</pubDate>
+      <description><![CDATA[A strengthening nor’easter is lashing the region with more heavy rain and gusty winds, slowing the Friday morning commute across the Interstate 95 corridor in the Northeast. Meanwhile, higher elevations in Upstate New York and northern New England will see even more snow as more cold air spills south from Canada.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Sen Bernie Sanders supports Chris Van Hollen's bid to challenge Schumer for Senate Democratic leader post</title>
+      <link>https://www.foxnews.com/politics/sen-bernie-sanders-supports-chris-van-hollen-bid-challenge-schumer-senate-democratic-leader-post</link>
+      <guid isPermaLink="false">229b40e33499800a88b8f95531e4e7112f1e9ee3</guid>
+      <pubDate>Fri, 13 Nov 2026 11:06:30 GMT</pubDate>
+      <description><![CDATA[Sen. Bernie Sanders is backing Sen. Chris Van Hollen for the role of Senate Democratic leader, as Van Hollen challenges Sen. Chuck Schumer for the role.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Fox News Digital's News Quiz: November 13, 2026</title>
+      <link>https://www.foxnews.com/lifestyle/fox-news-digital-news-quiz-november-13-2026</link>
+      <guid isPermaLink="false">3c78cfe82c230d47e00caf5e3e388b4ce1c7c2b0</guid>
+      <pubDate>Fri, 13 Nov 2026 11:00:43 GMT</pubDate>
+      <description><![CDATA[Test your knowledge of this week's headlines, including Nvidia CEO Jensen Huang's resignation, and a possible discovery linked to Christianity.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>MICHAEL RUIZ: JonBenet Ramsey investigators are retesting evidence with newer technology, police chief says</title>
+      <link>https://www.foxnews.com/us/michael-ruiz-jonbenet-ramsey-investigators-retesting-evidence-newer-technology-police-chief-says</link>
+      <guid isPermaLink="false">37c86e3228a7c26bdc8b757bdc6a390049678ab6</guid>
+      <pubDate>Fri, 13 Nov 2026 11:00:37 GMT</pubDate>
+      <description><![CDATA[Boulder investigators are retesting decades-old DNA evidence in the JonBenet Ramsey cold case using advanced technology that didn't exist in 1997.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Popular snack may help support brain health in older adults, new study finds</title>
+      <link>https://www.foxnews.com/food-drink/popular-snack-may-help-support-brain-health-older-adults-new-study-finds</link>
+      <guid isPermaLink="false">c0145992b029a35bc6901d752fd9189f44635990</guid>
+      <pubDate>Fri, 13 Nov 2026 11:00:04 GMT</pubDate>
+      <description><![CDATA[A small study found that eating skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in memory-related brain regions of older adults.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kratom and 7-OH can feel like 'a miracle.' They can also be addictive</title>
+      <link>https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid</link>
+      <guid isPermaLink="false">f117f08c4f0e76399baecd2503ac49edf97e16ee</guid>
+      <pubDate>Fri, 13 Nov 2026 11:00:00 GMT</pubDate>
+      <description><![CDATA[In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That's started to change. A crackdown for some highly potent products related to kratom is coming.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -381,70 +445,6 @@
       <pubDate>Fri, 13 Nov 2026 02:39:26 GMT</pubDate>
       <description><![CDATA[Severe weather slammed the Northeast and Mid-Atlantic on Thursday as a powerful nor’easter moved across the region, bringing heavy rain, large hail, damaging winds and several reported tornadoes.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Donald Trump calls Barack Obama 'highly overrated' and claims he'd win a third-term matchup</title>
-      <link>https://www.foxnews.com/media/donald-trump-calls-barack-obama-highly-overrated-claims-hed-win-third-term-matchup</link>
-      <guid isPermaLink="false">71a2c0b99f766a8e637f87d37e4c395d5ec6d28a</guid>
-      <pubDate>Fri, 13 Nov 2026 02:24:50 GMT</pubDate>
-      <description><![CDATA[President Donald Trump told Stephen A. Smith he'd "easily" beat former President Barack Obama in a hypothetical third-term election, calling him "overrated."]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Cowboys' key in-season acquisition Joey Porter Jr. insists two-week absence is unrelated to contract future</title>
-      <link>https://www.foxnews.com/outkick-sports/cowboys-key-in-season-acquisition-joey-porter-jr-insists-two-week-absence-unrelated-contract-future</link>
-      <guid isPermaLink="false">2c5c24bad7ca503fd88fb46dd04c4ca45363e6f2</guid>
-      <pubDate>Fri, 13 Nov 2026 02:23:57 GMT</pubDate>
-      <description><![CDATA[Joey Porter Jr. dismissed contract speculation and revealed the full extent of his foot injury as he eyes a return for the Cowboys vs. 49ers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>How could the Nvidia CEO’s affair threaten US national security?</title>
-      <link>https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">84ee36d7a4975a271584b37593f1bb6985b19215</guid>
-      <pubDate>Fri, 13 Nov 2026 02:15:59 GMT</pubDate>
-      <description><![CDATA[BBC's Asma Khalid explains how the Nvidia affair could threaten US national security and risk sensitive US technology getting into China.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Texas man executed for beheading 3 children: 'Going to be with my kids'</title>
-      <link>https://www.foxnews.com/us/texas-man-executed-beheading-3-children-going-my-kids</link>
-      <guid isPermaLink="false">85f901715a5e93d5de45bf44b065a61dc1733a3f</guid>
-      <pubDate>Fri, 13 Nov 2026 02:04:46 GMT</pubDate>
-      <description><![CDATA[John Allen Rubio thanked loved ones and said he would soon be with the three children he killed before receiving a lethal injection in Texas.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks</title>
-      <link>https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">af7b2cf6eba9b4c23983d481fd813979fdecf17d</guid>
-      <pubDate>Fri, 13 Nov 2026 02:01:35 GMT</pubDate>
-      <description><![CDATA[The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Is Outlook down? Widespread outage hits Microsoft email and other apps</title>
-      <link>https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps</link>
-      <guid isPermaLink="false">21e5fdddc37a7e94f8623d464cec0e56cd2b929d</guid>
-      <pubDate>Fri, 13 Nov 2026 01:26:24 GMT</pubDate>
-      <description><![CDATA[A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Burnham says 'win-win' deal can be agreed between UK and EU</title>
-      <link>https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">fa758c4e46ad02663d5aed9d806f49d48cd13ea8</guid>
-      <pubDate>Fri, 13 Nov 2026 01:17:58 GMT</pubDate>
-      <description><![CDATA[The prime minister says the deal could be "more like the Brexit people thought they were voting for" in 2016.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Junior doctor burnout putting maternity patients at risk, says regulator</title>
-      <link>https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">be1b4353533996ab6393a18215d021f3c1973516</guid>
-      <pubDate>Fri, 13 Nov 2026 00:55:31 GMT</pubDate>
-      <description><![CDATA[Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Hurricane Harvey fraudster who threatened to kill a witness sentenced to nearly 6 years in prison</title>
