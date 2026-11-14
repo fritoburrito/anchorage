@@ -5,28 +5,20 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 15:29:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:20:01 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Overnight - Patchy Freezing Fog</title>
+      <title>Anchorage Weather: Today - Patchy Freezing Fog then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 14 Nov 2026 15:29:15 GMT</pubDate>
-      <description><![CDATA[19°F. Wind  0 mph. Patchy freezing fog. Mostly cloudy, with a low around 19. East wind around 0 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Saturday - Patchy Freezing Fog then Mostly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 14 Nov 2026 15:29:15 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 20:20:01 GMT</pubDate>
       <description><![CDATA[30°F. Wind N 0 to 5 mph. Patchy freezing fog before 9am. Mostly cloudy, with a high near 30. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday Night - Light Snow</title>
+      <title>Anchorage Weather: Tonight - Light Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 14 Nov 2026 15:29:15 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 20:20:01 GMT</pubDate>
       <description><![CDATA[24°F. Wind N 0 to 5 mph. Snow. Cloudy, with a low around 24. North wind 0 to 5 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible.]]></description>
       <category>weather</category>
     </item>
@@ -34,7 +26,7 @@
       <title>Anchorage Weather: Sunday - Light Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 14 Nov 2026 15:29:15 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 20:20:01 GMT</pubDate>
       <description><![CDATA[30°F. Wind NE 0 to 5 mph. Snow. Cloudy, with a high near 30. Northeast wind 0 to 5 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible.]]></description>
       <category>weather</category>
     </item>
@@ -42,9 +34,33 @@
       <title>Anchorage Weather: Sunday Night - Slight Chance Light Snow then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sat, 14 Nov 2026 15:29:15 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 20:20:01 GMT</pubDate>
       <description><![CDATA[27°F. Wind N 0 to 10 mph. A slight chance of snow before midnight. Mostly cloudy, with a low around 27. North wind 0 to 10 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Monday - Slight Chance Freezing Rain then Mostly Cloudy</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sat, 14 Nov 2026 20:20:01 GMT</pubDate>
+      <description><![CDATA[34°F. Wind NE 0 to 5 mph. A slight chance of freezing rain between 9am and noon. Mostly cloudy, with a high near 34. Northeast wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Alaska proposal could tighten access to state records in Juneau</title>
+      <link>https://www.juneauempire.com/2026/11/14/alaska-proposal-could-tighten-access-to-state-records-in-juneau/</link>
+      <guid isPermaLink="false">49e71ae0ceec27ff178b5d1c53052ca00d1f190b</guid>
+      <pubDate>Sat, 14 Nov 2026 20:00:00 GMT</pubDate>
+      <description><![CDATA[Agencies could end searches after 15 hours of work or reviewing 250 records]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska Senate’s coalition majority shrinks to bare minimum as three Republicans leave</title>
+      <link>https://alaskabeacon.com/2026/11/14/alaska-senates-coalition-majority-shrinks-to-bare-minimum-as-three-republicans-leave/</link>
+      <guid isPermaLink="false">7d8e24ebdbaced6bf88fd49c2b32f0e0668da0cd</guid>
+      <pubDate>Sat, 14 Nov 2026 19:30:02 GMT</pubDate>
+      <description><![CDATA[The coalition majority in the 20-person Alaska Senate will be a bare-minimum 11 people after the departure of three Republican lawmakers. On Thursday, Sen. Jesse Bjorkman, R-Nikiski and a former member of the majority, said he will be minority leader of a newly expanded nine-person, all-Republican Senate minority. Sen. Robert Yundt, R-Wasilla, will be the […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>I Went to the Woods: Cabin’s character is a product of time</title>
@@ -52,14 +68,6 @@
       <guid isPermaLink="false">d08a51f97761dbabbd5aea1b642b197b32d5f6c4</guid>
       <pubDate>Sat, 14 Nov 2026 13:30:00 GMT</pubDate>
       <description><![CDATA[Finally, no rush. Nowhere to go.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska voters aren't ditching ranked choice voting, top-four primaries</title>
-      <link>https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary</link>
-      <guid isPermaLink="false">6722fc2091ca6618ea597b187bc791d6455467d4</guid>
-      <pubDate>Sat, 14 Nov 2026 13:08:05 GMT</pubDate>
-      <description><![CDATA[This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.]]></description>
       <category>local</category>
     </item>
     <item>
@@ -79,6 +87,14 @@
       <category>local</category>
     </item>
     <item>
+      <title>Kreiss-Tomkins clinches Alaska governor election while Republican opponents concede</title>
+      <link>https://alaskabeacon.com/2026/11/13/jkt-tops-50-of-first-choice-votes-for-alaska-governor-republican-opponents-concede/</link>
+      <guid isPermaLink="false">43981cf7693c73e84f6a51600bb3cc63b2a67949</guid>
+      <pubDate>Sat, 14 Nov 2026 01:45:39 GMT</pubDate>
+      <description><![CDATA[This article has been updated. Jonathan Kreiss-Tomkins is projected to win election as Alaska’s 13th governor, becoming the first Democrat to win the office since Tony Knowles was re-elected in 1998. In results posted Friday night by the Alaska Division of Elections, Kreiss-Tomkins had 50.8% of the first-choice votes for governor in this year’s election, […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
       <title>JKT tops 50% of first-choice votes for Alaska governor, Republican opponents concede</title>
       <link>https://alaskabeacon.com/2026/11/13/jkt-tops-50-of-first-choice-votes-for-alaska-governor-republican-opponents-concede/</link>
       <guid isPermaLink="false">43981cf7693c73e84f6a51600bb3cc63b2a67949</guid>
@@ -92,6 +108,14 @@
       <guid isPermaLink="false">0285c3aa21598e44e2e741160cf155012fd281d3</guid>
       <pubDate>Sat, 14 Nov 2026 01:17:03 GMT</pubDate>
       <description><![CDATA[Environmental and Alaska Native groups have sued the Trump administration over a U.S. Department of the Interior decision to revive oil leases that were terminated in 2024 for lack of progress in bringing a long-languishing offshore Arctic prospect into production. The Center for Biological Diversity and Sovereign Iñupiat for a Living Arctic filed the lawsuit, […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>US loses its 'measles elimination status' after more than 25 years</title>
+      <link>https://alaskabeacon.com/2026/11/13/repub/us-poised-to-lose-its-measles-elimination-status-after-more-than-25-years/</link>
+      <guid isPermaLink="false">a295173c2a36def1b4719ad3b06367c436e443a9</guid>
+      <pubDate>Sat, 14 Nov 2026 00:13:28 GMT</pubDate>
+      <description><![CDATA[The number of confirmed measles cases across the U.S. this year has soared to 5,412 as of Nov. 12, more than double the 2,289 cases through all of 2025, according to the latest release of data from the federal Centers for Disease Control and Prevention. The trend has pushed the nation to lose its official […]]]></description>
       <category>local</category>
     </item>
     <item>
@@ -231,139 +255,171 @@
       <category>local</category>
     </item>
     <item>
-      <title>Newscast – Thursday, Nov. 12, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17523597/newscast-thursday-nov-12-2026</link>
-      <guid isPermaLink="false">e5a925881911bc720e10b2addf2a5a3d195d1008</guid>
-      <pubDate>Fri, 13 Nov 2026 01:59:31 GMT</pubDate>
-      <description><![CDATA[In this newscast: Alaska's U.S. Senate race tightened slightly in the last batch of election results released yesterday; A group of state legislators tasked with charting the future of public school funding in Alaska is calling for further study of the subject; Officials with the University of Alaska report more than $86 million in federal grants that were frozen or delayed by the Trump administration have been restored; A Sitka-based emergency care organization has received a large grant to support EMS training across the region; The Trump administration is preparing to lift a classification on 28 million acres of federal land in Alaska that has long prevented it from being developed or transferred to new ownership]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>More liberal leadership: Senate Majority announces committee chairs</title>
-      <link>https://mustreadalaska.com/more-liberal-leadership-senate-majority-announces-committee-chairs/</link>
-      <guid isPermaLink="false">e98ee642698d1e66268a8cf270aeed027a2435f1</guid>
-      <pubDate>Fri, 13 Nov 2026 01:31:00 GMT</pubDate>
-      <description><![CDATA[Today, November 12, the Alaska Senate Majority announced committee chairs for the 35th Alaska State Legislature. Last week, the Senate Majority announced the leadership structure with Senator Cathy Giessel (R-Anchorage) as Senate President, Senator-elect Louise Stutes (R-Kodiak) as Majority Leader, and Senator Bill Wielechowski (D-Anchorage) as Rules Chair. The Finance Committee will be led by […] The post More liberal leadership: Senate Majority announces committee chairs appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>New Medicare rules could put some Juneau residents’ coverage at risk</title>
-      <link>https://www.juneauempire.com/2026/11/12/new-medicare-rules-could-put-some-juneau-residents-coverage-at-risk/</link>
-      <guid isPermaLink="false">cb8679f345d3e6bba04460ebe2d50fc2b33298f1</guid>
-      <pubDate>Fri, 13 Nov 2026 01:30:00 GMT</pubDate>
-      <description><![CDATA[Federal letters tell some recipients to verify eligibility before February]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Commentary: Chugach moose population has sharply declined. Is a hunt to blame?</title>
-      <link>https://alaskabeacon.com/2026/11/12/chugach-moose-population-has-sharply-declined-is-a-hunt-to-blame/</link>
-      <guid isPermaLink="false">0de47d1d73204ed804ce65f85bc4c40722f4bd3e</guid>
-      <pubDate>Fri, 13 Nov 2026 01:00:50 GMT</pubDate>
-      <description><![CDATA[Once upon a time—and really not so long ago—a mountain valley just east of Anchorage was the best place in Alaska, and likely the world, for people to watch and photograph large numbers of moose. Better even than Denali National Park, famous for its moose population. Dozens of cows and big-antlered bulls would gather in […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Collections are coming for millions of student loans in default</title>
-      <link>https://alaskabeacon.com/2026/11/12/repub/collections-are-coming-for-millions-of-student-loans-in-default/</link>
-      <guid isPermaLink="false">02b1eafe0ebf3cae8e87c3013f733d770ae87b17</guid>
-      <pubDate>Fri, 13 Nov 2026 00:04:22 GMT</pubDate>
-      <description><![CDATA[A long-postponed reckoning could be coming soon for millions of student loan borrowers who are now faced with garnished wages and seized tax refunds as soon as next year. Since pandemic forbearance finally expired last year, more than 9 million borrowers already are in default, owing a collective $234 billion, and millions more are late […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Juneau School Board adopts 2027 strategic plan, fiscal budget</title>
-      <link>https://www.juneauempire.com/2026/11/12/juneau-school-board-adopts-2027-strategic-plan-fiscal-budget/</link>
-      <guid isPermaLink="false">a12bf2de96287b55379262a1e80b1f903b791ab9</guid>
-      <pubDate>Thu, 12 Nov 2026 23:30:00 GMT</pubDate>
-      <description><![CDATA[Boad members reviewed final strategic plan benchmarks and fiscal year operational spending]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>In Alaska’s legislative elections, a handful of races remain undecided nail-biters</title>
-      <link>https://alaskabeacon.com/2026/11/12/in-alaskas-legislative-elections-a-handful-of-races-remain-undecided-nailbiters/</link>
-      <guid isPermaLink="false">bde4bfff2ece806903f80be875757edeb4bd8c39</guid>
-      <pubDate>Thu, 12 Nov 2026 22:27:55 GMT</pubDate>
-      <description><![CDATA[In the Matanuska-Susitna Borough, candidates in two different Alaska House of Representatives elections are separated by five votes, according to preliminary, partial ranked choice runoff data published by the Alaska Division of Elections on Wednesday night. The winners of those two races are not expected to change the balance of power in the Alaska House, […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>US has floated Ukraine ceding Donbas for Nato membership, Zelensky says</title>
-      <link>https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1476d670af2a66fcf59baa501ded5500955d82d6</guid>
-      <pubDate>Sat, 14 Nov 2026 15:15:57 GMT</pubDate>
-      <description><![CDATA[The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.]]></description>
+      <title>Bomb found near ethanol plant in central Illinois forces evacuations</title>
+      <link>https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations</link>
+      <guid isPermaLink="false">4140abd55056c13ff306798c75b3039eda9fdfbe</guid>
+      <pubDate>Sat, 14 Nov 2026 20:12:34 GMT</pubDate>
+      <description><![CDATA[The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been "rendered safe," but called it a "credible threat." The FBI is investigating.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Grandmother mistakes medieval gold cross for costume jewelry before learning its five-figure value</title>
-      <link>https://www.foxnews.com/travel/grandmother-mistakes-medieval-gold-cross-costume-jewelry-learning-five-figure-value</link>
-      <guid isPermaLink="false">5731f2d6baf50cdd658fcc4b66368e983de474d9</guid>
-      <pubDate>Sat, 14 Nov 2026 15:00:44 GMT</pubDate>
-      <description><![CDATA[A United Kingdom grandmother nearly tossed the medieval gold reliquary cross aside as costume jewelry before fellow hobbyists confirmed it was real gold.]]></description>
+      <title>DEPROGRAMMED: A 'kind offer' of death sent this couple running from universal health care</title>
+      <link>https://www.foxnews.com/media/deprogrammed-kind-offer-death-sent-couple-running-universal-health-care</link>
+      <guid isPermaLink="false">13afcd0040f3a7073883938ddb1859077e33de32</guid>
+      <pubDate>Sat, 14 Nov 2026 20:00:48 GMT</pubDate>
+      <description><![CDATA[Donovan James calls Canada's MAID program "evil" after his wife Kristin says she received end-of-life info before even getting an oncology appointment.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Comedians call out Dave Chappelle over 'disgusting' routine celebrating Charlie Kirk's murder</title>
-      <link>https://www.foxnews.com/media/comedians-call-out-dave-chappelle-disgusting-routine-celebrating-charlie-kirks-murder</link>
-      <guid isPermaLink="false">b48034c6e7d3df338241f3cbddb0e89d8c0bdb8e</guid>
-      <pubDate>Sat, 14 Nov 2026 15:00:07 GMT</pubDate>
-      <description><![CDATA[Comedians including Rob Schneider and Tim Young condemned Dave Chappelle after leaked video showed him saying he feels better following Charlie Kirk's assassination.]]></description>
+      <title>FAA ground stop forces changes for TNA Wrestling's Destination X pay-per-view</title>
+      <link>https://www.foxnews.com/outkick-sports/faa-ground-stop-forces-changes-tna-wrestling-destination-x-pay-per-view</link>
+      <guid isPermaLink="false">91eb74cf76a598cc2af15d312ddd213380ddf25b</guid>
+      <pubDate>Sat, 14 Nov 2026 19:42:41 GMT</pubDate>
+      <description><![CDATA[TNA Wrestling's Destination X in Edmonton faces lineup changes after the FAA nationwide ground stop stranded wrestlers trying to reach the event.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Dems' California redistricting mastermind flips script after helping party win 5 GOP seats: 'Kill'</title>
-      <link>https://www.foxnews.com/politics/architect-dems-california-redistricting-win-makes-ironic-call-helping-flip-5-gop-seats-kill</link>
-      <guid isPermaLink="false">04f30056fbc3db631832fcda620c7f8708841acf</guid>
-      <pubDate>Sat, 14 Nov 2026 15:00:06 GMT</pubDate>
-      <description><![CDATA[Paul Mitchell, architect of California's Prop 50, claims Democrats should establish national standards to end partisan gerrymandering for good.]]></description>
+      <title>Shane Gillis says he promised 'no controversy' before 'SNL' monologue that sparked backlash</title>
+      <link>https://www.foxnews.com/media/shane-gillis-says-he-promised-no-controversy-before-snl-monologue-sparked-backlash</link>
+      <guid isPermaLink="false">85755d8aed8dcccd0926bdce42cbbef088c7055e</guid>
+      <pubDate>Sat, 14 Nov 2026 19:31:39 GMT</pubDate>
+      <description><![CDATA[Shane Gillis said on "The Joe Rogan Experience" that "Saturday Night Live" producers didn't approve his monologue he called a "solid C minus."]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>UFC star and 21-year-old friend reportedly cleared to wrestle at RAF days after fending off hotel lobby ambush</title>
-      <link>https://www.foxnews.com/outkick-sports/ufc-star-21-year-old-friend-reportedly-cleared-wrestle-raf-days-after-fending-off-hotel-lobby-ambush</link>
-      <guid isPermaLink="false">7255e66f7bd437715a90f70f7c0caa29a39d4224</guid>
-      <pubDate>Sat, 14 Nov 2026 14:53:15 GMT</pubDate>
-      <description><![CDATA[Merab Dvalishvili will reportedly compete at RAF Abu Dhabi tonight on Fox Nation despite being ambushed in a hotel lobby earlier this week in a wild seven-on-two brawl.]]></description>
+      <title>Justice Alito warns America must preserve 3 core principles regardless of country’s ‘atmosphere’</title>
+      <link>https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere</link>
+      <guid isPermaLink="false">2523b52762476a49dcb2d483fc6cc4671d7292c1</guid>
+      <pubDate>Sat, 14 Nov 2026 19:29:34 GMT</pubDate>
+      <description><![CDATA[Supreme Court Justice Samuel Alito outlined three principles he says Americans must always prioritize amid the 2026 midterms and the Iran War.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>WWE's Tiffany Stratton leaves little to the imagination as she mocks rival in first appearance since title win</title>
-      <link>https://www.foxnews.com/outkick-sports/wwe-tiffany-stratton-leaves-little-imagination-mocks-rival-first-appearance-since-title-win</link>
-      <guid isPermaLink="false">1c9bc128efa8c25e02b05c57c095ee8316d30426</guid>
-      <pubDate>Sat, 14 Nov 2026 14:51:24 GMT</pubDate>
-      <description><![CDATA[Tiffany Stratton mocked Chelsea Green on "Friday Night SmackDown" after cashing in her Money in the Bank contract at Crown Jewel for the title.]]></description>
+      <title>New long-range forecasts reveal snow trends increasing for starved Mountain West amid Super El Niño</title>
+      <link>https://www.foxweather.com/weather-news/super-el-nino-increase-snow-mountain-west-winter</link>
+      <guid isPermaLink="false">80551d6357d03610865f0f99d5aa3e02d7be5868</guid>
+      <pubDate>Sat, 14 Nov 2026 19:19:51 GMT</pubDate>
+      <description><![CDATA[Super El Niño could help mountains across the West make a significant rebound in terms of snow this upcoming winter after warm temperatures and a lack of storms contributed to record-low snowpack across the Intermountain West last winter.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>US reportedly loses longstanding measles elimination status as cases surge nationwide</title>
+      <link>https://www.foxnews.com/health/us-loses-longstanding-measles-elimination-status-cases-surge-nationwide</link>
+      <guid isPermaLink="false">16b83a490057070d68700dd41acbb9d4849d6562</guid>
+      <pubDate>Sat, 14 Nov 2026 19:17:16 GMT</pubDate>
+      <description><![CDATA[PAHO has reportedly revoked the U.S. measles elimination status held since 2000, with over 5,412 confirmed cases in 2026 signaling continuous spread.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Noel Fielding 'appalled' by jokes he made with Russell Brand</title>
-      <link>https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4f349e95ac96235f906b4a7a97ca938c503ececd</guid>
-      <pubDate>Sat, 14 Nov 2026 14:46:26 GMT</pubDate>
-      <description><![CDATA[The Great British Bake Off presenter says he has not been in contact with the convicted rapist "for many years".]]></description>
+      <title>'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead</title>
+      <link>https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference</link>
+      <guid isPermaLink="false">c7adac91d88e4c2f71303b37666fa813e10b90fc</guid>
+      <pubDate>Sat, 14 Nov 2026 19:13:54 GMT</pubDate>
+      <description><![CDATA[Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Copper wire upgrade caused nationwide flight suspension, US transport secretary says</title>
+      <link>https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a34f168e066d36e13708ac9b109eb128ceefbf2d</guid>
+      <pubDate>Sat, 14 Nov 2026 19:12:25 GMT</pubDate>
+      <description><![CDATA[The US government is trying to find out whether the chaos was caused by "incompetence" or faulty equipment.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>FAA ground stop puts obstacle in front of social media stars trying to get to AEW's Full Gear PPV</title>
-      <link>https://www.foxnews.com/outkick-sports/faa-groundstop-obstacle-social-media-stars-aew-full-gear-ppv</link>
-      <guid isPermaLink="false">5fb8302d9ea7746a3d8c864b9d60121ecfb70036</guid>
-      <pubDate>Sat, 14 Nov 2026 14:28:40 GMT</pubDate>
-      <description><![CDATA[The FAA nationwide ground stop left NBA, NHL and college football reeling while AEW's Costco Guys scrambled to reach Full Gear in Phoenix by Saturday.]]></description>
+      <title>NFL official Don Willard will referee two games in one day after FAA ground stop disrupts travel, league says</title>
+      <link>https://www.foxnews.com/outkick-sports/nfl-official-don-willard-referee-two-games-one-day-faa-ground-stop-disrupts-travel-league-says</link>
+      <guid isPermaLink="false">45fece14379a87c586412b0ed56afae34d11778f</guid>
+      <pubDate>Sat, 14 Nov 2026 19:04:37 GMT</pubDate>
+      <description><![CDATA[NFL official Don Willard will referee two games in one day, driving 110 miles from Indianapolis to Cincinnati after the FAA ground stop hit Week 10.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>What we know about the ground stop and what to do if you're affected</title>
-      <link>https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">fb9303c76708ab02a80c1cf76bcfdfa8ed331a47</guid>
-      <pubDate>Sat, 14 Nov 2026 14:20:57 GMT</pubDate>
-      <description><![CDATA[US officials say the disruption was caused by old equipment overloading and not a cyber-attack.]]></description>
+      <title>Princess Diana’s legendary White House dance with John Travolta almost didn’t happen</title>
+      <link>https://www.foxnews.com/entertainment/princess-diana-legendary-white-house-dance-john-travolta-almost-didnt-happen</link>
+      <guid isPermaLink="false">08799de157b37f0963933f9c76f1e9c29fad9b6b</guid>
+      <pubDate>Sat, 14 Nov 2026 19:00:35 GMT</pubDate>
+      <description><![CDATA[Princess Diana danced with Clint Eastwood, Tom Selleck and Ronald Reagan that evening, but it took coaxing to get John Travolta onto the floor.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Second catch attempt for SpaceX Starship rocket</title>
-      <link>https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">713a48e07b7f204fa693f1295ffeaa35cd4250c6</guid>
-      <pubDate>Sat, 14 Nov 2026 14:18:41 GMT</pubDate>
-      <description><![CDATA[The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.]]></description>
+      <title>Hugh Jackman, Sutton Foster enjoy romantic beach day in Australia</title>
+      <link>https://www.foxnews.com/entertainment/hugh-jackman-sutton-foster-enjoy-romantic-beach-day-australia</link>
+      <guid isPermaLink="false">2ef3f66a9208b2be281162183345876f3ab3c670</guid>
+      <pubDate>Sat, 14 Nov 2026 19:00:03 GMT</pubDate>
+      <description><![CDATA[Hugh Jackman and Sutton Foster were photographed sharing a kiss and playing Frisbee at Sydney's Bondi Beach.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Two Americans drown after Caribbean current pulls them out to sea</title>
+      <link>https://www.foxnews.com/world/two-americans-drowned-strong-current-ripped-them-bahaman-sea-police-say</link>
+      <guid isPermaLink="false">adc7c44a2188aa48f322a20d9b2a71da3e665592</guid>
+      <pubDate>Sat, 14 Nov 2026 18:42:12 GMT</pubDate>
+      <description><![CDATA[Two American tourists drowned off Birimi island after swimming beyond a warning sign area and being swept out by a strong current, Bahamas police said.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Italy fines Meta €805m over accessing users' photos</title>
+      <link>https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">359fb450257d6b54f31c85ef899866c4bb8e390e</guid>
+      <pubDate>Sat, 14 Nov 2026 18:28:06 GMT</pubDate>
+      <description><![CDATA[The social media giant is accused of not informing 20 million users it had access to their photos.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Philippines wins first Eurovision Song Contest Asia</title>
+      <link>https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">03eb88a9ba92da75b8afc18514cddc158c69fd37</guid>
+      <pubDate>Sat, 14 Nov 2026 18:17:58 GMT</pubDate>
+      <description><![CDATA[Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'</title>
+      <link>https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">95238972c93dfe61ece1e86d35b91a210ab33872</guid>
+      <pubDate>Sat, 14 Nov 2026 18:00:10 GMT</pubDate>
+      <description><![CDATA[Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New prostate cancer guidelines urge men to start screening at specific age</title>
+      <link>https://www.foxnews.com/health/new-prostate-cancer-guidelines-urge-men-start-screening-specific-age</link>
+      <guid isPermaLink="false">b38c66756cebd3d264f5f7cf53608345a8527eba</guid>
+      <pubDate>Sat, 14 Nov 2026 17:48:19 GMT</pubDate>
+      <description><![CDATA[American Cancer Society guidelines now recommend PSA blood tests every two years for men 50-69, with Black men urged to start annual screening at 45.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Thousands turn out in Edinburgh to protest against AI data centres</title>
+      <link>https://www.bbc.co.uk/news/articles/c8n50w445zgpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6e4f6756614f6bdc3c434d3be4841116779cc873</guid>
+      <pubDate>Sat, 14 Nov 2026 17:20:33 GMT</pubDate>
+      <description><![CDATA[Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade</title>
+      <link>https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel</link>
+      <guid isPermaLink="false">cc0a455b519d717d027be11de1d2cd1ad8e6782e</guid>
+      <pubDate>Sat, 14 Nov 2026 16:53:04 GMT</pubDate>
+      <description><![CDATA[Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fuel crisis and protests pressure Chile's far-right president</title>
+      <link>https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students</link>
+      <guid isPermaLink="false">86cee693d648c2e0b5f9b276f45b9e75834d58ef</guid>
+      <pubDate>Sat, 14 Nov 2026 16:05:12 GMT</pubDate>
+      <description><![CDATA[Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump, Putin and Xi plan historic joint meeting in China next week, White House says</title>
+      <link>https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">92720765a427577c0d81d4dc5c0b6fd649afaebb</guid>
+      <pubDate>Sat, 14 Nov 2026 15:53:55 GMT</pubDate>
+      <description><![CDATA[Trump will discuss the "reduction of nuclear weapons" during the unprecedented talks, a spokeswoman says.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -375,60 +431,12 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Anti-Trump Republican courts other defectors as House weighs another vote against Iran war</title>
-      <link>https://www.foxnews.com/politics/anti-trump-republican-courts-other-defectors-house-weighs-another-vote-against-iran-war</link>
-      <guid isPermaLink="false">2a735186bf9baef68fcac6d07ffb78df73e907b1</guid>
-      <pubDate>Sat, 14 Nov 2026 14:00:51 GMT</pubDate>
-      <description><![CDATA[Thomas Massie says he's offering Republicans a "life boat from MAGA" as he pushes a new Iran War Powers resolution to the House floor soon..]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Pentagon's former UFO investigator offers simple theory for mysterious jellyfish-shaped object on video</title>
-      <link>https://www.foxnews.com/us/pentagons-former-ufo-investigator-offers-simple-theory-mysterious-jellyfish-shaped-object-video</link>
-      <guid isPermaLink="false">886269fc121be00712c1a95679aabc8bf77f175c</guid>
-      <pubDate>Sat, 14 Nov 2026 14:00:38 GMT</pubDate>
-      <description><![CDATA[Video near Joint Base Elmendorf-Richardson captures a jellyfish-shaped object with dangling strands, but a former Pentagon UFO investigator suggests kite.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Florida Republican on Democrats' strategy: 'That's the choice they have to make...persecution or policy'</title>
-      <link>https://www.foxnews.com/politics/florida-republican-democrats-strategy-thats-choice-have-make-persecution-policy</link>
-      <guid isPermaLink="false">af0be322d4e381459560a73361e1c884aaeedeb8</guid>
-      <pubDate>Sat, 14 Nov 2026 14:00:09 GMT</pubDate>
-      <description><![CDATA[Controversial Florida congressman charges Democrats will choose to pursue persecution over policy, but also signals willingness to compromise, given the right conditions.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Young people should have legal guarantee of job or training, Milburn tells BBC</title>
-      <link>https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ea18e7d70abcc9cb4527325fccbb7cfb4cbef5d4</guid>
-      <pubDate>Sat, 14 Nov 2026 13:48:37 GMT</pubDate>
-      <description><![CDATA[The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ring of Honor's Deonna Purrazzo talks possibility of Steve Maclin joining All Elite Wrestling</title>
-      <link>https://www.foxnews.com/outkick-sports/ring-honor-deonna-purrazzo-talks-possibility-steve-maclin-joining-all-elite-wrestling</link>
-      <guid isPermaLink="false">d9ca2821c50f17e4e47bb0d2018c73621bf5bc84</guid>
-      <pubDate>Sat, 14 Nov 2026 13:42:02 GMT</pubDate>
-      <description><![CDATA[Deonna Purrazzo says she sees a spot for Steve Maclin in AEW, even floating a potential Ring of Honor World Championship match against Bandido.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Perspective: A new kind of White House press secretary</title>
-      <link>https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary</link>
-      <guid isPermaLink="false">7b1a85e40fdcb902f3c50c830c6ccbee525b4e82</guid>
-      <pubDate>Sat, 14 Nov 2026 13:00:00 GMT</pubDate>
-      <description><![CDATA[With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight</title>
-      <link>https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9ecfb3c9640a609dba173db283451137abbf5741</guid>
-      <pubDate>Sat, 14 Nov 2026 12:22:43 GMT</pubDate>
-      <description><![CDATA[Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.]]></description>
-      <category>world</category>
+      <title>'Full recovery' expected by Sunday as thousands of flights are impacted after historic nationwide ground stop</title>
+      <link>https://www.foxweather.com/weather-news/flights-canceled-delayed-us-ground-stop-november-2026</link>
+      <guid isPermaLink="false">e5f1252081042f3d4f94ea02941c74b749e2f650</guid>
+      <pubDate>Sat, 14 Nov 2026 11:42:04 GMT</pubDate>
+      <description><![CDATA[Thousands of flights were canceled across the country Saturday as airports and airlines worked to get back on track following Friday’s nationwide ground stop, which lasted more than four hours — the longest such shutdown of U.S. airspace since 9/11.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Thousands of flights canceled, delayed as US air travel slowly recovers from historic nationwide ground stop</title>
@@ -439,20 +447,12 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Hungarian authorities uncover $20m during probe of Orbán-era minister</title>
-      <link>https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f8a8437145fb449f768856a36a17ffaaa7ca060d</guid>
-      <pubDate>Sat, 14 Nov 2026 10:42:20 GMT</pubDate>
-      <description><![CDATA[Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>King jokes with Elton John as he marks 78th birthday with radio show</title>
-      <link>https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">06f8034fb0bb70bed599046a3b520578e7faf05d</guid>
-      <pubDate>Sat, 14 Nov 2026 10:02:59 GMT</pubDate>
-      <description><![CDATA[The monarch appears on a special episode to coincide with his 78th birthday on Saturday.]]></description>
-      <category>world</category>
+      <title>Impacts of historic nationwide ground stop reach weekend sporting events after teams are left scrambling</title>
+      <link>https://www.foxweather.com/weather-news/nationwide-ground-stop-throws-sports-travel-into-chaos-ahead-of-weekend-games</link>
+      <guid isPermaLink="false">6d4290d9e2c19de60e6af5eeb7d2ca1af3e86ad4</guid>
+      <pubDate>Sat, 14 Nov 2026 00:41:53 GMT</pubDate>
+      <description><![CDATA[A nationwide FAA ground stop left professional and college sports teams scrambling to reach their weekend games, with some switching to buses as flight disruptions mounted.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Weekend sporting events in jeopardy as nationwide ground stop throws air travel into chaos</title>
@@ -495,6 +495,14 @@
       <category>weather</category>
     </item>
     <item>
+      <title>Nor’easter begins its move away from Northeast after bringing heavy snow, severe weather across the region</title>
+      <link>https://www.foxweather.com/weather-news/northeast-faces-messy-friday-as-noreaster-ushers-in-rain-wind-and-snow</link>
+      <guid isPermaLink="false">a03022c077000f2f58be59d68e3f802555ddb7ce</guid>
+      <pubDate>Fri, 13 Nov 2026 11:30:55 GMT</pubDate>
+      <description><![CDATA[A strong nor’easter lashed the Northeast with more heavy rain and gusty winds, and higher elevations in Upstate New York and northern New England saw more snow on Thursday and Friday.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
       <title>Nor’easter begins move away from Northeast after bringing heavy snow, severe weather across the region</title>
       <link>https://www.foxweather.com/weather-news/northeast-faces-messy-friday-as-noreaster-ushers-in-rain-wind-and-snow</link>
       <guid isPermaLink="false">a03022c077000f2f58be59d68e3f802555ddb7ce</guid>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">869512c6eac868e78fd5a3df25fbdb57202ad623</guid>
       <pubDate>Fri, 13 Nov 2026 02:39:26 GMT</pubDate>
       <description><![CDATA[Severe weather slammed the Northeast and Mid-Atlantic on Thursday as a powerful nor’easter moved across the region, bringing heavy rain, large hail, damaging winds and several reported tornadoes.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Hurricane Harvey fraudster who threatened to kill a witness sentenced to nearly 6 years in prison</title>
-      <link>https://www.foxweather.com/weather-news/texas-woman-charged-defrauding-hurricane-harvey-relief-set-serve-71-months-federal-prison</link>
-      <guid isPermaLink="false">84924d797b26a47765f1a878d13cd5c5755a7773</guid>
-      <pubDate>Fri, 13 Nov 2026 00:50:05 GMT</pubDate>
-      <description><![CDATA[A Texas woman who fraudulently obtained a seven-bedroom home through Hurricane Harvey relief funds was sentenced to nearly six years in prison after threatening a witness and assaulting a federal agent.]]></description>
       <category>weather</category>
     </item>
   </channel>
