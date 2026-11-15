@@ -5,45 +5,45 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:39:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:28:32 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: This Afternoon - Mostly Cloudy</title>
+      <title>Anchorage Weather: Tonight - Light Snow Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 15 Nov 2026 00:39:45 GMT</pubDate>
-      <description><![CDATA[30°F. Wind N 5 mph. Mostly cloudy, with a high near 30. North wind around 5 mph.]]></description>
+      <pubDate>Sun, 15 Nov 2026 07:28:32 GMT</pubDate>
+      <description><![CDATA[24°F. Wind N 0 to 5 mph. Snow likely. Cloudy, with a low around 24. North wind 0 to 5 mph. Chance of precipitation is 60%. Little or no snow accumulation expected.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight - Light Snow</title>
+      <title>Anchorage Weather: Sunday - Light Snow Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 15 Nov 2026 00:39:45 GMT</pubDate>
-      <description><![CDATA[24°F. Wind N 0 to 5 mph. Snow. Cloudy, with a low around 24. North wind 0 to 5 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible.]]></description>
+      <pubDate>Sun, 15 Nov 2026 07:28:32 GMT</pubDate>
+      <description><![CDATA[30°F. Wind NE 0 to 5 mph. Snow likely. Cloudy, with a high near 30. Northeast wind 0 to 5 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday - Light Snow</title>
+      <title>Anchorage Weather: Sunday Night - Chance Light Snow then Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 15 Nov 2026 00:39:45 GMT</pubDate>
-      <description><![CDATA[30°F. Wind NE 0 to 5 mph. Snow. Cloudy, with a high near 30. Northeast wind 0 to 5 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible.]]></description>
+      <pubDate>Sun, 15 Nov 2026 07:28:32 GMT</pubDate>
+      <description><![CDATA[27°F. Wind N 5 to 10 mph. A chance of snow before midnight. Mostly cloudy, with a low around 27. North wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday Night - Slight Chance Light Snow then Mostly Cloudy</title>
+      <title>Anchorage Weather: Monday - Slight Chance Freezing Rain then Chance Light Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 15 Nov 2026 00:39:45 GMT</pubDate>
-      <description><![CDATA[27°F. Wind N 5 to 10 mph. A slight chance of snow before midnight. Mostly cloudy, with a low around 27. North wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
+      <pubDate>Sun, 15 Nov 2026 07:28:32 GMT</pubDate>
+      <description><![CDATA[35°F. Wind NE 5 mph. A slight chance of freezing rain between 9am and noon, then a chance of snow and a chance of freezing rain. Mostly cloudy, with a high near 35. Northeast wind around 5 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Monday - Slight Chance Freezing Rain then Mostly Cloudy</title>
+      <title>Anchorage Weather: Monday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 15 Nov 2026 00:39:45 GMT</pubDate>
-      <description><![CDATA[34°F. Wind NE 5 mph. A slight chance of freezing rain between 9am and noon. Mostly cloudy, with a high near 34. Northeast wind around 5 mph.]]></description>
+      <pubDate>Sun, 15 Nov 2026 07:28:32 GMT</pubDate>
+      <description><![CDATA[24°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 24. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -255,11 +255,147 @@
       <category>local</category>
     </item>
     <item>
+      <title>Copper wire upgrade behind US flight suspension, transport secretary says</title>
+      <link>https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a34f168e066d36e13708ac9b109eb128ceefbf2d</guid>
+      <pubDate>Sun, 15 Nov 2026 07:10:31 GMT</pubDate>
+      <description><![CDATA[The US government is trying to find out whether the chaos was caused by "incompetence" or faulty equipment.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns</title>
+      <link>https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">84248506c77ce9558a2c53e933c09d5f9efe8a14</guid>
+      <pubDate>Sun, 15 Nov 2026 06:01:46 GMT</pubDate>
+      <description><![CDATA[Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Arch Manning turns Death Valley into LSU’s funeral as Texas buries Lane Kiffin’s CFP hopes</title>
+      <link>https://www.foxnews.com/outkick-sports/arch-manning-overcomes-sloppy-performance-clutch-td-pass-lift-texas-lsu-crucial-matchup</link>
+      <guid isPermaLink="false">2e4bcd6c15cc4b792adb05361f1ca3efcf93b2f9</guid>
+      <pubDate>Sun, 15 Nov 2026 04:57:46 GMT</pubDate>
+      <description><![CDATA[Lane Kiffin's $40 million LSU roster watched Arch Manning deliver a late touchdown pass to Raleek Brown that ended the Tigers' playoff dreams.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown</title>
+      <link>https://www.foxnews.com/us/masked-dirt-bike-riders-swarm-suv-brazen-nyc-street-attack-sparking-police-crackdown</link>
+      <guid isPermaLink="false">c571a41dadc5f9a4ab8016d6afa944ef98f8dde0</guid>
+      <pubDate>Sun, 15 Nov 2026 04:55:51 GMT</pubDate>
+      <description><![CDATA[Video captures masked dirt bike riders swarming and attacking an SUV on a busy Staten Island street as the NYPD warns that arrests are near.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Benches clear in chaotic postgame brawl after Louisville Cardinals top North Carolina Tar Heels</title>
+      <link>https://www.foxnews.com/outkick-sports/benches-clear-chaotic-postgame-brawl-louisville-cardinals-top-north-carolina-tar-heels</link>
+      <guid isPermaLink="false">3245ba15bde6ae58fd3c7b963920ea78497d8b74</guid>
+      <pubDate>Sun, 15 Nov 2026 04:42:25 GMT</pubDate>
+      <description><![CDATA[A bench-clearing brawl erupted after Louisville's late interception sealed a 16-14 college football win over Bill Belichick's North Carolina.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment</title>
+      <link>https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks</link>
+      <guid isPermaLink="false">375d28637ad7a4797e88b9d93971c1119a47ac5f</guid>
+      <pubDate>Sun, 15 Nov 2026 04:28:45 GMT</pubDate>
+      <description><![CDATA[A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Kenneth Walker III out against NFL rushing leader Bijan Robinson's Falcons, Patrick Mahomes off injury report</title>
+      <link>https://www.foxnews.com/outkick-sports/kenneth-walker-iii-out-against-nfl-rushing-leader-bijan-robinson-falcons-patrick-mahomes-off-injury-report</link>
+      <guid isPermaLink="false">617d7a50a74e9054d4d1f4cdd29ab7b77549c3d6</guid>
+      <pubDate>Sun, 15 Nov 2026 04:10:17 GMT</pubDate>
+      <description><![CDATA[Kenneth Walker III was ruled out with a groin injury, leaving rookie Emmett Johnson to lead the Kansas City Chiefs' rushing attack on Sunday.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Georgia football three-star recruit Marcellus Young Casario dies after 'medical emergency,' high school says</title>
+      <link>https://www.foxnews.com/outkick-sports/georgia-football-three-star-recruit-marcellus-young-casario-dies-after-medical-emergency-high-school-says</link>
+      <guid isPermaLink="false">36aaaaa513211f0a37c1d0bc73e1994a19977bd1</guid>
+      <pubDate>Sun, 15 Nov 2026 03:50:34 GMT</pubDate>
+      <description><![CDATA[Marcellus Young Casario, a Georgia Bulldogs defensive lineman commit, died after a sudden medical emergency at his Rabun Gap boarding school.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Florida stuns Kentucky 21-14 as Gators pull off yet another upset win in up-and-down season</title>
+      <link>https://www.foxnews.com/outkick-sports/florida-stuns-kentucky-21-14-gators-pull-off-yet-another-upset-win-up-down-season</link>
+      <guid isPermaLink="false">6185a74a009066887d551db1ca2cb452ffee5614</guid>
+      <pubDate>Sun, 15 Nov 2026 03:33:26 GMT</pubDate>
+      <description><![CDATA[Florida Gators pulled off their third upset of a ranked opponent this season, stunning No. 11 Kentucky 21-14 with a gutsy two-point conversion.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Judge temporarily blocks Trump from closing Washington DC golf course for renovation</title>
+      <link>https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">76222d4d3122ef18644fa291d1540b2030e54540</guid>
+      <pubDate>Sun, 15 Nov 2026 03:21:04 GMT</pubDate>
+      <description><![CDATA[It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Federal judge blocks Trump's renovations of DC golf course hours before its closure</title>
+      <link>https://www.foxnews.com/outkick-sports/federal-judge-blocks-trumps-renovations-dc-golf-course-hours-before-closure</link>
+      <guid isPermaLink="false">1d5c73f83f19b4b222193ecd5b10e7da5b4fe6ed</guid>
+      <pubDate>Sun, 15 Nov 2026 03:00:05 GMT</pubDate>
+      <description><![CDATA[A federal judge cited Donald Trump's Truth Social posts as key evidence when issuing a temporary restraining order on the East Potomac renovation.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Pope Leo speaks of community 'suffering' on visit to remote Andes town</title>
+      <link>https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9f25a7bec4509981db66cf52e72fe5d45a9c8383</guid>
+      <pubDate>Sun, 15 Nov 2026 02:49:45 GMT</pubDate>
+      <description><![CDATA[Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Dabo Swinney reacts after Clemson hits latest low with upset loss to Georgia Tech: 'Nobody coming to save us'</title>
+      <link>https://www.foxnews.com/outkick-sports/dabo-swinney-reacts-clemson-hits-latest-low-upset-loss-georgia-tech-nobody-coming-save-us</link>
+      <guid isPermaLink="false">be330b95f3fabe1e88cee8104e6dbc59f13b47ca</guid>
+      <pubDate>Sun, 15 Nov 2026 02:35:20 GMT</pubDate>
+      <description><![CDATA[Georgia Tech rushed for 269 yards and handed Dabo Swinney one of his worst career losses as Clemson fell 20-6 at home to a team with a losing record.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>UNC Asheville player makes costly mistake after miracle 3-pointer that could have forced overtime</title>
+      <link>https://www.foxnews.com/outkick-sports/unc-asheville-player-makes-costly-mistake-after-miracle-3-pointer-could-have-forced-overtime</link>
+      <guid isPermaLink="false">ec324e028a42e3871455552600f4be135a50bc93</guid>
+      <pubDate>Sun, 15 Nov 2026 02:08:48 GMT</pubDate>
+      <description><![CDATA[Myles Mayfield's costly intentional foul after a game-tying 3-pointer gave Georgia Tech a stunning 75-74 win over UNC Asheville in the final seconds.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Top-ranked Georgia rolls past Missouri, moves closer to SEC championship game return</title>
+      <link>https://www.foxnews.com/outkick-sports/top-ranked-georgia-rolls-past-missouri-moves-closer-sec-championship-game-return</link>
+      <guid isPermaLink="false">b8965c99c981b19d6628918116c96325d15526b6</guid>
+      <pubDate>Sun, 15 Nov 2026 01:30:05 GMT</pubDate>
+      <description><![CDATA[Nate Frazier's three rushing touchdowns helped Georgia race to a 31-point halftime lead over Missouri in a dominant return to the No. 1 ranking.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>FAA ground stop disrupts college football</title>
+      <link>https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays</link>
+      <guid isPermaLink="false">bdef44745e9a1511ca97489a6d7e5d5b98ff834e</guid>
+      <pubDate>Sun, 15 Nov 2026 01:13:59 GMT</pubDate>
+      <description><![CDATA[Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.]]></description>
+      <category>world</category>
+    </item>
+    <item>
       <title>Michigan loses again and the noise around Kyle Whittingham's job grows as Oregon keeps playoff hopes alive</title>
       <link>https://www.foxnews.com/outkick-sports/michigan-loses-kyle-whittingham-job-noise-grows-oregon-keeps-playoff-hopes-alive</link>
       <guid isPermaLink="false">e6910d2c7bb335f7f86d4414de02d132eff754ec</guid>
       <pubDate>Sun, 15 Nov 2026 00:25:41 GMT</pubDate>
       <description><![CDATA[The No. 16 Oregon Ducks defeated Michigan on Saturday, dropping the Wolverines to 5-5 as noise continues to grow around Kyle Whittingham's job.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment</title>
+      <link>https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ce16af1dad31ce2a48f9348597ae9db1bf6cc2cf</guid>
+      <pubDate>Sun, 15 Nov 2026 00:09:29 GMT</pubDate>
+      <description><![CDATA[The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -271,115 +407,11 @@
       <category>world</category>
     </item>
     <item>
-      <title>How to shake hands and make eye contact - the lessons preparing pupils for the world of work</title>
-      <link>https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">75b585e26f04b537a86d505ea7c24e62f6eca16f</guid>
-      <pubDate>Sun, 15 Nov 2026 00:05:56 GMT</pubDate>
-      <description><![CDATA[Year 10 pupils are learning employability skills to reduce the number of young people who end up "Neet".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tennessee Volunteers overcome sluggish offense, jet lag to take down Texas A&amp;M and keep CFP hopes alive</title>
-      <link>https://www.foxnews.com/outkick-sports/tennessee-volunteers-overcome-sluggish-offense-jet-lag-take-down-texas-am-keep-cfp-hopes-alive</link>
-      <guid isPermaLink="false">f734611fdde381616c419e7bbd9809cfe163e949</guid>
-      <pubDate>Sun, 15 Nov 2026 00:05:06 GMT</pubDate>
-      <description><![CDATA[The Tennessee Volunteers overcame an FAA ground stop delay and a quarterback injury to beat the Texas A&M Aggies on the road to keep CFP hopes alive.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Florida city cancels St. Patrick's Day parade, citing new anti-DEI law</title>
-      <link>https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei</link>
-      <guid isPermaLink="false">a5bcef2fd5a21f8b79a8e5e1b0a0630220fb3d94</guid>
-      <pubDate>Sun, 15 Nov 2026 00:03:52 GMT</pubDate>
-      <description><![CDATA[A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Beauty advent calendars can cost hundreds - but are they value for money?</title>
-      <link>https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2693065fc308a168e64eed5a04c4bd02f355f56c</guid>
-      <pubDate>Sun, 15 Nov 2026 00:01:07 GMT</pubDate>
-      <description><![CDATA[Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kathy Ireland’s husband escapes burning boat after engine explodes 20 miles offshore</title>
-      <link>https://www.foxnews.com/entertainment/kathy-irelands-husband-escapes-burning-boat-after-engine-explodes-20-miles-offshore</link>
-      <guid isPermaLink="false">a7ec9406b4512d071e3ccb627db26e9328e192f7</guid>
-      <pubDate>Sat, 14 Nov 2026 23:00:19 GMT</pubDate>
-      <description><![CDATA[Kathy Ireland shared dramatic footage of husband Greg Olsen's boat engulfed in flames after an engine explosion 20 miles west of Santa Barbara.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kai Trump opens up about relationship with Tiger Woods, her mother's boyfriend: 'I love him so much'</title>
-      <link>https://www.foxnews.com/outkick-sports/kai-trump-opens-relationship-tiger-woods-mothers-boyfriend-love-him-so-much</link>
-      <guid isPermaLink="false">5b6aa32ea929462a28180a168bae3b97cfd7bf55</guid>
-      <pubDate>Sat, 14 Nov 2026 22:50:07 GMT</pubDate>
-      <description><![CDATA[Kai Trump revealed how Tiger Woods helps with her golf game, calling her mother Vanessa Trump's boyfriend "the best" in a Golfweek interview.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary</title>
-      <link>https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary</link>
-      <guid isPermaLink="false">435fe2bf8371680a76b96f35f53e8215627cdc46</guid>
-      <pubDate>Sat, 14 Nov 2026 22:48:38 GMT</pubDate>
-      <description><![CDATA[Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US has floated Ukraine ceding Donbas for Nato membership, Zelensky says</title>
-      <link>https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1476d670af2a66fcf59baa501ded5500955d82d6</guid>
-      <pubDate>Sat, 14 Nov 2026 22:37:25 GMT</pubDate>
-      <description><![CDATA[The US has not confirmed the Ukrainian president's comments - a US official told the BBC "many ideas continue to be discussed".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Alleged Russell Brand rape victim wants age of consent law changed</title>
-      <link>https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">10cc506884fb0c410efc2b620fb197776064474a</guid>
-      <pubDate>Sat, 14 Nov 2026 22:37:14 GMT</pubDate>
-      <description><![CDATA[Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>New Orleans port sues tanker owners over cruise ship collision for $1m</title>
-      <link>https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">cba5f678d19e1e1ca68f4fbca9fc98d409dce2dc</guid>
-      <pubDate>Sat, 14 Nov 2026 22:27:06 GMT</pubDate>
-      <description><![CDATA[All cruise ship passengers and crew were accounted for, though 32 people were left with non-serious injuries from Friday's collision.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fetterman warns there is no longer 'common ground' with far-left Democrats over Israel</title>
-      <link>https://www.foxnews.com/media/fetterman-warns-no-longer-common-ground-far-left-democrats-israel</link>
-      <guid isPermaLink="false">132dc54d5f1888e36197fac7c2e862f498029982</guid>
-      <pubDate>Sat, 14 Nov 2026 22:26:31 GMT</pubDate>
-      <description><![CDATA[Sen. John Fetterman says he no longer sees any common ground with the far left on Israel and calls his 2028 primary challenger Ahmed Moor "pro-Hamas."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Iowa State running back has massive 3 TD opening quarter, caps it off with Michael Jackson impression</title>
-      <link>https://www.foxnews.com/outkick-sports/iowa-state-running-back-massive-3-td-opening-quarter-caps-michael-jackson-impression</link>
-      <guid isPermaLink="false">b74bc5cb8fa52102bf8a03b6aabfea6745c2a7bf</guid>
-      <pubDate>Sat, 14 Nov 2026 22:22:37 GMT</pubDate>
-      <description><![CDATA[Aiden Flora scored three first-quarter touchdowns and rushed for 216 yards as Iowa State routed the Cincinnati Bearcats 41-13 at Jack Trice Stadium.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US has lost measles elimination status, global health authorities say</title>
-      <link>https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho</link>
-      <guid isPermaLink="false">efa9822a8d94fda4c4ab114afc06088b3fd26bca</guid>
-      <pubDate>Sat, 14 Nov 2026 22:15:02 GMT</pubDate>
-      <description><![CDATA[The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth</title>
-      <link>https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">06a1e4f4652ecdc0a930f79cdd8eeefcdb1ad9bc</guid>
-      <pubDate>Sat, 14 Nov 2026 22:09:40 GMT</pubDate>
-      <description><![CDATA[SpaceX has performed the historic catch using mechanical arms nicknamed "chopsticks".]]></description>
+      <title>Judo champion shakes up French presidential race with surprise candidacy</title>
+      <link>https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7e33db6957fb34724324bc96097ddb4bbbc974c5</guid>
+      <pubDate>Sun, 15 Nov 2026 00:06:51 GMT</pubDate>
+      <description><![CDATA[Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -389,38 +421,6 @@
       <pubDate>Sat, 14 Nov 2026 22:02:19 GMT</pubDate>
       <description><![CDATA[A blast from the past turned into a public safety challenge after a U.S. Forest Service archaeologist discovered four buried cases of dynamite believed to date to the 1930s in Washington’s remote backcountry.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Trump takes parting shot at DC golf course conditions one day before major overhaul begins</title>
-      <link>https://www.foxnews.com/outkick-sports/trump-takes-parting-shot-dc-golf-course-conditions-one-day-before-major-overhaul-begins</link>
-      <guid isPermaLink="false">8f803c170f43c3d591becb5adb1c3d339dd9bfa5</guid>
-      <pubDate>Sat, 14 Nov 2026 21:55:15 GMT</pubDate>
-      <description><![CDATA[Trump shared photos of what he calls "Trash Island" on Truth Social, blasting U.S. District Judge Ana Reyes for slowing the East Potomac overhaul.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tom Arnold admits he hasn’t dated in nearly 10 years after calling people his age ‘disgusting’</title>
-      <link>https://www.foxnews.com/entertainment/tom-arnold-ready-date-again-nine-years-single-despite-thinking-age-disgusting</link>
-      <guid isPermaLink="false">481e3958f72f49abf4688fdb3a9e966a10ad0e73</guid>
-      <pubDate>Sat, 14 Nov 2026 21:43:02 GMT</pubDate>
-      <description><![CDATA[Tom Arnold reveals he hasn't dated in nearly ten years but says his "My Crazy X-Wife" comedy tour changed his outlook on finding love.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>SpaceX successfully catches Starship and makes history</title>
-      <link>https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history</link>
-      <guid isPermaLink="false">5f3128295c2d7039900b40269748f7ca38da0339</guid>
-      <pubDate>Sat, 14 Nov 2026 21:42:41 GMT</pubDate>
-      <description><![CDATA[The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ohio State's Jeremiah Smith becomes Big Ten's all-time leading receiver in just his third college season</title>
-      <link>https://www.foxnews.com/outkick-sports/ohio-state-jeremiah-smith-becomes-big-ten-all-time-leading-receiver-third-college-season</link>
-      <guid isPermaLink="false">74b24297d98c04ecff752444e426322119cf9883</guid>
-      <pubDate>Sat, 14 Nov 2026 21:30:06 GMT</pubDate>
-      <description><![CDATA[Jeremiah Smith broke the Big Ten all-time receiving yards record in just three college seasons at Ohio State, surpassing Purdue's John Standeford.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>New long-range forecasts reveal snow trends increasing for starved Mountain West amid Super El Niño</title>
