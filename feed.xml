@@ -5,45 +5,45 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 07:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:14:28 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Tonight - Light Snow Likely</title>
+      <title>Anchorage Weather: Today - Light Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 15 Nov 2026 07:28:32 GMT</pubDate>
-      <description><![CDATA[24°F. Wind N 0 to 5 mph. Snow likely. Cloudy, with a low around 24. North wind 0 to 5 mph. Chance of precipitation is 60%. Little or no snow accumulation expected.]]></description>
+      <pubDate>Sun, 15 Nov 2026 15:14:28 GMT</pubDate>
+      <description><![CDATA[30°F. Wind N 0 to 5 mph. Snow. Cloudy, with a high near 30. North wind 0 to 5 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday - Light Snow Likely</title>
+      <title>Anchorage Weather: Tonight - Chance Light Snow then Chance Freezing Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 15 Nov 2026 07:28:32 GMT</pubDate>
-      <description><![CDATA[30°F. Wind NE 0 to 5 mph. Snow likely. Cloudy, with a high near 30. Northeast wind 0 to 5 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible.]]></description>
+      <pubDate>Sun, 15 Nov 2026 15:14:28 GMT</pubDate>
+      <description><![CDATA[29°F. Wind N 10 mph. A chance of snow before 9pm, then a chance of freezing rain between 9pm and 3am. Mostly cloudy, with a low around 29. North wind around 10 mph. Chance of precipitation is 40%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday Night - Chance Light Snow then Mostly Cloudy</title>
+      <title>Anchorage Weather: Monday - Mostly Cloudy then Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 15 Nov 2026 07:28:32 GMT</pubDate>
-      <description><![CDATA[27°F. Wind N 5 to 10 mph. A chance of snow before midnight. Mostly cloudy, with a low around 27. North wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Monday - Slight Chance Freezing Rain then Chance Light Snow</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 15 Nov 2026 07:28:32 GMT</pubDate>
-      <description><![CDATA[35°F. Wind NE 5 mph. A slight chance of freezing rain between 9am and noon, then a chance of snow and a chance of freezing rain. Mostly cloudy, with a high near 35. Northeast wind around 5 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Sun, 15 Nov 2026 15:14:28 GMT</pubDate>
+      <description><![CDATA[36°F. Wind N 5 to 10 mph. A chance of rain after noon. Mostly cloudy, with a high near 36. North wind 5 to 10 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Monday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Sun, 15 Nov 2026 07:28:32 GMT</pubDate>
-      <description><![CDATA[24°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 24. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Sun, 15 Nov 2026 15:14:28 GMT</pubDate>
+      <description><![CDATA[29°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 29. Northeast wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Tuesday - Mostly Sunny</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sun, 15 Nov 2026 15:14:28 GMT</pubDate>
+      <description><![CDATA[33°F. Wind NE 0 to 5 mph. Mostly sunny, with a high near 33. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -247,172 +247,180 @@
       <category>local</category>
     </item>
     <item>
-      <title>Margaret Ann Lau</title>
-      <link>https://www.homernews.com/2026/11/13/margaret-ann-lau/</link>
-      <guid isPermaLink="false">093214145d879a293fcf0085dc828319883caf8d</guid>
-      <pubDate>Fri, 13 Nov 2026 10:30:00 GMT</pubDate>
-      <description><![CDATA[April, 30, 1945 - November, 7, 2026]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Copper wire upgrade behind US flight suspension, transport secretary says</title>
-      <link>https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a34f168e066d36e13708ac9b109eb128ceefbf2d</guid>
-      <pubDate>Sun, 15 Nov 2026 07:10:31 GMT</pubDate>
-      <description><![CDATA[The US government is trying to find out whether the chaos was caused by "incompetence" or faulty equipment.]]></description>
+      <title>Staggered age of consent to be discussed after Brand case, minister says</title>
+      <link>https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">665055bef3a270096af51ed11f8cc1de240d35fa</guid>
+      <pubDate>Sun, 15 Nov 2026 15:08:30 GMT</pubDate>
+      <description><![CDATA[A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns</title>
-      <link>https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">84248506c77ce9558a2c53e933c09d5f9efe8a14</guid>
-      <pubDate>Sun, 15 Nov 2026 06:01:46 GMT</pubDate>
-      <description><![CDATA[Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.]]></description>
+      <title>Golf influencer Claire Hogle from the bunker, Caroline Wozniacki's ladies night &amp; McConaughey-Manning beat LSU</title>
+      <link>https://www.foxnews.com/outkick-sports/golf-influencer-claire-hogle-bunker-caroline-wozniacki-ladies-night-mcconaughey-manning-beat-lsu</link>
+      <guid isPermaLink="false">7841ba361fabf462336bcdaa07d3ef8da721999c</guid>
+      <pubDate>Sun, 15 Nov 2026 15:02:17 GMT</pubDate>
+      <description><![CDATA[Paige Spiranac calls Claire Hogle a "beautiful golf fairy" after her bunker content, while Bigfoot sighting emails flood the inbox from readers.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Arch Manning turns Death Valley into LSU’s funeral as Texas buries Lane Kiffin’s CFP hopes</title>
-      <link>https://www.foxnews.com/outkick-sports/arch-manning-overcomes-sloppy-performance-clutch-td-pass-lift-texas-lsu-crucial-matchup</link>
-      <guid isPermaLink="false">2e4bcd6c15cc4b792adb05361f1ca3efcf93b2f9</guid>
-      <pubDate>Sun, 15 Nov 2026 04:57:46 GMT</pubDate>
-      <description><![CDATA[Lane Kiffin's $40 million LSU roster watched Arch Manning deliver a late touchdown pass to Raleek Brown that ended the Tigers' playoff dreams.]]></description>
+      <title>Congress' incoming wealthiest member vows to crack down on politicians getting rich in office</title>
+      <link>https://www.foxnews.com/politics/congress-incoming-wealthiest-member-vows-crack-down-politicians-getting-rich-office</link>
+      <guid isPermaLink="false">ee0fbcb26deb495288a9ade598c679cf69921e20</guid>
+      <pubDate>Sun, 15 Nov 2026 15:00:17 GMT</pubDate>
+      <description><![CDATA[Joe Strada said he plans to crack down on congressional insider trading and politicians enriching themselves, drawing on his rise from bowling alley mechanic.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown</title>
-      <link>https://www.foxnews.com/us/masked-dirt-bike-riders-swarm-suv-brazen-nyc-street-attack-sparking-police-crackdown</link>
-      <guid isPermaLink="false">c571a41dadc5f9a4ab8016d6afa944ef98f8dde0</guid>
-      <pubDate>Sun, 15 Nov 2026 04:55:51 GMT</pubDate>
-      <description><![CDATA[Video captures masked dirt bike riders swarming and attacking an SUV on a busy Staten Island street as the NYPD warns that arrests are near.]]></description>
+      <title>Loch Ness Monster sightings jump in 2026 as scientist drills into legendary mystery</title>
+      <link>https://www.foxnews.com/travel/loch-ness-monster-sightings-jump-2026-scientist-drills-legendary-mystery</link>
+      <guid isPermaLink="false">8871a4bfc94c40242a0804e6fd1077b4e24e7d79</guid>
+      <pubDate>Sun, 15 Nov 2026 15:00:00 GMT</pubDate>
+      <description><![CDATA[Even though Loch Ness Monster sightings have more than doubled in 2026, a University of St Andrews researcher explains that the spike is "nothing special" in his view.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Benches clear in chaotic postgame brawl after Louisville Cardinals top North Carolina Tar Heels</title>
-      <link>https://www.foxnews.com/outkick-sports/benches-clear-chaotic-postgame-brawl-louisville-cardinals-top-north-carolina-tar-heels</link>
-      <guid isPermaLink="false">3245ba15bde6ae58fd3c7b963920ea78497d8b74</guid>
-      <pubDate>Sun, 15 Nov 2026 04:42:25 GMT</pubDate>
-      <description><![CDATA[A bench-clearing brawl erupted after Louisville's late interception sealed a 16-14 college football win over Bill Belichick's North Carolina.]]></description>
+      <title>DAVID MARCUS: What big tech’s weekend from hell means for the future of data centers</title>
+      <link>https://www.foxnews.com/opinion/david-marcus-big-techs-weekend-hell-means-future-data-centers</link>
+      <guid isPermaLink="false">38e059d83be2d456736aae442aa8b6ad1b9c9eef</guid>
+      <pubDate>Sun, 15 Nov 2026 14:56:47 GMT</pubDate>
+      <description><![CDATA[Microsoft Outlook's Thursday shutdown and the FAA's Friday flight grounding highlight why data center advocates say this infrastructure is essential.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says</title>
+      <link>https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c6f717fdbe762fddb3c811fb0f8e9cb3b7759f06</guid>
+      <pubDate>Sun, 15 Nov 2026 14:56:21 GMT</pubDate>
+      <description><![CDATA[The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says</title>
+      <link>https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c6f717fdbe762fddb3c811fb0f8e9cb3b7759f06</guid>
+      <pubDate>Sun, 15 Nov 2026 14:56:21 GMT</pubDate>
+      <description><![CDATA[The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Thanksgiving outlook: Multiple El Niño-fueled storms could disrupt holiday travel for millions</title>
+      <link>https://www.foxweather.com/weather-news/thanksgiving-weather-outlook-we-two-weeks-away-from-turkey-time</link>
+      <guid isPermaLink="false">641d73e5b6517d197368ae0a09dd3157ce096efe</guid>
+      <pubDate>Sun, 15 Nov 2026 14:51:42 GMT</pubDate>
+      <description><![CDATA[The holiday season is finally upon us as millions of Americans prepare to travel for Thanksgiving, but not without the risk of wet weather leading up to the big day.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>LSU mascot Mike the Tiger goes after Texas player after Longhorns stun Tigers in Death Valley</title>
+      <link>https://www.foxnews.com/outkick-sports/lsu-mascot-mike-tiger-goes-after-texas-player-longhorns-stun-tigers-death-valley</link>
+      <guid isPermaLink="false">bba05f2d671d2c71d55c2ce8ce0cc34daed4a937</guid>
+      <pubDate>Sun, 15 Nov 2026 14:38:49 GMT</pubDate>
+      <description><![CDATA[The clip shows Mike the Tiger charging at Texas wide receiver Chris Stewart after the taunting freshman celebrated in LSU's end zone postgame.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision</title>
+      <link>https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">cba5f678d19e1e1ca68f4fbca9fc98d409dce2dc</guid>
+      <pubDate>Sun, 15 Nov 2026 14:33:59 GMT</pubDate>
+      <description><![CDATA[The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Richard Sterban of The Oak Ridge Boys dead at 83</title>
+      <link>https://www.foxnews.com/entertainment/richard-sterban-oak-ridge-boys-dead-83</link>
+      <guid isPermaLink="false">765b621774ff2af64cb681b959f8a58d5094900d</guid>
+      <pubDate>Sun, 15 Nov 2026 14:26:44 GMT</pubDate>
+      <description><![CDATA[Richard Sterban's iconic bass voice powered The Oak Ridge Boys' "Elvira" to No. 1. His family revealed he battled pancreatic cancer since March.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ex-NFL star says he'd cut Giants' Jameis Winston for 'Who Let the Dogs Out' stunt vs Commanders</title>
+      <link>https://www.foxnews.com/outkick-sports/ex-nfl-star-says-hed-cut-giants-jameis-winston-who-let-dogs-out-stunt-vs-commanders</link>
+      <guid isPermaLink="false">0ec4bcf5fd26723b889d8cd0be30b8cfdd59ad5f</guid>
+      <pubDate>Sun, 15 Nov 2026 14:23:38 GMT</pubDate>
+      <description><![CDATA[Jameis Winston's viral "Who Let the Dogs Out" cadence against the Washington Commanders drew a fiery response from Donte Whitner on "Get Up."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Virginia parents charged after house party draws hundreds of teens, fireworks and alleged underage drinking</title>
+      <link>https://www.foxnews.com/us/virginia-parents-charged-house-party-hundreds-teens-fireworks-alleged-underage-drinking</link>
+      <guid isPermaLink="false">5d1810d8c7dce0b2860e81bec843d3be8f285a3b</guid>
+      <pubDate>Sun, 15 Nov 2026 14:01:57 GMT</pubDate>
+      <description><![CDATA[Fairfax County police charged Lisa and Aubrey Vaughan after their 13-year-old sons' small backyard party spiraled into a massive gathering with fireworks and crowds.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Putin's war machine tied to troubling recruitment of young women as new deals emerge</title>
+      <link>https://www.foxnews.com/world/putins-war-machine-tied-troubling-recruitment-young-women-new-deals-emerge</link>
+      <guid isPermaLink="false">9353b2bcb0b42c2e55e7ff0386b7262b7a5d9384</guid>
+      <pubDate>Sun, 15 Nov 2026 14:00:46 GMT</pubDate>
+      <description><![CDATA[Two African governments signed deals with Russia's Alabuga drone factory zone as a Ukrainian probe alleges deceptive recruitment of young African women.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>OnlyFans model Courtney Clenney moved to new prison, listed as minimum custody inmate: records</title>
+      <link>https://www.foxnews.com/us/onlyfans-model-courtney-clenney-moved-new-prison-listed-minimum-custody-inmate-records</link>
+      <guid isPermaLink="false">f58c5a9e3a9063f504c3195b0f81bfb3da320a07</guid>
+      <pubDate>Sun, 15 Nov 2026 14:00:44 GMT</pubDate>
+      <description><![CDATA[Courtney Clenney is now minimum custody at a Florida prison. The National Domestic Violence Hotline offers help for those in abusive situations.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iran targets US military base in Bahrain with drone attack</title>
+      <link>https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c7e011fee4e7d91b10504c9809e6e707d076f4d1</guid>
+      <pubDate>Sun, 15 Nov 2026 13:42:58 GMT</pubDate>
+      <description><![CDATA[It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>South Korea's top scorer in tax accountancy exam admits cheating</title>
+      <link>https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b74d8070ffe996277738b674ef7ce6e35a482a95</guid>
+      <pubDate>Sun, 15 Nov 2026 13:37:45 GMT</pubDate>
+      <description><![CDATA[Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Minister backs legal right to job support for young people</title>
+      <link>https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ffb362cc5584b03247880cb0252ab1f98574c682</guid>
+      <pubDate>Sun, 15 Nov 2026 13:06:15 GMT</pubDate>
+      <description><![CDATA[The work and pensions secretary said the level of support currently on offer was too vague.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Man and woman die and four arrested after police pursuit crash in Leeds</title>
+      <link>https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">62a0625abc63c97b3e8781907007e2396336ee92</guid>
+      <pubDate>Sun, 15 Nov 2026 12:38:28 GMT</pubDate>
+      <description><![CDATA[Four people have been arrested on suspicion of causing death by dangerous driving, police say.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Downpours slam Texas, fueling final weekend flash flood threat as powerful Pacific storm energy pushes east</title>
+      <link>https://www.foxweather.com/weather-news/texas-faces-renewed-flash-flood-threat-pacific-storm-energy-pushes-east</link>
+      <guid isPermaLink="false">e9f7506825e3c2f26cf2e932f9ddc7ab5a6b3e8a</guid>
+      <pubDate>Sun, 15 Nov 2026 11:52:24 GMT</pubDate>
+      <description><![CDATA[Another round of rain is targeting Texas as the weekend wraps up, with the flash flood threat increasing today as a disturbance tied to the storms battering the Pacific Coast moves east.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Three men sentenced to death in Jordan over fatal church mass shooting</title>
+      <link>https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">cedd4c64ea049fa7062454bd02b393e9f45ebed3</guid>
+      <pubDate>Sun, 15 Nov 2026 11:06:32 GMT</pubDate>
+      <description><![CDATA[The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Midterm voters ended the long-running GOP dominance in state legislatures</title>
+      <link>https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop</link>
+      <guid isPermaLink="false">47eb1e12200e8b4bde4383860f4a1432a52f780b</guid>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.]]></description>
       <category>politics</category>
-    </item>
-    <item>
-      <title>Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment</title>
-      <link>https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks</link>
-      <guid isPermaLink="false">375d28637ad7a4797e88b9d93971c1119a47ac5f</guid>
-      <pubDate>Sun, 15 Nov 2026 04:28:45 GMT</pubDate>
-      <description><![CDATA[A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Kenneth Walker III out against NFL rushing leader Bijan Robinson's Falcons, Patrick Mahomes off injury report</title>
-      <link>https://www.foxnews.com/outkick-sports/kenneth-walker-iii-out-against-nfl-rushing-leader-bijan-robinson-falcons-patrick-mahomes-off-injury-report</link>
-      <guid isPermaLink="false">617d7a50a74e9054d4d1f4cdd29ab7b77549c3d6</guid>
-      <pubDate>Sun, 15 Nov 2026 04:10:17 GMT</pubDate>
-      <description><![CDATA[Kenneth Walker III was ruled out with a groin injury, leaving rookie Emmett Johnson to lead the Kansas City Chiefs' rushing attack on Sunday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Georgia football three-star recruit Marcellus Young Casario dies after 'medical emergency,' high school says</title>
-      <link>https://www.foxnews.com/outkick-sports/georgia-football-three-star-recruit-marcellus-young-casario-dies-after-medical-emergency-high-school-says</link>
-      <guid isPermaLink="false">36aaaaa513211f0a37c1d0bc73e1994a19977bd1</guid>
-      <pubDate>Sun, 15 Nov 2026 03:50:34 GMT</pubDate>
-      <description><![CDATA[Marcellus Young Casario, a Georgia Bulldogs defensive lineman commit, died after a sudden medical emergency at his Rabun Gap boarding school.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Florida stuns Kentucky 21-14 as Gators pull off yet another upset win in up-and-down season</title>
-      <link>https://www.foxnews.com/outkick-sports/florida-stuns-kentucky-21-14-gators-pull-off-yet-another-upset-win-up-down-season</link>
-      <guid isPermaLink="false">6185a74a009066887d551db1ca2cb452ffee5614</guid>
-      <pubDate>Sun, 15 Nov 2026 03:33:26 GMT</pubDate>
-      <description><![CDATA[Florida Gators pulled off their third upset of a ranked opponent this season, stunning No. 11 Kentucky 21-14 with a gutsy two-point conversion.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Judge temporarily blocks Trump from closing Washington DC golf course for renovation</title>
-      <link>https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">76222d4d3122ef18644fa291d1540b2030e54540</guid>
-      <pubDate>Sun, 15 Nov 2026 03:21:04 GMT</pubDate>
-      <description><![CDATA[It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Federal judge blocks Trump's renovations of DC golf course hours before its closure</title>
-      <link>https://www.foxnews.com/outkick-sports/federal-judge-blocks-trumps-renovations-dc-golf-course-hours-before-closure</link>
-      <guid isPermaLink="false">1d5c73f83f19b4b222193ecd5b10e7da5b4fe6ed</guid>
-      <pubDate>Sun, 15 Nov 2026 03:00:05 GMT</pubDate>
-      <description><![CDATA[A federal judge cited Donald Trump's Truth Social posts as key evidence when issuing a temporary restraining order on the East Potomac renovation.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Pope Leo speaks of community 'suffering' on visit to remote Andes town</title>
-      <link>https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9f25a7bec4509981db66cf52e72fe5d45a9c8383</guid>
-      <pubDate>Sun, 15 Nov 2026 02:49:45 GMT</pubDate>
-      <description><![CDATA[Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Dabo Swinney reacts after Clemson hits latest low with upset loss to Georgia Tech: 'Nobody coming to save us'</title>
-      <link>https://www.foxnews.com/outkick-sports/dabo-swinney-reacts-clemson-hits-latest-low-upset-loss-georgia-tech-nobody-coming-save-us</link>
-      <guid isPermaLink="false">be330b95f3fabe1e88cee8104e6dbc59f13b47ca</guid>
-      <pubDate>Sun, 15 Nov 2026 02:35:20 GMT</pubDate>
-      <description><![CDATA[Georgia Tech rushed for 269 yards and handed Dabo Swinney one of his worst career losses as Clemson fell 20-6 at home to a team with a losing record.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>UNC Asheville player makes costly mistake after miracle 3-pointer that could have forced overtime</title>
-      <link>https://www.foxnews.com/outkick-sports/unc-asheville-player-makes-costly-mistake-after-miracle-3-pointer-could-have-forced-overtime</link>
-      <guid isPermaLink="false">ec324e028a42e3871455552600f4be135a50bc93</guid>
-      <pubDate>Sun, 15 Nov 2026 02:08:48 GMT</pubDate>
-      <description><![CDATA[Myles Mayfield's costly intentional foul after a game-tying 3-pointer gave Georgia Tech a stunning 75-74 win over UNC Asheville in the final seconds.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Top-ranked Georgia rolls past Missouri, moves closer to SEC championship game return</title>
-      <link>https://www.foxnews.com/outkick-sports/top-ranked-georgia-rolls-past-missouri-moves-closer-sec-championship-game-return</link>
-      <guid isPermaLink="false">b8965c99c981b19d6628918116c96325d15526b6</guid>
-      <pubDate>Sun, 15 Nov 2026 01:30:05 GMT</pubDate>
-      <description><![CDATA[Nate Frazier's three rushing touchdowns helped Georgia race to a 31-point halftime lead over Missouri in a dominant return to the No. 1 ranking.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>FAA ground stop disrupts college football</title>
-      <link>https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays</link>
-      <guid isPermaLink="false">bdef44745e9a1511ca97489a6d7e5d5b98ff834e</guid>
-      <pubDate>Sun, 15 Nov 2026 01:13:59 GMT</pubDate>
-      <description><![CDATA[Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Michigan loses again and the noise around Kyle Whittingham's job grows as Oregon keeps playoff hopes alive</title>
-      <link>https://www.foxnews.com/outkick-sports/michigan-loses-kyle-whittingham-job-noise-grows-oregon-keeps-playoff-hopes-alive</link>
-      <guid isPermaLink="false">e6910d2c7bb335f7f86d4414de02d132eff754ec</guid>
-      <pubDate>Sun, 15 Nov 2026 00:25:41 GMT</pubDate>
-      <description><![CDATA[The No. 16 Oregon Ducks defeated Michigan on Saturday, dropping the Wolverines to 5-5 as noise continues to grow around Kyle Whittingham's job.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment</title>
-      <link>https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ce16af1dad31ce2a48f9348597ae9db1bf6cc2cf</guid>
-      <pubDate>Sun, 15 Nov 2026 00:09:29 GMT</pubDate>
-      <description><![CDATA[The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Holly Humberstone: People can't connect to a pop star who's 'too polished'</title>
-      <link>https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0cc8bea9c29faf338c677b6f82d42d6999bf8b2e</guid>
-      <pubDate>Sun, 15 Nov 2026 00:07:29 GMT</pubDate>
-      <description><![CDATA[The singer felt forced to compete with her female peers, until she realised the power of longevity.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Judo champion shakes up French presidential race with surprise candidacy</title>
-      <link>https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7e33db6957fb34724324bc96097ddb4bbbc974c5</guid>
-      <pubDate>Sun, 15 Nov 2026 00:06:51 GMT</pubDate>
-      <description><![CDATA[Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Explosive discovery reveals four cases of historic dynamite buried in Washington backcountry</title>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">a03022c077000f2f58be59d68e3f802555ddb7ce</guid>
       <pubDate>Fri, 13 Nov 2026 11:30:55 GMT</pubDate>
       <description><![CDATA[A strong nor’easter lashed the Northeast with more heavy rain and gusty winds, and higher elevations in Upstate New York and northern New England saw more snow on Thursday and Friday.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Nor’easter continues to slam I-95 corridor with heavy rain, wind as season's first snow falls in the North</title>
-      <link>https://www.foxweather.com/weather-news/northeast-faces-messy-friday-as-noreaster-ushers-in-rain-wind-and-snow</link>
-      <guid isPermaLink="false">a03022c077000f2f58be59d68e3f802555ddb7ce</guid>
-      <pubDate>Fri, 13 Nov 2026 11:30:55 GMT</pubDate>
-      <description><![CDATA[A strengthening nor’easter is lashing the region with more heavy rain and gusty winds, slowing the Friday morning commute across the Interstate 95 corridor in the Northeast. Meanwhile, higher elevations in Upstate New York and northern New England will see even more snow as more cold air spills south from Canada.]]></description>
       <category>weather</category>
     </item>
   </channel>
