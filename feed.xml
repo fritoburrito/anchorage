@@ -5,46 +5,62 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 01:28:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:02:24 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: This Afternoon - Chance Light Rain</title>
+      <title>Anchorage Weather: Tonight - Patchy Freezing Fog</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 17 Nov 2026 01:28:39 GMT</pubDate>
-      <description><![CDATA[36°F. Wind  0 mph. A chance of rain. Mostly cloudy, with a high near 36. Northeast wind around 0 mph. Chance of precipitation is 30%.]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:02:24 GMT</pubDate>
+      <description><![CDATA[29°F. Wind NE 5 mph. Patchy freezing fog. Mostly cloudy, with a low around 29. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight - Slight Chance Light Rain then Mostly Cloudy</title>
+      <title>Anchorage Weather: Tuesday - Patchy Freezing Fog then Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 17 Nov 2026 01:28:39 GMT</pubDate>
-      <description><![CDATA[29°F. Wind NE 5 mph. A slight chance of rain before 9pm. Mostly cloudy, with a low around 29. Northeast wind around 5 mph. Chance of precipitation is 20%.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tuesday - Mostly Sunny</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 17 Nov 2026 01:28:39 GMT</pubDate>
-      <description><![CDATA[33°F. Wind N 0 to 5 mph. Mostly sunny, with a high near 33. North wind 0 to 5 mph.]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:02:24 GMT</pubDate>
+      <description><![CDATA[33°F. Wind N 0 to 5 mph. Patchy freezing fog before 9am. Mostly sunny, with a high near 33. North wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tuesday Night - Mostly Cloudy then Slight Chance Light Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 17 Nov 2026 01:28:39 GMT</pubDate>
-      <description><![CDATA[24°F. Wind E 0 to 5 mph. A slight chance of snow after 3am. Mostly cloudy, with a low around 24. East wind 0 to 5 mph.]]></description>
+      <pubDate>Tue, 17 Nov 2026 10:02:24 GMT</pubDate>
+      <description><![CDATA[24°F. Wind E 0 to 5 mph. A slight chance of snow after 3am. Mostly cloudy. Low around 24, with temperatures rising to around 30 overnight. East wind 0 to 5 mph. Chance of precipitation is 20%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Wednesday - Slight Chance Light Snow then Chance Rain And Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 17 Nov 2026 01:28:39 GMT</pubDate>
+      <pubDate>Tue, 17 Nov 2026 10:02:24 GMT</pubDate>
       <description><![CDATA[37°F. Wind NE 5 to 10 mph. A slight chance of snow before 9am, then a chance of rain and snow. Cloudy, with a high near 37. Northeast wind 5 to 10 mph. Chance of precipitation is 30%.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Wednesday Night - Chance Rain And Snow</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Tue, 17 Nov 2026 10:02:24 GMT</pubDate>
+      <description><![CDATA[32°F. Wind NE 5 to 10 mph. A chance of rain before 9pm, then a chance of rain and snow between 9pm and 3am. Cloudy, with a low around 32. Northeast wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Newscast – Monday, Nov. 16, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17525960/newscast-monday-nov-16-2026</link>
+      <guid isPermaLink="false">c041f76cbcb14ba87010e8e96886197e13777b78</guid>
+      <pubDate>Tue, 17 Nov 2026 01:59:12 GMT</pubDate>
+      <description><![CDATA[In this newscast: JKT declares victory after topping 50% in Alaska governor’s race as Peltola extends Senate lead; Meatball, Juneau’s former misdirected marsupial, dies at Alaska Zoo; Five injured in Juneau vehicle collision, first responders say passing drivers put them at risk; Lingít activists protest Cascade Point Ferry Terminal to defend sacred burial sites; Alaska elects Democrat Jonathan Kreiss-Tomkins governor]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Trump volleys back to Congress in blame game over aviation ground stop</title>
+      <link>https://alaskabeacon.com/2026/11/16/repub/trump-volleys-back-to-congress-in-blame-game-over-aviation-ground-stop/</link>
+      <guid isPermaLink="false">2866d11fc95707f2f23a9a702a473efba2ae9cf6</guid>
+      <pubDate>Tue, 17 Nov 2026 01:30:02 GMT</pubDate>
+      <description><![CDATA[President Donald Trump on Monday accused Congress of underfunding the nation’s aviation infrastructure, which he blamed for the weekend ground stop that caused thousands of canceled and delayed flights. But Democrats say the Trump administration has been slow to spend already appropriated funds and decisions made by the administration have harmed the Department of Transportation. […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Alaska State Troopers chip away at high vacancy rate with new academy grads</title>
@@ -53,14 +69,6 @@
       <pubDate>Tue, 17 Nov 2026 00:08:54 GMT</pubDate>
       <description><![CDATA[The Alaska Department of Public Safety announced 24 new law enforcement officers graduated from its basic training academy earlier this month. Among the cohort, 15 new state trooper trainees are helping continue the trend of reduced vacancy rates statewide. State law enforcement officials have reported progress on filling state trooper roles and reducing the vacancy […]]]></description>
       <category>local</category>
-    </item>
-    <item>
-      <title>Trump’s Asia trip takes Alaska detour as weather forces refueling stop change</title>
-      <link>https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change</link>
-      <guid isPermaLink="false">466430bb004d22f0aa31c55a5d428871b90a9615</guid>
-      <pubDate>Mon, 16 Nov 2026 23:48:44 GMT</pubDate>
-      <description><![CDATA[Air Force One diverted its Alaska refueling stop from Anchorage to Fairbanks due to extreme weather as President Donald Trump's Asia trip heads to Manila.]]></description>
-      <category>weather</category>
     </item>
     <item>
       <title>Commentary: Just off the top of my head…</title>
@@ -84,6 +92,30 @@
       <guid isPermaLink="false">54ff038484625693093c435a4f8f2b0610972ffa</guid>
       <pubDate>Mon, 16 Nov 2026 22:14:21 GMT</pubDate>
       <description><![CDATA[Work at a radio communications site in south Arkansas has been identified as a source of the problems that led federal officials to ground all flights in the United States for several hours last week. Transportation Secretary Sean Duffy identified a “remote radio facility” in El Dorado where workers were deploying a new router as […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>AIDEA authorizes $22.8 million to advance Wrangell Deepwater Port and Shipyard</title>
+      <link>https://mustreadalaska.com/aidea-authorizes-22-8-million-to-advance-wrangell-deepwater-port-and-shipyard/</link>
+      <guid isPermaLink="false">d6657c958bf7f55a061e8e221e696733d1ebabea</guid>
+      <pubDate>Mon, 16 Nov 2026 21:51:35 GMT</pubDate>
+      <description><![CDATA[The Alaska Industrial Development and Export Authority (AIDEA) Board of Directors has authorized a financing package of up to $22.8 million to help expand the Wrangell Deepwater Port and Shipyard. At a special meeting on Nov. 4, the board approved Resolution G26-14. Subject to final terms negotiated with the City and Borough of Wrangell, the […] The post AIDEA authorizes $22.8 million to advance Wrangell Deepwater Port and Shipyard appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>AEA board approves $4.9 million loan for solar and battery project at Red Dog Mine</title>
+      <link>https://mustreadalaska.com/aea-board-approves-4-9-million-loan-for-solar-and-battery-project-at-red-dog-mine/</link>
+      <guid isPermaLink="false">8c84eede52b7871c94eaa13af6a4d874cddd5e9f</guid>
+      <pubDate>Mon, 16 Nov 2026 21:10:17 GMT</pubDate>
+      <description><![CDATA[The Alaska Energy Authority board has unanimously approved a $4.9 million loan to help build an 8.8-megawatt solar array and battery storage system at Red Dog Mine in the Northwest Arctic Borough. The loan, through AEA’s Power Project Fund, goes to Tugliq Red Dog1 LLC. It supports development and construction of the solar-plus-battery project, which […] The post AEA board approves $4.9 million loan for solar and battery project at Red Dog Mine appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Kreiss-Tomkins claims victory; Spoiler transfers can’t save Sullivan; Alaskans keep ranked-choice voting</title>
+      <link>https://mustreadalaska.com/kreiss-tomkins-claims-victory-spoiler-transfers-cant-save-sullivan-alaskans-keep-ranked-choice-voting/</link>
+      <guid isPermaLink="false">b4ad5139416e96597d7f30faa305169c6c070bc5</guid>
+      <pubDate>Mon, 16 Nov 2026 20:18:21 GMT</pubDate>
+      <description><![CDATA[The latest unofficial results from the Alaska Division of Elections show Democrat Jonathan Kreiss-Tomkins with a clear first-choice majority for governor, Democrat Mary Peltola’s lead growing at 50.1% of votes, and Republican Nick Begich maintaining a solid lead for U.S. House. Roughly 283,618 ballots have been counted (about 97% of the estimated total). Results remain […] The post Kreiss-Tomkins claims victory; Spoiler transfers can’t save Sullivan; Alaskans keep ranked-choice voting appeared first on Must Read Alaska .]]></description>
       <category>local</category>
     </item>
     <item>
@@ -215,123 +247,163 @@
       <category>local</category>
     </item>
     <item>
-      <title>US loses its 'measles elimination status' after more than 25 years</title>
-      <link>https://alaskabeacon.com/2026/11/13/repub/us-poised-to-lose-its-measles-elimination-status-after-more-than-25-years/</link>
-      <guid isPermaLink="false">a295173c2a36def1b4719ad3b06367c436e443a9</guid>
-      <pubDate>Sat, 14 Nov 2026 00:13:28 GMT</pubDate>
-      <description><![CDATA[The number of confirmed measles cases across the U.S. this year has soared to 5,412 as of Nov. 12, more than double the 2,289 cases through all of 2025, according to the latest release of data from the federal Centers for Disease Control and Prevention. The trend has pushed the nation to lose its official […]]]></description>
-      <category>local</category>
+      <title>Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea</title>
+      <link>https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war</link>
+      <guid isPermaLink="false">3ed305e1ffb46b51cd73b4a1a6983bba140e16e2</guid>
+      <pubDate>Tue, 17 Nov 2026 09:50:45 GMT</pubDate>
+      <description><![CDATA[Ukraine's forces targeted a key rail and road bridge between Russia and the Crimean Peninsula for a second day. Moscow's forces, meanwhile, fired ballistic missiles and drones at Kyiv.]]></description>
+      <category>kenai</category>
     </item>
     <item>
-      <title>US poised to lose its 'measles elimination status' after more than 25 years</title>
-      <link>https://alaskabeacon.com/2026/11/13/repub/us-poised-to-lose-its-measles-elimination-status-after-more-than-25-years/</link>
-      <guid isPermaLink="false">a295173c2a36def1b4719ad3b06367c436e443a9</guid>
-      <pubDate>Sat, 14 Nov 2026 00:13:28 GMT</pubDate>
-      <description><![CDATA[The number of confirmed measles cases across the U.S. this year has soared to 5,412 as of Nov. 12, more than double the 2,289 cases through all of 2025, according to the latest release of data from the federal Centers for Disease Control and Prevention. The trend is pushing the nation to the brink of […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska fishing jobs rebound as Juneau loses 41% of harvesters</title>
-      <link>https://www.juneauempire.com/2026/11/13/alaska-fishing-jobs-rebound-as-juneau-loses-41-of-harvesters/</link>
-      <guid isPermaLink="false">b63b357f422efe25d8fde1f7c61137d5b441f904</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[Statewide harvesting jobs rose in 2025, but Juneau has 41% fewer fishers]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Failed asylum seekers face removal without five-day notice period</title>
-      <link>https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e08d0ffe32f4a16e7dfdce2e878f62200c13abf3</guid>
-      <pubDate>Tue, 17 Nov 2026 01:24:49 GMT</pubDate>
-      <description><![CDATA[Under proposed new rules, the Home Office would have six months in which to remove a person without telling them in advance.]]></description>
+      <title>Buttigieg trashes Duffy’s ground stop response, but his DOT failures doom his 2028 bid</title>
+      <link>https://www.foxnews.com/opinion/buttigieg-trashes-duffys-ground-stop-response-dot-failures-doom-2028-bid</link>
+      <guid isPermaLink="false">e390852b202c9490be0c27ea9e3465c39808180d</guid>
+      <pubDate>Tue, 17 Nov 2026 09:50:35 GMT</pubDate>
+      <description><![CDATA[Pete Buttigieg's criticism of Sean Duffy's airline ground stop response is backfiring, reviving scrutiny of his supply chain absence and #WheresPete era.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Hillary Clinton picks a foreign politician she believes is now the ‘leader of the free world’</title>
-      <link>https://www.foxnews.com/media/hillary-clinton-picks-foreign-politician-believes-leader-free-world</link>
-      <guid isPermaLink="false">0cf8666ad8e0c56c5cc2614649382ea2a9a08336</guid>
-      <pubDate>Tue, 17 Nov 2026 01:11:15 GMT</pubDate>
-      <description><![CDATA[Former Secretary of State Hillary Clinton argued Canadian Prime Minister Mark Carney may be the current "leader of the free world" instead of President Donald Trump.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Fight reportedly breaks out between passengers aboard Chicago-bound flight, FBI responds</title>
-      <link>https://www.foxnews.com/us/fight-reportedly-breaks-passengers-chicago-bound-flight-fbi-responds</link>
-      <guid isPermaLink="false">64c89244cd68f5e44913b495445bd5e231620145</guid>
-      <pubDate>Tue, 17 Nov 2026 00:50:29 GMT</pubDate>
-      <description><![CDATA[A passenger reportedly assaulted another traveler aboard Qatar Airways flight QR725 from Doha to Chicago, prompting an FBI and police response.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ecuador's president denies US operates military base despite reports of troop buildup</title>
-      <link>https://www.foxnews.com/world/ecuador-president-denies-us-operates-military-base-reports-troop-buildup</link>
-      <guid isPermaLink="false">c7cf78c9c5f4d6e476075b31f5a8579b1102e8e7</guid>
-      <pubDate>Tue, 17 Nov 2026 00:23:50 GMT</pubDate>
-      <description><![CDATA[Ecuadorian President Daniel Noboa denies the U.S. operates a military base at Taura Air Base, describing American personnel's activities as temporary.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump admin opens civil rights probes into 15 colleges over DEI grants</title>
-      <link>https://www.foxnews.com/media/trump-admin-opens-civil-rights-probes-15-colleges-over-dei-grants</link>
-      <guid isPermaLink="false">f81848e536891d35ac313be86cc427b5e52d28d3</guid>
-      <pubDate>Tue, 17 Nov 2026 00:23:40 GMT</pubDate>
-      <description><![CDATA[The Education Department's Office for Civil Rights opened probes into CUNY's NYC Men Teach program over alleged race- and sex-based discrimination.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Netflix's 'Untold' series tackles the New York Giants' miracle Super Bowl XLII upset of the Patriots next</title>
-      <link>https://www.foxnews.com/outkick-sports/netflix-untold-series-tackles-new-york-giants-miracle-super-bowl-xlii-upset-patriots</link>
-      <guid isPermaLink="false">a0bd141e131fcc9fc7ca2ab0f9e69e3a7c1b65a7</guid>
-      <pubDate>Tue, 17 Nov 2026 00:17:12 GMT</pubDate>
-      <description><![CDATA[Netflix's "Untold: One Giant Upset" lands Dec. 21, featuring Eli Manning, Michael Strahan, and Tom Brady on the Giants' shocking Super Bowl XLII win.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Democratic judge under fire for releasing violent offenders calls bail law a ‘direct assault’ on rights</title>
-      <link>https://www.foxnews.com/us/democratic-judge-fire-releasing-violent-offenders-calls-bail-law-direct-assault-rights</link>
-      <guid isPermaLink="false">698a066ab5728ac0aaf3f3e0440be52585304b08</guid>
-      <pubDate>Tue, 17 Nov 2026 00:15:12 GMT</pubDate>
-      <description><![CDATA[Judge David Carpenter called Alabama’s Aniah’s Law a ‘direct assault’ on constitutional rights, citing defendants’ presumption of innocence.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>James Comer launches bid for Kentucky governor</title>
-      <link>https://www.foxnews.com/politics/james-comer-launches-bid-kentucky-governor</link>
-      <guid isPermaLink="false">1eedd8b7801b98c5ba368ed99bb5665776a6de9c</guid>
-      <pubDate>Tue, 17 Nov 2026 00:14:04 GMT</pubDate>
-      <description><![CDATA[House Oversight Committee Chairman James Comer, R-Ky., is launching a campaign for Kentucky governor Monday night, a source familiar with the plan says.]]></description>
+      <title>Trump arrives in Philippines ahead of Xi Jinping summit in China after GOP midterm losses</title>
+      <link>https://www.foxnews.com/politics/trump-philippines-arrival-xi-jinping-china-summit</link>
+      <guid isPermaLink="false">df1e9aa4a2755ead880d13157a490841c64dbfe8</guid>
+      <pubDate>Tue, 17 Nov 2026 09:47:25 GMT</pubDate>
+      <description><![CDATA[President Donald Trump arrives in the Philippines ahead of a historic summit with China's Xi Jinping, following bruising GOP losses in the US midterm elections.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Illegal alien accused of attempted murder at large after Rikers release despite ICE detainer: DHS</title>
-      <link>https://www.foxnews.com/us/illegal-alien-accused-attempted-murder-large-after-rikers-release-despite-ice-detainer-dhs</link>
-      <guid isPermaLink="false">166055741fcdcde9bd2fd6e9fce23f9309bb0bf2</guid>
-      <pubDate>Tue, 17 Nov 2026 00:10:23 GMT</pubDate>
-      <description><![CDATA[Delon Raymond Jaundoo, a Guyanese citizen in the United States illegally, was freed from Rikers Island despite an ICE detainer, according to DHS.]]></description>
+      <title>Morning news brief</title>
+      <link>https://www.npr.org/2026/11/17/nx-s1-6042259/morning-news-brief</link>
+      <guid isPermaLink="false">57d07c1272d61371faddc5e47e1da5c3bf272484</guid>
+      <pubDate>Tue, 17 Nov 2026 09:46:54 GMT</pubDate>
+      <description><![CDATA[The FAA says it will rethink how it upgrades its aging system after nationwide ground stop, Trump to hold joint summit with leaders of China and Russia, Silicon Valley reacts to Nvidia scandal.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Met Office yellow warning in place as snow could disrupt Tuesday morning travel</title>
-      <link>https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c01f2c0ad8c8b4c722ad3d8b8ce18a8a1946935d</guid>
-      <pubDate>Tue, 17 Nov 2026 00:09:54 GMT</pubDate>
-      <description><![CDATA[Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>The young people caught up in Britain's Neets crisis</title>
-      <link>https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f952ca9cebe7c08b0002b44023b7863c4445f736</guid>
-      <pubDate>Tue, 17 Nov 2026 00:06:34 GMT</pubDate>
-      <description><![CDATA[BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.]]></description>
+      <title>Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings</title>
+      <link>https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4b88ce23b69e7b5767edef1da4f1e72fad40e3c5</guid>
+      <pubDate>Tue, 17 Nov 2026 09:27:41 GMT</pubDate>
+      <description><![CDATA[The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Buster Posey headlines 27 names on the 2027 Major League Baseball Hall of Fame ballot</title>
-      <link>https://www.foxnews.com/outkick-sports/buster-posey-headlines-27-names-2027-major-league-baseball-hall-fame-ballot</link>
-      <guid isPermaLink="false">234cf231d6aee6b8884be433691788816dee8b65</guid>
-      <pubDate>Mon, 16 Nov 2026 23:56:36 GMT</pubDate>
-      <description><![CDATA[Buster Posey headlined the 14 first-timers on Major League Baseball's 2027 Hall of Fame ballot, eyeing first-ballot status after three World Series titles.]]></description>
+      <title>Mozambique opposition leader faces trial over deadly 2024 election unrest</title>
+      <link>https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6926f194e5d2ae5782913780a333ae60b6c027b8</guid>
+      <pubDate>Tue, 17 Nov 2026 09:20:29 GMT</pubDate>
+      <description><![CDATA[Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Japan sends up jets after alleged Russian incursion of its airspace</title>
+      <link>https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">cfacadb87bafb19a6ff66ff2de04ceb21b721a38</guid>
+      <pubDate>Tue, 17 Nov 2026 07:44:17 GMT</pubDate>
+      <description><![CDATA[Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Watch: Predatory Met detective's behaviour became increasingly extreme</title>
+      <link>https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">86856eccefff0408adcba7ac599693c906ef38cf</guid>
+      <pubDate>Tue, 17 Nov 2026 07:10:08 GMT</pubDate>
+      <description><![CDATA[The Metropolitan Police repeatedly missed opportunities to stop det insp Warren Arter, BBC Panorama has found.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Body of Melbourne Cup horse found dumped in Sydney skip bin</title>
+      <link>https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a65ee405d333d8672c66fa4f879705d159d0ae41</guid>
+      <pubDate>Tue, 17 Nov 2026 07:01:00 GMT</pubDate>
+      <description><![CDATA[The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>BBC tracks down businessman at centre of council scandal</title>
+      <link>https://www.bbc.co.uk/news/articles/c6205wpv2g81o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8c9727072eb3d1e36ae0c77321a24ece6568209e</guid>
+      <pubDate>Tue, 17 Nov 2026 06:20:16 GMT</pubDate>
+      <description><![CDATA[Reporters find Liam Kavanagh at an exclusive apartment complex in Bucharest.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>How Met failed to stop rape-unit detective who abused women</title>
+      <link>https://www.bbc.co.uk/news/articles/c6kgq8d779lro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ae51d9da9f3a3f47fdf8e4accca2112f87a43a21</guid>
+      <pubDate>Tue, 17 Nov 2026 06:02:28 GMT</pubDate>
+      <description><![CDATA[Warren Arter used his position - running a team investigating sexual assaults - to target women.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72</title>
+      <link>https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b1602a2dbd6730cd673af323949686b0aa2e0b8f</guid>
+      <pubDate>Tue, 17 Nov 2026 05:59:01 GMT</pubDate>
+      <description><![CDATA[Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Duffy vows to modernize aging air traffic system after nationwide ground stop</title>
+      <link>https://www.foxnews.com/travel/duffy-vows-modernize-aging-air-traffic-system-nationwide-ground-stop</link>
+      <guid isPermaLink="false">144625137f6b25fd810f10880e567c7ab800beed</guid>
+      <pubDate>Tue, 17 Nov 2026 05:50:51 GMT</pubDate>
+      <description><![CDATA[Transportation Secretary Sean Duffy says Friday's FAA ground stop was no hack, as the FAA probes a router issue, network problem or installation error.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Chargers, Justin Herbert finally win first game of season after brutal mistake by Ravens star</title>
+      <link>https://www.foxnews.com/outkick-sports/chargers-justin-herbert-finally-win-first-game-season-brutal-mistake-ravens-star</link>
+      <guid isPermaLink="false">e25d3fc5700082d5e1996f886783f9cc615b08cf</guid>
+      <pubDate>Tue, 17 Nov 2026 04:46:54 GMT</pubDate>
+      <description><![CDATA[Justin Herbert and Omarion Hampton powered the Los Angeles Chargers past the Baltimore Ravens, ending their winless skid on "Monday Night Football."]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Engine failure forces Sen. Ashley Moody’s American Airlines flight to divert for emergency landing</title>
+      <link>https://www.foxnews.com/politics/engine-failure-forces-sen-ashley-moodys-american-airlines-flight-divert-emergency-landing</link>
+      <guid isPermaLink="false">30d092c2113e17418b8d1f1eb9cce3e8400cd834</guid>
+      <pubDate>Tue, 17 Nov 2026 04:08:25 GMT</pubDate>
+      <description><![CDATA[Sen. Ashley Moody's, R-Fla., flight was forced to divert and make an emergency landing following an engine failure. The American Airlines flight was diverted to Orlando.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>DHS chief tells Americans to 'breathe' amid tech outages, insists homeland is 'secure'</title>
+      <link>https://www.foxnews.com/media/dhs-chief-tells-americans-breathe-amid-tech-outages-insists-homeland-secure</link>
+      <guid isPermaLink="false">4cd07d805d6fb35bf6398202c7d680f3cfa84e40</guid>
+      <pubDate>Tue, 17 Nov 2026 03:55:09 GMT</pubDate>
+      <description><![CDATA[Department of Homeland Security Secretary Markwayne Mullin says the homeland is secure after Chase, Wells Fargo, United Airlines and Microsoft experienced outages.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Jon Moxley, Adam Page headline AEW's Continental Classic as journey to World's End begins</title>
+      <link>https://www.foxnews.com/outkick-sports/jon-moxley-adam-page-headline-aew-continental-classic-journey-worlds-end-begins</link>
+      <guid isPermaLink="false">50e80fe532a4c50e96cb676e0e04db46c67d8140</guid>
+      <pubDate>Tue, 17 Nov 2026 03:21:05 GMT</pubDate>
+      <description><![CDATA[All Elite Wrestling's Continental Classic field was unveiled on Monday night as defending tournament champion Jon Moxley was selected for the Gold League.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>American basketball player’s Nigeria trip ends in arrest after officials spot him abandoning suspicious bags</title>
+      <link>https://www.foxnews.com/world/american-basketball-players-nigeria-trip-ends-arrest-officials-spot-abandoning-suspicious-bags</link>
+      <guid isPermaLink="false">72343f36c8ad8fb8700cafef2e2ff9d88aa9d1c6</guid>
+      <pubDate>Tue, 17 Nov 2026 02:57:45 GMT</pubDate>
+      <description><![CDATA[Nigerian officials say an American basketball player abandoned two checked bags containing 75 pounds of cannabis before officers arrested him in a parking lot.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: 'A chance to deliver'</title>
+      <link>https://www.foxnews.com/politics/ro-khanna-pitches-1700-checks-americans-offset-iran-war-costs-chance-deliver</link>
+      <guid isPermaLink="false">fbdd1f57ef6ed2090b9a6a468a7fa249038540fd</guid>
+      <pubDate>Tue, 17 Nov 2026 02:55:22 GMT</pubDate>
+      <description><![CDATA[Rep. Ro Khanna proposed a $1,700 refund check for every American family to cover higher gas, food and electricity bills tied to the war in Iran.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Biden library nears site decision as fundraising trails ambitions: report</title>
+      <link>https://www.foxnews.com/politics/biden-library-nears-site-decision-fundraising-trails-ambitions-report</link>
+      <guid isPermaLink="false">d196537fb2b280785f7ded7cb1ec7fdd2d6d3d31</guid>
+      <pubDate>Tue, 17 Nov 2026 02:45:27 GMT</pubDate>
+      <description><![CDATA[Joe Biden’s presidential library foundation is reportedly nearing a Delaware site decision after securing multimillion-dollar donations in 2026.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -351,68 +423,12 @@
       <category>weather</category>
     </item>
     <item>
-      <title>'Complete system reset' needed to get 440,000 young people into work, says major review</title>
-      <link>https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7360a412f18421e6feec12555e7beeb35603206a</guid>
-      <pubDate>Mon, 16 Nov 2026 22:32:47 GMT</pubDate>
-      <description><![CDATA[Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO</title>
-      <link>https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">349134aed1b0ce2a1a88909004ef9def2cbdf3ca</guid>
-      <pubDate>Mon, 16 Nov 2026 22:21:27 GMT</pubDate>
-      <description><![CDATA[A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>UK lost more than it gained from Brexit, Burnham says ahead of EU summit</title>
-      <link>https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4b39e7f903c211465a83953b803d2e6a7725a34e</guid>
-      <pubDate>Mon, 16 Nov 2026 22:10:26 GMT</pubDate>
-      <description><![CDATA[The prime minister tells an audience at the Lord Mayor's Banquet that the "Brexit we were given has not worked".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Cass report author says she does not support draft conversion practices bill</title>
-      <link>https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2b77c4b253d6c1d406c5a88040aca44436e53c15</guid>
-      <pubDate>Mon, 16 Nov 2026 22:08:03 GMT</pubDate>
-      <description><![CDATA[The gender care review author says the bill’s wording risks "serious unintended consequences" for parents and therapists.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>California sues OpenAI over hacking risks</title>
-      <link>https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident</link>
-      <guid isPermaLink="false">2f3e3028b5a9d2c95eb1999a0744c5e720efbd88</guid>
-      <pubDate>Mon, 16 Nov 2026 22:06:22 GMT</pubDate>
-      <description><![CDATA[The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was "entirely foreseeable" due to OpenAI's poor security practices.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Houthi rebel advance in Yemen may further destabilise global economy</title>
-      <link>https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a7d276c4a1cacff0869e71a5459857235e951f00</guid>
-      <pubDate>Mon, 16 Nov 2026 21:40:07 GMT</pubDate>
-      <description><![CDATA[The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>What is an ARkStorm? The catastrophic weather scenario that could devastate California</title>
       <link>https://www.foxweather.com/weather-news/what-arkstorm-catastrophic-weather-scenario-california</link>
       <guid isPermaLink="false">5da471ee940b6dda84b97bfc32647d211af5ca69</guid>
       <pubDate>Mon, 16 Nov 2026 20:38:33 GMT</pubDate>
       <description><![CDATA[A hypothetical, yet realistic potential nightmare storm scenario looms over California as geologists, atmospheric scientists and experts break down what an ARkstorm would entail for millions.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Forensic expert says his analysis of autopsy photos suggests Epstein was killed</title>
-      <link>https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">00146cd8bad489619ddd871358573e96af70b82d</guid>
-      <pubDate>Mon, 16 Nov 2026 20:33:57 GMT</pubDate>
-      <description><![CDATA[Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Magnitude 5.4 earthquake rattles Peru, with tremors reported in Lima</title>
@@ -508,22 +524,6 @@
       <guid isPermaLink="false">e5f1252081042f3d4f94ea02941c74b749e2f650</guid>
       <pubDate>Sat, 14 Nov 2026 11:42:04 GMT</pubDate>
       <description><![CDATA[Thousands of flights were already canceled across the country early Saturday as airports and airlines worked to get back on track following Friday’s nationwide ground stop, which lasted more than four hours — the longest such shutdown of U.S. airspace since 9/11.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Impacts of historic nationwide ground stop reach weekend sporting events after teams are left scrambling</title>
-      <link>https://www.foxweather.com/weather-news/nationwide-ground-stop-throws-sports-travel-into-chaos-ahead-of-weekend-games</link>
-      <guid isPermaLink="false">6d4290d9e2c19de60e6af5eeb7d2ca1af3e86ad4</guid>
-      <pubDate>Sat, 14 Nov 2026 00:41:53 GMT</pubDate>
-      <description><![CDATA[A nationwide FAA ground stop left professional and college sports teams scrambling to reach their weekend games, with some switching to buses as flight disruptions mounted.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Weekend sporting events in jeopardy as nationwide ground stop throws air travel into chaos</title>
-      <link>https://www.foxweather.com/weather-news/nationwide-ground-stop-throws-sports-travel-into-chaos-ahead-of-weekend-games</link>
-      <guid isPermaLink="false">6d4290d9e2c19de60e6af5eeb7d2ca1af3e86ad4</guid>
-      <pubDate>Sat, 14 Nov 2026 00:41:53 GMT</pubDate>
-      <description><![CDATA[A nationwide FAA ground stop left professional and college sports teams scrambling to reach their weekend games, with some switching to buses as flight disruptions mounted.]]></description>
       <category>weather</category>
     </item>
   </channel>
