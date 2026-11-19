@@ -5,46 +5,118 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:46:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:29:14 GMT</lastBuildDate>
     <item>
-      <title>Anchorage Weather: Tonight - Light Rain Likely</title>
+      <title>Bryan Norcross: The intense Florida rainstorm could become Kyle off the Southeast coast</title>
+      <link>https://www.foxweather.com/weather-news/bryan-norcross-tropical-update-exclusive-analysis-nov-19-2026</link>
+      <guid isPermaLink="false">4801f09974ca50d4fe053d7646c22e258f5a1bdd</guid>
+      <pubDate>Thu, 19 Nov 2026 15:29:14 GMT</pubDate>
+      <description><![CDATA[An area of non-tropical low pressure is developing over the Bahamas. The system is triggered by a combination of an old front draped just south of the Florida peninsula, an upper-level disturbance, and the extra-strong El Niño-driven jet stream.]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Today - Chance Light Rain then Rain And Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 19 Nov 2026 09:46:35 GMT</pubDate>
-      <description><![CDATA[36°F. Wind NE 5 to 10 mph. Rain likely. Cloudy, with a low around 36. Northeast wind 5 to 10 mph. Chance of precipitation is 40%.]]></description>
+      <pubDate>Thu, 19 Nov 2026 18:47:19 GMT</pubDate>
+      <description><![CDATA[38°F. Wind E 5 to 10 mph. A chance of rain before noon, then rain and snow. Cloudy, with a high near 38. East wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Thursday - Light Rain then Light Snow</title>
+      <title>Anchorage Weather: Tonight - Light Snow Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 19 Nov 2026 09:46:35 GMT</pubDate>
-      <description><![CDATA[39°F. Wind E 5 to 10 mph. Rain before 3pm, then snow. Mostly cloudy. High near 39, with temperatures falling to around 33 in the afternoon. East wind 5 to 10 mph. Chance of precipitation is 90%. New snow accumulation of around one inch possible.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Thursday Night - Light Snow Likely</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 19 Nov 2026 09:46:35 GMT</pubDate>
-      <description><![CDATA[29°F. Wind S 5 mph. Snow likely before 3am. Mostly cloudy, with a low around 29. South wind around 5 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible.]]></description>
+      <pubDate>Thu, 19 Nov 2026 18:47:19 GMT</pubDate>
+      <description><![CDATA[26°F. Wind S 5 mph. Snow likely before 3am. Mostly cloudy, with a low around 26. South wind around 5 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 19 Nov 2026 09:46:35 GMT</pubDate>
-      <description><![CDATA[34°F. Wind S 5 mph. Mostly sunny, with a high near 34. South wind around 5 mph.]]></description>
+      <pubDate>Thu, 19 Nov 2026 18:47:19 GMT</pubDate>
+      <description><![CDATA[31°F. Wind SE 5 mph. Mostly sunny, with a high near 31. Southeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 19 Nov 2026 09:46:35 GMT</pubDate>
-      <description><![CDATA[22°F. Wind SE 5 mph. Mostly cloudy, with a low around 22. Southeast wind around 5 mph.]]></description>
+      <pubDate>Thu, 19 Nov 2026 18:47:19 GMT</pubDate>
+      <description><![CDATA[21°F. Wind E 5 mph. Mostly cloudy, with a low around 21. East wind around 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Saturday - Partly Sunny</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Thu, 19 Nov 2026 18:47:19 GMT</pubDate>
+      <description><![CDATA[30°F. Wind E 5 mph. Partly sunny, with a high near 30. East wind around 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Cruise ship strike confirmed as cause of death for Alaska fin whale</title>
+      <link>https://alaskabeacon.com/2026/11/19/cruise-ship-strike-confirmed-as-cause-of-death-for-alaska-fin-whale/</link>
+      <guid isPermaLink="false">375384d9bdbefc9866947da4f22ad03e091aff41</guid>
+      <pubDate>Thu, 19 Nov 2026 16:45:53 GMT</pubDate>
+      <description><![CDATA[A pregnant fin whale found dead on the bow of a Royal Caribbean cruise ship in June was killed by blunt force trauma, a federal agency has concluded. The final necropsy report concerning a whale found on a cruise ship that sailed into the Kenai Peninsula port of Seward on June 19 provided conclusive evidence […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer Pet of the Week: Balto</title>
+      <link>https://www.homernews.com/2026/11/19/homer-pet-of-the-week-balto/</link>
+      <guid isPermaLink="false">d4967aa9eff78f1d096553e10dced76289054159</guid>
+      <pubDate>Thu, 19 Nov 2026 14:30:00 GMT</pubDate>
+      <description><![CDATA[Two-year-old male is ready to find a loving family to take him home]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Same nickname, two very different men — Part 4</title>
+      <link>https://www.homernews.com/2026/11/19/same-nickname-two-very-different-men-part-4/</link>
+      <guid isPermaLink="false">f2a14c79bc57f21e9e55c5a2b2ad24a6858c8f1d</guid>
+      <pubDate>Thu, 19 Nov 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[AUTHOR’S NOTE: Two men with the moniker “Beluga Joe” plied the waters of Cook Inlet in the 1900s. Both Joseph Magill and Joseph Schneller became associated with the Beluga River on the inlet’s west side, and both were noted for commercial fishing. Most of the similarities end there.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Anchor Point’s Christmas Parade is going nowhere in particular</title>
+      <link>https://www.homernews.com/2026/11/19/anchor-points-christmas-parade-is-going-nowhere-in-particular/</link>
+      <guid isPermaLink="false">d3d7cd02231891a3b00bbbbe22c52432935f5cf8</guid>
+      <pubDate>Thu, 19 Nov 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[No route, no lineup, no problem for Dec. 12 holiday celebration with a twist]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Hilcorp seeks emergency review for Clam Gulch gas drilling pad</title>
+      <link>https://www.homernews.com/2026/11/19/hilcorp-seeks-emergency-review-for-clam-gulch-gas-drilling-pad/</link>
+      <guid isPermaLink="false">7df8b756f9318d5a90b905fb877974bcb809b140</guid>
+      <pubDate>Thu, 19 Nov 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Company proposes filling 3.5 acres of wetlands for a new drilling site]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska Science Forum: Data (might) beat our weather stories</title>
+      <link>https://www.homernews.com/2026/11/19/alaska-science-forum-data-might-beat-our-weather-stories/</link>
+      <guid isPermaLink="false">62e962b2b0085b45714401485aee8129c2d1bee8</guid>
+      <pubDate>Thu, 19 Nov 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[“Alaskans like to tell weather stories, and we’ve got a lot of weather to tell stories about,” climate specialist Rick Thoman quipped over cups of cooling coffee.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Letters to the editor</title>
+      <link>https://www.homernews.com/2026/11/19/letters-to-the-editor-440/</link>
+      <guid isPermaLink="false">29b5347442a829ecba067959b4bd3e7accc0e48a</guid>
+      <pubDate>Thu, 19 Nov 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[Blue wave could be headed for the rocks]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Juneau’s passenger for hire fees to triple over the next four years</title>
+      <link>https://www.juneauempire.com/2026/11/19/juneaus-passenger-for-hire-fees-to-triple-over-the-next-four-years/</link>
+      <guid isPermaLink="false">955bbb12e5378c470dd0c5ff29566e7665fbfb2e</guid>
+      <pubDate>Thu, 19 Nov 2026 11:30:00 GMT</pubDate>
+      <description><![CDATA[City Assembly approves regulation to help fund breakwater project]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>More than 10% of the bridges in Kenai Peninsula rated in ‘poor condition’</title>
@@ -255,212 +327,172 @@
       <category>local</category>
     </item>
     <item>
-      <title>US Senate seeks to restore campaign finance watchdog during lame-duck session</title>
-      <link>https://alaskabeacon.com/2026/11/17/repub/us-senate-seeks-to-restore-campaign-finance-watchdog-during-lame-duck-session/</link>
-      <guid isPermaLink="false">59f8b09aadb2cba294acba4cd754de839c436bd3</guid>
-      <pubDate>Wed, 18 Nov 2026 01:03:49 GMT</pubDate>
-      <description><![CDATA[The U.S. Senate took a first step Tuesday toward reviving the moribund Federal Election Commission, holding a confirmation hearing on President Donald Trump’s nominees to lead the campaign finance watchdog after it was sidelined for the midterm elections. The FEC has lacked a quorum for more than a year, preventing it from taking action on […]]]></description>
-      <category>local</category>
+      <title>Ravens didn't discipline receiver over a domestic arrest but deactivate Marlon Humphrey over podcast comments</title>
+      <link>https://www.foxnews.com/outkick-sports/ravens-didnt-discipline-receiver-domestic-arrest-deactivate-marlon-humphrey-podcast-comments</link>
+      <guid isPermaLink="false">b1df68834877b3fd8a213bfb78d0fda507469c4b</guid>
+      <pubDate>Thu, 19 Nov 2026 18:36:57 GMT</pubDate>
+      <description><![CDATA[Marlon Humphrey apologized for saying Baltimore is best at making criminals, but the Ravens still deactivated him for Sunday at the Carolina Panthers.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Juneau Assembly puts the brakes on electric motorcycles on public trails</title>
-      <link>https://www.juneauempire.com/2026/11/17/juneau-assembly-puts-the-brakes-on-electric-motorcycles-on-public-trails/</link>
-      <guid isPermaLink="false">fda29896caee9526e8f7b9bfd312ff26371198af</guid>
-      <pubDate>Wed, 18 Nov 2026 00:30:00 GMT</pubDate>
-      <description><![CDATA[Electric motorcycles prohibited from sidewalks, bike paths, shared-use pathways, and trails]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Anchorage petition seeks advisory vote on electing Alaska’s attorney general</title>
-      <link>https://mustreadalaska.com/anchorage-petition-seeks-advisory-vote-on-electing-alaskas-attorney-general/</link>
-      <guid isPermaLink="false">5da0b3c67e98cbeac936e640b966b5383be3e216</guid>
-      <pubDate>Tue, 17 Nov 2026 23:28:30 GMT</pubDate>
-      <description><![CDATA[A group of Anchorage residents has filed an application with the Municipality of Anchorage Office of the Municipal Clerk for an advisory ballot measure asking whether Alaska should elect its attorney general rather than continue the current appointment system. The application, stamped received Nov. 10, 2026, proposes placing the following question before Anchorage voters at […] The post Anchorage petition seeks advisory vote on electing Alaska’s attorney general appeared first on Must Read Alaska .]]></description>
+      <title>Iran-backed Houthi 'terrorist attack' hits Riyadh's tallest skyscraper and HQ of Saudi Public Investment Fund</title>
+      <link>https://www.foxnews.com/world/iran-backed-houthi-terrorist-attack-hits-riyadh-tallest-skyscraper-hq-saudi-public-investment-fund</link>
+      <guid isPermaLink="false">df5d7ba076f4d96614ff13a4f20b585069ef303f</guid>
+      <pubDate>Thu, 19 Nov 2026 18:32:17 GMT</pubDate>
+      <description><![CDATA[A suspected Houthi missile strike hit the Saudi Public Investment Fund Tower in Riyadh, destroying windows across up to eight floors, reports said.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Commentary: Alaska Board of Game should not close hunting, trapping for a road that doesn’t exist yet</title>
-      <link>https://alaskabeacon.com/2026/11/17/alaska-board-of-game-should-not-close-hunting-trapping-for-a-road-that-doesnt-exit-yet/</link>
-      <guid isPermaLink="false">503f9fdc1c13502058902d2e9e0f05c1ed2de3f5</guid>
-      <pubDate>Tue, 17 Nov 2026 23:00:52 GMT</pubDate>
-      <description><![CDATA[The state is considering restricting public hunting and trapping opportunities in Northwest and Interior Alaska to accommodate planning for a proposed private road. While I call Juneau home, I’ve spent a bit of time in the Brooks Range and have long-time friends who live in and have deep ties to the region. I engage with […]]]></description>
-      <category>local</category>
+      <title>The 'Magic Six': How to strengthen your marriage in midlife</title>
+      <link>https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships</link>
+      <guid isPermaLink="false">125f9d56cd3ea0a5b6c52802980c80132b5a49e3</guid>
+      <pubDate>Thu, 19 Nov 2026 18:28:23 GMT</pubDate>
+      <description><![CDATA[How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Alaska presumptive Gov.-elect Kreiss-Tomkins announces transition team leaders</title>
-      <link>https://alaskabeacon.com/2026/11/17/alaska-presumptive-gov-elect-kreiss-tomkins-announces-transition-team-leaders/</link>
-      <guid isPermaLink="false">b7dcb6b33e923be5ac9f25a0655f66cbe1120ecb</guid>
-      <pubDate>Tue, 17 Nov 2026 22:04:07 GMT</pubDate>
-      <description><![CDATA[The projected winner of the Alaska governor’s race, Jonathan Kreiss-Tomkins, announced three leaders of his multipartisan transition team on Tuesday. Each member comes from a different part of the state. The team of co-chairs will be Fairbanks Republican and former state Sen. Click Bishop, Bethel-born Democrat and Alaska Native leader Ana Hoffman and Anchorage independent […]]]></description>
-      <category>local</category>
+      <title>Hillary Clinton accuses Trump of 'aiding and abetting' humanitarian crisis in Ukraine</title>
+      <link>https://www.foxnews.com/media/hillary-clinton-accuses-trump-aiding-abetting-humanitarian-crisis-ukraine</link>
+      <guid isPermaLink="false">c7932b5241271e1f2ab874d9ced2bc3b5b125bce</guid>
+      <pubDate>Thu, 19 Nov 2026 18:26:06 GMT</pubDate>
+      <description><![CDATA[Hillary Clinton says President Donald Trump appears to be "aiding and abetting" a humanitarian crisis in Ukraine, in a scathing New York Times op-ed.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Alaska House District 6 race going down to the wire</title>
-      <link>https://www.homernews.com/2026/11/17/alaska-house-district-6-race-going-down-to-the-wire/</link>
-      <guid isPermaLink="false">a57a543776a805767da6e9ed315a6c324916b1ca</guid>
-      <pubDate>Tue, 17 Nov 2026 21:30:00 GMT</pubDate>
-      <description><![CDATA[Vance leads Johnson by 18 votes as absentee count nears end]]></description>
-      <category>local</category>
+      <title>Trump, Putin, Xi issue 4-point declaration after historic summit</title>
+      <link>https://www.foxnews.com/world/trump-putin-xi-issue-4-point-declaration-historic-summit</link>
+      <guid isPermaLink="false">01d6f11ea874456eec8e2d00a7d730f319d89997</guid>
+      <pubDate>Thu, 19 Nov 2026 18:20:42 GMT</pubDate>
+      <description><![CDATA[Donald Trump, Vladimir Putin and Xi Jinping signed a joint peace declaration at APEC in China, a historic first for the three nations' heads of state.]]></description>
+      <category>world</category>
     </item>
     <item>
-      <title>Leasehold system set to be scrapped in England and Wales</title>
-      <link>https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">6bdb6b51e6380bd1a5e5528800306c82fd031d08</guid>
-      <pubDate>Thu, 19 Nov 2026 09:26:59 GMT</pubDate>
-      <description><![CDATA[The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250.]]></description>
+      <title>Troy Aikman fuels Joe Buck feud with another dig, creating Super Bowl-sized headache for ESPN</title>
+      <link>https://www.foxnews.com/outkick-sports/troy-aikman-fuels-joe-buck-feud-another-dig-creating-super-bowl-sized-headache-espn</link>
+      <guid isPermaLink="false">87aa0d0ae976b2b950bf177de1043f63b7a157e6</guid>
+      <pubDate>Thu, 19 Nov 2026 18:18:55 GMT</pubDate>
+      <description><![CDATA[Troy Aikman joked that Joe Buck "always wanted a one-man booth" during a Dallas radio hit, adding fuel to their feud before ESPN's first Super Bowl broadcast.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Florida Christians rebel against Imam's prayer opening a city meeting with a message of their own</title>
+      <link>https://www.foxnews.com/politics/florida-christians-rebel-against-imams-prayer-opening-city-meeting-message</link>
+      <guid isPermaLink="false">729e030fcaed054e328116447f7516074813fb1d</guid>
+      <pubDate>Thu, 19 Nov 2026 18:16:54 GMT</pubDate>
+      <description><![CDATA[Christian protesters reciting the Lord's Prayer interrupted Imam Sajid Bhuiya's invocation at a Bartow, Florida meeting before police stepped in.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>‘Long term coup’ ousted Christians, conservatives from major watchdog, insider claims</title>
+      <link>https://www.foxnews.com/politics/long-term-coup-ousted-christians-conservatives-major-watchdog-insider-claims</link>
+      <guid isPermaLink="false">3bf3f1fc68794cd6b14001004e787979b4a946e6</guid>
+      <pubDate>Thu, 19 Nov 2026 18:10:23 GMT</pubDate>
+      <description><![CDATA[A former SPLC director told FBI agents Christians and conservatives were pushed out first in what he called a "long-term coup" at the Southern Poverty Law Center.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>China could exploit US technology to threaten American forces, congressional watchdog leaders warn</title>
+      <link>https://www.foxnews.com/world/china-could-exploit-us-technology-threaten-american-forces-congressional-watchdog-leaders-warn</link>
+      <guid isPermaLink="false">8fa95b47bb515b0da3b7a287f5fcb9ce6e3f60b1</guid>
+      <pubDate>Thu, 19 Nov 2026 18:08:52 GMT</pubDate>
+      <description><![CDATA[China could gain access to American chips and AI infrastructure without companies’ knowledge, congressional watchdog leaders warn, potentially advancing weapons that threaten U.S. forces.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Field Notes: Koe Wetzel bags a Texas giant, Jacob Wheeler goes offshore &amp; a whale visits NYC</title>
+      <link>https://www.foxnews.com/outkick-sports/field-notes-koe-wetzel-bags-texas-giant-jacob-wheeler-goes-offshore-whale-visits-nyc</link>
+      <guid isPermaLink="false">8c8526381ccf04883d321ad4df128324b8a79071</guid>
+      <pubDate>Thu, 19 Nov 2026 18:00:09 GMT</pubDate>
+      <description><![CDATA["Field Notes" kicks off with kayaking to uninhabited islands, ducks falling from the sky and Florida rabbit chasing stories around the campfire.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Faults not fixed in 90% of homes in government insulation scheme</title>
+      <link>https://www.bbc.co.uk/news/articles/c65y193gpvkgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0c21943c7222797c48126a39203151ecee9d915f</guid>
+      <pubDate>Thu, 19 Nov 2026 17:59:16 GMT</pubDate>
+      <description><![CDATA[People who signed up to a government insulation scheme have been struggling to get their damaged homes repaired.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Russia's Putin vows a response 'far more painful' after Ukraine attacks prized bridge in Crimea</title>
+      <link>https://www.foxnews.com/world/russia-putin-vows-response-far-more-painful-ukraine-attacks-prized-bridge-crimea</link>
+      <guid isPermaLink="false">2ca4c811dd97cf77b07224a985c5397ed920ebac</guid>
+      <pubDate>Thu, 19 Nov 2026 17:48:56 GMT</pubDate>
+      <description><![CDATA[Russian President Vladimir Putin said I "believe our response will be far more painful than what the Kyiv regime did" to the Kerch Strait bridge this week.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Men guilty of abusing woman drugged and advertised for sex by husband</title>
+      <link>https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">07589d72062b6d19381dc76f06d5e4f407a36985</guid>
+      <pubDate>Thu, 19 Nov 2026 17:42:25 GMT</pubDate>
+      <description><![CDATA[Philip Young, 50, drugged and raped his wife, Joanne Young, over a 13-year period.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump, Putin and Xi release 'peace declaration' after historic meeting</title>
+      <link>https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">116411d1d3c7352ac005d2e72a2d508676fc2c89</guid>
+      <pubDate>Thu, 19 Nov 2026 17:38:22 GMT</pubDate>
+      <description><![CDATA[While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Susan Smith denied parole again 32 years after drowning her two sons</title>
+      <link>https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f1f6e4f97f504f1c10083a154da7700720feb6eb</guid>
+      <pubDate>Thu, 19 Nov 2026 17:23:34 GMT</pubDate>
+      <description><![CDATA[At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children "did not deserve to die".]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Watch: What did Trump, Xi and Putin get out of their historic meeting?</title>
+      <link>https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">0c138ac9b2563d8d34d28f124a3a5590ce800946</guid>
+      <pubDate>Thu, 19 Nov 2026 17:23:29 GMT</pubDate>
+      <description><![CDATA[Trump, Putin and Xi have issued a "joint declaration of peace" after historical trilateral talks, but what did they get out of meeting?]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race</title>
+      <link>https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race</link>
+      <guid isPermaLink="false">2f2d6c8aee78b520432026047ad13b45deb5008a</guid>
+      <pubDate>Thu, 19 Nov 2026 17:03:11 GMT</pubDate>
+      <description><![CDATA[Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Survivors of Uganda's deadly landslide seek justice at the UN</title>
-      <link>https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">1b143fdade717e7d7930398ebcd4c3a8d3145dbb</guid>
-      <pubDate>Thu, 19 Nov 2026 09:21:54 GMT</pubDate>
-      <description><![CDATA[Survivors reject relocation plans they say ignore their safety, land rights and livelihoods]]></description>
+      <title>Myanmar committed genocide against Rohingya minority, top UN court rules</title>
+      <link>https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">11685b3b01c116238abbe6763c8b6b639520107c</guid>
+      <pubDate>Thu, 19 Nov 2026 16:55:57 GMT</pubDate>
+      <description><![CDATA[The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Trump's China trip: Historic Xi-Putin talks, 'superintelligence' boast and other top moments</title>
-      <link>https://www.foxnews.com/politics/trumps-china-trip-historic-xi-putin-talks-superintelligence-boast-other-top-moments</link>
-      <guid isPermaLink="false">fede7ce46f386a348d7a36b1402beba62dc9369f</guid>
-      <pubDate>Thu, 19 Nov 2026 09:12:39 GMT</pubDate>
-      <description><![CDATA[President Donald Trump declared the US the world leader in "superintelligence" at the APEC summit in Shenzhen, staking a tech claim amid the AI rivalry.]]></description>
+      <title>'You can be believed and understood': Joanne Young speaks after verdict</title>
+      <link>https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5e1984b55c640261fff0805aa73dbc2bef7ca91e</guid>
+      <pubDate>Thu, 19 Nov 2026 16:44:22 GMT</pubDate>
+      <description><![CDATA[Joanne Young, who has waived her right to anonymity, urged other victims of similar crimes to come forward.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>UK to provide Ukraine with 1,000 long-range strike drones</title>
-      <link>https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">344f7429572d06aa8425209ca05c4585ed0789da</guid>
-      <pubDate>Thu, 19 Nov 2026 09:10:03 GMT</pubDate>
-      <description><![CDATA[The prime minister is set to make the announcement at a meeting of the Coalition of the Willing in Berlin.]]></description>
+      <title>Dutch watchdog tells people not to buy AI smart glasses</title>
+      <link>https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e802c029868603cf0d5e5ff224f449375a133bf2</guid>
+      <pubDate>Thu, 19 Nov 2026 16:33:17 GMT</pubDate>
+      <description><![CDATA[Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Dozens missing after boat carrying 100 migrants sinks off Senegal's coast</title>
-      <link>https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2cddf338ba79f0837a861ead3e729250a266335b</guid>
-      <pubDate>Thu, 19 Nov 2026 09:02:52 GMT</pubDate>
-      <description><![CDATA[Some local media report that at least four bodies have been recovered.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Watch: Trump greets 'my friend' Putin as pair shake hands</title>
-      <link>https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a9611c04f407690383693c0513e2deb72952665b</guid>
-      <pubDate>Thu, 19 Nov 2026 08:31:09 GMT</pubDate>
-      <description><![CDATA[The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Hotel workers' skills put to the test at 36th Annual Housekeeping Olympics in Las Vegas</title>
-      <link>https://www.foxnews.com/us/hotel-workers-skills-put-test-36th-annual-housekeeping-olympics-las-vegas</link>
-      <guid isPermaLink="false">69b02858779a01abd53bf8ae3f0582ccef2a0ef5</guid>
-      <pubDate>Thu, 19 Nov 2026 08:12:27 GMT</pubDate>
-      <description><![CDATA[Hotel workers from across the country gathered in Las Vegas for the 36th annual Housekeeping Olympics, turning everyday duties into a series of fast-paced competitions.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump's massive DC triumphal arch project dealt another blow by federal judge</title>
-      <link>https://www.foxnews.com/politics/trumps-massive-dc-triumphal-arch-project-dealt-another-blow-federal-judge</link>
-      <guid isPermaLink="false">c189a49335f5d24e364371b7a7f46d1141f9d651</guid>
-      <pubDate>Thu, 19 Nov 2026 08:00:30 GMT</pubDate>
-      <description><![CDATA[A federal judge extended her order blocking construction of President Donald Trump's triumphal arch in Washington, D.C., putting the project on hold until at least Dec. 3.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'You will regret it': Angry resident confronts Democratic mayor during chaotic council meeting</title>
-      <link>https://www.foxnews.com/politics/you-will-regret-it-angry-resident-confronts-democratic-mayor-during-chaotic-council-meeting</link>
-      <guid isPermaLink="false">3a85dc897dc790d4086a0cc2cc726871a603db2a</guid>
-      <pubDate>Thu, 19 Nov 2026 07:51:02 GMT</pubDate>
-      <description><![CDATA[Video captured a California immigration activist threatening to reveal Mayor Kevin McCarty's home address at a Sacramento City Council meeting after becoming angry with city policies.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Crimean Bridge attacked again, Russia says</title>
-      <link>https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8944b9bf2f7dff44b2c5a5ee90bb72da6fae723e</guid>
-      <pubDate>Thu, 19 Nov 2026 07:32:06 GMT</pubDate>
-      <description><![CDATA[The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Win a trip to go behind the news with NPR</title>
-      <link>https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway</link>
-      <guid isPermaLink="false">39c5546cbe789eae1bb4b8a5c761a84585959067</guid>
-      <pubDate>Thu, 19 Nov 2026 05:01:00 GMT</pubDate>
-      <description><![CDATA[Enter for a chance to go behind the scenes at HQ, meet our journalists face-to-face and experience public media like never before.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls</title>
-      <link>https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5f8bc95c6410cfbf35564c56f257a8ce1efe66b2</guid>
-      <pubDate>Thu, 19 Nov 2026 04:42:52 GMT</pubDate>
-      <description><![CDATA[The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>WNBA launches search for next commissioner, but outgoing Cathy Engelbert could stay into 2027</title>
-      <link>https://www.foxnews.com/outkick-sports/wnba-launches-search-next-commissioner-outgoing-cathy-engelbert-could-stay-2027</link>
-      <guid isPermaLink="false">5b8e250484836489e90cffa035b0d7465ab36408</guid>
-      <pubDate>Thu, 19 Nov 2026 04:28:05 GMT</pubDate>
-      <description><![CDATA[WNBA Commissioner Cathy Engelbert says more than a dozen candidates are in the mix to succeed her, with officiating and player relations among top issues.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Lane Kiffin’s roster fight set the stage, Will Wade just threw a grenade in LSU-SEC war with RJ Luis</title>
-      <link>https://www.foxnews.com/outkick-sports/lane-kiffin-roster-fight-set-stage-will-wade-threw-grenade-lsu-sec-war-rj-luis</link>
-      <guid isPermaLink="false">8708bf1eca1ce6aab6aeedd176dfc81bdcd94139</guid>
-      <pubDate>Thu, 19 Nov 2026 03:18:39 GMT</pubDate>
-      <description><![CDATA[Will Wade sent RJ Luis onto the court against Louisiana-Monroe, escalating LSU's legal war with the SEC after a judge granted the former pro an injunction.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'The View' co-host Whoopi Goldberg demands Dems impeach RFK Jr, 'get his a-- out of there'</title>
-      <link>https://www.foxnews.com/media/the-view-co-host-whoopi-goldberg-demands-dems-impeach-rfk-jr-get-his-a-out-there</link>
-      <guid isPermaLink="false">5a96471eb72bb997c1040acea9dcd6e358512701</guid>
-      <pubDate>Thu, 19 Nov 2026 03:00:58 GMT</pubDate>
-      <description><![CDATA["The View" co-host Whoopi Goldberg demanded Congress impeach HHS Secretary Robert F. Kennedy Jr. after the U.S. lost its measles elimination status Tuesday.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Elon Musk says record $446m spending on US midterms was 'pretty foolish'</title>
-      <link>https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d412c50db1b78efaa79904958d0a90fc2b3b7b65</guid>
-      <pubDate>Thu, 19 Nov 2026 02:59:06 GMT</pubDate>
-      <description><![CDATA[The multi-billionaire also said he was "not Maga", distancing himself from the political movement linked to Trump.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Fred Warner calls Mexico City NFL game 'super special' as Mexican roots take center stage</title>
-      <link>https://www.foxnews.com/outkick-sports/fred-warner-calls-mexico-city-nfl-game-super-special-mexican-roots-center-stage</link>
-      <guid isPermaLink="false">6827f74be70d266a69765daa8e9c8762486005f5</guid>
-      <pubDate>Thu, 19 Nov 2026 02:25:09 GMT</pubDate>
-      <description><![CDATA[Fred Warner, who leads the 49ers with 88 tackles, calls returning to Mexico City "super special" as San Francisco preps at high elevation for the Vikings.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>President Trump downplays panic over tech outages: ‘Nobody’s going to play games with us’</title>
-      <link>https://www.foxnews.com/media/president-trump-downplays-panic-tech-outages-nobody-going-play-games-us</link>
-      <guid isPermaLink="false">2e12304c6a4789824a6740ed52adaf1a28b12591</guid>
-      <pubDate>Thu, 19 Nov 2026 02:22:49 GMT</pubDate>
-      <description><![CDATA[President Donald Trump urged Americans to "relax" over FAA and Microsoft outages, warning any country that targeted U.S. systems would be hit hard.]]></description>
+      <title>Florida Atlantic Coast faces Level 4 out of 4 flash flood risk as intense rain prompts emergency declarations</title>
+      <link>https://www.foxweather.com/weather-news/florida-atlantic-coast-flooding-november-torrential-rain-2026</link>
+      <guid isPermaLink="false">d67278d7a944f6e89fadeb17cb9f5eb0b5ea18da</guid>
+      <pubDate>Thu, 19 Nov 2026 11:54:54 GMT</pubDate>
+      <description><![CDATA[Florida's Atlantic Coast is being pounded by relentless rain, which will fuel a dangerous Level 3 out of 4 flash flood threat into Saturday, after flooding prompted emergency declarations, widespread road closures and high-water rescues Wednesday.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut</title>
-      <link>https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c6d87bb33ae78f6a157f2456468e0cbb016f0185</guid>
-      <pubDate>Thu, 19 Nov 2026 02:20:15 GMT</pubDate>
-      <description><![CDATA[The company behind the Claude chatbot will become one of the most valuable firms in the world.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ella Langley dominates CMA Awards with major wins as Taylor Swift makes stunning return to stage</title>
-      <link>https://www.foxnews.com/entertainment/ella-langley-dominates-cma-awards-major-wins-taylor-swift-makes-stunning-return-stage</link>
-      <guid isPermaLink="false">a5b933a08c135c4593bafcced5124d0d113276f7</guid>
-      <pubDate>Thu, 19 Nov 2026 02:16:34 GMT</pubDate>
-      <description><![CDATA[Ella Langley dominates the CMAs as she wins big while Taylor Swift makes her return after decade-long absence.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>How could Super El Niño affect this year's Christmas tree industry?</title>
@@ -492,38 +524,6 @@
       <guid isPermaLink="false">82b2c39ab0f1f64cb10a008cf129d8d2aadf2e96</guid>
       <pubDate>Wed, 18 Nov 2026 15:39:38 GMT</pubDate>
       <description><![CDATA[A complex combination of a front across South Florida, a sharp upper-air disturbance moving across the Gulf, an unusually moist atmosphere for November, and the El Niño-powered jet stream is producing bands of torrential rain across the southern part of the Florida peninsula and the Florida Keys.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>All eyes on Future Subtropical Storm Kyle as coastal storm brews off Southeast this weekend</title>
-      <link>https://www.foxweather.com/weather-news/potential-coastal-storm-southeast-soaking-rain-gusty-winds</link>
-      <guid isPermaLink="false">9718289bc1f3db9a5e442881ad86f99ee952cca7</guid>
-      <pubDate>Wed, 18 Nov 2026 00:26:19 GMT</pubDate>
-      <description><![CDATA[The same system responsible for bringing a weeklong flash flood threat to Florida could develop into a coastal storm by the weekend and threaten early Thanksgiving travel plans for millions of people as the National Hurricane Center (NHC) designated the area off the Southeast coast as an area to watch for tropical development.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>National Hurricane Center monitoring brewing Southeast coastal storm for tropical development this weekend</title>
-      <link>https://www.foxweather.com/weather-news/potential-coastal-storm-southeast-soaking-rain-gusty-winds</link>
-      <guid isPermaLink="false">9718289bc1f3db9a5e442881ad86f99ee952cca7</guid>
-      <pubDate>Wed, 18 Nov 2026 00:26:19 GMT</pubDate>
-      <description><![CDATA[The same system responsible for bringing a weeklong flash flood threat to Florida could develop into a coastal storm by the weekend and threaten early Thanksgiving travel plans for millions of people as the National Hurricane Center (NHC) designated the area off the Southeast coast as an area to watch for tropical development.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Millions across Southeast face potential coastal storm as soaking rain and gusty winds loom</title>
-      <link>https://www.foxweather.com/weather-news/potential-coastal-storm-southeast-soaking-rain-gusty-winds</link>
-      <guid isPermaLink="false">9718289bc1f3db9a5e442881ad86f99ee952cca7</guid>
-      <pubDate>Wed, 18 Nov 2026 00:26:19 GMT</pubDate>
-      <description><![CDATA[A coastal storm could develop off the Southeast coast this weekend, potentially bringing heavy rain, gusty winds and high surf to more than 10 million people.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Florida's soggy November continues as days of heavy rain and gusty winds raise flood threat</title>
-      <link>https://www.foxweather.com/weather-news/florida-november-heavy-rain-winds-kalshi</link>
-      <guid isPermaLink="false">589ce55d8b4243c7fb5ee54ba3d73b427c96f56e</guid>
-      <pubDate>Tue, 17 Nov 2026 21:59:03 GMT</pubDate>
-      <description><![CDATA[A week of wet, windy weather is headed to Florida, and severe conditions could cause serious flooding for thousands of residents.]]></description>
       <category>weather</category>
     </item>
   </channel>
