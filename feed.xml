@@ -5,62 +5,86 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 19:17:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 01:38:19 GMT</lastBuildDate>
     <item>
-      <title>MIKE DAVIS: Washington is strangling the humble radio</title>
-      <link>https://www.foxnews.com/opinion/mike-davis-washington-strangling-humble-radio</link>
-      <guid isPermaLink="false">f927388ea54776bc4d3af661fdf2f52cf9d784e5</guid>
-      <pubDate>Wed, 18 Nov 2026 19:17:38 GMT</pubDate>
-      <description><![CDATA[FCC Chairman Brendan Carr could scrap 1996 radio ownership caps that threaten emergency alerts, high school sports and farm reports in small towns.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>FEMA alerts public ahead of nationwide Emergency Alert System test Tuesday afternoon</title>
-      <link>https://www.foxweather.com/weather-news/fema-test-emergency-alert-system-november-2026</link>
-      <guid isPermaLink="false">0250df7c6c72febd7ada6aad4a52366c37e7476d</guid>
-      <pubDate>Tue, 17 Nov 2026 14:44:45 GMT</pubDate>
-      <description><![CDATA[The Federal Emergency Management Agency (FEMA) is advising the public about a scheduled, nationwide test of the Emergency Alert System that is set to take place on Tuesday at 2:20 p.m. ET.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Today - Chance Light Snow</title>
+      <title>Anchorage Weather: This Afternoon - Chance Light Rain</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 18 Nov 2026 19:20:36 GMT</pubDate>
-      <description><![CDATA[37°F. Wind N 5 to 10 mph. A chance of snow and a chance of freezing rain before 3pm, then a chance of rain. Cloudy, with a high near 37. North wind 5 to 10 mph. Chance of precipitation is 50%. Little or no ice accumulation expected.]]></description>
+      <pubDate>Thu, 19 Nov 2026 01:38:19 GMT</pubDate>
+      <description><![CDATA[37°F. Wind NW 10 mph. A chance of rain. Cloudy, with a high near 37. Northwest wind around 10 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Tonight - Light Rain Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 18 Nov 2026 19:20:36 GMT</pubDate>
-      <description><![CDATA[32°F. Wind N 5 to 10 mph. Rain likely. Cloudy. Low around 32, with temperatures rising to around 40 overnight. North wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Thu, 19 Nov 2026 01:38:19 GMT</pubDate>
+      <description><![CDATA[35°F. Wind N 5 to 10 mph. Rain likely. Cloudy. Low around 35, with temperatures rising to around 40 overnight. North wind 5 to 10 mph. Chance of precipitation is 60%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Thursday - Light Rain Likely</title>
+      <title>Anchorage Weather: Thursday - Light Rain then Light Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 18 Nov 2026 19:20:36 GMT</pubDate>
-      <description><![CDATA[41°F. Wind E 5 to 10 mph. Rain likely. Mostly cloudy, with a high near 41. East wind 5 to 10 mph. Chance of precipitation is 70%.]]></description>
+      <pubDate>Thu, 19 Nov 2026 01:38:19 GMT</pubDate>
+      <description><![CDATA[41°F. Wind E 5 to 10 mph. Rain before 3pm, then snow. Cloudy, with a high near 41. East wind 5 to 10 mph. Chance of precipitation is 80%.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Thursday Night - Rain And Snow Likely</title>
+      <title>Anchorage Weather: Thursday Night - Light Snow Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 18 Nov 2026 19:20:36 GMT</pubDate>
-      <description><![CDATA[28°F. Wind S 5 mph. Rain and snow likely before 3am. Mostly cloudy, with a low around 28. South wind around 5 mph. Chance of precipitation is 60%.]]></description>
+      <pubDate>Thu, 19 Nov 2026 01:38:19 GMT</pubDate>
+      <description><![CDATA[28°F. Wind S 5 mph. Snow likely before 3am. Mostly cloudy, with a low around 28. South wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Friday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Wed, 18 Nov 2026 19:20:36 GMT</pubDate>
+      <pubDate>Thu, 19 Nov 2026 01:38:19 GMT</pubDate>
       <description><![CDATA[34°F. Wind S 5 mph. Partly sunny, with a high near 34. South wind around 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Juneau Assembly approves $25 million for seawalk construction</title>
+      <link>https://www.juneauempire.com/2026/11/18/juneau-assembly-approves-25-million-for-seawalk-construction/</link>
+      <guid isPermaLink="false">0bb119b285c8ddd9779084a94f7d8df1258691b7</guid>
+      <pubDate>Wed, 18 Nov 2026 23:30:00 GMT</pubDate>
+      <description><![CDATA[Construction will allow easier access for cruise passengers to downtown]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer’s Dennis Weidler honored with broadcasting award</title>
+      <link>https://www.homernews.com/2026/11/18/homers-dennis-weidler-honored-with-broadcasting-award/</link>
+      <guid isPermaLink="false">3af45cd437effbe47c4b987e496087e509a7b254</guid>
+      <pubDate>Wed, 18 Nov 2026 22:30:00 GMT</pubDate>
+      <description><![CDATA[KHCX-FM broadcaster recognized for his contributions and mentorship with ABA President’s Award]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Juneau man arrested following shooting on Glacier Highway</title>
+      <link>https://www.juneauempire.com/2026/11/18/juneau-man-arrested-following-shooting-on-glacier-highway/</link>
+      <guid isPermaLink="false">55b125300037eeca7f828ddf038e9805cfad98ee</guid>
+      <pubDate>Wed, 18 Nov 2026 22:00:00 GMT</pubDate>
+      <description><![CDATA[39-year-old Joshua W. Young was arrested on Nov. 17]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>LETTER: U.S. letting other countries lead fight against climate change</title>
+      <link>https://www.juneauempire.com/2026/11/18/letter-u-s-letting-other-countries-lead-fight-against-climate-change/</link>
+      <guid isPermaLink="false">e2801fca21c49e6a540d36cd2e1c489612818623</guid>
+      <pubDate>Wed, 18 Nov 2026 21:30:00 GMT</pubDate>
+      <description><![CDATA[In the United States, domestic debates on climate policy have stalled. While in the rest of the world a number of nations have taken action in the fight against climate change.]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Jeffries chosen to lead US House Dems, poised to be first Black speaker</title>
+      <link>https://alaskabeacon.com/2026/11/18/repub/jeffries-chosen-to-lead-us-house-dems-poised-to-be-first-black-speaker/</link>
+      <guid isPermaLink="false">dc3a3c8e6511078de44cb8700f30e26d64198ee8</guid>
+      <pubDate>Wed, 18 Nov 2026 19:52:17 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — U.S. House Democrats voted behind closed doors Wednesday to nominate Rep. Hakeem Jeffries as the party’s leader in the next Congress, teeing him up to become the first Black speaker of the House.  Jeffries, a New York Democrat, will come into the 120th Congress with a comfortable majority following the midterm elections, and […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Homer council approves road, harbor projects and insurance savings</title>
@@ -263,60 +287,180 @@
       <category>local</category>
     </item>
     <item>
-      <title>‘It’s Giving Iraq WMDs Reporting’: US Officials Tell CNN Iran Has Dirty Bomb Plan</title>
-      <link>https://alaska-native-news.com/its-giving-iraq-wmds-reporting-us-officials-tell-cnn-iran-has-dirty-bomb-plan/87132/</link>
-      <guid isPermaLink="false">c9de627e907cd74438539e48d8889b8ae362161d</guid>
-      <pubDate>Tue, 17 Nov 2026 14:55:09 GMT</pubDate>
-      <description><![CDATA[“The urban ‘dirty bomb’ threat was one of the great chimeras of peak War on Terror America, and I guess it’s back!” said one journalist. Over two decades after the George W. Bush administration spread lies about weapons of mass destruction to push its invasion of Iraq, and nearly nine months into an illegal US-Israeli […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska bank regulator approves Northrim Bank’s expansion into Oregon</title>
-      <link>https://alaskabeacon.com/2026/11/17/alaska-bank-regulator-approves-northrim-banks-expansion-into-oregon/</link>
-      <guid isPermaLink="false">ff5b776816be85db41ed4a72164dcf61b059b8d1</guid>
-      <pubDate>Tue, 17 Nov 2026 14:30:04 GMT</pubDate>
-      <description><![CDATA[The Alaska Division of Banking and Securities is planning to approve Northrim Bank’s takeover of Oregon’s People’s Bank of Commerce, it said in a public notice Thursday. The purchase, announced in July by Northrim, marks the first time that Northrim has expanded outside the state of Alaska. People’s Bank of Commerce has 11 branches in […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>This Day in Alaska History-November 17th, 1916</title>
-      <link>https://alaska-native-news.com/november-17th-1916/45813/</link>
-      <guid isPermaLink="false">3f466e912405e10cfc9703b4f5e78baf6baa3d0f</guid>
-      <pubDate>Tue, 17 Nov 2026 14:00:12 GMT</pubDate>
-      <description><![CDATA[]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>New UAS tuition rates will raise some costs, cut others in Juneau</title>
-      <link>https://www.juneauempire.com/2026/11/17/new-uas-tuition-rates-will-raise-some-costs-cut-others-in-juneau/</link>
-      <guid isPermaLink="false">07fff3c7a615b68446e2c8dbbcfdc3261f1d0064</guid>
-      <pubDate>Tue, 17 Nov 2026 13:00:00 GMT</pubDate>
-      <description><![CDATA[New $271 rate raises introductory tuition while cutting advanced costs]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Wolf-Alutiiq Word of the Week</title>
-      <link>https://alaska-native-news.com/wolf-alutiiq-word-of-the-week/87125/</link>
-      <guid isPermaLink="false">4711751ce5b8c1cdf30915d959c93d00801dc201</guid>
-      <pubDate>Tue, 17 Nov 2026 02:45:06 GMT</pubDate>
-      <description><![CDATA[Wolf — Kaganaq Kaganat yaqsigtut maaken. – The wolves are far from here. Wolves (Canis lupus) occur throughout mainland Alaska, from the rainforests of Southeast to Unimak Island in the Aleutians and as far north as the arctic coast of the Beaufort Sea. This huge range, nearly eighty-five percent of Alaska, illustrates the animals’ great […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Former Penn State frat brother indicted by federal grand jury in cocaine trafficking scheme</title>
-      <link>https://www.foxnews.com/us/former-penn-state-frat-brother-indicted-federal-grand-jury-cocaine-trafficking-scheme</link>
-      <guid isPermaLink="false">67810d94f5701596fdbfb8b144cd0aa3b64da407</guid>
-      <pubDate>Wed, 18 Nov 2026 19:13:23 GMT</pubDate>
-      <description><![CDATA[Prosecutors say Agostino Abbatiello supplied cocaine to Penn State's Sigma Chi and Delta Upsilon fraternities, where pledges packaged drugs as initiation.]]></description>
+      <title>Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond</title>
+      <link>https://www.foxnews.com/entertainment/jeff-bezos-says-he-heavily-involved-picking-robert-pattinson-james-bond</link>
+      <guid isPermaLink="false">23dbcfb2f906020b8ee30e52b8762b05ed4f1286</guid>
+      <pubDate>Thu, 19 Nov 2026 01:30:06 GMT</pubDate>
+      <description><![CDATA[Jeff Bezos says Robert Pattinson's fame initially worked against him in the James Bond casting, until old-fashioned screen tests made it obvious.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Iowa's Kirk Ferentz threatens to fire coaches if they mention style points with great old-school statement</title>
-      <link>https://www.foxnews.com/outkick-sports/iowas-kirk-ferentz-threatens-fire-coaches-mention-style-points-great-old-school-statement</link>
-      <guid isPermaLink="false">76cef0c15242f293f6d320180e946371502a7ed8</guid>
-      <pubDate>Wed, 18 Nov 2026 19:10:10 GMT</pubDate>
-      <description><![CDATA[Kirk Ferentz says chasing style points for the College Football Playoff could be "grounds for firing" as his No. 15 Iowa Hawkeyes chase a first berth.]]></description>
+      <title>Crimean Bridge attacked again, Russian official says</title>
+      <link>https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8944b9bf2f7dff44b2c5a5ee90bb72da6fae723e</guid>
+      <pubDate>Thu, 19 Nov 2026 01:05:03 GMT</pubDate>
+      <description><![CDATA[The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.]]></description>
       <category>world</category>
+    </item>
+    <item>
+      <title>Obama-era homeless policy fueled crisis it promised to end, expert says as Trump admin makes striking reversal</title>
+      <link>https://www.foxnews.com/us/obama-era-homeless-policy-fueled-crisis-promised-end-expert-says-trump-admin-makes-striking-reversal</link>
+      <guid isPermaLink="false">1f58f5893ca5972d1ff4f43418483dc28b6fd7d5</guid>
+      <pubDate>Thu, 19 Nov 2026 01:02:11 GMT</pubDate>
+      <description><![CDATA[Homeless services veteran Michele Steeb says LA’s funding cutoff offers a chance to restore accountability after years of alleged mismanagement.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>No 1 Florida loses to Houston as four of the preseason AP top five fall before Thanksgiving</title>
+      <link>https://www.foxnews.com/outkick-sports/no-1-florida-loses-houston-four-preseason-ap-top-five-fall-before-thanksgiving</link>
+      <guid isPermaLink="false">47c732f8291cdd91cd8f433dbe0f99296df608e4</guid>
+      <pubDate>Thu, 19 Nov 2026 00:55:02 GMT</pubDate>
+      <description><![CDATA[Dedan Thomas Jr. scored 30 as No. 8 Houston avenged its 2025 national title loss by beating No. 1 Florida 86-76, handing the Gators their first loss.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Iran warns Bahrain monarchy its survival is at risk amid push to 'evict' US Fifth Fleet</title>
+      <link>https://www.foxnews.com/world/iran-warns-bahrain-monarchy-survival-risk-amid-push-evict-us-fifth-fleet</link>
+      <guid isPermaLink="false">3f4d23c4cdcdc4881b4e38bd8da45b566f838c87</guid>
+      <pubDate>Thu, 19 Nov 2026 00:54:57 GMT</pubDate>
+      <description><![CDATA[Iran's Islamic Revolutionary Guard Corps warned Bahrain's monarchy its survival is in doubt as drones and missiles hit the U.S. Navy's Fifth Fleet home.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Tyler Herro's three-words sums up status with ex-teammate Bam Adebayo for first game since punching incident</title>
+      <link>https://www.foxnews.com/outkick-sports/tyler-herro-three-words-sums-status-ex-teammate-bam-adebayo-first-game-since-punching-incident</link>
+      <guid isPermaLink="false">f39f636bb04b0e3907985ffd605b9aca39075d30</guid>
+      <pubDate>Thu, 19 Nov 2026 00:51:54 GMT</pubDate>
+      <description><![CDATA[Tyler Herro says he hasn't talked to Bam Adebayo as the Miami Heat host the Bucks in their first meeting since the reported Summer League altercation.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Van Gogh painting sells for record $190.4m after row over its Nazi history</title>
+      <link>https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">43a2d9476efa1de6744870e32c0fa689c221a3bc</guid>
+      <pubDate>Thu, 19 Nov 2026 00:49:19 GMT</pubDate>
+      <description><![CDATA[Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Patrick McEnroe joins Rep Tim Walberg to back Team USA Act capping foreign college athletes at 20% of rosters</title>
+      <link>https://www.foxnews.com/outkick-sports/patrick-mcenroe-joins-rep-tim-walberg-back-team-usa-act-capping-foreign-college-athletes-20-percent-rosters</link>
+      <guid isPermaLink="false">73ac3bf4e808aee6707da7cd864e9f007f960538</guid>
+      <pubDate>Thu, 19 Nov 2026 00:45:32 GMT</pubDate>
+      <description><![CDATA[Outside the U.S. Capitol, Patrick McEnroe backed the TEAM USA Act, citing nearly 70% foreign Division I tennis rosters as U.S. taxpayers fund Olympians.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Wife and daughter arrested after DNA IDs man whose severed head was found in trash bag</title>
+      <link>https://www.foxnews.com/us/wife-daughter-arrested-after-dna-ids-man-whose-severed-head-found-trash-bag</link>
+      <guid isPermaLink="false">101008fe57335f33d0f848d6b728203993464b14</guid>
+      <pubDate>Thu, 19 Nov 2026 00:37:58 GMT</pubDate>
+      <description><![CDATA[Mary Fitzmaurice allegedly kept collecting her father's Social Security and pension benefits after his death, telling relatives he was still alive.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Muslims poised to outnumber Christians globally by 2035 amid demographic shifts</title>
+      <link>https://www.foxnews.com/world/muslims-poised-outnumber-christians-globally-2035-amid-demographic-shifts</link>
+      <guid isPermaLink="false">f76e6f25e07f7f0ee35eb7e739c2d9f829b6386b</guid>
+      <pubDate>Thu, 19 Nov 2026 00:28:08 GMT</pubDate>
+      <description><![CDATA[Pew Research Center study projects Muslims will outnumber Christians worldwide by 2035, driven by higher fertility rates and younger populations.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Bucket list vacation destination just got a lot tougher for Americans to reach</title>
+      <link>https://www.foxnews.com/travel/bucket-list-vacation-destination-got-lot-tougher-americans-reach</link>
+      <guid isPermaLink="false">151493f70770098de9578e8bc1a466edb131bc98</guid>
+      <pubDate>Thu, 19 Nov 2026 00:07:37 GMT</pubDate>
+      <description><![CDATA[U.S. airlines are cutting seats to popular vacation destination Costa Rica this winter, with January capacity down 12.5%, and San José hit harder than Liberia as airfares climb.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Carville dares far-left to 'run somebody' against mainstream Dems in primary and end their 'civil war'</title>
+      <link>https://www.foxnews.com/media/carville-dares-far-left-run-somebody-against-mainstream-dems-primary-end-civil-war</link>
+      <guid isPermaLink="false">6a61d19248974569f32cec6d4ab717b49f6ce1c3</guid>
+      <pubDate>Thu, 19 Nov 2026 00:06:11 GMT</pubDate>
+      <description><![CDATA[James Carville challenged the far-left wing of the Democratic Party to test its popularity and run a dream candidate against mainstream rivals in the 2028 presidential primary.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Crew unaware of risks before Bayesian yacht accident, say investigators</title>
+      <link>https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6820aed82388153a69ae2df77c3f288e9e8d8b32</guid>
+      <pubDate>Thu, 19 Nov 2026 00:05:31 GMT</pubDate>
+      <description><![CDATA[The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'</title>
+      <link>https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2a19c93c43c3361f3d43cbec07235e3c8890e268</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:59 GMT</pubDate>
+      <description><![CDATA[A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Anthropic IPO raises record $81.3 billion on strong AI demand</title>
+      <link>https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price</link>
+      <guid isPermaLink="false">56673e8fb67a197fb2834c8dce6ad14c765f9899</guid>
+      <pubDate>Wed, 18 Nov 2026 23:54:56 GMT</pubDate>
+      <description><![CDATA[The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Claude-maker Anthropic poised for more than $1.4tn stock market debut</title>
+      <link>https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c6d87bb33ae78f6a157f2456468e0cbb016f0185</guid>
+      <pubDate>Wed, 18 Nov 2026 23:44:27 GMT</pubDate>
+      <description><![CDATA[Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Google rejects UK request for Russell Brand YouTube video to be removed, sources say</title>
+      <link>https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c8d94c32e48f484b07df82e8bc7f10c6cd4a1a61</guid>
+      <pubDate>Wed, 18 Nov 2026 23:29:14 GMT</pubDate>
+      <description><![CDATA[This comes after Brand's wife shared a message from him in which he claimed his innocence.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Russian arrested for spying on US defence company Palantir over Ukraine support</title>
+      <link>https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1431aa957fde93a39ec086c2f1a3d38eefa29628</guid>
+      <pubDate>Wed, 18 Nov 2026 23:28:03 GMT</pubDate>
+      <description><![CDATA[The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Myanmar faces historic genocide verdict at UN court over Rohingya massacres</title>
+      <link>https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">cd24719f402dc8b20186c452126b6e30c6f976ad</guid>
+      <pubDate>Wed, 18 Nov 2026 23:04:06 GMT</pubDate>
+      <description><![CDATA[No state has ever been found guilty by an international court of committing genocide.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Israeli military launches rare ground operation in Gaza beyond Yellow Line</title>
+      <link>https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">c3261a1d086e0f1f0aa788ca2da7f58314b6212b</guid>
+      <pubDate>Wed, 18 Nov 2026 22:34:56 GMT</pubDate>
+      <description><![CDATA[Hamas condemns the incursion, which the Israeli military says is dismantling a "terror tunnel", as a "flagrant" ceasefire violation.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>How could Super El Niño affect this year's Christmas tree industry?</title>
+      <link>https://www.foxweather.com/weather-news/how-super-el-nino-affect-christmas-industry-2026</link>
+      <guid isPermaLink="false">84d44b26b43edfd1b4f4778b7ecec6b64fc4c122</guid>
+      <pubDate>Wed, 18 Nov 2026 21:56:13 GMT</pubDate>
+      <description><![CDATA[The Super El Niño of 2026 is forecast to be one of the strongest El Niños ever recorded. As the holidays quickly approach, we take a look at past Super El Niño impacts on the Christmas tree industry to see what could be possible this winter.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Turkey with a side of snow? Thanksgiving could bring wintry surprise to US</title>
+      <link>https://www.foxweather.com/weather-news/where-snow-thanksgiving-winter-weather-kalshi</link>
+      <guid isPermaLink="false">f61d3044ee4af379445a751cd94f3afdfb8b6fd0</guid>
+      <pubDate>Wed, 18 Nov 2026 19:33:45 GMT</pubDate>
+      <description><![CDATA[Dreaming of a white Thanksgiving? Here’s a look at where snow could join the holiday feast and what the FOX Forecast Center is watching.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>The hidden side effects of Super El Niño that go far beyond the weather</title>
@@ -327,147 +471,19 @@
       <category>weather</category>
     </item>
     <item>
-      <title>Californians sound off on Newsom’s death penalty move, midterms and failed billionaire tax</title>
-      <link>https://www.foxnews.com/media/californians-sound-off-newsoms-death-penalty-move-midterms-failed-billionaire-tax</link>
-      <guid isPermaLink="false">0cf156be69129bdad7262ece9bb0d8b989ef56e5</guid>
-      <pubDate>Wed, 18 Nov 2026 18:59:19 GMT</pubDate>
-      <description><![CDATA[Los Angeles locals share their takes on California’s biggest political flashpoints, from Gov. Gavin Newsom’s death row commutations to the billionaire tax and Democrats’ next moves.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Trump cannot deter Xi and Putin’s nuclear goals with a strategy designed for just one</title>
-      <link>https://www.foxnews.com/opinion/trump-cannot-deter-xi-putin-nuclear-goals-strategy-designed-one</link>
-      <guid isPermaLink="false">ba53d7663f31d600e7f9be7e68861a7b874ee9bf</guid>
-      <pubDate>Wed, 18 Nov 2026 18:42:43 GMT</pubDate>
-      <description><![CDATA[President Donald Trump should take a strong position when he meets Vladimir Putin and Xi Jinping in China with nuclear arms control possibly on the agenda.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Russian national accused of surveilling US tech company</title>
-      <link>https://www.foxnews.com/us/russian-national-accused-surveilling-us-tech-company</link>
-      <guid isPermaLink="false">64456b1387553cb433e51838337bff4ecbf17a10</guid>
-      <pubDate>Wed, 18 Nov 2026 18:41:32 GMT</pubDate>
-      <description><![CDATA[Russian national Igor D'iu was indicted for allegedly stalking Silicon Valley tech employees with tracking devices and fake IDs, the FBI says.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Ukraine strikes 'one of the largest oil refineries' in southern Russia ahead of Putin-Trump meeting in China</title>
-      <link>https://www.foxnews.com/world/ukraine-strikes-one-largest-oil-refineries-southern-russia-ahead-putin-trump-meeting-china</link>
-      <guid isPermaLink="false">dfd48b2e12697d15517ec23e648f32c634f5a5c8</guid>
-      <pubDate>Wed, 18 Nov 2026 18:32:36 GMT</pubDate>
-      <description><![CDATA[Ukraine's military says its strikes hit a key oil refinery in Russia's Krasnodar Krai region ahead of President Donald Trump's meeting with Vladimir Putin.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Man takes avoiding his baby momma to new heights as he climbs 30 to 40 feet up into a tree</title>
-      <link>https://www.foxnews.com/outkick-sports/man-takes-avoiding-baby-momma-new-heights-climbs-30-40-feet-tree</link>
-      <guid isPermaLink="false">e9ef1642ce1553053a30eaf3d901df2a0816a096</guid>
-      <pubDate>Wed, 18 Nov 2026 18:30:47 GMT</pubDate>
-      <description><![CDATA[A 32-year-old Tacoma man allegedly climbed 30 to 40 feet up a tree to avoid his baby momma, then jumped onto buses before being arrested.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Protesters heckle Trump's ex-Border Patrol chief offstage after Dem governor condemns College Republican event</title>
-      <link>https://www.foxnews.com/politics/protesters-heckle-trumps-ex-border-patrol-chief-offstage-dem-governor-condemns-college-republican-event</link>
-      <guid isPermaLink="false">f49456800e75c3a1f07383ed0512303064309e59</guid>
-      <pubDate>Wed, 18 Nov 2026 18:26:49 GMT</pubDate>
-      <description><![CDATA[Protesters shouted "Immigrants are welcome here" as Gregory Bovino was escorted offstage at Rutgers College Republicans event Mikie Sherrill called "wrong."]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>SOUND OFF: Trump face to face with Putin in China</title>
-      <link>https://www.foxnews.com/politics/sound-off-trump-face-face-putin-china</link>
-      <guid isPermaLink="false">7c2cd9a7237160431fedc1c0ca6c6c6696e56d8a</guid>
-      <pubDate>Wed, 18 Nov 2026 18:22:10 GMT</pubDate>
-      <description><![CDATA[President Donald Trump and Russian President Vladimir Putin are expected to meet in China this week. Give us your thoughts about its impact on Iran, Ukraine and more.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Council wins legal fight against flags on lamp-posts</title>
-      <link>https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2891bfa341d092cdac5e1c299de30d32e289f3df</guid>
-      <pubDate>Wed, 18 Nov 2026 18:19:34 GMT</pubDate>
-      <description><![CDATA[In her decision, Judge Emma Kelly says there was a "compelling need" to grant the interim injunction.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>As overdose deaths fall, White House makes misleading claims about who deserves credit</title>
-      <link>https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl</link>
-      <guid isPermaLink="false">c4915d5429f3bbeb992f328af80002d71a13b0ad</guid>
-      <pubDate>Wed, 18 Nov 2026 18:18:16 GMT</pubDate>
-      <description><![CDATA[In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story</title>
-      <link>https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design</link>
-      <guid isPermaLink="false">2fa85661d03776d789ad21e84bafd0adf443d39c</guid>
-      <pubDate>Wed, 18 Nov 2026 18:15:59 GMT</pubDate>
-      <description><![CDATA[On NPR's Morning Edition , fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>William and Kate reflect on 'enduring' UK-India ties with Modi</title>
-      <link>https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bd5806ebe2b8edc8ddebd1e16ad2fe78dc5aadf2</guid>
-      <pubDate>Wed, 18 Nov 2026 17:51:47 GMT</pubDate>
-      <description><![CDATA[The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Regulator mistakenly sent complaints about doctors to newspaper</title>
-      <link>https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5a05d2bf4bf91d884c9769d01115cd6d8e7ea2b1</guid>
-      <pubDate>Wed, 18 Nov 2026 17:48:10 GMT</pubDate>
-      <description><![CDATA[Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Grand Theft Auto 6 is a masterpiece, say critics</title>
-      <link>https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">2cc51f85ba4371b10bed0f26b2cb11c16b1e62ca</guid>
-      <pubDate>Wed, 18 Nov 2026 17:34:25 GMT</pubDate>
-      <description><![CDATA[Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Democrats nominate Hakeem Jeffries to be US Speaker of the House</title>
-      <link>https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">77109af97ebadba04a1f6785711e946d39f74943</guid>
-      <pubDate>Wed, 18 Nov 2026 17:34:23 GMT</pubDate>
-      <description><![CDATA[The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Got a canceled flight? 7 clever ways to get rebooked fast</title>
-      <link>https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast</link>
-      <guid isPermaLink="false">a7976377cf978e0a086d611b6e54f51b3910472b</guid>
-      <pubDate>Wed, 18 Nov 2026 17:10:44 GMT</pubDate>
-      <description><![CDATA[Flying somewhere for Thanksgiving or the holidays? Travel insiders explain what to do if your flight gets canceled or delayed — so you can quickly get to your destination.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Inside the old gas pipeline where Ukraine is fighting an underground war with Russia</title>
-      <link>https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c73c048e2de0aef0a9070e229404ae68bf406898</guid>
-      <pubDate>Wed, 18 Nov 2026 17:00:40 GMT</pubDate>
-      <description><![CDATA[Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'The drones don't fly here' - BBC reports from Ukraine's new front line</title>
-      <link>https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">40b5659e8a6151f19c84eb0dd877c085c5227570</guid>
-      <pubDate>Wed, 18 Nov 2026 17:00:04 GMT</pubDate>
-      <description><![CDATA[Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.]]></description>
-      <category>world</category>
-    </item>
-    <item>
       <title>Bryan Norcross: A chance the coastal storm briefly becomes tropical enough to be named Kyle this weekend</title>
       <link>https://www.foxweather.com/weather-news/bryan-norcross-hurricane-analysis-november-18-2026</link>
       <guid isPermaLink="false">82b2c39ab0f1f64cb10a008cf129d8d2aadf2e96</guid>
       <pubDate>Wed, 18 Nov 2026 15:39:38 GMT</pubDate>
       <description><![CDATA[A complex combination of a front across South Florida, a sharp upper-air disturbance moving across the Gulf, an unusually moist atmosphere for November, and the El Niño-powered jet stream is producing bands of torrential rain across the southern part of the Florida peninsula and the Florida Keys.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>All eyes on Future Subtropical Storm Kyle as coastal storm brews off Southeast this weekend</title>
+      <link>https://www.foxweather.com/weather-news/potential-coastal-storm-southeast-soaking-rain-gusty-winds</link>
+      <guid isPermaLink="false">9718289bc1f3db9a5e442881ad86f99ee952cca7</guid>
+      <pubDate>Wed, 18 Nov 2026 00:26:19 GMT</pubDate>
+      <description><![CDATA[The same system responsible for bringing a weeklong flash flood threat to Florida could develop into a coastal storm by the weekend and threaten early Thanksgiving travel plans for millions of people as the National Hurricane Center (NHC) designated the area off the Southeast coast as an area to watch for tropical development.]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -508,22 +524,6 @@
       <guid isPermaLink="false">ee60652174bc99d94597c826bfbc5db6b5219031</guid>
       <pubDate>Tue, 17 Nov 2026 15:49:42 GMT</pubDate>
       <description><![CDATA[At least 5 people were injured on JetBlue Flight 1717, bound for Fort Lauderdale, after the plane encountered turbulence.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Powerful storms batter West Coast with feet of mountain snow, growing flash flood threat for 25+ million</title>
-      <link>https://www.foxweather.com/weather-news/30-million-along-california-coast-under-flash-flood-threat-from-latest-atmospheric-river-storm</link>
-      <guid isPermaLink="false">b2248459627150ac37b8847706588bda83703487</guid>
-      <pubDate>Tue, 17 Nov 2026 14:06:34 GMT</pubDate>
-      <description><![CDATA[A relentless atmospheric river weather pattern is blasting the West Coast with repeated storms as the latest storm system threatens both the San Francisco and Los Angeles metro areas with flash flooding this week in addition to substantial snow across the Sierra.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Flash flooding threatens 30M along California coast as latest atmospheric river fuels storms along West Coast</title>
-      <link>https://www.foxweather.com/weather-news/30-million-along-california-coast-under-flash-flood-threat-from-latest-atmospheric-river-storm</link>
-      <guid isPermaLink="false">b2248459627150ac37b8847706588bda83703487</guid>
-      <pubDate>Tue, 17 Nov 2026 14:06:34 GMT</pubDate>
-      <description><![CDATA[A relentless atmospheric river weather pattern is blasting the West Coast with repeated storms as the latest storm system threatens both the San Francisco and Los Angeles metro areas with flash flooding this week in addition to substantial snow across the Sierra.]]></description>
       <category>weather</category>
     </item>
   </channel>
