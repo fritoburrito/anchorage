@@ -5,7 +5,15 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:26:59 GMT</lastBuildDate>
+    <item>
+      <title>Relentless storms keep Florida coast on high alert as catastrophic flooding continues</title>
+      <link>https://www.foxweather.com/weather-news/florida-rare-flood-threat-heavy-rain-slams-region</link>
+      <guid isPermaLink="false">ab3a0172938a4694a47803550be40a97b653a3dd</guid>
+      <pubDate>Fri, 20 Nov 2026 01:26:59 GMT</pubDate>
+      <description><![CDATA[Unrelenting rain is expected to continue into Saturday along Florida’s Space and Treasure coasts after more than a foot of precipitation has fallen across parts of the state’s Atlantic Coast since Tuesday, triggering water rescues and evacuations and prompting Gov. Ron DeSantis to activate the National Guard on Thursday.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Future Subtropical Storm Kyle could emerge as Atlantic coastal storm puts millions on alert</title>
       <link>https://www.foxweather.com/weather-news/future-subtropical-storm-kyle-brews-atlantic-millions-alert</link>
@@ -23,43 +31,83 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Today - Mostly Sunny</title>
+      <title>Anchorage Weather: This Afternoon - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 20 Nov 2026 17:29:18 GMT</pubDate>
-      <description><![CDATA[31°F. Wind SE 5 mph. Mostly sunny. High near 31, with temperatures falling to around 26 in the afternoon. Southeast wind around 5 mph.]]></description>
+      <pubDate>Fri, 20 Nov 2026 23:36:18 GMT</pubDate>
+      <description><![CDATA[31°F. Wind SE 5 mph. Sunny. High near 31, with temperatures falling to around 26 in the afternoon. Southeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
+      <title>Anchorage Weather: Tonight - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 20 Nov 2026 17:29:18 GMT</pubDate>
-      <description><![CDATA[22°F. Wind SE 0 to 5 mph. Mostly cloudy, with a low around 22. Southeast wind 0 to 5 mph.]]></description>
+      <pubDate>Fri, 20 Nov 2026 23:36:18 GMT</pubDate>
+      <description><![CDATA[22°F. Wind SE 5 mph. Partly cloudy, with a low around 22. Southeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 20 Nov 2026 17:29:18 GMT</pubDate>
-      <description><![CDATA[30°F. Wind E 5 mph. Mostly cloudy, with a high near 30. East wind around 5 mph.]]></description>
+      <pubDate>Fri, 20 Nov 2026 23:36:18 GMT</pubDate>
+      <description><![CDATA[30°F. Wind SE 5 mph. Mostly cloudy, with a high near 30. Southeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 20 Nov 2026 17:29:18 GMT</pubDate>
-      <description><![CDATA[16°F. Wind NE 5 mph. Mostly cloudy, with a low around 16. Northeast wind around 5 mph.]]></description>
+      <pubDate>Fri, 20 Nov 2026 23:36:18 GMT</pubDate>
+      <description><![CDATA[16°F. Wind N 5 mph. Mostly cloudy, with a low around 16. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday - Partly Sunny</title>
+      <title>Anchorage Weather: Sunday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 20 Nov 2026 17:29:18 GMT</pubDate>
-      <description><![CDATA[27°F. Wind NE 5 mph. Partly sunny, with a high near 27. Northeast wind around 5 mph.]]></description>
+      <pubDate>Fri, 20 Nov 2026 23:36:18 GMT</pubDate>
+      <description><![CDATA[27°F. Wind N 5 mph. Sunny, with a high near 27. North wind around 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>After 59-vote win, Johnson prepares for first House session in Juneau</title>
+      <link>https://www.homernews.com/2026/11/20/after-59-vote-win-johnson-prepares-for-first-house-session-in-juneau/</link>
+      <guid isPermaLink="false">86eade057a811b81b8f6a9d88a4925bdb5296d70</guid>
+      <pubDate>Fri, 20 Nov 2026 22:55:00 GMT</pubDate>
+      <description><![CDATA[Former assembly president plans for Juneau and a larger House coalition]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>New mpox cases in Anchorage prompt vaccination push across Alaska</title>
+      <link>https://www.homernews.com/2026/11/20/new-mpox-cases-in-anchorage-prompt-vaccination-push-across-alaska/</link>
+      <guid isPermaLink="false">25db99ce2fd5cd0a5e86cf64bf2ab49a8f97e95a</guid>
+      <pubDate>Fri, 20 Nov 2026 21:13:00 GMT</pubDate>
+      <description><![CDATA[Four infections reported as many Alaskans have yet to get a second vaccine dose]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Port MacKenzie rail construction could come as soon as summer, Alaska Railroad CEO says</title>
+      <link>https://alaskabeacon.com/2026/11/20/port-mackenzie-rail-construction-could-come-as-soon-as-summer-alaska-railroad-ceo-says/</link>
+      <guid isPermaLink="false">cf6e54d76a98621d55b0b3e4227ca50b87bbc8f4</guid>
+      <pubDate>Fri, 20 Nov 2026 20:47:28 GMT</pubDate>
+      <description><![CDATA[Construction on the long-awaited Port MacKenzie railroad line may start in summer, the CEO of the Alaska Railroad said by phone Thursday evening. The line, which will connect Port MacKenzie to the railroad’s main line, has been expected for almost 35 years and promises to generate an industrial boom for the Matanuska-Susitna Borough by unlocking […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Under new rule, Trump administration greenlights Arctic winter drilling without public comment</title>
+      <link>https://alaskabeacon.com/2026/11/20/under-new-rule-trump-administration-greenlights-arctic-winter-drilling-without-public-comment/</link>
+      <guid isPermaLink="false">a01f192ef5fb32d86901bf431ede0f886a23b701</guid>
+      <pubDate>Fri, 20 Nov 2026 19:00:44 GMT</pubDate>
+      <description><![CDATA[Amid a flood of new investment in Alaska’s oil patch and an aggressive push by the Trump administration to speed up drilling, one of the state’s biggest producers is pushing west deeper into the Arctic. ConocoPhillips recently announced new plans to drill and conduct geologic studies this winter in search of oil beneath the western […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Incoming Kreiss-Tomkins administration names top budget director, chief of staff</title>
+      <link>https://alaskabeacon.com/2026/11/20/incoming-kreiss-tomkins-administration-names-top-budget-director-chief-of-staff/</link>
+      <guid isPermaLink="false">d53383e3beb3857e6fd4f519c855051833d60a86</guid>
+      <pubDate>Fri, 20 Nov 2026 18:05:02 GMT</pubDate>
+      <description><![CDATA[Alaska Gov.-elect, Jonathan Kreiss-Tomkins, announced the first picks for key leadership positions on Wednesday. Kreiss-Tomkins has named Alexei Painter, former head of the Alaska Legislative Finance Division, the new director of the Office of Management and Budget. Ira Slomski-Pritz will be Kreiss-Tomkins’ chief of staff, and Becky Windt Pearson will be a senior transition advisor […]]]></description>
       <category>weather</category>
     </item>
     <item>
@@ -223,54 +271,6 @@
       <category>local</category>
     </item>
     <item>
-      <title>Homer Pet of the Week: Balto</title>
-      <link>https://www.homernews.com/2026/11/19/homer-pet-of-the-week-balto/</link>
-      <guid isPermaLink="false">d4967aa9eff78f1d096553e10dced76289054159</guid>
-      <pubDate>Thu, 19 Nov 2026 14:30:00 GMT</pubDate>
-      <description><![CDATA[Two-year-old male is ready to find a loving family to take him home]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Same nickname, two very different men — Part 4</title>
-      <link>https://www.homernews.com/2026/11/19/same-nickname-two-very-different-men-part-4/</link>
-      <guid isPermaLink="false">f2a14c79bc57f21e9e55c5a2b2ad24a6858c8f1d</guid>
-      <pubDate>Thu, 19 Nov 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[AUTHOR’S NOTE: Two men with the moniker “Beluga Joe” plied the waters of Cook Inlet in the 1900s. Both Joseph Magill and Joseph Schneller became associated with the Beluga River on the inlet’s west side, and both were noted for commercial fishing. Most of the similarities end there.]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Anchor Point’s Christmas Parade is going nowhere in particular</title>
-      <link>https://www.homernews.com/2026/11/19/anchor-points-christmas-parade-is-going-nowhere-in-particular/</link>
-      <guid isPermaLink="false">d3d7cd02231891a3b00bbbbe22c52432935f5cf8</guid>
-      <pubDate>Thu, 19 Nov 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[No route, no lineup, no problem for Dec. 12 holiday celebration with a twist]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Hilcorp seeks emergency review for Clam Gulch gas drilling pad</title>
-      <link>https://www.homernews.com/2026/11/19/hilcorp-seeks-emergency-review-for-clam-gulch-gas-drilling-pad/</link>
-      <guid isPermaLink="false">7df8b756f9318d5a90b905fb877974bcb809b140</guid>
-      <pubDate>Thu, 19 Nov 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Company proposes filling 3.5 acres of wetlands for a new drilling site]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska Science Forum: Data (might) beat our weather stories</title>
-      <link>https://www.homernews.com/2026/11/19/alaska-science-forum-data-might-beat-our-weather-stories/</link>
-      <guid isPermaLink="false">62e962b2b0085b45714401485aee8129c2d1bee8</guid>
-      <pubDate>Thu, 19 Nov 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[“Alaskans like to tell weather stories, and we’ve got a lot of weather to tell stories about,” climate specialist Rick Thoman quipped over cups of cooling coffee.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Letters to the editor</title>
-      <link>https://www.homernews.com/2026/11/19/letters-to-the-editor-440/</link>
-      <guid isPermaLink="false">29b5347442a829ecba067959b4bd3e7accc0e48a</guid>
-      <pubDate>Thu, 19 Nov 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[Blue wave could be headed for the rocks]]></description>
-      <category>local</category>
-    </item>
-    <item>
       <title>Americans don’t have to choose between our AI future and ripping off copyright owners</title>
       <link>https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners</link>
       <guid isPermaLink="false">fa4eda37765a11e164eb99b1205f07bad5a09a58</guid>
@@ -279,91 +279,155 @@
       <category>world</category>
     </item>
     <item>
-      <title>US man found guilty of British woman's murder</title>
-      <link>https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">cf971e331b505a47d043b861c6b13d7c6e8a9cd0</guid>
-      <pubDate>Fri, 20 Nov 2026 17:26:47 GMT</pubDate>
-      <description><![CDATA[Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby.]]></description>
+      <title>FOX News Media kicks off holiday season with seventh annual 'All-American Christmas Tree Lighting'</title>
+      <link>https://www.foxnews.com/media/fox-news-media-kicks-off-holiday-season-seventh-annual-all-american-christmas-tree-lighting</link>
+      <guid isPermaLink="false">55d92dfa569194203393af8cdd48b08aef8913ef</guid>
+      <pubDate>Fri, 20 Nov 2026 23:20:52 GMT</pubDate>
+      <description><![CDATA[It’s beginning to look a lot like Christmas in Midtown Manhattan after FOX News Media kicked off the holiday season with the "All-American Christmas Tree Lighting" on Friday.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Detroit Pistons to host Muslim Night with El-Sayed shoutout, Gaza donations; no Christian-focused event</title>
-      <link>https://www.foxnews.com/outkick-sports/nba-detroit-pistons-host-muslim-night-abdul-el-sayed-shoutout-gaza-relief-charity</link>
-      <guid isPermaLink="false">0a32de57aa8b95c5a66567dad7fd7e68b5810bf7</guid>
-      <pubDate>Fri, 20 Nov 2026 17:09:29 GMT</pubDate>
-      <description><![CDATA[Detroit Pistons' American Muslim Night bundles halal food, a prayer space, and a $33 ticket package with a video saluting Senator-elect Abdul El-Sayed.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Darius Rucker says he used to drink a bottle of whiskey a day during wild Hootie &amp; the Blowfish years</title>
-      <link>https://www.foxnews.com/entertainment/darius-rucker-says-he-used-drink-bottle-whiskey-day-during-wild-hootie-blowfish-years</link>
-      <guid isPermaLink="false">f37c845f46bb67716328ede18668dcbdbf5fee5f</guid>
-      <pubDate>Fri, 20 Nov 2026 17:00:24 GMT</pubDate>
-      <description><![CDATA[Darius Rucker admits drinking a bottle of whiskey a day on the road as Hootie & the Blowfish fame fueled substance abuse in new Hulu documentary.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump initially accepted the midterm results, but most GOP voters doubt they were fair</title>
-      <link>https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans</link>
-      <guid isPermaLink="false">656cdb405835b5f584af8ab84bc2622d8d18383f</guid>
-      <pubDate>Fri, 20 Nov 2026 17:00:00 GMT</pubDate>
-      <description><![CDATA[Less than half of Republicans nationwide considered the midterm elections "free and fair," according to new polling.]]></description>
+      <title>Fiona the hippo honored by US Senate in unanimous resolution praising Cincinnati Zoo staff</title>
+      <link>https://www.foxnews.com/politics/fiona-hippo-honored-us-senate-unanimous-resolution-praising-cincinnati-zoo-staff</link>
+      <guid isPermaLink="false">62bf8f61e03d8e613425b86ae2d1cf42188dc73d</guid>
+      <pubDate>Fri, 20 Nov 2026 23:16:06 GMT</pubDate>
+      <description><![CDATA[Fiona the hippo received a formal Senate tribute from Sen. Bernie Moreno one day after the Cincinnati Zoo Nile hippopotamus died after a medical emergency.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk</title>
-      <link>https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">acf404f6e9c1429843d21c85209dfdb99246e1c6</guid>
-      <pubDate>Fri, 20 Nov 2026 16:54:29 GMT</pubDate>
-      <description><![CDATA[Nobody was hurt and no damage has been reported, but Warsaw described the incident as a "provocation" from Moscow.]]></description>
+      <title>Verdict reached in Los Angeles retrial over 2025 Pacific Palisades wildfire that killed 12 people</title>
+      <link>https://www.foxnews.com/us/verdict-reached-los-angeles-retrial-2025-pacific-palisades-wildfire-killed-12-people</link>
+      <guid isPermaLink="false">55c7c5e73cf1a1803185ce3b98b39d0d8d7521d0</guid>
+      <pubDate>Fri, 20 Nov 2026 23:10:38 GMT</pubDate>
+      <description><![CDATA[Jonathan Rinderknecht was convicted of federal arson in the Pacific Palisades fire that killed 12 and destroyed nearly 7,000 homes after a mistrial.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk</title>
-      <link>https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">acf404f6e9c1429843d21c85209dfdb99246e1c6</guid>
-      <pubDate>Fri, 20 Nov 2026 16:54:29 GMT</pubDate>
-      <description><![CDATA[Nobody was hurt and no damage has been reported, but Warsaw described the incident as a "provocation" from Moscow.]]></description>
+      <title>In a year of AI solving maths problems, Anthropic may have just solved the biggest</title>
+      <link>https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">97715f31a4737b5a29cee6b2bec1c83e7113b6a4</guid>
+      <pubDate>Fri, 20 Nov 2026 23:08:57 GMT</pubDate>
+      <description><![CDATA[A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>MICHAEL RUIZ: Resurfaced video appears to show NYC mayor arrested by NYPD group he is disbanding</title>
-      <link>https://www.foxnews.com/us/michael-ruiz-resurfaced-video-appears-show-nyc-mayor-arrested-nypd-group-disbanding</link>
-      <guid isPermaLink="false">d1878776859c5d9a5ea13f8dd7d13a61f68c2b39</guid>
-      <pubDate>Fri, 20 Nov 2026 16:43:39 GMT</pubDate>
-      <description><![CDATA[Resurfaced video shows Zohran Mamdani being detained by the NYPD Special Response Group, the same unit he later ordered dismantled as mayor.]]></description>
+      <title>Drake Maye fractured his fibula, leaving his season and Patriots playoff hopes in doubt: report</title>
+      <link>https://www.foxnews.com/outkick-sports/drake-maye-fractured-fibula-leaving-season-patriots-playoff-hopes-doubt-report</link>
+      <guid isPermaLink="false">6e6175a4de40421dc2d13511682b0c551f5488fe</guid>
+      <pubDate>Fri, 20 Nov 2026 23:05:39 GMT</pubDate>
+      <description><![CDATA[Drake Maye reportedly fractured his fibula in Germany and will miss deep into the season, while A.J. Brown's also suffered a hamstring injury that will force him to miss time.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow</title>
-      <link>https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">4f6023ff12d767f40cd6726c305b5c74f9740f89</guid>
-      <pubDate>Fri, 20 Nov 2026 16:41:52 GMT</pubDate>
-      <description><![CDATA[The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Daniel Thomas jailed for 15 months for slashing dinghy</title>
-      <link>https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e12d16743719f5b8c2dc4ddc271749871e42326c</guid>
-      <pubDate>Fri, 20 Nov 2026 16:39:49 GMT</pubDate>
-      <description><![CDATA[A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Suspect in alleged rape of LSU student killed by car fights to keep mom’s warning texts out of December trial</title>
-      <link>https://www.foxnews.com/us/suspect-alleged-rape-lsu-student-killed-car-fights-keep-moms-warning-texts-december-trial</link>
-      <guid isPermaLink="false">849e13219aa606290fbaff6a3e1e88b25977d468</guid>
-      <pubDate>Fri, 20 Nov 2026 16:34:15 GMT</pubDate>
-      <description><![CDATA[Desmond Carter's texts about his mother's advice to stay silent are central to a court fight in the alleged rape of a Louisiana State University student.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anthropic shares fall a day after blockbuster opening</title>
+      <title>Tech stock sell-off drags markets down as Anthropic shares slide</title>
       <link>https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">7abcb9e67aa8baf27d557249c0a7bab92a6ee453</guid>
-      <pubDate>Fri, 20 Nov 2026 16:27:47 GMT</pubDate>
-      <description><![CDATA[Other tech companies have also taken a hit as share markets broadly slump.]]></description>
+      <pubDate>Fri, 20 Nov 2026 22:42:47 GMT</pubDate>
+      <description><![CDATA[Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>French police officers sentenced for beating of music producer Michel Zecler</title>
+      <link>https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f926c876867d50c5441639d9a66ccbc6b0a649bf</guid>
+      <pubDate>Fri, 20 Nov 2026 22:37:09 GMT</pubDate>
+      <description><![CDATA[The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Shopping With Friends: Celebrate National Espresso Day with Keurig's new coffee and espresso maker</title>
+      <link>https://www.foxnews.com/deals/shopping-with-friends-keurig-alta-coffee-espresso-maker</link>
+      <guid isPermaLink="false">a3a7c142c1ec86782fe601cf20ea3f1c437e94cb</guid>
+      <pubDate>Fri, 20 Nov 2026 22:34:59 GMT</pubDate>
+      <description><![CDATA[Keurig's new Alta coffee and espresso maker brews espresso, lattes and cappuccinos with a built-in milk frother and a touchscreen for step by step recipes.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>"Best robot I've ever had": This Ecovacs vacuum and mop is $400 off for Black Friday</title>
+      <link>https://www.foxnews.com/deals/ecovacs-vacuum-black-friday-deal</link>
+      <guid isPermaLink="false">23ab8af9b2209945f30a527a78a7188eb1297dd1</guid>
+      <pubDate>Fri, 20 Nov 2026 22:32:14 GMT</pubDate>
+      <description><![CDATA[The Ecovacs Deebot X12S OmniCyclone robot vacuum and mop is less than $900 for Black Friday, with a fresh-water roller mop and ZeroTangle 4.0 tech for pet hair.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>S&amp;P 500 sinks 3.7% and the Nasdaq composite goes negative for the year</title>
+      <link>https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative</link>
+      <guid isPermaLink="false">d143a578a81d5432284ca1dd627d43dced075cd9</guid>
+      <pubDate>Fri, 20 Nov 2026 22:11:29 GMT</pubDate>
+      <description><![CDATA[AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Cardinals may start their fourth QB in four weeks as Carson Beck has injury after first career start</title>
+      <link>https://www.foxnews.com/outkick-sports/cardinals-may-start-fourth-qb-four-weeks-carson-beck-injury-first-career-start</link>
+      <guid isPermaLink="false">cc6ebb9f6aba0dbe8e30357ce118428ffbf1ecdb</guid>
+      <pubDate>Fri, 20 Nov 2026 22:10:18 GMT</pubDate>
+      <description><![CDATA[Carson Beck's back spasms could push the Arizona Cardinals to 40-year-old Josh Johnson, their fourth starting quarterback in four weeks, versus the Chiefs.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper</title>
+      <link>https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">55c3376cce8560b97cc548b9ed324bfa4e474465</guid>
+      <pubDate>Fri, 20 Nov 2026 21:57:07 GMT</pubDate>
+      <description><![CDATA[The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Three Roborock steam vacuum mop combos for hard floors are up to 57% off for Black Friday</title>
+      <link>https://www.foxnews.com/deals/roborock-vacuum-deals</link>
+      <guid isPermaLink="false">2aa0dbcea731415ff9daaac5b0cc9a53678e1f19</guid>
+      <pubDate>Fri, 20 Nov 2026 21:54:03 GMT</pubDate>
+      <description><![CDATA[Shop Roborock Black Friday deals and save up to 57% on wet-dry vacuum and mop combos designed to tackle spills, stains, grease and pet hair.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Knicks star Jalen Brunson reveals how he really feels about 'King of New York' nickname</title>
+      <link>https://www.foxnews.com/outkick-sports/knicks-star-jalen-brunson-reveals-how-he-really-feels-king-new-york-nickname</link>
+      <guid isPermaLink="false">d3f14bdb3a46ff6b3f75f11a8e6dd768e7543155</guid>
+      <pubDate>Fri, 20 Nov 2026 21:48:12 GMT</pubDate>
+      <description><![CDATA[Jalen Brunson reacted to "King of New York" talk after leading the New York Knicks to their first NBA title in 53 years during a recent interview.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>The latest from Trump's press conference</title>
+      <link>https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser</link>
+      <guid isPermaLink="false">2b46772c5167c98d7b8a794eb3254c15a1b86a3a</guid>
+      <pubDate>Fri, 20 Nov 2026 21:38:21 GMT</pubDate>
+      <description><![CDATA[President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Rising seas have forced this Quinault village to relocate</title>
+      <link>https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate</link>
+      <guid isPermaLink="false">09b641e4fe409746b7f4166f4a2bd12350bc7c63</guid>
+      <pubDate>Fri, 20 Nov 2026 21:38:13 GMT</pubDate>
+      <description><![CDATA[The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump's impact on an Ohio steel plant</title>
+      <link>https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant</link>
+      <guid isPermaLink="false">fbc06fcfb2ac3651bd8dece182a2abe21c001821</guid>
+      <pubDate>Fri, 20 Nov 2026 21:38:11 GMT</pubDate>
+      <description><![CDATA[The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Trump threatens ban on US firms building AI data centres overseas</title>
+      <link>https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">36fb31620a7cb1d17e541411bfde33563154e06e</guid>
+      <pubDate>Fri, 20 Nov 2026 20:54:12 GMT</pubDate>
+      <description><![CDATA[The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.]]></description>
+      <category>politics</category>
+    </item>
+    <item>
+      <title>Gérard Depardieu and French author investigated over sexual allegations</title>
+      <link>https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">7cdc0f275971b86baf62fb24f3f20077854451c2</guid>
+      <pubDate>Fri, 20 Nov 2026 19:45:20 GMT</pubDate>
+      <description><![CDATA[A judicial investigation was launched after a complaint was filed last year over "allegations of a sexual nature".]]></description>
       <category>world</category>
     </item>
     <item>
@@ -373,70 +437,6 @@
       <pubDate>Fri, 20 Nov 2026 16:26:38 GMT</pubDate>
       <description><![CDATA[The El Niño-powered jet stream is energizing three separate low-pressure areas along the old front that's been draped across Florida. Low #2 has been responsible for the relentless onshore winds and heavy rain that have caused flooding and general havoc along the Florida coast this week.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Fanatics Sportsbook Promo Code FOXNEWS: Claim $1000 in FanCash Betting on Tonight’s NBA Cup Slate</title>
-      <link>https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews-claim-1000-fancash-betting-tonights-nba-cup-slate</link>
-      <guid isPermaLink="false">388517efbc2954f8b8bb9a8c322b780772bcd673</guid>
-      <pubDate>Fri, 20 Nov 2026 16:18:27 GMT</pubDate>
-      <description><![CDATA[Fanatics Sportsbook promo code FOXNEWS gives new users up to $1,000 in FanCash, a 100% bet match up to $100 a day for 10 days, starting with tonight’s NBA Cup slate.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Woman allegedly torments California family claiming to be toddler who vanished in 1984, refuses basic DNA test</title>
-      <link>https://www.foxnews.com/us/woman-allegedly-torments-california-family-claiming-toddler-vanished-1984-refuses-basic-dna-test</link>
-      <guid isPermaLink="false">25977f00bf108863efa55c2c7538b0bafe55d103</guid>
-      <pubDate>Fri, 20 Nov 2026 16:16:39 GMT</pubDate>
-      <description><![CDATA[A Southern California family says Cindy Rae Enders, who claims to be missing toddler Laura Ann Bradbury, refuses a DNA test unless it's court-admissible.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>SJSU volleyball finishes near bottom of conference as Trump admin battle, coach allegations loom over program</title>
-      <link>https://www.foxnews.com/outkick-sports/sjsu-volleyball-finishes-near-bottom-conference-trump-admin-battle-coach-allegations-loom-program</link>
-      <guid isPermaLink="false">b6cbbfd93085a7b71ed38faf244ca7d769ffd2aa</guid>
-      <pubDate>Fri, 20 Nov 2026 16:12:52 GMT</pubDate>
-      <description><![CDATA[San José State University finished ninth in the Mountain West at 9-20, after a transgender athlete scandal sparked lawsuits and federal Title IX findings.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>How Orchestra Noir turned classical music into a cultural movement</title>
-      <link>https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music</link>
-      <guid isPermaLink="false">3a79179d3a7df84a5f07a674ae41f35fee442641</guid>
-      <pubDate>Fri, 20 Nov 2026 16:12:18 GMT</pubDate>
-      <description><![CDATA[Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Biden memoir draws fire for ‘denial’ as critics flag Gaza, racial-equity omissions</title>
-      <link>https://www.foxnews.com/politics/biden-memoir-draws-fire-denial-critics-flag-gaza-racial-equity-omissions</link>
-      <guid isPermaLink="false">31b20ba1aeb9c1499a05485dc106f9cfd7613c51</guid>
-      <pubDate>Fri, 20 Nov 2026 16:08:51 GMT</pubDate>
-      <description><![CDATA[Joe Biden's memoir "Promise Me, America" draws sharp reviews; critics say he stays "stubbornly in denial" about his age, Gaza, and his 2024 reelection bid.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Fox News AI Newsletter: AI platforms generated terror plans, feds find</title>
-      <link>https://www.foxnews.com/tech/ai-newsletter-platforms-generated-terror-plans-feds-find</link>
-      <guid isPermaLink="false">7751e58fc9623fc2f1b02deb071cbcded7288d29</guid>
-      <pubDate>Fri, 20 Nov 2026 16:05:07 GMT</pubDate>
-      <description><![CDATA[The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities AI presents now and for the future.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nearly 600 women killed in South Africa within three months</title>
-      <link>https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d38fcf1450e84df542e767bcfad6f29b1d9dd2f5</guid>
-      <pubDate>Fri, 20 Nov 2026 15:55:16 GMT</pubDate>
-      <description><![CDATA[Police officials called for "greater efforts to prevent... violence" against women and children.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label</title>
-      <link>https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">92ad03fca75d90ccdf25024151a649a63b2adba6</guid>
-      <pubDate>Fri, 20 Nov 2026 15:55:02 GMT</pubDate>
-      <description><![CDATA[Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Millions across 20+ states face Thanksgiving travel disruptions as powerful storms take aim at both coasts</title>
