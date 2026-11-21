@@ -5,7 +5,23 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 01:26:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:58:27 GMT</lastBuildDate>
+    <item>
+      <title>Newscast – Friday, Nov. 20, 2026</title>
+      <link>https://feeds.ktoo.org/link/20427/17536605/newscast-friday-nov-20-2026</link>
+      <guid isPermaLink="false">f8425191d2ca30fe1af5104f44b09b2280f5ab6b</guid>
+      <pubDate>Sat, 21 Nov 2026 01:58:27 GMT</pubDate>
+      <description><![CDATA[In this newscast: The City and Borough of Juneau is asking potential developers to submit their visions for developing housing on Telephone Hill; Blues musician Jontavious Willis will be Alaska Folk Festival's headliner next year; Pacific walrus habitat near the North Slope has received permanent protections; Nome jurors could be summoned for 6 months next year due to issues the court has had assembling juries]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Watch: Camper fire fully contained after threatening homes, forcing evacuations in North Georgia mountains</title>
+      <link>https://www.foxweather.com/weather-news/spreading-camper-fire-prompts-urgent-evacuations-georgia</link>
+      <guid isPermaLink="false">50d3e0abd95c58c55acedc8d3ba12380dc97c443</guid>
+      <pubDate>Fri, 20 Nov 2026 23:38:19 GMT</pubDate>
+      <description><![CDATA[A camper fire spread across multiple streets in a mountainous North Georgia community on Friday afternoon, triggering urgent evacuations in Gilmer County.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Relentless storms keep Florida coast on high alert as catastrophic flooding continues</title>
       <link>https://www.foxweather.com/weather-news/florida-rare-flood-threat-heavy-rain-slams-region</link>
@@ -23,34 +39,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Bryan Norcross: The intense Florida rainstorm could become Kyle off the Southeast coast</title>
-      <link>https://www.foxweather.com/weather-news/bryan-norcross-tropical-update-exclusive-analysis-nov-19-2026</link>
-      <guid isPermaLink="false">4801f09974ca50d4fe053d7646c22e258f5a1bdd</guid>
-      <pubDate>Thu, 19 Nov 2026 15:29:14 GMT</pubDate>
-      <description><![CDATA[An area of non-tropical low pressure is developing over the Bahamas. The system is triggered by a combination of an old front draped just south of the Florida peninsula, an upper-level disturbance, and the extra-strong El Niño-driven jet stream.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: This Afternoon - Sunny</title>
+      <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 20 Nov 2026 23:36:18 GMT</pubDate>
-      <description><![CDATA[31°F. Wind SE 5 mph. Sunny. High near 31, with temperatures falling to around 26 in the afternoon. Southeast wind around 5 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tonight - Partly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 20 Nov 2026 23:36:18 GMT</pubDate>
-      <description><![CDATA[22°F. Wind SE 5 mph. Partly cloudy, with a low around 22. Southeast wind around 5 mph.]]></description>
+      <pubDate>Sat, 21 Nov 2026 05:20:18 GMT</pubDate>
+      <description><![CDATA[22°F. Wind SE 5 mph. Mostly cloudy, with a low around 22. Southeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 20 Nov 2026 23:36:18 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 05:20:18 GMT</pubDate>
       <description><![CDATA[30°F. Wind SE 5 mph. Mostly cloudy, with a high near 30. Southeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,7 +58,7 @@
       <title>Anchorage Weather: Saturday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 20 Nov 2026 23:36:18 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 05:20:18 GMT</pubDate>
       <description><![CDATA[16°F. Wind N 5 mph. Mostly cloudy, with a low around 16. North wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -66,9 +66,49 @@
       <title>Anchorage Weather: Sunday - Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 20 Nov 2026 23:36:18 GMT</pubDate>
+      <pubDate>Sat, 21 Nov 2026 05:20:18 GMT</pubDate>
       <description><![CDATA[27°F. Wind N 5 mph. Sunny, with a high near 27. North wind around 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Sunday Night - Mostly Clear</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Sat, 21 Nov 2026 05:20:18 GMT</pubDate>
+      <description><![CDATA[21°F. Wind NE 5 mph. Mostly clear, with a low around 21. Northeast wind around 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>North Slope Borough sues state to stop planned expansion of tax break for oil firms</title>
+      <link>https://alaskabeacon.com/2026/11/20/north-slope-borough-sues-state-to-stop-planned-expansion-of-tax-break-for-oil-firms/</link>
+      <guid isPermaLink="false">cbc21a5e0613351b80162a939f2a89ccff63e1dc</guid>
+      <pubDate>Sat, 21 Nov 2026 01:30:54 GMT</pubDate>
+      <description><![CDATA[The North Slope Borough sued the state of Alaska on Thursday, seeking to halt a proposed petroleum property tax change that could slash local tax revenue by more than 70%, leaving the North Slope unable to pay debts, operate schools and fund basic services. “A reduction of this magnitude would have devastating consequences for North […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Veterans Day US House vote on contentious bill incenses vets</title>
+      <link>https://alaskabeacon.com/2026/11/20/repub/veterans-day-us-house-vote-on-contentious-bill-incenses-vets/</link>
+      <guid isPermaLink="false">979caea84c740ff58c5282caa304c2fdfd999575</guid>
+      <pubDate>Sat, 21 Nov 2026 00:31:24 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — Many military veterans are opposing a U.S. House-passed proposal to revamp retirement and disability benefits, saying it threatens future veterans’ compensation. The House passed two bills last week that address the issue. What’s at stake is whether some 58,000 — and counting — medically retired veterans who suffered combat-related injuries before meeting 20 […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Commentary: Will Alaska’s blue wave become a blue waste?</title>
+      <link>https://alaskabeacon.com/2026/11/20/will-alaskas-blue-wave-become-a-blue-waste/</link>
+      <guid isPermaLink="false">685b118fb4f37f1400f8f7b5269f73946ec91aed</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:15 GMT</pubDate>
+      <description><![CDATA[The morning after the Nov. 3 election, I woke up mad. As a lifelong nonpartisan Alaska voter, I was mad because Democrats swept the nation. They won back the U.S. Senate and the U.S. House, and were on track to clinch the U.S. Senate. You’d think that would make me, a left-of-center guy, happy. I’ll […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Trump pitches compromise with Democrats on healthcare, immigration</title>
+      <link>https://alaskabeacon.com/2026/11/20/repub/trump-pitches-compromise-with-democrats-on-healthcare-immigration/</link>
+      <guid isPermaLink="false">8dad3300b0330b71955330b5f296b47fbfc151de</guid>
+      <pubDate>Fri, 20 Nov 2026 23:47:08 GMT</pubDate>
+      <description><![CDATA[WASHINGTON — President Donald Trump will likely veto many of the bills that Democrats pass once they take control of Congress next year, he said Friday, though he suggested negotiations on healthcare and immigration were possible. “They’re going to send things my way and I’m going to veto them. And then they’re going to send […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>After 59-vote win, Johnson prepares for first House session in Juneau</title>
@@ -76,6 +116,14 @@
       <guid isPermaLink="false">86eade057a811b81b8f6a9d88a4925bdb5296d70</guid>
       <pubDate>Fri, 20 Nov 2026 22:55:00 GMT</pubDate>
       <description><![CDATA[Former assembly president plans for Juneau and a larger House coalition]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Senate approves major permitting overhaul, targets NEPA delays and endless lawsuits impeding projects</title>
+      <link>https://mustreadalaska.com/senate-approves-major-permitting-overhaul-targets-nepa-delays-and-endless-lawsuits-impeding-projects/</link>
+      <guid isPermaLink="false">79c08466333d213e3b1bb01fb1881cc92626750c</guid>
+      <pubDate>Fri, 20 Nov 2026 21:46:52 GMT</pubDate>
+      <description><![CDATA[On November 19, the Senate passed the Bipartisan American Affordability and Jobs Act of 2026 by a 62-33 vote, sending the permitting overhaul to the House. Senators Dan Sullivan and Lisa Murkowski voted yes. The Act aims to impose binding timelines on federal environmental reviews, narrow the scope of those reviews, and limit the ability […] The post Senate approves major permitting overhaul, targets NEPA delays and endless lawsuits impeding projects appeared first on Must Read Alaska .]]></description>
       <category>local</category>
     </item>
     <item>
@@ -100,6 +148,22 @@
       <guid isPermaLink="false">a01f192ef5fb32d86901bf431ede0f886a23b701</guid>
       <pubDate>Fri, 20 Nov 2026 19:00:44 GMT</pubDate>
       <description><![CDATA[Amid a flood of new investment in Alaska’s oil patch and an aggressive push by the Trump administration to speed up drilling, one of the state’s biggest producers is pushing west deeper into the Arctic. ConocoPhillips recently announced new plans to drill and conduct geologic studies this winter in search of oil beneath the western […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Anchorage Assembly starts process to select interim member for seat vacated by Lt. Governor-elect Zac Johnson</title>
+      <link>https://mustreadalaska.com/anchorage-assembly-starts-process-to-select-interim-member-for-seat-vacated-by-lt-governor-elect-zac-johnson/</link>
+      <guid isPermaLink="false">b055e463286e8cb0bccbfe29425960871b0d4b3a</guid>
+      <pubDate>Fri, 20 Nov 2026 18:42:46 GMT</pubDate>
+      <description><![CDATA[At the November 17 Regular Assembly Meeting, the Anchorage Assembly approved AR 2026-344, a resolution establishing the process to appoint an interim Assembly Member to Assembly Seat K, representing District 6, South Anchorage, Girdwood, and Turnagain Arm. The interim appointment will serve until voters of the district elect a new representative in the April 6, […] The post Anchorage Assembly starts process to select interim member for seat vacated by Lt. Governor-elect Zac Johnson appeared first on Must Read Alaska .]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Health center director from Nome named 2026 Rural Health “Community Star”</title>
+      <link>https://mustreadalaska.com/health-center-director-from-nome-named-2026-rural-health-community-star/</link>
+      <guid isPermaLink="false">b4f89d48a43bda74d473877fd4c181a91d9a3f3d</guid>
+      <pubDate>Fri, 20 Nov 2026 18:28:36 GMT</pubDate>
+      <description><![CDATA[National Organization of State Offices of Rural Health (NOSORH) names Vincent Villella, of Nome, Alaska’s 2026 Community Star for his outstanding contributions to rural health. Villella serves as Director of Northwest Alaska Area Health Education Center (AHEC). NOSORH’s Community Star Recognition Program annually honors individuals from every state. The same organization was responsible for establishing […] The post Health center director from Nome named 2026 Rural Health “Community Star” appeared first on Must Read Alaska .]]></description>
       <category>local</category>
     </item>
     <item>
@@ -207,75 +271,131 @@
       <category>local</category>
     </item>
     <item>
-      <title>New University of Alaska tuition structure raises some costs and cuts others for Alaskan students</title>
-      <link>https://alaskabeacon.com/2026/11/19/new-university-of-alaska-tuition-structure-raises-some-costs-and-cuts-others-for-alaskan-students/</link>
-      <guid isPermaLink="false">37994325a324715055356d926e5dc9ad7c979c10</guid>
-      <pubDate>Thu, 19 Nov 2026 22:12:31 GMT</pubDate>
-      <description><![CDATA[Following the move to eliminate out-of-state tuition rates earlier this year, University of Alaska Board of Regents unanimously approved a new tuition structure based on degree programs that includes some changes in tuition rates for Alaskans. Officials said the new tuition structure will streamline rates and simplify students’ billing. The new structure, called “program-based tuition” […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Governor-elect asks AIDEA to pause decision-making</title>
-      <link>https://mustreadalaska.com/governor-elect-asks-aidea-to-pause-decision-making/</link>
-      <guid isPermaLink="false">8d932518690c7a0e15e40382ac91a95974589712</guid>
-      <pubDate>Thu, 19 Nov 2026 21:42:21 GMT</pubDate>
-      <description><![CDATA[Governor-elect Jonathan Kreiss-Tomkins released the following statement ahead of the Alaska Industrial Development and Export Authority (AIDEA)’s board meeting scheduled for today, November 19: Today, the seven members of AIDEA’s board will meet to consider unspecified changes to a proposed expenditure of more than $200,000,000 in public funds for the outgoing administration’s favored projects, even […] The post Governor-elect asks AIDEA to pause decision-making appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Psychedelic mental healthcare for veterans wins bipartisan backing from US House panel</title>
-      <link>https://alaskabeacon.com/2026/11/19/repub/psychedelic-mental-healthcare-for-veterans-wins-bipartisan-backing-from-us-house-panel/</link>
-      <guid isPermaLink="false">7a02131034574718ea84d5136a7f1f5750916c6f</guid>
-      <pubDate>Thu, 19 Nov 2026 20:00:22 GMT</pubDate>
-      <description><![CDATA[NOTE: This story mentions suicide. If you or a loved one needs help during a mental health crisis, call or text 988, or visit 988helpline.org. Help is available for veterans and nonveterans alike.  WASHINGTON — Federal regulators could be on the cusp of approving psychedelic-assisted mental health treatment for veterans, but lawmakers asked tough questions Wednesday […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>US Sen. Bernie Sanders vows to revive ‘Medicare for All’ debate in new chairmanship</title>
-      <link>https://alaskabeacon.com/2026/11/19/repub/us-sen-bernie-sanders-vows-to-revive-medicare-for-all-debate-in-new-chairmanship/</link>
-      <guid isPermaLink="false">a666d9007a687993adabde3ca42e3ebd8479bb49</guid>
-      <pubDate>Thu, 19 Nov 2026 19:45:39 GMT</pubDate>
-      <description><![CDATA[WASHINGTON — Vermont independent U.S. Sen. Bernie Sanders said Wednesday that he intends to focus on universal healthcare and oversight investigations when he takes over as chairman of the Health, Education, Labor and Pensions Committee next year.  Sanders, who has served as ranking member on the panel during this session of Congress, said on a […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Annual NuvisionCares Alaska Holiday Toy Drive supports children and families in need</title>
-      <link>https://mustreadalaska.com/annual-nuvisioncares-alaska-holiday-toy-drive-supports-children-and-families-in-need/</link>
-      <guid isPermaLink="false">d982c0bd62d0c28d9a3600e6daeb50cd8490103c</guid>
-      <pubDate>Thu, 19 Nov 2026 19:31:18 GMT</pubDate>
-      <description><![CDATA[The holiday season is a time of giving, and Nuvision Credit Union is once again helping make the holidays brighter for children and families in need across Alaska. As part of its long-standing commitment to supporting the communities it serves, Nuvision Credit Union has launched its annual NuvisionCares Alaska Holiday Toy Drive, running through December […] The post Annual NuvisionCares Alaska Holiday Toy Drive supports children and families in need appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>RCV tabulation results: Begich secures U.S. House; Tilton, Moore, McCabe on the chopping block</title>
-      <link>https://mustreadalaska.com/rcv-tabulation-results-begich-secures-u-s-house-tilton-moore-mccabe-on-the-chopping-block/</link>
-      <guid isPermaLink="false">60057269b6d1b645476981c1b464fc9c4b1163cd</guid>
-      <pubDate>Thu, 19 Nov 2026 18:58:15 GMT</pubDate>
-      <description><![CDATA[On November 18, 2026, the Alaska Division of Elections released the unofficial ranked-choice voting (RCV) tabulations for the U.S. House race and 13 state legislative contests in which no candidate secured a first-round majority. The results also confirmed first-round winners, including Republican Congressman Nick Begich, Democratic senator-elect Mary Peltola, and Democratic governor-elect Jonathan Kreiss-Tomkins. Results […] The post RCV tabulation results: Begich secures U.S. House; Tilton, Moore, McCabe on the chopping block appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Cruise ship strike confirmed as cause of death for Alaska fin whale</title>
-      <link>https://alaskabeacon.com/2026/11/19/cruise-ship-strike-confirmed-as-cause-of-death-for-alaska-fin-whale/</link>
-      <guid isPermaLink="false">375384d9bdbefc9866947da4f22ad03e091aff41</guid>
-      <pubDate>Thu, 19 Nov 2026 16:45:53 GMT</pubDate>
-      <description><![CDATA[A pregnant fin whale found dead on the bow of a Royal Caribbean cruise ship in June was killed by blunt force trauma, a federal agency has concluded. The final necropsy report concerning a whale found on a cruise ship that sailed into the Kenai Peninsula port of Seward on June 19 provided conclusive evidence […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Two of Alaska’s legislative races are within five votes after ranked choice tabulations</title>
-      <link>https://alaskabeacon.com/2026/11/19/two-of-alaskas-legislative-races-are-within-five-votes-after-ranked-choice-tabulations/</link>
-      <guid isPermaLink="false">0723ebcd25c0d15c715b28da9161a248244f64d6</guid>
-      <pubDate>Thu, 19 Nov 2026 14:45:17 GMT</pubDate>
-      <description><![CDATA[One Republican member of the Alaska House of Representatives is losing his re-election bid by three votes, and another is winning by four after the Alaska Division of Elections conducted ranked choice runoff calculations Wednesday. According to Wednesday’s preliminary results, independents have won 7 of the 40 seats in the state House, Democrats have won […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
       <title>Americans don’t have to choose between our AI future and ripping off copyright owners</title>
       <link>https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners</link>
       <guid isPermaLink="false">fa4eda37765a11e164eb99b1205f07bad5a09a58</guid>
       <pubDate>Wed, 25 Nov 2026 10:00:00 GMT</pubDate>
       <description><![CDATA[The DOJ's embrace of fair use for AI training breaks with the White House's own framework, as OpenAI, Microsoft and news groups battle over copyright.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend</title>
+      <link>https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">633d3b37de6e5634dc6388d966c2e3499bce6bfc</guid>
+      <pubDate>Sat, 21 Nov 2026 05:15:41 GMT</pubDate>
+      <description><![CDATA[Trump's comments came as Russia launched "biggest attacks this year" against Ukraine.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Man convicted of starting Palisades fire in Los Angeles</title>
+      <link>https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b4af86b6cf84da0b55d64ecb7a8403eb23ae721f</guid>
+      <pubDate>Sat, 21 Nov 2026 04:34:00 GMT</pubDate>
+      <description><![CDATA[The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Red Hot Chili Peppers drummer Chad Smith to join Wu-Tang Clan for Lions' Thanksgiving halftime show</title>
+      <link>https://www.foxnews.com/outkick-sports/red-hot-chili-peppers-drummer-chad-smith-join-wu-tang-clan-lions-thanksgiving-halftime-show</link>
+      <guid isPermaLink="false">c02729dd9a44b18f647a2ba7ed239da4fd70e1f1</guid>
+      <pubDate>Sat, 21 Nov 2026 03:55:09 GMT</pubDate>
+      <description><![CDATA[Chad Smith, Red Hot Chili Peppers drummer and Bloomfield Hills native, will fly the W with Wu-Tang Clan at halftime of the Detroit Lions Thanksgiving game.]]></description>
+      <category>culture</category>
+    </item>
+    <item>
+      <title>Nick Saban names three teams above Alabama as college football's true national championship contenders</title>
+      <link>https://www.foxnews.com/outkick-sports/nick-saban-names-three-teams-above-alabama-college-footballs-true-national-championship-contenders</link>
+      <guid isPermaLink="false">3f4d1dc693e3ac980359a80eb31102cc4083c977</guid>
+      <pubDate>Sat, 21 Nov 2026 03:35:03 GMT</pubDate>
+      <description><![CDATA[Nick Saban says Georgia, Utah and Notre Dame have "the right stuff" in 2026, leaving his former Alabama Crimson Tide off his elite list of three teams.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>LSU women's basketball star MiLaysia Fulwiley faces only misdemeanor charges after arrest</title>
+      <link>https://www.foxnews.com/outkick-sports/lsu-womens-basketball-star-milaisia-fulwiley-faces-misdemeanor-charges-arrest</link>
+      <guid isPermaLink="false">12b83e355f1507fe064f13a7848d8c1a65d46303</guid>
+      <pubDate>Sat, 21 Nov 2026 02:50:07 GMT</pubDate>
+      <description><![CDATA[LSU's MiLaysia Fulwiley faces only misdemeanor fleeing and resisting charges after her arrest, with felony counts dropped and a diversion program planned.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Mets offer superstar Tarik Skubal the largest pitcher contract in baseball history: report</title>
+      <link>https://www.foxnews.com/outkick-sports/mets-offer-superstar-tarik-skubal-largest-pitcher-contract-baseball-history-report</link>
+      <guid isPermaLink="false">ab55d61f215dda2c1e53f72badd89e1c389962f3</guid>
+      <pubDate>Sat, 21 Nov 2026 02:30:14 GMT</pubDate>
+      <description><![CDATA[The New York Mets have reportedly offered Tarik Skubal a nine-year deal near $400 million that would shatter Yoshinobu Yamamoto's record pitcher contract.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Alabama woman pleads guilty after reportedly using smart glasses to target drug trial witnesses</title>
+      <link>https://www.foxnews.com/us/alabama-woman-pleads-guilty-reportedly-using-smart-glasses-target-drug-trial-witnesses</link>
+      <guid isPermaLink="false">b271a315d520b6f6e65d845348fa6a248d6ceb17</guid>
+      <pubDate>Sat, 21 Nov 2026 02:12:44 GMT</pubDate>
+      <description><![CDATA[Tierra Shatalia Douglas pleaded guilty to conspiracy to retaliate against a witness after targeting people who testified in a federal drug trial.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk</title>
+      <link>https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">acf404f6e9c1429843d21c85209dfdb99246e1c6</guid>
+      <pubDate>Sat, 21 Nov 2026 02:09:46 GMT</pubDate>
+      <description><![CDATA[Nobody was hurt and no damage has been reported, but Warsaw described the incident as a "provocation" from Moscow.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>New drug combo shrinks tumors in most patients facing aggressive cancer type</title>
+      <link>https://www.foxnews.com/health/new-drug-combo-shrinks-tumors-most-patients-aggressive-cancer-type</link>
+      <guid isPermaLink="false">286df8e9162cdad0926a2bbb63a12dda0b00a18c</guid>
+      <pubDate>Sat, 21 Nov 2026 01:07:32 GMT</pubDate>
+      <description><![CDATA[The pancreatic cancer pill daraxonrasib shrank tumors in 60.7% of patients when paired with chemotherapy, and 8.2% saw tumors vanish on scans.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Strong magnitude 6.7 earthquake strikes Peru just outside of Lima</title>
+      <link>https://www.foxweather.com/weather-news/major-earthquake-occurs-outside-peru-capitol-city</link>
+      <guid isPermaLink="false">6addaaa726d194b94ac5c8bfc7e7429a4d500c6d</guid>
+      <pubDate>Sat, 21 Nov 2026 01:04:37 GMT</pubDate>
+      <description><![CDATA[A magnitude 6.7 earthquake struck Peru just after 7:09 p.m. local time on Friday, shaking the region northeast of the capital city of Lima, which is home to roughly 10 million people.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>'Enough': Protesters decry antisemitism after Hunter College student event including Jewish group is canceled</title>
+      <link>https://www.foxnews.com/media/enough-protesters-decry-antisemitism-after-hunter-college-student-event-including-jewish-group-canceled</link>
+      <guid isPermaLink="false">b523f0f83427a77ced5a674f3e729ee1ad053996</guid>
+      <pubDate>Sat, 21 Nov 2026 01:04:24 GMT</pubDate>
+      <description><![CDATA[Pro-Israel rally organizers at Hunter College say the cancelled Cultural Arts Night shows antisemitism at CUNY, as counter protesters chant nearby.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Fox News True Crime Newsletter: Susan Smith parole, Alex Murdaugh ruling, Lindsay Clancy appeal</title>
+      <link>https://www.foxnews.com/us/fox-news-true-crime-newsletter-susan-smith-parole-alex-murdaugh-ruling-lindsay-clancy-appeal</link>
+      <guid isPermaLink="false">0c22547aeba9322e1ce06dfd58e51df9db4562dd</guid>
+      <pubDate>Sat, 21 Nov 2026 00:58:34 GMT</pubDate>
+      <description><![CDATA[Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Charlie Sheen stunned to learn fellow actor Rob Lowe had been praying for him for years</title>
+      <link>https://www.foxnews.com/media/charlie-sheen-stunned-learn-fellow-actor-rob-lowe-had-been-praying-him-years</link>
+      <guid isPermaLink="false">ed640c4d89f0fe818f68d74c4bfe988cf18430f2</guid>
+      <pubDate>Sat, 21 Nov 2026 00:15:48 GMT</pubDate>
+      <description><![CDATA[Rob Lowe revealed on Charlie Sheen's "Mostly Sheenius" podcast that he prayed for the actor for years while struggling with his own sobriety, calling him "my guy" in recovery.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Sales of baby sleeping bag halted by Next after new mum raises alarm</title>
+      <link>https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">81f921b8c52de8e1ce8234f7d65ad94fdc5de1a4</guid>
+      <pubDate>Sat, 21 Nov 2026 00:02:09 GMT</pubDate>
+      <description><![CDATA[The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Mamdani announces plan to close New York's Rikers Island jail by 2032</title>
+      <link>https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b7fdc1f987cba474ce3555cfb990f7fbdc042da4</guid>
+      <pubDate>Sat, 21 Nov 2026 00:01:39 GMT</pubDate>
+      <description><![CDATA[Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.]]></description>
       <category>world</category>
     </item>
     <item>
@@ -316,118 +436,6 @@
       <guid isPermaLink="false">6e6175a4de40421dc2d13511682b0c551f5488fe</guid>
       <pubDate>Fri, 20 Nov 2026 23:05:39 GMT</pubDate>
       <description><![CDATA[Drake Maye reportedly fractured his fibula in Germany and will miss deep into the season, while A.J. Brown's also suffered a hamstring injury that will force him to miss time.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Tech stock sell-off drags markets down as Anthropic shares slide</title>
-      <link>https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7abcb9e67aa8baf27d557249c0a7bab92a6ee453</guid>
-      <pubDate>Fri, 20 Nov 2026 22:42:47 GMT</pubDate>
-      <description><![CDATA[Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>French police officers sentenced for beating of music producer Michel Zecler</title>
-      <link>https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">f926c876867d50c5441639d9a66ccbc6b0a649bf</guid>
-      <pubDate>Fri, 20 Nov 2026 22:37:09 GMT</pubDate>
-      <description><![CDATA[The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Shopping With Friends: Celebrate National Espresso Day with Keurig's new coffee and espresso maker</title>
-      <link>https://www.foxnews.com/deals/shopping-with-friends-keurig-alta-coffee-espresso-maker</link>
-      <guid isPermaLink="false">a3a7c142c1ec86782fe601cf20ea3f1c437e94cb</guid>
-      <pubDate>Fri, 20 Nov 2026 22:34:59 GMT</pubDate>
-      <description><![CDATA[Keurig's new Alta coffee and espresso maker brews espresso, lattes and cappuccinos with a built-in milk frother and a touchscreen for step by step recipes.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>"Best robot I've ever had": This Ecovacs vacuum and mop is $400 off for Black Friday</title>
-      <link>https://www.foxnews.com/deals/ecovacs-vacuum-black-friday-deal</link>
-      <guid isPermaLink="false">23ab8af9b2209945f30a527a78a7188eb1297dd1</guid>
-      <pubDate>Fri, 20 Nov 2026 22:32:14 GMT</pubDate>
-      <description><![CDATA[The Ecovacs Deebot X12S OmniCyclone robot vacuum and mop is less than $900 for Black Friday, with a fresh-water roller mop and ZeroTangle 4.0 tech for pet hair.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>S&amp;P 500 sinks 3.7% and the Nasdaq composite goes negative for the year</title>
-      <link>https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative</link>
-      <guid isPermaLink="false">d143a578a81d5432284ca1dd627d43dced075cd9</guid>
-      <pubDate>Fri, 20 Nov 2026 22:11:29 GMT</pubDate>
-      <description><![CDATA[AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Cardinals may start their fourth QB in four weeks as Carson Beck has injury after first career start</title>
-      <link>https://www.foxnews.com/outkick-sports/cardinals-may-start-fourth-qb-four-weeks-carson-beck-injury-first-career-start</link>
-      <guid isPermaLink="false">cc6ebb9f6aba0dbe8e30357ce118428ffbf1ecdb</guid>
-      <pubDate>Fri, 20 Nov 2026 22:10:18 GMT</pubDate>
-      <description><![CDATA[Carson Beck's back spasms could push the Arizona Cardinals to 40-year-old Josh Johnson, their fourth starting quarterback in four weeks, versus the Chiefs.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper</title>
-      <link>https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">55c3376cce8560b97cc548b9ed324bfa4e474465</guid>
-      <pubDate>Fri, 20 Nov 2026 21:57:07 GMT</pubDate>
-      <description><![CDATA[The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Three Roborock steam vacuum mop combos for hard floors are up to 57% off for Black Friday</title>
-      <link>https://www.foxnews.com/deals/roborock-vacuum-deals</link>
-      <guid isPermaLink="false">2aa0dbcea731415ff9daaac5b0cc9a53678e1f19</guid>
-      <pubDate>Fri, 20 Nov 2026 21:54:03 GMT</pubDate>
-      <description><![CDATA[Shop Roborock Black Friday deals and save up to 57% on wet-dry vacuum and mop combos designed to tackle spills, stains, grease and pet hair.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Knicks star Jalen Brunson reveals how he really feels about 'King of New York' nickname</title>
-      <link>https://www.foxnews.com/outkick-sports/knicks-star-jalen-brunson-reveals-how-he-really-feels-king-new-york-nickname</link>
-      <guid isPermaLink="false">d3f14bdb3a46ff6b3f75f11a8e6dd768e7543155</guid>
-      <pubDate>Fri, 20 Nov 2026 21:48:12 GMT</pubDate>
-      <description><![CDATA[Jalen Brunson reacted to "King of New York" talk after leading the New York Knicks to their first NBA title in 53 years during a recent interview.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>The latest from Trump's press conference</title>
-      <link>https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser</link>
-      <guid isPermaLink="false">2b46772c5167c98d7b8a794eb3254c15a1b86a3a</guid>
-      <pubDate>Fri, 20 Nov 2026 21:38:21 GMT</pubDate>
-      <description><![CDATA[President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Rising seas have forced this Quinault village to relocate</title>
-      <link>https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate</link>
-      <guid isPermaLink="false">09b641e4fe409746b7f4166f4a2bd12350bc7c63</guid>
-      <pubDate>Fri, 20 Nov 2026 21:38:13 GMT</pubDate>
-      <description><![CDATA[The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump's impact on an Ohio steel plant</title>
-      <link>https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant</link>
-      <guid isPermaLink="false">fbc06fcfb2ac3651bd8dece182a2abe21c001821</guid>
-      <pubDate>Fri, 20 Nov 2026 21:38:11 GMT</pubDate>
-      <description><![CDATA[The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Trump threatens ban on US firms building AI data centres overseas</title>
-      <link>https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">36fb31620a7cb1d17e541411bfde33563154e06e</guid>
-      <pubDate>Fri, 20 Nov 2026 20:54:12 GMT</pubDate>
-      <description><![CDATA[The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>Gérard Depardieu and French author investigated over sexual allegations</title>
-      <link>https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">7cdc0f275971b86baf62fb24f3f20077854451c2</guid>
-      <pubDate>Fri, 20 Nov 2026 19:45:20 GMT</pubDate>
-      <description><![CDATA[A judicial investigation was launched after a complaint was filed last year over "allegations of a sexual nature".]]></description>
       <category>world</category>
     </item>
     <item>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">6015b0234e7cf52be5fe91411b740d60469fe8fc</guid>
       <pubDate>Thu, 19 Nov 2026 23:03:22 GMT</pubDate>
       <description><![CDATA[Planned Army detonations in Iowa could release lead-containing dust Friday, with winds shaping the plume’s path as communities prepare for potential exposure.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>November chill takes a back seat as major warmup targets Northeast ahead of Thanksgiving</title>
-      <link>https://www.foxweather.com/weather-news/november-chill-major-warmup-northeast-kalshi</link>
-      <guid isPermaLink="false">d33e6854b3b648f29084e23abf0227c9b7ae0a95</guid>
-      <pubDate>Thu, 19 Nov 2026 21:23:03 GMT</pubDate>
-      <description><![CDATA[The chilling temperatures are expected to be put on hold across most of the Northeast, and warm weather will briefly return heading into the holiday week.]]></description>
       <category>weather</category>
     </item>
   </channel>
