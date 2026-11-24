@@ -5,13 +5,21 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 01:58:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:38:08 GMT</lastBuildDate>
     <item>
-      <title>Newscast – Friday, Nov. 20, 2026</title>
-      <link>https://feeds.ktoo.org/link/20427/17536605/newscast-friday-nov-20-2026</link>
-      <guid isPermaLink="false">f8425191d2ca30fe1af5104f44b09b2280f5ab6b</guid>
-      <pubDate>Sat, 21 Nov 2026 01:58:27 GMT</pubDate>
-      <description><![CDATA[In this newscast: The City and Borough of Juneau is asking potential developers to submit their visions for developing housing on Telephone Hill; Blues musician Jontavious Willis will be Alaska Folk Festival's headliner next year; Pacific walrus habitat near the North Slope has received permanent protections; Nome jurors could be summoned for 6 months next year due to issues the court has had assembling juries]]></description>
+      <title>Timeline: See when the major East Coast Thanksgiving week storm will impact your area</title>
+      <link>https://www.foxweather.com/weather-news/timeline-major-east-coast-thanksgiving-storm-flood-rain-travel</link>
+      <guid isPermaLink="false">517e1a22405f867b6e48ef8bf599f588409650d2</guid>
+      <pubDate>Tue, 24 Nov 2026 18:38:08 GMT</pubDate>
+      <description><![CDATA[A powerful storm developing off Florida’s Atlantic coast will bring yet another flash flood threat to the Sunshine State before intensifying as it tracks north, threatening travel disruptions and power outages across the coastal Carolinas and Mid-Atlantic on Wednesday before slamming the Northeast on Thanksgiving Day itself.]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage</title>
+      <link>https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e29134099631df566ce56fcce896218268d2faa0</guid>
+      <pubDate>Tue, 24 Nov 2026 17:39:32 GMT</pubDate>
+      <description><![CDATA[An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats to staff.]]></description>
       <category>breaking</category>
     </item>
     <item>
@@ -23,34 +31,34 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight - Mostly Clear</title>
+      <title>Heavy rain, damaging winds to slam the East Coast as powerful storms target holiday travel plans for millions</title>
+      <link>https://www.foxweather.com/weather-news/thanksgiving-travel-storm-heavy-rain-strong-winds-east-coast</link>
+      <guid isPermaLink="false">487c5ddf5f70bfafe573c6ccc50ec0e3d09a9d8e</guid>
+      <pubDate>Sun, 22 Nov 2026 16:00:36 GMT</pubDate>
+      <description><![CDATA[A powerful storm is developing off the Florida Atlantic Coast that will move up and soak the entire Eastern Seaboard through the week, creating slick road conditions, as well as potential airport delays for millions of people traveling ahead of Thanksgiving.]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Today - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 24 Nov 2026 08:03:25 GMT</pubDate>
-      <description><![CDATA[14°F. Wind NE 0 to 5 mph. Mostly clear, with a low around 14. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Tue, 24 Nov 2026 19:52:59 GMT</pubDate>
+      <description><![CDATA[20°F. Wind NE 0 to 10 mph. Mostly sunny, with a high near 20. Northeast wind 0 to 10 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tuesday - Mostly Sunny</title>
+      <title>Anchorage Weather: Tonight - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 24 Nov 2026 08:03:25 GMT</pubDate>
-      <description><![CDATA[20°F. Wind NE 0 to 5 mph. Mostly sunny, with a high near 20. Northeast wind 0 to 5 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Tuesday Night - Mostly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 24 Nov 2026 08:03:25 GMT</pubDate>
-      <description><![CDATA[14°F. Wind NE 5 mph. Mostly cloudy, with a low around 14. Northeast wind around 5 mph.]]></description>
+      <pubDate>Tue, 24 Nov 2026 19:52:59 GMT</pubDate>
+      <description><![CDATA[13°F. Wind NE 5 mph. Mostly cloudy, with a low around 13. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Wednesday - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 24 Nov 2026 08:03:25 GMT</pubDate>
+      <pubDate>Tue, 24 Nov 2026 19:52:59 GMT</pubDate>
       <description><![CDATA[22°F. Wind NE 0 to 5 mph. Partly sunny, with a high near 22. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
@@ -58,9 +66,41 @@
       <title>Anchorage Weather: Wednesday Night - Mostly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Tue, 24 Nov 2026 08:03:25 GMT</pubDate>
-      <description><![CDATA[13°F. Wind NE 0 to 5 mph. Mostly cloudy, with a low around 13. Northeast wind 0 to 5 mph.]]></description>
+      <pubDate>Tue, 24 Nov 2026 19:52:59 GMT</pubDate>
+      <description><![CDATA[13°F. Wind NE 5 mph. Mostly cloudy, with a low around 13. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Thanksgiving Day - Mostly Sunny</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Tue, 24 Nov 2026 19:52:59 GMT</pubDate>
+      <description><![CDATA[22°F. Wind NE 0 to 5 mph. Mostly sunny, with a high near 22. Northeast wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Soldotna dentist charged with Medicaid fraud</title>
+      <link>https://www.homernews.com/2026/11/24/soldotna-dentist-charged-with-medicaid-fraud/</link>
+      <guid isPermaLink="false">1c40f0a312d5f96a5ee191cc4401912bd42e4eba</guid>
+      <pubDate>Tue, 24 Nov 2026 14:30:00 GMT</pubDate>
+      <description><![CDATA[Joseph Mirci accused of routinely billing for surgical extractions that were unnecessary or didn’t occur]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>ICE detainees held in solitary confinement, strip-searched at Anchorage jail, Alaska lawmakers hear</title>
+      <link>https://alaskabeacon.com/2026/11/24/ice-detainees-held-in-solitary-confinement-strip-searched-at-anchorage-jail-alaska-lawmakers-hear/</link>
+      <guid isPermaLink="false">bcb9711f799216973e7bea91c431a1fe21b362bf</guid>
+      <pubDate>Tue, 24 Nov 2026 14:01:13 GMT</pubDate>
+      <description><![CDATA[Some people arrested and detained for civil immigration warrants in Alaska have been placed in extended solitary confinement, subjected to strip searches after visits with attorneys and denied regular access to phone calls, showers, recreational time and medical care while held in the state-run Anchorage Correctional Complex, Alaska lawmakers heard on Friday. The House Judiciary […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Kenai Borough invests in new shredder to tackle growing tire stockpile</title>
+      <link>https://www.homernews.com/2026/11/24/kenai-borough-invests-in-new-shredder-to-tackle-growing-tire-stockpile/</link>
+      <guid isPermaLink="false">3debe3b0733159b25e4b545d2350b5c0658be650</guid>
+      <pubDate>Tue, 24 Nov 2026 10:30:00 GMT</pubDate>
+      <description><![CDATA[The Kenai Peninsula Borough Assembly unanimously approved $500,000 for a mobile shredder]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Gov.-elect Kreiss-Tomkins announces attorney general pick</title>
@@ -215,38 +255,6 @@
       <category>local</category>
     </item>
     <item>
-      <title>2 Juneau writers recognized in Alaska Literary Awards</title>
-      <link>https://www.juneauempire.com/2026/11/21/2-juneau-writers-recognized-in-alaska-literary-awards/</link>
-      <guid isPermaLink="false">237506a165d2a391f9cec44721abe965150ee5d3</guid>
-      <pubDate>Sat, 21 Nov 2026 21:30:00 GMT</pubDate>
-      <description><![CDATA[Summer Koester, Jonas Lamb both honored to receive the recognition]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Juneau set for busy 2027 cruise season with 699 ships, 1.67M passenger capacity</title>
-      <link>https://www.juneauempire.com/2026/11/21/juneau-set-for-busy-2027-cruise-season-with-699-ships-1-67m-passenger-capacity/</link>
-      <guid isPermaLink="false">9f44b617dc87a52d8e0171035a4e6af657ae84b6</guid>
-      <pubDate>Sat, 21 Nov 2026 13:30:00 GMT</pubDate>
-      <description><![CDATA[Tuesday, August 24 is the busiest day with 5 ships and about 17,500 passengers]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>OPINION: Keep Alaska’s presidential vote Alaska’s</title>
-      <link>https://www.juneauempire.com/2026/11/21/opinion-keep-alaskas-presidential-vote-alaskas/</link>
-      <guid isPermaLink="false">ddd6dddf0e8f58a9fd25b055dd4824168b0b86cb</guid>
-      <pubDate>Sat, 21 Nov 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[National Popular Vote Interstate Compact would effectively dismantle the Electoral College]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>North Slope Borough sues state to stop planned expansion of tax break for oil firms</title>
-      <link>https://alaskabeacon.com/2026/11/20/north-slope-borough-sues-state-to-stop-planned-expansion-of-tax-break-for-oil-firms/</link>
-      <guid isPermaLink="false">cbc21a5e0613351b80162a939f2a89ccff63e1dc</guid>
-      <pubDate>Sat, 21 Nov 2026 01:30:54 GMT</pubDate>
-      <description><![CDATA[The North Slope Borough sued the state of Alaska on Thursday, seeking to halt a proposed petroleum property tax change that could slash local tax revenue by more than 70%, leaving the North Slope unable to pay debts, operate schools and fund basic services. “A reduction of this magnitude would have devastating consequences for North […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
       <title>Americans don’t have to choose between our AI future and ripping off copyright owners</title>
       <link>https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners</link>
       <guid isPermaLink="false">fa4eda37765a11e164eb99b1205f07bad5a09a58</guid>
@@ -255,124 +263,172 @@
       <category>world</category>
     </item>
     <item>
-      <title>California man accused of making online threats against ICE agents: DOJ</title>
-      <link>https://www.foxnews.com/us/california-man-accused-making-online-threats-ice-agents-doj</link>
-      <guid isPermaLink="false">80811fd22f49d4b5b7e47c58cab09465e2d7d53c</guid>
-      <pubDate>Tue, 24 Nov 2026 07:48:09 GMT</pubDate>
-      <description><![CDATA[A California man was arrested after allegedly making social media threats against ICE agents and advocating for armed attacks on government facilities.]]></description>
+      <title>Disability benefit review calls for closer link with claimant costs</title>
+      <link>https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">d46be4c785ad4a3caea3cd3ef9d96d98f21db314</guid>
+      <pubDate>Tue, 24 Nov 2026 19:49:04 GMT</pubDate>
+      <description><![CDATA[A government-commissioned report calls for a "rebalancing" of the amount paid to different claimants.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>First Children's Booker prize reveals shortlist - and its child judges</title>
-      <link>https://www.bbc.co.uk/news/articles/c65y18gl23gko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">657e5d415bfd639c618c889b9159eee1eaacf896</guid>
-      <pubDate>Tue, 24 Nov 2026 07:29:37 GMT</pubDate>
-      <description><![CDATA[The eight books in contention include War by Artemis Fowl author Eoin Colfer and Andrew Donkin.]]></description>
+      <title>Biden admin weighed quitting Twitter after Elon Musk purchase, new HHS doc drop reveals</title>
+      <link>https://www.foxnews.com/politics/biden-admin-weighed-quitting-twitter-elon-musk-purchase-hhs-doc-drop-reveals</link>
+      <guid isPermaLink="false">b0e73dae6584baca0de5510790c37ae7ac0a425f</guid>
+      <pubDate>Tue, 24 Nov 2026 19:37:16 GMT</pubDate>
+      <description><![CDATA[HHS launched a searchable public records trove with Robert F. Kennedy Jr.'s calendars and Biden-era memos, promising transparency for health agencies.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>What China's Xi could take away from Jensen Huang's return to Nvidia</title>
-      <link>https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d5cdbd6c34fab7a8114f679791c02d18ae836d16</guid>
-      <pubDate>Tue, 24 Nov 2026 07:26:27 GMT</pubDate>
-      <description><![CDATA[Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.]]></description>
+      <title>49ers' Kyle Juszczyk has strong message for women as he honors late mother-in-law with special cleats</title>
+      <link>https://www.foxnews.com/outkick-sports/49ers-kyle-juszczyk-strong-message-women-honors-late-mother-in-law-special-cleats</link>
+      <guid isPermaLink="false">faa31d549e293f7a9b8cb384b6e06d46c88f8750</guid>
+      <pubDate>Tue, 24 Nov 2026 19:36:20 GMT</pubDate>
+      <description><![CDATA[49ers fullback Kyle Juszczyk is honoring his late mother-in-law Gini with his "My Cause, My Cleats," teaming with Novartis to back the Lynne Cohen Foundation.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Massachusetts sues Trump admin to stop ICE's courthouse arrests: 'Unnecessary fear'</title>
-      <link>https://www.foxnews.com/politics/massachusetts-sues-trump-admin-stop-ice-courthouse-arrests-unnecessary-fear</link>
-      <guid isPermaLink="false">a23c58e10dd987b26428520546b84a8a245be7fd</guid>
-      <pubDate>Tue, 24 Nov 2026 06:16:28 GMT</pubDate>
-      <description><![CDATA[Massachusetts officials sued the Trump administration over ICE's courthouse arrests without judicial warrants, saying they violate a new state law.]]></description>
+      <title>Orioles agree to $125 million deal with Rays' postseason hero Freddy Peralta in free agency splash: report</title>
+      <link>https://www.foxnews.com/outkick/orioles-agree-125-million-deal-rays-postseason-hero-freddy-peralta-free-agency-splash-report</link>
+      <guid isPermaLink="false">a5eeaa13d408e568af36a5d902b9e7fdf06647f7</guid>
+      <pubDate>Tue, 24 Nov 2026 19:29:39 GMT</pubDate>
+      <description><![CDATA[The Baltimore Orioles and Freddy Peralta reportedly agreed to a five-year, $125 million contract after his postseason success with the Tampa Bay Rays.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>State failing to keep public safe, warns victims' commissioner</title>
-      <link>https://www.bbc.co.uk/news/articles/cr0jx7dw234jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d333e4a1094599a7916631efc805e345ad428844</guid>
-      <pubDate>Tue, 24 Nov 2026 06:02:10 GMT</pubDate>
-      <description><![CDATA[Claire Waxman tells the BBC Andy Burnham needs to put justice in his 10-year plan for government.]]></description>
+      <title>What United Airlines banning AI agents from booking flights means for your travel plans</title>
+      <link>https://www.foxnews.com/tech/united-airlines-banning-ai-agents-booking-flights-means-travel-plans</link>
+      <guid isPermaLink="false">80f040c730799f464ab5acad2f86057da6826d54</guid>
+      <pubDate>Tue, 24 Nov 2026 19:23:40 GMT</pubDate>
+      <description><![CDATA[United Airlines is blocking unauthorized AI travel agents from its booking systems, warning that automated purchases could put MileagePlus miles at risk.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Republican senator's husband dead: 'Our family is heartbroken'</title>
+      <link>https://www.foxnews.com/politics/republican-senators-husband-dead-family-heartbroken</link>
+      <guid isPermaLink="false">33c62a4198dce72c968c3e55dda88a7fc58c220a</guid>
+      <pubDate>Tue, 24 Nov 2026 19:19:19 GMT</pubDate>
+      <description><![CDATA[Sen. Deb Fischer announced her husband, Bruce Fischer, died Nov. 22 while doing what he loved most, spending time outdoors at their Nebraska Sandhills ranch.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Afghan women with UK university offers 'heartbroken' after visas stopped</title>
-      <link>https://www.bbc.co.uk/news/articles/c6vg25e1v17wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">591bca03cfb4772265fbfb245f2e039c29cd4ff4</guid>
-      <pubDate>Tue, 24 Nov 2026 06:00:47 GMT</pubDate>
-      <description><![CDATA[In March this year, the UK Home Office announced an "emergency visa brake" on study visas for applicants from Afghanistan.]]></description>
+      <title>Substance released at Manchester concert could be linked to robberies, police say</title>
+      <link>https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">b3a728cdc7310295717b01abdae57b3683652255</guid>
+      <pubDate>Tue, 24 Nov 2026 19:15:46 GMT</pubDate>
+      <description><![CDATA[Police are investigating a possible link between the Co-op Live evacuation and reported robberies.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>India's 'cockroach' party leader says he was stopped from flying to UK</title>
+      <title>Nigerian monarch, 92, suspended after sexual assault claims</title>
+      <link>https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">619974f6a6eee5aeb0ab5196ab1393b1de660e5a</guid>
+      <pubDate>Tue, 24 Nov 2026 19:10:31 GMT</pubDate>
+      <description><![CDATA[The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US attorney general dodges questions about Nvidia investigation</title>
+      <link>https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ca6bd074c97c660efdfe9ed49a981adf11e58a6a</guid>
+      <pubDate>Tue, 24 Nov 2026 18:55:59 GMT</pubDate>
+      <description><![CDATA[Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Commanders kicker harnessed fear of embarrassing his future kids to nail game-winning field goal</title>
+      <link>https://www.foxnews.com/outkick-sports/commanders-kicker-harnessed-fear-embarrassing-future-kids-nail-game-winning-field-goal</link>
+      <guid isPermaLink="false">4ab0bb4d6e9c410011b52d985a687bac597e2798</guid>
+      <pubDate>Tue, 24 Nov 2026 18:55:50 GMT</pubDate>
+      <description><![CDATA[Rookie Drew Stevens revealed the mental trick behind his 56-yard field goal that stunned the Cincinnati Bengals and lifted the Washington Commanders.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>LET US KNOW! What’s your favorite Thanksgiving dessert — and do you make it or buy it?</title>
+      <link>https://www.foxnews.com/food-drink/let-us-know-whats-your-favorite-thanksgiving-dessert-do-you-make-buy-it</link>
+      <guid isPermaLink="false">976cf9d9dafa370cbc72cb481c86dcd6b0803282</guid>
+      <pubDate>Tue, 24 Nov 2026 18:46:50 GMT</pubDate>
+      <description><![CDATA[]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Illinois hoops sets Big Ten scoring record behind another dominant performance from new two-headed monster</title>
+      <link>https://www.foxnews.com/outkick-sports/illinois-hoops-sets-big-ten-scoring-record-dominant-performance-two-headed-monster</link>
+      <guid isPermaLink="false">02a113595dc86be22fc639aa84ead6581b77447b</guid>
+      <pubDate>Tue, 24 Nov 2026 18:42:01 GMT</pubDate>
+      <description><![CDATA[Illinois leads college basketball at 109.1 points per game as Andrej Stojakovic and Quentin Coleman powered a record 133-point Big Ten outburst.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Vanity Fair writer ignites firestorm fretting 'accountability journalism' failed to take down Jensen Huang</title>
+      <link>https://www.foxnews.com/media/vanity-fair-writer-ignites-firestorm-fretting-accountability-journalism-failed-take-down-jensen-huang</link>
+      <guid isPermaLink="false">3eac24be8da5dd1cceabc2fb3170b291abd69514</guid>
+      <pubDate>Tue, 24 Nov 2026 18:34:41 GMT</pubDate>
+      <description><![CDATA[Vanity Fair's Julia Black faces backlash after saying "accountability journalism" struggles in a culture that "does not care about accountability."]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Where will it rain today as a series of storms will drench the country leading into Thanksgiving</title>
+      <link>https://www.foxweather.com/weather-news/where-rain-today-series-storms-drench-country-leading-thanksgiving-kalshi</link>
+      <guid isPermaLink="false">88f9cad0f74bfdddc833607b0c18f86ed6805d1a</guid>
+      <pubDate>Tue, 24 Nov 2026 18:25:41 GMT</pubDate>
+      <description><![CDATA[As a pattern of storms develops across the East Coast this week, wet weather is expected to begin today across major cities in the region.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Faisal Islam: Fears over the AI boom haven't gone away</title>
+      <link>https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">60789fe36e6f5f11bad612e303c754378df9acd0</guid>
+      <pubDate>Tue, 24 Nov 2026 18:21:43 GMT</pubDate>
+      <description><![CDATA[There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight</title>
       <link>https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">1f9b448a86c6ceea124186251b6df7270dfdde5d</guid>
-      <pubDate>Tue, 24 Nov 2026 05:33:07 GMT</pubDate>
-      <description><![CDATA[Saurav Das said that immigration authorities at Delhi airport told him that his passport had been "flagged".]]></description>
+      <pubDate>Tue, 24 Nov 2026 18:07:46 GMT</pubDate>
+      <description><![CDATA[Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Trump's Nixon-to-China moment: There's an immigration move only he can make</title>
-      <link>https://www.foxnews.com/opinion/trumps-nixon-to-china-moment-immigration-move-only-he-can-make</link>
-      <guid isPermaLink="false">3d9352400380db14cec26b36e8b7041acaf5d2e8</guid>
-      <pubDate>Tue, 24 Nov 2026 05:06:19 GMT</pubDate>
-      <description><![CDATA[President Trump floated immigration on "Saturday in America," and this column argues his pardon power could shield illegal immigrants from deportation.]]></description>
+      <title>Sacked London Pride boss given suspended prison sentence</title>
+      <link>https://www.bbc.co.uk/news/articles/cwr5gvmme9q7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">484a4b31f0ab27da4050a9ad780390f5acd799fd</guid>
+      <pubDate>Tue, 24 Nov 2026 17:58:11 GMT</pubDate>
+      <description><![CDATA[The sentencing brings a long-running legal battle to an end.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Commanders' Jayden Daniels spoils Joe Burrow's night, leads team to game-winning drive vs Bengals</title>
-      <link>https://www.foxnews.com/outkick-sports/commanders-jayden-daniels-spoils-joe-burrow-night-leads-team-game-winning-drive-vs-bengals</link>
-      <guid isPermaLink="false">ffc29087dc9c5b638c65a313aeb72d5ba053558b</guid>
-      <pubDate>Tue, 24 Nov 2026 04:52:16 GMT</pubDate>
-      <description><![CDATA[Jayden Daniels' game-winning drive stunned Joe Burrow and the Cincinnati Bengals, 20-19, on "Monday Night Football" as Drew Stevens drilled the winner.]]></description>
+      <title>Former police chief inspector jailed for rape</title>
+      <link>https://www.bbc.co.uk/news/articles/crjeq7ey7llqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">28b171348ea2ddc848bd420ead92ff5ef629ec24</guid>
+      <pubDate>Tue, 24 Nov 2026 17:27:26 GMT</pubDate>
+      <description><![CDATA[Glen Mahony once worked with Wayne Couzens, who was convicted of the 2021 murder of Sarah Everard.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</title>
-      <link>https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">8183f4f2970ccb3c826705a0628d54a293136a70</guid>
-      <pubDate>Tue, 24 Nov 2026 04:36:31 GMT</pubDate>
-      <description><![CDATA[Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.]]></description>
+      <title>Powerful Thanksgiving storms threaten over 250 million Americans with damaging winds, coastal flooding</title>
+      <link>https://www.foxweather.com/weather-news/storms-coast-to-coast-thanksgiving-americans-forecast</link>
+      <guid isPermaLink="false">495a260ec370197934608ddba1c8f3d1dde1e168</guid>
+      <pubDate>Tue, 24 Nov 2026 17:05:06 GMT</pubDate>
+      <description><![CDATA[Millions from the West Coast to the East Coast are facing significant impacts as storms lash much of the country on and leading up to Thanksgiving with rain, snow, gusty winds and coastal flooding.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>French ex-President Sarkozy and wife Carla Bruni to face trial</title>
+      <link>https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">1e044f2108ab1acc76c017d5493d0fafa45b3c59</guid>
+      <pubDate>Tue, 24 Nov 2026 16:49:07 GMT</pubDate>
+      <description><![CDATA[It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Stadium lights go out during Bengals-Commanders game because vendor forgot about Monday Night Football</title>
-      <link>https://www.foxnews.com/outkick-sports/stadium-lights-go-out-during-bengals-commanders-game-because-vendor-forgot-about-monday-night-football</link>
-      <guid isPermaLink="false">cbc6d0f9597d316727238a5a9a81483cd6c78a5d</guid>
-      <pubDate>Tue, 24 Nov 2026 03:34:58 GMT</pubDate>
-      <description><![CDATA[A power outage darkened Northwest Stadium with 11:59 left in the third quarter as Jayden Daniels and the Commanders faced Joe Burrow's Bengals.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Coast Guard boards 2 foreign ships bound for US amid reports of Iranian hacking probe</title>
-      <link>https://www.foxnews.com/us/coast-guard-boards-2-foreign-ships-bound-us-ports-amid-reports-iran-hacking-probe</link>
-      <guid isPermaLink="false">0818deb171bb964dd8c97fa567a8e6382c596072</guid>
-      <pubDate>Tue, 24 Nov 2026 03:07:21 GMT</pubDate>
-      <description><![CDATA[U.S. Coast Guard cyber teams boarded two foreign vessels in the Gulf of America after their networks were compromised by foreign cyber actors at sea.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Newly elected Florida commissioner's son shot dead inside tent during camping trip</title>
-      <link>https://www.foxnews.com/us/newly-elected-florida-commissioners-son-shot-dead-inside-tent-during-camping-trip</link>
-      <guid isPermaLink="false">be529064ee407459a6dc46d1c3876acc2862d10c</guid>
-      <pubDate>Tue, 24 Nov 2026 02:56:31 GMT</pubDate>
-      <description><![CDATA[Local law enforcement is appealing for tips after a weekend camping trip along the Blackwater River ended in tragedy for a Florida official's family.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Army sergeant pleads guilty to cashing in on US military secrets in China-linked plot, DOJ says</title>
-      <link>https://www.foxnews.com/us/army-sergeant-pleads-guilty-cashing-us-military-secrets-china-linked-plot-doj-says</link>
-      <guid isPermaLink="false">28e368b88c61ca6c35111f22f965ec31fb06ed58</guid>
-      <pubDate>Tue, 24 Nov 2026 02:48:51 GMT</pubDate>
-      <description><![CDATA[Sgt. Jian Zhao faces up to 10 years in prison after pleading guilty to selling national defense information from Joint Base Lewis-McChord, prosecutors say.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nato chief vows defence against space threat after Russian nuclear satellite reports</title>
-      <link>https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">9e8a6a2e3dbf5eabda3022011ecf11057f8d7af6</guid>
-      <pubDate>Tue, 24 Nov 2026 02:15:59 GMT</pubDate>
-      <description><![CDATA[German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.]]></description>
-      <category>world</category>
+      <title>Historic coastal flooding threat looms over San Francisco, West Coast as Thanksgiving travel gets underway</title>
+      <link>https://www.foxweather.com/weather-news/historic-coastal-flooding-threat-looms-over-west-coast-thanksgiving-travel-begins</link>
+      <guid isPermaLink="false">bd573619fa60585ac866a6c05eabb90b1fea1055</guid>
+      <pubDate>Tue, 24 Nov 2026 02:06:33 GMT</pubDate>
+      <description><![CDATA[A potentially historic coastal flooding event is taking shape along the West Coast this Thanksgiving, with some of the greatest concerns centered on the San Francisco Bay Area.]]></description>
+      <category>weather</category>
     </item>
     <item>
       <title>Historic coastal flooding threat looms over West Coast as Thanksgiving travel begins</title>
@@ -381,38 +437,6 @@
       <pubDate>Tue, 24 Nov 2026 02:06:33 GMT</pubDate>
       <description><![CDATA[A potentially historic coastal flooding event is taking shape along the West Coast this Thanksgiving, with some of the greatest concerns centered on the San Francisco Bay Area.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Once again, the College Football Playoff selection committee has an opportunity to fix their mistakes</title>
-      <link>https://www.foxnews.com/outkick-sports/college-football-playoff-selection-committee-opportunity-fix-mistakes</link>
-      <guid isPermaLink="false">f03df054ce42f3e1b4e0a4e64b0acecd3739ec49</guid>
-      <pubDate>Tue, 24 Nov 2026 01:59:38 GMT</pubDate>
-      <description><![CDATA[The College Football Playoff committee faces scrutiny as Alabama's best wins once again lost this weekend while Indiana dropped five spots for the same reason.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>How Nvidia is reacting to Jensen Huang's return as CEO</title>
-      <link>https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5e623a3469edc8e44bad09f89792bea15c38a7d8</guid>
-      <pubDate>Tue, 24 Nov 2026 01:21:41 GMT</pubDate>
-      <description><![CDATA[BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Pip benefits review to suggest quicker payment for some disabled people</title>
-      <link>https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">138b1ed336ea96950a313a50c795f282f801c889</guid>
-      <pubDate>Tue, 24 Nov 2026 00:53:31 GMT</pubDate>
-      <description><![CDATA[The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Chris Mason: Can Burnham turn volume down on EU debate?</title>
-      <link>https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bfd332b35ec02c35619a8cf96854ef8c96062f80</guid>
-      <pubDate>Tue, 24 Nov 2026 00:45:53 GMT</pubDate>
-      <description><![CDATA[The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Major Thanksgiving storm set to slam Northeast with heavy rain and gusty winds, triggering travel disruptions</title>
@@ -501,30 +525,6 @@
       <pubDate>Sat, 21 Nov 2026 21:40:20 GMT</pubDate>
       <description><![CDATA[Super El Niño has ushered in near-record warmth across much of the Central U.S. this fall, but temperatures are finally expected to drop during Thanksgiving week—setting up the rare potential for the Texas Panhandle to see its first flakes ahead of typically snow-laden Denver.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Rare, venomous 'visitors' wash ashore in Southern California as El Niño warms Pacific waters</title>
-      <link>https://www.foxweather.com/weather-news/rare-stinging-jellyfish-appears-along-southern-california-beaches</link>
-      <guid isPermaLink="false">9425c2e31335ffe094f7e9ea86827306d8856c06</guid>
-      <pubDate>Sat, 21 Nov 2026 19:32:59 GMT</pubDate>
-      <description><![CDATA[Southern California is seeing a sudden spike in unusual coastal visitors as warming ocean waters fueled by El Niño push the stinging Portuguese man o' war toward the West Coast]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Texas launches new weapon to combat flash flooding following the devastating Texas Hill Country floods</title>
-      <link>https://www.foxweather.com/weather-news/texas-prediction-system-launches-following-devastating-texas-hill-country-floods</link>
-      <guid isPermaLink="false">d6b5cd0f5e2f5794d0eb2a38d52b6dfcf2798e50</guid>
-      <pubDate>Sat, 21 Nov 2026 19:26:47 GMT</pubDate>
-      <description><![CDATA[Following the deadly July 2025 floods that killed 135 people, Texas Tech is rolling out new radars and weather stations across the Texas Hill Country.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Shaking reported in Australia after magnitude 6.8 earthquake rocks Timor-Leste, Pacific Ring of Fire</title>
-      <link>https://www.foxweather.com/weather-news/timor-leste-pacific-ring-fire-magnitude-6-8-earthquake-shaking-felt-australia</link>
-      <guid isPermaLink="false">133b553e0b535e195363e307838780cd5d2ec19b</guid>
-      <pubDate>Sat, 21 Nov 2026 11:12:50 GMT</pubDate>
-      <description><![CDATA[A magnitude 6.8 earthquake struck the Banda Sea about 65 miles northeast of Timor-Leste in Southeast Asia just after 4:30 a.m. ET (6:30 p.m. local time), according to the USGS.]]></description>
-      <category>southeast</category>
     </item>
   </channel>
 </rss>
