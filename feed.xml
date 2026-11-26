@@ -5,15 +5,7 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:56:57 GMT</lastBuildDate>
-    <item>
-      <title>Norse Atlantic airline suspends all flights, on brink of bankruptcy amid rising fuel costs</title>
-      <link>https://www.foxnews.com/world/norse-atlantic-airlines-suspends-all-flights-brink-bankruptcy-amid-rising-fuel-costs</link>
-      <guid isPermaLink="false">3e7df3c3db37c03e434f2a4effc3e1ef13b73e5c</guid>
-      <pubDate>Thu, 26 Nov 2026 13:56:57 GMT</pubDate>
-      <description><![CDATA[Norse Atlantic suspended all flights as its board warned it may file for bankruptcy without urgent short-term financing, leaving PIA passengers stranded.]]></description>
-      <category>breaking</category>
-    </item>
+    <lastBuildDate>Thu, 26 Nov 2026 00:25:50 GMT</lastBuildDate>
     <item>
       <title>Thanksgiving storm live tracker: Worst impacts, heavy rain, gusty winds, snow and alerts</title>
       <link>https://www.foxweather.com/weather-news/thanksgiving-storm-live-tracker-heavy-rain-gusty-winds-snow</link>
@@ -23,34 +15,18 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Timeline: See when the major East Coast Thanksgiving week storm will impact your area</title>
-      <link>https://www.foxweather.com/weather-news/timeline-major-east-coast-thanksgiving-storm-flood-rain-travel</link>
-      <guid isPermaLink="false">517e1a22405f867b6e48ef8bf599f588409650d2</guid>
-      <pubDate>Tue, 24 Nov 2026 18:38:08 GMT</pubDate>
-      <description><![CDATA[A powerful storm developing off Florida’s Atlantic coast will bring yet another flash flood threat to the Sunshine State before intensifying as it tracks north, threatening travel disruptions and power outages across the coastal Carolinas and Mid-Atlantic on Wednesday before slamming the Northeast on Thanksgiving Day itself.]]></description>
-      <category>breaking</category>
-    </item>
-    <item>
-      <title>Anchorage Weather: Overnight - Mostly Cloudy</title>
-      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
-      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 26 Nov 2026 14:40:08 GMT</pubDate>
-      <description><![CDATA[15°F. Wind N 5 mph. Mostly cloudy, with a low around 15. North wind around 5 mph.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
       <title>Anchorage Weather: Thanksgiving Day - Partly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 26 Nov 2026 14:40:08 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 23:26:41 GMT</pubDate>
       <description><![CDATA[21°F. Wind NE 0 to 5 mph. Partly sunny, with a high near 21. Northeast wind 0 to 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Thursday Night - Light Snow Likely</title>
+      <title>Anchorage Weather: Tonight - Light Snow Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 26 Nov 2026 14:40:08 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 23:26:41 GMT</pubDate>
       <description><![CDATA[21°F. Wind N 5 mph. Snow likely. Cloudy. Low around 21, with temperatures rising to around 27 overnight. North wind around 5 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible.]]></description>
       <category>weather</category>
     </item>
@@ -58,7 +34,7 @@
       <title>Anchorage Weather: Friday - Chance Light Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 26 Nov 2026 14:40:08 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 23:26:41 GMT</pubDate>
       <description><![CDATA[32°F. Wind N 0 to 5 mph. A chance of snow. Cloudy, with a high near 32. North wind 0 to 5 mph. Chance of precipitation is 50%.]]></description>
       <category>weather</category>
     </item>
@@ -66,9 +42,41 @@
       <title>Anchorage Weather: Friday Night - Light Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Thu, 26 Nov 2026 14:40:08 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 23:26:41 GMT</pubDate>
       <description><![CDATA[25°F. Wind E 5 to 10 mph. Snow before 3am. Mostly cloudy, with a low around 25. East wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Anchorage Weather: Saturday - Partly Sunny</title>
+      <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
+      <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
+      <pubDate>Thu, 26 Nov 2026 23:26:41 GMT</pubDate>
+      <description><![CDATA[30°F. Wind E 0 to 5 mph. Partly sunny, with a high near 30. East wind 0 to 5 mph.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Juneau public hearings to target vehicle rental tax and Eaglecrest deficit</title>
+      <link>https://www.juneauempire.com/2026/11/26/juneau-public-hearings-to-target-vehicle-rental-tax-and-eaglecrest-deficit/</link>
+      <guid isPermaLink="false">305864f506d0d0948d173c5a19ead46e3d3c5ef8</guid>
+      <pubDate>Thu, 26 Nov 2026 22:30:00 GMT</pubDate>
+      <description><![CDATA[Dec. 14 hearing will look at proposed 10% tax on vehicle rentals near cruise docks]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Kenai Peninsula school board revisits four-day weeks, consolidation</title>
+      <link>https://www.homernews.com/2026/11/26/kenai-peninsula-school-board-revisits-four-day-weeks-consolidation/</link>
+      <guid isPermaLink="false">ec9dad9d667e200654661eb29a336d3aa6ca0a7b</guid>
+      <pubDate>Thu, 26 Nov 2026 20:30:00 GMT</pubDate>
+      <description><![CDATA[Members seek clearer direction for staff while keeping the public informed]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Golden Girls bills could bring together older and younger roommates</title>
+      <link>https://alaskabeacon.com/2026/11/26/repub/golden-girls-bills-could-bring-together-older-and-younger-roommates/</link>
+      <guid isPermaLink="false">cce1f0b66a151fdc331a51e03b9336012407bfbc</guid>
+      <pubDate>Thu, 26 Nov 2026 14:55:08 GMT</pubDate>
+      <description><![CDATA[Twenty-five-year-old Californian Regnar Madarang wants to own his own home someday. But the Bay Area’s rent of $2,000 and up for a single room wouldn’t allow him to save up for a downpayment, he said. Three months ago, Madarang learned from a friend about the California-based homesharing platform JoeyCo, which connects homeowners with students and […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Classic tuna melt sandwich perfect for a quick bite on a busy day</title>
@@ -319,171 +327,171 @@
       <category>local</category>
     </item>
     <item>
-      <title>Democrats plan investigations of Trump. Here’s how his Justice Department is fighting back.</title>
-      <link>https://alaskabeacon.com/2026/11/24/repub/democrats-plan-investigations-of-trump-heres-how-his-justice-department-is-fighting-back/</link>
-      <guid isPermaLink="false">c836a56b2553e6ebbda77197432f56c83291928c</guid>
-      <pubDate>Tue, 24 Nov 2026 20:02:56 GMT</pubDate>
-      <description><![CDATA[As the Trump administration prepares for Democrats to launch an onslaught of investigations in the next Congress, the U.S. Department of Justice is turning to a three-word phrase to preemptively fight back: “Legitimate legislative purpose.” The Justice Department has sent letters in recent days to leading Democratic lawmakers raising the possibility they’ll face criminal prosecution […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Intervenors in Alaska Senate suit press Appeals Court to affirm lower court decision and impose sanctions</title>
-      <link>https://mustreadalaska.com/intervenors-in-alaska-senate-suit-press-appeals-court-to-affirm-lower-court-decision-and-impose-sanctions/</link>
-      <guid isPermaLink="false">52219d3a55140de138e61996fd97b4b2a14c17d9</guid>
-      <pubDate>Tue, 24 Nov 2026 18:56:08 GMT</pubDate>
-      <description><![CDATA[In United States v State of Alaska, the federal government has asked the Ninth Circuit Court of Appeals to treat its ongoing appeal in a lawsuit about Alaska’s 2026 U.S. Senate election as moot because the election has already happened and been certified. Democrat Mary Peltola won the U.S. Senate race in the first round. […] The post Intervenors in Alaska Senate suit press Appeals Court to affirm lower court decision and impose sanctions appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Pregnant US inmate escapes in prison vehicle after medical appointment</title>
-      <link>https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">e989c48d26a9cc991be5589d5758b26f26cd9696</guid>
-      <pubDate>Thu, 26 Nov 2026 14:35:22 GMT</pubDate>
-      <description><![CDATA[Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.]]></description>
+      <title>UK to pay 'participation' fee to deliver EU deals</title>
+      <link>https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">540b51f49497a58fbf75839941f99bad9bf66627</guid>
+      <pubDate>Thu, 26 Nov 2026 23:17:12 GMT</pubDate>
+      <description><![CDATA[Details of the contribution towards EU running costs have been revealed in new legal documents.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Fanatics Sportsbook Promo Code FOXNEWS: Claim $1000 in FanCash for Today's Thanksgiving NFL Slate</title>
-      <link>https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews-claim-1000-fancash-todays-thanksgiving-nfl-slate</link>
-      <guid isPermaLink="false">83f6cfb902347ba6da1391467501c4fc576b3558</guid>
-      <pubDate>Thu, 26 Nov 2026 14:32:55 GMT</pubDate>
-      <description><![CDATA[Fanatics Sportsbook promo code FOXNEWS gives new users up to $1,000 in FanCash, a 100% bet match up to $100 a day for 10 days, on today's Thanksgiving NFL slate.]]></description>
+      <title>Trademark Dan Campbell fourth-down gamble backfires, opening door to stunning Bears comeback victory</title>
+      <link>https://www.foxnews.com/outkick-sports/trademark-dan-campbell-fourth-down-gamble-backfires-opening-door-stunning-bears-comeback-victory</link>
+      <guid isPermaLink="false">bd4ef755d8454811022effb55df982fffc9726e4</guid>
+      <pubDate>Thu, 26 Nov 2026 23:11:13 GMT</pubDate>
+      <description><![CDATA[Caleb Williams hit Rome Odunze for a six-yard touchdown with three seconds left as the Chicago Bears stole first place in the NFC North from Detroit.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Use Underdog Promo Code FOXNEWS to Unlock Play $10, Get $50 Promo for the Thanksgiving NFL Triple-Header</title>
-      <link>https://www.foxnews.com/outkick-betting/use-underdog-promo-code-foxnews-unlock-play-10-get-50-promo-thanksgiving-nfl-triple-header</link>
-      <guid isPermaLink="false">40801509a0bfd12925619307348e6a0f597d29ff</guid>
-      <pubDate>Thu, 26 Nov 2026 14:27:56 GMT</pubDate>
-      <description><![CDATA[Use Underdog promo code FOXNEWS to unlock the play $10, get $50 promo for the Thanksgiving NFL triple-header, including Bears-Lions and Chiefs-Bills.]]></description>
+      <title>Universities, schools nationwide use Thanksgiving as chance to promote 'Day of Mourning' and decolonization</title>
+      <link>https://www.foxnews.com/politics/universities-schools-nationwide-use-thanksgiving-chance-promote-day-mourning-decolonization</link>
+      <guid isPermaLink="false">8cbcb9fbf2cbf56ef80533d007d2c950c9ab4dcd</guid>
+      <pubDate>Thu, 26 Nov 2026 23:00:47 GMT</pubDate>
+      <description><![CDATA[Campus Thanksgiving events have been reframed as a "National Day of Mourning" for Indigenous remembrance, with Salem State and Pratt citing historical harm.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC</title>
+      <link>https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">15078c8b6a4adf359dffbe2a6c144676ae8e4733</guid>
+      <pubDate>Thu, 26 Nov 2026 22:49:27 GMT</pubDate>
+      <description><![CDATA[Ukraine's president voices frustration with US and says it is "strange" Trump has described Vladimir Putin as a friend.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Watch: Thanksgiving storm inundates coastal towns, crashes trees into homes and upends holiday travel</title>
+      <link>https://www.foxweather.com/weather-news/watch-hectic-holiday-coastal-chaos-travel-thanksgiving</link>
+      <guid isPermaLink="false">2a8218346566bef65c4d99e8c8b2e996b61a03d6</guid>
+      <pubDate>Thu, 26 Nov 2026 22:38:15 GMT</pubDate>
+      <description><![CDATA[A powerful Thanksgiving storm is battering the Eastern Seaboard with heavy rain, damaging winds up to 70 mph and major coastal flooding, forcing historic holiday disruptions and leaving widespread damage in its wake.]]></description>
+      <category>weather</category>
+    </item>
+    <item>
+      <title>Chris Van Hollen gains celebrity donor backing as Fonda, De Niro and more support ditching Schumer in letter</title>
+      <link>https://www.foxnews.com/media/chris-van-hollen-gains-celebrity-donor-backing-fonda-deniro-support-ditching-schumer-letter</link>
+      <guid isPermaLink="false">442ff052170e0b6a0c5b15a0206934653e1d83cf</guid>
+      <pubDate>Thu, 26 Nov 2026 22:34:56 GMT</pubDate>
+      <description><![CDATA[Jane Fonda, Robert De Niro and more celebrities and Democratic donors said they supported Sen. Chris Van Hollen over Chuck Schumer for Senate majority leader.]]></description>
       <category>politics</category>
     </item>
     <item>
-      <title>Shopping with Friends: 8 Black Friday deals to shop now</title>
-      <link>https://www.foxnews.com/deals/shopping-with-friends-black-friday-deals</link>
-      <guid isPermaLink="false">ca16a0109ed8a1a7c18ae0d3d137410e83884154</guid>
-      <pubDate>Thu, 26 Nov 2026 14:17:24 GMT</pubDate>
-      <description><![CDATA[Get Roku TVs, streaming sticks, eKids headphones, Keurig coffee makers and Crock-Pot lunch boxes on sale now for Black Friday, as seen on Shopping with Friends.]]></description>
+      <title>NHS boss warns of 'horrible spike' in flu as hospital admissions surge</title>
+      <link>https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">bed4c6c48e352664842dfdc592b6b78e880b6a34</guid>
+      <pubDate>Thu, 26 Nov 2026 22:06:24 GMT</pubDate>
+      <description><![CDATA[Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>From Starbucks to takeout, Reddit thread exposes how everyday purchases drain your budget</title>
-      <link>https://www.foxnews.com/outkick-culture/starbucks-takeout-reddit-thread-exposes-everyday-purchases-drain-budget</link>
-      <guid isPermaLink="false">3cd361058b542b9e3c117cc939ca8563d862193b</guid>
-      <pubDate>Thu, 26 Nov 2026 14:05:13 GMT</pubDate>
-      <description><![CDATA[Reddit users in their 30s say fast food bills of $400-500 a month and daily morning coffee added up to sums that shocked them when they did the math.]]></description>
-      <category>politics</category>
-    </item>
-    <item>
-      <title>UK net migration at lowest level since 1997 as asylum claims also fall</title>
-      <link>https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">c2d761a05c15b813f7972e49f15ffa0dae6ef9c6</guid>
-      <pubDate>Thu, 26 Nov 2026 14:03:15 GMT</pubDate>
-      <description><![CDATA[Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.]]></description>
+      <title>Zelensky questions 'strange' Trump-Putin friendship in BBC interview</title>
+      <link>https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">2ca7f9718ea892a768b16e8947abd745ad2911c4</guid>
+      <pubDate>Thu, 26 Nov 2026 22:06:20 GMT</pubDate>
+      <description><![CDATA[The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one</title>
+      <title>MAC admits that officials incorrectly cost Kent State touchdown with blown call against Eastern Michigan</title>
+      <link>https://www.foxnews.com/outkick-sports/mac-admits-officials-incorrectly-cost-kent-state-touchdown-blown-call-against-eastern-michigan</link>
+      <guid isPermaLink="false">d7983081c339b2cd6d447594b1d38da16712b392</guid>
+      <pubDate>Thu, 26 Nov 2026 22:06:05 GMT</pubDate>
+      <description><![CDATA[The Mid-American Conference admitted officials erred overturning Kent State's touchdown against Eastern Michigan, citing insufficient video evidence.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one</title>
       <link>https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">f12611ab34368234c88648e80821c8c156822cdb</guid>
-      <pubDate>Thu, 26 Nov 2026 14:00:42 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 22:01:22 GMT</pubDate>
       <description><![CDATA[The possible environmental damage is still being assessed by Spain's sea rescue service.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>'The Vow' star Jace Cates' dad calls contestant 'rigid' as faith tensions flare in the house</title>
-      <link>https://www.foxnews.com/entertainment/the-vow-star-jace-cates-dad-calls-contestant-rigid-faith-tensions-flare-house</link>
-      <guid isPermaLink="false">3c6cdbb1996b2629b68de0a2118502284bf9b51c</guid>
-      <pubDate>Thu, 26 Nov 2026 14:00:13 GMT</pubDate>
-      <description><![CDATA[Jace Cates takes Kylee house-hunting in downtown Austin on "Chris Harrison's The Vow," where the pair share their first kiss and open up about faith.]]></description>
+      <title>‘Charlie Brown’ voice actor received zero residuals for nearly 50 years due to banned ’70s contract</title>
+      <link>https://www.foxnews.com/entertainment/charlie-brown-voice-actor-received-zero-residuals-nearly-50-years-due-banned-70s-contract</link>
+      <guid isPermaLink="false">ec8b8b8f8adcb5ae12e20721df2768316940bf19</guid>
+      <pubDate>Thu, 26 Nov 2026 22:00:42 GMT</pubDate>
+      <description><![CDATA[Todd Barbee, the voice of Charlie Brown in "A Charlie Brown Thanksgiving," says he got no residuals for decades until SAG-AFTRA renegotiated old contracts.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Congo Ebola outbreak reaches 12,000 cases as some responders evacuate</title>
-      <link>https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders</link>
-      <guid isPermaLink="false">f70baf0ffc8a31b94bc3efbc6f0851d97701d9e7</guid>
-      <pubDate>Thu, 26 Nov 2026 13:47:09 GMT</pubDate>
-      <description><![CDATA[As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.]]></description>
+      <title>Aaron Rodgers vs Mike McCarthy: Timeline of beloved Super Bowl duo's descent into baffling NFL soap opera</title>
+      <link>https://www.foxnews.com/outkick-sports/aaron-rodgers-vs-mike-mccarthy-timeline-beloved-super-bowl-duo-descent-baffling-nfl-soap-opera</link>
+      <guid isPermaLink="false">7d270023a3192f9b657fdd45d4b916a986044744</guid>
+      <pubDate>Thu, 26 Nov 2026 21:49:36 GMT</pubDate>
+      <description><![CDATA[Aaron Rodgers accused Mike McCarthy of falling asleep in meetings and missing walkthroughs on "The Pat McAfee Show" before the Steelers released him.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Your holiday shopping data needs a cleanup before Black Friday</title>
-      <link>https://www.foxnews.com/tech/holiday-shopping-data-needs-cleanup-before-black-friday</link>
-      <guid isPermaLink="false">08ba5d0033f310e027fcaa19a78e1713d4bfeec5</guid>
-      <pubDate>Thu, 26 Nov 2026 13:43:19 GMT</pubDate>
-      <description><![CDATA[Data brokers may expose your name, home address and phone number to scammers sending fake USPS delivery texts ahead of the Black Friday shopping rush.]]></description>
+      <title>Two Italians killed in strike in Kuwait, as Iran denies responsibility</title>
+      <link>https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">a5a563c2a3a6d7660b822f3fe3ee2e8278b5f929</guid>
+      <pubDate>Thu, 26 Nov 2026 21:17:53 GMT</pubDate>
+      <description><![CDATA[The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture</title>
-      <link>https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump</link>
-      <guid isPermaLink="false">afd70fe24e551d9f792e089a1800449bc8f08a31</guid>
-      <pubDate>Thu, 26 Nov 2026 13:31:28 GMT</pubDate>
-      <description><![CDATA[Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.]]></description>
+      <title>UK shields fighter jets, contacts reservists in Cold War-scale push amid Russia threat</title>
+      <link>https://www.foxnews.com/world/uk-shields-fighter-jets-contacts-reservists-cold-war-scale-push-amid-russia-threat</link>
+      <guid isPermaLink="false">6621e5a7994ac9728a345e2f3f0239899b6747d4</guid>
+      <pubDate>Thu, 26 Nov 2026 21:14:20 GMT</pubDate>
+      <description><![CDATA[Wes Streeting says the United Kingdom is contacting former service members to update its strategic reserve as Russian sabotage rises across Europe.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>UK reservists contacted as 'threat environment' rises, Streeting says</title>
-      <link>https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">cecdcaadeef82572f300214695488e2e57df974f</guid>
-      <pubDate>Thu, 26 Nov 2026 13:24:22 GMT</pubDate>
-      <description><![CDATA[It comes after reports that reservists have received letters telling them to prepare to be called up for war.]]></description>
+      <title>Trump takes on Somali welfare dependency in Thanksgiving message, lays out who should stay in US</title>
+      <link>https://www.foxnews.com/politics/trump-takes-somali-welfare-dependency-thanksgiving-message-lays-who-should-stay-us</link>
+      <guid isPermaLink="false">5c81734f2a95bb855e85f3109495aeb901d6768b</guid>
+      <pubDate>Thu, 26 Nov 2026 20:58:30 GMT</pubDate>
+      <description><![CDATA[President Donald Trump says only 2% of Minnesota's Somali community should stay, claiming on Truth Social the rest should be thrown out to save the state.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Trump, NATO chief push Russia to avoid any actions that would 'expand the war' with Ukraine</title>
-      <link>https://www.foxnews.com/politics/trump-nato-chief-push-russia-avoid-actions-expand-war-ukraine</link>
-      <guid isPermaLink="false">116a7996194c3a6688381d4f3a86def19e2ae853</guid>
-      <pubDate>Thu, 26 Nov 2026 13:16:51 GMT</pubDate>
-      <description><![CDATA[President Donald Trump and NATO chief Mark Rutte, who met Wednesday night at Mar-a-Lago, urged Russia to avoid actions that might expand the Ukraine war.]]></description>
+      <title>Huw Edwards gives first interviews since child abuse image conviction</title>
+      <link>https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">9d485f5cbe71cc5cc1dd654f1ecdfb1a63fc9fe7</guid>
+      <pubDate>Thu, 26 Nov 2026 20:36:16 GMT</pubDate>
+      <description><![CDATA[Minister Anna Turley said she was "deeply uncomfortable" with the interviews, while Channel 4 has insisted it "holds Edwards to account".]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Parents of potential first Gen Z saint share daughter's powerful final message of hope</title>
-      <link>https://www.foxnews.com/media/parents-potential-first-gen-z-saint-share-daughter-powerful-final-message-hope</link>
-      <guid isPermaLink="false">42135f47449e7f2c44f1a630222958ba135b2a28</guid>
-      <pubDate>Thu, 26 Nov 2026 13:16:33 GMT</pubDate>
-      <description><![CDATA[Maria Middleton's parents recall her words after a terminal brain tumor diagnosis as bishops advance her cause to become the first Gen Z saint.]]></description>
+      <title>Kevin Durant dishes on Steelers coach Mike McCarthy’s alleged ice cream snack habits after making NBA history</title>
+      <link>https://www.foxnews.com/outkick-sports/kevin-durant-dishes-steelers-coach-mike-mccarthy-alleged-ice-cream-snack-habits-making-nba-history</link>
+      <guid isPermaLink="false">1a1b11701af25fe7928fd3c4784576e31ef01a00</guid>
+      <pubDate>Thu, 26 Nov 2026 20:21:29 GMT</pubDate>
+      <description><![CDATA[Aaron Rodgers was released by the Pittsburgh Steelers one day before Thanksgiving after benching and his Mike McCarthy comments on "The Pat McAfee Show."]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Pro wrestling star Dustin Rhodes announces death of 3-year-old grandson</title>
-      <link>https://www.foxnews.com/outkick-sports/pro-wrestling-star-dustin-rhodes-announces-death-3-year-old-grandson</link>
-      <guid isPermaLink="false">6fff89af05afd73eb9b77c0b7d1b254e6734840b</guid>
-      <pubDate>Thu, 26 Nov 2026 13:11:35 GMT</pubDate>
-      <description><![CDATA[Dustin Rhodes announced his 3-year-old grandson Rowan died, as the AEW star and ex-wife Terri Runnels ask fans for prayers and privacy for the family.]]></description>
+      <title>Amon-Ra St Brown kicks off Thanksgiving with ridiculous one-handed grab, stanky leg celebration</title>
+      <link>https://www.foxnews.com/outkick-sports/amon-ra-st-brown-kicks-off-thanksgiving-ridiculous-one-handed-grab-stanky-leg-celebration</link>
+      <guid isPermaLink="false">a0c46d5790da43039492629aebf3f808d9944745</guid>
+      <pubDate>Thu, 26 Nov 2026 20:11:04 GMT</pubDate>
+      <description><![CDATA[Amon-Ra St. Brown hauled in a stunning one-handed catch against the Chicago Bears on Thanksgiving, then hit the stanky leg dance aimed at Ben Johnson.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Tributes for Duran Duran guitarist Andy Taylor after his death aged 65</title>
-      <link>https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">10aa4833139dc22301323dd5af9d1ade31f99644</guid>
-      <pubDate>Thu, 26 Nov 2026 12:33:23 GMT</pubDate>
-      <description><![CDATA[Simon Le Bon and his other bandmates say Taylor "brought an indelible fire and swagger to our music".]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says</title>
-      <link>https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech</link>
-      <guid isPermaLink="false">71f585ef04a977f5f7523b3b53067764b3410e37</guid>
-      <pubDate>Thu, 26 Nov 2026 12:24:29 GMT</pubDate>
-      <description><![CDATA[The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like.]]></description>
+      <title>Watch: Roofs torn off and streets under water as severe weather hits US</title>
+      <link>https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">e0c25974c0f3d27a16cd0f5a76a92f321ed1b006</guid>
+      <pubDate>Thu, 26 Nov 2026 19:26:16 GMT</pubDate>
+      <description><![CDATA[Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Government's antisemitism adviser opens investigation into BBC</title>
-      <link>https://www.bbc.co.uk/news/articles/cw782ml8ndgyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">d288b0ab5ac3ae60f05da7d9b95612d6a81c3caf</guid>
-      <pubDate>Thu, 26 Nov 2026 12:02:58 GMT</pubDate>
-      <description><![CDATA[Lord Mann says he has launched the investigation after "growing discomfort among Jewish BBC staff".]]></description>
+      <title>Huntingdon train attacker found guilty of all 14 counts of attempted murder</title>
+      <link>https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">f78a14923d1aefcfecb4bdefa5d653bb3ca9b374</guid>
+      <pubDate>Thu, 26 Nov 2026 19:00:33 GMT</pubDate>
+      <description><![CDATA[Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Seven injured, four critically, after Bangkok oil refinery explosion</title>
-      <link>https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">184ed2e926754834d4657d9fd70f53e8413a280e</guid>
-      <pubDate>Thu, 26 Nov 2026 11:21:50 GMT</pubDate>
-      <description><![CDATA[Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.]]></description>
+      <title>Drug rape husband says wife 'would have been terrified', court hears</title>
+      <link>https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">70acb9ced489389d3737b3be1bf33732855056cb</guid>
+      <pubDate>Thu, 26 Nov 2026 18:21:59 GMT</pubDate>
+      <description><![CDATA[The husband has told a jury that his wife "would never agree to do any of this".]]></description>
       <category>world</category>
     </item>
     <item>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">ede9bc6f5ecd35df6dc1336f4403d32581fc575a</guid>
       <pubDate>Wed, 25 Nov 2026 17:06:50 GMT</pubDate>
       <description><![CDATA[Thanksgiving Eve is finally upon us as millions of Americans set out to travel for the holidays, but not without the risk of severe weather, as rain is expected to make an impact on Turkey Day.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Dangerous storms threaten to derail Thanksgiving travel as millions hit the roads and skies across US</title>
-      <link>https://www.foxweather.com/weather-news/thanksgiving-travel-storms-disruptions-america</link>
-      <guid isPermaLink="false">5fd9fdbdbc9d700329c9abc796f92e0fe90e012b</guid>
-      <pubDate>Tue, 24 Nov 2026 20:48:26 GMT</pubDate>
-      <description><![CDATA[Storms setting up across America this week are likely to cause some travel delays and cancellations for millions of people trying to get somewhere for Thanksgiving.]]></description>
       <category>weather</category>
     </item>
   </channel>
