@@ -5,7 +5,23 @@
     <link>https://akpulselive.com/</link>
     <description>A custom WEB/RSS feed published by a Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:27:25 GMT</lastBuildDate>
+    <item>
+      <title>Where will it rain this weekend? Shifting storms keep post-Thanksgiving travelers on alert</title>
+      <link>https://www.foxweather.com/weather-news/where-rain-weekend-shifting-storm-thanksgiving-kalshi</link>
+      <guid isPermaLink="false">d1d92e736949bd9794184052a5bd613710c71e47</guid>
+      <pubDate>Fri, 27 Nov 2026 19:27:25 GMT</pubDate>
+      <description><![CDATA[As millions head home after Thanksgiving, lingering East Coast moisture and incoming western systems put Boston, New York, Denver and Los Angeles on rain watch.]]></description>
+      <category>breaking</category>
+    </item>
+    <item>
+      <title>Millions face fresh travel delays as renewed storm threat targets Thanksgiving return rush</title>
+      <link>https://www.foxweather.com/weather-news/after-thanksgiving-storms-holiday-season-kicks-off</link>
+      <guid isPermaLink="false">53f21e0aa5eb30d3a947f31c0be42b7570bd2215</guid>
+      <pubDate>Fri, 27 Nov 2026 19:01:53 GMT</pubDate>
+      <description><![CDATA[A storm system developing in the Rockies and Plains late Saturday into Sunday could bring 60 mph wind gusts and widespread rain from the Mississippi Valley to the East Coast, threatening delays during one of the busiest travel periods of the Thanksgiving holiday.]]></description>
+      <category>breaking</category>
+    </item>
     <item>
       <title>Holiday weekend storm live tracker: Worst impacts, heavy rain, gusty winds, snow and alerts</title>
       <link>https://www.foxweather.com/weather-news/thanksgiving-storm-live-tracker-heavy-rain-gusty-winds-snow</link>
@@ -23,44 +39,84 @@
       <category>breaking</category>
     </item>
     <item>
-      <title>Anchorage Weather: Today - Light Snow Likely</title>
+      <title>Anchorage Weather: This Afternoon - Light Snow Likely</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 27 Nov 2026 17:09:27 GMT</pubDate>
-      <description><![CDATA[32°F. Wind NE 5 to 10 mph. Snow likely. Cloudy, with a high near 32. Northeast wind 5 to 10 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible.]]></description>
+      <pubDate>Sat, 28 Nov 2026 00:59:06 GMT</pubDate>
+      <description><![CDATA[32°F. Wind NE 10 mph. A slight chance of snow before 3pm, then snow likely and freezing rain likely. Cloudy, with a high near 32. Northeast wind around 10 mph. Chance of precipitation is 70%. New snow accumulation of less than half an inch possible.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Tonight - Light Snow</title>
+      <title>Anchorage Weather: Tonight - Snow</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 27 Nov 2026 17:09:27 GMT</pubDate>
-      <description><![CDATA[25°F. Wind S 10 to 15 mph. Snow before 3am. Mostly cloudy. Low around 25, with temperatures rising to around 30 overnight. South wind 10 to 15 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible.]]></description>
+      <pubDate>Sat, 28 Nov 2026 00:59:06 GMT</pubDate>
+      <description><![CDATA[25°F. Wind S 10 to 15 mph. Snow before 3am. Mostly cloudy. Low around 25, with temperatures rising to around 30 overnight. South wind 10 to 15 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible.]]></description>
       <category>weather</category>
     </item>
     <item>
       <title>Anchorage Weather: Saturday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 27 Nov 2026 17:09:27 GMT</pubDate>
-      <description><![CDATA[30°F. Wind E 5 to 10 mph. Mostly sunny, with a high near 30. East wind 5 to 10 mph.]]></description>
+      <pubDate>Sat, 28 Nov 2026 00:59:06 GMT</pubDate>
+      <description><![CDATA[30°F. Wind E 5 to 10 mph. Mostly sunny. High near 30, with temperatures falling to around 25 in the afternoon. East wind 5 to 10 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Saturday Night - Mostly Cloudy</title>
+      <title>Anchorage Weather: Saturday Night - Partly Cloudy</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 27 Nov 2026 17:09:27 GMT</pubDate>
-      <description><![CDATA[19°F. Wind NE 5 mph. Mostly cloudy, with a low around 19. Northeast wind around 5 mph.]]></description>
+      <pubDate>Sat, 28 Nov 2026 00:59:06 GMT</pubDate>
+      <description><![CDATA[18°F. Wind NE 5 mph. Partly cloudy, with a low around 18. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Anchorage Weather: Sunday - Partly Sunny</title>
+      <title>Anchorage Weather: Sunday - Mostly Sunny</title>
       <link>https://forecast.weather.gov/MapClick.php?lat=61.2176&amp;lon=-149.8997</link>
       <guid isPermaLink="false">0bc479eb111808dfc35adc0185e75c3c6244b287</guid>
-      <pubDate>Fri, 27 Nov 2026 17:09:27 GMT</pubDate>
-      <description><![CDATA[25°F. Wind NE 5 mph. Partly sunny, with a high near 25. Northeast wind around 5 mph.]]></description>
+      <pubDate>Sat, 28 Nov 2026 00:59:06 GMT</pubDate>
+      <description><![CDATA[22°F. Wind NE 5 mph. Mostly sunny, with a high near 22. Northeast wind around 5 mph.]]></description>
       <category>weather</category>
+    </item>
+    <item>
+      <title>Homer considers memorial bench program, park and trail upgrades</title>
+      <link>https://www.homernews.com/2026/11/27/homer-considers-memorial-bench-program-park-and-trail-upgrades/</link>
+      <guid isPermaLink="false">5a72475d36fed836d4a8f2b43eb6cca9237f51dc</guid>
+      <pubDate>Sat, 28 Nov 2026 00:26:00 GMT</pubDate>
+      <description><![CDATA[Commissioners seek clarity on sponsorship costs, discuss e-bike restrictions]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Homer council rejects appeal in Bunnell parking records dispute</title>
+      <link>https://www.homernews.com/2026/11/27/homer-council-rejects-appeal-in-bunnell-parking-records-dispute/</link>
+      <guid isPermaLink="false">64c4e8969b6bd1e1d29df1ae4ac4493988a585cf</guid>
+      <pubDate>Fri, 27 Nov 2026 23:30:00 GMT</pubDate>
+      <description><![CDATA[Council sides with city after an initial search found no parking records]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Alaska Gov.-elect Kreiss-Tomkins announces inauguration in hometown of Sitka</title>
+      <link>https://alaskabeacon.com/2026/11/27/alaska-gov-elect-kreiss-tomkins-announces-inauguration-in-hometown-of-sitka/</link>
+      <guid isPermaLink="false">981ceb12aaca8537af1fcfdeffa83a098fc8b805</guid>
+      <pubDate>Fri, 27 Nov 2026 22:49:22 GMT</pubDate>
+      <description><![CDATA[Alaska’s incoming governor, Jonathan Kreiss-Tomkins, and incoming lieutenant governor, Zac Johnson, are scheduled to be sworn into office the morning of Monday, Dec. 7 in Sitka, with inauguration events continuing in Juneau. The public is invited to attend in person or view the inauguration by livestream. The swearing-in ceremony is scheduled for 11:30 a.m. at […]]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>Group of Homer-area voters seek recount after 59-vote difference in election</title>
+      <link>https://www.homernews.com/2026/11/27/group-of-homer-area-voters-seek-recount-after-59-vote-difference-in-election/</link>
+      <guid isPermaLink="false">816733dc150f5d3415cc9653a7c2491311d1c55f</guid>
+      <pubDate>Fri, 27 Nov 2026 20:43:00 GMT</pubDate>
+      <description><![CDATA[Voter-led effort seeks hand count of ballots in Johnson’s victory over Vance]]></description>
+      <category>local</category>
+    </item>
+    <item>
+      <title>New app consolidates Alaska tsunami hazard and preparation information</title>
+      <link>https://alaskabeacon.com/2026/11/27/new-app-consolidates-alaska-tsunami-hazard-and-preparation-information/</link>
+      <guid isPermaLink="false">26b7dc459748b61905a4652e9fb34a81927ef212</guid>
+      <pubDate>Fri, 27 Nov 2026 20:25:11 GMT</pubDate>
+      <description><![CDATA[Around Alaska, which hugs the shifting and rumbling geological zone known as the Pacific Rim of Fire, tsunamis are ever-present risks in coastal communities. Now the Alaska Earthquake Center at the University of Alaska Fairbanks has gathered the latest available tsunami risk and mitigation information into a single source. The Tsunami Map App, which is […]]]></description>
+      <category>local</category>
     </item>
     <item>
       <title>Gov.-elect Kreiss-Tomkins was a Wikipedia power user</title>
@@ -247,172 +303,180 @@
       <category>local</category>
     </item>
     <item>
-      <title>US Supreme Court to weigh bans on AR-15s, similar guns in big Second Amendment case</title>
-      <link>https://alaskabeacon.com/2026/11/25/repub/us-supreme-court-to-weigh-bans-on-ar-15s-similar-guns-in-big-second-amendment-case/</link>
-      <guid isPermaLink="false">6cda66f7a832cdec7c8b9d8b878ae56aed8ae4ef</guid>
-      <pubDate>Wed, 25 Nov 2026 19:45:33 GMT</pubDate>
-      <description><![CDATA[After a man used a semiautomatic rifle to kill five children and wound dozens of others at a California elementary school in 1989, officials in sprawling Cook County, Illinois, banned what they called assault weapons — certain firearms such as the AK-47 and AR-15. Decades later, the U.S. Supreme Court is set to decide whether […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Turkey production bounces back but prices still rise</title>
-      <link>https://alaskabeacon.com/2026/11/25/repub/turkey-production-bounces-back-but-prices-still-rise/</link>
-      <guid isPermaLink="false">1659aadb1dcc9dd9f4d927cfc44f1dcc4e92073a</guid>
-      <pubDate>Wed, 25 Nov 2026 18:31:21 GMT</pubDate>
-      <description><![CDATA[Turkey production for Thanksgiving has increased this year for the first time since avian diseases reduced supplies for years, but prices still rose as labor shortages created bottlenecks, according to federal reports. Turkey farmers, like other livestock producers, say they need more foreign workers as immigration crackdowns and the ending of protected status for many […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>JKT-Johnson inaugural ceremony to be held in Sitka with inaugural celebrations in Juneau</title>
-      <link>https://mustreadalaska.com/jkt-johnson-inaugural-ceremony-to-be-held-in-sitka-with-inaugural-celebrations-in-juneau/</link>
-      <guid isPermaLink="false">5d94c0c2b613572bfd90b4888d6034c1f26b4915</guid>
-      <pubDate>Wed, 25 Nov 2026 18:24:55 GMT</pubDate>
-      <description><![CDATA[The JKT transition team has announced that the swearing-in ceremony and inauguration celebration for Governor-elect Jonathan Kreiss-Tomkins and Lieutenant Governor-elect Zac Johnson will be held on December 7 in Sitka (11:30 AM) and Juneau (6:30 PM). The inauguration ceremony will be held in Sitka, the governor-elect’s hometown and home of 35 years as well as […] The post JKT-Johnson inaugural ceremony to be held in Sitka with inaugural celebrations in Juneau appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Mission Alaska: A documentary of the Dominicans serving rural Alaska</title>
-      <link>https://mustreadalaska.com/mission-alaska-a-documentary-of-the-dominicans-serving-rural-alaska/</link>
-      <guid isPermaLink="false">2e6acbf9d916c44fc87feed966a269d6fcbc695b</guid>
-      <pubDate>Wed, 25 Nov 2026 17:45:48 GMT</pubDate>
-      <description><![CDATA[Stepping into the Theater at the Bear Tooth, excitement was growing. You could feel it in the air. Friends who had not seen each other for a while were getting reacquainted, Dominican Friars all about, priests from Fairbanks, and crew members alike. This was going to be a night to remember. The faithful were gathering […] The post Mission Alaska: A documentary of the Dominicans serving rural Alaska appeared first on Must Read Alaska .]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska wildlife disease discoveries show new risks for people</title>
-      <link>https://alaskabeacon.com/2026/11/25/alaska-wildlife-disease-discoveries-show-new-risks-for-people/</link>
-      <guid isPermaLink="false">47e97ba03accd781fbaeb2cf0f15a40bdbf7fdce</guid>
-      <pubDate>Wed, 25 Nov 2026 14:45:00 GMT</pubDate>
-      <description><![CDATA[When a woman showed up at his Fairbanks clinic in 2015 with what she thought was a spider bite, accompanied by hard-to-pin-down illness symptoms, Dr. Zachary Werle suspected the ailment was something highly unusual. He was right. A sample he sent to the state virology lab, then forwarded to the U.S. Centers for Disease Control […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Alaska Federation of Natives Congratulates Mary Peltola on Historic U.S. Senate Victory</title>
-      <link>https://alaska-native-news.com/alaska-federation-of-natives-congratulates-mary-peltola-on-historic-u-s-senate-victory/87249/</link>
-      <guid isPermaLink="false">9fee46e7f9f43bd686a9d44f3a0a9f8d03ceef1a</guid>
-      <pubDate>Wed, 25 Nov 2026 14:06:29 GMT</pubDate>
-      <description><![CDATA[ANCHORAGE, ALASKA – The Alaska Federation of Natives (AFN) congratulates Mary Peltola on her election to the United States Senate, marking a historic milestone for Alaska and Alaska Native representation at the national level. Peltola’s election represents a significant moment in our state’s history. As the first Alaska Native elected to the U.S. Senate, her […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Sullivan, Senate Pass Historic Permitting Reform Package</title>
-      <link>https://alaska-native-news.com/sullivan-senate-pass-historic-permitting-reform-package/87244/</link>
-      <guid isPermaLink="false">768892b8f4717de8ac14897e638079124e05a5c9</guid>
-      <pubDate>Wed, 25 Nov 2026 14:05:48 GMT</pubDate>
-      <description><![CDATA[WASHINGTON—U.S. Senator Dan Sullivan (R-Alaska) voted kast week with 61 of his Senate colleagues to pass the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA), comprehensive permitting reform legislation that includes numerous policy priorities that Sen. Sullivan has championed over the years. The legislation is focused on streamlining federal permitting timelines and processes, preventing the abuse of […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Learning from the land at Yuuyararta Science Camp</title>
-      <link>https://alaska-native-news.com/learning-from-the-land-at-yuuyararta-science-camp/87246/</link>
-      <guid isPermaLink="false">fc99ce5b30389d12d63c940db0093ac112fb1754</guid>
-      <pubDate>Wed, 25 Nov 2026 14:03:34 GMT</pubDate>
-      <description><![CDATA[For the group of students and young adults attending Yuuyararta Science Camp, their classroom was as high as a hillside and as wide as a lake. At the camp, held in late August at a remote site near the village of Kokhanok on Lake Iliamna, a group of campers and counselors from Bristol Bay picked […]]]></description>
-      <category>local</category>
-    </item>
-    <item>
-      <title>Body found in woodland confirmed as missing Kelsey Hunter</title>
-      <link>https://www.bbc.co.uk/news/articles/cqx2e315rz00o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">3153bfa0580469bdb135bd1f62679e6ec397a1be</guid>
-      <pubDate>Fri, 27 Nov 2026 17:03:03 GMT</pubDate>
-      <description><![CDATA[Kelsey Hunter's body was found in a wooded area near the village of Springholm where she lived.]]></description>
+      <title>'Poison seller' Kenneth Law apologises in court to the families of his victims</title>
+      <link>https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">013919c6873ef4f432b933f016b82b5cf54a3b4d</guid>
+      <pubDate>Sat, 28 Nov 2026 00:56:55 GMT</pubDate>
+      <description><![CDATA[The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Canada's top court largely upholds Quebec ban on religious symbols for public servants</title>
-      <link>https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">a416b5c8c5846b40fed09aed15924ba7758f9c22</guid>
-      <pubDate>Fri, 27 Nov 2026 16:53:46 GMT</pubDate>
-      <description><![CDATA[The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.]]></description>
+      <title>Steelers silence the Aaron Rodgers noise, cruise past Broncos to remain perfect at home on Black Friday</title>
+      <link>https://www.foxnews.com/outkick-sports/steelers-silence-aaron-rodgers-noise-cruise-past-broncos-remain-perfect-home-black-friday</link>
+      <guid isPermaLink="false">95a14bb2b4ad08f81a759e72295f2c2bb77a551b</guid>
+      <pubDate>Sat, 28 Nov 2026 00:26:51 GMT</pubDate>
+      <description><![CDATA[T.J. Watt and Jalen Ramsey turned Bo Nix mistakes into touchdowns as the Pittsburgh Steelers snapped Denver's six-game winning streak in the rain.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>AEW star Gabe Kidd spends Thanksgiving at random fan's house after being stuck in Nebraska</title>
-      <link>https://www.foxnews.com/outkick-sports/aew-star-gabe-kidd-spends-thanksgiving-random-fans-house-stuck-nebraska</link>
-      <guid isPermaLink="false">06c325da876f8bcf8e5528979b8b2a9badfbdecf</guid>
-      <pubDate>Fri, 27 Nov 2026 16:47:51 GMT</pubDate>
-      <description><![CDATA[AEW star Gabe Kidd missed his flight and got stranded in Omaha for Thanksgiving, until a fan invited him to grandma's house for collard greens and yams.]]></description>
+      <title>Mamdani handed out $95K in staff raises the same day he warned of $12B budget deficit: report</title>
+      <link>https://www.foxnews.com/politics/mamdani-handed-95k-staff-raises-same-day-warned-12b-budget-deficit-report</link>
+      <guid isPermaLink="false">8ba5fd177227940021621eb5eaef35e84db0734e</guid>
+      <pubDate>Sat, 28 Nov 2026 00:23:58 GMT</pubDate>
+      <description><![CDATA[New York City Mayor Zohran Mamdani approved $850,000 in raises for City Hall aides in his first year, according to payroll records reviewed by the New York Post.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Police look for more than 100 gig-goers to help Co-op Live probe</title>
-      <link>https://www.bbc.co.uk/news/articles/c8wy5vnpggnpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">ea689b290cc5f8645badc4697f57b20dd6c0817d</guid>
-      <pubDate>Fri, 27 Nov 2026 16:40:22 GMT</pubDate>
-      <description><![CDATA[Rap fans say people were "choking" and "coughing up blood" towards the end of Don Toliver's gig.]]></description>
+      <title>Jermaine Haley, WWE star known as Bronson Reed, dead at 38</title>
+      <link>https://www.foxnews.com/outkick-sports/jermaine-haley-wwe-star-known-bronson-reed-dead-38</link>
+      <guid isPermaLink="false">80a8ce6b112d631c19e05afef2ce4e52a3bd8f61</guid>
+      <pubDate>Sat, 28 Nov 2026 00:20:01 GMT</pubDate>
+      <description><![CDATA[Jermaine Haley, the WWE star known as Bronson Reed, has died at 38, the company said in a statement on Friday. The company said he died due to "medical complications."]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Convicted killer who tortured teen to death complains about prison conditions after botched execution</title>
-      <link>https://www.foxnews.com/us/convicted-killer-tortured-teen-death-complains-prison-conditions-botched-execution</link>
-      <guid isPermaLink="false">4878642204a73de8e0d9fffcb31c92a1c1129cdc</guid>
-      <pubDate>Fri, 27 Nov 2026 16:38:45 GMT</pubDate>
-      <description><![CDATA[Christa Pike's lawyers claim Tennessee prison officials are restricting her access to mental health experts after her botched Sept. 30 execution.]]></description>
+      <title>Justin Herbert ruled out against Patriots as DJ Uiagalelei gets first career start for Chargers</title>
+      <link>https://www.foxnews.com/outkick-sports/justin-herbert-ruled-out-patriots-dj-uiagalelei-first-career-start-chargers</link>
+      <guid isPermaLink="false">c4a938e4a9e24d1eea3912fa74f34e2f9390463d</guid>
+      <pubDate>Sat, 28 Nov 2026 00:15:17 GMT</pubDate>
+      <description><![CDATA[Justin Herbert lands in concussion protocol as the 1-9 Los Angeles Chargers turn to DJ Uiagalelei for his first career start against the Patriots.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Murdered college student's parents fume over accused killer's request for 'special pillow' in jail</title>
-      <link>https://www.foxnews.com/us/murdered-college-student-parents-fume-accused-killer-request-special-pillow-jail</link>
-      <guid isPermaLink="false">b49358eefd93a06b90b9c3c8cb6152dea1894da7</guid>
-      <pubDate>Fri, 27 Nov 2026 16:28:11 GMT</pubDate>
-      <description><![CDATA[Sheridan Gorman's parents blast the accused killer's jail request for a special pillow, as Venezuelan illegal immigrant faces murder charges in Chicago.]]></description>
+      <title>5 affordable sleep gifts designed to block noise and light for better rest</title>
+      <link>https://www.foxnews.com/health/5-affordable-sleep-gifts-designed-block-noise-light-better-rest</link>
+      <guid isPermaLink="false">86b761fa638b34b106a44ed9b1ac9d82be9d8877</guid>
+      <pubDate>Sat, 28 Nov 2026 00:03:21 GMT</pubDate>
+      <description><![CDATA[Experts from the Cleveland Clinic say bedroom upgrades like sunrise alarms and earplugs can help the 30% of adults with insomnia symptoms.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Americans eyeing dream vacation trip warned that rescue crews could take days to reach them</title>
-      <link>https://www.foxnews.com/travel/americans-eyeing-dream-vacation-trip-warned-rescue-crews-could-take-days-reach-them</link>
-      <guid isPermaLink="false">da4e2ab0c1e3a6bfcfd1585557bebda4a28f1128</guid>
-      <pubDate>Fri, 27 Nov 2026 16:20:29 GMT</pubDate>
-      <description><![CDATA[The U.S. State Department has reissued its Greenland travel advisory, citing extreme weather and limited emergency services for Americans in the remote Arctic territory.]]></description>
+      <title>Mexican President Claudia Sheinbaum protests new DEA tip line for reporting criminals, corrupt officials</title>
+      <link>https://www.foxnews.com/us/mexico-president-claudia-sheinbaum-protests-new-dea-tip-line-reporting-criminals-corrupt-officials</link>
+      <guid isPermaLink="false">fa9482c530d179c0a80e0f2b10c44e62686da7c2</guid>
+      <pubDate>Fri, 27 Nov 2026 23:31:45 GMT</pubDate>
+      <description><![CDATA[Mexican President Claudia Sheinbaum said Mexico filed a formal complaint over the DEA tip line that lets anonymous callers report cartel operatives.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Blue Jays to sign former Yankees All-Star Jazz Chisholm Jr to $20 million contract: report</title>
+      <link>https://www.foxnews.com/outkick-sports/blue-jays-sign-former-yankees-all-star-jazz-chisholm-jr-20-million-contract-report</link>
+      <guid isPermaLink="false">e23d423e7c664fcc808fd4d4cbce549da0931fb1</guid>
+      <pubDate>Fri, 27 Nov 2026 23:30:42 GMT</pubDate>
+      <description><![CDATA[Jazz Chisholm Jr. is reportedly headed to the Toronto Blue Jays on a one-year, $20 million deal with a 2028 player option after his stint with the New York Yankees.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Black Friday delivers some of the year's lowest prices</title>
+      <link>https://www.foxnews.com/deals/black-friday-sales</link>
+      <guid isPermaLink="false">4f81d115d2789cbd1543ed73644d5ade507d34ef</guid>
+      <pubDate>Fri, 27 Nov 2026 23:30:03 GMT</pubDate>
+      <description><![CDATA[The best Black Friday sales include well-known brands like Dyson, Apple, Levi's and DeWalt, at some of the best prices we've seen all year.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>iRestore Black Friday deals cut prices on FDA-cleared hair loss helmets and LED skin care masks</title>
+      <link>https://www.foxnews.com/deals/irestore-black-friday-deal</link>
+      <guid isPermaLink="false">3406890511a8cf6bc058c9d09adeba11bb759dee</guid>
+      <pubDate>Fri, 27 Nov 2026 23:06:41 GMT</pubDate>
+      <description><![CDATA[iRestore's Black Friday sale cuts up to 58% off LED face masks and hair growth helmets, with savings of up to $470 on select light therapy devices.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>100th Macy’s Thanksgiving Day Parade cleared for Saturday morning after historic weather-related postponement</title>
+      <link>https://www.foxweather.com/weather-news/historic-100th-macys-thanksgiving-day-parade-cleared-takeoff-saturday-after-thursdays-noreaster-groundi</link>
+      <guid isPermaLink="false">1e89c5041a623a431cd56c9ad0fa4b4fdbcf2d37</guid>
+      <pubDate>Fri, 27 Nov 2026 23:06:12 GMT</pubDate>
+      <description><![CDATA[After a historic Thanksgiving storm forced the rare weather postponement of the 100th Macy's Thanksgiving Day Parade, dry conditions and lighter winds are expected to give the iconic giant balloons the green light across New York City on Saturday.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Kenyan doomsday cult leader convicted over further 123 deaths</title>
-      <link>https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5ffdbf1d63d59dc0497240b6740f28965c1e257a</guid>
-      <pubDate>Fri, 27 Nov 2026 16:06:37 GMT</pubDate>
-      <description><![CDATA[Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.]]></description>
+      <title>Low levels of common vitamin could be stealing nearly 30 minutes of your sleep</title>
+      <link>https://www.foxnews.com/health/low-levels-common-vitamin-stealing-30-minutes-sleep</link>
+      <guid isPermaLink="false">3b9e00da4a3e035c434463ebe7ceea3103899192</guid>
+      <pubDate>Fri, 27 Nov 2026 23:06:05 GMT</pubDate>
+      <description><![CDATA[Low vitamin D blood levels were linked to about 23 minutes less sleep per night in a new study of adults 40 and older that used wearable sensors.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Brazil pushes back on Macron calling its meat 'doped'</title>
-      <link>https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">bb90cdb4ff7f346d6f61d7d0902b92cbb962b0ec</guid>
-      <pubDate>Fri, 27 Nov 2026 15:54:15 GMT</pubDate>
-      <description><![CDATA[France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.]]></description>
+      <title>Catherine's emotional cancer documentary strips away the stiff upper lip</title>
+      <link>https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">40c01b0fa8ecb91c5e259b52d21e310a311d1dd6</guid>
+      <pubDate>Fri, 27 Nov 2026 22:03:22 GMT</pubDate>
+      <description><![CDATA[The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>Tom Brady and Terry Bradshaw roast Aaron Rodgers for McCarthy breakup; both feuded with their coaches</title>
-      <link>https://www.foxnews.com/outkick-sports/tom-brady-terry-bradshaw-roast-aaron-rodgers-mccarthy-breakup-overlook-public-coach-feuds</link>
-      <guid isPermaLink="false">fa5c82114780506f49ebc7c9a0a0e707787b8d76</guid>
-      <pubDate>Fri, 27 Nov 2026 15:44:17 GMT</pubDate>
-      <description><![CDATA[Tom Brady and Terry Bradshaw blasted Aaron Rodgers over his Mike McCarthy criticism, but the NFL analysts' own coach feuds tell a similar tale.]]></description>
+      <title>Spanish PM and rivals rally supporters in final pitch for votes</title>
+      <link>https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">4571de9aa2a87e32ff9e57c24517bcbbc705df5d</guid>
+      <pubDate>Fri, 27 Nov 2026 21:55:53 GMT</pubDate>
+      <description><![CDATA[Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of "betrayal".]]></description>
       <category>world</category>
     </item>
     <item>
-      <title>John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in</title>
-      <link>https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">5e6bff05103609fc1a75c60f1b0f424ee78d858d</guid>
-      <pubDate>Fri, 27 Nov 2026 15:18:51 GMT</pubDate>
-      <description><![CDATA[Ukraine settles in for another devastating winter as the questions persists: how will it all end?]]></description>
+      <title>Charity founded in Captain Tom's name bids to be struck off</title>
+      <link>https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">76beb6d3bfd3b1cfa6836545c61c67d4fbbdae64</guid>
+      <pubDate>Fri, 27 Nov 2026 21:26:30 GMT</pubDate>
+      <description><![CDATA[The charity is now known as the 1189808 Foundation, having dropped the late fundraiser's name.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Millions lose access to benefits and pensions services after 'cyber incident'</title>
+      <link>https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">8e05e0262ad5e0d6abd9cb89b14115c4132d2e96</guid>
+      <pubDate>Fri, 27 Nov 2026 20:42:44 GMT</pubDate>
+      <description><![CDATA[The Department for Work and Pensions says some of its services were taken offline as a precaution.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza</title>
+      <link>https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">6b38497d46887d58088761a761fe2a1cf03b9e35</guid>
+      <pubDate>Fri, 27 Nov 2026 20:34:45 GMT</pubDate>
+      <description><![CDATA[There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Another round of storms target the West with heavy rain and snow, threatening to cause travel chaos</title>
+      <link>https://www.foxweather.com/weather-news/pacific-northwest-storm-snow-rain-mountains-forecast</link>
+      <guid isPermaLink="false">11da17aa9255a892d0ddd72e9f79049bc5f99dc8</guid>
+      <pubDate>Fri, 27 Nov 2026 20:07:04 GMT</pubDate>
+      <description><![CDATA[The Pacific Northwest has had very few opportunities to dry out over the last several weeks, as relentless storms blast the region with another round on the way.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Marching bands scramble to cover costs after Thanksgiving parade rearranged</title>
+      <title>'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged</title>
       <link>https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">4d345bd13c7ea574a2711f2c8673732572dc37da</guid>
-      <pubDate>Fri, 27 Nov 2026 15:15:19 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 20:06:31 GMT</pubDate>
       <description><![CDATA[Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.]]></description>
       <category>weather</category>
     </item>
     <item>
-      <title>Ugly fan fights break out at Thanksgiving NFL games just like old Black Friday brawls, Milton goes off &amp; food!</title>
-      <link>https://www.foxnews.com/outkick-sports/ugly-fan-fights-break-out-thanksgiving-nfl-games-like-old-black-friday-brawls-milton-goes-off-food</link>
-      <guid isPermaLink="false">38f1d18a7f7f8d69c99fb0fc0d0759b3b30a2890</guid>
-      <pubDate>Fri, 27 Nov 2026 15:12:19 GMT</pubDate>
-      <description><![CDATA[Brittany Mahomes is crying about the refs again after the Chiefs' loss to the Bills, and Screencaps readers pile on with takes from Rodgers to stuffing.]]></description>
-      <category>politics</category>
+      <title>New satellite data shows how fast some African cities are sinking</title>
+      <link>https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">ddfeae31eb99e20e29099c3222d5fc8b369e88a0</guid>
+      <pubDate>Fri, 27 Nov 2026 19:03:18 GMT</pubDate>
+      <description><![CDATA[Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Weary of war but with no sign of backing down, Kyiv faces another punishing winter</title>
+      <link>https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">5e6bff05103609fc1a75c60f1b0f424ee78d858d</guid>
+      <pubDate>Fri, 27 Nov 2026 18:42:50 GMT</pubDate>
+      <description><![CDATA[Ukraine settles in for another devastating winter as the questions persists: how will it all end?]]></description>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Zelensky criticises 'strange' Trump-Putin friendship in BBC interview</title>
+      <link>https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">15078c8b6a4adf359dffbe2a6c144676ae8e4733</guid>
+      <pubDate>Fri, 27 Nov 2026 18:00:40 GMT</pubDate>
+      <description><![CDATA[Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.]]></description>
+      <category>world</category>
     </item>
     <item>
       <title>Historic Thanksgiving storms leave lingering threats for millions into the weekend</title>
@@ -421,62 +485,6 @@
       <pubDate>Fri, 27 Nov 2026 15:02:50 GMT</pubDate>
       <description><![CDATA[After a historic stormy Thanksgiving, things are starting to settle down in the Mid-Atlantic and Northeast as storms push their way out of the U.S. on Friday.]]></description>
       <category>weather</category>
-    </item>
-    <item>
-      <title>Bob Newhart faced $6M lawsuit threat after trying to quit hit sitcom: book</title>
-      <link>https://www.foxnews.com/entertainment/bob-newhart-faced-6m-lawsuit-threat-after-trying-quit-hit-sitcom-book</link>
-      <guid isPermaLink="false">5facb7cbd5651ddc085d95a7b52c9716372d6ab3</guid>
-      <pubDate>Fri, 27 Nov 2026 15:00:14 GMT</pubDate>
-      <description><![CDATA[CBS threatened Bob Newhart with a $6 million lawsuit when he tried to quit "The Bob Newhart Show" before its sixth season, a new biography reveals.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>'We have no interest in hearing from Huw Edwards', Downing Street says</title>
-      <link>https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">38d2e44af6ec2ccc1e6d9947d3b93aef8494d8f6</guid>
-      <pubDate>Fri, 27 Nov 2026 14:33:10 GMT</pubDate>
-      <description><![CDATA[There has been a backlash against new interviews with the disgraced former BBC News presenter.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Nature video captures elk fending off two wolves in a dramatic animal fight caught on camera</title>
-      <link>https://www.foxnews.com/outkick-culture/nature-video-captures-elk-fending-off-two-wolves-dramatic-animal-fight-caught-camera</link>
-      <guid isPermaLink="false">7b6f768bd29430aee00f8aa6a8f1ecf3b9001018</guid>
-      <pubDate>Fri, 27 Nov 2026 14:32:30 GMT</pubDate>
-      <description><![CDATA[Wildlife footage shows a massive elk fending off two wolves, jacking up one with its antlers in a stunning display of raw power in the animal kingdom.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>US pilot tells Trump which fighter jet is ‘world’s greatest’ during Thanksgiving phone call</title>
-      <link>https://www.foxnews.com/politics/us-pilot-tells-trump-which-fighter-jet-worlds-greatest-thanksgiving-phone-call</link>
-      <guid isPermaLink="false">badbf03918fa31ff881e6cc69abd53d9acb20eed</guid>
-      <pubDate>Fri, 27 Nov 2026 14:25:40 GMT</pubDate>
-      <description><![CDATA[An F-16 pilot told President Donald Trump the jet is the "world's greatest" during a Thanksgiving call, saying "you couldn't pay me to switch airplanes."]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>George Kittle 'really should be a part of' WWE when he done in the NFL, 49ers star says</title>
-      <link>https://www.foxnews.com/outkick-sports/george-kittle-really-should-be-part-wwe-done-nfl-49ers-star-says</link>
-      <guid isPermaLink="false">78424620e80196b4c9ed13725e5e8ea613ece950</guid>
-      <pubDate>Fri, 27 Nov 2026 14:14:01 GMT</pubDate>
-      <description><![CDATA[George Kittle hit Penta's "Cero Miedo" celebration after his first touchdown in Mexico City, and Kyle Juszczyk says he should join WWE after football.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Rare turtles found inside baggage at Amsterdam airport</title>
-      <link>https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">b751f41a1b2553aa641a8e031bc7506b85cc9b67</guid>
-      <pubDate>Fri, 27 Nov 2026 13:38:07 GMT</pubDate>
-      <description><![CDATA[The endangered reptiles were bound with duct tape to prevent them moving, officials say.]]></description>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Catherine joins cancer support group in new documentary</title>
-      <link>https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">0b7e2196edc49e57aea21ad9b7c8427de391e9ee</guid>
-      <pubDate>Fri, 27 Nov 2026 12:11:22 GMT</pubDate>
-      <description><![CDATA[The documentary features her personal thoughts on her illness and recovery, following her cancer diagnosis.]]></description>
-      <category>world</category>
     </item>
     <item>
       <title>Watch: Thanksgiving storm inundates coastal towns, crashes trees into homes and upends holiday travel</title>
@@ -516,14 +524,6 @@
       <guid isPermaLink="false">d3d899bf59c9607328774dbd4811b003ffb25a44</guid>
       <pubDate>Wed, 25 Nov 2026 21:41:28 GMT</pubDate>
       <description><![CDATA[The 100th annual Macy's Thanksgiving Day Parade in New York City has been postponed until Saturday for the first time ever due to severe weather.]]></description>
-      <category>weather</category>
-    </item>
-    <item>
-      <title>Thanksgiving storm to bring heavy rain, gusty winds to Southeast before charging up East Coast</title>
-      <link>https://www.foxweather.com/weather-news/rain-chances-thanksgiving-heavy-rain-wind-kalshi</link>
-      <guid isPermaLink="false">ede9bc6f5ecd35df6dc1336f4403d32581fc575a</guid>
-      <pubDate>Wed, 25 Nov 2026 17:06:50 GMT</pubDate>
-      <description><![CDATA[Thanksgiving Eve is finally upon us as millions of Americans set out to travel for the holidays, but not without the risk of severe weather, as rain is expected to make an impact on Turkey Day.]]></description>
       <category>weather</category>
     </item>
   </channel>
